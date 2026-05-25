@@ -43,6 +43,8 @@ const waytoagiListEl = document.getElementById("waytoagiList");
 const waytoagiTodayBtnEl = document.getElementById("waytoagiTodayBtn");
 const waytoagi7dBtnEl = document.getElementById("waytoagi7dBtn");
 const coverageStripEl = document.getElementById("coverageStrip");
+const bolePicksListEl = document.getElementById("bolePicksList");
+const bolePicksMetaEl = document.getElementById("bolePicksMeta");
 
 const SOURCE_KINDS = {
   official_ai: { label: "官方", tone: "official" },
@@ -157,7 +159,7 @@ function renderCoverageStrip(errorMessage = "") {
   const cards = [
     ["源健康", totalSites ? `${fmtNumber(okSites)}/${fmtNumber(totalSites)}` : "加载中", failedSites.length ? `${fmtNumber(failedSites.length)} 个失败源` : (errorMessage || "内置源正常"), failedSites.length ? "warn" : "ok"],
     ["今日覆盖池", `${fmtNumber(coverageCount)} 条`, allCount ? `全网抓取原始信号 · ${fmtNumber(allCount)} 条入池` : "全网抓取原始信号", "signal"],
-    ["AI精选", `${fmtNumber(state.totalAi)} 条`, "24小时强相关信号", "signal"],
+    ["AI强相关", `${fmtNumber(state.totalAi)} 条`, "24小时强相关信号", "signal"],
     ["官方/日报源池", `${fmtNumber(officialCount + newsletterCount)} 条`, "官方节点 + AI Breakfast", "official"],
     ["Builders/X源池", `${fmtNumber(buildersCount)} 条`, "Follow Builders公开feed", "builders"],
     ["RSS/OPML扩展", opmlValue, opmlMeta, "private"],
@@ -276,6 +278,273 @@ function getFilteredItems() {
     const hay = `${item.title || ""} ${item.title_zh || ""} ${item.title_en || ""} ${item.site_name || ""} ${item.source || ""}`.toLowerCase();
     return hay.includes(q);
   });
+}
+
+function itemTitleText(item) {
+  return (item.title_zh || item.title || item.title_en || "未命名更新").trim();
+}
+
+function scorePercent(item) {
+  const score = Number(item.ai_score ?? item.score ?? 0);
+  if (!Number.isFinite(score) || score <= 0) return 0;
+  return Math.round(score <= 1 ? score * 100 : score);
+}
+
+function scoreTone(score) {
+  if (score >= 90) return "hot";
+  if (score >= 75) return "strong";
+  return "watch";
+}
+
+function labelText(item) {
+  const labels = {
+    ai_general: "AI信号",
+    model_release: "模型发布",
+    agent_workflow: "Agent工作流",
+    ai_product_update: "产品更新",
+    developer_tooling: "开发工具",
+    infrastructure: "基础设施",
+  };
+  return labels[item.ai_label] || item.ai_label || "精选信号";
+}
+
+function reasonText(item) {
+  const signals = Array.isArray(item.ai_signals) ? item.ai_signals.filter(Boolean).slice(0, 3) : [];
+  if (signals.length) return `命中：${signals.join(" / ")}`;
+  if (item.ai_relevance_reason) return String(item.ai_relevance_reason).replaceAll("_", " ");
+  return "来源与标题信号通过筛选";
+}
+
+function timelineIso(item) {
+  const published = item.published_at || "";
+  const seen = item.first_seen_at || "";
+  const generated = state.generatedAt || "";
+  if (published && generated) {
+    const publishedMs = new Date(published).getTime();
+    const generatedMs = new Date(generated).getTime();
+    if (Number.isFinite(publishedMs) && Number.isFinite(generatedMs) && publishedMs > generatedMs + 10 * 60 * 1000) {
+      return seen || published;
+    }
+  }
+  return published || seen;
+}
+
+function timelineMs(item) {
+  const d = new Date(timelineIso(item));
+  return Number.isNaN(d.getTime()) ? 0 : d.getTime();
+}
+
+function normalizedEventText(text) {
+  return String(text || "")
+    .toLowerCase()
+    .replace(/https?:\/\/\S+/g, "")
+    .replace(/[\s\u3000]+/g, "")
+    .replace(/[，。、“”‘’：:；;！!？?（）()\[\]【】《》<>·.,/\\|_-]/g, "");
+}
+
+function eventKey(item) {
+  const raw = itemTitleText(item);
+  const bracket = raw.match(/《([^》]{4,40})》/);
+  if (bracket) return `book:${normalizedEventText(bracket[1]).slice(0, 36)}`;
+
+  const normalized = normalizedEventText(raw);
+  const model = normalized.match(/(bitcpmcann|deepseekv\d+(?:pro)?|grokv\d+(?:medium)?|gemini\d+(?:\.\d+)?(?:flash|pro)?|gpt\d+(?:\.\d+)?|llama\d+)/);
+  if (model) return `entity:${model[1]}`;
+
+  return `title:${normalized.slice(0, 34)}`;
+}
+
+function sourceSignal(item) {
+  const site = item.site_name || "";
+  const source = item.source || "";
+  const hay = `${site} ${source}`.toLowerCase();
+  if (site === "AI HOT") return "AI HOT精选";
+  if (hay.includes("hackernews") || hay.includes("hacker news")) return "HN热议";
+  if (source.includes("GitHub · Trending Today") || hay.includes("github")) return "GitHub趋势";
+  if (site === "Official AI Updates") return "官方更新";
+  if (site === "Follow Builders") return "Builders";
+  if (site === "AIbase") return "AIbase";
+  if (site === "OPML RSS") return "OPML";
+  return site || "来源";
+}
+
+function sourcePriority(item) {
+  const signal = sourceSignal(item);
+  if (signal === "官方更新") return 100;
+  if (signal === "AI HOT精选") return 90;
+  if (signal === "AIbase") return 82;
+  if (signal === "Builders") return 74;
+  if (signal === "OPML") return 68;
+  if (signal === "HN热议" || signal === "GitHub趋势") return 62;
+  return 50;
+}
+
+function clusterBoleEvents(rows) {
+  const clusters = new Map();
+  rows.forEach((row) => {
+    const key = eventKey(row.item);
+    if (!clusters.has(key)) clusters.set(key, { key, rows: [], signals: new Set(), score: 0, primary: row });
+    const cluster = clusters.get(key);
+    cluster.rows.push(row);
+    cluster.signals.add(sourceSignal(row.item));
+    const currentPrimary = cluster.primary;
+    const betterPrimary = sourcePriority(row.item) - sourcePriority(currentPrimary.item)
+      || row.score - currentPrimary.score
+      || timelineMs(row.item) - timelineMs(currentPrimary.item);
+    if (betterPrimary > 0) cluster.primary = row;
+  });
+  return Array.from(clusters.values()).map((cluster) => {
+    const signals = Array.from(cluster.signals);
+    const maxScore = Math.max(...cluster.rows.map((row) => row.score));
+    const sourceBonus = Math.min(12, Math.max(0, signals.length - 1) * 6);
+    const candidateBonus = signals.some((s) => s === "AI HOT精选") ? 8
+      : signals.some((s) => s === "HN热议" || s === "GitHub趋势") ? 6
+      : signals.some((s) => s === "官方更新") ? 5
+      : 0;
+    return {
+      item: cluster.primary.item,
+      index: cluster.primary.index,
+      rows: cluster.rows,
+      sourceSignals: signals,
+      sourceCount: signals.length,
+      mergedCount: cluster.rows.length,
+      score: Math.min(100, Math.round(maxScore + sourceBonus + candidateBonus)),
+    };
+  });
+}
+
+function pickBoleItems(items) {
+  const ranked = [...items]
+    .map((item, index) => ({ item, index, score: scorePercent(item) }))
+    .filter((row) => row.score > 0)
+    .sort((a, b) => {
+      const byScore = b.score - a.score;
+      if (byScore !== 0) return byScore;
+      return timelineMs(b.item) - timelineMs(a.item) || a.index - b.index;
+    });
+
+  const sorted = clusterBoleEvents(ranked).sort((a, b) => {
+    const byMultiSource = b.sourceCount - a.sourceCount;
+    const byScore = b.score - a.score;
+    return byMultiSource || byScore || timelineMs(b.item) - timelineMs(a.item) || a.index - b.index;
+  });
+
+  const picked = [];
+  const addPick = (cluster) => {
+    if (cluster && !picked.includes(cluster) && picked.length < 8) picked.push(cluster);
+  };
+  ["AI HOT精选", "HN热议", "GitHub趋势"].forEach((signal) => {
+    addPick(sorted.find((cluster) => cluster.sourceSignals.includes(signal)));
+  });
+  sorted.forEach(addPick);
+  return picked;
+}
+
+function boleReasonText(row) {
+  const signals = row.sourceSignals || [];
+  const sourceText = signals.length ? `来源命中：${signals.join(" / ")}` : "来源命中：单源";
+  const mergeText = row.mergedCount > 1 ? `合并${row.mergedCount}条同事件` : "单条事件";
+  return `${sourceText} · ${mergeText} · ${reasonText(row.item)}`;
+}
+
+function buildBoleLead(row) {
+  const { item, score } = row;
+  const lead = document.createElement("a");
+  lead.className = "bole-lead-card";
+  lead.href = item.url || "#";
+  lead.target = "_blank";
+  lead.rel = "noopener noreferrer";
+
+  const top = document.createElement("div");
+  top.className = "bole-lead-top";
+  const kicker = document.createElement("span");
+  kicker.className = "bole-kicker";
+  kicker.textContent = `${labelText(item)} · ${fmtTime(timelineIso(item))}`;
+  const scoreEl = document.createElement("strong");
+  scoreEl.className = `bole-score-orb ${scoreTone(score)}`;
+  scoreEl.innerHTML = `<span>${score}</span><small>分</small>`;
+  top.append(kicker, scoreEl);
+
+  const title = document.createElement("div");
+  title.className = "bole-lead-title";
+  title.textContent = itemTitleText(item);
+
+  const reason = document.createElement("div");
+  reason.className = "bole-lead-reason";
+  reason.textContent = reasonText(item);
+
+  const foot = document.createElement("div");
+  foot.className = "bole-lead-foot";
+  foot.innerHTML = `<span>${item.site_name || "来源"}</span><span>${item.source || "未分区"}</span>`;
+
+  lead.append(top, title, reason, foot);
+  return lead;
+}
+
+function buildBoleTimelineRow(row, rank) {
+  const { item, score } = row;
+  const link = document.createElement("a");
+  link.className = "bole-row";
+  link.href = item.url || "#";
+  link.target = "_blank";
+  link.rel = "noopener noreferrer";
+
+  const time = document.createElement("time");
+  time.className = "bole-row-time";
+  time.textContent = fmtTime(timelineIso(item));
+
+  const body = document.createElement("div");
+  body.className = "bole-row-body";
+  const meta = document.createElement("div");
+  meta.className = "bole-row-meta";
+  meta.innerHTML = `<span>#${rank}</span><span>${item.site_name || "来源"}</span><strong>${score}分</strong>`;
+  (row.sourceSignals || []).slice(0, 4).forEach((signal) => {
+    const tag = document.createElement("span");
+    tag.className = "source-hit";
+    tag.textContent = signal;
+    meta.appendChild(tag);
+  });
+  const title = document.createElement("div");
+  title.className = "bole-row-title";
+  title.textContent = itemTitleText(item);
+  const reason = document.createElement("div");
+  reason.className = "bole-row-reason";
+  reason.textContent = boleReasonText(row);
+  body.append(meta, title, reason);
+
+  link.append(time, body);
+  return link;
+}
+
+function renderBolePicks() {
+  if (!bolePicksListEl || !bolePicksMetaEl) return;
+  const picks = pickBoleItems(state.itemsAi || []);
+  bolePicksListEl.innerHTML = "";
+  bolePicksListEl.className = "bole-board";
+  if (!picks.length) {
+    bolePicksMetaEl.textContent = "暂无评分数据";
+    const empty = document.createElement("div");
+    empty.className = "bole-empty";
+    empty.textContent = "当前数据里没有可展示的评分字段。";
+    bolePicksListEl.appendChild(empty);
+    return;
+  }
+
+  const topScore = Math.max(...picks.map((row) => row.score));
+  const timelinePicks = [...picks].sort((a, b) => {
+    const byTime = timelineMs(b.item) - timelineMs(a.item);
+    if (byTime !== 0) return byTime;
+    return b.score - a.score || a.index - b.index;
+  });
+  bolePicksMetaEl.textContent = `按时间倒序 · Top ${fmtNumber(picks.length)} · 最高 ${topScore} 分`;
+
+  const list = document.createElement("div");
+  list.className = "bole-compact-list";
+  timelinePicks.forEach((row, index) => {
+    list.appendChild(buildBoleTimelineRow(row, index + 1));
+  });
+
+  bolePicksListEl.appendChild(list);
 }
 
 function renderItemNode(item) {
@@ -643,6 +912,7 @@ async function init() {
     setStats(payload);
     renderModeSwitch();
     renderCoverageStrip();
+    renderBolePicks();
     renderSiteFilters();
     renderList();
     updatedAtEl.textContent = `更新时间：${fmtTime(state.generatedAt)}`;
