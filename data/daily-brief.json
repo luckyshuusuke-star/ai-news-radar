@@ -1,8 +1,107 @@
 {
-  "generated_at": "2026-06-13T15:16:37.001168Z",
+  "generated_at": "2026-06-13T18:07:38.314412Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_293a344334cb",
+      "title": "/architect：减少80%的Fable token，Fable负责协调/审核，Codex负责构建",
+      "url": "https://github.com/DanMcInerney/architect-loop",
+      "primary_url": "https://github.com/DanMcInerney/architect-loop",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6f79edf7484dc3052f6cc5033bcbdc9c51f5e47d",
+          "title": "/architect：减少80%的Fable token，Fable负责协调/审核，Codex负责构建",
+          "url": "https://github.com/DanMcInerney/architect-loop",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-13T16:46:05Z"
+        },
+        {
+          "id": "dcc18ef3e023b375e97f874ad6b7afa4877a5bd1",
+          "title": "/架构师：将 Fable 代币减少 80%，Fable 负责协调/审核，Codex 负责构建",
+          "url": "https://github.com/DanMcInerney/architect-loop",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-13T16:46:05.572000Z"
+        },
+        {
+          "id": "e77155100bc20ab3b96a9109742fcc80264cd122",
+          "title": "/architect：减少80%的Fable token，Fable负责协调/审核，Codex负责构建 / /architect: Reduce Fable tokens by 80%, Fable orchestrates/reviews, Codex builds",
+          "url": "https://github.com/DanMcInerney/architect-loop",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-12T20:33:22Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "github.com"
+      ],
+      "items": [
+        {
+          "id": "6f79edf7484dc3052f6cc5033bcbdc9c51f5e47d",
+          "title": "/architect：减少80%的Fable token，Fable负责协调/审核，Codex负责构建",
+          "url": "https://github.com/DanMcInerney/architect-loop",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-13T16:46:05Z"
+        },
+        {
+          "id": "dcc18ef3e023b375e97f874ad6b7afa4877a5bd1",
+          "title": "/架构师：将 Fable 代币减少 80%，Fable 负责协调/审核，Codex 负责构建",
+          "url": "https://github.com/DanMcInerney/architect-loop",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-13T16:46:05.572000Z"
+        },
+        {
+          "id": "e77155100bc20ab3b96a9109742fcc80264cd122",
+          "title": "/architect：减少80%的Fable token，Fable负责协调/审核，Codex负责构建 / /architect: Reduce Fable tokens by 80%, Fable orchestrates/reviews, Codex builds",
+          "url": "https://github.com/DanMcInerney/architect-loop",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-12T20:33:22Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8507,
+      "importance": 0.8507,
+      "importance_score": 0.8507,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9434,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-12T20:33:22Z",
+      "latest_at": "2026-06-13T16:46:05.572000Z",
+      "primary_item": {
+        "id": "6f79edf7484dc3052f6cc5033bcbdc9c51f5e47d",
+        "title": "/architect：减少80%的Fable token，Fable负责协调/审核，Codex负责构建",
+        "url": "https://github.com/DanMcInerney/architect-loop",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
     {
       "story_id": "story_93300d2f39e5",
       "title": "Anthropic 秘密申请上市，估值 9650 亿美元",
@@ -21,6 +120,15 @@
           "published_at": "2026-06-13T11:00:00Z"
         },
         {
+          "id": "c169722520115ba8bc6593ee7a96eb9bce592236",
+          "title": "全球资本主义将全部赌注押在人工智能的未来上，令选民感到担忧",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-13/global-capitalism-bets-it-all-on-ai-future-that-alarms-voters",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-13T17:18:14.365000Z"
+        },
+        {
           "id": "11030a4673705e79f2e2cf3a118bfd0683669791",
           "title": "全球资本主义将全部赌注押在人工智能的未来上，这令选民感到担忧",
           "url": "https://www.bloomberg.com/news/articles/2026-06-13/global-capitalism-bets-it-all-on-ai-future-that-alarms-voters",
@@ -30,7 +138,7 @@
           "published_at": "2026-06-13T11:26:14.325000Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
         "Bloomberg：Technology（RSS）",
         "www.bloomberg.com"
@@ -46,6 +154,15 @@
           "published_at": "2026-06-13T11:00:00Z"
         },
         {
+          "id": "c169722520115ba8bc6593ee7a96eb9bce592236",
+          "title": "全球资本主义将全部赌注押在人工智能的未来上，令选民感到担忧",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-13/global-capitalism-bets-it-all-on-ai-future-that-alarms-voters",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-13T17:18:14.365000Z"
+        },
+        {
           "id": "11030a4673705e79f2e2cf3a118bfd0683669791",
           "title": "全球资本主义将全部赌注押在人工智能的未来上，这令选民感到担忧",
           "url": "https://www.bloomberg.com/news/articles/2026-06-13/global-capitalism-bets-it-all-on-ai-future-that-alarms-voters",
@@ -55,26 +172,26 @@
           "published_at": "2026-06-13T11:26:14.325000Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8014,
-      "importance": 0.8014,
-      "importance_score": 0.8014,
-      "importance_label": "行业动态",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8026,
+      "importance": 0.8026,
+      "importance_score": 0.8026,
+      "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8218,
-        "story_heat": 0.25
+        "recency": 0.703,
+        "story_heat": 0.5
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
         "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
       "earliest_at": "2026-06-13T11:00:00Z",
-      "latest_at": "2026-06-13T11:26:14.325000Z",
+      "latest_at": "2026-06-13T17:18:14.365000Z",
       "primary_item": {
         "id": "cc5cbb86c3b68b5b35e4283f9eb5932a7ac22d0c",
         "title": "Anthropic 秘密申请上市，估值 9650 亿美元",
@@ -212,14 +329,14 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.7952,
-      "importance": 0.7952,
-      "importance_score": 0.7952,
+      "score": 0.7715,
+      "importance": 0.7715,
+      "importance_score": 0.7715,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.4162,
+        "recency": 0.2974,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -273,14 +390,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7924,
-      "importance": 0.7924,
-      "importance_score": 0.7924,
+      "score": 0.7687,
+      "importance": 0.7687,
+      "importance_score": 0.7687,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9022,
+        "recency": 0.7835,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -333,14 +450,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7891,
-      "importance": 0.7891,
-      "importance_score": 0.7891,
+      "score": 0.7654,
+      "importance": 0.7654,
+      "importance_score": 0.7654,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8856,
+        "recency": 0.7668,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -412,14 +529,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.782,
-      "importance": 0.782,
-      "importance_score": 0.782,
+      "score": 0.7583,
+      "importance": 0.7583,
+      "importance_score": 0.7583,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.725,
+        "recency": 0.6063,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -473,20 +590,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7535,
-      "importance": 0.7535,
-      "importance_score": 0.7535,
+      "score": 0.7297,
+      "importance": 0.7297,
+      "importance_score": 0.7297,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7074,
+        "recency": 0.5887,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-13T08:15:18Z",
       "latest_at": "2026-06-13T08:15:18Z",
@@ -533,20 +649,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7509,
-      "importance": 0.7509,
-      "importance_score": 0.7509,
+      "score": 0.7272,
+      "importance": 0.7272,
+      "importance_score": 0.7272,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6945,
+        "recency": 0.5758,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-13T07:56:46Z",
       "latest_at": "2026-06-13T07:56:46Z",
@@ -555,65 +670,6 @@
         "title": "智谱 GLM-5.2 旗舰模型发布：1M 上下文、下周开源",
         "url": "https://x.com/Zai_org/status/2065704919299235870",
         "source": "X：智谱 Z.ai (@Zai_org)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6710017ae4e1",
-      "title": "智谱 GLM-5.2 全量开放，支持 1M 上下文且下周开源",
-      "url": "https://mp.weixin.qq.com/s/LDrbtLM0wiCTJorvd5GY9w",
-      "primary_url": "https://mp.weixin.qq.com/s/LDrbtLM0wiCTJorvd5GY9w",
-      "source": "公众号：智谱（GLM）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c52f420110c76b1462d0251f4c10abed72f22ab4",
-          "title": "智谱 GLM-5.2 全量开放，支持 1M 上下文且下周开源",
-          "url": "https://mp.weixin.qq.com/s/LDrbtLM0wiCTJorvd5GY9w",
-          "source": "公众号：智谱（GLM）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-13T06:19:36Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：智谱（GLM）"
-      ],
-      "items": [
-        {
-          "id": "c52f420110c76b1462d0251f4c10abed72f22ab4",
-          "title": "智谱 GLM-5.2 全量开放，支持 1M 上下文且下周开源",
-          "url": "https://mp.weixin.qq.com/s/LDrbtLM0wiCTJorvd5GY9w",
-          "source": "公众号：智谱（GLM）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-13T06:19:36Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7374,
-      "importance": 0.7374,
-      "importance_score": 0.7374,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6271,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-13T06:19:36Z",
-      "latest_at": "2026-06-13T06:19:36Z",
-      "primary_item": {
-        "id": "c52f420110c76b1462d0251f4c10abed72f22ab4",
-        "title": "智谱 GLM-5.2 全量开放，支持 1M 上下文且下周开源",
-        "url": "https://mp.weixin.qq.com/s/LDrbtLM0wiCTJorvd5GY9w",
-        "source": "公众号：智谱（GLM）",
         "source_name": "AI HOT"
       }
     },
@@ -671,21 +727,20 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7666,
-      "importance": 0.7666,
-      "importance_score": 0.7666,
+      "score": 0.7428,
+      "importance": 0.7428,
+      "importance_score": 0.7428,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6478,
+        "recency": 0.529,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-13T06:49:25Z",
       "latest_at": "2026-06-13T06:49:25Z",
@@ -695,66 +750,6 @@
         "url": "https://www.ithome.com/0/963/858.htm",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_c6069eed8b00",
-      "title": "我们如何使 GitHub Copilot CLI 对委派更具选择性 / How we made GitHub Copilot CLI more selective about delegation",
-      "url": "https://github.blog/ai-and-ml/how-we-made-github-copilot-cli-more-selective-about-delegation",
-      "primary_url": "https://github.blog/ai-and-ml/how-we-made-github-copilot-cli-more-selective-about-delegation",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "be0b202f755e718442d572da700da022d8e78bee",
-          "title": "我们如何使 GitHub Copilot CLI 对委派更具选择性 / How we made GitHub Copilot CLI more selective about delegation",
-          "url": "https://github.blog/ai-and-ml/how-we-made-github-copilot-cli-more-selective-about-delegation",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-12T22:26:23Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub AI & ML"
-      ],
-      "items": [
-        {
-          "id": "be0b202f755e718442d572da700da022d8e78bee",
-          "title": "我们如何使 GitHub Copilot CLI 对委派更具选择性 / How we made GitHub Copilot CLI more selective about delegation",
-          "url": "https://github.blog/ai-and-ml/how-we-made-github-copilot-cli-more-selective-about-delegation",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-12T22:26:23Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7327,
-      "importance": 0.7327,
-      "importance_score": 0.7327,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.2984,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-12T22:26:23Z",
-      "latest_at": "2026-06-12T22:26:23Z",
-      "primary_item": {
-        "id": "be0b202f755e718442d572da700da022d8e78bee",
-        "title": "我们如何使 GitHub Copilot CLI 对委派更具选择性 / How we made GitHub Copilot CLI more selective about delegation",
-        "url": "https://github.blog/ai-and-ml/how-we-made-github-copilot-cli-more-selective-about-delegation",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -811,17 +806,17 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.73,
-      "importance": 0.73,
-      "importance_score": 0.73,
-      "importance_label": "行业动态",
+      "score": 0.7063,
+      "importance": 0.7063,
+      "importance_score": 0.7063,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.4652,
+        "recency": 0.3464,
         "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
         "multi_source",
         "high_ai_relevance"
@@ -834,146 +829,6 @@
         "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai",
         "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_3fe3bf526cee",
-      "title": "副驾驶代码审查：新的配置和控制 / Copilot code review: New configurations and controls",
-      "url": "https://github.blog/changelog/2026-06-12-copilot-code-review-new-configurations-and-controls",
-      "primary_url": "https://github.blog/changelog/2026-06-12-copilot-code-review-new-configurations-and-controls",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c4aac80ecde24e684fec4bfb65b4f363c8b01e77",
-          "title": "副驾驶代码审查：新的配置和控制 / Copilot code review: New configurations and controls",
-          "url": "https://github.blog/changelog/2026-06-12-copilot-code-review-new-configurations-and-controls",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-12T21:37:14Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "c4aac80ecde24e684fec4bfb65b4f363c8b01e77",
-          "title": "副驾驶代码审查：新的配置和控制 / Copilot code review: New configurations and controls",
-          "url": "https://github.blog/changelog/2026-06-12-copilot-code-review-new-configurations-and-controls",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-12T21:37:14Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7259,
-      "importance": 0.7259,
-      "importance_score": 0.7259,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.2643,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-12T21:37:14Z",
-      "latest_at": "2026-06-12T21:37:14Z",
-      "primary_item": {
-        "id": "c4aac80ecde24e684fec4bfb65b4f363c8b01e77",
-        "title": "副驾驶代码审查：新的配置和控制 / Copilot code review: New configurations and controls",
-        "url": "https://github.blog/changelog/2026-06-12-copilot-code-review-new-configurations-and-controls",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_80b8efd89b1a",
-      "title": "olmo-eval：面向模型开发循环的评估工作台 / olmo-eval: An evaluation workbench for the model development loop",
-      "url": "https://huggingface.co/blog/allenai/olmo-eval",
-      "primary_url": "https://huggingface.co/blog/allenai/olmo-eval",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e82909d7fe2ae1be410efa96b9241947a7329bfc",
-          "title": "olmo-eval：面向模型开发循环的评估工作台 / olmo-eval: An evaluation workbench for the model development loop",
-          "url": "https://huggingface.co/blog/allenai/olmo-eval",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-12T15:56:10Z"
-        },
-        {
-          "id": "22866cd46e778b441170aa829a06ca8b432cef44",
-          "title": "olmo-eval：面向模型开发循环的评估工作台",
-          "url": "https://huggingface.co/blog/allenai/olmo-eval",
-          "source": "Hugging Face：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-12T15:56:10Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hugging Face Blog",
-        "Hugging Face：Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "e82909d7fe2ae1be410efa96b9241947a7329bfc",
-          "title": "olmo-eval：面向模型开发循环的评估工作台 / olmo-eval: An evaluation workbench for the model development loop",
-          "url": "https://huggingface.co/blog/allenai/olmo-eval",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-12T15:56:10Z"
-        },
-        {
-          "id": "22866cd46e778b441170aa829a06ca8b432cef44",
-          "title": "olmo-eval：面向模型开发循环的评估工作台",
-          "url": "https://huggingface.co/blog/allenai/olmo-eval",
-          "source": "Hugging Face：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-12T15:56:10Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7155,
-      "importance": 0.7155,
-      "importance_score": 0.7155,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.0275,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-12T15:56:10Z",
-      "latest_at": "2026-06-12T15:56:10Z",
-      "primary_item": {
-        "id": "e82909d7fe2ae1be410efa96b9241947a7329bfc",
-        "title": "olmo-eval：面向模型开发循环的评估工作台 / olmo-eval: An evaluation workbench for the model development loop",
-        "url": "https://huggingface.co/blog/allenai/olmo-eval",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1030,14 +885,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7134,
-      "importance": 0.7134,
-      "importance_score": 0.7134,
+      "score": 0.6897,
+      "importance": 0.6897,
+      "importance_score": 0.6897,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.3822,
+        "recency": 0.2635,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1056,62 +911,116 @@
       }
     },
     {
-      "story_id": "story_88eed83d28bd",
-      "title": "SemiAnalysis 洞察 Token 经济：200 美元 AI 订阅榨出 70 倍用量",
-      "url": "https://www.ithome.com/0/963/834.htm",
-      "primary_url": "https://www.ithome.com/0/963/834.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_3625dfb80c29",
+      "title": "Anthropic 因美国法院下达全面禁令而关闭 Mythos 访问权限",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-13/anthropic-says-us-limits-foreign-access-to-fable-5-mythos-5",
+      "primary_url": "https://www.bloomberg.com/news/articles/2026-06-13/anthropic-says-us-limits-foreign-access-to-fable-5-mythos-5",
+      "source": "www.bloomberg.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "bc2bf3ede9ee80cc402b4650e2ba4f9742e018b6",
-          "title": "SemiAnalysis 洞察 Token 经济：200 美元 AI 订阅榨出 70 倍用量",
-          "url": "https://www.ithome.com/0/963/834.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-13T06:09:26Z"
+          "id": "5cd9a02d788d8f243a257c0b55a393cebb0af639",
+          "title": "Anthropic 因美国法院下达全面禁令而关闭 Mythos 访问权限",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-13/anthropic-says-us-limits-foreign-access-to-fable-5-mythos-5",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-13T17:02:14.600000Z"
+        },
+        {
+          "id": "6f32d233496a10efc22105c2682c2a61eeb9e260",
+          "title": "Anthropic 因美国史无前例的行政命令关闭 Mythos 访问权限",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-13/anthropic-says-us-limits-foreign-access-to-fable-5-mythos-5",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-13T15:10:09.405000Z"
+        },
+        {
+          "id": "8acc1372e61f9b08163d5f3b22ecc2a2ae2defe1",
+          "title": "美国禁止在境外使用后，Anthropic 向所有用户封锁了顶级 AI 模型",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-13/anthropic-says-us-limits-foreign-access-to-fable-5-mythos-5",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-13T07:25:58.397000Z"
+        },
+        {
+          "id": "eb2cefaa3b2c62e6939b76fc139877c6b01a2350",
+          "title": "美国禁止境外用户访问，Anthropic下架《Mythos》和《Fable》模型",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-13/anthropic-says-us-limits-foreign-access-to-fable-5-mythos-5",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-13T02:56:01.940000Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 4,
       "source_names": [
-        "IT之家（RSS）"
+        "www.bloomberg.com"
       ],
       "items": [
         {
-          "id": "bc2bf3ede9ee80cc402b4650e2ba4f9742e018b6",
-          "title": "SemiAnalysis 洞察 Token 经济：200 美元 AI 订阅榨出 70 倍用量",
-          "url": "https://www.ithome.com/0/963/834.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-13T06:09:26Z"
+          "id": "5cd9a02d788d8f243a257c0b55a393cebb0af639",
+          "title": "Anthropic 因美国法院下达全面禁令而关闭 Mythos 访问权限",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-13/anthropic-says-us-limits-foreign-access-to-fable-5-mythos-5",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-13T17:02:14.600000Z"
+        },
+        {
+          "id": "6f32d233496a10efc22105c2682c2a61eeb9e260",
+          "title": "Anthropic 因美国史无前例的行政命令关闭 Mythos 访问权限",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-13/anthropic-says-us-limits-foreign-access-to-fable-5-mythos-5",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-13T15:10:09.405000Z"
+        },
+        {
+          "id": "8acc1372e61f9b08163d5f3b22ecc2a2ae2defe1",
+          "title": "美国禁止在境外使用后，Anthropic 向所有用户封锁了顶级 AI 模型",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-13/anthropic-says-us-limits-foreign-access-to-fable-5-mythos-5",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-13T07:25:58.397000Z"
+        },
+        {
+          "id": "eb2cefaa3b2c62e6939b76fc139877c6b01a2350",
+          "title": "美国禁止境外用户访问，Anthropic下架《Mythos》和《Fable》模型",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-13/anthropic-says-us-limits-foreign-access-to-fable-5-mythos-5",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-13T02:56:01.940000Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.736,
-      "importance": 0.736,
-      "importance_score": 0.736,
-      "importance_label": "行业动态",
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5889,
+      "importance": 0.5889,
+      "importance_score": 0.5889,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.62,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9546,
+        "story_heat": 0.75
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-06-13T06:09:26Z",
-      "latest_at": "2026-06-13T06:09:26Z",
+      "earliest_at": "2026-06-13T02:56:01.940000Z",
+      "latest_at": "2026-06-13T17:02:14.600000Z",
       "primary_item": {
-        "id": "bc2bf3ede9ee80cc402b4650e2ba4f9742e018b6",
-        "title": "SemiAnalysis 洞察 Token 经济：200 美元 AI 订阅榨出 70 倍用量",
-        "url": "https://www.ithome.com/0/963/834.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
+        "id": "5cd9a02d788d8f243a257c0b55a393cebb0af639",
+        "title": "Anthropic 因美国法院下达全面禁令而关闭 Mythos 访问权限",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-13/anthropic-says-us-limits-foreign-access-to-fable-5-mythos-5",
+        "source": "www.bloomberg.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1224,14 +1133,14 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5843,
-      "importance": 0.5843,
-      "importance_score": 0.5843,
+      "score": 0.5606,
+      "importance": 0.5606,
+      "importance_score": 0.5606,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8066,
+        "recency": 0.6879,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1249,274 +1158,315 @@
       }
     },
     {
-      "story_id": "story_3625dfb80c29",
-      "title": "Anthropic 因美国史无前例的行政命令关闭 Mythos 访问权限",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-13/anthropic-says-us-limits-foreign-access-to-fable-5-mythos-5",
-      "primary_url": "https://www.bloomberg.com/news/articles/2026-06-13/anthropic-says-us-limits-foreign-access-to-fable-5-mythos-5",
-      "source": "www.bloomberg.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "6f32d233496a10efc22105c2682c2a61eeb9e260",
-          "title": "Anthropic 因美国史无前例的行政命令关闭 Mythos 访问权限",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-13/anthropic-says-us-limits-foreign-access-to-fable-5-mythos-5",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-13T15:10:09.405000Z"
-        },
-        {
-          "id": "8acc1372e61f9b08163d5f3b22ecc2a2ae2defe1",
-          "title": "美国禁止在境外使用后，Anthropic 向所有用户封锁了顶级 AI 模型",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-13/anthropic-says-us-limits-foreign-access-to-fable-5-mythos-5",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-13T07:25:58.397000Z"
-        },
-        {
-          "id": "eb2cefaa3b2c62e6939b76fc139877c6b01a2350",
-          "title": "美国禁止境外用户访问，Anthropic下架《Mythos》和《Fable》模型",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-13/anthropic-says-us-limits-foreign-access-to-fable-5-mythos-5",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-13T02:56:01.940000Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "www.bloomberg.com"
-      ],
-      "items": [
-        {
-          "id": "6f32d233496a10efc22105c2682c2a61eeb9e260",
-          "title": "Anthropic 因美国史无前例的行政命令关闭 Mythos 访问权限",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-13/anthropic-says-us-limits-foreign-access-to-fable-5-mythos-5",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-13T15:10:09.405000Z"
-        },
-        {
-          "id": "8acc1372e61f9b08163d5f3b22ecc2a2ae2defe1",
-          "title": "美国禁止在境外使用后，Anthropic 向所有用户封锁了顶级 AI 模型",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-13/anthropic-says-us-limits-foreign-access-to-fable-5-mythos-5",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-13T07:25:58.397000Z"
-        },
-        {
-          "id": "eb2cefaa3b2c62e6939b76fc139877c6b01a2350",
-          "title": "美国禁止境外用户访问，Anthropic下架《Mythos》和《Fable》模型",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-13/anthropic-says-us-limits-foreign-access-to-fable-5-mythos-5",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-13T02:56:01.940000Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5721,
-      "importance": 0.5721,
-      "importance_score": 0.5721,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9955,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-13T02:56:01.940000Z",
-      "latest_at": "2026-06-13T15:10:09.405000Z",
-      "primary_item": {
-        "id": "6f32d233496a10efc22105c2682c2a61eeb9e260",
-        "title": "Anthropic 因美国史无前例的行政命令关闭 Mythos 访问权限",
-        "url": "https://www.bloomberg.com/news/articles/2026-06-13/anthropic-says-us-limits-foreign-access-to-fable-5-mythos-5",
-        "source": "www.bloomberg.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_d3bb048b2ea1",
-      "title": "AI OSS 工具仓库在筹集 730 万美元种子资金后一夜之间归档 / AI OSS tool repo goes archived over night after raising $7.3M Seed",
-      "url": "https://news.ycombinator.com/item?id=48516504",
-      "primary_url": "https://news.ycombinator.com/item?id=48516504",
+      "story_id": "story_989cdb1a0573",
+      "title": "亚马逊首席执行官与美国官员的会谈引发了对人择模型的打压 / Amazon CEO's Talks with U.S. Officials Triggered Crackdown on Anthropic Models",
+      "url": "https://news.ycombinator.com/item?id=48519092",
+      "primary_url": "https://news.ycombinator.com/item?id=48519092",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "335f9af8cca4b89e0bf917a94203f54ba52ec251",
-          "title": "AI OSS 工具仓库在筹集 730 万美元种子资金后一夜之间归档 / AI OSS tool repo goes archived over night after raising $7.3M Seed",
-          "url": "https://news.ycombinator.com/item?id=48516504",
+          "id": "913e8998fe1e5da039db3003d82c37617dc6edb0",
+          "title": "亚马逊首席执行官与美国官员的会谈引发了对人择模型的打压 / Amazon CEO's Talks with U.S. Officials Triggered Crackdown on Anthropic Models",
+          "url": "https://news.ycombinator.com/item?id=48519092",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-06-13T15:02:36.072000Z"
+          "published_at": "2026-06-13T18:08:08.478000Z"
         },
         {
-          "id": "c34a7d558e5fb3f86d00b138a0d4b1588f3548d7",
-          "title": "AI开源工具仓库在完成730万美元种子轮融资后，一夜之间被归档",
-          "url": "https://github.com/tensorzero/tensorzero",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-13T14:54:03.054000Z"
-        },
-        {
-          "id": "c4a4c8be2a32d31f0866e9410377695cdafe51d5",
-          "title": "AI开源工具仓库在完成730万美元种子轮融资后，一夜之间被归档 / AI OSS tool repo goes archived over night after raising $7.3M Seed",
-          "url": "https://github.com/tensorzero/tensorzero",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-13T12:10:47Z"
+          "id": "999f2168451e50017b4caf330fa3056b661a8a07",
+          "title": "亚马逊首席执行官与美国官员的会谈引发了对人择模型的打压 / Amazon CEO's Talks with U.S. Officials Triggered Crackdown on Anthropic Models",
+          "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-13T16:57:49Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "Hacker News",
-        "github.com",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
         {
-          "id": "335f9af8cca4b89e0bf917a94203f54ba52ec251",
-          "title": "AI OSS 工具仓库在筹集 730 万美元种子资金后一夜之间归档 / AI OSS tool repo goes archived over night after raising $7.3M Seed",
-          "url": "https://news.ycombinator.com/item?id=48516504",
+          "id": "913e8998fe1e5da039db3003d82c37617dc6edb0",
+          "title": "亚马逊首席执行官与美国官员的会谈引发了对人择模型的打压 / Amazon CEO's Talks with U.S. Officials Triggered Crackdown on Anthropic Models",
+          "url": "https://news.ycombinator.com/item?id=48519092",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-06-13T15:02:36.072000Z"
+          "published_at": "2026-06-13T18:08:08.478000Z"
         },
         {
-          "id": "c34a7d558e5fb3f86d00b138a0d4b1588f3548d7",
-          "title": "AI开源工具仓库在完成730万美元种子轮融资后，一夜之间被归档",
-          "url": "https://github.com/tensorzero/tensorzero",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-13T14:54:03.054000Z"
-        },
-        {
-          "id": "c4a4c8be2a32d31f0866e9410377695cdafe51d5",
-          "title": "AI开源工具仓库在完成730万美元种子轮融资后，一夜之间被归档 / AI OSS tool repo goes archived over night after raising $7.3M Seed",
-          "url": "https://github.com/tensorzero/tensorzero",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-13T12:10:47Z"
+          "id": "999f2168451e50017b4caf330fa3056b661a8a07",
+          "title": "亚马逊首席执行官与美国官员的会谈引发了对人择模型的打压 / Amazon CEO's Talks with U.S. Officials Triggered Crackdown on Anthropic Models",
+          "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-13T16:57:49Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5711,
-      "importance": 0.5711,
-      "importance_score": 0.5711,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9903,
-        "story_heat": 0.5
+        "recency": 1.0,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-06-13T12:10:47Z",
-      "latest_at": "2026-06-13T15:02:36.072000Z",
+      "earliest_at": "2026-06-13T16:57:49Z",
+      "latest_at": "2026-06-13T18:08:08.478000Z",
       "primary_item": {
-        "id": "335f9af8cca4b89e0bf917a94203f54ba52ec251",
-        "title": "AI OSS 工具仓库在筹集 730 万美元种子资金后一夜之间归档 / AI OSS tool repo goes archived over night after raising $7.3M Seed",
-        "url": "https://news.ycombinator.com/item?id=48516504",
+        "id": "913e8998fe1e5da039db3003d82c37617dc6edb0",
+        "title": "亚马逊首席执行官与美国官员的会谈引发了对人择模型的打压 / Amazon CEO's Talks with U.S. Officials Triggered Crackdown on Anthropic Models",
+        "url": "https://news.ycombinator.com/item?id=48519092",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
     },
     {
-      "story_id": "story_42f76ee6df4f",
-      "title": "字节豆包上线\"任务模式\"：支持定时执行与文件生成，\"思考模式\"升级为\"专家模式\"",
-      "url": "https://www.ithome.com/0/963/725.htm",
-      "primary_url": "https://www.ithome.com/0/963/725.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_fc780e0ad91f",
+      "title": "科技领袖纷纷开启「反思模式」，修正此前「AI 会带来就业末日」论调",
+      "url": "https://www.ithome.com/0/963/990.htm",
+      "primary_url": "https://www.ithome.com/0/963/990.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "ea2633269bcbbc324357fa22538648bd6785737a",
-          "title": "字节豆包上线\"任务模式\"：支持定时执行与文件生成，\"思考模式\"升级为\"专家模式\"",
-          "url": "https://www.ithome.com/0/963/725.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-12T15:33:19Z"
-        },
-        {
-          "id": "c34ebd7f295ea0206241ad67a317333dcb71ab80",
-          "title": "字节豆包上线「任务模式」：支持定时执行、代码运行与文件生成，「思考模式」已升级为「专家模式」",
-          "url": "https://www.ithome.com/0/963/725.htm",
+          "id": "0724bad87131212649601c935cf747ebd536c314",
+          "title": "科技领袖纷纷开启「反思模式」，修正此前「AI 会带来就业末日」论调",
+          "url": "https://www.ithome.com/0/963/990.htm",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
+        },
+        {
+          "id": "cd05c21e1c5b4a18d57c2cf63e79e2f076267eda",
+          "title": "科技领袖纷纷开启“反思模式”，修正此前“AI 会带来就业末日”论调",
+          "url": "https://www.ithome.com/0/963/990.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-13T15:21:21Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "IT之家（RSS）",
+        "IT之家 (ITHome)",
         "Readhub · AI"
       ],
       "items": [
         {
-          "id": "ea2633269bcbbc324357fa22538648bd6785737a",
-          "title": "字节豆包上线\"任务模式\"：支持定时执行与文件生成，\"思考模式\"升级为\"专家模式\"",
-          "url": "https://www.ithome.com/0/963/725.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-12T15:33:19Z"
-        },
-        {
-          "id": "c34ebd7f295ea0206241ad67a317333dcb71ab80",
-          "title": "字节豆包上线「任务模式」：支持定时执行、代码运行与文件生成，「思考模式」已升级为「专家模式」",
-          "url": "https://www.ithome.com/0/963/725.htm",
+          "id": "0724bad87131212649601c935cf747ebd536c314",
+          "title": "科技领袖纷纷开启「反思模式」，修正此前「AI 会带来就业末日」论调",
+          "url": "https://www.ithome.com/0/963/990.htm",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
+        },
+        {
+          "id": "cd05c21e1c5b4a18d57c2cf63e79e2f076267eda",
+          "title": "科技领袖纷纷开启“反思模式”，修正此前“AI 会带来就业末日”论调",
+          "url": "https://www.ithome.com/0/963/990.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-13T15:21:21Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6393,
-      "importance": 0.6393,
-      "importance_score": 0.6393,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.0116,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-06-12T15:33:19Z",
-      "latest_at": "2026-06-12T17:21:46.502167Z",
+      "earliest_at": "2026-06-13T15:21:21Z",
+      "latest_at": "2026-06-13T18:07:38.314412Z",
       "primary_item": {
-        "id": "ea2633269bcbbc324357fa22538648bd6785737a",
-        "title": "字节豆包上线\"任务模式\"：支持定时执行与文件生成，\"思考模式\"升级为\"专家模式\"",
-        "url": "https://www.ithome.com/0/963/725.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
+        "id": "0724bad87131212649601c935cf747ebd536c314",
+        "title": "科技领袖纷纷开启「反思模式」，修正此前「AI 会带来就业末日」论调",
+        "url": "https://www.ithome.com/0/963/990.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_dfe9a7c4e889",
+      "title": "Anthropic首席执行官达里奥·阿莫德伊警告称，Mythos对国家安全构成威胁。华盛顿方面刚刚作出回应。",
+      "url": "https://www.businessinsider.com/dario-amodei-ai-warnings-mythos-fable-blocked-2026-6",
+      "primary_url": "https://www.businessinsider.com/dario-amodei-ai-warnings-mythos-fable-blocked-2026-6",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "df8e902fb156ab67195578638a84e4e57b9976fb",
+          "title": "Anthropic首席执行官达里奥·阿莫德伊警告称，Mythos对国家安全构成威胁。华盛顿方面刚刚作出回应。",
+          "url": "https://www.businessinsider.com/dario-amodei-ai-warnings-mythos-fable-blocked-2026-6",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-13T17:50:10.367000Z"
+        },
+        {
+          "id": "f4c6858a35526e556d79ad03ab7dccfeedfc47c7",
+          "title": "Anthropic首席执行官达里奥·阿莫德伊警告称，Mythos对国家安全构成威胁。华盛顿方面刚刚作出回应。 / Anthropic CEO Dario Amodei warned Mythos posed a national security threat. Washington just responded.",
+          "url": "https://www.businessinsider.com/dario-amodei-ai-warnings-mythos-fable-blocked-2026-6",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-13T16:31:13Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "df8e902fb156ab67195578638a84e4e57b9976fb",
+          "title": "Anthropic首席执行官达里奥·阿莫德伊警告称，Mythos对国家安全构成威胁。华盛顿方面刚刚作出回应。",
+          "url": "https://www.businessinsider.com/dario-amodei-ai-warnings-mythos-fable-blocked-2026-6",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-13T17:50:10.367000Z"
+        },
+        {
+          "id": "f4c6858a35526e556d79ad03ab7dccfeedfc47c7",
+          "title": "Anthropic首席执行官达里奥·阿莫德伊警告称，Mythos对国家安全构成威胁。华盛顿方面刚刚作出回应。 / Anthropic CEO Dario Amodei warned Mythos posed a national security threat. Washington just responded.",
+          "url": "https://www.businessinsider.com/dario-amodei-ai-warnings-mythos-fable-blocked-2026-6",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-13T16:31:13Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5456,
+      "importance": 0.5456,
+      "importance_score": 0.5456,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9879,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-13T16:31:13Z",
+      "latest_at": "2026-06-13T17:50:10.367000Z",
+      "primary_item": {
+        "id": "df8e902fb156ab67195578638a84e4e57b9976fb",
+        "title": "Anthropic首席执行官达里奥·阿莫德伊警告称，Mythos对国家安全构成威胁。华盛顿方面刚刚作出回应。",
+        "url": "https://www.businessinsider.com/dario-amodei-ai-warnings-mythos-fable-blocked-2026-6",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_4a51c735b4dd",
+      "title": "repo-slopscore：通过提交历史分析检测 Git 仓库中的 AI/LLM 贡献",
+      "url": "https://slopscan.ava.pet",
+      "primary_url": "https://slopscan.ava.pet",
+      "source": "slopscan.ava.pet",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "bf25763c1f6549d36ff4cf0149e531c8c044c112",
+          "title": "repo-slopscore：通过提交历史分析检测 Git 仓库中的 AI/LLM 贡献",
+          "url": "https://slopscan.ava.pet",
+          "source": "slopscan.ava.pet",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-13T15:42:05.350000Z"
+        },
+        {
+          "id": "e06d2ddfa9e2e2ec99d78f43ddd457f1f4add862",
+          "title": "repo-slopscore：通过提交历史分析检测 Git 仓库中的 AI/LLM 贡献 / repo-slopscore: Detecting AI/LLM contributions in git repositories via commit history analysis",
+          "url": "https://slopscan.ava.pet",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-13T15:37:16Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "slopscan.ava.pet"
+      ],
+      "items": [
+        {
+          "id": "bf25763c1f6549d36ff4cf0149e531c8c044c112",
+          "title": "repo-slopscore：通过提交历史分析检测 Git 仓库中的 AI/LLM 贡献",
+          "url": "https://slopscan.ava.pet",
+          "source": "slopscan.ava.pet",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-13T15:42:05.350000Z"
+        },
+        {
+          "id": "e06d2ddfa9e2e2ec99d78f43ddd457f1f4add862",
+          "title": "repo-slopscore：通过提交历史分析检测 Git 仓库中的 AI/LLM 贡献 / repo-slopscore: Detecting AI/LLM contributions in git repositories via commit history analysis",
+          "url": "https://slopscan.ava.pet",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-13T15:37:16Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5278,
+      "importance": 0.5278,
+      "importance_score": 0.5278,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8989,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-13T15:37:16Z",
+      "latest_at": "2026-06-13T15:42:05.350000Z",
+      "primary_item": {
+        "id": "bf25763c1f6549d36ff4cf0149e531c8c044c112",
+        "title": "repo-slopscore：通过提交历史分析检测 Git 仓库中的 AI/LLM 贡献",
+        "url": "https://slopscan.ava.pet",
+        "source": "slopscan.ava.pet",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1592,14 +1542,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5476,
-      "importance": 0.5476,
-      "importance_score": 0.5476,
+      "score": 0.5239,
+      "importance": 0.5239,
+      "importance_score": 0.5239,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8732,
+        "recency": 0.7544,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1614,6 +1564,161 @@
         "url": "https://koenvangilst.nl/lab/claude-fable-shepherds-dog",
         "source": "koenvangilst.nl",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_49e4f31a2c79",
+      "title": "在家进行人工智能编码而不会破产 / AI Coding at Home Without Going Broke",
+      "url": "https://news.ycombinator.com/item?id=48518969",
+      "primary_url": "https://news.ycombinator.com/item?id=48518969",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "82563dcca7deb63d5882b755b28dd5bdca4e2a32",
+          "title": "在家进行人工智能编码而不会破产 / AI Coding at Home Without Going Broke",
+          "url": "https://news.ycombinator.com/item?id=48518969",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-13T18:08:08.478000Z"
+        },
+        {
+          "id": "fe037f5adb0d510b859f5bd4a1ca97d01a6e7b69",
+          "title": "在家进行人工智能编码而不会破产 / AI Coding at Home Without Going Broke",
+          "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-13T16:45:03Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "82563dcca7deb63d5882b755b28dd5bdca4e2a32",
+          "title": "在家进行人工智能编码而不会破产 / AI Coding at Home Without Going Broke",
+          "url": "https://news.ycombinator.com/item?id=48518969",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-13T18:08:08.478000Z"
+        },
+        {
+          "id": "fe037f5adb0d510b859f5bd4a1ca97d01a6e7b69",
+          "title": "在家进行人工智能编码而不会破产 / AI Coding at Home Without Going Broke",
+          "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-13T16:45:03Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-13T16:45:03Z",
+      "latest_at": "2026-06-13T18:08:08.478000Z",
+      "primary_item": {
+        "id": "82563dcca7deb63d5882b755b28dd5bdca4e2a32",
+        "title": "在家进行人工智能编码而不会破产 / AI Coding at Home Without Going Broke",
+        "url": "https://news.ycombinator.com/item?id=48518969",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_9e6416d5a015",
+      "title": "[推广] 智友社上新啦， ChatGPT Pro 5X & 20X 正规渠道稳定代充（质保订阅）",
+      "url": "https://www.v2ex.com/t/1220208",
+      "primary_url": "https://www.v2ex.com/t/1220208",
+      "source": "V2EX (创意工作者社区)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "192ac6de0a0a02f8d5354513c01b13088fc8b754",
+          "title": "[推广] 智友社上新啦， ChatGPT Pro 5X & 20X 正规渠道稳定代充（质保订阅）",
+          "url": "https://www.v2ex.com/t/1220208",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-13T13:12:49Z"
+        },
+        {
+          "id": "58d06034099268b9bbea06eae3b534b3fe4e8eb3",
+          "title": "[Ai2You智友社] 智友社上新啦， ChatGPT Pro 5X&20X 正规渠道稳定代充（质保订阅）",
+          "url": "https://www.v2ex.com/t/1220200",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-13T12:33:27Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "V2EX (创意工作者社区)"
+      ],
+      "items": [
+        {
+          "id": "192ac6de0a0a02f8d5354513c01b13088fc8b754",
+          "title": "[推广] 智友社上新啦， ChatGPT Pro 5X & 20X 正规渠道稳定代充（质保订阅）",
+          "url": "https://www.v2ex.com/t/1220208",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-13T13:12:49Z"
+        },
+        {
+          "id": "58d06034099268b9bbea06eae3b534b3fe4e8eb3",
+          "title": "[Ai2You智友社] 智友社上新啦， ChatGPT Pro 5X&20X 正规渠道稳定代充（质保订阅）",
+          "url": "https://www.v2ex.com/t/1220200",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-13T12:33:27Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5071,
+      "importance": 0.5071,
+      "importance_score": 0.5071,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7953,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-13T12:33:27Z",
+      "latest_at": "2026-06-13T13:12:49Z",
+      "primary_item": {
+        "id": "192ac6de0a0a02f8d5354513c01b13088fc8b754",
+        "title": "[推广] 智友社上新啦， ChatGPT Pro 5X & 20X 正规渠道稳定代充（质保订阅）",
+        "url": "https://www.v2ex.com/t/1220208",
+        "source": "V2EX (创意工作者社区)",
+        "source_name": "Info Flow"
       }
     }
   ]
