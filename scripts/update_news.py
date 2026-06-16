@@ -2931,6 +2931,25 @@ def load_title_zh_cache(path: Path) -> dict[str, str]:
     return {}
 
 
+# Google Translate routinely garbles AI jargon: "Prompt Engineering" → "快速工程"
+# (快速=fast), "prompts" sometimes renders as "题词" (inscription). Patch the
+# common artifacts post-hoc so 召回 回来的中文标题 doesn't mislead readers.
+_MT_AI_TERM_FIXES = [
+    ("快速工程", "提示工程"),
+    ("快速词", "提示词"),
+    ("题词工程", "提示工程"),
+    ("写题词", "写提示词"),
+]
+
+
+def _fix_mt_ai_terms(zh: str) -> str:
+    out = zh
+    for bad, good in _MT_AI_TERM_FIXES:
+        if bad in out:
+            out = out.replace(bad, good)
+    return out
+
+
 def translate_to_zh_cn(session: requests.Session, text: str) -> str | None:
     s = (text or "").strip()
     if not s:
@@ -2955,7 +2974,7 @@ def translate_to_zh_cn(session: requests.Session, text: str) -> str | None:
         if not isinstance(segs, list):
             return None
         translated = "".join(str(seg[0]) for seg in segs if isinstance(seg, list) and seg and seg[0])
-        translated = translated.strip()
+        translated = _fix_mt_ai_terms(translated.strip())
         if translated and translated != s:
             return translated
     except Exception:
@@ -3010,6 +3029,7 @@ def add_bilingual_fields(
                 translated_now += 1
 
         if zh_title:
+            zh_title = _fix_mt_ai_terms(zh_title)
             out["title_zh"] = zh_title
             out["title_bilingual"] = f"{zh_title} / {title}"
         return out
