@@ -26,6 +26,7 @@ const state = {
   storiesMerged: null,
   storiesDataUrl: "data/stories-merged.json",
   activeSection: "hot",
+  sourceGroup: "all",
   boleView: "hot",
   boleExpanded: false,
   listSort: "priority",
@@ -108,11 +109,17 @@ const SECTION_DEFS = [
   { id: "models", label: "模型", short: "模型", description: "模型发布、能力升级、评测与开源权重" },
   { id: "products", label: "产品", short: "产品", description: "AI 应用、Agent、生成工具和用户产品更新" },
   { id: "devtools", label: "开发者", short: "开发者", description: "编程工具、API、开源项目、推理与工程实践" },
-  { id: "hn", label: "HN热议", short: "HN", description: "Hacker News 过去 24 小时的 AI 关键词讨论与高互动 story" },
   { id: "industry", label: "行业", short: "行业", description: "公司战略、融资收购、监管、芯片与产业变化" },
   { id: "research", label: "研究", short: "研究", description: "论文、基准、方法、数据集与研究团队动态" },
-  { id: "creator", label: "自媒体", short: "自媒体", description: "一周内互动热度优先，24 小时新内容额外加分" },
-  { id: "community", label: "社区", short: "社区", description: "WaytoAGI、中文社区、AIbase、公众号和 Builders/X 信号" },
+];
+
+// 来源形态第二轴：与内容栏目正交，叠加过滤（AND）
+const SOURCE_GROUP_DEFS = [
+  { id: "all", label: "全部来源" },
+  { id: "en", label: "英文一手" },
+  { id: "hn", label: "HN" },
+  { id: "cn", label: "中文社区" },
+  { id: "creator", label: "自媒体" },
 ];
 
 const SECTION_BY_ID = Object.fromEntries(SECTION_DEFS.map((section) => [section.id, section]));
@@ -269,6 +276,7 @@ function renderStickySummary() {
   const signalLevel = signalLevelSelectEl?.selectedOptions?.[0]?.textContent || "";
   const filters = [
     state.activeSection === "hot" ? "" : section.label,
+    state.sourceGroup === "all" ? "" : (SOURCE_GROUP_DEFS.find((g) => g.id === state.sourceGroup)?.label || ""),
     site,
     state.sourceTypeFilter ? sourceType : "",
     state.signalLevelFilter ? signalLevel : "",
@@ -452,6 +460,7 @@ function activeAdjustmentCount() {
   return [
     Boolean(state.query.trim()),
     state.activeSection !== "hot",
+    state.sourceGroup !== "all",
     Boolean(state.siteFilter || state.authorFilter),
     Boolean(state.sourceTypeFilter),
     Boolean(state.signalLevelFilter),
@@ -471,6 +480,7 @@ function renderClearFiltersButton() {
 function clearAllFilters() {
   state.query = "";
   state.activeSection = "hot";
+  state.sourceGroup = "all";
   state.siteFilter = "";
   state.authorFilter = "";
   state.sourceTypeFilter = "";
@@ -504,10 +514,6 @@ function computeSiteStats(items) {
 }
 
 function currentSiteStats() {
-  if (state.activeSection === "creator") {
-    const creatorItems = safeItems(state.mode === "all" ? state.creatorItemsAll : state.creatorItemsAi);
-    return computeSiteStats(state.mode === "selected" ? creatorItems.filter((item) => isHighPriorityItem(item)) : creatorItems);
-  }
   if (state.mode === "ai") return safeAiSiteStats().filter((site) => site.count > 0);
   return computeSiteStats(modeItems());
 }
@@ -517,7 +523,7 @@ function creatorHotScore(item) {
 }
 
 function highPriorityScore(item) {
-  if (itemSections(item).has("creator") && creatorHotScore(item)) return creatorHotScore(item);
+  if (itemSourceGroup(item) === "creator" && creatorHotScore(item)) return creatorHotScore(item);
   return scorePercent(item);
 }
 
@@ -571,7 +577,14 @@ function sectionStats(sectionId) {
 function renderSectionTabs() {
   if (!sectionTabsEl) return;
   sectionTabsEl.innerHTML = "";
-  SECTION_DEFS.forEach((section) => {
+  SECTION_DEFS.forEach((section, index) => {
+    if (index === 1) {
+      // 热点是「全部精选」，其余是互斥分类：加 1px 竖分隔提示语义差异
+      const divider = document.createElement("span");
+      divider.className = "section-tab-divider";
+      divider.setAttribute("aria-hidden", "true");
+      sectionTabsEl.appendChild(divider);
+    }
     const stats = sectionStats(section.id);
     const btn = document.createElement("button");
     btn.type = "button";
@@ -592,7 +605,53 @@ function renderSectionTabs() {
     });
     sectionTabsEl.appendChild(btn);
   });
+  renderSourceGroupChips();
   renderSectionFilterSelect();
+}
+
+// 来源形态 chips：渲染在内容 tab 行下方，与内容栏目叠加过滤
+function sourceGroupChipsContainer() {
+  if (!sectionTabsEl) return null;
+  let el = document.getElementById("sourceGroupChips");
+  if (!el) {
+    el = document.createElement("div");
+    el.id = "sourceGroupChips";
+    el.className = "source-group-chips";
+    el.setAttribute("role", "group");
+    el.setAttribute("aria-label", "来源形态筛选");
+    sectionTabsEl.insertAdjacentElement("afterend", el);
+  }
+  return el;
+}
+
+function sourceGroupStats(groupId) {
+  const items = sectionItems();
+  if (groupId === "all") return items.length;
+  return items.filter((item) => itemSourceGroup(item) === groupId).length;
+}
+
+function renderSourceGroupChips() {
+  const wrap = sourceGroupChipsContainer();
+  if (!wrap) return;
+  wrap.innerHTML = "";
+  SOURCE_GROUP_DEFS.forEach((group) => {
+    const btn = document.createElement("button");
+    btn.type = "button";
+    const active = state.sourceGroup === group.id;
+    btn.className = `pill source-group-chip ${active ? "active" : ""}`;
+    btn.setAttribute("aria-pressed", active ? "true" : "false");
+    btn.dataset.sourceGroup = group.id;
+    btn.textContent = `${group.label} ${fmtNumber(sourceGroupStats(group.id))}`;
+    btn.addEventListener("click", () => {
+      state.sourceGroup = group.id;
+      renderSourceGroupChips();
+      renderModeSwitch();
+      renderBolePicks();
+      if (state.waytoagiData) renderWaytoagi(state.waytoagiData);
+      renderList();
+    });
+    wrap.appendChild(btn);
+  });
 }
 
 function renderSectionFilterSelect() {
@@ -617,7 +676,7 @@ function renderSectionSummary(filteredItems = null) {
   const modeText = state.mode === "selected"
     ? "高优先级精选"
     : (state.mode === "all" ? (state.allDedup ? "全量去重" : "全量原始") : "全部 AI");
-  const windowText = state.activeSection === "creator" ? `过去 ${fmtNumber(state.creatorWindowDays)} 天 · 热度优先` : "过去 24 小时";
+  const windowText = "过去 24 小时";
   sectionSummaryEl.textContent = `${windowText} · ${fmtNumber(items.length)} 条${section.id === "hot" ? "" : ` ${section.label}`}信号 · ${fmtNumber(highCount)} 条高优先级 · ${fmtNumber(sources.size)} 个来源 · ${modeText}`;
   renderStickySummary();
 }
@@ -783,14 +842,6 @@ function modeItems() {
 }
 
 function sectionItems(items = modeItems(), sectionId = state.activeSection) {
-  if (sectionId === "creator") {
-    const creatorSource = state.mode === "all" ? state.creatorItemsAll : state.creatorItemsAi;
-    const visibleCreatorItems = safeItems(creatorSource);
-    const selectedCreatorItems = state.mode === "selected"
-      ? visibleCreatorItems.filter((item) => isHighPriorityItem(item))
-      : visibleCreatorItems;
-    return selectedCreatorItems.sort((a, b) => creatorHotScore(b) - creatorHotScore(a) || timelineMs(b) - timelineMs(a));
-  }
   const source = Array.isArray(items) ? items : [];
   if (sectionId === "hot") {
     return [...source].sort((a, b) => itemPriorityScore(b) - itemPriorityScore(a) || timelineMs(b) - timelineMs(a));
@@ -801,6 +852,7 @@ function sectionItems(items = modeItems(), sectionId = state.activeSection) {
 function getFilteredItems() {
   const q = state.query.trim().toLowerCase();
   const preliminary = sectionItems().filter((item) => {
+    if (!itemMatchesSourceGroup(item)) return false;
     if (state.siteFilter && item.site_id !== state.siteFilter) return false;
     if (state.authorFilter && (item.site_id !== "socialdata_x" || item.source !== state.authorFilter)) return false;
     if (state.sourceTypeFilter && itemSourceType(item) !== state.sourceTypeFilter) return false;
@@ -880,13 +932,12 @@ function itemLabelTone(item) {
   const label = item.ai_label || "";
   if (item.site_id === "official_ai") return "official";
   if (item.site_id === "aihot" || label === "curated_hotlist") return "hot";
-  if (itemSections(item).has("creator")) return "creator";
+  if (itemSourceGroup(item) === "creator") return "creator";
   if (label === "model_release") return "models";
   if (label === "developer_tool" || label === "developer_tooling" || label === "infrastructure" || label === "infra_compute") return "devtools";
   if (label === "research_paper") return "research";
   if (label === "industry_business") return "industry";
   if (label === "ai_product_update" || label === "agent_workflow" || label === "robotics") return "products";
-  if (itemSections(item).has("community")) return "community";
   return "default";
 }
 
@@ -952,7 +1003,7 @@ function freshnessPercent(item, halfLifeHours = 48) {
 
 function itemPriorityScore(item) {
   const creatorScore = creatorHotScore(item);
-  if (creatorScore && itemSections(item).has("creator")) return creatorScore;
+  if (creatorScore && itemSourceGroup(item) === "creator") return creatorScore;
   const internal = scorePercent(item);
   const editorial = editorialPercent(item);
   const source = sourceTierPercent(item);
@@ -998,86 +1049,71 @@ function matchesAny(text, patterns) {
   return patterns.some((pattern) => pattern.test(text));
 }
 
-function itemSections(item) {
-  const hay = itemHaystack(item);
-  const contentHay = [
-    item.title,
-    item.title_zh,
-    item.title_en,
-    item.title_original,
-    item.source,
-    item.site_name,
-    item.site_id,
-    ...(Array.isArray(item.ai_signals) ? item.ai_signals : []),
-  ].filter(Boolean).join(" ").toLowerCase();
-  const sections = new Set();
-  const label = item.ai_label || "";
-  const source = `${item.source || ""} ${item.site_name || ""}`.toLowerCase();
-  const hasExplicitModelTerm = matchesAny(contentHay, [
+// 互斥单值内容分类：优先用后端 ai_label，泛化标签走正则优先级（首个命中即停）
+const AI_LABEL_SECTION_MAP = {
+  model_release: "models",
+  ai_product_update: "products",
+  agent_workflow: "products",
+  robotics: "products",
+  developer_tool: "devtools",
+  developer_tooling: "devtools",
+  infra_compute: "devtools",
+  research_paper: "research",
+  industry_business: "industry",
+};
+
+const SECTION_FALLBACK_RULES = [
+  ["research", [
+    /paper|arxiv|research|benchmark|eval|dataset|lmsys|rdi|berkeley|huggingface daily papers|论文|研究|基准|评测|数据集|训练|k-means|speculative decoding/,
+  ]],
+  ["models", [
     /gpt[-\s]?\d|claude|gemini|grok|llama|qwen|deepseek|mistral|kimi\s?k\d|glm|gemma|模型|model|weights|权重|多模态|视频生成|diffusion|sora|seedance|llm|大模型/,
-  ]);
-  const looksLikeToolOrProduct = matchesAny(hay, [
-    /skill|copilot|codex|cli|api|sdk|dashboard|workflow|tool|工具|助手|应用|插件|工作流|支付宝|浏览器|搜索/,
-  ]);
+  ]],
+  ["devtools", [
+    /github|cursor|codex|copilot|openrouter|api|sdk|mcp|cli|framework|inference|推理|开发者|开源|代码|编程|算力|芯片|nvidia|cloud|部署|benchmarking|token/,
+  ]],
+  ["products", [
+    /app|product|agent|workflow|siri|copilot|chatgpt|perplexity|runway|suno|支付宝|产品|应用|智能体|机器人|浏览器|搜索|助手|生成工具|办公|教育/,
+  ]],
+  ["industry", [
+    /funding|raised|ipo|acquire|acquisition|lawsuit|regulation|policy|white house|pentagon|nvidia|salesforce|meta|microsoft|融资|收购|上市|监管|政策|裁员|估值|债券|芯片|公司|行业|政府|五角大楼|白宫/,
+  ]],
+];
 
-  if (
-    hasExplicitModelTerm ||
-    (label === "model_release" && !looksLikeToolOrProduct)
-  ) sections.add("models");
+function itemSection(item) {
+  const label = item.ai_label || "";
+  const mapped = AI_LABEL_SECTION_MAP[label];
+  if (mapped) return mapped;
+  const hay = itemHaystack(item);
+  for (const [sectionId, patterns] of SECTION_FALLBACK_RULES) {
+    if (matchesAny(hay, patterns)) return sectionId;
+  }
+  return "industry";
+}
 
+// 来源形态第二轴：只看来源字段（site_id / source / site_name），不看标题内容
+function itemSourceGroup(item) {
+  const siteId = item.site_id || "";
+  const source = `${item.source || ""} ${item.site_name || ""}`.toLowerCase();
   if (
-    label === "ai_product_update" ||
-    label === "agent_workflow" ||
-    label === "robotics" ||
-    matchesAny(hay, [
-      /app|product|agent|workflow|siri|copilot|chatgpt|perplexity|runway|suno|支付宝|产品|应用|智能体|机器人|浏览器|搜索|助手|生成工具|办公|教育/,
-    ])
-  ) sections.add("products");
-
-  if (
-    label === "developer_tool" ||
-    label === "developer_tooling" ||
-    label === "infra_compute" ||
-    matchesAny(hay, [
-      /github|cursor|codex|copilot|openrouter|api|sdk|mcp|cli|framework|inference|推理|开发者|开源|代码|编程|算力|芯片|nvidia|cloud|部署|benchmarking|token/,
-    ])
-  ) sections.add("devtools");
-
-  if (
-    item.site_id === "hackernews" ||
-    item.site_id === "zeli" ||
+    siteId === "hackernews" ||
+    siteId === "zeli" ||
     source.includes("hacker news") ||
     source.includes("hackernews") ||
     source.includes("hn algolia")
-  ) sections.add("hn");
-
+  ) return "hn";
   if (
-    label === "industry_business" ||
-    matchesAny(hay, [
-      /funding|raised|ipo|acquire|acquisition|lawsuit|regulation|policy|white house|pentagon|nvidia|salesforce|meta|microsoft|融资|收购|上市|监管|政策|裁员|估值|债券|芯片|公司|行业|政府|五角大楼|白宫/,
-    ])
-  ) sections.add("industry");
-
-  if (
-    label === "research_paper" ||
-    matchesAny(hay, [
-      /paper|arxiv|research|benchmark|eval|dataset|lmsys|rdi|berkeley|huggingface daily papers|论文|研究|基准|评测|数据集|训练|k-means|speculative decoding/,
-    ])
-  ) sections.add("research");
-
-  if (
-    item.site_id === "tikhub_douyin" ||
-    item.site_id === "tikhub_xiaohongshu" ||
+    siteId === "tikhub_douyin" ||
+    siteId === "tikhub_xiaohongshu" ||
     source.includes("douyin") ||
     source.includes("xiaohongshu") ||
     source.includes("小红书") ||
     source.includes("抖音")
-  ) sections.add("creator");
-
+  ) return "creator";
   if (
-    item.site_id === "waytoagi" ||
-    item.site_id === "followbuilders" ||
-    item.site_id === "aibase" ||
+    siteId === "waytoagi" ||
+    siteId === "followbuilders" ||
+    siteId === "aibase" ||
     source.includes("it之家") ||
     source.includes("36氪") ||
     source.includes("掘金") ||
@@ -1085,19 +1121,17 @@ function itemSections(item) {
     source.includes("aibase") ||
     source.includes("公众号") ||
     source.includes("宝玉") ||
-    source.includes("小互") ||
-    source.includes("ayi") ||
-    matchesAny(hay, [
-      /waytoagi|社区|公众号|阿里|通义|千问|智谱|kimi|月之暗面|minimax|字节|火山|百度|腾讯|华为|蚂蚁|讯飞|国内|中文|开源中国|少数派|虎嗅/,
-    ])
-  ) sections.add("community");
-
-  if (!sections.size) sections.add("industry");
-  return sections;
+    source.includes("小互")
+  ) return "cn";
+  return "en";
 }
 
 function itemMatchesSection(item, sectionId) {
-  return sectionId === "hot" || itemSections(item).has(sectionId);
+  return sectionId === "hot" || itemSection(item) === sectionId;
+}
+
+function itemMatchesSourceGroup(item, groupId = state.sourceGroup) {
+  return !groupId || groupId === "all" || itemSourceGroup(item) === groupId;
 }
 
 function sectionBadgeLabel(sectionId) {
@@ -1106,7 +1140,7 @@ function sectionBadgeLabel(sectionId) {
 
 function reasonText(item) {
   const creatorScore = creatorHotScore(item);
-  if (creatorScore && itemSections(item).has("creator")) {
+  if (creatorScore && itemSourceGroup(item) === "creator") {
     const metrics = item.creator_metrics || {};
     const parts = [
       `赞 ${fmtNumber(metrics.likes)}`,
@@ -1769,6 +1803,7 @@ function renderBoleFallback(picks) {
 function storyMatchesFilteredItems(story, filteredItems) {
   if (
     state.activeSection === "hot" &&
+    state.sourceGroup === "all" &&
     !state.siteFilter &&
     !state.authorFilter &&
     !state.sourceTypeFilter &&
@@ -1810,7 +1845,6 @@ function uniqueStories(stories, excludeKeys = new Set(), excludeIdentityKeys = n
 }
 
 function currentStoryPools(filteredItems) {
-  if (state.activeSection === "creator") return { brief: [], merged: [], followup: [] };
   const brief = briefStories().filter((story) => storyMatchesFilteredItems(story, filteredItems));
   const merged = mergedStories().filter((story) => storyMatchesFilteredItems(story, filteredItems));
   const briefKeys = new Set(brief.map(storyStableKey).filter(Boolean));
@@ -2090,9 +2124,7 @@ function rankedClustersForItems(items) {
     .map((item, index) => ({
       item,
       index,
-      score: state.activeSection === "creator"
-        ? creatorHotScore(item)
-        : (scorePercent(item) || Math.round(itemPriorityScore(item))),
+      score: scorePercent(item) || Math.round(itemPriorityScore(item)),
     }))
     .filter((row) => row.item && (row.score > 0 || row.item.title))
     .sort((a, b) => itemPriorityScore(b.item) - itemPriorityScore(a.item) || timelineMs(b.item) - timelineMs(a.item));
@@ -2120,17 +2152,11 @@ function pickTopHeadlineClusters(clusters, limit = 3) {
 
 function itemTagLabels(item, row = null) {
   const tags = [];
-  const sections = itemSections(item);
-  if (state.activeSection !== "hot") tags.push(sectionBadgeLabel(state.activeSection));
   if (row && (row.sourceCount > 1 || row.mergedCount > 1)) tags.push("多源验证");
   if (item.site_id === "official_ai") tags.push("官方");
   if (item.site_id === "aihot") tags.push("AI HOT");
-  if (sections.has("models")) tags.push("模型发布");
-  if (sections.has("devtools")) tags.push("开发者");
-  if (sections.has("hn")) tags.push("社区热议");
-  if (sections.has("research")) tags.push("研究");
-  if (sections.has("creator")) tags.push("自媒体");
-  if (sections.has("community")) tags.push("社区");
+  // 单值栏目：一条 item 只显示一个栏目徽章
+  tags.push(sectionBadgeLabel(itemSection(item)));
   return Array.from(new Set(tags)).slice(0, 3);
 }
 
@@ -2193,39 +2219,36 @@ function signalSummaryText(row) {
 function whyImportantText(row) {
   const item = row.item || {};
   const story = row.story || {};
-  const sections = itemSections(item);
+  const section = itemSection(item);
   const reasons = Array.isArray(story.reasons) ? story.reasons : [];
   if (reasons.includes("official_source") && reasons.includes("multi_source")) {
     return "一手来源和聚合来源同时出现，说明它既有事实起点，也正在被外部信息流放大。";
   }
-  if (sections.has("models")) {
+  if (section === "models") {
     return "模型能力或训练/推理方式变化会影响后续产品路线、开发者选型和评测基准。";
   }
-  if (sections.has("devtools")) {
+  if (section === "devtools") {
     return "开发者工具和基础设施变化通常会很快传导到团队工作流、成本和可实现能力。";
   }
-  if (sections.has("industry")) {
+  if (section === "industry") {
     return "公司、监管、芯片或资本动态会改变 AI 生态的资源分配和落地节奏。";
   }
-  if (sections.has("research")) {
+  if (section === "research") {
     return "研究信号可能还没产品化，但会提示下一轮模型、数据或方法的技术方向。";
-  }
-  if (sections.has("community") || sections.has("hn")) {
-    return "社区集中讨论代表开发者和早期用户正在形成共识，适合作为趋势验证入口。";
   }
   return "它在当前 24 小时窗口里同时具备相关度、新鲜度和来源权重，值得先读原文确认。";
 }
 
 function impactLabels(item) {
-  const sections = itemSections(item);
-  const labels = [];
-  if (sections.has("devtools")) labels.push("开发者");
-  if (sections.has("products")) labels.push("产品");
-  if (sections.has("industry")) labels.push("企业 / 投资");
-  if (sections.has("research")) labels.push("研究");
-  if (sections.has("models")) labels.push("模型团队");
-  if (sections.has("community") || sections.has("hn")) labels.push("社区");
-  return labels.slice(0, 3).length ? labels.slice(0, 3) : ["AI 观察者"];
+  const impactBySection = {
+    devtools: "开发者",
+    products: "产品",
+    industry: "企业 / 投资",
+    research: "研究",
+    models: "模型团队",
+  };
+  const label = impactBySection[itemSection(item)];
+  return label ? [label] : ["AI 观察者"];
 }
 
 function buildTopStoryCard(row, rank) {
@@ -2386,7 +2409,7 @@ function renderItemNode(item, context = {}) {
   const creatorScore = creatorHotScore(item);
   const tagEl = document.createElement("span");
   tagEl.className = `ai-tag tone-${itemLabelTone(item)}`;
-  tagEl.textContent = creatorScore && itemSections(item).has("creator")
+  tagEl.textContent = creatorScore && itemSourceGroup(item) === "creator"
     ? `自媒体热度 · ${creatorScore}分`
     : `${labelText(item)} · ${score || "?"}分`;
   categoryEl.insertAdjacentElement("afterend", tagEl);
@@ -2761,10 +2784,11 @@ function waytoagiViews(waytoagi) {
 }
 
 function renderWaytoagi(waytoagi) {
+  // community tab 已删除：WaytoAGI 面板改为跟随「中文社区」来源分组显示
   if (waytoagiWrapEl) {
-    waytoagiWrapEl.hidden = state.activeSection !== "community";
+    waytoagiWrapEl.hidden = state.sourceGroup !== "cn";
   }
-  if (state.activeSection !== "community") return;
+  if (state.sourceGroup !== "cn") return;
   const { updates7d, updatesToday, latestDate } = waytoagiViews(waytoagi);
   if (waytoagiTodayBtnEl) waytoagiTodayBtnEl.classList.toggle("active", state.waytoagiMode === "today");
   if (waytoagi7dBtnEl) waytoagi7dBtnEl.classList.toggle("active", state.waytoagiMode === "7d");
@@ -3277,7 +3301,7 @@ async function init() {
     state.waytoagiData = waytoagiResult.value;
     renderWaytoagi(state.waytoagiData);
   } else {
-    if (waytoagiWrapEl) waytoagiWrapEl.hidden = state.activeSection !== "community";
+    if (waytoagiWrapEl) waytoagiWrapEl.hidden = state.sourceGroup !== "cn";
     waytoagiUpdatedAtEl.textContent = "加载失败";
     waytoagiListEl.innerHTML = `<div class="waytoagi-error">${waytoagiResult.reason.message}</div>`;
   }

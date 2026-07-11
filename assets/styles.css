@@ -3011,3 +3011,33 @@ summary:focus-visible {
     border-top: 1px solid var(--line);
   }
 }
+
+/* ---- 方案 A：来源形态第二轴 chips + 热点 tab 分隔（只用现有 token） ---- */
+
+/* 热点与互斥内容分类之间的 1px 竖分隔 */
+.section-tab-divider {
+  flex: 0 0 auto;
+  align-self: stretch;
+  width: 1px;
+  margin: 6px 4px;
+  background: var(--line);
+}
+
+/* 来源形态 chips：复用 .pill 基础样式，选中态用 accent 边框 + accent 文字，0 圆角 1px 边框 */
+.source-group-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 8px;
+}
+
+.source-group-chip {
+  border-radius: 0;
+  cursor: pointer;
+}
+
+.source-group-chip.active {
+  background: transparent;
+  border-color: var(--accent);
+  color: var(--accent);
+}
