@@ -88,6 +88,10 @@ const SOURCE_KINDS = {
   opmlrss: { label: "OPML", tone: "newsletter" },
 };
 
+// aihotSubSource() 结果 → 卡片小标签文案/色调，色调复用既有 .category.kind-* 规则，不新增样式
+const AIHOT_SUB_LABELS = { x: "X", wechat: "公众号", hn: "HN", rss: "RSS" };
+const AIHOT_SUB_TONES = { x: "builders", wechat: "creator", hn: "aggregate", rss: "newsletter" };
+
 // AIHOT 式单层内容 tab：全部（默认，无过滤）+ 5 个主题栏目 + 社区 + 自媒体，互斥单值。
 const SECTION_DEFS = [
   { id: "all", label: "全部", short: "全部", description: "不筛选内容栏目，查看全部信号" },
@@ -660,9 +664,51 @@ const SECTION_FALLBACK_RULES = [
   ]],
 ];
 
+// AIHOT 聚合器条目按原始平台粗分类（从 item.source 字符串推断），
+// 供社区/自媒体归类与卡片小标签复用；无法识别时返回 null，不影响原有主题分类兜底。
+function aihotSubSource(item) {
+  if (!item || item.site_id !== "aihot") return null;
+  const source = String(item.source || "");
+  if (source.includes("公众号")) return "wechat";
+  if (/^X[:：]/.test(source)) return "x";
+  if (source.includes("Hacker News")) return "hn";
+  if (/（RSS）\s*$/.test(source) || /\(RSS\)\s*$/.test(source)) return "rss";
+  return null;
+}
+
+// X 作者身份统一：canonical identity = @handle（大小写不敏感提取，用于筛选/去重比较）。
+// socialdata_x 的 source 本身就是裸 handle；aihot 转发的 X 帖子 source 形如 "X：Name (@handle)"。
+function itemXAuthorSource(item) {
+  if (!item) return null;
+  if (item.site_id === "socialdata_x") return String(item.source || "").trim() || null;
+  if (aihotSubSource(item) === "x") return String(item.source || "").trim() || null;
+  return null;
+}
+
+function itemXAuthor(item) {
+  const source = itemXAuthorSource(item);
+  if (!source) return null;
+  const match = source.match(/@([A-Za-z0-9_]+)/);
+  return match ? `@${match[1]}` : null;
+}
+
+// 展示名：socialdata_x 只有裸 handle；aihot 去掉 "X：" 前缀后是更丰富的 "Name (@handle)"。
+function itemXAuthorDisplay(item) {
+  if (item?.site_id === "socialdata_x") {
+    return String(item.source || "").trim() || null;
+  }
+  if (aihotSubSource(item) === "x") {
+    return String(item.source || "").replace(/^X[:：]\s*/, "").trim() || null;
+  }
+  return null;
+}
+
 // 来源形态归类：自媒体 / 社区（HN + 中文技术社区），只看来源字段，不看标题内容
 function itemSourceGroup(item) {
   const siteId = item.site_id || "";
+  const aihotSub = aihotSubSource(item);
+  if (aihotSub === "wechat") return "creator";
+  if (aihotSub === "hn") return "community";
   const source = `${item.source || ""} ${item.site_name || ""}`.toLowerCase();
   if (
     siteId === "tikhub_douyin" ||
@@ -764,7 +810,7 @@ function storyMatchesSiteFilter(story) {
   ].filter(Boolean);
   return refs.some((ref) => {
     if (state.siteFilter && ref.site_id !== state.siteFilter) return false;
-    if (state.authorFilter && (ref.site_id !== "socialdata_x" || ref.source !== state.authorFilter)) return false;
+    if (state.authorFilter && itemXAuthor(ref) !== state.authorFilter) return false;
     return true;
   });
 }
@@ -1063,7 +1109,7 @@ function mainListRawItemsBase() {
   const q = state.query.trim().toLowerCase();
   return effectiveAllItems().filter((item) => {
     if (state.siteFilter && item.site_id !== state.siteFilter) return false;
-    if (state.authorFilter && (item.site_id !== "socialdata_x" || item.source !== state.authorFilter)) return false;
+    if (state.authorFilter && itemXAuthor(item) !== state.authorFilter) return false;
     if (!q) return true;
     return itemHaystack(item).includes(q);
   });
@@ -1262,6 +1308,14 @@ function renderItemNode(row) {
   const categoryEl = node.querySelector(".category");
   categoryEl.textContent = kind.label;
   categoryEl.className = `category kind-${kind.tone}`;
+
+  const aihotSub = aihotSubSource(item);
+  if (aihotSub) {
+    const subChip = document.createElement("span");
+    subChip.className = `category kind-${AIHOT_SUB_TONES[aihotSub]}`;
+    subChip.textContent = AIHOT_SUB_LABELS[aihotSub];
+    categoryEl.insertAdjacentElement("afterend", subChip);
+  }
 
   const sourceEl = node.querySelector(".source");
   const sourceLabel = sourceSignal(item);
@@ -1614,18 +1668,32 @@ function renderWaytoagi(waytoagi) {
   });
 }
 
+// 按 @handle 去重后的 X 作者列表：{ handle, display }，display 优先取 aihot 的
+// "Name (@handle)" 富格式，没有的话退回 socialdata_x 的裸 handle。
 function socialdataAuthors() {
-  return Array.from(new Set(
-    state.itemsAi
-      .filter((item) => item.site_id === "socialdata_x")
-      .map((item) => String(item.source || "").trim())
-      .filter(Boolean),
-  )).sort((a, b) => a.localeCompare(b, "en"));
+  const byHandle = new Map();
+  state.itemsAi.forEach((item) => {
+    const handle = itemXAuthor(item);
+    if (!handle) return;
+    const display = itemXAuthorDisplay(item);
+    if (!display) return;
+    const isRich = item.site_id === "aihot";
+    const existing = byHandle.get(handle);
+    if (!existing || (isRich && !existing.rich)) {
+      byHandle.set(handle, { handle, display, rich: isRich });
+    }
+  });
+  return Array.from(byHandle.values())
+    .map(({ handle, display }) => ({ handle, display }))
+    .sort((a, b) => a.display.localeCompare(b.display, "en"));
 }
 
 function selectSocialdataAuthor(author) {
   state.authorFilter = author;
-  state.siteFilter = "socialdata_x";
+  // 作者身份现在横跨 socialdata_x 与 aihot-x 两个 site_id（见 itemXAuthor），
+  // 不能再锁死 siteFilter="socialdata_x"，否则会把该作者的 aihot 转发条目过滤掉。
+  // authorFilter 本身已经是跨站点的精确匹配，siteFilter 留空即可。
+  state.siteFilter = "";
   // 博主筛选是条目级过滤：切到全量模式浏览该博主的原始条目池，并清空栏目选择
   state.activeSection = "all";
   state.mode = "all";
@@ -1651,12 +1719,12 @@ function renderSocialdataAuthorList(authors, itemCount) {
   meta.textContent = `${fmtNumber(authors.length)} 位博主 · ${fmtNumber(itemCount)} 条入池内容`;
   const list = document.createElement("div");
   list.className = "health-author-list-items";
-  authors.forEach((author) => {
+  authors.forEach(({ handle, display }) => {
     const item = document.createElement("button");
     item.type = "button";
-    item.textContent = author;
-    item.title = `查看 ${author} 的 X 内容`;
-    item.addEventListener("click", () => selectSocialdataAuthor(author));
+    item.textContent = display;
+    item.title = `查看 ${display} 的 X 内容`;
+    item.addEventListener("click", () => selectSocialdataAuthor(handle));
     list.appendChild(item);
   });
   panel.append(heading, meta, list);
@@ -1831,10 +1899,8 @@ function renderSourceHealth(errorMessage = "") {
   // X 博主展开列表：功能保留，从已删除的 mini-card 挪到提示行下方的小链接。
   const xAuthors = socialdataAuthors();
   if (xAuthors.length) {
-    const socialdata = status.socialdata || {};
-    const socialdataLiveCount = Number(socialdata.item_count || 0);
-    const socialdataPoolCount = siteAiPoolCount("socialdata_x");
-    const socialdataDisplayCount = socialdataLiveCount || socialdataPoolCount;
+    // 与 socialdataAuthors() 同口径的客户端计数：socialdata_x 原生条目 + aihot 转发的 X 条目
+    const socialdataDisplayCount = state.itemsAi.filter((item) => itemXAuthor(item)).length;
 
     const toggle = document.createElement("button");
     toggle.type = "button";
