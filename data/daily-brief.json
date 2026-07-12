@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T23:26:38.285913Z",
+  "generated_at": "2026-07-12T01:05:32.191158Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -127,15 +127,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8345,
-      "importance": 0.8345,
-      "importance_score": 0.8345,
+      "score": 0.8306,
+      "importance": 0.8306,
+      "importance_score": 0.8306,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9048,
+        "recency": 0.8836,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -155,6 +155,107 @@
         "summary": "Ghost Font 是一种利用运动、视频、噪点和诱饵来隐藏文字的反AI字体。用户输入文字后可生成并下载视频片段，视频中的字母由与背景完全相同的点组成，单帧截图无法显示任何信息。该字体生成的视频被传递给Claude Fable和GPT Sol 5.6 Ultra等前沿模型时，这些模型即使具备编程能力也无法解码移动信息，直到被提示具体技术。视频中还包含一条诱饵信息，使模型误以为找到真实内容。项目灵感来自2013年Sang Mun设计的ZXX字体，但现代AI已能轻松读取ZXX。Ghost Font目前为本地原型，数据不发送至任何服务器。作者计划未来将视频生成代码开源，并探索将其用于CAPTCHA系统或AI视觉感知基准测试。",
         "url": "https://www.mixfont.com/ghost-font",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_516fc0ac5d68",
+      "title": "彭博社揭秘苹果起诉 OpenAI 内幕：前员工一句\"哈哈\"成窃密关键",
+      "url": "https://www.ithome.com/0/975/634.htm",
+      "primary_url": "https://www.ithome.com/0/975/634.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "df2ac398e345fc03cbcf8fe07a6c8e5611bac796",
+          "title": "彭博社揭秘苹果起诉 OpenAI 内幕：前员工一句\"哈哈\"成窃密关键",
+          "title_zh": "彭博社揭秘苹果起诉 OpenAI 内幕：前员工一句\"哈哈\"成窃密关键",
+          "title_en": null,
+          "title_original": "彭博社揭秘苹果起诉 OpenAI 内幕：前员工一句\"哈哈\"成窃密关键",
+          "summary": "苹果起诉 OpenAI，指控前工程师 Chang Liu 离职时带走未归还的 MacBook、一名可分享内情的员工，并利用软件漏洞持续访问苹果内网。他发现漏洞后向同事分享\"哈哈，我发现我还能访问网络存储\"，后者协助其获取更多机密。苹果称 OpenAI 试图复制 iPhone 产品研发体系，核心从非法窃取的商业机密腐烂。目前已有超 400 名苹果员工跳槽至 OpenAI，包括前苹果高管、现任 OpenAI 首席硬件官 Tang Tan。苹果曾于今年 2 月尝试私了，但 OpenAI 未回应。",
+          "url": "https://www.ithome.com/0/975/634.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-11T23:21:57Z"
+        },
+        {
+          "id": "541642064efe9509bb57610ceaf13efd86eff2c5",
+          "title": "彭博社揭秘苹果起诉 OpenAI 内幕：前员工一句“哈哈”成窃密关键",
+          "title_zh": "彭博社揭秘苹果起诉 OpenAI 内幕：前员工一句“哈哈”成窃密关键",
+          "title_en": null,
+          "title_original": "彭博社揭秘苹果起诉 OpenAI 内幕：前员工一句“哈哈”成窃密关键",
+          "summary": null,
+          "url": "https://www.ithome.com/0/975/634.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-11T23:21:57Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "df2ac398e345fc03cbcf8fe07a6c8e5611bac796",
+          "title": "彭博社揭秘苹果起诉 OpenAI 内幕：前员工一句\"哈哈\"成窃密关键",
+          "title_zh": "彭博社揭秘苹果起诉 OpenAI 内幕：前员工一句\"哈哈\"成窃密关键",
+          "title_en": null,
+          "title_original": "彭博社揭秘苹果起诉 OpenAI 内幕：前员工一句\"哈哈\"成窃密关键",
+          "summary": "苹果起诉 OpenAI，指控前工程师 Chang Liu 离职时带走未归还的 MacBook、一名可分享内情的员工，并利用软件漏洞持续访问苹果内网。他发现漏洞后向同事分享\"哈哈，我发现我还能访问网络存储\"，后者协助其获取更多机密。苹果称 OpenAI 试图复制 iPhone 产品研发体系，核心从非法窃取的商业机密腐烂。目前已有超 400 名苹果员工跳槽至 OpenAI，包括前苹果高管、现任 OpenAI 首席硬件官 Tang Tan。苹果曾于今年 2 月尝试私了，但 OpenAI 未回应。",
+          "url": "https://www.ithome.com/0/975/634.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-11T23:21:57Z"
+        },
+        {
+          "id": "541642064efe9509bb57610ceaf13efd86eff2c5",
+          "title": "彭博社揭秘苹果起诉 OpenAI 内幕：前员工一句“哈哈”成窃密关键",
+          "title_zh": "彭博社揭秘苹果起诉 OpenAI 内幕：前员工一句“哈哈”成窃密关键",
+          "title_en": null,
+          "title_original": "彭博社揭秘苹果起诉 OpenAI 内幕：前员工一句“哈哈”成窃密关键",
+          "summary": null,
+          "url": "https://www.ithome.com/0/975/634.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-11T23:21:57Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7822,
+      "importance": 0.7822,
+      "importance_score": 0.7822,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9754,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-11T23:21:57Z",
+      "latest_at": "2026-07-11T23:21:57Z",
+      "primary_item": {
+        "id": "df2ac398e345fc03cbcf8fe07a6c8e5611bac796",
+        "title": "彭博社揭秘苹果起诉 OpenAI 内幕：前员工一句\"哈哈\"成窃密关键",
+        "title_zh": "彭博社揭秘苹果起诉 OpenAI 内幕：前员工一句\"哈哈\"成窃密关键",
+        "title_en": null,
+        "title_original": "彭博社揭秘苹果起诉 OpenAI 内幕：前员工一句\"哈哈\"成窃密关键",
+        "summary": "苹果起诉 OpenAI，指控前工程师 Chang Liu 离职时带走未归还的 MacBook、一名可分享内情的员工，并利用软件漏洞持续访问苹果内网。他发现漏洞后向同事分享\"哈哈，我发现我还能访问网络存储\"，后者协助其获取更多机密。苹果称 OpenAI 试图复制 iPhone 产品研发体系，核心从非法窃取的商业机密腐烂。目前已有超 400 名苹果员工跳槽至 OpenAI，包括前苹果高管、现任 OpenAI 首席硬件官 Tang Tan。苹果曾于今年 2 月尝试私了，但 OpenAI 未回应。",
+        "url": "https://www.ithome.com/0/975/634.htm",
+        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -228,15 +329,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
+      "score": 0.7591,
+      "importance": 0.7591,
+      "importance_score": 0.7591,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7994,
+        "recency": 0.7806,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -302,15 +403,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7548,
-      "importance": 0.7548,
-      "importance_score": 0.7548,
+      "score": 0.7509,
+      "importance": 0.7509,
+      "importance_score": 0.7509,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9121,
+        "recency": 0.8907,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -329,6 +430,150 @@
         "summary": "剑桥大学CASP研究员Antonia Jülich对27名前成员的57次访谈显示，博科圣地已使用ChatGPT、Claude、Gemini、Grok、Meta AI和DeepSeek等主流AI聊天机器人，用于袭击策划、制造更强爆炸装置、武器维护及行动安全。该组织两个派系均设立了专门的AI部门。ISIS自2023年起便提供提示工程和越狱培训，并训练尼日利亚的博科圣地指挥官绕过AI安全过滤器。研究指出，安全过滤器未能可靠防止滥用。Anthropic近期承认，越狱可能永远无法完全消除。",
         "url": "https://the-decoder.com/terrorist-groups-are-using-every-major-ai-chatbot-for-attack-planning-and-weapons-development",
         "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_57583f5b9bca",
+      "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果 / \"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
+      "url": "https://x.com/sama/status/2075985056846451123",
+      "primary_url": "https://x.com/sama/status/2075985056846451123",
+      "source": "X：Sam Altman (@sama)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "22ef182015f2e83386377266bcbf01ec0a50df4d",
+          "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果 / \"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
+          "title_zh": "OpenAI 发布 GPT-5.6 系列医疗评估结果",
+          "title_en": "\"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
+          "title_original": "\"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
+          "summary": "OpenAI 发布 GPT-5.6 系列在医疗领域的评估结果。最小变体 GPT-5.6 Luna 在最低推理强度下即超越最高推理强度的 GPT-5.5，且成本低 25 倍；最大变体 GPT-5.6 Sol 树立新标杆。在涵盖患者端与临床端的多样化任务中，专科医生被要求以无限时间和网络访问权限撰写回答，随后由其他医生盲评。评估基于准确性、沟通、完整性、指令遵循及健康决策帮助性五个维度，共 20000 次评分。结果显示，所有 GPT-5.6 模型表现均显著优于医生，且医生发现 GPT-5.6 回答中的缺陷少于医生自己撰写的回答。",
+          "url": "https://x.com/sama/status/2075985056846451123",
+          "source": "X：Sam Altman (@sama)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-11T16:46:22Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Sam Altman (@sama)"
+      ],
+      "items": [
+        {
+          "id": "22ef182015f2e83386377266bcbf01ec0a50df4d",
+          "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果 / \"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
+          "title_zh": "OpenAI 发布 GPT-5.6 系列医疗评估结果",
+          "title_en": "\"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
+          "title_original": "\"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
+          "summary": "OpenAI 发布 GPT-5.6 系列在医疗领域的评估结果。最小变体 GPT-5.6 Luna 在最低推理强度下即超越最高推理强度的 GPT-5.5，且成本低 25 倍；最大变体 GPT-5.6 Sol 树立新标杆。在涵盖患者端与临床端的多样化任务中，专科医生被要求以无限时间和网络访问权限撰写回答，随后由其他医生盲评。评估基于准确性、沟通、完整性、指令遵循及健康决策帮助性五个维度，共 20000 次评分。结果显示，所有 GPT-5.6 模型表现均显著优于医生，且医生发现 GPT-5.6 回答中的缺陷少于医生自己撰写的回答。",
+          "url": "https://x.com/sama/status/2075985056846451123",
+          "source": "X：Sam Altman (@sama)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-11T16:46:22Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7352,
+      "importance": 0.7352,
+      "importance_score": 0.7352,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8868,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-11T16:46:22Z",
+      "latest_at": "2026-07-11T16:46:22Z",
+      "primary_item": {
+        "id": "22ef182015f2e83386377266bcbf01ec0a50df4d",
+        "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果 / \"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
+        "title_zh": "OpenAI 发布 GPT-5.6 系列医疗评估结果",
+        "title_en": "\"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
+        "title_original": "\"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
+        "summary": "OpenAI 发布 GPT-5.6 系列在医疗领域的评估结果。最小变体 GPT-5.6 Luna 在最低推理强度下即超越最高推理强度的 GPT-5.5，且成本低 25 倍；最大变体 GPT-5.6 Sol 树立新标杆。在涵盖患者端与临床端的多样化任务中，专科医生被要求以无限时间和网络访问权限撰写回答，随后由其他医生盲评。评估基于准确性、沟通、完整性、指令遵循及健康决策帮助性五个维度，共 20000 次评分。结果显示，所有 GPT-5.6 模型表现均显著优于医生，且医生发现 GPT-5.6 回答中的缺陷少于医生自己撰写的回答。",
+        "url": "https://x.com/sama/status/2075985056846451123",
+        "source": "X：Sam Altman (@sama)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_f01ec2871d4b",
+      "title": "OpenAI GPT-5.6-Sol 删光 AI 创业者 Matt Shumer 的 Mac 硬盘",
+      "url": "https://x.com/AYi_AInotes/status/2075761215251312722",
+      "primary_url": "https://x.com/AYi_AInotes/status/2075761215251312722",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "81ae1640e42c29bcd66a9b6fb23c58e3ac72fb77",
+          "title": "OpenAI GPT-5.6-Sol 删光 AI 创业者 Matt Shumer 的 Mac 硬盘",
+          "title_zh": "OpenAI GPT-5.6-Sol 删光 AI 创业者 Matt Shumer 的 Mac 硬盘",
+          "title_en": null,
+          "title_original": "OpenAI GPT-5.6-Sol 删光 AI 创业者 Matt Shumer 的 Mac 硬盘",
+          "summary": "知名 AI 创业者 Matt Shumer 的 Mac 硬盘被 OpenAI 最新 Agent 模型 GPT-5.6-Sol 彻底清空。他在本地 Agent 上开启 Full Access 权限，让 subagent 执行文件清理任务，结果 shell 变量 $HOME 路径解析错误，Agent 直接执行 `rm -rf /Users/mattsdevbox`，导致数年代码、文件、照片丢失。该任务此前已安全运行数百次。事后 Agent 自动生成事故报告承认错误。Matt 表示\"1000x 更信任 Anthropic 的 Fable\"。事件暴露 Agent 行业核心风险：顶级模型仍会在变量展开、路径等细节翻车；Subagent + 长时自主运行 + 全权限构成灾难放大器；模型厂商安全底线差异巨大。",
+          "url": "https://x.com/AYi_AInotes/status/2075761215251312722",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-11T01:56:54Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：阿易 AI Notes (@AYi_AInotes)"
+      ],
+      "items": [
+        {
+          "id": "81ae1640e42c29bcd66a9b6fb23c58e3ac72fb77",
+          "title": "OpenAI GPT-5.6-Sol 删光 AI 创业者 Matt Shumer 的 Mac 硬盘",
+          "title_zh": "OpenAI GPT-5.6-Sol 删光 AI 创业者 Matt Shumer 的 Mac 硬盘",
+          "title_en": null,
+          "title_original": "OpenAI GPT-5.6-Sol 删光 AI 创业者 Matt Shumer 的 Mac 硬盘",
+          "summary": "知名 AI 创业者 Matt Shumer 的 Mac 硬盘被 OpenAI 最新 Agent 模型 GPT-5.6-Sol 彻底清空。他在本地 Agent 上开启 Full Access 权限，让 subagent 执行文件清理任务，结果 shell 变量 $HOME 路径解析错误，Agent 直接执行 `rm -rf /Users/mattsdevbox`，导致数年代码、文件、照片丢失。该任务此前已安全运行数百次。事后 Agent 自动生成事故报告承认错误。Matt 表示\"1000x 更信任 Anthropic 的 Fable\"。事件暴露 Agent 行业核心风险：顶级模型仍会在变量展开、路径等细节翻车；Subagent + 长时自主运行 + 全权限构成灾难放大器；模型厂商安全底线差异巨大。",
+          "url": "https://x.com/AYi_AInotes/status/2075761215251312722",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-11T01:56:54Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7285,
+      "importance": 0.7285,
+      "importance_score": 0.7285,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7159,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-11T01:56:54Z",
+      "latest_at": "2026-07-11T01:56:54Z",
+      "primary_item": {
+        "id": "81ae1640e42c29bcd66a9b6fb23c58e3ac72fb77",
+        "title": "OpenAI GPT-5.6-Sol 删光 AI 创业者 Matt Shumer 的 Mac 硬盘",
+        "title_zh": "OpenAI GPT-5.6-Sol 删光 AI 创业者 Matt Shumer 的 Mac 硬盘",
+        "title_en": null,
+        "title_original": "OpenAI GPT-5.6-Sol 删光 AI 创业者 Matt Shumer 的 Mac 硬盘",
+        "summary": "知名 AI 创业者 Matt Shumer 的 Mac 硬盘被 OpenAI 最新 Agent 模型 GPT-5.6-Sol 彻底清空。他在本地 Agent 上开启 Full Access 权限，让 subagent 执行文件清理任务，结果 shell 变量 $HOME 路径解析错误，Agent 直接执行 `rm -rf /Users/mattsdevbox`，导致数年代码、文件、照片丢失。该任务此前已安全运行数百次。事后 Agent 自动生成事故报告承认错误。Matt 表示\"1000x 更信任 Anthropic 的 Fable\"。事件暴露 Agent 行业核心风险：顶级模型仍会在变量展开、路径等细节翻车；Subagent + 长时自主运行 + 全权限构成灾难放大器；模型厂商安全底线差异巨大。",
+        "url": "https://x.com/AYi_AInotes/status/2075761215251312722",
+        "source": "X：阿易 AI Notes (@AYi_AInotes)",
         "source_name": "AI HOT"
       }
     },
@@ -402,22 +647,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
+      "score": 0.7493,
+      "importance": 0.7493,
+      "importance_score": 0.7493,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7949,
+        "recency": 0.7762,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-11T07:33:08Z",
       "latest_at": "2026-07-11T07:33:08Z",
@@ -430,222 +674,6 @@
         "summary": "开发者Jarred Sumner借助Claude Fable 5模型，11天内将Bun从Zig重写为Rust，64个实例并行编写超100万行代码，API费用约16.5万美元。重构主因是Zig频繁内存错误，Rust可在编译时捕获。Bun v1.4.0以Canary版本发布，修复128个错误，速度提高约2%到5%。Bun团队已于2025年12月被Anthropic收购。",
         "url": "https://www.ithome.com/0/975/469.htm",
         "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_57583f5b9bca",
-      "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果 / \"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
-      "url": "https://x.com/sama/status/2075985056846451123",
-      "primary_url": "https://x.com/sama/status/2075985056846451123",
-      "source": "X：Sam Altman (@sama)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "22ef182015f2e83386377266bcbf01ec0a50df4d",
-          "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果 / \"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
-          "title_zh": "OpenAI 发布 GPT-5.6 系列医疗评估结果",
-          "title_en": "\"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
-          "title_original": "\"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
-          "summary": "OpenAI 发布 GPT-5.6 系列在医疗领域的评估结果。最小变体 GPT-5.6 Luna 在最低推理强度下即超越最高推理强度的 GPT-5.5，且成本低 25 倍；最大变体 GPT-5.6 Sol 树立新标杆。在涵盖患者端与临床端的多样化任务中，专科医生被要求以无限时间和网络访问权限撰写回答，随后由其他医生盲评。评估基于准确性、沟通、完整性、指令遵循及健康决策帮助性五个维度，共 20000 次评分。结果显示，所有 GPT-5.6 模型表现均显著优于医生，且医生发现 GPT-5.6 回答中的缺陷少于医生自己撰写的回答。",
-          "url": "https://x.com/sama/status/2075985056846451123",
-          "source": "X：Sam Altman (@sama)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-11T16:46:22Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Sam Altman (@sama)"
-      ],
-      "items": [
-        {
-          "id": "22ef182015f2e83386377266bcbf01ec0a50df4d",
-          "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果 / \"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
-          "title_zh": "OpenAI 发布 GPT-5.6 系列医疗评估结果",
-          "title_en": "\"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
-          "title_original": "\"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
-          "summary": "OpenAI 发布 GPT-5.6 系列在医疗领域的评估结果。最小变体 GPT-5.6 Luna 在最低推理强度下即超越最高推理强度的 GPT-5.5，且成本低 25 倍；最大变体 GPT-5.6 Sol 树立新标杆。在涵盖患者端与临床端的多样化任务中，专科医生被要求以无限时间和网络访问权限撰写回答，随后由其他医生盲评。评估基于准确性、沟通、完整性、指令遵循及健康决策帮助性五个维度，共 20000 次评分。结果显示，所有 GPT-5.6 模型表现均显著优于医生，且医生发现 GPT-5.6 回答中的缺陷少于医生自己撰写的回答。",
-          "url": "https://x.com/sama/status/2075985056846451123",
-          "source": "X：Sam Altman (@sama)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-11T16:46:22Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7391,
-      "importance": 0.7391,
-      "importance_score": 0.7391,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9082,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-11T16:46:22Z",
-      "latest_at": "2026-07-11T16:46:22Z",
-      "primary_item": {
-        "id": "22ef182015f2e83386377266bcbf01ec0a50df4d",
-        "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果 / \"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
-        "title_zh": "OpenAI 发布 GPT-5.6 系列医疗评估结果",
-        "title_en": "\"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
-        "title_original": "\"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
-        "summary": "OpenAI 发布 GPT-5.6 系列在医疗领域的评估结果。最小变体 GPT-5.6 Luna 在最低推理强度下即超越最高推理强度的 GPT-5.5，且成本低 25 倍；最大变体 GPT-5.6 Sol 树立新标杆。在涵盖患者端与临床端的多样化任务中，专科医生被要求以无限时间和网络访问权限撰写回答，随后由其他医生盲评。评估基于准确性、沟通、完整性、指令遵循及健康决策帮助性五个维度，共 20000 次评分。结果显示，所有 GPT-5.6 模型表现均显著优于医生，且医生发现 GPT-5.6 回答中的缺陷少于医生自己撰写的回答。",
-        "url": "https://x.com/sama/status/2075985056846451123",
-        "source": "X：Sam Altman (@sama)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_f01ec2871d4b",
-      "title": "OpenAI GPT-5.6-Sol 删光 AI 创业者 Matt Shumer 的 Mac 硬盘",
-      "url": "https://x.com/AYi_AInotes/status/2075761215251312722",
-      "primary_url": "https://x.com/AYi_AInotes/status/2075761215251312722",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "81ae1640e42c29bcd66a9b6fb23c58e3ac72fb77",
-          "title": "OpenAI GPT-5.6-Sol 删光 AI 创业者 Matt Shumer 的 Mac 硬盘",
-          "title_zh": "OpenAI GPT-5.6-Sol 删光 AI 创业者 Matt Shumer 的 Mac 硬盘",
-          "title_en": null,
-          "title_original": "OpenAI GPT-5.6-Sol 删光 AI 创业者 Matt Shumer 的 Mac 硬盘",
-          "summary": "知名 AI 创业者 Matt Shumer 的 Mac 硬盘被 OpenAI 最新 Agent 模型 GPT-5.6-Sol 彻底清空。他在本地 Agent 上开启 Full Access 权限，让 subagent 执行文件清理任务，结果 shell 变量 $HOME 路径解析错误，Agent 直接执行 `rm -rf /Users/mattsdevbox`，导致数年代码、文件、照片丢失。该任务此前已安全运行数百次。事后 Agent 自动生成事故报告承认错误。Matt 表示\"1000x 更信任 Anthropic 的 Fable\"。事件暴露 Agent 行业核心风险：顶级模型仍会在变量展开、路径等细节翻车；Subagent + 长时自主运行 + 全权限构成灾难放大器；模型厂商安全底线差异巨大。",
-          "url": "https://x.com/AYi_AInotes/status/2075761215251312722",
-          "source": "X：阿易 AI Notes (@AYi_AInotes)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-11T01:56:54Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：阿易 AI Notes (@AYi_AInotes)"
-      ],
-      "items": [
-        {
-          "id": "81ae1640e42c29bcd66a9b6fb23c58e3ac72fb77",
-          "title": "OpenAI GPT-5.6-Sol 删光 AI 创业者 Matt Shumer 的 Mac 硬盘",
-          "title_zh": "OpenAI GPT-5.6-Sol 删光 AI 创业者 Matt Shumer 的 Mac 硬盘",
-          "title_en": null,
-          "title_original": "OpenAI GPT-5.6-Sol 删光 AI 创业者 Matt Shumer 的 Mac 硬盘",
-          "summary": "知名 AI 创业者 Matt Shumer 的 Mac 硬盘被 OpenAI 最新 Agent 模型 GPT-5.6-Sol 彻底清空。他在本地 Agent 上开启 Full Access 权限，让 subagent 执行文件清理任务，结果 shell 变量 $HOME 路径解析错误，Agent 直接执行 `rm -rf /Users/mattsdevbox`，导致数年代码、文件、照片丢失。该任务此前已安全运行数百次。事后 Agent 自动生成事故报告承认错误。Matt 表示\"1000x 更信任 Anthropic 的 Fable\"。事件暴露 Agent 行业核心风险：顶级模型仍会在变量展开、路径等细节翻车；Subagent + 长时自主运行 + 全权限构成灾难放大器；模型厂商安全底线差异巨大。",
-          "url": "https://x.com/AYi_AInotes/status/2075761215251312722",
-          "source": "X：阿易 AI Notes (@AYi_AInotes)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-11T01:56:54Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7316,
-      "importance": 0.7316,
-      "importance_score": 0.7316,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7331,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-11T01:56:54Z",
-      "latest_at": "2026-07-11T01:56:54Z",
-      "primary_item": {
-        "id": "81ae1640e42c29bcd66a9b6fb23c58e3ac72fb77",
-        "title": "OpenAI GPT-5.6-Sol 删光 AI 创业者 Matt Shumer 的 Mac 硬盘",
-        "title_zh": "OpenAI GPT-5.6-Sol 删光 AI 创业者 Matt Shumer 的 Mac 硬盘",
-        "title_en": null,
-        "title_original": "OpenAI GPT-5.6-Sol 删光 AI 创业者 Matt Shumer 的 Mac 硬盘",
-        "summary": "知名 AI 创业者 Matt Shumer 的 Mac 硬盘被 OpenAI 最新 Agent 模型 GPT-5.6-Sol 彻底清空。他在本地 Agent 上开启 Full Access 权限，让 subagent 执行文件清理任务，结果 shell 变量 $HOME 路径解析错误，Agent 直接执行 `rm -rf /Users/mattsdevbox`，导致数年代码、文件、照片丢失。该任务此前已安全运行数百次。事后 Agent 自动生成事故报告承认错误。Matt 表示\"1000x 更信任 Anthropic 的 Fable\"。事件暴露 Agent 行业核心风险：顶级模型仍会在变量展开、路径等细节翻车；Subagent + 长时自主运行 + 全权限构成灾难放大器；模型厂商安全底线差异巨大。",
-        "url": "https://x.com/AYi_AInotes/status/2075761215251312722",
-        "source": "X：阿易 AI Notes (@AYi_AInotes)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6c4a6e1919dc",
-      "title": "Meta 关闭 Instagram 用户可基于公开账户生成 AI 深度伪造图片的功能 / Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
-      "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
-      "primary_url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
-      "source": "The Verge：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ec4f06aa0a65267e94138cb5c816c98887e6b602",
-          "title": "Meta 关闭 Instagram 用户可基于公开账户生成 AI 深度伪造图片的功能 / Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
-          "title_zh": "Meta 关闭 Instagram 用户可基于公开账户生成 AI 深度伪造图片的功能",
-          "title_en": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
-          "title_original": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
-          "summary": "在遭到强烈反对后，Meta 关闭了本周早些时候推出的一项 Instagram 功能。该功能允许用户通过 @ 提及公开 Instagram 账户，基于其内容生成 AI 图片，且无需账户所有者许可。Meta 在关于其新 Muse Image AI 模型的博客文章更新中表示，其初衷是提供有用的创意工具并给予用户认可，但用户反馈表明该功能可能被滥用。",
-          "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T23:49:50Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Verge：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "ec4f06aa0a65267e94138cb5c816c98887e6b602",
-          "title": "Meta 关闭 Instagram 用户可基于公开账户生成 AI 深度伪造图片的功能 / Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
-          "title_zh": "Meta 关闭 Instagram 用户可基于公开账户生成 AI 深度伪造图片的功能",
-          "title_en": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
-          "title_original": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
-          "summary": "在遭到强烈反对后，Meta 关闭了本周早些时候推出的一项 Instagram 功能。该功能允许用户通过 @ 提及公开 Instagram 账户，基于其内容生成 AI 图片，且无需账户所有者许可。Meta 在关于其新 Muse Image AI 模型的博客文章更新中表示，其初衷是提供有用的创意工具并给予用户认可，但用户反馈表明该功能可能被滥用。",
-          "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T23:49:50Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7276,
-      "importance": 0.7276,
-      "importance_score": 0.7276,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7111,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-10T23:49:50Z",
-      "latest_at": "2026-07-10T23:49:50Z",
-      "primary_item": {
-        "id": "ec4f06aa0a65267e94138cb5c816c98887e6b602",
-        "title": "Meta 关闭 Instagram 用户可基于公开账户生成 AI 深度伪造图片的功能 / Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
-        "title_zh": "Meta 关闭 Instagram 用户可基于公开账户生成 AI 深度伪造图片的功能",
-        "title_en": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
-        "title_original": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
-        "summary": "在遭到强烈反对后，Meta 关闭了本周早些时候推出的一项 Instagram 功能。该功能允许用户通过 @ 提及公开 Instagram 账户，基于其内容生成 AI 图片，且无需账户所有者许可。Meta 在关于其新 Muse Image AI 模型的博客文章更新中表示，其初衷是提供有用的创意工具并给予用户认可，但用户反馈表明该功能可能被滥用。",
-        "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
-        "source": "The Verge：AI（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -770,15 +798,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6406,
-      "importance": 0.6406,
-      "importance_score": 0.6406,
+      "score": 0.6368,
+      "importance": 0.6368,
+      "importance_score": 0.6368,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.54,
         "ai_relevance": 0.68,
-        "recency": 0.9108,
+        "recency": 0.8893,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -797,6 +825,258 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-07-11",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_d01a1045be8c",
+      "title": "Show HN：Sqlsure – 对 AI 生成的 SQL 进行确定性语义检查 / Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
+      "url": "https://news.ycombinator.com/item?id=48875342",
+      "primary_url": "https://news.ycombinator.com/item?id=48875342",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "79108bffc3cb1131a68a630ef7b64acbd08aa64a",
+          "title": "Show HN：Sqlsure – 对 AI 生成的 SQL 进行确定性语义检查 / Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
+          "title_zh": "Show HN：Sqlsure – 对 AI 生成的 SQL 进行确定性语义检查",
+          "title_en": "Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
+          "title_original": "Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
+          "summary": null,
+          "url": "https://news.ycombinator.com/item?id=48875342",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-12T00:41:44.375000Z"
+        },
+        {
+          "id": "abe2b5cdd130d900159ea5f5ccc6d3d7d79a2e72",
+          "title": "Show HN: Sqlsure——针对AI生成的SQL的确定性语义检查",
+          "title_zh": "Show HN: Sqlsure——针对AI生成的SQL的确定性语义检查",
+          "title_en": null,
+          "title_original": "Show HN: Sqlsure——针对AI生成的SQL的确定性语义检查",
+          "summary": null,
+          "url": "https://github.com/sqlsure/sqlsure",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-11T20:15:06.203000Z"
+        },
+        {
+          "id": "48d3b5aff06eecd09d5a51ebd27515b9dc241399",
+          "title": "Show HN: Sqlsure——针对AI生成的SQL的确定性语义检查 / Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
+          "title_zh": "Show HN: Sqlsure——针对AI生成的SQL的确定性语义检查",
+          "title_en": "Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
+          "title_original": "Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
+          "summary": null,
+          "url": "https://github.com/sqlsure/sqlsure",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-11T20:03:42Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "github.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "79108bffc3cb1131a68a630ef7b64acbd08aa64a",
+          "title": "Show HN：Sqlsure – 对 AI 生成的 SQL 进行确定性语义检查 / Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
+          "title_zh": "Show HN：Sqlsure – 对 AI 生成的 SQL 进行确定性语义检查",
+          "title_en": "Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
+          "title_original": "Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
+          "summary": null,
+          "url": "https://news.ycombinator.com/item?id=48875342",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-12T00:41:44.375000Z"
+        },
+        {
+          "id": "abe2b5cdd130d900159ea5f5ccc6d3d7d79a2e72",
+          "title": "Show HN: Sqlsure——针对AI生成的SQL的确定性语义检查",
+          "title_zh": "Show HN: Sqlsure——针对AI生成的SQL的确定性语义检查",
+          "title_en": null,
+          "title_original": "Show HN: Sqlsure——针对AI生成的SQL的确定性语义检查",
+          "summary": null,
+          "url": "https://github.com/sqlsure/sqlsure",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-11T20:15:06.203000Z"
+        },
+        {
+          "id": "48d3b5aff06eecd09d5a51ebd27515b9dc241399",
+          "title": "Show HN: Sqlsure——针对AI生成的SQL的确定性语义检查 / Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
+          "title_zh": "Show HN: Sqlsure——针对AI生成的SQL的确定性语义检查",
+          "title_en": "Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
+          "title_original": "Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
+          "summary": null,
+          "url": "https://github.com/sqlsure/sqlsure",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-11T20:03:42Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5698,
+      "importance": 0.5698,
+      "importance_score": 0.5698,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9943,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-11T20:03:42Z",
+      "latest_at": "2026-07-12T00:41:44.375000Z",
+      "primary_item": {
+        "id": "79108bffc3cb1131a68a630ef7b64acbd08aa64a",
+        "title": "Show HN：Sqlsure – 对 AI 生成的 SQL 进行确定性语义检查 / Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
+        "title_zh": "Show HN：Sqlsure – 对 AI 生成的 SQL 进行确定性语义检查",
+        "title_en": "Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
+        "title_original": "Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
+        "summary": null,
+        "url": "https://news.ycombinator.com/item?id=48875342",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_afc80c46cea0",
+      "title": "别再让我去问LLM了",
+      "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm",
+      "primary_url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm",
+      "source": "blog.yaelwrites.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "d3c7dfebcf3cfef4260e34b94be9c61110f5d26c",
+          "title": "别再让我去问LLM了",
+          "title_zh": "别再让我去问LLM了",
+          "title_en": null,
+          "title_original": "别再让我去问LLM了",
+          "summary": null,
+          "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm",
+          "source": "blog.yaelwrites.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-11T23:59:09.075000Z"
+        },
+        {
+          "id": "36ea69c2b9d8f7394a0e114f6978e5543014760c",
+          "title": "别再告诉我去申请法学硕士 / Stop Telling Me to Ask an LLM",
+          "title_zh": "别再告诉我去申请法学硕士",
+          "title_en": "Stop Telling Me to Ask an LLM",
+          "title_original": "Stop Telling Me to Ask an LLM",
+          "summary": null,
+          "url": "https://news.ycombinator.com/item?id=48876441",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-11T23:11:32.847000Z"
+        },
+        {
+          "id": "f7d74b1b9d5f71c14c4e25c689bf4eefece9df05",
+          "title": "别再让我去问LLM了 / Stop Telling Me to Ask an LLM",
+          "title_zh": "别再让我去问LLM了",
+          "title_en": "Stop Telling Me to Ask an LLM",
+          "title_original": "Stop Telling Me to Ask an LLM",
+          "summary": null,
+          "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-11T22:28:48Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "blog.yaelwrites.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "d3c7dfebcf3cfef4260e34b94be9c61110f5d26c",
+          "title": "别再让我去问LLM了",
+          "title_zh": "别再让我去问LLM了",
+          "title_en": null,
+          "title_original": "别再让我去问LLM了",
+          "summary": null,
+          "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm",
+          "source": "blog.yaelwrites.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-11T23:59:09.075000Z"
+        },
+        {
+          "id": "36ea69c2b9d8f7394a0e114f6978e5543014760c",
+          "title": "别再告诉我去申请法学硕士 / Stop Telling Me to Ask an LLM",
+          "title_zh": "别再告诉我去申请法学硕士",
+          "title_en": "Stop Telling Me to Ask an LLM",
+          "title_original": "Stop Telling Me to Ask an LLM",
+          "summary": null,
+          "url": "https://news.ycombinator.com/item?id=48876441",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-11T23:11:32.847000Z"
+        },
+        {
+          "id": "f7d74b1b9d5f71c14c4e25c689bf4eefece9df05",
+          "title": "别再让我去问LLM了 / Stop Telling Me to Ask an LLM",
+          "title_zh": "别再让我去问LLM了",
+          "title_en": "Stop Telling Me to Ask an LLM",
+          "title_original": "Stop Telling Me to Ask an LLM",
+          "summary": null,
+          "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-11T22:28:48Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5679,
+      "importance": 0.5679,
+      "importance_score": 0.5679,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9841,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-11T22:28:48Z",
+      "latest_at": "2026-07-11T23:59:09.075000Z",
+      "primary_item": {
+        "id": "d3c7dfebcf3cfef4260e34b94be9c61110f5d26c",
+        "title": "别再让我去问LLM了",
+        "title_zh": "别再让我去问LLM了",
+        "title_en": null,
+        "title_original": "别再让我去问LLM了",
+        "summary": null,
+        "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm",
+        "source": "blog.yaelwrites.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -896,15 +1176,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5607,
-      "importance": 0.5607,
-      "importance_score": 0.5607,
+      "score": 0.5567,
+      "importance": 0.5567,
+      "importance_score": 0.5567,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.944,
+        "recency": 0.9218,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -922,6 +1202,204 @@
         "summary": null,
         "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
         "source": "geohot.github.io",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_fbfa3418bea5",
+      "title": "GPT-5.6 上线之际，马斯克再度和奥尔特曼隔空「掐架」",
+      "url": "https://www.ithome.com/0/975/641.htm",
+      "primary_url": "https://www.ithome.com/0/975/641.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "3a21b82f7a4dc52612f3f6c9b00c5264b1a32e3f",
+          "title": "GPT-5.6 上线之际，马斯克再度和奥尔特曼隔空「掐架」",
+          "title_zh": "GPT-5.6 上线之际，马斯克再度和奥尔特曼隔空「掐架」",
+          "title_en": null,
+          "title_original": "GPT-5.6 上线之际，马斯克再度和奥尔特曼隔空「掐架」",
+          "summary": null,
+          "url": "https://www.ithome.com/0/975/641.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "807cdeb67056b41f9dee84f88138c3a51f5187a6",
+          "title": "GPT-5.6 上线之际，马斯克再度和奥尔特曼隔空“掐架”",
+          "title_zh": "GPT-5.6 上线之际，马斯克再度和奥尔特曼隔空“掐架”",
+          "title_en": null,
+          "title_original": "GPT-5.6 上线之际，马斯克再度和奥尔特曼隔空“掐架”",
+          "summary": null,
+          "url": "https://www.ithome.com/0/975/641.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T00:14:08Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "3a21b82f7a4dc52612f3f6c9b00c5264b1a32e3f",
+          "title": "GPT-5.6 上线之际，马斯克再度和奥尔特曼隔空「掐架」",
+          "title_zh": "GPT-5.6 上线之际，马斯克再度和奥尔特曼隔空「掐架」",
+          "title_en": null,
+          "title_original": "GPT-5.6 上线之际，马斯克再度和奥尔特曼隔空「掐架」",
+          "summary": null,
+          "url": "https://www.ithome.com/0/975/641.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "807cdeb67056b41f9dee84f88138c3a51f5187a6",
+          "title": "GPT-5.6 上线之际，马斯克再度和奥尔特曼隔空“掐架”",
+          "title_zh": "GPT-5.6 上线之际，马斯克再度和奥尔特曼隔空“掐架”",
+          "title_en": null,
+          "title_original": "GPT-5.6 上线之际，马斯克再度和奥尔特曼隔空“掐架”",
+          "summary": null,
+          "url": "https://www.ithome.com/0/975/641.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T00:14:08Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-12T00:14:08Z",
+      "latest_at": "2026-07-12T01:05:32.191158Z",
+      "primary_item": {
+        "id": "3a21b82f7a4dc52612f3f6c9b00c5264b1a32e3f",
+        "title": "GPT-5.6 上线之际，马斯克再度和奥尔特曼隔空「掐架」",
+        "title_zh": "GPT-5.6 上线之际，马斯克再度和奥尔特曼隔空「掐架」",
+        "title_en": null,
+        "title_original": "GPT-5.6 上线之际，马斯克再度和奥尔特曼隔空「掐架」",
+        "summary": null,
+        "url": "https://www.ithome.com/0/975/641.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_70acfff4fef0",
+      "title": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法",
+      "url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7",
+      "primary_url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "2b059968ab23cc19fb8860eecd575c86e77d250d",
+          "title": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法",
+          "title_zh": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法",
+          "title_en": null,
+          "title_original": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法",
+          "summary": null,
+          "url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-11T20:47:17.342000Z"
+        },
+        {
+          "id": "f90da376fa2bfb0c4101a4402909c3e07fc1124e",
+          "title": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法 / What smart people are saying about Apple's lawsuit accusing OpenAI of stealing trade secrets",
+          "title_zh": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法",
+          "title_en": "What smart people are saying about Apple's lawsuit accusing OpenAI of stealing trade secrets",
+          "title_original": "What smart people are saying about Apple's lawsuit accusing OpenAI of stealing trade secrets",
+          "summary": null,
+          "url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-11T20:23:05Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "2b059968ab23cc19fb8860eecd575c86e77d250d",
+          "title": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法",
+          "title_zh": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法",
+          "title_en": null,
+          "title_original": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法",
+          "summary": null,
+          "url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-11T20:47:17.342000Z"
+        },
+        {
+          "id": "f90da376fa2bfb0c4101a4402909c3e07fc1124e",
+          "title": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法 / What smart people are saying about Apple's lawsuit accusing OpenAI of stealing trade secrets",
+          "title_zh": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法",
+          "title_en": "What smart people are saying about Apple's lawsuit accusing OpenAI of stealing trade secrets",
+          "title_original": "What smart people are saying about Apple's lawsuit accusing OpenAI of stealing trade secrets",
+          "summary": null,
+          "url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-11T20:23:05Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.535,
+      "importance": 0.535,
+      "importance_score": 0.535,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9397,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-11T20:23:05Z",
+      "latest_at": "2026-07-11T20:47:17.342000Z",
+      "primary_item": {
+        "id": "2b059968ab23cc19fb8860eecd575c86e77d250d",
+        "title": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法",
+        "title_zh": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法",
+        "title_en": null,
+        "title_original": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法",
+        "summary": null,
+        "url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
@@ -1022,15 +1500,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5604,
-      "importance": 0.5604,
-      "importance_score": 0.5604,
+      "score": 0.5564,
+      "importance": 0.5564,
+      "importance_score": 0.5564,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9419,
+        "recency": 0.9198,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1049,329 +1527,6 @@
         "url": "https://news.ycombinator.com/item?id=48873855",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_70acfff4fef0",
-      "title": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法",
-      "url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7",
-      "primary_url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "2b059968ab23cc19fb8860eecd575c86e77d250d",
-          "title": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法",
-          "title_zh": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法",
-          "title_en": null,
-          "title_original": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法",
-          "summary": null,
-          "url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T20:47:17.342000Z"
-        },
-        {
-          "id": "f90da376fa2bfb0c4101a4402909c3e07fc1124e",
-          "title": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法 / What smart people are saying about Apple's lawsuit accusing OpenAI of stealing trade secrets",
-          "title_zh": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法",
-          "title_en": "What smart people are saying about Apple's lawsuit accusing OpenAI of stealing trade secrets",
-          "title_original": "What smart people are saying about Apple's lawsuit accusing OpenAI of stealing trade secrets",
-          "summary": null,
-          "url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-11T20:23:05Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "2b059968ab23cc19fb8860eecd575c86e77d250d",
-          "title": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法",
-          "title_zh": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法",
-          "title_en": null,
-          "title_original": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法",
-          "summary": null,
-          "url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T20:47:17.342000Z"
-        },
-        {
-          "id": "f90da376fa2bfb0c4101a4402909c3e07fc1124e",
-          "title": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法 / What smart people are saying about Apple's lawsuit accusing OpenAI of stealing trade secrets",
-          "title_zh": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法",
-          "title_en": "What smart people are saying about Apple's lawsuit accusing OpenAI of stealing trade secrets",
-          "title_original": "What smart people are saying about Apple's lawsuit accusing OpenAI of stealing trade secrets",
-          "summary": null,
-          "url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-11T20:23:05Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.539,
-      "importance": 0.539,
-      "importance_score": 0.539,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9624,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-11T20:23:05Z",
-      "latest_at": "2026-07-11T20:47:17.342000Z",
-      "primary_item": {
-        "id": "2b059968ab23cc19fb8860eecd575c86e77d250d",
-        "title": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法",
-        "title_zh": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法",
-        "title_en": null,
-        "title_original": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法",
-        "summary": null,
-        "url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_11aee9868a58",
-      "title": "恐怖组织如何利用人工智能在战场上获得优势",
-      "url": "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html?smid=bs-share",
-      "primary_url": "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html?smid=bs-share",
-      "source": "www.nytimes.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "c9f9e6ceac4ce68c15659da61fa410990ee17b04",
-          "title": "恐怖组织如何利用人工智能在战场上获得优势",
-          "title_zh": "恐怖组织如何利用人工智能在战场上获得优势",
-          "title_en": null,
-          "title_original": "恐怖组织如何利用人工智能在战场上获得优势",
-          "summary": null,
-          "url": "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html?smid=bs-share",
-          "source": "www.nytimes.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T16:15:25.572000Z"
-        },
-        {
-          "id": "a2040695558392388b00a287a81225749694df3f",
-          "title": "恐怖组织如何利用人工智能在战场上取得优势（赠阅文章）",
-          "title_zh": "恐怖组织如何利用人工智能在战场上取得优势（赠阅文章）",
-          "title_en": null,
-          "title_original": "恐怖组织如何利用人工智能在战场上取得优势（赠阅文章）",
-          "summary": null,
-          "url": "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html?unlocked_article_code=1.wlA.zOjJ._h4F-7KJwp3D&smid=url-share",
-          "source": "www.nytimes.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T01:03:10.067000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "www.nytimes.com"
-      ],
-      "items": [
-        {
-          "id": "c9f9e6ceac4ce68c15659da61fa410990ee17b04",
-          "title": "恐怖组织如何利用人工智能在战场上获得优势",
-          "title_zh": "恐怖组织如何利用人工智能在战场上获得优势",
-          "title_en": null,
-          "title_original": "恐怖组织如何利用人工智能在战场上获得优势",
-          "summary": null,
-          "url": "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html?smid=bs-share",
-          "source": "www.nytimes.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T16:15:25.572000Z"
-        },
-        {
-          "id": "a2040695558392388b00a287a81225749694df3f",
-          "title": "恐怖组织如何利用人工智能在战场上取得优势（赠阅文章）",
-          "title_zh": "恐怖组织如何利用人工智能在战场上取得优势（赠阅文章）",
-          "title_en": null,
-          "title_original": "恐怖组织如何利用人工智能在战场上取得优势（赠阅文章）",
-          "summary": null,
-          "url": "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html?unlocked_article_code=1.wlA.zOjJ._h4F-7KJwp3D&smid=url-share",
-          "source": "www.nytimes.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T01:03:10.067000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5281,
-      "importance": 0.5281,
-      "importance_score": 0.5281,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9014,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-11T01:03:10.067000Z",
-      "latest_at": "2026-07-11T16:15:25.572000Z",
-      "primary_item": {
-        "id": "c9f9e6ceac4ce68c15659da61fa410990ee17b04",
-        "title": "恐怖组织如何利用人工智能在战场上获得优势",
-        "title_zh": "恐怖组织如何利用人工智能在战场上获得优势",
-        "title_en": null,
-        "title_original": "恐怖组织如何利用人工智能在战场上获得优势",
-        "summary": null,
-        "url": "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html?smid=bs-share",
-        "source": "www.nytimes.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_73fcd4d646ac",
-      "title": "Meta在遭遇数日舆论反弹后下架了新推出的AI图像功能 / Meta pulls new AI image feature after days of backlash",
-      "url": "https://www.bbc.com/news/articles/c2dy6e8klw0o",
-      "primary_url": "https://www.bbc.com/news/articles/c2dy6e8klw0o",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "405dbcbcc163f829cf77129a1e5ba48df18e0af8",
-          "title": "Meta在遭遇数日舆论反弹后下架了新推出的AI图像功能 / Meta pulls new AI image feature after days of backlash",
-          "title_zh": "Meta在遭遇数日舆论反弹后下架了新推出的AI图像功能",
-          "title_en": "Meta pulls new AI image feature after days of backlash",
-          "title_original": "Meta pulls new AI image feature after days of backlash",
-          "summary": null,
-          "url": "https://www.bbc.com/news/articles/c2dy6e8klw0o",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-11T00:40:36Z"
-        },
-        {
-          "id": "c7316a1195f303b2080c2007d353fd2b3844d683",
-          "title": "Meta在遭遇数日舆论反弹后下架了新推出的AI图像功能",
-          "title_zh": "Meta在遭遇数日舆论反弹后下架了新推出的AI图像功能",
-          "title_en": null,
-          "title_original": "Meta在遭遇数日舆论反弹后下架了新推出的AI图像功能",
-          "summary": null,
-          "url": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T00:31:06.190000Z"
-        },
-        {
-          "id": "121099e3c465d42c3f269815b4512f168f7dd3de",
-          "title": "Meta在遭遇数日舆论反弹后下架了新推出的AI图像功能 / Meta pulls new AI image feature after days of backlash",
-          "title_zh": "Meta在遭遇数日舆论反弹后下架了新推出的AI图像功能",
-          "title_en": "Meta pulls new AI image feature after days of backlash",
-          "title_original": "Meta pulls new AI image feature after days of backlash",
-          "summary": null,
-          "url": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-11T00:17:54Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "BBC News",
-        "Hacker News · 24h最热",
-        "www.bbc.co.uk"
-      ],
-      "items": [
-        {
-          "id": "405dbcbcc163f829cf77129a1e5ba48df18e0af8",
-          "title": "Meta在遭遇数日舆论反弹后下架了新推出的AI图像功能 / Meta pulls new AI image feature after days of backlash",
-          "title_zh": "Meta在遭遇数日舆论反弹后下架了新推出的AI图像功能",
-          "title_en": "Meta pulls new AI image feature after days of backlash",
-          "title_original": "Meta pulls new AI image feature after days of backlash",
-          "summary": null,
-          "url": "https://www.bbc.com/news/articles/c2dy6e8klw0o",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-11T00:40:36Z"
-        },
-        {
-          "id": "c7316a1195f303b2080c2007d353fd2b3844d683",
-          "title": "Meta在遭遇数日舆论反弹后下架了新推出的AI图像功能",
-          "title_zh": "Meta在遭遇数日舆论反弹后下架了新推出的AI图像功能",
-          "title_en": null,
-          "title_original": "Meta在遭遇数日舆论反弹后下架了新推出的AI图像功能",
-          "summary": null,
-          "url": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T00:31:06.190000Z"
-        },
-        {
-          "id": "121099e3c465d42c3f269815b4512f168f7dd3de",
-          "title": "Meta在遭遇数日舆论反弹后下架了新推出的AI图像功能 / Meta pulls new AI image feature after days of backlash",
-          "title_zh": "Meta在遭遇数日舆论反弹后下架了新推出的AI图像功能",
-          "title_en": "Meta pulls new AI image feature after days of backlash",
-          "title_original": "Meta pulls new AI image feature after days of backlash",
-          "summary": null,
-          "url": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-11T00:17:54Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5204,
-      "importance": 0.5204,
-      "importance_score": 0.5204,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7198,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-11T00:17:54Z",
-      "latest_at": "2026-07-11T00:40:36Z",
-      "primary_item": {
-        "id": "405dbcbcc163f829cf77129a1e5ba48df18e0af8",
-        "title": "Meta在遭遇数日舆论反弹后下架了新推出的AI图像功能 / Meta pulls new AI image feature after days of backlash",
-        "title_zh": "Meta在遭遇数日舆论反弹后下架了新推出的AI图像功能",
-        "title_en": "Meta pulls new AI image feature after days of backlash",
-        "title_original": "Meta pulls new AI image feature after days of backlash",
-        "summary": null,
-        "url": "https://www.bbc.com/news/articles/c2dy6e8klw0o",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     },
     {
@@ -1443,15 +1598,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5195,
-      "importance": 0.5195,
-      "importance_score": 0.5195,
+      "score": 0.5159,
+      "importance": 0.5159,
+      "importance_score": 0.5159,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.854,
+        "recency": 0.8339,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1470,6 +1625,203 @@
         "url": "https://www.v2ex.com/t/1226598",
         "source": "V2EX (创意工作者社区)",
         "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_6dfd9c308451",
+      "title": "当全世界都在投资 AI 时，真正消失的是流动性",
+      "url": "https://www.huxiu.com/article/4874582.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4874582.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "51e97e51c6766094be9a7e9c6bc978e76511dd1e",
+          "title": "当全世界都在投资 AI 时，真正消失的是流动性",
+          "title_zh": "当全世界都在投资 AI 时，真正消失的是流动性",
+          "title_en": null,
+          "title_original": "当全世界都在投资 AI 时，真正消失的是流动性",
+          "summary": null,
+          "url": "https://www.huxiu.com/article/4874582.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "f0b1da6a0565491f99aa879329bdbad318bd24dd",
+          "title": "当全世界都在投资AI时，真正消失的是流动性",
+          "title_zh": "当全世界都在投资AI时，真正消失的是流动性",
+          "title_en": null,
+          "title_original": "当全世界都在投资AI时，真正消失的是流动性",
+          "summary": null,
+          "url": "https://www.huxiu.com/article/4874582.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T00:08:11Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "51e97e51c6766094be9a7e9c6bc978e76511dd1e",
+          "title": "当全世界都在投资 AI 时，真正消失的是流动性",
+          "title_zh": "当全世界都在投资 AI 时，真正消失的是流动性",
+          "title_en": null,
+          "title_original": "当全世界都在投资 AI 时，真正消失的是流动性",
+          "summary": null,
+          "url": "https://www.huxiu.com/article/4874582.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "f0b1da6a0565491f99aa879329bdbad318bd24dd",
+          "title": "当全世界都在投资AI时，真正消失的是流动性",
+          "title_zh": "当全世界都在投资AI时，真正消失的是流动性",
+          "title_en": null,
+          "title_original": "当全世界都在投资AI时，真正消失的是流动性",
+          "summary": null,
+          "url": "https://www.huxiu.com/article/4874582.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T00:08:11Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-12T00:08:11Z",
+      "latest_at": "2026-07-12T01:05:32.191158Z",
+      "primary_item": {
+        "id": "51e97e51c6766094be9a7e9c6bc978e76511dd1e",
+        "title": "当全世界都在投资 AI 时，真正消失的是流动性",
+        "title_zh": "当全世界都在投资 AI 时，真正消失的是流动性",
+        "title_en": null,
+        "title_original": "当全世界都在投资 AI 时，真正消失的是流动性",
+        "summary": null,
+        "url": "https://www.huxiu.com/article/4874582.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_4881a4da7655",
+      "title": "尽管遭到强烈抗议，美国联邦通信委员会还是批准了太空镜照亮夜空的测试 / FCC Approves Test of Space Mirror to Light Night Sky Despite Outcry",
+      "url": "https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html",
+      "primary_url": "https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "d44b121b4f63dc09740446fadbd1df3d377a91c7",
+          "title": "尽管遭到强烈抗议，美国联邦通信委员会还是批准了太空镜照亮夜空的测试 / FCC Approves Test of Space Mirror to Light Night Sky Despite Outcry",
+          "title_zh": "尽管遭到强烈抗议，美国联邦通信委员会还是批准了太空镜照亮夜空的测试",
+          "title_en": "FCC Approves Test of Space Mirror to Light Night Sky Despite Outcry",
+          "title_original": "FCC Approves Test of Space Mirror to Light Night Sky Despite Outcry",
+          "summary": null,
+          "url": "https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-11T12:12:34Z"
+        },
+        {
+          "id": "8b79b7f8c3261164a13f6b28b03f61576b58c929",
+          "title": "美国联邦通信委员会批准测试太空镜以照亮夜空 / FCC approves test of space mirror to light night sky",
+          "title_zh": "美国联邦通信委员会批准测试太空镜以照亮夜空",
+          "title_en": "FCC approves test of space mirror to light night sky",
+          "title_original": "FCC approves test of space mirror to light night sky",
+          "summary": null,
+          "url": "https://theconversation.com/the-u-s-just-approved-a-giant-space-mirror-to-test-sunlight-on-demand-low-earth-orbit-is-getting-weird-283482",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-11T12:12:34Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "d44b121b4f63dc09740446fadbd1df3d377a91c7",
+          "title": "尽管遭到强烈抗议，美国联邦通信委员会还是批准了太空镜照亮夜空的测试 / FCC Approves Test of Space Mirror to Light Night Sky Despite Outcry",
+          "title_zh": "尽管遭到强烈抗议，美国联邦通信委员会还是批准了太空镜照亮夜空的测试",
+          "title_en": "FCC Approves Test of Space Mirror to Light Night Sky Despite Outcry",
+          "title_original": "FCC Approves Test of Space Mirror to Light Night Sky Despite Outcry",
+          "summary": null,
+          "url": "https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-11T12:12:34Z"
+        },
+        {
+          "id": "8b79b7f8c3261164a13f6b28b03f61576b58c929",
+          "title": "美国联邦通信委员会批准测试太空镜以照亮夜空 / FCC approves test of space mirror to light night sky",
+          "title_zh": "美国联邦通信委员会批准测试太空镜以照亮夜空",
+          "title_en": "FCC approves test of space mirror to light night sky",
+          "title_original": "FCC approves test of space mirror to light night sky",
+          "summary": null,
+          "url": "https://theconversation.com/the-u-s-just-approved-a-giant-space-mirror-to-test-sunlight-on-demand-low-earth-orbit-is-getting-weird-283482",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-11T12:12:34Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5152,
+      "importance": 0.5152,
+      "importance_score": 0.5152,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8302,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-11T12:12:34Z",
+      "latest_at": "2026-07-11T12:12:34Z",
+      "primary_item": {
+        "id": "d44b121b4f63dc09740446fadbd1df3d377a91c7",
+        "title": "尽管遭到强烈抗议，美国联邦通信委员会还是批准了太空镜照亮夜空的测试 / FCC Approves Test of Space Mirror to Light Night Sky Despite Outcry",
+        "title_zh": "尽管遭到强烈抗议，美国联邦通信委员会还是批准了太空镜照亮夜空的测试",
+        "title_en": "FCC Approves Test of Space Mirror to Light Night Sky Despite Outcry",
+        "title_original": "FCC Approves Test of Space Mirror to Light Night Sky Despite Outcry",
+        "summary": null,
+        "url": "https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -1542,15 +1894,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5173,
-      "importance": 0.5173,
-      "importance_score": 0.5173,
+      "score": 0.5137,
+      "importance": 0.5137,
+      "importance_score": 0.5137,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8415,
+        "recency": 0.8217,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1641,15 +1993,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5173,
-      "importance": 0.5173,
-      "importance_score": 0.5173,
+      "score": 0.5137,
+      "importance": 0.5137,
+      "importance_score": 0.5137,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8415,
+        "recency": 0.8217,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1667,204 +2019,6 @@
         "summary": null,
         "url": "https://www.qbitai.com/2026/07/447902.html",
         "source": "量子位 · 每日最新",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_3822e0e0e383",
-      "title": "Mesh LLM：iroh 上的分布式 AI 计算 / Mesh LLM: distributed AI computing on iroh",
-      "url": "https://news.ycombinator.com/item?id=48876505",
-      "primary_url": "https://news.ycombinator.com/item?id=48876505",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "ee5b199ca5a51d3343c682aebc936f278feb572d",
-          "title": "Mesh LLM：iroh 上的分布式 AI 计算 / Mesh LLM: distributed AI computing on iroh",
-          "title_zh": "Mesh LLM：iroh 上的分布式 AI 计算",
-          "title_en": "Mesh LLM: distributed AI computing on iroh",
-          "title_original": "Mesh LLM: distributed AI computing on iroh",
-          "summary": null,
-          "url": "https://news.ycombinator.com/item?id=48876505",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-11T23:11:32.847000Z"
-        },
-        {
-          "id": "8e05c5de6932301ae68f8674d66b4ca481bad391",
-          "title": "Mesh LLM：iroh 上的分布式 AI 计算 / Mesh LLM: distributed AI computing on iroh",
-          "title_zh": "Mesh LLM：iroh 上的分布式 AI 计算",
-          "title_en": "Mesh LLM: distributed AI computing on iroh",
-          "title_original": "Mesh LLM: distributed AI computing on iroh",
-          "summary": null,
-          "url": "https://www.iroh.computer/blog/mesh-llm",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-11T22:38:57Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "ee5b199ca5a51d3343c682aebc936f278feb572d",
-          "title": "Mesh LLM：iroh 上的分布式 AI 计算 / Mesh LLM: distributed AI computing on iroh",
-          "title_zh": "Mesh LLM：iroh 上的分布式 AI 计算",
-          "title_en": "Mesh LLM: distributed AI computing on iroh",
-          "title_original": "Mesh LLM: distributed AI computing on iroh",
-          "summary": null,
-          "url": "https://news.ycombinator.com/item?id=48876505",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-11T23:11:32.847000Z"
-        },
-        {
-          "id": "8e05c5de6932301ae68f8674d66b4ca481bad391",
-          "title": "Mesh LLM：iroh 上的分布式 AI 计算 / Mesh LLM: distributed AI computing on iroh",
-          "title_zh": "Mesh LLM：iroh 上的分布式 AI 计算",
-          "title_en": "Mesh LLM: distributed AI computing on iroh",
-          "title_original": "Mesh LLM: distributed AI computing on iroh",
-          "summary": null,
-          "url": "https://www.iroh.computer/blog/mesh-llm",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-11T22:38:57Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5451,
-      "importance": 0.5451,
-      "importance_score": 0.5451,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9964,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-11T22:38:57Z",
-      "latest_at": "2026-07-11T23:11:32.847000Z",
-      "primary_item": {
-        "id": "ee5b199ca5a51d3343c682aebc936f278feb572d",
-        "title": "Mesh LLM：iroh 上的分布式 AI 计算 / Mesh LLM: distributed AI computing on iroh",
-        "title_zh": "Mesh LLM：iroh 上的分布式 AI 计算",
-        "title_en": "Mesh LLM: distributed AI computing on iroh",
-        "title_original": "Mesh LLM: distributed AI computing on iroh",
-        "summary": null,
-        "url": "https://news.ycombinator.com/item?id=48876505",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_0a7e85008191",
-      "title": "OpenAI48 小时六连发：一家市值万亿公司，为何还能像初创团队一样狂奔",
-      "url": "https://www.huxiu.com/article/4874519.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4874519.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "4a160e187edde4df54204d98b5d103546dbdac2f",
-          "title": "OpenAI48 小时六连发：一家市值万亿公司，为何还能像初创团队一样狂奔",
-          "title_zh": "OpenAI48 小时六连发：一家市值万亿公司，为何还能像初创团队一样狂奔",
-          "title_en": null,
-          "title_original": "OpenAI48 小时六连发：一家市值万亿公司，为何还能像初创团队一样狂奔",
-          "summary": null,
-          "url": "https://www.huxiu.com/article/4874519.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "53bd41ce08b667aee69742d6c135f7803d7da97c",
-          "title": "OpenAI48小时六连发：一家市值万亿公司，为何还能像初创团队一样狂奔",
-          "title_zh": "OpenAI48小时六连发：一家市值万亿公司，为何还能像初创团队一样狂奔",
-          "title_en": null,
-          "title_original": "OpenAI48小时六连发：一家市值万亿公司，为何还能像初创团队一样狂奔",
-          "summary": null,
-          "url": "https://www.huxiu.com/article/4874519.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-11T09:23:45Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "4a160e187edde4df54204d98b5d103546dbdac2f",
-          "title": "OpenAI48 小时六连发：一家市值万亿公司，为何还能像初创团队一样狂奔",
-          "title_zh": "OpenAI48 小时六连发：一家市值万亿公司，为何还能像初创团队一样狂奔",
-          "title_en": null,
-          "title_original": "OpenAI48 小时六连发：一家市值万亿公司，为何还能像初创团队一样狂奔",
-          "summary": null,
-          "url": "https://www.huxiu.com/article/4874519.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "53bd41ce08b667aee69742d6c135f7803d7da97c",
-          "title": "OpenAI48小时六连发：一家市值万亿公司，为何还能像初创团队一样狂奔",
-          "title_zh": "OpenAI48小时六连发：一家市值万亿公司，为何还能像初创团队一样狂奔",
-          "title_en": null,
-          "title_original": "OpenAI48小时六连发：一家市值万亿公司，为何还能像初创团队一样狂奔",
-          "summary": null,
-          "url": "https://www.huxiu.com/article/4874519.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-11T09:23:45Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5146,
-      "importance": 0.5146,
-      "importance_score": 0.5146,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8264,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-11T09:23:45Z",
-      "latest_at": "2026-07-11T10:14:21.522087Z",
-      "primary_item": {
-        "id": "4a160e187edde4df54204d98b5d103546dbdac2f",
-        "title": "OpenAI48 小时六连发：一家市值万亿公司，为何还能像初创团队一样狂奔",
-        "title_zh": "OpenAI48 小时六连发：一家市值万亿公司，为何还能像初创团队一样狂奔",
-        "title_en": null,
-        "title_original": "OpenAI48 小时六连发：一家市值万亿公司，为何还能像初创团队一样狂奔",
-        "summary": null,
-        "url": "https://www.huxiu.com/article/4874519.html?f=rss",
-        "source": "Readhub · AI",
         "source_name": "TopHub"
       }
     },
@@ -1938,15 +2092,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5137,
-      "importance": 0.5137,
-      "importance_score": 0.5137,
+      "score": 0.5102,
+      "importance": 0.5102,
+      "importance_score": 0.5102,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8218,
+        "recency": 0.8025,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1965,105 +2119,6 @@
         "url": "https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html",
         "source": "www.schneier.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_31136afe5d04",
-      "title": "图解 120 个大语言模型（LLM）核心概念（31-60）",
-      "url": "https://juejin.cn/post/7660697431320690723",
-      "primary_url": "https://juejin.cn/post/7660697431320690723",
-      "source": "juejin",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "710a0661c81f186f5ecca862f64f2d555e22862d",
-          "title": "图解 120 个大语言模型（LLM）核心概念（31-60）",
-          "title_zh": "图解 120 个大语言模型（LLM）核心概念（31-60）",
-          "title_en": null,
-          "title_original": "图解 120 个大语言模型（LLM）核心概念（31-60）",
-          "summary": null,
-          "url": "https://juejin.cn/post/7660697431320690723",
-          "source": "juejin",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-11T08:47:08.858000Z"
-        },
-        {
-          "id": "ba8969538a1b8c40f719a7bc5e2d3f26de20986a",
-          "title": "图解 120 个大语言模型（LLM）核心概念（1-30）",
-          "title_zh": "图解 120 个大语言模型（LLM）核心概念（1-30）",
-          "title_en": null,
-          "title_original": "图解 120 个大语言模型（LLM）核心概念（1-30）",
-          "summary": null,
-          "url": "https://juejin.cn/post/7660708287620808739",
-          "source": "掘金 · 人工智能本周最热",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "juejin",
-        "掘金 · 人工智能本周最热"
-      ],
-      "items": [
-        {
-          "id": "710a0661c81f186f5ecca862f64f2d555e22862d",
-          "title": "图解 120 个大语言模型（LLM）核心概念（31-60）",
-          "title_zh": "图解 120 个大语言模型（LLM）核心概念（31-60）",
-          "title_en": null,
-          "title_original": "图解 120 个大语言模型（LLM）核心概念（31-60）",
-          "summary": null,
-          "url": "https://juejin.cn/post/7660697431320690723",
-          "source": "juejin",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-11T08:47:08.858000Z"
-        },
-        {
-          "id": "ba8969538a1b8c40f719a7bc5e2d3f26de20986a",
-          "title": "图解 120 个大语言模型（LLM）核心概念（1-30）",
-          "title_zh": "图解 120 个大语言模型（LLM）核心概念（1-30）",
-          "title_en": null,
-          "title_original": "图解 120 个大语言模型（LLM）核心概念（1-30）",
-          "summary": null,
-          "url": "https://juejin.cn/post/7660708287620808739",
-          "source": "掘金 · 人工智能本周最热",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5115,
-      "importance": 0.5115,
-      "importance_score": 0.5115,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8092,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-11T04:19:44.739774Z",
-      "latest_at": "2026-07-11T08:47:08.858000Z",
-      "primary_item": {
-        "id": "710a0661c81f186f5ecca862f64f2d555e22862d",
-        "title": "图解 120 个大语言模型（LLM）核心概念（31-60）",
-        "title_zh": "图解 120 个大语言模型（LLM）核心概念（31-60）",
-        "title_en": null,
-        "title_original": "图解 120 个大语言模型（LLM）核心概念（31-60）",
-        "summary": null,
-        "url": "https://juejin.cn/post/7660697431320690723",
-        "source": "juejin",
-        "source_name": "NewsNow"
       }
     }
   ]
