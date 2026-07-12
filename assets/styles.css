@@ -1977,6 +1977,13 @@ summary:focus-visible {
   border-top: 1px solid var(--line-soft);
 }
 
+/* [hidden] 属性的优先级低于同 specificity 的作者样式（origin 优先于 specificity），
+   .event-expand-list 的 display: grid 会盖掉 UA 自带的 [hidden]{display:none}，
+   导致 multi-chip 第二次点击设 hidden=true 后列表仍然可见。显式声明覆盖修复。 */
+.event-expand-list[hidden] {
+  display: none;
+}
+
 .event-source-row {
   display: flex;
   flex-wrap: wrap;
