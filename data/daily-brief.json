@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T06:18:59.993938Z",
+  "generated_at": "2026-07-13T09:53:28.295439Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -46,15 +46,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8503,
-      "importance": 0.8503,
-      "importance_score": 0.8503,
+      "score": 0.842,
+      "importance": 0.842,
+      "importance_score": 0.842,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9128,
+        "recency": 0.8669,
         "story_heat": 0.0
       },
       "category": "official",
@@ -201,15 +201,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8202,
-      "importance": 0.8202,
-      "importance_score": 0.8202,
+      "score": 0.8119,
+      "importance": 0.8119,
+      "importance_score": 0.8119,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9087,
+        "recency": 0.863,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -230,6 +230,107 @@
         "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_0bd34d8ebc49",
+      "title": "微软全面引入AI挖掘Windows漏洞，后续安全补丁修复数量将大幅增加",
+      "url": "https://www.aibase.com/news/29553",
+      "primary_url": "https://www.aibase.com/news/29553",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "4e33eb43aa48079fde1096428514561723a95a0c",
+          "title": "微软全面引入AI挖掘Windows漏洞，后续安全补丁修复数量将大幅增加",
+          "title_zh": "微软全面引入AI挖掘Windows漏洞，后续安全补丁修复数量将大幅增加",
+          "title_en": null,
+          "title_original": "微软全面引入AI挖掘Windows漏洞，后续安全补丁修复数量将大幅增加",
+          "summary": null,
+          "url": "https://www.aibase.com/news/29553",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-13T09:53:28.295439Z"
+        },
+        {
+          "id": "e7cdece03008890869ccc38e1df3a23a8adddf7b",
+          "title": "微软全面引入 AI 挖掘 Windows 漏洞，后续安全补丁修复数量将大幅增加",
+          "title_zh": "微软全面引入 AI 挖掘 Windows 漏洞，后续安全补丁修复数量将大幅增加",
+          "title_en": null,
+          "title_original": "微软全面引入 AI 挖掘 Windows 漏洞，后续安全补丁修复数量将大幅增加",
+          "summary": null,
+          "url": "https://www.aibase.com/zh/news/29553",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "4e33eb43aa48079fde1096428514561723a95a0c",
+          "title": "微软全面引入AI挖掘Windows漏洞，后续安全补丁修复数量将大幅增加",
+          "title_zh": "微软全面引入AI挖掘Windows漏洞，后续安全补丁修复数量将大幅增加",
+          "title_en": null,
+          "title_original": "微软全面引入AI挖掘Windows漏洞，后续安全补丁修复数量将大幅增加",
+          "summary": null,
+          "url": "https://www.aibase.com/news/29553",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-13T09:53:28.295439Z"
+        },
+        {
+          "id": "e7cdece03008890869ccc38e1df3a23a8adddf7b",
+          "title": "微软全面引入 AI 挖掘 Windows 漏洞，后续安全补丁修复数量将大幅增加",
+          "title_zh": "微软全面引入 AI 挖掘 Windows 漏洞，后续安全补丁修复数量将大幅增加",
+          "title_en": null,
+          "title_original": "微软全面引入 AI 挖掘 Windows 漏洞，后续安全补丁修复数量将大幅增加",
+          "summary": null,
+          "url": "https://www.aibase.com/zh/news/29553",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-13T09:53:28.295439Z",
+      "latest_at": "2026-07-13T09:53:28.295439Z",
+      "primary_item": {
+        "id": "4e33eb43aa48079fde1096428514561723a95a0c",
+        "title": "微软全面引入AI挖掘Windows漏洞，后续安全补丁修复数量将大幅增加",
+        "title_zh": "微软全面引入AI挖掘Windows漏洞，后续安全补丁修复数量将大幅增加",
+        "title_en": null,
+        "title_original": "微软全面引入AI挖掘Windows漏洞，后续安全补丁修复数量将大幅增加",
+        "summary": null,
+        "url": "https://www.aibase.com/news/29553",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -275,15 +376,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7941,
-      "importance": 0.7941,
-      "importance_score": 0.7941,
+      "score": 0.7858,
+      "importance": 0.7858,
+      "importance_score": 0.7858,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9139,
+        "recency": 0.8679,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -375,15 +476,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7941,
-      "importance": 0.7941,
-      "importance_score": 0.7941,
+      "score": 0.7857,
+      "importance": 0.7857,
+      "importance_score": 0.7857,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9251,
+        "recency": 0.8786,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -403,6 +504,395 @@
         "summary": "英伟达CEO黄仁勋在摩根士丹利路演中表示，公司季度营收即将逼近1000亿美元，且增长速度仍在加快。他否认下一代旗舰架构Rubin Ultra延期传闻，称其仍按计划于明年出货，当前机架设计调整仅为系统架构优化。一个此前主要依赖ASIC的前沿AI模型项目，如今英伟达GPU算力占比已接近50%，市场普遍指向Anthropic。英伟达预计本财年CPU业务收入约200亿美元，下一代Vera CPU将进军通用服务器市场。摩根士丹利维持英伟达\"增持\"评级，目标价288美元。",
         "url": "https://www.ithome.com/0/975/865.htm",
         "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_dc1c34a70469",
+      "title": "韩国编制 2027 财年 800 万亿韩元创纪录预算，AI芯片税收成主要财源",
+      "url": "https://www.aibase.com/news/29549",
+      "primary_url": "https://www.aibase.com/news/29549",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "351f409b8c43c884be9dede43e04e787aec8793a",
+          "title": "韩国编制 2027 财年 800 万亿韩元创纪录预算，AI芯片税收成主要财源",
+          "title_zh": "韩国编制 2027 财年 800 万亿韩元创纪录预算，AI芯片税收成主要财源",
+          "title_en": null,
+          "title_original": "韩国编制 2027 财年 800 万亿韩元创纪录预算，AI芯片税收成主要财源",
+          "summary": null,
+          "url": "https://www.aibase.com/news/29549",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-13T09:53:28.295439Z"
+        },
+        {
+          "id": "5ae22696c15178764cb6beb37d6d6180508ca049",
+          "title": "韩国编制 2027 财年 800 万亿韩元创纪录预算，AI 芯片税收成主要来源",
+          "title_zh": "韩国编制 2027 财年 800 万亿韩元创纪录预算，AI 芯片税收成主要来源",
+          "title_en": null,
+          "title_original": "韩国编制 2027 财年 800 万亿韩元创纪录预算，AI 芯片税收成主要来源",
+          "summary": null,
+          "url": "https://www.ithome.com/0/976/012.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-13T07:14:40Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "IT之家 (ITHome)"
+      ],
+      "items": [
+        {
+          "id": "351f409b8c43c884be9dede43e04e787aec8793a",
+          "title": "韩国编制 2027 财年 800 万亿韩元创纪录预算，AI芯片税收成主要财源",
+          "title_zh": "韩国编制 2027 财年 800 万亿韩元创纪录预算，AI芯片税收成主要财源",
+          "title_en": null,
+          "title_original": "韩国编制 2027 财年 800 万亿韩元创纪录预算，AI芯片税收成主要财源",
+          "summary": null,
+          "url": "https://www.aibase.com/news/29549",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-13T09:53:28.295439Z"
+        },
+        {
+          "id": "5ae22696c15178764cb6beb37d6d6180508ca049",
+          "title": "韩国编制 2027 财年 800 万亿韩元创纪录预算，AI 芯片税收成主要来源",
+          "title_zh": "韩国编制 2027 财年 800 万亿韩元创纪录预算，AI 芯片税收成主要来源",
+          "title_en": null,
+          "title_original": "韩国编制 2027 财年 800 万亿韩元创纪录预算，AI 芯片税收成主要来源",
+          "summary": null,
+          "url": "https://www.ithome.com/0/976/012.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-13T07:14:40Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-13T07:14:40Z",
+      "latest_at": "2026-07-13T09:53:28.295439Z",
+      "primary_item": {
+        "id": "351f409b8c43c884be9dede43e04e787aec8793a",
+        "title": "韩国编制 2027 财年 800 万亿韩元创纪录预算，AI芯片税收成主要财源",
+        "title_zh": "韩国编制 2027 财年 800 万亿韩元创纪录预算，AI芯片税收成主要财源",
+        "title_en": null,
+        "title_original": "韩国编制 2027 财年 800 万亿韩元创纪录预算，AI芯片税收成主要财源",
+        "summary": null,
+        "url": "https://www.aibase.com/news/29549",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_94a1c14fcbb4",
+      "title": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
+      "url": "https://x.com/dotey/status/2076372677577576864",
+      "primary_url": "https://x.com/dotey/status/2076372677577576864",
+      "source": "X：宝玉 (@dotey)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b9e48e81b83ac2a8c1d352a0c5efe75ff0c78b93",
+          "title": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
+          "title_zh": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
+          "title_en": null,
+          "title_original": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
+          "summary": "Codex 和 ChatGPT Work 发布三项更新：1）临时移除所有 Plus、Business 和 Pro 计划的5小时使用限制；2）推出 GPT 5.6 Sol 的全面效率改进，使其更省 token，具体影响待量化公布；3）活跃用户达600万，下一小时内进行使用量重置。",
+          "url": "https://x.com/dotey/status/2076372677577576864",
+          "source": "X：宝玉 (@dotey)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T18:26:38Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：宝玉 (@dotey)"
+      ],
+      "items": [
+        {
+          "id": "b9e48e81b83ac2a8c1d352a0c5efe75ff0c78b93",
+          "title": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
+          "title_zh": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
+          "title_en": null,
+          "title_original": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
+          "summary": "Codex 和 ChatGPT Work 发布三项更新：1）临时移除所有 Plus、Business 和 Pro 计划的5小时使用限制；2）推出 GPT 5.6 Sol 的全面效率改进，使其更省 token，具体影响待量化公布；3）活跃用户达600万，下一小时内进行使用量重置。",
+          "url": "https://x.com/dotey/status/2076372677577576864",
+          "source": "X：宝玉 (@dotey)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T18:26:38Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7466,
+      "importance": 0.7466,
+      "importance_score": 0.7466,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8001,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-12T18:26:38Z",
+      "latest_at": "2026-07-12T18:26:38Z",
+      "primary_item": {
+        "id": "b9e48e81b83ac2a8c1d352a0c5efe75ff0c78b93",
+        "title": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
+        "title_zh": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
+        "title_en": null,
+        "title_original": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
+        "summary": "Codex 和 ChatGPT Work 发布三项更新：1）临时移除所有 Plus、Business 和 Pro 计划的5小时使用限制；2）推出 GPT 5.6 Sol 的全面效率改进，使其更省 token，具体影响待量化公布；3）活跃用户达600万，下一小时内进行使用量重置。",
+        "url": "https://x.com/dotey/status/2076372677577576864",
+        "source": "X：宝玉 (@dotey)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_7de58394b679",
+      "title": "Codex与ChatGPT Work多项更新：取消5小时限制 / Morning. The last 48 hours of Codex and ChatGPT Work have been intense！ Three important updates： - …",
+      "url": "https://x.com/thsottiaux/status/2076365965915467978",
+      "primary_url": "https://x.com/thsottiaux/status/2076365965915467978",
+      "source": "X：Tibo (@thsottiaux)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a6d2b88e70167d146ce7fa659dd2757d371b20ce",
+          "title": "Codex与ChatGPT Work多项更新：取消5小时限制 / Morning. The last 48 hours of Codex and ChatGPT Work have been intense！ Three important updates： - …",
+          "title_zh": "Codex与ChatGPT Work多项更新：取消5小时限制",
+          "title_en": "Morning. The last 48 hours of Codex and ChatGPT Work have been intense！ Three important updates： - …",
+          "title_original": "Morning. The last 48 hours of Codex and ChatGPT Work have been intense！ Three important updates： - …",
+          "summary": "早上好。过去48小时里，Codex和ChatGPT Work非常忙碌！三项重要更新：\n\n- 暂时取消所有Plus、Business和Pro计划的5小时使用限制\n- 正在推出变更，使GPT 5.6 Sol整体更高效，这将体现在使用量减少上，从而让你能走得更远。具体影响待量化后公布\n- 我们已达到600万活跃用户，并将在接下来一小时内进行使用量重置\n\n去创造吧。",
+          "url": "https://x.com/thsottiaux/status/2076365965915467978",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T17:59:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Tibo (@thsottiaux)"
+      ],
+      "items": [
+        {
+          "id": "a6d2b88e70167d146ce7fa659dd2757d371b20ce",
+          "title": "Codex与ChatGPT Work多项更新：取消5小时限制 / Morning. The last 48 hours of Codex and ChatGPT Work have been intense！ Three important updates： - …",
+          "title_zh": "Codex与ChatGPT Work多项更新：取消5小时限制",
+          "title_en": "Morning. The last 48 hours of Codex and ChatGPT Work have been intense！ Three important updates： - …",
+          "title_original": "Morning. The last 48 hours of Codex and ChatGPT Work have been intense！ Three important updates： - …",
+          "summary": "早上好。过去48小时里，Codex和ChatGPT Work非常忙碌！三项重要更新：\n\n- 暂时取消所有Plus、Business和Pro计划的5小时使用限制\n- 正在推出变更，使GPT 5.6 Sol整体更高效，这将体现在使用量减少上，从而让你能走得更远。具体影响待量化后公布\n- 我们已达到600万活跃用户，并将在接下来一小时内进行使用量重置\n\n去创造吧。",
+          "url": "https://x.com/thsottiaux/status/2076365965915467978",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T17:59:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7427,
+      "importance": 0.7427,
+      "importance_score": 0.7427,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7949,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-12T17:59:57Z",
+      "latest_at": "2026-07-12T17:59:57Z",
+      "primary_item": {
+        "id": "a6d2b88e70167d146ce7fa659dd2757d371b20ce",
+        "title": "Codex与ChatGPT Work多项更新：取消5小时限制 / Morning. The last 48 hours of Codex and ChatGPT Work have been intense！ Three important updates： - …",
+        "title_zh": "Codex与ChatGPT Work多项更新：取消5小时限制",
+        "title_en": "Morning. The last 48 hours of Codex and ChatGPT Work have been intense！ Three important updates： - …",
+        "title_original": "Morning. The last 48 hours of Codex and ChatGPT Work have been intense！ Three important updates： - …",
+        "summary": "早上好。过去48小时里，Codex和ChatGPT Work非常忙碌！三项重要更新：\n\n- 暂时取消所有Plus、Business和Pro计划的5小时使用限制\n- 正在推出变更，使GPT 5.6 Sol整体更高效，这将体现在使用量减少上，从而让你能走得更远。具体影响待量化后公布\n- 我们已达到600万活跃用户，并将在接下来一小时内进行使用量重置\n\n去创造吧。",
+        "url": "https://x.com/thsottiaux/status/2076365965915467978",
+        "source": "X：Tibo (@thsottiaux)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_2d32142bc0da",
+      "title": "腾讯混元发布Hy3模型：295B参数MoE架构，Agent向LLM定位，已集成微信服务10亿+用户",
+      "url": "https://x.com/AYi_AInotes/status/2076341952023310580",
+      "primary_url": "https://x.com/AYi_AInotes/status/2076341952023310580",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c3b94bfbf430fa9dd347781c6de01eb70fd3a32a",
+          "title": "腾讯混元发布Hy3模型：295B参数MoE架构，Agent向LLM定位，已集成微信服务10亿+用户",
+          "title_zh": "腾讯混元发布Hy3模型：295B参数MoE架构，Agent向LLM定位，已集成微信服务10亿+用户",
+          "title_en": null,
+          "title_original": "腾讯混元发布Hy3模型：295B参数MoE架构，Agent向LLM定位，已集成微信服务10亿+用户",
+          "summary": "腾讯混元团队发布Hy3模型，采用295B总参数、21B激活参数的MoE架构，推理效率可打平参数规模2-5倍的旗舰模型。Hy3定位为Agent向LLM，从preview到正式版基于50多个真实业务反馈迭代，内部WorkBuddy任务成功率从72%提升至90%，耗时降低34%，幻觉和常识错误持续下降。实测显示其在coding、办公、复杂任务规划方面表现突出，纯视觉能力为短板。Hy3已集成至微信服务10亿+用户，视频演示包括生成HTML网页、Agent网页和10页PPT，模型具备自检和主动说明不足的能力。",
+          "url": "https://x.com/AYi_AInotes/status/2076341952023310580",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T16:24:32Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：阿易 AI Notes (@AYi_AInotes)"
+      ],
+      "items": [
+        {
+          "id": "c3b94bfbf430fa9dd347781c6de01eb70fd3a32a",
+          "title": "腾讯混元发布Hy3模型：295B参数MoE架构，Agent向LLM定位，已集成微信服务10亿+用户",
+          "title_zh": "腾讯混元发布Hy3模型：295B参数MoE架构，Agent向LLM定位，已集成微信服务10亿+用户",
+          "title_en": null,
+          "title_original": "腾讯混元发布Hy3模型：295B参数MoE架构，Agent向LLM定位，已集成微信服务10亿+用户",
+          "summary": "腾讯混元团队发布Hy3模型，采用295B总参数、21B激活参数的MoE架构，推理效率可打平参数规模2-5倍的旗舰模型。Hy3定位为Agent向LLM，从preview到正式版基于50多个真实业务反馈迭代，内部WorkBuddy任务成功率从72%提升至90%，耗时降低34%，幻觉和常识错误持续下降。实测显示其在coding、办公、复杂任务规划方面表现突出，纯视觉能力为短板。Hy3已集成至微信服务10亿+用户，视频演示包括生成HTML网页、Agent网页和10页PPT，模型具备自检和主动说明不足的能力。",
+          "url": "https://x.com/AYi_AInotes/status/2076341952023310580",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T16:24:32Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7364,
+      "importance": 0.7364,
+      "importance_score": 0.7364,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7769,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-12T16:24:32Z",
+      "latest_at": "2026-07-12T16:24:32Z",
+      "primary_item": {
+        "id": "c3b94bfbf430fa9dd347781c6de01eb70fd3a32a",
+        "title": "腾讯混元发布Hy3模型：295B参数MoE架构，Agent向LLM定位，已集成微信服务10亿+用户",
+        "title_zh": "腾讯混元发布Hy3模型：295B参数MoE架构，Agent向LLM定位，已集成微信服务10亿+用户",
+        "title_en": null,
+        "title_original": "腾讯混元发布Hy3模型：295B参数MoE架构，Agent向LLM定位，已集成微信服务10亿+用户",
+        "summary": "腾讯混元团队发布Hy3模型，采用295B总参数、21B激活参数的MoE架构，推理效率可打平参数规模2-5倍的旗舰模型。Hy3定位为Agent向LLM，从preview到正式版基于50多个真实业务反馈迭代，内部WorkBuddy任务成功率从72%提升至90%，耗时降低34%，幻觉和常识错误持续下降。实测显示其在coding、办公、复杂任务规划方面表现突出，纯视觉能力为短板。Hy3已集成至微信服务10亿+用户，视频演示包括生成HTML网页、Agent网页和10页PPT，模型具备自检和主动说明不足的能力。",
+        "url": "https://x.com/AYi_AInotes/status/2076341952023310580",
+        "source": "X：阿易 AI Notes (@AYi_AInotes)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_169d19b44b6c",
+      "title": "纳德拉提出\"反向信息悖论\"：企业使用AI时需保护自身知识 / http://x.com/i/article/2076319195718090753",
+      "url": "https://x.com/satyanadella/status/2076323181154230284",
+      "primary_url": "https://x.com/satyanadella/status/2076323181154230284",
+      "source": "X：Satya Nadella (@satyanadella)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b62c95a42f68f854995840b3d2a2351ccfc3a4bb",
+          "title": "纳德拉提出\"反向信息悖论\"：企业使用AI时需保护自身知识 / http://x.com/i/article/2076319195718090753",
+          "title_zh": "纳德拉提出\"反向信息悖论\"：企业使用AI时需保护自身知识",
+          "title_en": "http://x.com/i/article/2076319195718090753",
+          "title_original": "http://x.com/i/article/2076319195718090753",
+          "summary": "微软CEO萨提亚·纳德拉提出\"反向信息悖论\"：AI时代，买家为使用AI支付金钱，同时必须暴露专有知识（提示词、工具使用、纠正反馈等），这些\"智力废气\"被模型学习，导致信息不对称向卖家倾斜。企业需要真正的信任边界，确保自身数据、痕迹、评估、适配权重和记忆在边界内积累，未经同意不得外泄。纳德拉呼吁企业拥有私有评估、保留组织记忆所有权，并主张企业应有权使用模型输出微调或训练自有模型，以控制自身学习循环。",
+          "url": "https://x.com/satyanadella/status/2076323181154230284",
+          "source": "X：Satya Nadella (@satyanadella)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T15:09:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Satya Nadella (@satyanadella)"
+      ],
+      "items": [
+        {
+          "id": "b62c95a42f68f854995840b3d2a2351ccfc3a4bb",
+          "title": "纳德拉提出\"反向信息悖论\"：企业使用AI时需保护自身知识 / http://x.com/i/article/2076319195718090753",
+          "title_zh": "纳德拉提出\"反向信息悖论\"：企业使用AI时需保护自身知识",
+          "title_en": "http://x.com/i/article/2076319195718090753",
+          "title_original": "http://x.com/i/article/2076319195718090753",
+          "summary": "微软CEO萨提亚·纳德拉提出\"反向信息悖论\"：AI时代，买家为使用AI支付金钱，同时必须暴露专有知识（提示词、工具使用、纠正反馈等），这些\"智力废气\"被模型学习，导致信息不对称向卖家倾斜。企业需要真正的信任边界，确保自身数据、痕迹、评估、适配权重和记忆在边界内积累，未经同意不得外泄。纳德拉呼吁企业拥有私有评估、保留组织记忆所有权，并主张企业应有权使用模型输出微调或训练自有模型，以控制自身学习循环。",
+          "url": "https://x.com/satyanadella/status/2076323181154230284",
+          "source": "X：Satya Nadella (@satyanadella)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T15:09:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.734,
+      "importance": 0.734,
+      "importance_score": 0.734,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7631,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-12T15:09:57Z",
+      "latest_at": "2026-07-12T15:09:57Z",
+      "primary_item": {
+        "id": "b62c95a42f68f854995840b3d2a2351ccfc3a4bb",
+        "title": "纳德拉提出\"反向信息悖论\"：企业使用AI时需保护自身知识 / http://x.com/i/article/2076319195718090753",
+        "title_zh": "纳德拉提出\"反向信息悖论\"：企业使用AI时需保护自身知识",
+        "title_en": "http://x.com/i/article/2076319195718090753",
+        "title_original": "http://x.com/i/article/2076319195718090753",
+        "summary": "微软CEO萨提亚·纳德拉提出\"反向信息悖论\"：AI时代，买家为使用AI支付金钱，同时必须暴露专有知识（提示词、工具使用、纠正反馈等），这些\"智力废气\"被模型学习，导致信息不对称向卖家倾斜。企业需要真正的信任边界，确保自身数据、痕迹、评估、适配权重和记忆在边界内积累，未经同意不得外泄。纳德拉呼吁企业拥有私有评估、保留组织记忆所有权，并主张企业应有权使用模型输出微调或训练自有模型，以控制自身学习循环。",
+        "url": "https://x.com/satyanadella/status/2076323181154230284",
+        "source": "X：Satya Nadella (@satyanadella)",
         "source_name": "AI HOT"
       }
     },
@@ -476,15 +966,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7835,
+      "importance": 0.7835,
+      "importance_score": 0.7835,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9497,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -508,75 +998,74 @@
       }
     },
     {
-      "story_id": "story_94a1c14fcbb4",
-      "title": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
-      "url": "https://x.com/dotey/status/2076372677577576864",
-      "primary_url": "https://x.com/dotey/status/2076372677577576864",
-      "source": "X：宝玉 (@dotey)",
+      "story_id": "story_4da51d31a85f",
+      "title": "Mindwalk：在代码库 3D 地图上回放编码代理会话",
+      "url": "https://github.com/cosmtrek/mindwalk",
+      "primary_url": "https://github.com/cosmtrek/mindwalk",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "b9e48e81b83ac2a8c1d352a0c5efe75ff0c78b93",
-          "title": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
-          "title_zh": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
+          "id": "f0ab453c983795f2bb58f4460a1491625e458b92",
+          "title": "Mindwalk：在代码库 3D 地图上回放编码代理会话",
+          "title_zh": "Mindwalk：在代码库 3D 地图上回放编码代理会话",
           "title_en": null,
-          "title_original": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
-          "summary": "Codex 和 ChatGPT Work 发布三项更新：1）临时移除所有 Plus、Business 和 Pro 计划的5小时使用限制；2）推出 GPT 5.6 Sol 的全面效率改进，使其更省 token，具体影响待量化公布；3）活跃用户达600万，下一小时内进行使用量重置。",
-          "url": "https://x.com/dotey/status/2076372677577576864",
-          "source": "X：宝玉 (@dotey)",
+          "title_original": "Mindwalk：在代码库 3D 地图上回放编码代理会话",
+          "summary": "Mindwalk 是一款可视化工具，可将 Claude Code 和 Codex 的会话日志在代码库的 3D 地图上回放。它将仓库绘制成夜间地图，代理搜索、读取和编辑过的文件会发光，未触及区域保持黑暗，让用户一眼看清代理对任务的理解范围。单个 Go 二进制文件即可运行，所有会话数据完全本地处理，不会离开机器。支持树状图/地形图两种视图，文件触达状态分为未访问、已查看、已读取、已编辑四种颜色标记。播放界面包含错误率、文件修改量等摩擦信号面板，以及上下文压缩、子代理启动、用户交互等时间轴标记。支持键盘快捷键控制播放速度、跳转编辑点或错误点。",
+          "url": "https://github.com/cosmtrek/mindwalk",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-12T18:26:38Z"
+          "published_at": "2026-07-12T13:51:05.035000Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：宝玉 (@dotey)"
+        "Hacker News 热门（buzzing.cc 中文翻译）"
       ],
       "items": [
         {
-          "id": "b9e48e81b83ac2a8c1d352a0c5efe75ff0c78b93",
-          "title": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
-          "title_zh": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
+          "id": "f0ab453c983795f2bb58f4460a1491625e458b92",
+          "title": "Mindwalk：在代码库 3D 地图上回放编码代理会话",
+          "title_zh": "Mindwalk：在代码库 3D 地图上回放编码代理会话",
           "title_en": null,
-          "title_original": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
-          "summary": "Codex 和 ChatGPT Work 发布三项更新：1）临时移除所有 Plus、Business 和 Pro 计划的5小时使用限制；2）推出 GPT 5.6 Sol 的全面效率改进，使其更省 token，具体影响待量化公布；3）活跃用户达600万，下一小时内进行使用量重置。",
-          "url": "https://x.com/dotey/status/2076372677577576864",
-          "source": "X：宝玉 (@dotey)",
+          "title_original": "Mindwalk：在代码库 3D 地图上回放编码代理会话",
+          "summary": "Mindwalk 是一款可视化工具，可将 Claude Code 和 Codex 的会话日志在代码库的 3D 地图上回放。它将仓库绘制成夜间地图，代理搜索、读取和编辑过的文件会发光，未触及区域保持黑暗，让用户一眼看清代理对任务的理解范围。单个 Go 二进制文件即可运行，所有会话数据完全本地处理，不会离开机器。支持树状图/地形图两种视图，文件触达状态分为未访问、已查看、已读取、已编辑四种颜色标记。播放界面包含错误率、文件修改量等摩擦信号面板，以及上下文压缩、子代理启动、用户交互等时间轴标记。支持键盘快捷键控制播放速度、跳转编辑点或错误点。",
+          "url": "https://github.com/cosmtrek/mindwalk",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-12T18:26:38Z"
+          "published_at": "2026-07-12T13:51:05.035000Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7542,
-      "importance": 0.7542,
-      "importance_score": 0.7542,
+      "score": 0.7284,
+      "importance": 0.7284,
+      "importance_score": 0.7284,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.77,
+        "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8424,
+        "recency": 0.7487,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-12T18:26:38Z",
-      "latest_at": "2026-07-12T18:26:38Z",
+      "earliest_at": "2026-07-12T13:51:05.035000Z",
+      "latest_at": "2026-07-12T13:51:05.035000Z",
       "primary_item": {
-        "id": "b9e48e81b83ac2a8c1d352a0c5efe75ff0c78b93",
-        "title": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
-        "title_zh": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
+        "id": "f0ab453c983795f2bb58f4460a1491625e458b92",
+        "title": "Mindwalk：在代码库 3D 地图上回放编码代理会话",
+        "title_zh": "Mindwalk：在代码库 3D 地图上回放编码代理会话",
         "title_en": null,
-        "title_original": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
-        "summary": "Codex 和 ChatGPT Work 发布三项更新：1）临时移除所有 Plus、Business 和 Pro 计划的5小时使用限制；2）推出 GPT 5.6 Sol 的全面效率改进，使其更省 token，具体影响待量化公布；3）活跃用户达600万，下一小时内进行使用量重置。",
-        "url": "https://x.com/dotey/status/2076372677577576864",
-        "source": "X：宝玉 (@dotey)",
+        "title_original": "Mindwalk：在代码库 3D 地图上回放编码代理会话",
+        "summary": "Mindwalk 是一款可视化工具，可将 Claude Code 和 Codex 的会话日志在代码库的 3D 地图上回放。它将仓库绘制成夜间地图，代理搜索、读取和编辑过的文件会发光，未触及区域保持黑暗，让用户一眼看清代理对任务的理解范围。单个 Go 二进制文件即可运行，所有会话数据完全本地处理，不会离开机器。支持树状图/地形图两种视图，文件触达状态分为未访问、已查看、已读取、已编辑四种颜色标记。播放界面包含错误率、文件修改量等摩擦信号面板，以及上下文压缩、子代理启动、用户交互等时间轴标记。支持键盘快捷键控制播放速度、跳转编辑点或错误点。",
+        "url": "https://github.com/cosmtrek/mindwalk",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -650,15 +1139,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7837,
-      "importance": 0.7837,
-      "importance_score": 0.7837,
+      "score": 0.7751,
+      "importance": 0.7751,
+      "importance_score": 0.7751,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9505,
+        "recency": 0.9027,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -677,541 +1166,6 @@
         "title_original": "别人敲钟，我们归零:智谱披露“摸高”计划，押注全自动化智能体生态",
         "summary": null,
         "url": "https://www.aibase.com/news/29537",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_7de58394b679",
-      "title": "Codex与ChatGPT Work多项更新：取消5小时限制 / Morning. The last 48 hours of Codex and ChatGPT Work have been intense！ Three important updates： - …",
-      "url": "https://x.com/thsottiaux/status/2076365965915467978",
-      "primary_url": "https://x.com/thsottiaux/status/2076365965915467978",
-      "source": "X：Tibo (@thsottiaux)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a6d2b88e70167d146ce7fa659dd2757d371b20ce",
-          "title": "Codex与ChatGPT Work多项更新：取消5小时限制 / Morning. The last 48 hours of Codex and ChatGPT Work have been intense！ Three important updates： - …",
-          "title_zh": "Codex与ChatGPT Work多项更新：取消5小时限制",
-          "title_en": "Morning. The last 48 hours of Codex and ChatGPT Work have been intense！ Three important updates： - …",
-          "title_original": "Morning. The last 48 hours of Codex and ChatGPT Work have been intense！ Three important updates： - …",
-          "summary": "早上好。过去48小时里，Codex和ChatGPT Work非常忙碌！三项重要更新：\n\n- 暂时取消所有Plus、Business和Pro计划的5小时使用限制\n- 正在推出变更，使GPT 5.6 Sol整体更高效，这将体现在使用量减少上，从而让你能走得更远。具体影响待量化后公布\n- 我们已达到600万活跃用户，并将在接下来一小时内进行使用量重置\n\n去创造吧。",
-          "url": "https://x.com/thsottiaux/status/2076365965915467978",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T17:59:57Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Tibo (@thsottiaux)"
-      ],
-      "items": [
-        {
-          "id": "a6d2b88e70167d146ce7fa659dd2757d371b20ce",
-          "title": "Codex与ChatGPT Work多项更新：取消5小时限制 / Morning. The last 48 hours of Codex and ChatGPT Work have been intense！ Three important updates： - …",
-          "title_zh": "Codex与ChatGPT Work多项更新：取消5小时限制",
-          "title_en": "Morning. The last 48 hours of Codex and ChatGPT Work have been intense！ Three important updates： - …",
-          "title_original": "Morning. The last 48 hours of Codex and ChatGPT Work have been intense！ Three important updates： - …",
-          "summary": "早上好。过去48小时里，Codex和ChatGPT Work非常忙碌！三项重要更新：\n\n- 暂时取消所有Plus、Business和Pro计划的5小时使用限制\n- 正在推出变更，使GPT 5.6 Sol整体更高效，这将体现在使用量减少上，从而让你能走得更远。具体影响待量化后公布\n- 我们已达到600万活跃用户，并将在接下来一小时内进行使用量重置\n\n去创造吧。",
-          "url": "https://x.com/thsottiaux/status/2076365965915467978",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T17:59:57Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.837,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-12T17:59:57Z",
-      "latest_at": "2026-07-12T17:59:57Z",
-      "primary_item": {
-        "id": "a6d2b88e70167d146ce7fa659dd2757d371b20ce",
-        "title": "Codex与ChatGPT Work多项更新：取消5小时限制 / Morning. The last 48 hours of Codex and ChatGPT Work have been intense！ Three important updates： - …",
-        "title_zh": "Codex与ChatGPT Work多项更新：取消5小时限制",
-        "title_en": "Morning. The last 48 hours of Codex and ChatGPT Work have been intense！ Three important updates： - …",
-        "title_original": "Morning. The last 48 hours of Codex and ChatGPT Work have been intense！ Three important updates： - …",
-        "summary": "早上好。过去48小时里，Codex和ChatGPT Work非常忙碌！三项重要更新：\n\n- 暂时取消所有Plus、Business和Pro计划的5小时使用限制\n- 正在推出变更，使GPT 5.6 Sol整体更高效，这将体现在使用量减少上，从而让你能走得更远。具体影响待量化后公布\n- 我们已达到600万活跃用户，并将在接下来一小时内进行使用量重置\n\n去创造吧。",
-        "url": "https://x.com/thsottiaux/status/2076365965915467978",
-        "source": "X：Tibo (@thsottiaux)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_2d32142bc0da",
-      "title": "腾讯混元发布Hy3模型：295B参数MoE架构，Agent向LLM定位，已集成微信服务10亿+用户",
-      "url": "https://x.com/AYi_AInotes/status/2076341952023310580",
-      "primary_url": "https://x.com/AYi_AInotes/status/2076341952023310580",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c3b94bfbf430fa9dd347781c6de01eb70fd3a32a",
-          "title": "腾讯混元发布Hy3模型：295B参数MoE架构，Agent向LLM定位，已集成微信服务10亿+用户",
-          "title_zh": "腾讯混元发布Hy3模型：295B参数MoE架构，Agent向LLM定位，已集成微信服务10亿+用户",
-          "title_en": null,
-          "title_original": "腾讯混元发布Hy3模型：295B参数MoE架构，Agent向LLM定位，已集成微信服务10亿+用户",
-          "summary": "腾讯混元团队发布Hy3模型，采用295B总参数、21B激活参数的MoE架构，推理效率可打平参数规模2-5倍的旗舰模型。Hy3定位为Agent向LLM，从preview到正式版基于50多个真实业务反馈迭代，内部WorkBuddy任务成功率从72%提升至90%，耗时降低34%，幻觉和常识错误持续下降。实测显示其在coding、办公、复杂任务规划方面表现突出，纯视觉能力为短板。Hy3已集成至微信服务10亿+用户，视频演示包括生成HTML网页、Agent网页和10页PPT，模型具备自检和主动说明不足的能力。",
-          "url": "https://x.com/AYi_AInotes/status/2076341952023310580",
-          "source": "X：阿易 AI Notes (@AYi_AInotes)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T16:24:32Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：阿易 AI Notes (@AYi_AInotes)"
-      ],
-      "items": [
-        {
-          "id": "c3b94bfbf430fa9dd347781c6de01eb70fd3a32a",
-          "title": "腾讯混元发布Hy3模型：295B参数MoE架构，Agent向LLM定位，已集成微信服务10亿+用户",
-          "title_zh": "腾讯混元发布Hy3模型：295B参数MoE架构，Agent向LLM定位，已集成微信服务10亿+用户",
-          "title_en": null,
-          "title_original": "腾讯混元发布Hy3模型：295B参数MoE架构，Agent向LLM定位，已集成微信服务10亿+用户",
-          "summary": "腾讯混元团队发布Hy3模型，采用295B总参数、21B激活参数的MoE架构，推理效率可打平参数规模2-5倍的旗舰模型。Hy3定位为Agent向LLM，从preview到正式版基于50多个真实业务反馈迭代，内部WorkBuddy任务成功率从72%提升至90%，耗时降低34%，幻觉和常识错误持续下降。实测显示其在coding、办公、复杂任务规划方面表现突出，纯视觉能力为短板。Hy3已集成至微信服务10亿+用户，视频演示包括生成HTML网页、Agent网页和10页PPT，模型具备自检和主动说明不足的能力。",
-          "url": "https://x.com/AYi_AInotes/status/2076341952023310580",
-          "source": "X：阿易 AI Notes (@AYi_AInotes)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T16:24:32Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7438,
-      "importance": 0.7438,
-      "importance_score": 0.7438,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.818,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-12T16:24:32Z",
-      "latest_at": "2026-07-12T16:24:32Z",
-      "primary_item": {
-        "id": "c3b94bfbf430fa9dd347781c6de01eb70fd3a32a",
-        "title": "腾讯混元发布Hy3模型：295B参数MoE架构，Agent向LLM定位，已集成微信服务10亿+用户",
-        "title_zh": "腾讯混元发布Hy3模型：295B参数MoE架构，Agent向LLM定位，已集成微信服务10亿+用户",
-        "title_en": null,
-        "title_original": "腾讯混元发布Hy3模型：295B参数MoE架构，Agent向LLM定位，已集成微信服务10亿+用户",
-        "summary": "腾讯混元团队发布Hy3模型，采用295B总参数、21B激活参数的MoE架构，推理效率可打平参数规模2-5倍的旗舰模型。Hy3定位为Agent向LLM，从preview到正式版基于50多个真实业务反馈迭代，内部WorkBuddy任务成功率从72%提升至90%，耗时降低34%，幻觉和常识错误持续下降。实测显示其在coding、办公、复杂任务规划方面表现突出，纯视觉能力为短板。Hy3已集成至微信服务10亿+用户，视频演示包括生成HTML网页、Agent网页和10页PPT，模型具备自检和主动说明不足的能力。",
-        "url": "https://x.com/AYi_AInotes/status/2076341952023310580",
-        "source": "X：阿易 AI Notes (@AYi_AInotes)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_2e50379c134a",
-      "title": "OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论 / OpenAI CEO Altman is now \"pretty sure\" AI is net job-creating， which is quite the pivot from predicting mass layoffs",
-      "url": "https://the-decoder.com/openai-ceo-altman-is-now-pretty-sure-ai-is-net-job-creating-which-is-quite-the-pivot-from-predicting-mass-layoffs",
-      "primary_url": "https://the-decoder.com/openai-ceo-altman-is-now-pretty-sure-ai-is-net-job-creating-which-is-quite-the-pivot-from-predicting-mass-layoffs",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "40b04024e4d42805d7dd204ba5ea764dac00d99a",
-          "title": "OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论 / OpenAI CEO Altman is now \"pretty sure\" AI is net job-creating， which is quite the pivot from predicting mass layoffs",
-          "title_zh": "OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论",
-          "title_en": "OpenAI CEO Altman is now \"pretty sure\" AI is net job-creating， which is quite the pivot from predicting mass layoffs",
-          "title_original": "OpenAI CEO Altman is now \"pretty sure\" AI is net job-creating， which is quite the pivot from predicting mass layoffs",
-          "summary": "OpenAI CEO Sam Altman 表示，他\"相当确信\"AI 迄今为止净创造了就业，并承认\"这并非我预期\"。此前他曾警告 AI 影响可能快得\"有点吓人\"。Anthropic CEO Dario Amodei 也修正了早期言论，将自动化描述为生产力倍增器而非岗位杀手。然而，多项研究未发现 AI 对整体生产力或劳动力市场产生显著影响。一项多校联合研究指出，程序员和文案的就业危机始于 2022 年初，早于 ChatGPT 发布。耶鲁预算实验室也未发现与 AI 相关的就业市场变化。",
-          "url": "https://the-decoder.com/openai-ceo-altman-is-now-pretty-sure-ai-is-net-job-creating-which-is-quite-the-pivot-from-predicting-mass-layoffs",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T09:15:49Z"
-        },
-        {
-          "id": "4183d44328a5f1e7e0afa6dc2e6118e6207f05ac",
-          "title": "OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论 / OpenAI CEO Altman is now \"pretty sure\" AI is net job-creating, which is quite the pivot from predicting mass layoffs",
-          "title_zh": "OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论",
-          "title_en": "OpenAI CEO Altman is now \"pretty sure\" AI is net job-creating, which is quite the pivot from predicting mass layoffs",
-          "title_original": "OpenAI CEO Altman is now \"pretty sure\" AI is net job-creating, which is quite the pivot from predicting mass layoffs",
-          "summary": null,
-          "url": "https://the-decoder.com/openai-ceo-altman-is-now-pretty-sure-ai-is-net-job-creating-which-is-quite-the-pivot-from-predicting-mass-layoffs",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-12T09:15:49Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Decoder AI News",
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "40b04024e4d42805d7dd204ba5ea764dac00d99a",
-          "title": "OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论 / OpenAI CEO Altman is now \"pretty sure\" AI is net job-creating， which is quite the pivot from predicting mass layoffs",
-          "title_zh": "OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论",
-          "title_en": "OpenAI CEO Altman is now \"pretty sure\" AI is net job-creating， which is quite the pivot from predicting mass layoffs",
-          "title_original": "OpenAI CEO Altman is now \"pretty sure\" AI is net job-creating， which is quite the pivot from predicting mass layoffs",
-          "summary": "OpenAI CEO Sam Altman 表示，他\"相当确信\"AI 迄今为止净创造了就业，并承认\"这并非我预期\"。此前他曾警告 AI 影响可能快得\"有点吓人\"。Anthropic CEO Dario Amodei 也修正了早期言论，将自动化描述为生产力倍增器而非岗位杀手。然而，多项研究未发现 AI 对整体生产力或劳动力市场产生显著影响。一项多校联合研究指出，程序员和文案的就业危机始于 2022 年初，早于 ChatGPT 发布。耶鲁预算实验室也未发现与 AI 相关的就业市场变化。",
-          "url": "https://the-decoder.com/openai-ceo-altman-is-now-pretty-sure-ai-is-net-job-creating-which-is-quite-the-pivot-from-predicting-mass-layoffs",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T09:15:49Z"
-        },
-        {
-          "id": "4183d44328a5f1e7e0afa6dc2e6118e6207f05ac",
-          "title": "OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论 / OpenAI CEO Altman is now \"pretty sure\" AI is net job-creating, which is quite the pivot from predicting mass layoffs",
-          "title_zh": "OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论",
-          "title_en": "OpenAI CEO Altman is now \"pretty sure\" AI is net job-creating, which is quite the pivot from predicting mass layoffs",
-          "title_original": "OpenAI CEO Altman is now \"pretty sure\" AI is net job-creating, which is quite the pivot from predicting mass layoffs",
-          "summary": null,
-          "url": "https://the-decoder.com/openai-ceo-altman-is-now-pretty-sure-ai-is-net-job-creating-which-is-quite-the-pivot-from-predicting-mass-layoffs",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-12T09:15:49Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7424,
-      "importance": 0.7424,
-      "importance_score": 0.7424,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7378,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-12T09:15:49Z",
-      "latest_at": "2026-07-12T09:15:49Z",
-      "primary_item": {
-        "id": "40b04024e4d42805d7dd204ba5ea764dac00d99a",
-        "title": "OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论 / OpenAI CEO Altman is now \"pretty sure\" AI is net job-creating， which is quite the pivot from predicting mass layoffs",
-        "title_zh": "OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论",
-        "title_en": "OpenAI CEO Altman is now \"pretty sure\" AI is net job-creating， which is quite the pivot from predicting mass layoffs",
-        "title_original": "OpenAI CEO Altman is now \"pretty sure\" AI is net job-creating， which is quite the pivot from predicting mass layoffs",
-        "summary": "OpenAI CEO Sam Altman 表示，他\"相当确信\"AI 迄今为止净创造了就业，并承认\"这并非我预期\"。此前他曾警告 AI 影响可能快得\"有点吓人\"。Anthropic CEO Dario Amodei 也修正了早期言论，将自动化描述为生产力倍增器而非岗位杀手。然而，多项研究未发现 AI 对整体生产力或劳动力市场产生显著影响。一项多校联合研究指出，程序员和文案的就业危机始于 2022 年初，早于 ChatGPT 发布。耶鲁预算实验室也未发现与 AI 相关的就业市场变化。",
-        "url": "https://the-decoder.com/openai-ceo-altman-is-now-pretty-sure-ai-is-net-job-creating-which-is-quite-the-pivot-from-predicting-mass-layoffs",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_169d19b44b6c",
-      "title": "纳德拉提出\"反向信息悖论\"：企业使用AI时需保护自身知识 / http://x.com/i/article/2076319195718090753",
-      "url": "https://x.com/satyanadella/status/2076323181154230284",
-      "primary_url": "https://x.com/satyanadella/status/2076323181154230284",
-      "source": "X：Satya Nadella (@satyanadella)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b62c95a42f68f854995840b3d2a2351ccfc3a4bb",
-          "title": "纳德拉提出\"反向信息悖论\"：企业使用AI时需保护自身知识 / http://x.com/i/article/2076319195718090753",
-          "title_zh": "纳德拉提出\"反向信息悖论\"：企业使用AI时需保护自身知识",
-          "title_en": "http://x.com/i/article/2076319195718090753",
-          "title_original": "http://x.com/i/article/2076319195718090753",
-          "summary": "微软CEO萨提亚·纳德拉提出\"反向信息悖论\"：AI时代，买家为使用AI支付金钱，同时必须暴露专有知识（提示词、工具使用、纠正反馈等），这些\"智力废气\"被模型学习，导致信息不对称向卖家倾斜。企业需要真正的信任边界，确保自身数据、痕迹、评估、适配权重和记忆在边界内积累，未经同意不得外泄。纳德拉呼吁企业拥有私有评估、保留组织记忆所有权，并主张企业应有权使用模型输出微调或训练自有模型，以控制自身学习循环。",
-          "url": "https://x.com/satyanadella/status/2076323181154230284",
-          "source": "X：Satya Nadella (@satyanadella)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T15:09:57Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Satya Nadella (@satyanadella)"
-      ],
-      "items": [
-        {
-          "id": "b62c95a42f68f854995840b3d2a2351ccfc3a4bb",
-          "title": "纳德拉提出\"反向信息悖论\"：企业使用AI时需保护自身知识 / http://x.com/i/article/2076319195718090753",
-          "title_zh": "纳德拉提出\"反向信息悖论\"：企业使用AI时需保护自身知识",
-          "title_en": "http://x.com/i/article/2076319195718090753",
-          "title_original": "http://x.com/i/article/2076319195718090753",
-          "summary": "微软CEO萨提亚·纳德拉提出\"反向信息悖论\"：AI时代，买家为使用AI支付金钱，同时必须暴露专有知识（提示词、工具使用、纠正反馈等），这些\"智力废气\"被模型学习，导致信息不对称向卖家倾斜。企业需要真正的信任边界，确保自身数据、痕迹、评估、适配权重和记忆在边界内积累，未经同意不得外泄。纳德拉呼吁企业拥有私有评估、保留组织记忆所有权，并主张企业应有权使用模型输出微调或训练自有模型，以控制自身学习循环。",
-          "url": "https://x.com/satyanadella/status/2076323181154230284",
-          "source": "X：Satya Nadella (@satyanadella)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T15:09:57Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7412,
-      "importance": 0.7412,
-      "importance_score": 0.7412,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8035,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-12T15:09:57Z",
-      "latest_at": "2026-07-12T15:09:57Z",
-      "primary_item": {
-        "id": "b62c95a42f68f854995840b3d2a2351ccfc3a4bb",
-        "title": "纳德拉提出\"反向信息悖论\"：企业使用AI时需保护自身知识 / http://x.com/i/article/2076319195718090753",
-        "title_zh": "纳德拉提出\"反向信息悖论\"：企业使用AI时需保护自身知识",
-        "title_en": "http://x.com/i/article/2076319195718090753",
-        "title_original": "http://x.com/i/article/2076319195718090753",
-        "summary": "微软CEO萨提亚·纳德拉提出\"反向信息悖论\"：AI时代，买家为使用AI支付金钱，同时必须暴露专有知识（提示词、工具使用、纠正反馈等），这些\"智力废气\"被模型学习，导致信息不对称向卖家倾斜。企业需要真正的信任边界，确保自身数据、痕迹、评估、适配权重和记忆在边界内积累，未经同意不得外泄。纳德拉呼吁企业拥有私有评估、保留组织记忆所有权，并主张企业应有权使用模型输出微调或训练自有模型，以控制自身学习循环。",
-        "url": "https://x.com/satyanadella/status/2076323181154230284",
-        "source": "X：Satya Nadella (@satyanadella)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_3b8abf3cb07f",
-      "title": "Anthropic再续命：Fable5 访问权限延长至 7 月 19 日，留人更要挽回口碑",
-      "url": "https://www.aibase.com/news/29540",
-      "primary_url": "https://www.aibase.com/news/29540",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "7d3139bebf1808f8739e165b51d03bebe3c410a1",
-          "title": "Anthropic再续命：Fable5 访问权限延长至 7 月 19 日，留人更要挽回口碑",
-          "title_zh": "Anthropic再续命：Fable5 访问权限延长至 7 月 19 日，留人更要挽回口碑",
-          "title_en": null,
-          "title_original": "Anthropic再续命：Fable5 访问权限延长至 7 月 19 日，留人更要挽回口碑",
-          "summary": null,
-          "url": "https://www.aibase.com/news/29540",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-13T06:18:59.993938Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "7d3139bebf1808f8739e165b51d03bebe3c410a1",
-          "title": "Anthropic再续命：Fable5 访问权限延长至 7 月 19 日，留人更要挽回口碑",
-          "title_zh": "Anthropic再续命：Fable5 访问权限延长至 7 月 19 日，留人更要挽回口碑",
-          "title_en": null,
-          "title_original": "Anthropic再续命：Fable5 访问权限延长至 7 月 19 日，留人更要挽回口碑",
-          "summary": null,
-          "url": "https://www.aibase.com/news/29540",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-13T06:18:59.993938Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-13T06:18:59.993938Z",
-      "latest_at": "2026-07-13T06:18:59.993938Z",
-      "primary_item": {
-        "id": "7d3139bebf1808f8739e165b51d03bebe3c410a1",
-        "title": "Anthropic再续命：Fable5 访问权限延长至 7 月 19 日，留人更要挽回口碑",
-        "title_zh": "Anthropic再续命：Fable5 访问权限延长至 7 月 19 日，留人更要挽回口碑",
-        "title_en": null,
-        "title_original": "Anthropic再续命：Fable5 访问权限延长至 7 月 19 日，留人更要挽回口碑",
-        "summary": null,
-        "url": "https://www.aibase.com/news/29540",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_4da51d31a85f",
-      "title": "Mindwalk：在代码库 3D 地图上回放编码代理会话",
-      "url": "https://github.com/cosmtrek/mindwalk",
-      "primary_url": "https://github.com/cosmtrek/mindwalk",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f0ab453c983795f2bb58f4460a1491625e458b92",
-          "title": "Mindwalk：在代码库 3D 地图上回放编码代理会话",
-          "title_zh": "Mindwalk：在代码库 3D 地图上回放编码代理会话",
-          "title_en": null,
-          "title_original": "Mindwalk：在代码库 3D 地图上回放编码代理会话",
-          "summary": "Mindwalk 是一款可视化工具，可将 Claude Code 和 Codex 的会话日志在代码库的 3D 地图上回放。它将仓库绘制成夜间地图，代理搜索、读取和编辑过的文件会发光，未触及区域保持黑暗，让用户一眼看清代理对任务的理解范围。单个 Go 二进制文件即可运行，所有会话数据完全本地处理，不会离开机器。支持树状图/地形图两种视图，文件触达状态分为未访问、已查看、已读取、已编辑四种颜色标记。播放界面包含错误率、文件修改量等摩擦信号面板，以及上下文压缩、子代理启动、用户交互等时间轴标记。支持键盘快捷键控制播放速度、跳转编辑点或错误点。",
-          "url": "https://github.com/cosmtrek/mindwalk",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T13:51:05.035000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "f0ab453c983795f2bb58f4460a1491625e458b92",
-          "title": "Mindwalk：在代码库 3D 地图上回放编码代理会话",
-          "title_zh": "Mindwalk：在代码库 3D 地图上回放编码代理会话",
-          "title_en": null,
-          "title_original": "Mindwalk：在代码库 3D 地图上回放编码代理会话",
-          "summary": "Mindwalk 是一款可视化工具，可将 Claude Code 和 Codex 的会话日志在代码库的 3D 地图上回放。它将仓库绘制成夜间地图，代理搜索、读取和编辑过的文件会发光，未触及区域保持黑暗，让用户一眼看清代理对任务的理解范围。单个 Go 二进制文件即可运行，所有会话数据完全本地处理，不会离开机器。支持树状图/地形图两种视图，文件触达状态分为未访问、已查看、已读取、已编辑四种颜色标记。播放界面包含错误率、文件修改量等摩擦信号面板，以及上下文压缩、子代理启动、用户交互等时间轴标记。支持键盘快捷键控制播放速度、跳转编辑点或错误点。",
-          "url": "https://github.com/cosmtrek/mindwalk",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T13:51:05.035000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7355,
-      "importance": 0.7355,
-      "importance_score": 0.7355,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7884,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-12T13:51:05.035000Z",
-      "latest_at": "2026-07-12T13:51:05.035000Z",
-      "primary_item": {
-        "id": "f0ab453c983795f2bb58f4460a1491625e458b92",
-        "title": "Mindwalk：在代码库 3D 地图上回放编码代理会话",
-        "title_zh": "Mindwalk：在代码库 3D 地图上回放编码代理会话",
-        "title_en": null,
-        "title_original": "Mindwalk：在代码库 3D 地图上回放编码代理会话",
-        "summary": "Mindwalk 是一款可视化工具，可将 Claude Code 和 Codex 的会话日志在代码库的 3D 地图上回放。它将仓库绘制成夜间地图，代理搜索、读取和编辑过的文件会发光，未触及区域保持黑暗，让用户一眼看清代理对任务的理解范围。单个 Go 二进制文件即可运行，所有会话数据完全本地处理，不会离开机器。支持树状图/地形图两种视图，文件触达状态分为未访问、已查看、已读取、已编辑四种颜色标记。播放界面包含错误率、文件修改量等摩擦信号面板，以及上下文压缩、子代理启动、用户交互等时间轴标记。支持键盘快捷键控制播放速度、跳转编辑点或错误点。",
-        "url": "https://github.com/cosmtrek/mindwalk",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_86c792186562",
-      "title": "哈啰试水AI校园社交，推出精准交友产品“Match”",
-      "url": "https://www.aibase.com/news/29544",
-      "primary_url": "https://www.aibase.com/news/29544",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "67fa45155b3ba23d32ef90dcc8be13c8c9ccd291",
-          "title": "哈啰试水AI校园社交，推出精准交友产品“Match”",
-          "title_zh": "哈啰试水AI校园社交，推出精准交友产品“Match”",
-          "title_en": null,
-          "title_original": "哈啰试水AI校园社交，推出精准交友产品“Match”",
-          "summary": null,
-          "url": "https://www.aibase.com/news/29544",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-13T06:18:59.993938Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "67fa45155b3ba23d32ef90dcc8be13c8c9ccd291",
-          "title": "哈啰试水AI校园社交，推出精准交友产品“Match”",
-          "title_zh": "哈啰试水AI校园社交，推出精准交友产品“Match”",
-          "title_en": null,
-          "title_original": "哈啰试水AI校园社交，推出精准交友产品“Match”",
-          "summary": null,
-          "url": "https://www.aibase.com/news/29544",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-13T06:18:59.993938Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-13T06:18:59.993938Z",
-      "latest_at": "2026-07-13T06:18:59.993938Z",
-      "primary_item": {
-        "id": "67fa45155b3ba23d32ef90dcc8be13c8c9ccd291",
-        "title": "哈啰试水AI校园社交，推出精准交友产品“Match”",
-        "title_zh": "哈啰试水AI校园社交，推出精准交友产品“Match”",
-        "title_en": null,
-        "title_original": "哈啰试水AI校园社交，推出精准交友产品“Match”",
-        "summary": null,
-        "url": "https://www.aibase.com/news/29544",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1442,15 +1396,15 @@
       ],
       "item_count": 8,
       "duplicate_count": 8,
-      "score": 0.6692,
-      "importance": 0.6692,
-      "importance_score": 0.6692,
+      "score": 0.6601,
+      "importance": 0.6601,
+      "importance_score": 0.6601,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9497,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1472,25 +1426,25 @@
       }
     },
     {
-      "story_id": "story_62ff3681c8ca",
-      "title": "商汤开源SenseNova-Vision统一视觉大模型，单模型横扫四大核心视觉任务",
-      "url": "https://www.aibase.com/news/29543",
-      "primary_url": "https://www.aibase.com/news/29543",
+      "story_id": "story_05bb3eadde15",
+      "title": "《智能体个人信息保护自律公约》正式发布，腾讯百度等31家企业首批签署",
+      "url": "https://www.aibase.com/news/29552",
+      "primary_url": "https://www.aibase.com/news/29552",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "9d68d05ed5af54d03c13db6fdc69da4d9d7857e1",
-          "title": "商汤开源SenseNova-Vision统一视觉大模型，单模型横扫四大核心视觉任务",
-          "title_zh": "商汤开源SenseNova-Vision统一视觉大模型，单模型横扫四大核心视觉任务",
+          "id": "a576d1a2cef8248f32acae9eff1f657628d2ed6f",
+          "title": "《智能体个人信息保护自律公约》正式发布，腾讯百度等31家企业首批签署",
+          "title_zh": "《智能体个人信息保护自律公约》正式发布，腾讯百度等31家企业首批签署",
           "title_en": null,
-          "title_original": "商汤开源SenseNova-Vision统一视觉大模型，单模型横扫四大核心视觉任务",
+          "title_original": "《智能体个人信息保护自律公约》正式发布，腾讯百度等31家企业首批签署",
           "summary": null,
-          "url": "https://www.aibase.com/news/29543",
+          "url": "https://www.aibase.com/news/29552",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-13T06:18:59.993938Z"
+          "published_at": "2026-07-13T09:53:28.295439Z"
         }
       ],
       "source_count": 1,
@@ -1499,17 +1453,17 @@
       ],
       "items": [
         {
-          "id": "9d68d05ed5af54d03c13db6fdc69da4d9d7857e1",
-          "title": "商汤开源SenseNova-Vision统一视觉大模型，单模型横扫四大核心视觉任务",
-          "title_zh": "商汤开源SenseNova-Vision统一视觉大模型，单模型横扫四大核心视觉任务",
+          "id": "a576d1a2cef8248f32acae9eff1f657628d2ed6f",
+          "title": "《智能体个人信息保护自律公约》正式发布，腾讯百度等31家企业首批签署",
+          "title_zh": "《智能体个人信息保护自律公约》正式发布，腾讯百度等31家企业首批签署",
           "title_en": null,
-          "title_original": "商汤开源SenseNova-Vision统一视觉大模型，单模型横扫四大核心视觉任务",
+          "title_original": "《智能体个人信息保护自律公约》正式发布，腾讯百度等31家企业首批签署",
           "summary": null,
-          "url": "https://www.aibase.com/news/29543",
+          "url": "https://www.aibase.com/news/29552",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-13T06:18:59.993938Z"
+          "published_at": "2026-07-13T09:53:28.295439Z"
         }
       ],
       "item_count": 1,
@@ -1530,40 +1484,40 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-13T06:18:59.993938Z",
-      "latest_at": "2026-07-13T06:18:59.993938Z",
+      "earliest_at": "2026-07-13T09:53:28.295439Z",
+      "latest_at": "2026-07-13T09:53:28.295439Z",
       "primary_item": {
-        "id": "9d68d05ed5af54d03c13db6fdc69da4d9d7857e1",
-        "title": "商汤开源SenseNova-Vision统一视觉大模型，单模型横扫四大核心视觉任务",
-        "title_zh": "商汤开源SenseNova-Vision统一视觉大模型，单模型横扫四大核心视觉任务",
+        "id": "a576d1a2cef8248f32acae9eff1f657628d2ed6f",
+        "title": "《智能体个人信息保护自律公约》正式发布，腾讯百度等31家企业首批签署",
+        "title_zh": "《智能体个人信息保护自律公约》正式发布，腾讯百度等31家企业首批签署",
         "title_en": null,
-        "title_original": "商汤开源SenseNova-Vision统一视觉大模型，单模型横扫四大核心视觉任务",
+        "title_original": "《智能体个人信息保护自律公约》正式发布，腾讯百度等31家企业首批签署",
         "summary": null,
-        "url": "https://www.aibase.com/news/29543",
+        "url": "https://www.aibase.com/news/29552",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_ec77dce64ece",
-      "title": "抖音电商将豆包纳入抖店结算序列，GEO全面进入成交归因时代",
-      "url": "https://www.aibase.com/news/29542",
-      "primary_url": "https://www.aibase.com/news/29542",
+      "story_id": "story_0758182240a0",
+      "title": "旗舰模型需求激增，OpenAI紧急解锁GPT-5.6Sol算力限制",
+      "url": "https://www.aibase.com/news/29548",
+      "primary_url": "https://www.aibase.com/news/29548",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "85d644286a16b7ffdd66482d7cb598e7f15c2cc6",
-          "title": "抖音电商将豆包纳入抖店结算序列，GEO全面进入成交归因时代",
-          "title_zh": "抖音电商将豆包纳入抖店结算序列，GEO全面进入成交归因时代",
+          "id": "cd4655fb408ba926606fe7ba0a528eb542e88d81",
+          "title": "旗舰模型需求激增，OpenAI紧急解锁GPT-5.6Sol算力限制",
+          "title_zh": "旗舰模型需求激增，OpenAI紧急解锁GPT-5.6Sol算力限制",
           "title_en": null,
-          "title_original": "抖音电商将豆包纳入抖店结算序列，GEO全面进入成交归因时代",
+          "title_original": "旗舰模型需求激增，OpenAI紧急解锁GPT-5.6Sol算力限制",
           "summary": null,
-          "url": "https://www.aibase.com/news/29542",
+          "url": "https://www.aibase.com/news/29548",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-13T06:18:59.993938Z"
+          "published_at": "2026-07-13T09:53:28.295439Z"
         }
       ],
       "source_count": 1,
@@ -1572,17 +1526,17 @@
       ],
       "items": [
         {
-          "id": "85d644286a16b7ffdd66482d7cb598e7f15c2cc6",
-          "title": "抖音电商将豆包纳入抖店结算序列，GEO全面进入成交归因时代",
-          "title_zh": "抖音电商将豆包纳入抖店结算序列，GEO全面进入成交归因时代",
+          "id": "cd4655fb408ba926606fe7ba0a528eb542e88d81",
+          "title": "旗舰模型需求激增，OpenAI紧急解锁GPT-5.6Sol算力限制",
+          "title_zh": "旗舰模型需求激增，OpenAI紧急解锁GPT-5.6Sol算力限制",
           "title_en": null,
-          "title_original": "抖音电商将豆包纳入抖店结算序列，GEO全面进入成交归因时代",
+          "title_original": "旗舰模型需求激增，OpenAI紧急解锁GPT-5.6Sol算力限制",
           "summary": null,
-          "url": "https://www.aibase.com/news/29542",
+          "url": "https://www.aibase.com/news/29548",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-13T06:18:59.993938Z"
+          "published_at": "2026-07-13T09:53:28.295439Z"
         }
       ],
       "item_count": 1,
@@ -1603,16 +1557,89 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-13T06:18:59.993938Z",
-      "latest_at": "2026-07-13T06:18:59.993938Z",
+      "earliest_at": "2026-07-13T09:53:28.295439Z",
+      "latest_at": "2026-07-13T09:53:28.295439Z",
       "primary_item": {
-        "id": "85d644286a16b7ffdd66482d7cb598e7f15c2cc6",
-        "title": "抖音电商将豆包纳入抖店结算序列，GEO全面进入成交归因时代",
-        "title_zh": "抖音电商将豆包纳入抖店结算序列，GEO全面进入成交归因时代",
+        "id": "cd4655fb408ba926606fe7ba0a528eb542e88d81",
+        "title": "旗舰模型需求激增，OpenAI紧急解锁GPT-5.6Sol算力限制",
+        "title_zh": "旗舰模型需求激增，OpenAI紧急解锁GPT-5.6Sol算力限制",
         "title_en": null,
-        "title_original": "抖音电商将豆包纳入抖店结算序列，GEO全面进入成交归因时代",
+        "title_original": "旗舰模型需求激增，OpenAI紧急解锁GPT-5.6Sol算力限制",
         "summary": null,
-        "url": "https://www.aibase.com/news/29542",
+        "url": "https://www.aibase.com/news/29548",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_b3c3f980dac1",
+      "title": "米哈游AI陪伴软件《BSide: Olivia Lin》开启抢先体验，支持MIDI上传生成音乐视频",
+      "url": "https://www.aibase.com/news/29550",
+      "primary_url": "https://www.aibase.com/news/29550",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c11b08a26ab91efa3bcfa74723d76a64d60947a6",
+          "title": "米哈游AI陪伴软件《BSide: Olivia Lin》开启抢先体验，支持MIDI上传生成音乐视频",
+          "title_zh": "米哈游AI陪伴软件《BSide: Olivia Lin》开启抢先体验，支持MIDI上传生成音乐视频",
+          "title_en": null,
+          "title_original": "米哈游AI陪伴软件《BSide: Olivia Lin》开启抢先体验，支持MIDI上传生成音乐视频",
+          "summary": null,
+          "url": "https://www.aibase.com/news/29550",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-13T09:53:28.295439Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "c11b08a26ab91efa3bcfa74723d76a64d60947a6",
+          "title": "米哈游AI陪伴软件《BSide: Olivia Lin》开启抢先体验，支持MIDI上传生成音乐视频",
+          "title_zh": "米哈游AI陪伴软件《BSide: Olivia Lin》开启抢先体验，支持MIDI上传生成音乐视频",
+          "title_en": null,
+          "title_original": "米哈游AI陪伴软件《BSide: Olivia Lin》开启抢先体验，支持MIDI上传生成音乐视频",
+          "summary": null,
+          "url": "https://www.aibase.com/news/29550",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-13T09:53:28.295439Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-13T09:53:28.295439Z",
+      "latest_at": "2026-07-13T09:53:28.295439Z",
+      "primary_item": {
+        "id": "c11b08a26ab91efa3bcfa74723d76a64d60947a6",
+        "title": "米哈游AI陪伴软件《BSide: Olivia Lin》开启抢先体验，支持MIDI上传生成音乐视频",
+        "title_zh": "米哈游AI陪伴软件《BSide: Olivia Lin》开启抢先体验，支持MIDI上传生成音乐视频",
+        "title_en": null,
+        "title_original": "米哈游AI陪伴软件《BSide: Olivia Lin》开启抢先体验，支持MIDI上传生成音乐视频",
+        "summary": null,
+        "url": "https://www.aibase.com/news/29550",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1767,15 +1794,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5946,
-      "importance": 0.5946,
-      "importance_score": 0.5946,
+      "score": 0.5868,
+      "importance": 0.5868,
+      "importance_score": 0.5868,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8542,
+        "recency": 0.8112,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1797,149 +1824,255 @@
       }
     },
     {
-      "story_id": "story_30b2b7775a31",
-      "title": "解法都市孤独感，努比亚拟生命AI陪伴机器人iMoochi即将开",
-      "url": "https://www.aibase.com/news/29539",
-      "primary_url": "https://www.aibase.com/news/29539",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_bd87c1bd9f8f",
+      "title": "Zig创始人直言不讳，Anthropic则故弄玄虚",
+      "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade",
+      "primary_url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade",
+      "source": "raymyers.org",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "edc4f6360e6710e178004982d3e013be98514cae",
-          "title": "解法都市孤独感，努比亚拟生命AI陪伴机器人iMoochi即将开",
-          "title_zh": "解法都市孤独感，努比亚拟生命AI陪伴机器人iMoochi即将开",
+          "id": "0c987916ddf453e2c44a5247157e884356412396",
+          "title": "Zig创始人直言不讳，Anthropic则故弄玄虚",
+          "title_zh": "Zig创始人直言不讳，Anthropic则故弄玄虚",
           "title_en": null,
-          "title_original": "解法都市孤独感，努比亚拟生命AI陪伴机器人iMoochi即将开",
+          "title_original": "Zig创始人直言不讳，Anthropic则故弄玄虚",
           "summary": null,
-          "url": "https://www.aibase.com/news/29539",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-13T06:18:59.993938Z"
+          "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade",
+          "source": "raymyers.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-13T09:41:19.566000Z"
+        },
+        {
+          "id": "a1362fd8483d2d2e1bb20d81fe47d65c8038aecd",
+          "title": "Zig 创造者实话实说，人性化烟雾 / Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
+          "title_zh": "Zig 创造者实话实说，人性化烟雾",
+          "title_en": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
+          "title_original": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
+          "summary": null,
+          "url": "https://news.ycombinator.com/item?id=48889637",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-13T09:28:44.591000Z"
+        },
+        {
+          "id": "04d20d323946c0bc33dee02fbc4289db29879f4e",
+          "title": "Zig创始人直言不讳，Anthropic则故弄玄虚 / Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
+          "title_zh": "Zig创始人直言不讳，Anthropic则故弄玄虚",
+          "title_en": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
+          "title_original": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
+          "summary": null,
+          "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-13T08:39:39Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "AIbase"
+        "Hacker News",
+        "hackernews",
+        "raymyers.org"
       ],
       "items": [
         {
-          "id": "edc4f6360e6710e178004982d3e013be98514cae",
-          "title": "解法都市孤独感，努比亚拟生命AI陪伴机器人iMoochi即将开",
-          "title_zh": "解法都市孤独感，努比亚拟生命AI陪伴机器人iMoochi即将开",
+          "id": "0c987916ddf453e2c44a5247157e884356412396",
+          "title": "Zig创始人直言不讳，Anthropic则故弄玄虚",
+          "title_zh": "Zig创始人直言不讳，Anthropic则故弄玄虚",
           "title_en": null,
-          "title_original": "解法都市孤独感，努比亚拟生命AI陪伴机器人iMoochi即将开",
+          "title_original": "Zig创始人直言不讳，Anthropic则故弄玄虚",
           "summary": null,
-          "url": "https://www.aibase.com/news/29539",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-13T06:18:59.993938Z"
+          "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade",
+          "source": "raymyers.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-13T09:41:19.566000Z"
+        },
+        {
+          "id": "a1362fd8483d2d2e1bb20d81fe47d65c8038aecd",
+          "title": "Zig 创造者实话实说，人性化烟雾 / Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
+          "title_zh": "Zig 创造者实话实说，人性化烟雾",
+          "title_en": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
+          "title_original": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
+          "summary": null,
+          "url": "https://news.ycombinator.com/item?id=48889637",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-13T09:28:44.591000Z"
+        },
+        {
+          "id": "04d20d323946c0bc33dee02fbc4289db29879f4e",
+          "title": "Zig创始人直言不讳，Anthropic则故弄玄虚 / Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
+          "title_zh": "Zig创始人直言不讳，Anthropic则故弄玄虚",
+          "title_en": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
+          "title_original": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
+          "summary": null,
+          "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-13T08:39:39Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5703,
+      "importance": 0.5703,
+      "importance_score": 0.5703,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9971,
+        "story_heat": 0.5
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-07-13T06:18:59.993938Z",
-      "latest_at": "2026-07-13T06:18:59.993938Z",
+      "earliest_at": "2026-07-13T08:39:39Z",
+      "latest_at": "2026-07-13T09:41:19.566000Z",
       "primary_item": {
-        "id": "edc4f6360e6710e178004982d3e013be98514cae",
-        "title": "解法都市孤独感，努比亚拟生命AI陪伴机器人iMoochi即将开",
-        "title_zh": "解法都市孤独感，努比亚拟生命AI陪伴机器人iMoochi即将开",
+        "id": "0c987916ddf453e2c44a5247157e884356412396",
+        "title": "Zig创始人直言不讳，Anthropic则故弄玄虚",
+        "title_zh": "Zig创始人直言不讳，Anthropic则故弄玄虚",
         "title_en": null,
-        "title_original": "解法都市孤独感，努比亚拟生命AI陪伴机器人iMoochi即将开",
+        "title_original": "Zig创始人直言不讳，Anthropic则故弄玄虚",
         "summary": null,
-        "url": "https://www.aibase.com/news/29539",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade",
+        "source": "raymyers.org",
+        "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_4a682d8ae5ae",
-      "title": "Anthropic发布内置浏览器功能，Claude Code实现网页跨平台交互与安全写入",
-      "url": "https://www.aibase.com/news/29538",
-      "primary_url": "https://www.aibase.com/news/29538",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_1061a57c7386",
+      "title": "将因果理论应用于大型语言模型（LLMs）的机制可解释性研究者",
+      "url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason",
+      "primary_url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason",
+      "source": "cacm.acm.org",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "585a52f3593588d072e461f1b0389b6c6ba7dc2d",
-          "title": "Anthropic发布内置浏览器功能，Claude Code实现网页跨平台交互与安全写入",
-          "title_zh": "Anthropic发布内置浏览器功能，Claude Code实现网页跨平台交互与安全写入",
+          "id": "ffb60773e5dc03276bb3ab008bb47d8e1a08079e",
+          "title": "将因果理论应用于大型语言模型（LLMs）的机制可解释性研究者",
+          "title_zh": "将因果理论应用于大型语言模型（LLMs）的机制可解释性研究者",
           "title_en": null,
-          "title_original": "Anthropic发布内置浏览器功能，Claude Code实现网页跨平台交互与安全写入",
+          "title_original": "将因果理论应用于大型语言模型（LLMs）的机制可解释性研究者",
           "summary": null,
-          "url": "https://www.aibase.com/news/29538",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-13T02:47:55.497322Z"
+          "url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason",
+          "source": "cacm.acm.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-13T08:53:24.018000Z"
+        },
+        {
+          "id": "b343153d11bf6dff04b805d3820fac2560fdf6f1",
+          "title": "将因果理论应用于大型语言模型（LLMs）的机制可解释性研究者 / Can We Understand How Large Language Models Reason?",
+          "title_zh": "将因果理论应用于大型语言模型（LLMs）的机制可解释性研究者",
+          "title_en": "Can We Understand How Large Language Models Reason?",
+          "title_original": "Can We Understand How Large Language Models Reason?",
+          "summary": null,
+          "url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-12T18:04:41Z"
+        },
+        {
+          "id": "1fca1ed15a3e75db7f226a888918ac389ccb2aeb",
+          "title": "将因果理论应用于大型语言模型（LLMs）的机制可解释性研究者 / Mechanistic interpretability researchers applying causality theory to LLMs",
+          "title_zh": "将因果理论应用于大型语言模型（LLMs）的机制可解释性研究者",
+          "title_en": "Mechanistic interpretability researchers applying causality theory to LLMs",
+          "title_original": "Mechanistic interpretability researchers applying causality theory to LLMs",
+          "summary": null,
+          "url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T18:04:41Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "AIbase"
+        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
+        "cacm.acm.org"
       ],
       "items": [
         {
-          "id": "585a52f3593588d072e461f1b0389b6c6ba7dc2d",
-          "title": "Anthropic发布内置浏览器功能，Claude Code实现网页跨平台交互与安全写入",
-          "title_zh": "Anthropic发布内置浏览器功能，Claude Code实现网页跨平台交互与安全写入",
+          "id": "ffb60773e5dc03276bb3ab008bb47d8e1a08079e",
+          "title": "将因果理论应用于大型语言模型（LLMs）的机制可解释性研究者",
+          "title_zh": "将因果理论应用于大型语言模型（LLMs）的机制可解释性研究者",
           "title_en": null,
-          "title_original": "Anthropic发布内置浏览器功能，Claude Code实现网页跨平台交互与安全写入",
+          "title_original": "将因果理论应用于大型语言模型（LLMs）的机制可解释性研究者",
           "summary": null,
-          "url": "https://www.aibase.com/news/29538",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-13T02:47:55.497322Z"
+          "url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason",
+          "source": "cacm.acm.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-13T08:53:24.018000Z"
+        },
+        {
+          "id": "b343153d11bf6dff04b805d3820fac2560fdf6f1",
+          "title": "将因果理论应用于大型语言模型（LLMs）的机制可解释性研究者 / Can We Understand How Large Language Models Reason?",
+          "title_zh": "将因果理论应用于大型语言模型（LLMs）的机制可解释性研究者",
+          "title_en": "Can We Understand How Large Language Models Reason?",
+          "title_original": "Can We Understand How Large Language Models Reason?",
+          "summary": null,
+          "url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-12T18:04:41Z"
+        },
+        {
+          "id": "1fca1ed15a3e75db7f226a888918ac389ccb2aeb",
+          "title": "将因果理论应用于大型语言模型（LLMs）的机制可解释性研究者 / Mechanistic interpretability researchers applying causality theory to LLMs",
+          "title_zh": "将因果理论应用于大型语言模型（LLMs）的机制可解释性研究者",
+          "title_en": "Mechanistic interpretability researchers applying causality theory to LLMs",
+          "title_original": "Mechanistic interpretability researchers applying causality theory to LLMs",
+          "summary": null,
+          "url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T18:04:41Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7587,
-      "importance": 0.7587,
-      "importance_score": 0.7587,
-      "importance_label": "行业动态",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5682,
+      "importance": 0.5682,
+      "importance_score": 0.5682,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9505,
-        "story_heat": 0.0
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9856,
+        "story_heat": 0.5
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-07-13T02:47:55.497322Z",
-      "latest_at": "2026-07-13T02:47:55.497322Z",
+      "earliest_at": "2026-07-12T18:04:41Z",
+      "latest_at": "2026-07-13T08:53:24.018000Z",
       "primary_item": {
-        "id": "585a52f3593588d072e461f1b0389b6c6ba7dc2d",
-        "title": "Anthropic发布内置浏览器功能，Claude Code实现网页跨平台交互与安全写入",
-        "title_zh": "Anthropic发布内置浏览器功能，Claude Code实现网页跨平台交互与安全写入",
+        "id": "ffb60773e5dc03276bb3ab008bb47d8e1a08079e",
+        "title": "将因果理论应用于大型语言模型（LLMs）的机制可解释性研究者",
+        "title_zh": "将因果理论应用于大型语言模型（LLMs）的机制可解释性研究者",
         "title_en": null,
-        "title_original": "Anthropic发布内置浏览器功能，Claude Code实现网页跨平台交互与安全写入",
+        "title_original": "将因果理论应用于大型语言模型（LLMs）的机制可解释性研究者",
         "summary": null,
-        "url": "https://www.aibase.com/news/29538",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason",
+        "source": "cacm.acm.org",
+        "source_name": "Buzzing"
       }
     }
   ]
