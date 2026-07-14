@@ -17,7 +17,6 @@ AI_KEYWORDS = [
     "known agents",
     "hermes-agent",
     "agentmemory",
-    "cursor",
     "aigc",
     "llm",
     "gpt",
@@ -26,6 +25,7 @@ AI_KEYWORDS = [
     "deepseek",
     "openai",
     "anthropic",
+    "grok",
     "copilot",
     "codex",
     "mcp",
@@ -124,13 +124,19 @@ UNSAFE_PROMO_PATTERNS = [
 ]
 
 EN_SIGNAL_RE = re.compile(
-    r"(?i)(?<![a-z0-9])(ai|aigc|llm|gpt|openai|anthropic|deepseek|gemini|claude|robot|robotics|embodied|autonomous|machine learning|artificial intelligence|transformer|diffusion|agent)(?![a-z0-9])"
+    r"(?i)(?<![a-z0-9])(ai|aigc|llm|gpt|openai|anthropic|deepseek|gemini|claude|grok|xai|robot|robotics|embodied|autonomous|machine learning|artificial intelligence|transformer|diffusion|agent)(?![a-z0-9])"
 )
 MEANINGFUL_EN_SIGNAL_RE = re.compile(
-    r"(?i)(?<![a-z0-9])(ai|aigc|llm|gpt|openai|anthropic|deepseek|gemini|claude|robot|robotics|embodied|autonomous|machine learning|artificial intelligence|transformer|diffusion)(?![a-z0-9])"
+    r"(?i)(?<![a-z0-9])(ai|aigc|llm|gpt|openai|anthropic|deepseek|gemini|claude|grok|xai|robot|robotics|embodied|autonomous|machine learning|artificial intelligence|transformer|diffusion)(?![a-z0-9])"
 )
+# "cursor" needs its own word-boundary regex rather than living in the plain
+# substring-matched AI_KEYWORDS list: "cursor" is a substring of ordinary
+# words like "precursor" (e.g. Cloudflare's "Precursor" product announcement),
+# which was scoring 0.65/AI-related purely off that false substring match.
+CURSOR_SIGNAL_RE = re.compile(r"(?i)(?<![a-z0-9])cursor(?![a-z0-9])")
 BROAD_AI_TERMS = {"agent", "模型", "推理"}
 AI_RELEVANCE_THRESHOLD = 0.65
+AI_BROAD_RELEVANCE_FLOOR = 0.3
 
 SOURCE_PRIORS = {
     "official_ai": 0.35,
@@ -223,6 +229,8 @@ def contains_meaningful_ai_signal(haystack: str) -> bool:
     h = haystack.lower()
     if MEANINGFUL_EN_SIGNAL_RE.search(h):
         return True
+    if CURSOR_SIGNAL_RE.search(h):
+        return True
     return any(k in h for k in AI_KEYWORDS if k not in BROAD_AI_TERMS)
 
 
@@ -271,6 +279,8 @@ def score_ai_relevance(record: dict[str, Any]) -> dict[str, Any]:
     text = f"{title} {source} {site_name} {url_host}".lower()
 
     ai_signals = matched_keywords(text, AI_KEYWORDS)
+    if CURSOR_SIGNAL_RE.search(text) and "cursor" not in ai_signals:
+        ai_signals = sorted(ai_signals + ["cursor"])
     tech_signals = matched_keywords(text, TECH_KEYWORDS)
     noise = matched_keywords(text, NOISE_KEYWORDS) + matched_keywords(text, COMMERCE_NOISE_KEYWORDS)
     source_prior = SOURCE_PRIORS.get(site_id, 0.0)
@@ -283,25 +293,6 @@ def score_ai_relevance(record: dict[str, Any]) -> dict[str, Any]:
             reason="unsafe_promotional_content",
             signals=[],
             noise=["unsafe_promotional_content"],
-        )
-
-    if site_id == "zeli":
-        if "24h" in source.lower() or "24h最热" in source:
-            return _result(
-                is_ai_related=True,
-                score=max(AI_RELEVANCE_THRESHOLD, 0.62 + source_prior),
-                label="curated_hotlist",
-                reason="zeli_24h_hot_allowlist",
-                signals=["zeli_24h_hot"],
-                noise=noise,
-            )
-        return _result(
-            is_ai_related=False,
-            score=0.2,
-            label="source_scope_drop",
-            reason="zeli_only_keeps_24h_hot_source",
-            signals=ai_signals + tech_signals,
-            noise=noise,
         )
 
     if site_id == "curated_media":
@@ -418,6 +409,16 @@ def score_ai_relevance(record: dict[str, Any]) -> dict[str, Any]:
 
 def is_ai_related_record(record: dict[str, Any]) -> bool:
     return bool(score_ai_relevance(record)["is_ai_related"])
+
+
+def is_broadly_ai_related(record: dict[str, Any]) -> bool:
+    """Return True when a record clears the broad-AI floor (score >= 0.3).
+
+    This is a looser gate than ``is_ai_related_record`` (which requires >= 0.65).
+    Used by the "all-mode" UI view to filter out obviously-irrelevant noise while
+    keeping items with at least tangential AI/tech signal.
+    """
+    return score_ai_relevance(record)["score"] >= AI_BROAD_RELEVANCE_FLOOR
 
 
 def add_ai_relevance_fields(record: dict[str, Any]) -> dict[str, Any]:

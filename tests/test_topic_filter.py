@@ -130,7 +130,10 @@ class TopicFilterTests(unittest.TestCase):
         }
         self.assertFalse(is_ai_related_record(rec))
 
-    def test_zeli_only_24h_hot(self):
+    def test_zeli_is_gated_by_content_not_the_fixed_source_string(self):
+        # fetch_zeli() hardcodes source="Hacker News · 24h最热" on every scraped
+        # item, so zeli must fall through the generic keyword/AI-signal scoring
+        # path like other community sources instead of a source-string allowlist.
         keep = {
             "site_id": "zeli",
             "site_name": "Zeli",
@@ -141,8 +144,8 @@ class TopicFilterTests(unittest.TestCase):
         drop = {
             "site_id": "zeli",
             "site_name": "Zeli",
-            "source": "HN New",
-            "title": "AI Agent for code search",
+            "source": "Hacker News · 24h最热",
+            "title": "LAPD contract with Flock expires",
             "url": "https://example.com/b",
         }
         self.assertTrue(is_ai_related_record(keep))
