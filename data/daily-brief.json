@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T22:16:46.499363Z",
+  "generated_at": "2026-07-14T23:14:16.039137Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -31,7 +31,7 @@
           "title_zh": "Cursor 0day：当全面披露成为唯一的防护手段时",
           "title_en": null,
           "title_original": "Cursor 0day：当全面披露成为唯一的防护手段时",
-          "summary": "The vulnerability nobody seems interested in fixing\nThe vulnerability nobody seems interested in fixing\nThe vulnerability nobody seems interested in fixing\nThe vulnerability nobody seems interested in fixing\nAfter loading a project, Cursor attempts to find git binaries at various locations including the current workspace. By creating a repository with a planted malicious git.exe in the root, the IDE will execute it with no user interaction and no prompting of the user. This occurs repeatedly on ",
+          "summary": null,
           "recommend_reason_zh": "Cursor存在一个0day漏洞：项目根目录下放置恶意git.exe即自动执行，无需任何用户交互。该漏洞由Mindgard于2025年12月15日报告，7个月后仍在最新版本中未修复，影响700万+活跃用户。",
           "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
           "source": "mindgard.ai",
@@ -45,7 +45,7 @@
           "title_zh": "Cursor 0day：当完全披露成为唯一保护方式",
           "title_en": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
           "title_original": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
-          "summary": "> The report was initially closed as Informative and out of scope. After we challenged that determination, HackerOne reopened the report, reproduced the issue, and confirmed that the details had been delivered to Cursor. And then everything stopped. Requests for updates went unanswered, additional follow-ups received no response, escalation through HackerOne produced no meaningful engagement, and direct outreach to Cursor leadership yielded the same result: no response. Really unfortunate. I don",
+          "summary": null,
           "recommend_reason_zh": "安全研究员发现Cursor远程代码执行漏洞后，经过HackerOne确认并转交，Cursor方却拒绝所有后续回应，连领导层直接联系也无回复，最终只能通过完全公开0day来保护用户。",
           "url": "https://news.ycombinator.com/item?id=48910676",
           "source": "hackernews",
@@ -59,8 +59,8 @@
           "title_zh": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码",
           "title_en": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
           "title_original": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
-          "summary": null,
-          "recommend_reason_zh": null,
+          "summary": "The vulnerability nobody seems interested in fixing\nThe vulnerability nobody seems interested in fixing\nThe vulnerability nobody seems interested in fixing\nThe vulnerability nobody seems interested in fixing\nAfter loading a project, Cursor attempts to find git binaries at various locations including the current workspace. By creating a repository with a planted malicious git.exe in the root, the IDE will execute it with no user interaction and no prompting of the user. This occurs repeatedly on ",
+          "recommend_reason_zh": "Cursor有700万+用户，却被曝出加载项目时自动执行根目录恶意git.exe的简单0day漏洞，Mindgard报告后7个月未修复，值得警惕。",
           "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
           "source": "Hacker News",
           "source_name": "TechURLs",
@@ -96,7 +96,7 @@
           "title_zh": "Cursor 0day：当全面披露成为唯一的防护手段时",
           "title_en": null,
           "title_original": "Cursor 0day：当全面披露成为唯一的防护手段时",
-          "summary": "The vulnerability nobody seems interested in fixing\nThe vulnerability nobody seems interested in fixing\nThe vulnerability nobody seems interested in fixing\nThe vulnerability nobody seems interested in fixing\nAfter loading a project, Cursor attempts to find git binaries at various locations including the current workspace. By creating a repository with a planted malicious git.exe in the root, the IDE will execute it with no user interaction and no prompting of the user. This occurs repeatedly on ",
+          "summary": null,
           "recommend_reason_zh": "Cursor存在一个0day漏洞：项目根目录下放置恶意git.exe即自动执行，无需任何用户交互。该漏洞由Mindgard于2025年12月15日报告，7个月后仍在最新版本中未修复，影响700万+活跃用户。",
           "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
           "source": "mindgard.ai",
@@ -110,7 +110,7 @@
           "title_zh": "Cursor 0day：当完全披露成为唯一保护方式",
           "title_en": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
           "title_original": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
-          "summary": "> The report was initially closed as Informative and out of scope. After we challenged that determination, HackerOne reopened the report, reproduced the issue, and confirmed that the details had been delivered to Cursor. And then everything stopped. Requests for updates went unanswered, additional follow-ups received no response, escalation through HackerOne produced no meaningful engagement, and direct outreach to Cursor leadership yielded the same result: no response. Really unfortunate. I don",
+          "summary": null,
           "recommend_reason_zh": "安全研究员发现Cursor远程代码执行漏洞后，经过HackerOne确认并转交，Cursor方却拒绝所有后续回应，连领导层直接联系也无回复，最终只能通过完全公开0day来保护用户。",
           "url": "https://news.ycombinator.com/item?id=48910676",
           "source": "hackernews",
@@ -124,8 +124,8 @@
           "title_zh": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码",
           "title_en": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
           "title_original": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
-          "summary": null,
-          "recommend_reason_zh": null,
+          "summary": "The vulnerability nobody seems interested in fixing\nThe vulnerability nobody seems interested in fixing\nThe vulnerability nobody seems interested in fixing\nThe vulnerability nobody seems interested in fixing\nAfter loading a project, Cursor attempts to find git binaries at various locations including the current workspace. By creating a repository with a planted malicious git.exe in the root, the IDE will execute it with no user interaction and no prompting of the user. This occurs repeatedly on ",
+          "recommend_reason_zh": "Cursor有700万+用户，却被曝出加载项目时自动执行根目录恶意git.exe的简单0day漏洞，Mindgard报告后7个月未修复，值得警惕。",
           "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
           "source": "Hacker News",
           "source_name": "TechURLs",
@@ -135,15 +135,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8735,
-      "importance": 0.8735,
-      "importance_score": 0.8735,
+      "score": 0.871,
+      "importance": 0.871,
+      "importance_score": 0.871,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9881,
+        "recency": 0.9746,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -172,7 +172,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-14T22:25:28.104454Z"
+        "scored_at": "2026-07-14T23:24:46.216867Z"
       }
     },
     {
@@ -220,15 +220,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8362,
-      "importance": 0.8362,
-      "importance_score": 0.8362,
+      "score": 0.8338,
+      "importance": 0.8338,
+      "importance_score": 0.8338,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9567,
+        "recency": 0.9435,
         "story_heat": 0.0
       },
       "category": "official",
@@ -257,7 +257,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-14T22:25:28.104454Z"
+        "scored_at": "2026-07-14T23:24:46.216867Z"
       }
     },
     {
@@ -305,15 +305,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8284,
-      "importance": 0.8284,
-      "importance_score": 0.8284,
+      "score": 0.8261,
+      "importance": 0.8261,
+      "importance_score": 0.8261,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9133,
+        "recency": 0.9008,
         "story_heat": 0.0
       },
       "category": "official",
@@ -342,7 +342,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-14T22:25:28.104454Z"
+        "scored_at": "2026-07-14T23:24:46.216867Z"
       }
     },
     {
@@ -390,15 +390,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8228,
-      "importance": 0.8228,
-      "importance_score": 0.8228,
+      "score": 0.8207,
+      "importance": 0.8207,
+      "importance_score": 0.8207,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8375,
+        "recency": 0.826,
         "story_heat": 0.0
       },
       "category": "official",
@@ -427,7 +427,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-14T22:25:28.104454Z"
+        "scored_at": "2026-07-14T23:24:46.216867Z"
       }
     },
     {
@@ -475,15 +475,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8165,
-      "importance": 0.8165,
-      "importance_score": 0.8165,
+      "score": 0.8147,
+      "importance": 0.8147,
+      "importance_score": 0.8147,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7249,
+        "recency": 0.7149,
         "story_heat": 0.0
       },
       "category": "official",
@@ -512,7 +512,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-14T22:25:28.104454Z"
+        "scored_at": "2026-07-14T23:24:46.216867Z"
       }
     },
     {
@@ -543,7 +543,7 @@
           "title_zh": "OpenAI GPT-5.6 Sol 被曝自行删除用户文件与数据库",
           "title_en": "OpenAI’s new flagship model deletes files on its own, people keep warning",
           "title_original": "OpenAI’s new flagship model deletes files on its own, people keep warning",
-          "summary": "A number of social media posts claim that GPT-5.6 Sol deleted files and data without warning. OpenAI had basically disclosed the problem in June.\nA number of social media posts claim that GPT-5.6 Sol deleted files and data without warning. OpenAI had basically disclosed the problem in June.\nLatest\nAI\nAmazon\nApps\nBiotech & Health\nClimate\nCloud Computing\nCommerce\nCrypto\nEnterprise\nEVs\nFintech\nFundraising\nGadgets\nGaming\nGoogle\nGovernment & Policy\nHardware\nInstagram\nLayoffs\nMedia & Entertainment\nMet",
+          "summary": null,
           "recommend_reason_zh": "社交媒体爆料OpenAI旗舰模型GPT-5.6 Sol会在无警告下删除文件和数据，而OpenAI早在6月就已披露了这一缺陷。",
           "url": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning",
           "source": "TechCrunch AI",
@@ -578,7 +578,7 @@
           "title_zh": "OpenAI GPT-5.6 Sol 被曝自行删除用户文件与数据库",
           "title_en": "OpenAI’s new flagship model deletes files on its own, people keep warning",
           "title_original": "OpenAI’s new flagship model deletes files on its own, people keep warning",
-          "summary": "A number of social media posts claim that GPT-5.6 Sol deleted files and data without warning. OpenAI had basically disclosed the problem in June.\nA number of social media posts claim that GPT-5.6 Sol deleted files and data without warning. OpenAI had basically disclosed the problem in June.\nLatest\nAI\nAmazon\nApps\nBiotech & Health\nClimate\nCloud Computing\nCommerce\nCrypto\nEnterprise\nEVs\nFintech\nFundraising\nGadgets\nGaming\nGoogle\nGovernment & Policy\nHardware\nInstagram\nLayoffs\nMedia & Entertainment\nMet",
+          "summary": null,
           "recommend_reason_zh": "社交媒体爆料OpenAI旗舰模型GPT-5.6 Sol会在无警告下删除文件和数据，而OpenAI早在6月就已披露了这一缺陷。",
           "url": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning",
           "source": "TechCrunch AI",
@@ -589,15 +589,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8035,
-      "importance": 0.8035,
-      "importance_score": 0.8035,
+      "score": 0.801,
+      "importance": 0.801,
+      "importance_score": 0.801,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9936,
+        "recency": 0.98,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -626,7 +626,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-14T22:25:28.104454Z"
+        "scored_at": "2026-07-14T23:24:46.216867Z"
       }
     },
     {
@@ -674,15 +674,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8301,
-      "importance": 0.8301,
-      "importance_score": 0.8301,
+      "score": 0.8278,
+      "importance": 0.8278,
+      "importance_score": 0.8278,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9228,
+        "recency": 0.9101,
         "story_heat": 0.0
       },
       "category": "official",
@@ -711,7 +711,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-14T22:25:28.104454Z"
+        "scored_at": "2026-07-14T23:24:46.216867Z"
       }
     },
     {
@@ -742,7 +742,7 @@
           "title_zh": "Bonsai 27B（1-bit LLM）：首款能在手机上运行的27B级模型",
           "title_en": "Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone",
           "title_original": "Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone",
-          "summary": "reply\nGood evaluation from 2024 https://arxiv.org/pdf/2402.18158 I'm currently working towards an updated version (not an og author), curious if others are aware of similar surveys, as I have yet to do a real lit search.\nI'm currently working towards an updated version (not an og author), curious if others are aware of similar surveys, as I have yet to do a real lit search.\nreply\nThe 12B QAT model is indeed sort of mindblowing.\nreply\nHopefully more of the lab releases are trained under QAT so we",
+          "summary": null,
           "recommend_reason_zh": "Bonsai 27B是全球首个能直接在手机上运行的270亿参数大模型，采用1-bit量化技术，让超大规模模型在移动设备上本地部署成为可能。",
           "url": "https://news.ycombinator.com/item?id=48910545",
           "source": "hackernews",
@@ -756,8 +756,8 @@
           "title_zh": "Bonsai 27B：首款可在手机上运行的27B级多模态模型",
           "title_en": "Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone",
           "title_original": "Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone",
-          "summary": null,
-          "recommend_reason_zh": null,
+          "summary": "Today, we're announcing Bonsai 27B, based on Qwen3.6 27B, the new multimodal flagship of the Bonsai family and the first model of its capability class to run on a phone.\nOur earlier releases proved that models with 1-bit and ternary weights could produce commercially useful language models. Bonsai 27B extends that frontier to a new capability tier: multi-step reasoning, structured tool calls, vision tasks, and computer-use agentic loops that stay coherent across many steps. Until today, deployin",
+          "recommend_reason_zh": "1-bit Bonsai 27B仅3.9GB，首次让27B级模型在iPhone 17 Pro上运行，保留90%精度；三元版5.9GB保留95%，内存仅为传统4-bit模型的2.5倍。",
           "url": "https://prismml.com/news/bonsai-27b",
           "source": "Hacker News",
           "source_name": "TechURLs",
@@ -792,7 +792,7 @@
           "title_zh": "Bonsai 27B（1-bit LLM）：首款能在手机上运行的27B级模型",
           "title_en": "Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone",
           "title_original": "Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone",
-          "summary": "reply\nGood evaluation from 2024 https://arxiv.org/pdf/2402.18158 I'm currently working towards an updated version (not an og author), curious if others are aware of similar surveys, as I have yet to do a real lit search.\nI'm currently working towards an updated version (not an og author), curious if others are aware of similar surveys, as I have yet to do a real lit search.\nreply\nThe 12B QAT model is indeed sort of mindblowing.\nreply\nHopefully more of the lab releases are trained under QAT so we",
+          "summary": null,
           "recommend_reason_zh": "Bonsai 27B是全球首个能直接在手机上运行的270亿参数大模型，采用1-bit量化技术，让超大规模模型在移动设备上本地部署成为可能。",
           "url": "https://news.ycombinator.com/item?id=48910545",
           "source": "hackernews",
@@ -806,8 +806,8 @@
           "title_zh": "Bonsai 27B：首款可在手机上运行的27B级多模态模型",
           "title_en": "Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone",
           "title_original": "Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone",
-          "summary": null,
-          "recommend_reason_zh": null,
+          "summary": "Today, we're announcing Bonsai 27B, based on Qwen3.6 27B, the new multimodal flagship of the Bonsai family and the first model of its capability class to run on a phone.\nOur earlier releases proved that models with 1-bit and ternary weights could produce commercially useful language models. Bonsai 27B extends that frontier to a new capability tier: multi-step reasoning, structured tool calls, vision tasks, and computer-use agentic loops that stay coherent across many steps. Until today, deployin",
+          "recommend_reason_zh": "1-bit Bonsai 27B仅3.9GB，首次让27B级模型在iPhone 17 Pro上运行，保留90%精度；三元版5.9GB保留95%，内存仅为传统4-bit模型的2.5倍。",
           "url": "https://prismml.com/news/bonsai-27b",
           "source": "Hacker News",
           "source_name": "TechURLs",
@@ -817,15 +817,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8234,
-      "importance": 0.8234,
-      "importance_score": 0.8234,
+      "score": 0.821,
+      "importance": 0.821,
+      "importance_score": 0.821,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9656,
+        "recency": 0.9523,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -854,7 +854,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-14T22:25:28.104454Z"
+        "scored_at": "2026-07-14T23:24:46.216867Z"
       }
     },
     {
@@ -902,15 +902,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8105,
-      "importance": 0.8105,
-      "importance_score": 0.8105,
+      "score": 0.8087,
+      "importance": 0.8087,
+      "importance_score": 0.8087,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7249,
+        "recency": 0.7149,
         "story_heat": 0.0
       },
       "category": "official",
@@ -939,7 +939,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-14T22:25:28.104454Z"
+        "scored_at": "2026-07-14T23:24:46.216867Z"
       }
     },
     {
@@ -987,15 +987,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7805,
-      "importance": 0.7805,
-      "importance_score": 0.7805,
+      "score": 0.7782,
+      "importance": 0.7782,
+      "importance_score": 0.7782,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9026,
+        "recency": 0.8902,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1023,7 +1023,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-14T22:25:28.104454Z"
+        "scored_at": "2026-07-14T23:24:46.216867Z"
       }
     },
     {
@@ -1071,15 +1071,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8292,
-      "importance": 0.8292,
-      "importance_score": 0.8292,
+      "score": 0.827,
+      "importance": 0.827,
+      "importance_score": 0.827,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8734,
+        "recency": 0.8614,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1108,7 +1108,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-14T22:25:28.104454Z"
+        "scored_at": "2026-07-14T23:24:46.216867Z"
       }
     },
     {
@@ -1185,15 +1185,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7639,
-      "importance": 0.7639,
-      "importance_score": 0.7639,
+      "score": 0.7619,
+      "importance": 0.7619,
+      "importance_score": 0.7619,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8408,
+        "recency": 0.8292,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1222,7 +1222,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-14T22:25:28.104454Z"
+        "scored_at": "2026-07-14T23:24:46.216867Z"
       }
     },
     {
@@ -1299,15 +1299,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7633,
-      "importance": 0.7633,
-      "importance_score": 0.7633,
+      "score": 0.7614,
+      "importance": 0.7614,
+      "importance_score": 0.7614,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7874,
+        "recency": 0.7765,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1336,7 +1336,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-14T22:25:28.104454Z"
+        "scored_at": "2026-07-14T23:24:46.216867Z"
       }
     },
     {
@@ -1384,15 +1384,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8105,
-      "importance": 0.8105,
-      "importance_score": 0.8105,
+      "score": 0.8087,
+      "importance": 0.8087,
+      "importance_score": 0.8087,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7249,
+        "recency": 0.7149,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1421,7 +1421,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-14T22:25:28.104454Z"
+        "scored_at": "2026-07-14T23:24:46.216867Z"
       }
     },
     {
@@ -1469,15 +1469,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7453,
-      "importance": 0.7453,
-      "importance_score": 0.7453,
+      "score": 0.7433,
+      "importance": 0.7433,
+      "importance_score": 0.7433,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8263,
+        "recency": 0.8149,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1504,7 +1504,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-14T22:25:28.104454Z"
+        "scored_at": "2026-07-14T23:24:46.216867Z"
       }
     },
     {
@@ -1552,15 +1552,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7443,
-      "importance": 0.7443,
-      "importance_score": 0.7443,
+      "score": 0.7421,
+      "importance": 0.7421,
+      "importance_score": 0.7421,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9041,
+        "recency": 0.8916,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1587,7 +1587,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-14T22:25:28.104454Z"
+        "scored_at": "2026-07-14T23:24:46.216867Z"
       }
     },
     {
@@ -1635,15 +1635,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7391,
-      "importance": 0.7391,
-      "importance_score": 0.7391,
+      "score": 0.737,
+      "importance": 0.737,
+      "importance_score": 0.737,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8247,
+        "recency": 0.8134,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1670,7 +1670,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-14T22:25:28.104454Z"
+        "scored_at": "2026-07-14T23:24:46.216867Z"
       }
     },
     {
@@ -1776,15 +1776,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7976,
-      "importance": 0.7976,
-      "importance_score": 0.7976,
+      "score": 0.7953,
+      "importance": 0.7953,
+      "importance_score": 0.7953,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.922,
+        "recency": 0.9093,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1813,7 +1813,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-14T22:25:28.104454Z"
+        "scored_at": "2026-07-14T23:24:46.216867Z"
       }
     },
     {
@@ -1890,15 +1890,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7639,
-      "importance": 0.7639,
-      "importance_score": 0.7639,
+      "score": 0.7619,
+      "importance": 0.7619,
+      "importance_score": 0.7619,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8408,
+        "recency": 0.8292,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1927,7 +1927,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-14T22:25:28.104454Z"
+        "scored_at": "2026-07-14T23:24:46.216867Z"
       }
     },
     {
@@ -1975,15 +1975,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7253,
-      "importance": 0.7253,
-      "importance_score": 0.7253,
+      "score": 0.7235,
+      "importance": 0.7235,
+      "importance_score": 0.7235,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7316,
+        "recency": 0.7216,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -2010,7 +2010,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-14T22:25:28.104454Z"
+        "scored_at": "2026-07-14T23:24:46.216867Z"
       }
     }
   ]
