@@ -18,7 +18,7 @@ from dataclasses import dataclass
 from datetime import date, datetime, timedelta, timezone
 from difflib import SequenceMatcher
 from pathlib import Path
-from typing import Any
+from typing import Any, Callable, Iterable
 from urllib.parse import parse_qsl, urlencode, urljoin, urlparse, urlunparse
 from zoneinfo import ZoneInfo
 
@@ -4683,6 +4683,17 @@ def load_title_zh_cache(path: Path) -> dict[str, str]:
     return {}
 
 
+def load_title_ja_cache(path: Path) -> dict[str, str]:
+    """Load the Japanese title cache without sharing a namespace or file
+    with the existing Chinese cache."""
+    return load_title_zh_cache(path)
+
+
+def load_summary_ja_cache(path: Path) -> dict[str, str]:
+    """Load the independent Japanese summary cache."""
+    return load_title_zh_cache(path)
+
+
 def translate_to_zh_cn(session: requests.Session, text: str) -> str | None:
     s = (text or "").strip()
     if not s:
@@ -5045,6 +5056,474 @@ def add_bilingual_fields(
         enrich(it, allow_translate=max_new_translations_all > 0, is_ai_pool=False) for it in items_all
     ]
     return ai_out, all_out, cache
+
+
+JA_CACHE_DS_PREFIX = "ja-ds1|"
+JA_CACHE_GOOGLE_PREFIX = "ja-gtx1|"
+JA_SUMMARY_CACHE_DS_PREFIX = "ja-summary-ds1|"
+JA_SUMMARY_CACHE_GOOGLE_PREFIX = "ja-summary-gtx1|"
+JA_TRANSLATION_GLOSSARY_FILENAME = "translation-glossary-ja.txt"
+_JA_GLOSSARY_CACHE: tuple[list[str], list[tuple[str, str, str | None]]] | None = None
+_JAPANESE_KANA_RE = re.compile(r"[\u3040-\u30ff]")
+_JAPANESE_CHAR_RE = re.compile(r"[\u3040-\u30ff\u3400-\u9fff]")
+_CHINESE_SPECIFIC_RE = re.compile(
+    r"[发这为并从还进过门长东广业产动务应实据网开关现个于]"
+    r"|推出|发布|發布|开放|開放|上线|上線|用户|用戶|功能|模型"
+)
+
+JA_TRANSLATE_MAX_NEW_DEFAULT = 60
+JA_TRANSLATE_CREATOR_MAX_NEW_DEFAULT = 20
+JA_SUMMARY_MAX_NEW_DEFAULT = 30
+JA_WAYTOAGI_MAX_NEW_DEFAULT = 30
+
+
+def japanese_deepseek_enabled() -> bool:
+    """Paid Japanese LLM work is opt-in, independently from Chinese work."""
+    return env_flag_default("JA_DEEPSEEK_ENABLED", False) and bool(
+        str(os.environ.get("DEEPSEEK_API_KEY") or "").strip()
+    )
+
+
+def load_translation_glossary_ja(
+    path: str | Path = JA_TRANSLATION_GLOSSARY_FILENAME,
+) -> tuple[list[str], list[tuple[str, str, str | None]]]:
+    """Load the independent Japanese glossary using the same simple format
+    as the Chinese glossary, but from its own file."""
+    return load_translation_glossary(path)
+
+
+def _get_translation_glossary_ja() -> tuple[list[str], list[tuple[str, str, str | None]]]:
+    global _JA_GLOSSARY_CACHE
+    if _JA_GLOSSARY_CACHE is None:
+        _JA_GLOSSARY_CACHE = load_translation_glossary_ja()
+    return _JA_GLOSSARY_CACHE
+
+
+def is_natural_japanese_title(text: str) -> bool:
+    """Conservative Japanese-original detector.
+
+    Kana distinguishes Japanese from Chinese only when it is not an isolated
+    product term inside an otherwise Chinese sentence. Kanji-only headlines are
+    intentionally not guessed as Japanese because translating a Japanese title
+    again is safer than silently presenting Chinese as Japanese.
+    """
+    value = str(text or "").strip()
+    if not value or _CHINESE_SPECIFIC_RE.search(value):
+        return False
+    kana_count = len(_JAPANESE_KANA_RE.findall(value))
+    if not kana_count:
+        return False
+    japanese_char_count = len(_JAPANESE_CHAR_RE.findall(value))
+    return kana_count / max(1, japanese_char_count) >= 0.08
+
+
+def translate_to_ja_google(session: requests.Session, text: str) -> str | None:
+    source = str(text or "").strip()
+    if not source:
+        return None
+    try:
+        response = session.get(
+            "https://translate.googleapis.com/translate_a/single",
+            params={"client": "gtx", "sl": "auto", "tl": "ja", "dt": "t", "q": source},
+            timeout=12,
+        )
+        response.raise_for_status()
+        payload = response.json()
+        segments = payload[0] if isinstance(payload, list) and payload else None
+        if not isinstance(segments, list):
+            return None
+        translated = "".join(
+            str(segment[0])
+            for segment in segments
+            if isinstance(segment, list) and segment and segment[0]
+        ).strip()
+        return translated if translated and translated != source else None
+    except Exception:
+        return None
+
+
+def translate_to_ja_deepseek(text: str, timeout: int = 20) -> str | None:
+    source = str(text or "").strip()
+    if not source:
+        return None
+    if not japanese_deepseek_enabled():
+        return None
+    api_key = str(os.environ.get("DEEPSEEK_API_KEY") or "").strip()
+    base_url = str(os.environ.get("DEEPSEEK_API_BASE_URL") or "https://api.deepseek.com").strip().rstrip("/")
+    model = str(os.environ.get("DEEPSEEK_MODEL") or "deepseek-v4-flash").strip()
+    protected_terms, _ = _get_translation_glossary_ja()
+    term_list = "、".join(protected_terms) if protected_terms else (
+        "Codex、Claude、OpenAI、Anthropic、Hugging Face、The Information"
+    )
+    system_prompt = (
+        "あなたはテクノロジーニュースの編集者です。入力された英語または中国語の見出しを、"
+        "自然で簡潔な日本語に直接翻訳してください。"
+        f"製品名・企業名・モデル名・媒体名・人名（例: {term_list}）は原文表記を保ってください。"
+        "別言語の翻訳を経由せず、入力原文から訳してください。"
+        "訳文だけを返し、引用符、前置き、説明は付けないでください。"
+    )
+    try:
+        response = requests.post(
+            f"{base_url}/chat/completions",
+            headers={"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"},
+            json={
+                "model": model,
+                "temperature": 0.2,
+                "messages": [
+                    {"role": "system", "content": system_prompt},
+                    {"role": "user", "content": source},
+                ],
+            },
+            timeout=timeout,
+        )
+        if response.status_code != 200:
+            return None
+        payload = response.json()
+        choices = payload.get("choices") if isinstance(payload, dict) else None
+        if not isinstance(choices, list) or not choices:
+            return None
+        content = str(((choices[0] or {}).get("message") or {}).get("content") or "").strip()
+        content = content.strip("\"'“”「」").strip()
+        return content if content and content != source else None
+    except Exception:
+        return None
+
+
+JA_TRANSLATION_REFUSAL_MARKERS = [
+    "申し訳",
+    "翻訳できません",
+    "対応できません",
+    "提供できません",
+    "sorry",
+    "cannot",
+    "i can't",
+    "抱歉",
+    "无法翻译",
+    "无法提供",
+]
+_JA_REFUSAL_LEADING_STRIP_RE = re.compile(r'^[\s"\'“”‘’「」『』(（,，.。:：]+')
+
+
+def _looks_like_ja_translation_refusal(text: str) -> bool:
+    lowered = _JA_REFUSAL_LEADING_STRIP_RE.sub("", str(text or "").lower())
+    return any(lowered.startswith(marker.lower()) for marker in JA_TRANSLATION_REFUSAL_MARKERS)
+
+
+def is_valid_ja_translation(original: str, translated: str, *, strict: bool = True) -> bool:
+    """Japanese-specific translation validation.
+
+    This intentionally does not call the Chinese validator: its script,
+    refusal, and length rules are independent.
+    """
+    text = str(translated or "").strip()
+    # Use the same mixed-script guard as original-language detection so one
+    # katakana product term cannot make an otherwise Chinese result valid.
+    if not is_natural_japanese_title(text):
+        return False
+    if _looks_like_ja_translation_refusal(text):
+        return False
+    japanese_chars = len(_JAPANESE_CHAR_RE.findall(text))
+    if japanese_chars < 4:
+        return False
+    latin_tokens = re.findall(r"[A-Za-z][A-Za-z0-9._+#/-]*", text)
+    effective_len = japanese_chars + (2 * len(latin_tokens))
+    if strict and not (6 <= effective_len <= 80):
+        return False
+    return text != str(original or "").strip() or is_natural_japanese_title(text)
+
+
+def repair_ja_title_translation(original: str, translated: str) -> str:
+    result = str(translated or "").strip()
+    source = str(original or "")
+    _, repairs = _get_translation_glossary_ja()
+    for bad, good, guard in repairs:
+        if bad not in result:
+            continue
+        if guard and not re.search(re.escape(guard), source, re.I):
+            continue
+        result = result.replace(bad, good)
+    return result
+
+
+def add_japanese_fields(
+    items_ai: list[dict[str, Any]],
+    items_all: list[dict[str, Any]],
+    session: requests.Session,
+    cache: dict[str, str],
+    max_new_translations: int,
+) -> tuple[list[dict[str, Any]], list[dict[str, Any]], dict[str, str]]:
+    """Add `title_ja` directly from each original title.
+
+    Chinese display fields are never considered as an input or fallback.
+    """
+    attempted_now = 0
+    attempted_results: dict[str, str | None] = {}
+
+    def enrich(item: dict[str, Any]) -> dict[str, Any]:
+        nonlocal attempted_now
+        out = dict(item)
+        source = str(
+            out.get("title_original") or out.get("title_en") or out.get("title") or ""
+        ).strip()
+        out["title_ja"] = None
+        if not source:
+            return out
+        if is_natural_japanese_title(source):
+            out["title_ja"] = source
+            return out
+
+        ds_key = JA_CACHE_DS_PREFIX + source
+        google_key = JA_CACHE_GOOGLE_PREFIX + source
+        cached_ds = cache.get(ds_key)
+        cached_google = cache.get(google_key)
+        if cached_ds and is_valid_ja_translation(source, cached_ds, strict=False):
+            out["title_ja"] = repair_ja_title_translation(source, cached_ds)
+            return out
+        if cached_google and is_valid_ja_translation(source, cached_google, strict=False):
+            out["title_ja"] = repair_ja_title_translation(source, cached_google)
+            return out
+        if source in attempted_results:
+            out["title_ja"] = attempted_results[source]
+            return out
+        if attempted_now >= max(0, max_new_translations):
+            return out
+        attempted_now += 1
+
+        translated = translate_to_ja_deepseek(source)
+        cache_key = ds_key
+        if not translated or not is_valid_ja_translation(source, translated):
+            translated = translate_to_ja_google(session, source)
+            cache_key = google_key
+        if not translated or not is_valid_ja_translation(source, translated):
+            attempted_results[source] = None
+            return out
+
+        translated = repair_ja_title_translation(source, translated)
+        cache[cache_key] = translated
+        attempted_results[source] = translated
+        out["title_ja"] = translated
+        return out
+
+    # One shared Japanese budget covers unique source titles across both pools.
+    # The per-run result map suppresses duplicate calls even when translation
+    # fails and therefore produces no persistent cache entry.
+    ai_out = [enrich(item) for item in items_ai]
+    all_out = [enrich(item) for item in items_all]
+    return ai_out, all_out, cache
+
+
+def _ja_summary_cache_key(prefix: str, source: str) -> str:
+    return prefix + hashlib.sha1(source.encode("utf-8")).hexdigest()
+
+
+def is_valid_ja_summary_translation(original: str, translated: str) -> bool:
+    text = str(translated or "").strip()
+    if not is_natural_japanese_title(text):
+        return False
+    if _looks_like_ja_translation_refusal(text):
+        return False
+    if len(text) < 6 or len(text) > 1200:
+        return False
+    return text != str(original or "").strip() or is_natural_japanese_title(text)
+
+
+def translate_summary_to_ja_deepseek(text: str, timeout: int = 30) -> str | None:
+    source = str(text or "").strip()
+    if not source or not japanese_deepseek_enabled():
+        return None
+    api_key = str(os.environ.get("DEEPSEEK_API_KEY") or "").strip()
+    base_url = str(os.environ.get("DEEPSEEK_API_BASE_URL") or "https://api.deepseek.com").strip().rstrip("/")
+    model = str(os.environ.get("DEEPSEEK_MODEL") or "deepseek-v4-flash").strip()
+    prompt = (
+        "入力されたニュース要約を、内容を増減させず自然な日本語へ直接翻訳してください。"
+        "製品名・企業名・モデル名・人名・媒体名は原文表記を保ち、訳文だけを返してください。"
+    )
+    try:
+        response = requests.post(
+            f"{base_url}/chat/completions",
+            headers={"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"},
+            json={
+                "model": model,
+                "temperature": 0.2,
+                "messages": [
+                    {"role": "system", "content": prompt},
+                    {"role": "user", "content": source},
+                ],
+            },
+            timeout=timeout,
+        )
+        if response.status_code != 200:
+            return None
+        payload = response.json()
+        choices = payload.get("choices") if isinstance(payload, dict) else None
+        content = str(((choices[0] or {}).get("message") or {}).get("content") or "").strip() if choices else ""
+        content = content.strip("\"'“”「」").strip()
+    except Exception:
+        return None
+    return content if is_valid_ja_summary_translation(source, content) else None
+
+
+def _translate_summary_ja(
+    source: str,
+    session: requests.Session,
+    cache: dict[str, str],
+) -> tuple[str | None, bool]:
+    text = str(source or "").strip()
+    if not text:
+        return None, False
+    if is_natural_japanese_title(text):
+        return text, False
+    ds_key = _ja_summary_cache_key(JA_SUMMARY_CACHE_DS_PREFIX, text)
+    google_key = _ja_summary_cache_key(JA_SUMMARY_CACHE_GOOGLE_PREFIX, text)
+    for key in (ds_key, google_key):
+        cached = cache.get(key)
+        if cached and is_valid_ja_summary_translation(text, cached):
+            return cached, False
+    translated = translate_summary_to_ja_deepseek(text)
+    cache_key = ds_key
+    if not translated:
+        translated = translate_to_ja_google(session, text)
+        cache_key = google_key
+    if not translated or not is_valid_ja_summary_translation(text, translated):
+        return None, True
+    cache[cache_key] = translated
+    return translated, True
+
+
+def add_japanese_summaries(
+    items_ai: list[dict[str, Any]],
+    items_all: list[dict[str, Any]],
+    session: requests.Session,
+    cache: dict[str, str],
+    max_new_translations: int,
+) -> tuple[list[dict[str, Any]], list[dict[str, Any]], dict[str, str]]:
+    attempted_now = 0
+    attempted_results: dict[str, str | None] = {}
+
+    def enrich(item: dict[str, Any]) -> dict[str, Any]:
+        nonlocal attempted_now
+        out = dict(item)
+        source = str(out.get("summary") or "").strip()
+        out["summary_ja"] = None
+        if not source:
+            return out
+        if is_natural_japanese_title(source):
+            out["summary_ja"] = source
+            return out
+        ds_key = _ja_summary_cache_key(JA_SUMMARY_CACHE_DS_PREFIX, source)
+        google_key = _ja_summary_cache_key(JA_SUMMARY_CACHE_GOOGLE_PREFIX, source)
+        for key in (ds_key, google_key):
+            cached = cache.get(key)
+            if cached and is_valid_ja_summary_translation(source, cached):
+                out["summary_ja"] = cached
+                return out
+        if source in attempted_results:
+            out["summary_ja"] = attempted_results[source]
+            return out
+        if attempted_now >= max(0, max_new_translations):
+            return out
+        translated, consumed = _translate_summary_ja(source, session, cache)
+        out["summary_ja"] = translated
+        if consumed:
+            attempted_now += 1
+            attempted_results[source] = translated
+        return out
+
+    ai_out = [enrich(item) for item in items_ai]
+    all_out = [enrich(item) for item in items_all]
+    return ai_out, all_out, cache
+
+
+def add_waytoagi_japanese_fields(
+    payload: dict[str, Any],
+    session: requests.Session,
+    title_cache: dict[str, str],
+    summary_cache: dict[str, str],
+    max_new_translations: int,
+) -> tuple[dict[str, Any], dict[str, str], dict[str, str]]:
+    out = dict(payload)
+    consumed = 0
+    translated_by_identity: dict[tuple[str, str, str], dict[str, Any]] = {}
+    title_results: dict[str, str | None] = {}
+    summary_results: dict[str, str | None] = {}
+
+    def enrich(update: dict[str, Any]) -> dict[str, Any]:
+        nonlocal consumed
+        item = dict(update)
+        identity = (
+            str(item.get("date") or ""),
+            str(item.get("title") or ""),
+            str(item.get("url") or ""),
+        )
+        if identity in translated_by_identity:
+            return dict(translated_by_identity[identity])
+
+        title = str(item.get("title") or "").strip()
+        item["title_ja"] = title if is_natural_japanese_title(title) else None
+        if title and not item["title_ja"]:
+            if title in title_results:
+                item["title_ja"] = title_results[title]
+            else:
+                had_title_cache = any(
+                    cached and is_valid_ja_translation(title, cached, strict=False)
+                    for cached in (
+                        title_cache.get(JA_CACHE_DS_PREFIX + title),
+                        title_cache.get(JA_CACHE_GOOGLE_PREFIX + title),
+                    )
+                )
+                allow_new = consumed < max(0, max_new_translations)
+                translated_items, _, title_cache_out = add_japanese_fields(
+                    [{"title": title, "title_original": title, "url": item.get("url")}],
+                    [],
+                    session,
+                    title_cache,
+                    max_new_translations=1 if allow_new else 0,
+                )
+                title_cache.update(title_cache_out)
+                item["title_ja"] = translated_items[0].get("title_ja")
+                title_results[title] = item["title_ja"]
+                if allow_new and not had_title_cache:
+                    consumed += 1
+
+        summary = str(item.get("summary") or "").strip()
+        item["summary_ja"] = summary if is_natural_japanese_title(summary) else None
+        if summary and not item["summary_ja"]:
+            if summary in summary_results:
+                item["summary_ja"] = summary_results[summary]
+            else:
+                cached_summary = next(
+                    (
+                        cached
+                        for key in (
+                            _ja_summary_cache_key(JA_SUMMARY_CACHE_DS_PREFIX, summary),
+                            _ja_summary_cache_key(JA_SUMMARY_CACHE_GOOGLE_PREFIX, summary),
+                        )
+                        if (cached := summary_cache.get(key))
+                        and is_valid_ja_summary_translation(summary, cached)
+                    ),
+                    None,
+                )
+                if cached_summary:
+                    item["summary_ja"] = cached_summary
+                    summary_results[summary] = cached_summary
+                elif consumed < max(0, max_new_translations):
+                    translated, used = _translate_summary_ja(summary, session, summary_cache)
+                    item["summary_ja"] = translated
+                    summary_results[summary] = translated
+                    if used:
+                        consumed += 1
+        translated_by_identity[identity] = dict(item)
+        return item
+
+    updates_7d = out.get("updates_7d")
+    updates_today = out.get("updates_today")
+    out["updates_7d"] = [
+        enrich(item) for item in updates_7d if isinstance(item, dict)
+    ] if isinstance(updates_7d, list) else []
+    out["updates_today"] = [
+        enrich(item) for item in updates_today if isinstance(item, dict)
+    ] if isinstance(updates_today, list) else []
+    return out, title_cache, summary_cache
 
 
 TITLE_ENHANCE_CACHE_PREFIX = "te1|"
@@ -5856,6 +6335,15 @@ def importance_label(category: str) -> str:
     }.get(category, "值得关注")
 
 
+def importance_label_ja(category: str) -> str:
+    return {
+        "official": "公式アップデート",
+        "multi_source": "複数ソースで話題",
+        "industry": "業界動向",
+        "watch": "要注目",
+    }.get(category, "要注目")
+
+
 def choose_primary_story_item(
     items: list[dict[str, Any]],
     now: datetime,
@@ -5875,9 +6363,11 @@ def story_item_link(item: dict[str, Any]) -> dict[str, Any]:
         "id": item.get("id"),
         "title": item.get("title_enhanced_zh") or item.get("title_bilingual") or item.get("title"),
         "title_zh": item.get("title_enhanced_zh") or item.get("title_zh"),
+        "title_ja": item.get("title_ja"),
         "title_en": item.get("title_en"),
         "title_original": item.get("title_original"),
         "summary": item.get("summary"),
+        "summary_ja": item.get("summary_ja"),
         "recommend_reason_zh": item.get("recommend_reason_zh"),
         "url": item.get("url"),
         "source": item.get("source"),
@@ -5926,6 +6416,7 @@ def build_story_record(
     return {
         "story_id": story_id,
         "title": title,
+        "title_ja": primary.get("title_ja"),
         "url": url,
         "primary_url": url,
         "source": primary.get("source"),
@@ -5940,6 +6431,7 @@ def build_story_record(
         "importance": score,
         "importance_score": score,
         "importance_label": importance_label(category),
+        "importance_label_ja": importance_label_ja(category),
         "importance_breakdown": importance["breakdown"],
         "category": category,
         "reasons": story_reasons(primary, score, len(sorted_items)),
@@ -5949,9 +6441,11 @@ def build_story_record(
             "id": primary.get("id"),
             "title": title,
             "title_zh": primary.get("title_enhanced_zh") or primary.get("title_zh"),
+            "title_ja": primary.get("title_ja"),
             "title_en": primary.get("title_en"),
             "title_original": primary.get("title_original"),
             "summary": primary.get("summary"),
+            "summary_ja": primary.get("summary_ja"),
             "recommend_reason_zh": primary.get("recommend_reason_zh"),
             "url": url,
             "source": primary.get("source"),
@@ -6215,6 +6709,122 @@ def build_latest_payloads(latest_payload: dict[str, Any]) -> tuple[dict[str, Any
     return slim_payload, all_payload
 
 
+def _japanese_coverage_bucket(
+    records: Iterable[dict[str, Any]],
+    *,
+    source_value: Callable[[dict[str, Any]], str],
+    translated_field: str,
+    validator: Callable[[str, str], bool],
+) -> dict[str, int]:
+    localized_by_source: dict[str, bool] = {}
+    for record in records:
+        source = str(source_value(record) or "").strip()
+        if not source:
+            continue
+        translated = str(record.get(translated_field) or "").strip()
+        localized = is_natural_japanese_title(source) or bool(
+            translated and validator(source, translated)
+        )
+        localized_by_source[source] = localized_by_source.get(source, False) or localized
+    eligible = len(localized_by_source)
+    localized = sum(localized_by_source.values())
+    return {
+        "eligible": eligible,
+        "localized": localized,
+        "missing": eligible - localized,
+    }
+
+
+def build_japanese_translation_coverage(
+    items_ai: list[dict[str, Any]],
+    items_all: list[dict[str, Any]],
+    creator_items_ai: list[dict[str, Any]],
+    creator_items_all: list[dict[str, Any]],
+    waytoagi_payload: dict[str, Any],
+) -> dict[str, dict[str, int]]:
+    def title_source(record: dict[str, Any]) -> str:
+        return str(
+            record.get("title_original") or record.get("title_en") or record.get("title") or ""
+        )
+
+    def summary_source(record: dict[str, Any]) -> str:
+        return str(record.get("summary") or "")
+
+    title_validator = lambda source, translated: is_valid_ja_translation(
+        source, translated, strict=False
+    )
+    main_records = [*items_ai, *items_all]
+    creator_records = [*creator_items_ai, *creator_items_all]
+    way_records = [
+        item
+        for field in ("updates_today", "updates_7d")
+        for item in (waytoagi_payload.get(field) or [])
+        if isinstance(item, dict)
+    ]
+    buckets = {
+        "main_titles": _japanese_coverage_bucket(
+            main_records,
+            source_value=title_source,
+            translated_field="title_ja",
+            validator=title_validator,
+        ),
+        "creator_titles": _japanese_coverage_bucket(
+            creator_records,
+            source_value=title_source,
+            translated_field="title_ja",
+            validator=title_validator,
+        ),
+        "summaries": _japanese_coverage_bucket(
+            main_records,
+            source_value=summary_source,
+            translated_field="summary_ja",
+            validator=is_valid_ja_summary_translation,
+        ),
+        "waytoagi_titles": _japanese_coverage_bucket(
+            way_records,
+            source_value=title_source,
+            translated_field="title_ja",
+            validator=title_validator,
+        ),
+        "waytoagi_summaries": _japanese_coverage_bucket(
+            way_records,
+            source_value=summary_source,
+            translated_field="summary_ja",
+            validator=is_valid_ja_summary_translation,
+        ),
+    }
+    buckets["overall"] = {
+        key: sum(bucket[key] for bucket in buckets.values())
+        for key in ("eligible", "localized", "missing")
+    }
+    return buckets
+
+
+def build_japanese_translation_policy(args: argparse.Namespace) -> dict[str, Any]:
+    main_titles = max(0, args.ja_translate_max_new)
+    summaries = max(0, args.ja_summary_max_new)
+    creator_titles = max(0, args.ja_translate_creator_max_new)
+    waytoagi_fields = max(0, args.ja_waytoagi_max_new)
+    translatable_fields = main_titles + summaries + creator_titles + waytoagi_fields
+    deepseek_enabled = japanese_deepseek_enabled()
+    return {
+        "deepseek_enabled": deepseek_enabled,
+        "limits": {
+            "main_titles": main_titles,
+            "summaries": summaries,
+            "creator_titles": creator_titles,
+            "waytoagi_title_or_summary_fields": waytoagi_fields,
+        },
+        "max_new_japanese_fields_per_run": translatable_fields,
+        # DeepSeek is paid and opt-in. Google translation is keyless; it is
+        # attempted once for each field when DeepSeek is disabled or fails.
+        "max_paid_deepseek_requests_per_run": (
+            translatable_fields if deepseek_enabled else 0
+        ),
+        "max_keyless_google_requests_per_run": translatable_fields,
+    }
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description="Aggregate AI news updates from multiple sources")
     parser.add_argument("--output-dir", default="data", help="Directory for output JSON files")
@@ -6227,9 +6837,34 @@ def main() -> int:
         default=30,
         help="Max new EN->ZH title translations per run for the broad all-items pool (independent from --translate-max-new)",
     )
+    parser.add_argument(
+        "--ja-translate-max-new",
+        type=int,
+        default=env_int("JA_TRANSLATE_MAX_NEW", JA_TRANSLATE_MAX_NEW_DEFAULT),
+        help="Max new Japanese titles per run across curated and broad news pools",
+    )
+    parser.add_argument(
+        "--ja-translate-creator-max-new",
+        type=int,
+        default=env_int("JA_TRANSLATE_CREATOR_MAX_NEW", JA_TRANSLATE_CREATOR_MAX_NEW_DEFAULT),
+        help="Max new Japanese titles for the independent creator hot-list pool",
+    )
+    parser.add_argument(
+        "--ja-summary-max-new",
+        type=int,
+        default=env_int("JA_SUMMARY_MAX_NEW", JA_SUMMARY_MAX_NEW_DEFAULT),
+        help="Max new Japanese summaries per run across normal news pools",
+    )
+    parser.add_argument(
+        "--ja-waytoagi-max-new",
+        type=int,
+        default=env_int("JA_WAYTOAGI_MAX_NEW", JA_WAYTOAGI_MAX_NEW_DEFAULT),
+        help="Max new WaytoAGI title or summary fields translated to Japanese",
+    )
     parser.add_argument("--rss-opml", default="", help="Optional OPML file path to include RSS sources")
     parser.add_argument("--rss-max-feeds", type=int, default=0, help="Optional max OPML RSS feeds to fetch (0 means all)")
     args = parser.parse_args()
+    ja_policy = build_japanese_translation_policy(args)
 
     now = utc_now()
     output_dir = Path(args.output_dir)
@@ -6245,6 +6880,8 @@ def main() -> int:
     merge_log_path = output_dir / "merge-log.json"
     waytoagi_path = output_dir / "waytoagi-7d.json"
     title_cache_path = output_dir / "title-zh-cache.json"
+    title_ja_cache_path = output_dir / "title-ja-cache.json"
+    summary_ja_cache_path = output_dir / "summary-ja-cache.json"
     email_digest_path = output_dir / AGENTMAIL_DIGEST_FILE
     paid_source_state_path = output_dir / PAID_SOURCE_STATE_FILE
 
@@ -6475,6 +7112,15 @@ def main() -> int:
         max_new_translations=max(0, args.translate_max_new),
         max_new_translations_all=max(0, args.translate_max_new_broad),
     )
+    title_ja_cache = load_title_ja_cache(title_ja_cache_path)
+    summary_ja_cache = load_summary_ja_cache(summary_ja_cache_path)
+    latest_items, latest_items_all, title_ja_cache = add_japanese_fields(
+        latest_items,
+        latest_items_all,
+        session,
+        title_ja_cache,
+        max_new_translations=ja_policy["limits"]["main_titles"],
+    )
     creator_items_ai = build_creator_hot_items(archive, now, ai_only=True)
     creator_items_all = build_creator_hot_items(archive, now, ai_only=False)
     creator_items_ai, creator_items_all, title_cache = add_bilingual_fields(
@@ -6484,11 +7130,39 @@ def main() -> int:
         title_cache,
         max_new_translations=0,
     )
+    creator_items_ai, creator_items_all, title_ja_cache = add_japanese_fields(
+        creator_items_ai,
+        creator_items_all,
+        session,
+        title_ja_cache,
+        max_new_translations=ja_policy["limits"]["creator_titles"],
+    )
+    waytoagi_payload, title_ja_cache, summary_ja_cache = add_waytoagi_japanese_fields(
+        waytoagi_payload,
+        session,
+        title_ja_cache,
+        summary_ja_cache,
+        max_new_translations=ja_policy["limits"]["waytoagi_title_or_summary_fields"],
+    )
     latest_items_ai_dedup = suppress_near_duplicate_items(dedupe_items_by_title_url(latest_items, random_pick=False))
-    latest_items_all_dedup = dedupe_items_by_title_url(latest_items_all, random_pick=True)
     latest_items_all_raw_dedup = dedupe_items_by_title_url(latest_items_all_raw, random_pick=True)
     latest_items_ai_dedup, title_cache = add_title_enhancements(latest_items_ai_dedup, session, title_cache)
     latest_items_ai_dedup, title_cache = add_recommend_reasons(latest_items_ai_dedup, session, title_cache)
+    latest_items_ai_dedup, latest_items_all, summary_ja_cache = add_japanese_summaries(
+        latest_items_ai_dedup,
+        latest_items_all,
+        session,
+        summary_ja_cache,
+        max_new_translations=ja_policy["limits"]["summaries"],
+    )
+    ja_policy["coverage"] = build_japanese_translation_coverage(
+        latest_items_ai_dedup,
+        latest_items_all,
+        creator_items_ai,
+        creator_items_all,
+        waytoagi_payload,
+    )
+    latest_items_all_dedup = dedupe_items_by_title_url(latest_items_all, random_pick=True)
     stories, merge_events = merge_story_items(latest_items_ai_dedup, now=now, window_hours=args.window_hours)
     generated_at = iso(now)
     daily_brief_payload = build_daily_brief_payload(stories, generated_at=generated_at, window_hours=args.window_hours)
@@ -6546,6 +7220,7 @@ def main() -> int:
         "site_stats": sorted(site_stat.values(), key=lambda x: x["count"], reverse=True),
         "creator_window_days": CREATOR_HOT_WINDOW_DAYS,
         "creator_ranking": "engagement_85_fresh_24h_bonus_15_v1",
+        "japanese_translation": ja_policy,
         "creator_items_ai": creator_items_ai,
         "creator_items_all": creator_items_all,
         "items": latest_items_ai_dedup,
@@ -6623,6 +7298,7 @@ def main() -> int:
         "x_api": x_api_status,
         "socialdata": socialdata_status,
         "tikhub": tikhub_status,
+        "japanese_translation": ja_policy,
     }
 
     latest_payload, latest_all_payload = build_latest_payloads(latest_payload)
@@ -6670,6 +7346,14 @@ def main() -> int:
         )
     waytoagi_path.write_text(json.dumps(sanitize_public_payload(waytoagi_payload), ensure_ascii=False, indent=2), encoding="utf-8")
     title_cache_path.write_text(json.dumps(sanitize_public_payload(title_cache), ensure_ascii=False, indent=2), encoding="utf-8")
+    title_ja_cache_path.write_text(
+        json.dumps(sanitize_public_payload(title_ja_cache), ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
+    summary_ja_cache_path.write_text(
+        json.dumps(sanitize_public_payload(summary_ja_cache), ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
 
     print(f"Wrote: {latest_path} ({len(latest_items)} items)")
     print(f"Wrote: {latest_all_path} ({len(latest_items_all_dedup)} all-mode items)")
@@ -6684,6 +7368,16 @@ def main() -> int:
         print(f"Wrote: {email_digest_path} ({email_digest_payload.get('total_messages', 0)} email items)")
     print(f"Wrote: {waytoagi_path} ({waytoagi_payload.get('count_7d', 0)} items)")
     print(f"Wrote: {title_cache_path} ({len(title_cache)} entries)")
+    print(f"Wrote: {title_ja_cache_path} ({len(title_ja_cache)} entries)")
+    print(f"Wrote: {summary_ja_cache_path} ({len(summary_ja_cache)} entries)")
+    print(
+        "Japanese translation policy: "
+        f"max_new_fields={ja_policy['max_new_japanese_fields_per_run']}, "
+        f"max_paid_deepseek_requests={ja_policy['max_paid_deepseek_requests_per_run']}, "
+        f"max_keyless_google_requests={ja_policy['max_keyless_google_requests_per_run']}, "
+        f"coverage={ja_policy['coverage']['overall']['localized']}/"
+        f"{ja_policy['coverage']['overall']['eligible']}"
+    )
 
     return 0
 

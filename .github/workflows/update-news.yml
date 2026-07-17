@@ -101,6 +101,13 @@ jobs:
           DEEPSEEK_API_BASE_URL: ${{ vars.DEEPSEEK_API_BASE_URL }}
           DEEPSEEK_MODEL: ${{ vars.DEEPSEEK_MODEL }}
           TITLE_ENHANCE_MAX_PER_RUN: ${{ vars.TITLE_ENHANCE_MAX_PER_RUN }}
+          # Japanese processing follows the upstream incremental-cache pattern:
+          # fixed per-run limits and an independent, default-off paid switch.
+          JA_DEEPSEEK_ENABLED: ${{ vars.JA_DEEPSEEK_ENABLED || '0' }}
+          JA_TRANSLATE_MAX_NEW: ${{ vars.JA_TRANSLATE_MAX_NEW || 60 }}
+          JA_TRANSLATE_CREATOR_MAX_NEW: ${{ vars.JA_TRANSLATE_CREATOR_MAX_NEW || 20 }}
+          JA_SUMMARY_MAX_NEW: ${{ vars.JA_SUMMARY_MAX_NEW || 30 }}
+          JA_WAYTOAGI_MAX_NEW: ${{ vars.JA_WAYTOAGI_MAX_NEW || 30 }}
         run: |
           if [ -f feeds/follow.opml ]; then
             python scripts/update_news.py --output-dir data --window-hours 24 --archive-days 21 --rss-opml feeds/follow.opml --rss-max-feeds "${RSS_MAX_FEEDS:-10}"

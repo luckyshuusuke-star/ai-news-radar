@@ -43,6 +43,62 @@ def test_both_views_apply_same_last_mile_content_safety_gate():
         assert "function isUnsafeStory(story)" in source
 
 
+def test_both_views_search_japanese_display_titles():
+    for path in ("assets/app.js", "classic/assets/app.js"):
+        source = read(path)
+        assert "item.title_ja" in source
+        assert "function itemHaystack(item)" in source
+
+    classic = read("classic/assets/app.js")
+    filtered_items = classic[classic.index("function getFilteredItems()"):classic.index("function originalTitleValue")]
+    assert "itemHaystack(item)" in filtered_items
+
+    mobile = read("assets/app.js")
+    story_query = mobile[mobile.index("function storyMatchesQuery"):mobile.index("function storyMatchesSiteFilter")]
+    assert "itemHaystack(ref)" in story_query
+
+
+def test_both_views_show_non_identical_original_titles_regardless_of_language():
+    for path in ("assets/app.js", "classic/assets/app.js"):
+        source = read(path)
+        original_helper = source[
+            source.index("function itemOriginalTitleText"):
+            source.index("function itemOriginalTitleText") + 900
+        ]
+        assert "item?.title_original" in original_helper
+        assert "original && original !== display" in original_helper
+        assert "isMostlyEnglishTitle" not in original_helper
+
+    for path in ("assets/app.js", "classic/assets/app.js"):
+        source = read(path)
+        story_original = source[
+            source.index("function storyPrimaryOriginalText"):
+            source.index("function storySourceCount")
+        ]
+        assert "primary.title_original" in story_original
+        assert "rest.join(\" / \")" in story_original
+        assert "isMostlyEnglishTitle" not in story_original
+
+    classic = read("classic/assets/app.js")
+    item_renderer = classic[
+        classic.index("function renderItemNode"):
+        classic.index("const SOURCE_ITEM_INITIAL_LIMIT")
+    ]
+    assert "itemOriginalTitleText(item)" in item_renderer
+    assert 'sub.className = "title-sub"' in item_renderer
+
+
+def test_both_views_keep_tone_support_for_existing_chinese_source_labels():
+    for path in ("assets/app.js", "classic/assets/app.js"):
+        source = read(path)
+        tone_helper = source[
+            source.index("function sourceSignalTone"):
+            source.index("function sourceSignalTone") + 1000
+        ]
+        for existing_label in ("官方", "精选", "自媒体", "媒体", "聚合", "日报"):
+            assert existing_label in tone_helper
+
+
 def test_both_pages_expose_bidirectional_view_switch():
     for path in ("index.html", "classic/index.html"):
         source = read(path)
@@ -72,7 +128,8 @@ def test_both_headers_keep_time_and_switch_inside_the_headline():
 
         assert headline_position < updated_position < switch_position < meta_position
         assert 'class="hero-tag"' not in source
-        assert ">GitHub 与接入指南</a>" in source
+        assert ">原作者・オリジナル版</a>" in source
+        assert "data-site-repository" in source
 
 
 def test_classic_header_does_not_animate_the_view_switch_container():

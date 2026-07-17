@@ -1,0 +1,65 @@
+{
+  "generated_at": "2026-07-17T03:00:00Z",
+  "items": [
+    {
+      "id": "official-en",
+      "site_id": "official_ai",
+      "site_name": "Official AI Updates",
+      "source": "OpenAI News",
+      "title": "OpenAI launches a new Codex agent for developers",
+      "title_original": "OpenAI launches a new Codex agent for developers",
+      "summary": "OpenAI introduced a Codex agent that can complete longer software engineering tasks.",
+      "url": "https://example.com/openai-codex",
+      "published_at": "2026-07-17T02:00:00Z"
+    },
+    {
+      "id": "media-zh",
+      "site_id": "aihot",
+      "site_name": "AI HOT",
+      "source": "微信公众号",
+      "title": "OpenAI 发布面向开发者的新 Codex 智能体",
+      "title_original": "OpenAI 发布面向开发者的新 Codex 智能体",
+      "summary": "该智能体能够处理更长时间的软件工程任务，并保留原始来源链接。",
+      "url": "https://example.com/zh-codex",
+      "published_at": "2026-07-17T01:00:00Z"
+    }
+  ],
+  "creator_items_ai": [
+    {
+      "id": "creator-zh",
+      "site_id": "tikhub_xiaohongshu",
+      "site_name": "TikHub Xiaohongshu",
+      "source": "小红书 · AI",
+      "title": "实测新的AI视频生成工作流",
+      "title_original": "实测新的AI视频生成工作流",
+      "url": "https://www.xiaohongshu.com/explore/example",
+      "published_at": "2026-07-16T22:00:00Z",
+      "creator_metrics": {
+        "likes": 1200,
+        "comments": 86,
+        "collects": 430,
+        "shares": 52
+      }
+    }
+  ],
+  "waytoagi": {
+    "generated_at": "2026-07-17T03:00:00Z",
+    "latest_date": "2026-07-17",
+    "updates_today": [
+      {
+        "date": "2026-07-17",
+        "title": "新增多智能体协作教程",
+        "summary": "教程介绍如何让多个智能体分工完成复杂任务。",
+        "url": "https://waytoagi.example/update"
+      }
+    ],
+    "updates_7d": [
+      {
+        "date": "2026-07-17",
+        "title": "新增多智能体协作教程",
+        "summary": "教程介绍如何让多个智能体分工完成复杂任务。",
+        "url": "https://waytoagi.example/update"
+      }
+    ]
+  }
+}
