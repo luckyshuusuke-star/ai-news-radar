@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T21:14:05.825684Z",
+  "generated_at": "2026-07-17T22:12:32.327192Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_3c32cc962842",
-      "title": "使用NVIDIA NeMo Automodel和🤗 Diffusers大规模微调视频和图像模型 / Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
-      "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+      "story_id": "story_c13975dae097",
+      "title": "Copilot代码审查：定制化与可配置性改进 / Copilot code review: Customization and configurability improvements",
+      "url": "https://github.blog/changelog/2026-07-17-copilot-code-review-customization-and-configurability-improvements",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 78,
-          "review": "组合拳不错，但“大规模”的代价和效果边界没敢细说。"
+          "score": 72,
+          "review": "定制化可配置性，终于不用被Copilot的默认规则气到摔键盘了。"
         },
         "paper-police": {
-          "score": 45,
-          "review": "博客有技术细节，但无独立论文和开源代码，需等完整发布验证。"
+          "score": 25,
+          "review": "仅官方博客宣称更新，无代码或第三方评测可验证。"
         },
         "pragmatic": {
           "score": 90,
-          "review": "直接结合NeMo和Diffusers，大规模微调视频/图像模型今天就能上。"
+          "review": "今天就能配置审查规则，适配自己团队风格，省去手动 review 重复劳动。"
         }
       }
     }
