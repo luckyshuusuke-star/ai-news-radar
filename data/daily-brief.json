@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-18T15:13:19.362682Z",
+  "generated_at": "2026-07-18T16:10:03.491596Z",
   "window_hours": 24,
-  "total_items": 17,
+  "total_items": 16,
   "items": [
     {
       "story_id": "story_56c5b0ab76c7",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8305,
-      "importance": 0.8305,
-      "importance_score": 0.8305,
+      "score": 0.8285,
+      "importance": 0.8285,
+      "importance_score": 0.8285,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8027,
+        "recency": 0.7918,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-18T15:14:45.882710Z"
+        "scored_at": "2026-07-18T16:11:03.580646Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.814,
-      "importance": 0.814,
-      "importance_score": 0.814,
+      "score": 0.8121,
+      "importance": 0.8121,
+      "importance_score": 0.8121,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.7554,
+        "recency": 0.7451,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,90 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-18T15:14:45.882710Z"
-      }
-    },
-    {
-      "story_id": "story_3c32cc962842",
-      "title": "使用 NVIDIA NeMo Automodel 和🤗 Diffusers 大规模微调视频和图像模型 / Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
-      "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
-      "primary_url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "01c3497dce4036769d3dc0ecb5cd7db5130df1d2",
-          "title": "使用 NVIDIA NeMo Automodel 和🤗 Diffusers 大规模微调视频和图像模型 / Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
-          "title_zh": "使用 NVIDIA NeMo Automodel 和🤗 Diffusers 大规模微调视频和图像模型",
-          "title_en": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
-          "title_original": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-17T15:57:54Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "01c3497dce4036769d3dc0ecb5cd7db5130df1d2",
-          "title": "使用 NVIDIA NeMo Automodel 和🤗 Diffusers 大规模微调视频和图像模型 / Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
-          "title_zh": "使用 NVIDIA NeMo Automodel 和🤗 Diffusers 大规模微调视频和图像模型",
-          "title_en": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
-          "title_original": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-17T15:57:54Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8087,
-      "importance": 0.8087,
-      "importance_score": 0.8087,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7147,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-17T15:57:54Z",
-      "latest_at": "2026-07-17T15:57:54Z",
-      "primary_item": {
-        "id": "01c3497dce4036769d3dc0ecb5cd7db5130df1d2",
-        "title": "使用 NVIDIA NeMo Automodel 和🤗 Diffusers 大规模微调视频和图像模型 / Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
-        "title_zh": "使用 NVIDIA NeMo Automodel 和🤗 Diffusers 大规模微调视频和图像模型",
-        "title_en": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
-        "title_original": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-18T15:14:45.882710Z"
+        "scored_at": "2026-07-18T16:11:03.580646Z"
       }
     },
     {
@@ -297,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8125,
-      "importance": 0.8125,
-      "importance_score": 0.8125,
+      "score": 0.8106,
+      "importance": 0.8106,
+      "importance_score": 0.8106,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7808,
+        "recency": 0.7702,
         "story_heat": 0.0
       },
       "category": "official",
@@ -332,7 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-18T15:14:45.882710Z"
+        "scored_at": "2026-07-18T16:11:03.580646Z"
       }
     },
     {
@@ -409,15 +326,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7535,
-      "importance": 0.7535,
-      "importance_score": 0.7535,
+      "score": 0.7517,
+      "importance": 0.7517,
+      "importance_score": 0.7517,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7328,
+        "recency": 0.7228,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -444,7 +361,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-18T15:14:45.882710Z"
+        "scored_at": "2026-07-18T16:11:03.580646Z"
       }
     },
     {
@@ -492,15 +409,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8125,
-      "importance": 0.8125,
-      "importance_score": 0.8125,
+      "score": 0.8106,
+      "importance": 0.8106,
+      "importance_score": 0.8106,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7808,
+        "recency": 0.7702,
         "story_heat": 0.0
       },
       "category": "official",
@@ -527,7 +444,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-18T15:14:45.882710Z"
+        "scored_at": "2026-07-18T16:11:03.580646Z"
       }
     },
     {
@@ -575,15 +492,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7464,
-      "importance": 0.7464,
-      "importance_score": 0.7464,
+      "score": 0.7446,
+      "importance": 0.7446,
+      "importance_score": 0.7446,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7323,
+        "recency": 0.7223,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -608,7 +525,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-18T15:14:45.882710Z"
+        "scored_at": "2026-07-18T16:11:03.580646Z"
       }
     },
     {
@@ -656,15 +573,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7364,
-      "importance": 0.7364,
-      "importance_score": 0.7364,
+      "score": 0.7343,
+      "importance": 0.7343,
+      "importance_score": 0.7343,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8602,
+        "recency": 0.8485,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -689,7 +606,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-18T15:14:45.882710Z"
+        "scored_at": "2026-07-18T16:11:03.580646Z"
       }
     },
     {
@@ -737,15 +654,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7354,
-      "importance": 0.7354,
-      "importance_score": 0.7354,
+      "score": 0.7336,
+      "importance": 0.7336,
+      "importance_score": 0.7336,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.721,
+        "recency": 0.7112,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -770,7 +687,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-18T15:14:45.882710Z"
+        "scored_at": "2026-07-18T16:11:03.580646Z"
       }
     },
     {
@@ -818,15 +735,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7305,
-      "importance": 0.7305,
-      "importance_score": 0.7305,
+      "score": 0.7288,
+      "importance": 0.7288,
+      "importance_score": 0.7288,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7275,
+        "recency": 0.7176,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -851,7 +768,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-18T15:14:45.882710Z"
+        "scored_at": "2026-07-18T16:11:03.580646Z"
       }
     },
     {
@@ -899,15 +816,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8106,
-      "importance": 0.8106,
-      "importance_score": 0.8106,
+      "score": 0.8088,
+      "importance": 0.8088,
+      "importance_score": 0.8088,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7702,
+        "recency": 0.7598,
         "story_heat": 0.0
       },
       "category": "official",
@@ -934,7 +851,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-18T15:14:45.882710Z"
+        "scored_at": "2026-07-18T16:11:03.580646Z"
       }
     },
     {
@@ -988,7 +905,7 @@
           "published_at": "2026-07-18T11:06:50Z"
         },
         {
-          "id": "eae0e898a12136e2de72dcc84d0b1d13ea4bd521",
+          "id": "d81130d206697b0f1421fc4256e14b87d6a1f066",
           "title": "为什么人工智能公司的标志看起来像肛门？ / Why do AI company logos look like buttholes? (2025)",
           "title_zh": "为什么人工智能公司的标志看起来像肛门？",
           "title_en": "Why do AI company logos look like buttholes? (2025)",
@@ -996,16 +913,16 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-18T11:06:50Z"
         }
       ],
       "source_count": 4,
       "source_names": [
         "Hacker News",
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews",
         "velvetshark.com"
       ],
@@ -1053,7 +970,7 @@
           "published_at": "2026-07-18T11:06:50Z"
         },
         {
-          "id": "eae0e898a12136e2de72dcc84d0b1d13ea4bd521",
+          "id": "d81130d206697b0f1421fc4256e14b87d6a1f066",
           "title": "为什么人工智能公司的标志看起来像肛门？ / Why do AI company logos look like buttholes? (2025)",
           "title_zh": "为什么人工智能公司的标志看起来像肛门？",
           "title_en": "Why do AI company logos look like buttholes? (2025)",
@@ -1061,23 +978,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-18T11:06:50Z"
         }
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5912,
-      "importance": 0.5912,
-      "importance_score": 0.5912,
+      "score": 0.5888,
+      "importance": 0.5888,
+      "importance_score": 0.5888,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9745,
+        "recency": 0.9613,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1102,7 +1019,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-18T15:14:45.882710Z"
+        "scored_at": "2026-07-18T16:11:03.580646Z"
       }
     },
     {
@@ -1208,15 +1125,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5705,
-      "importance": 0.5705,
-      "importance_score": 0.5705,
+      "score": 0.568,
+      "importance": 0.568,
+      "importance_score": 0.568,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9981,
+        "recency": 0.9846,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1241,7 +1158,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-18T15:14:45.882710Z"
+        "scored_at": "2026-07-18T16:11:03.580646Z"
       }
     },
     {
@@ -1347,15 +1264,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5684,
-      "importance": 0.5684,
-      "importance_score": 0.5684,
+      "score": 0.566,
+      "importance": 0.566,
+      "importance_score": 0.566,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9867,
+        "recency": 0.9733,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1380,7 +1297,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-18T15:14:45.882710Z"
+        "scored_at": "2026-07-18T16:11:03.580646Z"
       }
     },
     {
@@ -1486,15 +1403,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5663,
-      "importance": 0.5663,
-      "importance_score": 0.5663,
+      "score": 0.564,
+      "importance": 0.564,
+      "importance_score": 0.564,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9753,
+        "recency": 0.962,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1519,7 +1436,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-18T15:14:45.882710Z"
+        "scored_at": "2026-07-18T16:11:03.580646Z"
       }
     },
     {
@@ -1625,15 +1542,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5345,
-      "importance": 0.5345,
-      "importance_score": 0.5345,
+      "score": 0.5326,
+      "importance": 0.5326,
+      "importance_score": 0.5326,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7984,
+        "recency": 0.7876,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1658,7 +1575,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-18T15:14:45.882710Z"
+        "scored_at": "2026-07-18T16:11:03.580646Z"
       }
     },
     {
@@ -1735,15 +1652,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4956,
-      "importance": 0.4956,
-      "importance_score": 0.4956,
+      "score": 0.4938,
+      "importance": 0.4938,
+      "importance_score": 0.4938,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7209,
+        "recency": 0.7112,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1768,7 +1685,7 @@
       "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-18T15:14:45.882710Z"
+        "scored_at": "2026-07-18T16:11:03.580646Z"
       }
     }
   ]
