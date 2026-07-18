@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T00:10:09.835046Z",
+  "generated_at": "2026-07-18T03:17:46.055262Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
@@ -11,37 +11,49 @@
       "date": "2026-07-17",
       "title": "提示词越写越长，AI还是做不对？老金开源造Skill的Skill",
       "summary": "提示词越写越长，AI 还是做不对？老金这篇文章戳中了很多 AI 重度用户的痛点：我们总以为多补几条规则，就能让 AI 更听话，结果只养出一份越来越厚的“祖传提示词”。老金开源的 Meta Skill Creator，更像是在帮你先踩刹车——先想清楚谁来用、交付什么、怎样才算可用。快来试试效果如何！",
-      "url": "https://waytoagi.feishu.cn/wiki/VsaZwHsVGiI4ynkIGeXcGu6jnac?from=from_copylink"
+      "url": "https://waytoagi.feishu.cn/wiki/VsaZwHsVGiI4ynkIGeXcGu6jnac?from=from_copylink",
+      "title_ja": "プロンプトの言葉はどんどん長くなっていきますが、AI はまだ正しく理解できませんか? Laojin のオープンソースがスキルのスキルを作成",
+      "summary_ja": "プロンプトの言葉はどんどん長くなっていきますが、AI はまだ正しく理解できませんか? Lao Jin によるこの記事は、多くの AI ヘビー ユーザーの悩みの種を突いています。私たちはルールをもう少し追加すれば AI がより従順になると常に考えていますが、最終的には「祖先のプロンプト ワード」がますます分厚くなってしまうだけです。 Laojin のオープンソース Meta Skill Creator は、最初にブレーキをかけるのを支援するようなものです。まず、誰が使用するか、何を提供するか、どのように使用できるかを考えます。ぜひ試してみてください！"
     },
     {
       "date": "2026-07-17",
       "title": "从功能清单到执行链路：AI 时代 PRD 的写法变了",
       "summary": "以前写PRD，很多人习惯列功能、写流程、补几句Prompt；但到了AI 功能里，这套明显不够用了。阿昆这篇文章讲得很实在：AI PRD真正要写清楚的，不是“让 AI 干什么”这么简单，而是它在哪一步介入、需要什么输入、输出怎么验、错了谁接手、边界在哪里。",
-      "url": "https://waytoagi.feishu.cn/wiki/Ajq7wnMsgiz69tkkOAycgKNwnAd?from=from_copylink"
+      "url": "https://waytoagi.feishu.cn/wiki/Ajq7wnMsgiz69tkkOAycgKNwnAd?from=from_copylink",
+      "title_ja": "関数リストから実行リンクまで：AI時代に変わったPRDの書き方",
+      "summary_ja": "以前は、PRD を作成するとき、多くの人が関数をリストし、プロセスを作成し、いくつかのプロンプトを追加することに慣れていました。しかし、AI 機能に関しては、この一連のメソッドだけでは明らかに十分ではありません。 Akun の記事は非常に実践的です。AI PRD で本当に明確に記述する必要があるのは、「AI に何をさせるか」という単純なものではなく、AI がどのステップで介入するか、どのような入力が必要か、出力がどのように検証されるか、間違いがあった場合に誰が引き継ぐか、そして境界はどこにあるのかということです。"
     },
     {
       "date": "2026-07-17",
       "title": "一文讲透Skill",
       "summary": "这篇文章把 Agent 和 Skill 的关系讲得很透：Agent像大脑，负责规划、判断和纠错；Skill像手脚，负责搜索、算数据、发邮件、生成文档。除此之外，还把Skill什么时候该调用、怎么选、怎么写描述、怎么防安全坑，以及一个早报Skill的落地思路串了起来。",
-      "url": "https://waytoagi.feishu.cn/wiki/FIK0wkpdjiOOn0kvjXmcNSROnTc?from=from_copylink"
+      "url": "https://waytoagi.feishu.cn/wiki/FIK0wkpdjiOOn0kvjXmcNSROnTc?from=from_copylink",
+      "title_ja": "スキルを1記事で徹底解説",
+      "summary_ja": "この記事では、エージェントとスキルの関係について徹底的に説明します。エージェントは脳のようなもので、計画、判断、エラー修正を担当します。スキルは手足のようなもので、検索、データの計算、メールの送信、ドキュメントの生成を担当します。さらに、スキルを呼び出すタイミング、その選択方法、説明の書き方、セキュリティ ピットを防ぐ方法、スキルの実装に関する朝のレポートもまとめられています。"
     },
     {
       "date": "2026-07-17",
       "title": "Claude Code是怎么设计出来的：下一代设计师负责什么丨Dive Club",
       "summary": "Claude Code 的设计负责人Meaghan Choi在 Dive Club 的这次对话里谈到的，不只是按钮、页面或视觉风格，而是一套正在成形的新工作方法：怎样设计没有传统界面的产品，怎样让 AI 从执行工具变成组织成员，以及当做东西越来越容易时，设计师该把判断力用在哪里。 Claude Code 的设计过程，也许正提前揭示了下一代设计工作的边界。",
-      "url": "https://waytoagi.feishu.cn/wiki/JPQIwGmEYiQP7HkCM3cc09NEnzc?from=from_copylink"
+      "url": "https://waytoagi.feishu.cn/wiki/JPQIwGmEYiQP7HkCM3cc09NEnzc?from=from_copylink",
+      "title_ja": "Claude Code はどのように設計されたか: 次世代の設計者は何を担当しますか?ダイブクラブ",
+      "summary_ja": "Dive Club でのこの会話では、Claude Code のデザイン責任者である Meaghan Choi が、ボタン、ページ、またはビジュアル スタイルだけでなく、形になりつつある一連の新しい作業方法について話します。これには、従来のインターフェイスを使用せずに製品をデザインする方法、AI を実行ツールから組織のメンバーに変える方法、ものづくりが容易になるためにデザイナーが判断を下すべき場所が含まれます。クロード・コードのデザインプロセスは、次世代のデザイン作業の境界を事前に明らかにしている可能性があります。"
     },
     {
       "date": "2026-07-17",
       "title": "Cerebras 如何构建内部知识库",
       "summary": "别再幻想把公司知识都搬进一个“唯一真相库”了，Cerebras 的做法更现实：让信息继续待在 Slack、代码仓库、文档、Jira 这些它本来就会出现的地方，然后用一套知识检索系统把它们串起来。上线3个月后，这个内部知识库每天被问 15000+ 次，员工、自动化流程和 Agent 都在用。这篇文章拆解了这个知识库到底是怎么做的：Slack线程怎么蒸馏、代码仓库怎么向量化、全文检索和向量检索怎么混合、结果怎么重排序、MCP又怎么让Agent 直接调用这些能力。",
-      "url": "https://waytoagi.feishu.cn/wiki/DQKTw3XAyi3rKekevihcjoPYnEf?from=from_copylink"
+      "url": "https://waytoagi.feishu.cn/wiki/DQKTw3XAyi3rKekevihcjoPYnEf?from=from_copylink",
+      "title_ja": "Cerebras が内部知識ベースを構築する方法",
+      "summary_ja": "社内のすべての知識を「単一の真実のライブラリ」に移すという空想はやめましょう。 Cerebras のアプローチはより現実的です。Slack、コード ウェアハウス、ドキュメント、Jira など、情報が表示されるはずの場所に情報を保持し続け、ナレッジ検索システムを使用してそれらをつなぎ合わせます。オンラインになってから 3 か月後、この社内ナレッジ ベースには 1 日あたり 15,000 回以上の問い合わせがあり、従業員、自動化プロセス、およびエージェントによって使用されました。この記事では、このナレッジ ベースの作成方法、つまり Slack スレッドがどのように抽出されるか、コード ウェアハウスがどのようにベクトル化されるか、全文検索とベクトル検索がどのように混合されるか、結果がどのように並べ替えられるか、MCP によってエージェントがこれらの機能をどのように直接呼び出せるかについて詳しく説明します。"
     },
     {
       "date": "2026-07-17",
       "title": "Anthropic 工程师代码产出提升 8 倍：背后的上下文工程系统",
       "summary": "如果你还在反复改prompt，却发现Claude总是猜错需求、改错文件、产出不稳，这篇文章很值得看。作者把Anthropic工程师代码产出提升8倍的关键拆解了下：真正拉开差距的不是模型变强，而是“上下文工程”。从 AGENTS.md、项目记忆、任务状态，到MCP接入 GitHub、Linear、Slack、Sentry，完整剖析了如何把 AI 从“靠猜的助手”，变成“带着完整信息干活的工程伙伴”。",
-      "url": "https://waytoagi.feishu.cn/wiki/TWsGw8rEficV83kWS5qciK1Qnng?from=from_copylink"
+      "url": "https://waytoagi.feishu.cn/wiki/TWsGw8rEficV83kWS5qciK1Qnng?from=from_copylink",
+      "title_ja": "人間的エンジニアのコード出力は 8 倍に増加: その背後にあるコンテキスト エンジニアリング システム",
+      "summary_ja": "プロンプトを繰り返し変更しているにもかかわらず、クロードが常に間違った要件を推測し、間違ったファイルを修正し、出力が不安定であることが判明した場合は、この記事を読む価値があります。著者は、Anthropic エンジニアのコード出力を 8 倍に増やす鍵を分析します。本当に差を広げるのは、モデルが強化されることではなく、「コンテキスト エンジニアリング」です。 AGENTS.md、プロジェクト メモリ、タスク ステータスから、GitHub、Linear、Slack、Sentry への MCP アクセスまで、AI を「推測に基づくアシスタント」から「完全な情報を扱うエンジニアリング パートナー」に変える方法についての完全な分析を提供します。"
     }
   ],
   "count_7d": 35,
@@ -50,211 +62,281 @@
       "date": "2026-07-17",
       "title": "提示词越写越长，AI还是做不对？老金开源造Skill的Skill",
       "summary": "提示词越写越长，AI 还是做不对？老金这篇文章戳中了很多 AI 重度用户的痛点：我们总以为多补几条规则，就能让 AI 更听话，结果只养出一份越来越厚的“祖传提示词”。老金开源的 Meta Skill Creator，更像是在帮你先踩刹车——先想清楚谁来用、交付什么、怎样才算可用。快来试试效果如何！",
-      "url": "https://waytoagi.feishu.cn/wiki/VsaZwHsVGiI4ynkIGeXcGu6jnac?from=from_copylink"
+      "url": "https://waytoagi.feishu.cn/wiki/VsaZwHsVGiI4ynkIGeXcGu6jnac?from=from_copylink",
+      "title_ja": "プロンプトの言葉はどんどん長くなっていきますが、AI はまだ正しく理解できませんか? Laojin のオープンソースがスキルのスキルを作成",
+      "summary_ja": "プロンプトの言葉はどんどん長くなっていきますが、AI はまだ正しく理解できませんか? Lao Jin によるこの記事は、多くの AI ヘビー ユーザーの悩みの種を突いています。私たちはルールをもう少し追加すれば AI がより従順になると常に考えていますが、最終的には「祖先のプロンプト ワード」がますます分厚くなってしまうだけです。 Laojin のオープンソース Meta Skill Creator は、最初にブレーキをかけるのを支援するようなものです。まず、誰が使用するか、何を提供するか、どのように使用できるかを考えます。ぜひ試してみてください！"
     },
     {
       "date": "2026-07-17",
       "title": "从功能清单到执行链路：AI 时代 PRD 的写法变了",
       "summary": "以前写PRD，很多人习惯列功能、写流程、补几句Prompt；但到了AI 功能里，这套明显不够用了。阿昆这篇文章讲得很实在：AI PRD真正要写清楚的，不是“让 AI 干什么”这么简单，而是它在哪一步介入、需要什么输入、输出怎么验、错了谁接手、边界在哪里。",
-      "url": "https://waytoagi.feishu.cn/wiki/Ajq7wnMsgiz69tkkOAycgKNwnAd?from=from_copylink"
+      "url": "https://waytoagi.feishu.cn/wiki/Ajq7wnMsgiz69tkkOAycgKNwnAd?from=from_copylink",
+      "title_ja": "関数リストから実行リンクまで：AI時代に変わったPRDの書き方",
+      "summary_ja": "以前は、PRD を作成するとき、多くの人が関数をリストし、プロセスを作成し、いくつかのプロンプトを追加することに慣れていました。しかし、AI 機能に関しては、この一連のメソッドだけでは明らかに十分ではありません。 Akun の記事は非常に実践的です。AI PRD で本当に明確に記述する必要があるのは、「AI に何をさせるか」という単純なものではなく、AI がどのステップで介入するか、どのような入力が必要か、出力がどのように検証されるか、間違いがあった場合に誰が引き継ぐか、そして境界はどこにあるのかということです。"
     },
     {
       "date": "2026-07-17",
       "title": "一文讲透Skill",
       "summary": "这篇文章把 Agent 和 Skill 的关系讲得很透：Agent像大脑，负责规划、判断和纠错；Skill像手脚，负责搜索、算数据、发邮件、生成文档。除此之外，还把Skill什么时候该调用、怎么选、怎么写描述、怎么防安全坑，以及一个早报Skill的落地思路串了起来。",
-      "url": "https://waytoagi.feishu.cn/wiki/FIK0wkpdjiOOn0kvjXmcNSROnTc?from=from_copylink"
+      "url": "https://waytoagi.feishu.cn/wiki/FIK0wkpdjiOOn0kvjXmcNSROnTc?from=from_copylink",
+      "title_ja": "スキルを1記事で徹底解説",
+      "summary_ja": "この記事では、エージェントとスキルの関係について徹底的に説明します。エージェントは脳のようなもので、計画、判断、エラー修正を担当します。スキルは手足のようなもので、検索、データの計算、メールの送信、ドキュメントの生成を担当します。さらに、スキルを呼び出すタイミング、その選択方法、説明の書き方、セキュリティ ピットを防ぐ方法、スキルの実装に関する朝のレポートもまとめられています。"
     },
     {
       "date": "2026-07-17",
       "title": "Claude Code是怎么设计出来的：下一代设计师负责什么丨Dive Club",
       "summary": "Claude Code 的设计负责人Meaghan Choi在 Dive Club 的这次对话里谈到的，不只是按钮、页面或视觉风格，而是一套正在成形的新工作方法：怎样设计没有传统界面的产品，怎样让 AI 从执行工具变成组织成员，以及当做东西越来越容易时，设计师该把判断力用在哪里。 Claude Code 的设计过程，也许正提前揭示了下一代设计工作的边界。",
-      "url": "https://waytoagi.feishu.cn/wiki/JPQIwGmEYiQP7HkCM3cc09NEnzc?from=from_copylink"
+      "url": "https://waytoagi.feishu.cn/wiki/JPQIwGmEYiQP7HkCM3cc09NEnzc?from=from_copylink",
+      "title_ja": "Claude Code はどのように設計されたか: 次世代の設計者は何を担当しますか?ダイブクラブ",
+      "summary_ja": "Dive Club でのこの会話では、Claude Code のデザイン責任者である Meaghan Choi が、ボタン、ページ、またはビジュアル スタイルだけでなく、形になりつつある一連の新しい作業方法について話します。これには、従来のインターフェイスを使用せずに製品をデザインする方法、AI を実行ツールから組織のメンバーに変える方法、ものづくりが容易になるためにデザイナーが判断を下すべき場所が含まれます。クロード・コードのデザインプロセスは、次世代のデザイン作業の境界を事前に明らかにしている可能性があります。"
     },
     {
       "date": "2026-07-17",
       "title": "Cerebras 如何构建内部知识库",
       "summary": "别再幻想把公司知识都搬进一个“唯一真相库”了，Cerebras 的做法更现实：让信息继续待在 Slack、代码仓库、文档、Jira 这些它本来就会出现的地方，然后用一套知识检索系统把它们串起来。上线3个月后，这个内部知识库每天被问 15000+ 次，员工、自动化流程和 Agent 都在用。这篇文章拆解了这个知识库到底是怎么做的：Slack线程怎么蒸馏、代码仓库怎么向量化、全文检索和向量检索怎么混合、结果怎么重排序、MCP又怎么让Agent 直接调用这些能力。",
-      "url": "https://waytoagi.feishu.cn/wiki/DQKTw3XAyi3rKekevihcjoPYnEf?from=from_copylink"
+      "url": "https://waytoagi.feishu.cn/wiki/DQKTw3XAyi3rKekevihcjoPYnEf?from=from_copylink",
+      "title_ja": "Cerebras が内部知識ベースを構築する方法",
+      "summary_ja": "社内のすべての知識を「単一の真実のライブラリ」に移すという空想はやめましょう。 Cerebras のアプローチはより現実的です。Slack、コード ウェアハウス、ドキュメント、Jira など、情報が表示されるはずの場所に情報を保持し続け、ナレッジ検索システムを使用してそれらをつなぎ合わせます。オンラインになってから 3 か月後、この社内ナレッジ ベースには 1 日あたり 15,000 回以上の問い合わせがあり、従業員、自動化プロセス、およびエージェントによって使用されました。この記事では、このナレッジ ベースの作成方法、つまり Slack スレッドがどのように抽出されるか、コード ウェアハウスがどのようにベクトル化されるか、全文検索とベクトル検索がどのように混合されるか、結果がどのように並べ替えられるか、MCP によってエージェントがこれらの機能をどのように直接呼び出せるかについて詳しく説明します。"
     },
     {
       "date": "2026-07-17",
       "title": "Anthropic 工程师代码产出提升 8 倍：背后的上下文工程系统",
       "summary": "如果你还在反复改prompt，却发现Claude总是猜错需求、改错文件、产出不稳，这篇文章很值得看。作者把Anthropic工程师代码产出提升8倍的关键拆解了下：真正拉开差距的不是模型变强，而是“上下文工程”。从 AGENTS.md、项目记忆、任务状态，到MCP接入 GitHub、Linear、Slack、Sentry，完整剖析了如何把 AI 从“靠猜的助手”，变成“带着完整信息干活的工程伙伴”。",
-      "url": "https://waytoagi.feishu.cn/wiki/TWsGw8rEficV83kWS5qciK1Qnng?from=from_copylink"
+      "url": "https://waytoagi.feishu.cn/wiki/TWsGw8rEficV83kWS5qciK1Qnng?from=from_copylink",
+      "title_ja": "人間的エンジニアのコード出力は 8 倍に増加: その背後にあるコンテキスト エンジニアリング システム",
+      "summary_ja": "プロンプトを繰り返し変更しているにもかかわらず、クロードが常に間違った要件を推測し、間違ったファイルを修正し、出力が不安定であることが判明した場合は、この記事を読む価値があります。著者は、Anthropic エンジニアのコード出力を 8 倍に増やす鍵を分析します。本当に差を広げるのは、モデルが強化されることではなく、「コンテキスト エンジニアリング」です。 AGENTS.md、プロジェクト メモリ、タスク ステータスから、GitHub、Linear、Slack、Sentry への MCP アクセスまで、AI を「推測に基づくアシスタント」から「完全な情報を扱うエンジニアリング パートナー」に変える方法についての完全な分析を提供します。"
     },
     {
       "date": "2026-07-16",
       "title": "蒸馏645篇文章，开源了这个公众号标题Skill！告别流量焦虑～",
       "summary": "写公众号最头疼的，往往不是正文，而是标题：太平没人点，太猛又像标题党。刘聪开源了一个“公众号标题 Skill”，用645篇历史文章蒸馏出不同内容类型的标题套路，能按稳健准确、网感点击、专业权威、长期价值等方向生成候选标题，还会顺手标出标题党、术语堆砌、证据不足等等风险。很适合在发布文章之前帮你打开思路，少一点标题焦虑。",
-      "url": "https://waytoagi.feishu.cn/wiki/AZhkwAzDZi2JcIkK1TZcdgegnub?from=from_copylink"
+      "url": "https://waytoagi.feishu.cn/wiki/AZhkwAzDZi2JcIkK1TZcdgegnub?from=from_copylink",
+      "title_ja": "645 の記事を抽出し、この公開アカウントのタイトルをオープンソース化しました。 Skill!交通不安にさようなら~",
+      "summary_ja": "公開アカウントを書く際に最も厄介なことは、多くの場合、本文ではなくタイトルです。平和的すぎて誰も好まないし、攻撃的すぎてクリックベイトのようです。 Liu Cong は、645 件の歴史記事を使用して、さまざまなコンテンツ タイプのタイトル ルーチンを抽出する「パブリック アカウント タイトル スキル」をオープンソース化しました。堅牢性と正確性、オンラインでのクリック数、専門的な権威、長期的な価値などに基づいてタイトルの候補を生成できます。また、誤解を招く見出し、用語、不十分な証拠などのリスクを簡単に特定することもできます。記事を公開する前に心を開いて、タイトルに対する不安を軽減するのに非常に適しています。"
     },
     {
       "date": "2026-07-16",
       "title": "我做了 200+ 次用户访谈，只有这 5 个问题是真正有用的",
       "summary": "很多团队做用户访谈，问了一堆“你觉得怎么样”“你愿意付费吗”，最后得到的却只是礼貌性答案。这篇文章把200+次访谈里真正有用的方法拎了出来：别问用户未来会不会用，要追问他上一次怎么解决、哪里最痛、花了多少时间或钱，最好直接看他现场操作。对做产品、出海、增长的人来说，这可以帮你让每一场用户对话都能落地指导产品迭代与定价。",
-      "url": "https://waytoagi.feishu.cn/wiki/VxGFwipzNi4PJpksbZgc8AlQn6e?from=from_copylink"
+      "url": "https://waytoagi.feishu.cn/wiki/VxGFwipzNi4PJpksbZgc8AlQn6e?from=from_copylink",
+      "title_ja": "私は 200 以上のユーザーインタビューを行ってきましたが、本当に役に立ったのは次の 5 つの質問だけでした",
+      "summary_ja": "多くのチームはユーザーインタビューを実施し、「どう思いますか」「お金を払う気はありますか」とたくさん質問しますが、最終的には丁寧な答えしか得られません。この記事では、200 件以上のインタビューから本当に役立つ方法を導き出します。ユーザーに今後も使用するかどうかを尋ねるのではなく、前回どのように解決したか、最も苦労した部分は何か、どれくらいの時間とお金を費やしたかを尋ねてください。現場で直接操作するのを見るのが一番です。製品を開発し、グローバルに展開し、成長している人々にとって、これはユーザーのあらゆる会話を関連性のあるものにし、製品のイテレーションと価格設定の指針となるのに役立ちます。"
     },
     {
       "date": "2026-07-16",
       "title": "WAIC即将开幕！全城Side Events打开小程序随时查",
       "summary": "期待已久的 WAIC 明天就要正式开幕了！前两天，我们发布了为 逛WAIC 整理的两个网站：参访指南： waic-guide.waytoagi.com、Side Events 聚合站： waic.waytoagi.com。为了更方便大家用， 我们的WAIC Side Events小程序也正式上线了！不用记链接，打开一次后，就会自动进入「微信小程序-最近使用」。和网址功能类似，你可以查看活动详情 （包括主题、时间、地址等）、一键复制报名链接，也可以查看票券、通知 。",
-      "url": "https://waytoagi.feishu.cn/wiki/Qq2UwaU9TiizRHkrFQEcB1SKnvG?from=from_copylink"
+      "url": "https://waytoagi.feishu.cn/wiki/Qq2UwaU9TiizRHkrFQEcB1SKnvG?from=from_copylink",
+      "title_ja": "WAICがもうすぐオープンします！市全体のサイドイベント。ミニプログラムを開いて、いつでもチェックしてください",
+      "summary_ja": "明日、待望のWAICが正式オープンします！ 2 日前、私たちは WAIC 訪問用に編集された 2 つの Web サイトをリリースしました。訪問者ガイド: waic-guide.waytoagi.com、サイドイベント集約サイト: waic.waytoagi.com。皆様がより便利にご利用いただけるよう、WAIC Side Events アプレットも正式にリリースされました。リンクを覚えておく必要はありません。これを開くと、自動的に「WeChat ミニ プログラム - 最近使用したプログラム」が表示されます。 Web サイトの機能と同様に、イベントの詳細 (テーマ、時間、アドレスなど) を表示し、ワンクリックで登録リンクをコピーし、チケットと通知を表示できます。"
     },
     {
       "date": "2026-07-16",
       "title": "Kimi K3：智能的新前沿",
       "summary": "Kimi K3 正式发布，它是一个2.8万亿参数模型，原生支持视觉理解，并拥有100万token上下文窗口。它主要面向长程编程、知识工作和推理等前沿智能场景而设计。 即日起，可通过kimi.com 、最新版Kimi 手机App 、最新版Kimi Work桌面客户端、Kimi Code和 Kimi API 来使用。",
-      "url": "https://waytoagi.feishu.cn/wiki/FIHmwbZtZi9G5okmHjkc6nJLnUd?from=from_copylink"
+      "url": "https://waytoagi.feishu.cn/wiki/FIHmwbZtZi9G5okmHjkc6nJLnUd?from=from_copylink",
+      "title_ja": "キミ K3: インテリジェンスの新たなフロンティア",
+      "summary_ja": "キミK3が正式リリースされました。これは 2.8 兆のパラメーター モデルで、視覚的な理解をネイティブにサポートし、100 万のトークン コンテキスト ウィンドウを備えています。主に、長距離プログラミング、知識作業、推論などの最先端のインテリジェントなシナリオ向けに設計されています。今後は、kimi.com、KIMIモバイルアプリの最新バージョン、KIMI Workデスクトップクライアントの最新バージョン、KIMIコード、KIMI APIを通じて使用できるようになります。"
     },
     {
       "date": "2026-07-16",
       "title": "Granola创始人：一家15亿美元AI公司，押注下一代工作方式丨Every",
       "summary": "这一期访谈的嘉宾是Granola联合创始人兼 CEO Chris Pedregal，Granola 因AI会议记录出圈，公司估值也已到15亿美元量级。这场对话最有价值的是Chris如何看待下一代工作软件：当会议、邮件、Slack 和代理都变成上下文的一部分，产品真正要争的，可能不再是“帮你记笔记”，而是成为人和 AI 协作时最可靠的工作入口。",
-      "url": "https://waytoagi.feishu.cn/wiki/BapowcCCciHb7pkEglUcaXD1nCd?from=from_copylink"
+      "url": "https://waytoagi.feishu.cn/wiki/BapowcCCciHb7pkEglUcaXD1nCd?from=from_copylink",
+      "title_ja": "Granola の創設者: 次世代の仕事に賭ける 15 億ドルの AI 企業丨Every",
+      "summary_ja": "このインタビューのゲストは、グラノーラの共同創設者兼 CEO である Chris Pedregal です。 Granola は AI カンファレンスの実績で名を馳せており、その企業評価額は 15 億米ドルのレベルに達しています。この会話で最も価値のあることは、クリスが次世代の業務ソフトウェアをどのように見ているかということです。会議、電子メール、Slack、エージェントがすべてコンテキストの一部になると、製品の本当の競争はもはや「メモを取るのを助ける」ことではなく、人と AI がコラボレーションする際に最も信頼できる仕事の入り口になることになるかもしれません。"
     },
     {
       "date": "2026-07-16",
       "title": "2026 年如何打造多模型 AI 团队",
       "summary": "你是不是也在 Claude、ChatGPT、Gemini之间来回横跳，每换一个工具就要重新解释一遍背景？这篇文章聊的就是这个高频痛点：AI 工具越来越强，但记忆还是割裂的，最后人变成了“搬运上下文的 API”。文章分享了一个跨模型记忆工具：Unibase Memory，可以把有价值的对话、网页和项目上下文保存成可搜索、可注入的记忆，让不同AI接着彼此的工作继续干活。",
-      "url": "https://waytoagi.feishu.cn/wiki/ZARMwiAr8iymVAkOEjncZlgZnhg?from=from_copylink"
+      "url": "https://waytoagi.feishu.cn/wiki/ZARMwiAr8iymVAkOEjncZlgZnhg?from=from_copylink",
+      "title_ja": "2026 年にマルチモデル AI チームを構築する方法",
+      "summary_ja": "また、Claude、ChatGPT、Gemini の間を行ったり来たりして、ツールを変更するたびに背景を再説明する必要がありますか?この記事では、この高周波の問題点について説明します。AI ツールはますます強力になっていますが、メモリは依然として断片化されており、最終的には人々が「コンテキストを運ぶ API」になってしまうのです。この記事では、クロスモデル メモリ ツールである Unibase Memory を共有しています。Unibase Memory は、貴重な会話、Web ページ、プロジェクト コンテキストを検索可能で注入可能なメモリに保存し、異なる AI が相互に作業を継続できるようにします。"
     },
     {
       "date": "2026-07-15",
       "title": "超适合收藏的AI人像生图合集：12种创意玩法一次打包（附提示词）",
       "summary": "今天这篇文章小歪整理了12种AI人像图片创意玩法，做头像、朋友圈配图、旅行记录、表情包都能用。每种都附了完整提示词，可以适用于GPT Image 2、谷歌Nano banana、即梦、豆包、小云雀 等，直接复制抄作业就行。每个案例都只放了效果图，大家使用的时候是需要根据不同场景，上传自己的真人照片的，才能对人像进行魔改。",
-      "url": "https://waytoagi.feishu.cn/wiki/D6GNw7RfFi7qnckOP0lcHVHknee?from=from_copylink"
+      "url": "https://waytoagi.feishu.cn/wiki/D6GNw7RfFi7qnckOP0lcHVHknee?from=from_copylink",
+      "title_ja": "コレクションに最適なAIポートレートコレクション：1つのパッケージで12のクリエイティブな遊び方が可能（セリフ付き）",
+      "summary_ja": "今日の記事で、シャオワイは AI ポートレート写真を使用する 12 の創造的な方法を整理しました。これらの写真は、アバター、友達サークルの写真、旅行記録、絵文字に使用できます。各タイプには完全なプロンプト ワードが付属しており、GPT Image 2、Google Nano バナナ、Jimeng、Doubao、Little Skylark などに適用できます。割り当てを直接コピーするだけです。各ケースにはレンダリングのみが含まれています。これを使用する場合、ポートレートに魔法のような変更を加えるために、さまざまなシナリオに従って自分の実際の写真をアップロードする必要があります。"
     },
     {
       "date": "2026-07-15",
       "title": "用AI做了一个月视频，想跟你分享这套没人讲的心法",
       "summary": "最近刷到不少教 Codex + Remotion 做视频的教程，然后你照着做，发现做出来的东西根本没法发。只有画面没有声音，或者配了音但音画对不上，画面就是一页一页的 PPT 在翻，满屏都是字。关键环节还是整体框架：每一步该做什么、该盯什么、坑在哪。框架对了，剩下的交给AI就行。",
-      "url": "https://waytoagi.feishu.cn/wiki/DRK4waBfIi41B1k2eOLcpDbwnRY?from=from_copylink"
+      "url": "https://waytoagi.feishu.cn/wiki/DRK4waBfIi41B1k2eOLcpDbwnRY?from=from_copylink",
+      "title_ja": "AI を使用して 1 か月間ビデオを作成しました。誰も語らなかったこの一連のアイデアを皆さんと共有したいと思います。",
+      "summary_ja": "最近、Codex + Remotion を使用してビデオを作成する方法に関する多くのチュートリアルを見つけましたが、それに従ってみると、完成した作品をまったく投稿できないことがわかりました。映像のみ音声が出ない、または音声はダビングしても音声と映像が一致しません。この写真は、単語が画面いっぱいに表示された PPT のページをめくるようなものです。重要なリンクは依然として全体的なフレームワークです。つまり、各ステップで何をすべきか、何に焦点を当てるべきか、そして落とし穴はどこにあるのかということです。フレームワークが適切であれば、残りは AI がやってくれます。"
     },
     {
       "date": "2026-07-15",
       "title": "开源TODO Skill，我这三年用AI做知识管理和代办的经验都在这了",
       "summary": "长期囤积素材、苦于选题杂乱排期的内容创作者，卡尔这套开源待办工具不容错过！它可以完美解决素材堆积、重复选题、日程同步等等难题。仅仅设置三类文件夹即可运行，还可以进行个性化改造，快来上手试试。",
-      "url": "https://waytoagi.feishu.cn/wiki/Xy3nwD4YQiXlJhkwxXLcMruZnLb?from=from_copylink"
+      "url": "https://waytoagi.feishu.cn/wiki/Xy3nwD4YQiXlJhkwxXLcMruZnLb?from=from_copylink",
+      "title_ja": "オープンソースの TODO スキル、過去 3 年間にナレッジ マネジメントと代理店業務に AI を使用した私の経験のすべてがここにあります。",
+      "summary_ja": "長い間素材をため込んでおり、トピックの選択やスケジュール設定が煩雑であることに悩まされているコンテンツ クリエイターは、Carl によるこのオープンソースの To-Do ツールを見逃さないでください。資料の蓄積、トピックの繰り返し選択、スケジュールの同期などの問題を完全に解決できます。実行するには 3 種類のフォルダーを設定するだけで済み、カスタマイズも可能です。ぜひ試してみてください。"
     },
     {
       "date": "2026-07-15",
       "title": "宝玉的 字幕转录翻译剪辑 Skill —— BaoCut（仅支持 Mac）",
       "summary": "宝玉最近做了一个字幕转录翻译剪辑 Skill —— BaoCut（仅支持 Mac）。借助这个Agent Skill，可以转录视频、对转录结果识别Speaker、润色（纠正错别字口癖等）、也可以根据转录结果对视频进行简单的剪辑，比如删除口癖、重复等。",
-      "url": "https://waytoagi.feishu.cn/wiki/Fqgjw2i3tijO7ckpQp3cY6Punug?from=from_copylink"
+      "url": "https://waytoagi.feishu.cn/wiki/Fqgjw2i3tijO7ckpQp3cY6Punug?from=from_copylink",
+      "title_ja": "Baoyu の字幕文字起こし、翻訳、編集スキル – BaoCut (Mac のみ)",
+      "summary_ja": "Baoyu は最近、字幕の転写、翻訳、編集スキル - BaoCut (Mac のみ) を作成しました。このエージェント スキルを使用すると、ビデオを文字に起こし、文字起こし結果で発言者を特定し、修正 (タイプミス、アクセントなどを修正) することができます。さらに、アクセントや繰り返しの削除など、文字起こし結果に基づいてビデオに簡単な編集を行うこともできます。"
     },
     {
       "date": "2026-07-15",
       "title": "YC设计负责人：AI 正在重写设计师的工作流丨Y Combinator",
       "summary": "Y Combinator的设计负责人在这期对话里展示了自己最近做的三个项目：用Paxel观察人们如何与编码Agent协作，用Sodazine记录旧金山的城市故事，再用一套新的设计工具为Startup School制作视觉资产。对设计师、产品经理和工程师来说，这里面最值得关注的并不是某个工具的功能，而是设计师开始拥有了一种新的工作姿势：把想法说清楚，把上下文准备好，再为自己造出一组随时可以丢弃的工具。",
-      "url": "https://waytoagi.feishu.cn/wiki/Hkunwur2milsS5kBY0ucmKk9nAc?from=from_copylink"
+      "url": "https://waytoagi.feishu.cn/wiki/Hkunwur2milsS5kBY0ucmKk9nAc?from=from_copylink",
+      "title_ja": null,
+      "summary_ja": null
     },
     {
       "date": "2026-07-14",
       "title": "这套 AI 第二大脑，会让你聪明到像开了挂丨Dan Martell",
       "summary": "很多人每天都在和AI对话，却仍然觉得它不懂自己。新会话一开，项目背景、沟通偏好、过去做过的决定又要重讲一遍。Dan Martell在这期视频里拆解了自己用于管理多家公司和日常事务的AI大脑：把个人资料放进AI能长期读取的文件系统，再用固定结构持续整理。对普通使用者来说，这套方法的价值是：少写重复提示词，让AI获得足够上下文，逐步接手会议整理、信息检索和日常执行。",
-      "url": "https://waytoagi.feishu.cn/wiki/RWnMwferyiTvQpkHT5Cc3y0pnPh?from=from_copylink"
+      "url": "https://waytoagi.feishu.cn/wiki/RWnMwferyiTvQpkHT5Cc3y0pnPh?from=from_copylink",
+      "title_ja": null,
+      "summary_ja": null
     },
     {
       "date": "2026-07-14",
       "title": "我用 Codex + Remotion，做了一条唐朝纸片分层动画",
       "summary": "很多人做“纸片风视频”，只是把一张完整图片放大、缩小，再加一点镜头移动。这样能动，但没有层次。真正的纸片分层动画，核心不是生成一张漂亮的图，而是把背景、建筑、主角、配角和前景分别做成独立素材，再让每一层按照不同节奏运动。这篇教程作者以自己做的唐朝视频为例，把完整操作流程拆开讲清楚。",
-      "url": "https://waytoagi.feishu.cn/wiki/PDZtwSjt2iycuok37Ptckjgbnnd?from=from_copylink"
+      "url": "https://waytoagi.feishu.cn/wiki/PDZtwSjt2iycuok37Ptckjgbnnd?from=from_copylink",
+      "title_ja": null,
+      "summary_ja": null
     },
     {
       "date": "2026-07-14",
       "title": "如何让飞书真正替你干活？「AI绝活大会」干货替你整理好了",
       "summary": "上周末，400 多位朋友聚到杭州，参加了飞书的 「AI 绝活大会」 。这次活动非常丰富， 第一天是创作者小聚，人人都来动手 vibe coding，现场诞生了 23 个绝活；第二天将近300人分组动手， 90 分钟搓出来了 35 个作品。我们整理了AJ、飞书开放平台产品经理-牛晶泾、张咋啦三场分享的完整内容，快来看看！",
-      "url": "https://waytoagi.feishu.cn/wiki/GWNFwicAlioA6gkJwNxcVgqJnLf?from=from_copylink"
+      "url": "https://waytoagi.feishu.cn/wiki/GWNFwicAlioA6gkJwNxcVgqJnLf?from=from_copylink",
+      "title_ja": null,
+      "summary_ja": null
     },
     {
       "date": "2026-07-14",
       "title": "RAG：从前世今生到技术全景",
       "summary": "这篇文章把RAG从头到尾讲透。它从哪儿来，这几年怎么一步步变的，技术上到底怎么转起来，怎么自己动手搭一个最小的，怎么判断它好不好，以及在2026年这个上下文窗口动辄上百万、智能体满天飞的时候，它还值不值得你投入。",
-      "url": "https://waytoagi.feishu.cn/wiki/LR6bwQwu3i1mCIkqd5vc1qHUnSc?from=from_copylink"
+      "url": "https://waytoagi.feishu.cn/wiki/LR6bwQwu3i1mCIkqd5vc1qHUnSc?from=from_copylink",
+      "title_ja": null,
+      "summary_ja": null
     },
     {
       "date": "2026-07-14",
       "title": "3个半月，从入驻X、组织GEO大会，到GitHub Star 10000+的全记录",
       "summary": "姚金刚这篇个人复盘记录了105天的完整成长轨迹，用实打实的数据展现了 AI 赋能下的内容与开源成果。从入驻 X、组织 GEO 大会，到连续开源 GEOFlow、TokHub、Meta Skill 等项目，他把想法验证、产品开发、发布反馈的周期大幅压缩。这篇文章记录的，就是这三个半月里，他做了什么、为什么做，以及在这个过程中得到的一些判断。",
-      "url": "https://waytoagi.feishu.cn/wiki/TmRaw01ZkiA5BQksjaPcpvLrnxb?from=from_copylink"
+      "url": "https://waytoagi.feishu.cn/wiki/TmRaw01ZkiA5BQksjaPcpvLrnxb?from=from_copylink",
+      "title_ja": null,
+      "summary_ja": null
     },
     {
       "date": "2026-07-13",
       "title": "花一年时间整理出的：AI 数据库混合搜索入门实践",
       "summary": "身边的两位数据库大佬——祖诚、海芊，最近一年，花了大量时间，为大家整理出了一份儿向量、全文、标量混合搜索的入门实践。 文中包含了使用数据库的混合搜索能力时，需要考虑的方方面面。希望大家在阅读之后，都能快速上手数据库的混合搜索，把 AI 时代的刚需能力用得更加顺畅~",
-      "url": "https://waytoagi.feishu.cn/wiki/DTsuwlGHWifcauk1380cJT9cnBh?from=from_copylink"
+      "url": "https://waytoagi.feishu.cn/wiki/DTsuwlGHWifcauk1380cJT9cnBh?from=from_copylink",
+      "title_ja": null,
+      "summary_ja": null
     },
     {
       "date": "2026-07-13",
       "title": "继续开源！WorkBuddy 实战蓝皮书，助你更好使用 Agent！（建议收藏）",
       "summary": "最近大家对WorkBuddy的兴趣越来越高，但教程散落、新用户想系统学一遍，得自己到处翻。于是甲木和刘聪、苍何、袋鼠帝、摸鱼小李一起把真实任务、实战案例和踩坑经验整理成了一份WorkBuddy开源蓝皮书，希望大家也能真正照着用起来。",
-      "url": "https://waytoagi.feishu.cn/wiki/W3A8wt93Lia0cnkN0z6cHD31nLf?from=from_copylink"
+      "url": "https://waytoagi.feishu.cn/wiki/W3A8wt93Lia0cnkN0z6cHD31nLf?from=from_copylink",
+      "title_ja": null,
+      "summary_ja": null
     },
     {
       "date": "2026-07-13",
       "title": "欢迎来到伪智力繁荣时代",
       "summary": "当金句和“底层逻辑”可以被短视频、播客乃至 AI 批量生产，我们获得的也许不是更多思想，而是“已经想明白”的幻觉。这就是今天互联网最荒诞的地方：我们进入了一个观点越来越多、思想越来越少的时代。面对内容泛滥，最稀缺的能力不是会说大词，而是分辨思想与“认知香薰”，让理解真正落到生活里。",
-      "url": "https://waytoagi.feishu.cn/wiki/XhAzw2a1liPi1dkI7UEcqZTfnje?from=from_copylink"
+      "url": "https://waytoagi.feishu.cn/wiki/XhAzw2a1liPi1dkI7UEcqZTfnje?from=from_copylink",
+      "title_ja": null,
+      "summary_ja": null
     },
     {
       "date": "2026-07-13",
       "title": "Lenny年度调查：AI正在把技术人分成两类丨Lenny's Podcast",
       "summary": "Lenny和研究员Noam Segal连续第二年调查科技从业者对AI的感受。这次收到了约6000份回答，来自产品、工程、设计、研究和市场等岗位。这次，他们把问题问得更贴身：你现在还喜欢自己的工作吗？你会建议刚入行的人选择这份职业吗？AI 让你觉得自己更强了，还是让你开始怀疑过去积累的东西？来让我们一同看看他们的研究结果！",
-      "url": "https://waytoagi.feishu.cn/wiki/Um9gwBcvHimOJuk2ewrctKjrnKc?from=from_copylink"
+      "url": "https://waytoagi.feishu.cn/wiki/Um9gwBcvHimOJuk2ewrctKjrnKc?from=from_copylink",
+      "title_ja": null,
+      "summary_ja": null
     },
     {
       "date": "2026-07-13",
       "title": "AI音乐周刊 W.A 036",
       "summary": "本周的AI音乐周刊，内容覆盖各类开源音频模型、主流生产力工具升级与全球版权规范。英伟达、Mirelo 等放出多模态音频、混音扒谱、司法级语音修复开源模型；FL Studio、Audiotool、Suno 更新了多人在线编曲、专属文风歌词克隆等等功能；此外Vobile 推出首个 AI 歌曲检测 MCP 服务；八大音乐机构推出统一的AI 歌曲标注规范；更有多篇有关音乐生成、音频评测领域的论文相继发布。",
-      "url": "https://waytoagi.feishu.cn/wiki/AI7kwHByCib3XzkiC72cNGOznAf?from=from_copylink"
+      "url": "https://waytoagi.feishu.cn/wiki/AI7kwHByCib3XzkiC72cNGOznAf?from=from_copylink",
+      "title_ja": null,
+      "summary_ja": null
     },
     {
       "date": "2026-07-13",
       "title": "AI视频工具PMF不在制作，创业两年踩坑认知",
       "summary": "晨然这篇文章戳破了一个很容易让 AI 视频创业者上头的幻觉：只要生成能力够强、自动化够深，行业就会被重做一遍。他用两年踩坑经历，把 AI 视频从“工具崇拜”拉回到“创意、制作、分发”的完整链路里。如果你也在关注 AI 视频创业，这篇复盘很值得看，它会带你重新判断：机会到底是在工具里，还是在工具之外。",
-      "url": "https://waytoagi.feishu.cn/wiki/OM8cwRQuCiSHMAkvbFsc6Alrnmg?from=from_copylink"
+      "url": "https://waytoagi.feishu.cn/wiki/OM8cwRQuCiSHMAkvbFsc6Alrnmg?from=from_copylink",
+      "title_ja": null,
+      "summary_ja": null
     },
     {
       "date": "2026-07-12",
       "title": "一种新方法的电商类图像提示词心得分享",
       "summary": "常年批量制作淘宝、亚马逊商品图的手工艺商家，这套子母二段式提示词体系可以帮你处理AI篡改产品造型的低效难题。整套框架划分为产品变量、锁定实物细节的母提示词、定义画面用途的子提示词三层结构。 图片一换，变量只改一点点，整套电商视觉就能跟着跑。",
-      "url": "https://waytoagi.feishu.cn/wiki/H1jlwcqKriSCI9kLxEacVFIZnxh?from=from_copylink"
+      "url": "https://waytoagi.feishu.cn/wiki/H1jlwcqKriSCI9kLxEacVFIZnxh?from=from_copylink",
+      "title_ja": null,
+      "summary_ja": null
     },
     {
       "date": "2026-07-12",
       "title": "Seedance 经验谈",
       "summary": "如果你也是长期使用Seedance做视频的创作者，海辛阿文这份踩坑心得能帮你避开海量无效网红提示词，省去大量试错成本。他们提炼了极简的四段式提示词模板，依托参考图固定主体与场景，规避人物比例失调问题，仅生成音效方便后期配乐，简洁文字标注镜头信息即可出片。除此之外，还纠正了一些营销号传播的不实技巧，快来看看都有哪些！",
-      "url": "https://waytoagi.feishu.cn/wiki/VvJtwrxIhiG9TSk7AYBcXkuzn5e?from=from_copylink"
+      "url": "https://waytoagi.feishu.cn/wiki/VvJtwrxIhiG9TSk7AYBcXkuzn5e?from=from_copylink",
+      "title_ja": null,
+      "summary_ja": null
     },
     {
       "date": "2026-07-12",
       "title": "CT：飞书 cli 创意玩法合集",
       "summary": "飞书CLI接入各类AI编程工具后可一键读写文档、多维表格、日历、群聊、云空间与会议纪要，还能联动网页抓取、视频拆解、绘图生成、PPT 制作工具。这篇文章分享了一些创意玩法，覆盖知识库归档、短视频脚本解析、电商素材产出、产品商机分析等多元场景。",
-      "url": "https://waytoagi.feishu.cn/wiki/EU4ewIQkviFKg0ks2L3cGlqqnUg?from=from_copylink"
+      "url": "https://waytoagi.feishu.cn/wiki/EU4ewIQkviFKg0ks2L3cGlqqnUg?from=from_copylink",
+      "title_ja": null,
+      "summary_ja": null
     },
     {
       "date": "2026-07-12",
       "title": "AI时代，如何打造值得谈论的品牌丨The Entrepreneur's Studio",
       "summary": "AI可以批量写文案、做图片、投广告，品牌制造“声量”的成本正在快速下降。可当所有人都能生产更多内容，顾客为什么还要记住你、信任你，甚至主动把你推荐给别人？这正是营销家Seth Godin在这期对话里追问的问题。",
-      "url": "https://waytoagi.feishu.cn/wiki/GXUUwrnB0iz2G2kHhiXcWgjNn4b?from=from_copylink"
+      "url": "https://waytoagi.feishu.cn/wiki/GXUUwrnB0iz2G2kHhiXcWgjNn4b?from=from_copylink",
+      "title_ja": null,
+      "summary_ja": null
     },
     {
       "date": "2026-07-12",
       "title": "AI 不会做设计？先给它一份 DESIGN.md",
       "summary": "如果你最近也在用 Codex、Claude Code 搭建网站，这套DESIGN.md工具方案能帮你摆脱千篇一律的廉价模板感。文中按不同使用场景推荐了对应工具，从找品牌设计灵感、抓取站点规范、浏览器实时提取样式、一站式落地页面全流程全覆盖，带你拆解成熟产品的底层设计规则。",
-      "url": "https://waytoagi.feishu.cn/wiki/BtcmwsCDMiZJPbkbIYhcJO9xnLb?from=from_copylink"
+      "url": "https://waytoagi.feishu.cn/wiki/BtcmwsCDMiZJPbkbIYhcJO9xnLb?from=from_copylink",
+      "title_ja": null,
+      "summary_ja": null
     },
     {
       "date": "2026-07-12",
       "title": "73个飞书文档，1小时变成网站：AJ在D20峰会分享的Vibe Design实践",
       "summary": "AJ受邀参加了D20峰会 AI 云智能分论坛 Go! Vibe Designing，做了一场「AI时代的设计流程重组」的分享，还和播客主理人刘飞、B 站 UP 主抽象仔一起，把圆桌聊成了一场现场播客。下面就和线上的朋友们一起回顾下AJ的分享内容！",
-      "url": "https://waytoagi.feishu.cn/wiki/OZq6wwrediq7yDkISKEcBZtNnJh?from=from_copylink"
+      "url": "https://waytoagi.feishu.cn/wiki/OZq6wwrediq7yDkISKEcBZtNnJh?from=from_copylink",
+      "title_ja": null,
+      "summary_ja": null
     },
     {
       "date": "2026-07-12",
       "title": "7.6—7.12｜本周 AI 论文精选",
       "summary": "本周十篇顶尖前沿论文补齐了智能体生产落地全链路技术方案。内容包含无训练连续验证奖励、长记忆架构 HOLA、MoE 模型轻量化压缩、编排框架效率增益、长文本证据复用 ReContext 等创新方案，同时还给出智能体通用故障分类、超大文本检索、RLVR 风格坍缩修复、AI 复现学术论文等落地方法论。全部成果都经过多基准实测，可直接用于推理提速、智能体安全治理、长上下文性能优化，大幅降低生产环境部署成本与风险。",
-      "url": "https://waytoagi.feishu.cn/wiki/SWWEw0DEfinPB1khr4rclWzCnKH?from=from_copylink"
+      "url": "https://waytoagi.feishu.cn/wiki/SWWEw0DEfinPB1khr4rclWzCnKH?from=from_copylink",
+      "title_ja": null,
+      "summary_ja": null
     }
   ],
   "warning": null,
