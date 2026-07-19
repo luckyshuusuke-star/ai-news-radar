@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T15:13:43.884395Z",
+  "generated_at": "2026-07-19T16:09:32.643927Z",
   "window_hours": 24,
   "total_items": 17,
   "items": [
@@ -164,15 +164,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8404,
-      "importance": 0.8404,
-      "importance_score": 0.8404,
+      "score": 0.8383,
+      "importance": 0.8383,
+      "importance_score": 0.8383,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8655,
+        "recency": 0.8539,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -199,7 +199,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-19T15:14:36.345209Z"
+        "scored_at": "2026-07-19T16:10:25.334000Z"
       }
     },
     {
@@ -276,15 +276,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7756,
-      "importance": 0.7756,
-      "importance_score": 0.7756,
+      "score": 0.7735,
+      "importance": 0.7735,
+      "importance_score": 0.7735,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8555,
+        "recency": 0.8441,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -311,89 +311,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-19T15:14:36.345209Z"
-      }
-    },
-    {
-      "story_id": "story_20bda4ade41b",
-      "title": "面壁智能开源 MiniCPM-Robot 具身智能模型系列 / 🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
-      "url": "https://x.com/OpenBMB/status/2078839529591759025",
-      "primary_url": "https://x.com/OpenBMB/status/2078839529591759025",
-      "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6f350dc8ef4774149467d75b8b11295ab37d5a0c",
-          "title": "面壁智能开源 MiniCPM-Robot 具身智能模型系列 / 🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
-          "title_zh": "面壁智能开源 MiniCPM-Robot 具身智能模型系列",
-          "title_en": "🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
-          "title_original": "🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
-          "summary": "面壁智能开源首个具身AI模型系列 MiniCPM-Robot，包含 1.5B 参数的通用视觉-语言-动作（VLA）模型 MiniCPM-RobotManip 和用于目标跟踪的 MiniCPM-RobotTrack。同时发布高性能推理框架 PhyAI，旨在让机器人实现理解、记忆与行动。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/OpenBMB/status/2078839529591759025",
-          "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-19T13:49:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：面壁智能 OpenBMB (@OpenBMB)"
-      ],
-      "items": [
-        {
-          "id": "6f350dc8ef4774149467d75b8b11295ab37d5a0c",
-          "title": "面壁智能开源 MiniCPM-Robot 具身智能模型系列 / 🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
-          "title_zh": "面壁智能开源 MiniCPM-Robot 具身智能模型系列",
-          "title_en": "🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
-          "title_original": "🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
-          "summary": "面壁智能开源首个具身AI模型系列 MiniCPM-Robot，包含 1.5B 参数的通用视觉-语言-动作（VLA）模型 MiniCPM-RobotManip 和用于目标跟踪的 MiniCPM-RobotTrack。同时发布高性能推理框架 PhyAI，旨在让机器人实现理解、记忆与行动。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/OpenBMB/status/2078839529591759025",
-          "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-19T13:49:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.761,
-      "importance": 0.761,
-      "importance_score": 0.761,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9798,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-19T13:49:01Z",
-      "latest_at": "2026-07-19T13:49:01Z",
-      "primary_item": {
-        "id": "6f350dc8ef4774149467d75b8b11295ab37d5a0c",
-        "title": "面壁智能开源 MiniCPM-Robot 具身智能模型系列 / 🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
-        "title_zh": "面壁智能开源 MiniCPM-Robot 具身智能模型系列",
-        "title_en": "🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
-        "title_original": "🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
-        "summary": "面壁智能开源首个具身AI模型系列 MiniCPM-Robot，包含 1.5B 参数的通用视觉-语言-动作（VLA）模型 MiniCPM-RobotManip 和用于目标跟踪的 MiniCPM-RobotTrack。同时发布高性能推理框架 PhyAI，旨在让机器人实现理解、记忆与行动。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/OpenBMB/status/2078839529591759025",
-        "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-19T15:14:36.345209Z"
+        "scored_at": "2026-07-19T16:10:25.334000Z"
       }
     },
     {
@@ -441,15 +359,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7609,
-      "importance": 0.7609,
-      "importance_score": 0.7609,
+      "score": 0.7586,
+      "importance": 0.7586,
+      "importance_score": 0.7586,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9627,
+        "recency": 0.9499,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -475,7 +393,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-19T15:14:36.345209Z"
+        "scored_at": "2026-07-19T16:10:25.334000Z"
+      }
+    },
+    {
+      "story_id": "story_20bda4ade41b",
+      "title": "面壁智能开源 MiniCPM-Robot 具身智能模型系列 / 🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
+      "url": "https://x.com/OpenBMB/status/2078839529591759025",
+      "primary_url": "https://x.com/OpenBMB/status/2078839529591759025",
+      "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6f350dc8ef4774149467d75b8b11295ab37d5a0c",
+          "title": "面壁智能开源 MiniCPM-Robot 具身智能模型系列 / 🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
+          "title_zh": "面壁智能开源 MiniCPM-Robot 具身智能模型系列",
+          "title_en": "🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
+          "title_original": "🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
+          "summary": "面壁智能开源首个具身AI模型系列 MiniCPM-Robot，包含 1.5B 参数的通用视觉-语言-动作（VLA）模型 MiniCPM-RobotManip 和用于目标跟踪的 MiniCPM-RobotTrack。同时发布高性能推理框架 PhyAI，旨在让机器人实现理解、记忆与行动。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/OpenBMB/status/2078839529591759025",
+          "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-19T13:49:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：面壁智能 OpenBMB (@OpenBMB)"
+      ],
+      "items": [
+        {
+          "id": "6f350dc8ef4774149467d75b8b11295ab37d5a0c",
+          "title": "面壁智能开源 MiniCPM-Robot 具身智能模型系列 / 🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
+          "title_zh": "面壁智能开源 MiniCPM-Robot 具身智能模型系列",
+          "title_en": "🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
+          "title_original": "🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
+          "summary": "面壁智能开源首个具身AI模型系列 MiniCPM-Robot，包含 1.5B 参数的通用视觉-语言-动作（VLA）模型 MiniCPM-RobotManip 和用于目标跟踪的 MiniCPM-RobotTrack。同时发布高性能推理框架 PhyAI，旨在让机器人实现理解、记忆与行动。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/OpenBMB/status/2078839529591759025",
+          "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-19T13:49:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7586,
+      "importance": 0.7586,
+      "importance_score": 0.7586,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9667,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-19T13:49:01Z",
+      "latest_at": "2026-07-19T13:49:01Z",
+      "primary_item": {
+        "id": "6f350dc8ef4774149467d75b8b11295ab37d5a0c",
+        "title": "面壁智能开源 MiniCPM-Robot 具身智能模型系列 / 🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
+        "title_zh": "面壁智能开源 MiniCPM-Robot 具身智能模型系列",
+        "title_en": "🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
+        "title_original": "🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
+        "summary": "面壁智能开源首个具身AI模型系列 MiniCPM-Robot，包含 1.5B 参数的通用视觉-语言-动作（VLA）模型 MiniCPM-RobotManip 和用于目标跟踪的 MiniCPM-RobotTrack。同时发布高性能推理框架 PhyAI，旨在让机器人实现理解、记忆与行动。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/OpenBMB/status/2078839529591759025",
+        "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-19T16:10:25.334000Z"
       }
     },
     {
@@ -523,15 +523,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7592,
-      "importance": 0.7592,
-      "importance_score": 0.7592,
+      "score": 0.757,
+      "importance": 0.757,
+      "importance_score": 0.757,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9032,
+        "recency": 0.8911,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -557,7 +557,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-19T15:14:36.345209Z"
+        "scored_at": "2026-07-19T16:10:25.334000Z"
       }
     },
     {
@@ -605,21 +605,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7504,
-      "importance": 0.7504,
-      "importance_score": 0.7504,
+      "score": 0.7481,
+      "importance": 0.7481,
+      "importance_score": 0.7481,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9713,
+        "recency": 0.9583,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-19T13:12:39Z",
       "latest_at": "2026-07-19T13:12:39Z",
@@ -639,7 +638,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-19T15:14:36.345209Z"
+        "scored_at": "2026-07-19T16:10:25.334000Z"
       }
     },
     {
@@ -687,15 +686,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.74,
-      "importance": 0.74,
-      "importance_score": 0.74,
+      "score": 0.738,
+      "importance": 0.738,
+      "importance_score": 0.738,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8468,
+        "recency": 0.8355,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -720,7 +719,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-19T15:14:36.345209Z"
+        "scored_at": "2026-07-19T16:10:25.334000Z"
       }
     },
     {
@@ -768,15 +767,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7561,
-      "importance": 0.7561,
-      "importance_score": 0.7561,
+      "score": 0.7541,
+      "importance": 0.7541,
+      "importance_score": 0.7541,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.836,
+        "recency": 0.8248,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -802,7 +801,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-19T15:14:36.345209Z"
+        "scored_at": "2026-07-19T16:10:25.334000Z"
       }
     },
     {
@@ -965,15 +964,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6049,
-      "importance": 0.6049,
-      "importance_score": 0.6049,
+      "score": 0.6027,
+      "importance": 0.6027,
+      "importance_score": 0.6027,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9114,
+        "recency": 0.8992,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -998,7 +997,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-19T15:14:36.345209Z"
+        "scored_at": "2026-07-19T16:10:25.334000Z"
       }
     },
     {
@@ -1075,15 +1074,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5832,
-      "importance": 0.5832,
-      "importance_score": 0.5832,
+      "score": 0.5812,
+      "importance": 0.5812,
+      "importance_score": 0.5812,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.8491,
+        "recency": 0.8378,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1108,7 +1107,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-19T15:14:36.345209Z"
+        "scored_at": "2026-07-19T16:10:25.334000Z"
       }
     },
     {
@@ -1214,15 +1213,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5698,
-      "importance": 0.5698,
-      "importance_score": 0.5698,
+      "score": 0.5674,
+      "importance": 0.5674,
+      "importance_score": 0.5674,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9942,
+        "recency": 0.981,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1247,7 +1246,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-19T15:14:36.345209Z"
+        "scored_at": "2026-07-19T16:10:25.334000Z"
       }
     },
     {
@@ -1353,15 +1352,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5264,
-      "importance": 0.5264,
-      "importance_score": 0.5264,
+      "score": 0.5246,
+      "importance": 0.5246,
+      "importance_score": 0.5246,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7534,
+        "recency": 0.7434,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1386,7 +1385,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-19T15:14:36.345209Z"
+        "scored_at": "2026-07-19T16:10:25.334000Z"
       }
     },
     {
@@ -1463,15 +1462,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5186,
-      "importance": 0.5186,
-      "importance_score": 0.5186,
+      "score": 0.5166,
+      "importance": 0.5166,
+      "importance_score": 0.5166,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8489,
+        "recency": 0.8376,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1496,7 +1495,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-19T15:14:36.345209Z"
+        "scored_at": "2026-07-19T16:10:25.334000Z"
       }
     },
     {
@@ -1573,15 +1572,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5448,
-      "importance": 0.5448,
-      "importance_score": 0.5448,
+      "score": 0.5424,
+      "importance": 0.5424,
+      "importance_score": 0.5424,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9942,
+        "recency": 0.9809,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1606,7 +1605,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-19T15:14:36.345209Z"
+        "scored_at": "2026-07-19T16:10:25.334000Z"
       }
     },
     {
@@ -1683,15 +1682,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5299,
-      "importance": 0.5299,
-      "importance_score": 0.5299,
+      "score": 0.5277,
+      "importance": 0.5277,
+      "importance_score": 0.5277,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9114,
+        "recency": 0.8992,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1716,7 +1715,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-19T15:14:36.345209Z"
+        "scored_at": "2026-07-19T16:10:25.334000Z"
       }
     },
     {
@@ -1793,15 +1792,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5079,
-      "importance": 0.5079,
-      "importance_score": 0.5079,
+      "score": 0.506,
+      "importance": 0.506,
+      "importance_score": 0.506,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7896,
+        "recency": 0.7791,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1826,7 +1825,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-19T15:14:36.345209Z"
+        "scored_at": "2026-07-19T16:10:25.334000Z"
       }
     },
     {
@@ -1903,15 +1902,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5012,
-      "importance": 0.5012,
-      "importance_score": 0.5012,
+      "score": 0.4994,
+      "importance": 0.4994,
+      "importance_score": 0.4994,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.752,
+        "recency": 0.742,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1933,10 +1932,10 @@
         "source_name": "NewsNow"
       },
       "persona_id": "pragmatic",
-      "persona_score": 1,
+      "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-19T15:14:36.345209Z"
+        "scored_at": "2026-07-19T16:10:25.334000Z"
       }
     }
   ]
