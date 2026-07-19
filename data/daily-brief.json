@@ -1,8 +1,229 @@
 {
-  "generated_at": "2026-07-19T00:08:14.004950Z",
+  "generated_at": "2026-07-19T03:51:12.344722Z",
   "window_hours": 24,
-  "total_items": 8,
+  "total_items": 10,
   "items": [
+    {
+      "story_id": "story_d8b201080948",
+      "title": "transcribe.cpp 发布：基于 ggml 的跨平台语音转录库，支持 16 个 ASR 模型族 / Transcribe.cpp",
+      "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+      "primary_url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a8f34387ea9f4cc2fdc9fec9f0aa34d0afbb8fd1",
+          "title": "transcribe.cpp 发布：基于 ggml 的跨平台语音转录库，支持 16 个 ASR 模型族 / Transcribe.cpp",
+          "title_zh": "transcribe.cpp 发布：基于 ggml 的跨平台语音转录库，支持 16 个 ASR 模型族",
+          "title_en": "Transcribe.cpp",
+          "title_original": "Transcribe.cpp",
+          "summary": "transcribe.cpp v0.1.0 发布，一个基于 ggml 的语音转录库，支持 16 个 ASR 模型族（60+ 模型），并通过 Vulkan、Metal、CUDA 和 TinyBLAS 实现 GPU 加速。",
+          "recommend_reason_zh": null,
+          "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-19T02:49:15.657000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "a8f34387ea9f4cc2fdc9fec9f0aa34d0afbb8fd1",
+          "title": "transcribe.cpp 发布：基于 ggml 的跨平台语音转录库，支持 16 个 ASR 模型族 / Transcribe.cpp",
+          "title_zh": "transcribe.cpp 发布：基于 ggml 的跨平台语音转录库，支持 16 个 ASR 模型族",
+          "title_en": "Transcribe.cpp",
+          "title_original": "Transcribe.cpp",
+          "summary": "transcribe.cpp v0.1.0 发布，一个基于 ggml 的语音转录库，支持 16 个 ASR 模型族（60+ 模型），并通过 Vulkan、Metal、CUDA 和 TinyBLAS 实现 GPU 加速。",
+          "recommend_reason_zh": null,
+          "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-19T02:49:15.657000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7829,
+      "importance": 0.7829,
+      "importance_score": 0.7829,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9852,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-19T02:49:15.657000Z",
+      "latest_at": "2026-07-19T02:49:15.657000Z",
+      "primary_item": {
+        "id": "a8f34387ea9f4cc2fdc9fec9f0aa34d0afbb8fd1",
+        "title": "transcribe.cpp 发布：基于 ggml 的跨平台语音转录库，支持 16 个 ASR 模型族 / Transcribe.cpp",
+        "title_zh": "transcribe.cpp 发布：基于 ggml 的跨平台语音转录库，支持 16 个 ASR 模型族",
+        "title_en": "Transcribe.cpp",
+        "title_original": "Transcribe.cpp",
+        "summary": "transcribe.cpp v0.1.0 发布，一个基于 ggml 的语音转录库，支持 16 个 ASR 模型族（60+ 模型），并通过 Vulkan、Metal、CUDA 和 TinyBLAS 实现 GPU 加速。",
+        "recommend_reason_zh": null,
+        "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-19T03:52:10.764203Z"
+      }
+    },
+    {
+      "story_id": "story_c668670e64ca",
+      "title": "马姆达尼市长表示，房东不得使用AI生成的图片进行广告宣传",
+      "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties",
+      "primary_url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties",
+      "source": "petapixel.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "e6dd7be02b30638fe7d0cb022c7b1fb65fc61ece",
+          "title": "马姆达尼市长表示，房东不得使用AI生成的图片进行广告宣传",
+          "title_zh": "马姆达尼市长表示，房东不得使用AI生成的图片进行广告宣传",
+          "title_en": null,
+          "title_original": "马姆达尼市长表示，房东不得使用AI生成的图片进行广告宣传",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties",
+          "source": "petapixel.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-19T00:25:26.091000Z"
+        },
+        {
+          "id": "0627aa82679f8fd7ffdcd468c93353013f10e71c",
+          "title": "市长马姆达尼表示房东不能使用人工智能图像做广告 / Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+          "title_zh": "市长马姆达尼表示房东不能使用人工智能图像做广告",
+          "title_en": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+          "title_original": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=48962983",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T22:52:16.925000Z"
+        },
+        {
+          "id": "ad0494ff3eada34eae23761bf65a50d2302773ef",
+          "title": "马姆达尼市长表示，房东不得使用AI生成的图片进行广告宣传 / Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+          "title_zh": "马姆达尼市长表示，房东不得使用AI生成的图片进行广告宣传",
+          "title_en": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+          "title_original": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T22:13:39Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "hackernews",
+        "petapixel.com"
+      ],
+      "items": [
+        {
+          "id": "e6dd7be02b30638fe7d0cb022c7b1fb65fc61ece",
+          "title": "马姆达尼市长表示，房东不得使用AI生成的图片进行广告宣传",
+          "title_zh": "马姆达尼市长表示，房东不得使用AI生成的图片进行广告宣传",
+          "title_en": null,
+          "title_original": "马姆达尼市长表示，房东不得使用AI生成的图片进行广告宣传",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties",
+          "source": "petapixel.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-19T00:25:26.091000Z"
+        },
+        {
+          "id": "0627aa82679f8fd7ffdcd468c93353013f10e71c",
+          "title": "市长马姆达尼表示房东不能使用人工智能图像做广告 / Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+          "title_zh": "市长马姆达尼表示房东不能使用人工智能图像做广告",
+          "title_en": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+          "title_original": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=48962983",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T22:52:16.925000Z"
+        },
+        {
+          "id": "ad0494ff3eada34eae23761bf65a50d2302773ef",
+          "title": "马姆达尼市长表示，房东不得使用AI生成的图片进行广告宣传 / Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+          "title_zh": "马姆达尼市长表示，房东不得使用AI生成的图片进行广告宣传",
+          "title_en": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+          "title_original": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T22:13:39Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5621,
+      "importance": 0.5621,
+      "importance_score": 0.5621,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9517,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T22:13:39Z",
+      "latest_at": "2026-07-19T00:25:26.091000Z",
+      "primary_item": {
+        "id": "e6dd7be02b30638fe7d0cb022c7b1fb65fc61ece",
+        "title": "马姆达尼市长表示，房东不得使用AI生成的图片进行广告宣传",
+        "title_zh": "马姆达尼市长表示，房东不得使用AI生成的图片进行广告宣传",
+        "title_en": null,
+        "title_original": "马姆达尼市长表示，房东不得使用AI生成的图片进行广告宣传",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties",
+        "source": "petapixel.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-19T03:52:10.764203Z"
+      }
+    },
     {
       "story_id": "story_b3a9ac157817",
       "title": "为什么人工智能公司的标志看起来像屁眼？ (2025) / Why do AI company logos look like buttholes? (2025)",
@@ -135,15 +356,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.57,
-      "importance": 0.57,
-      "importance_score": 0.57,
+      "score": 0.562,
+      "importance": 0.562,
+      "importance_score": 0.562,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8568,
+        "recency": 0.812,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -168,7 +389,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-19T00:09:05.338101Z"
+        "scored_at": "2026-07-19T03:52:10.764203Z"
       }
     },
     {
@@ -274,15 +495,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5594,
-      "importance": 0.5594,
-      "importance_score": 0.5594,
+      "score": 0.5506,
+      "importance": 0.5506,
+      "importance_score": 0.5506,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9369,
+        "recency": 0.8879,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -307,7 +528,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-19T00:09:05.338101Z"
+        "scored_at": "2026-07-19T03:52:10.764203Z"
       }
     },
     {
@@ -413,15 +634,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5488,
-      "importance": 0.5488,
-      "importance_score": 0.5488,
+      "score": 0.5405,
+      "importance": 0.5405,
+      "importance_score": 0.5405,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8775,
+        "recency": 0.8317,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -446,7 +667,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-19T00:09:05.338101Z"
+        "scored_at": "2026-07-19T03:52:10.764203Z"
       }
     },
     {
@@ -552,15 +773,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.547,
-      "importance": 0.547,
-      "importance_score": 0.547,
+      "score": 0.5388,
+      "importance": 0.5388,
+      "importance_score": 0.5388,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8675,
+        "recency": 0.8222,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -585,7 +806,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-19T00:09:05.338101Z"
+        "scored_at": "2026-07-19T03:52:10.764203Z"
       }
     },
     {
@@ -691,15 +912,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5451,
-      "importance": 0.5451,
-      "importance_score": 0.5451,
+      "score": 0.5371,
+      "importance": 0.5371,
+      "importance_score": 0.5371,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8575,
+        "recency": 0.8127,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -724,7 +945,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-19T00:09:05.338101Z"
+        "scored_at": "2026-07-19T03:52:10.764203Z"
+      }
+    },
+    {
+      "story_id": "story_e10fb03864e5",
+      "title": "人工智能狂热正在彻底改变全球决策 / AI Mania Is Eviscerating Global Decision-Making",
+      "url": "https://news.ycombinator.com/item?id=48964185",
+      "primary_url": "https://news.ycombinator.com/item?id=48964185",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "50309255056c40114111478e6000e7427e2e1f2f",
+          "title": "人工智能狂热正在彻底改变全球决策 / AI Mania Is Eviscerating Global Decision-Making",
+          "title_zh": "人工智能狂热正在彻底改变全球决策",
+          "title_en": "AI Mania Is Eviscerating Global Decision-Making",
+          "title_original": "AI Mania Is Eviscerating Global Decision-Making",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=48964185",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-19T03:22:49.135000Z"
+        },
+        {
+          "id": "911fd4dffa757d60f63ca121d8c60dd21b8a6f1b",
+          "title": "人工智能狂热正在彻底改变全球决策 / AI Mania Is Eviscerating Global Decision-Making",
+          "title_zh": "人工智能狂热正在彻底改变全球决策",
+          "title_en": "AI Mania Is Eviscerating Global Decision-Making",
+          "title_original": "AI Mania Is Eviscerating Global Decision-Making",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T22:10:54Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "50309255056c40114111478e6000e7427e2e1f2f",
+          "title": "人工智能狂热正在彻底改变全球决策 / AI Mania Is Eviscerating Global Decision-Making",
+          "title_zh": "人工智能狂热正在彻底改变全球决策",
+          "title_en": "AI Mania Is Eviscerating Global Decision-Making",
+          "title_original": "AI Mania Is Eviscerating Global Decision-Making",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=48964185",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-19T03:22:49.135000Z"
+        },
+        {
+          "id": "911fd4dffa757d60f63ca121d8c60dd21b8a6f1b",
+          "title": "人工智能狂热正在彻底改变全球决策 / AI Mania Is Eviscerating Global Decision-Making",
+          "title_zh": "人工智能狂热正在彻底改变全球决策",
+          "title_en": "AI Mania Is Eviscerating Global Decision-Making",
+          "title_original": "AI Mania Is Eviscerating Global Decision-Making",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T22:10:54Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5446,
+      "importance": 0.5446,
+      "importance_score": 0.5446,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9932,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T22:10:54Z",
+      "latest_at": "2026-07-19T03:22:49.135000Z",
+      "primary_item": {
+        "id": "50309255056c40114111478e6000e7427e2e1f2f",
+        "title": "人工智能狂热正在彻底改变全球决策 / AI Mania Is Eviscerating Global Decision-Making",
+        "title_zh": "人工智能狂热正在彻底改变全球决策",
+        "title_en": "AI Mania Is Eviscerating Global Decision-Making",
+        "title_original": "AI Mania Is Eviscerating Global Decision-Making",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=48964185",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-19T03:52:10.764203Z"
       }
     },
     {
@@ -801,15 +1132,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5425,
-      "importance": 0.5425,
-      "importance_score": 0.5425,
+      "score": 0.5333,
+      "importance": 0.5333,
+      "importance_score": 0.5333,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9819,
+        "recency": 0.9306,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -834,117 +1165,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-19T00:09:05.338101Z"
-      }
-    },
-    {
-      "story_id": "story_c668670e64ca",
-      "title": "市长马姆达尼表示房东不能使用人工智能图像做广告 / Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-      "url": "https://news.ycombinator.com/item?id=48962983",
-      "primary_url": "https://news.ycombinator.com/item?id=48962983",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "0627aa82679f8fd7ffdcd468c93353013f10e71c",
-          "title": "市长马姆达尼表示房东不能使用人工智能图像做广告 / Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-          "title_zh": "市长马姆达尼表示房东不能使用人工智能图像做广告",
-          "title_en": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-          "title_original": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=48962983",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T22:52:16.925000Z"
-        },
-        {
-          "id": "ad0494ff3eada34eae23761bf65a50d2302773ef",
-          "title": "市长马姆达尼表示房东不能使用人工智能图像做广告 / Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-          "title_zh": "市长马姆达尼表示房东不能使用人工智能图像做广告",
-          "title_en": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-          "title_original": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-18T22:13:39Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "0627aa82679f8fd7ffdcd468c93353013f10e71c",
-          "title": "市长马姆达尼表示房东不能使用人工智能图像做广告 / Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-          "title_zh": "市长马姆达尼表示房东不能使用人工智能图像做广告",
-          "title_en": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-          "title_original": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=48962983",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T22:52:16.925000Z"
-        },
-        {
-          "id": "ad0494ff3eada34eae23761bf65a50d2302773ef",
-          "title": "市长马姆达尼表示房东不能使用人工智能图像做广告 / Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-          "title_zh": "市长马姆达尼表示房东不能使用人工智能图像做广告",
-          "title_en": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-          "title_original": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-18T22:13:39Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5425,
-      "importance": 0.5425,
-      "importance_score": 0.5425,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9819,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T22:13:39Z",
-      "latest_at": "2026-07-18T22:52:16.925000Z",
-      "primary_item": {
-        "id": "0627aa82679f8fd7ffdcd468c93353013f10e71c",
-        "title": "市长马姆达尼表示房东不能使用人工智能图像做广告 / Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-        "title_zh": "市长马姆达尼表示房东不能使用人工智能图像做广告",
-        "title_en": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-        "title_original": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=48962983",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-19T00:09:05.338101Z"
+        "scored_at": "2026-07-19T03:52:10.764203Z"
       }
     },
     {
@@ -1021,15 +1242,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5341,
-      "importance": 0.5341,
-      "importance_score": 0.5341,
+      "score": 0.5253,
+      "importance": 0.5253,
+      "importance_score": 0.5253,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9352,
+        "recency": 0.8863,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1054,7 +1275,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-19T00:09:05.338101Z"
+        "scored_at": "2026-07-19T03:52:10.764203Z"
       }
     }
   ]
