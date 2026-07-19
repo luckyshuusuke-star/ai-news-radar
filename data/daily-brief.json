@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-19T12:05:52.757443Z",
+  "generated_at": "2026-07-19T13:51:31.293811Z",
   "window_hours": 24,
-  "total_items": 13,
+  "total_items": 15,
   "items": [
     {
       "story_id": "story_e10fb03864e5",
@@ -54,7 +54,7 @@
           "published_at": "2026-07-19T03:22:49.135000Z"
         },
         {
-          "id": "f34693511d98e6b9edc2e76600ec21caba678fc7",
+          "id": "e416502be85cecb3a3f52201835ff8bca50dfc0e",
           "title": "AI 热潮正在瓦解全球决策机制 / AI Mania Is Eviscerating Global Decision-Making",
           "title_zh": "AI 热潮正在瓦解全球决策机制",
           "title_en": "AI Mania Is Eviscerating Global Decision-Making",
@@ -62,9 +62,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-07-19T01:29:19Z"
         },
         {
@@ -84,7 +84,7 @@
       ],
       "source_count": 5,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "Hacker News · 24h最热",
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "hackernews",
@@ -134,7 +134,7 @@
           "published_at": "2026-07-19T03:22:49.135000Z"
         },
         {
-          "id": "f34693511d98e6b9edc2e76600ec21caba678fc7",
+          "id": "e416502be85cecb3a3f52201835ff8bca50dfc0e",
           "title": "AI 热潮正在瓦解全球决策机制 / AI Mania Is Eviscerating Global Decision-Making",
           "title_zh": "AI 热潮正在瓦解全球决策机制",
           "title_en": "AI Mania Is Eviscerating Global Decision-Making",
@@ -142,9 +142,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-07-19T01:29:19Z"
         },
         {
@@ -164,15 +164,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8476,
-      "importance": 0.8476,
-      "importance_score": 0.8476,
+      "score": 0.8435,
+      "importance": 0.8435,
+      "importance_score": 0.8435,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9055,
+        "recency": 0.8828,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -199,7 +199,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-19T12:06:51.482865Z"
+        "scored_at": "2026-07-19T13:52:20.873891Z"
       }
     },
     {
@@ -276,15 +276,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7827,
-      "importance": 0.7827,
-      "importance_score": 0.7827,
+      "score": 0.7787,
+      "importance": 0.7787,
+      "importance_score": 0.7787,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.895,
+        "recency": 0.8726,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -311,7 +311,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-19T12:06:51.482865Z"
+        "scored_at": "2026-07-19T13:52:20.873891Z"
+      }
+    },
+    {
+      "story_id": "story_7fa464d3bd04",
+      "title": "昆仑万维宣布2026为\"世界模型元年\"，发布Matrix-Game 3.5等模型",
+      "url": "https://mp.weixin.qq.com/s/LidvGePhOOoUY3KTor_w9g",
+      "primary_url": "https://mp.weixin.qq.com/s/LidvGePhOOoUY3KTor_w9g",
+      "source": "公众号：昆仑万维（天工）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "83952e148349f8569b30edfa9d5867019f64c72d",
+          "title": "昆仑万维宣布2026为\"世界模型元年\"，发布Matrix-Game 3.5等模型",
+          "title_zh": "昆仑万维宣布2026为\"世界模型元年\"，发布Matrix-Game 3.5等模型",
+          "title_en": null,
+          "title_original": "昆仑万维宣布2026为\"世界模型元年\"，发布Matrix-Game 3.5等模型",
+          "summary": "昆仑万维董事长方汉在WAIC上宣布2026年为\"世界模型元年\"，并发布Matrix-Game 3.5世界模型、Mureka v9.5与O3音乐模型。Matrix-Game 3.5实现Patch级记忆注入，5B模型在720p分辨率下单卡可达20FPS实时生成，核心架构已开源。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s/LidvGePhOOoUY3KTor_w9g",
+          "source": "公众号：昆仑万维（天工）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-19T12:35:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：昆仑万维（天工）"
+      ],
+      "items": [
+        {
+          "id": "83952e148349f8569b30edfa9d5867019f64c72d",
+          "title": "昆仑万维宣布2026为\"世界模型元年\"，发布Matrix-Game 3.5等模型",
+          "title_zh": "昆仑万维宣布2026为\"世界模型元年\"，发布Matrix-Game 3.5等模型",
+          "title_en": null,
+          "title_original": "昆仑万维宣布2026为\"世界模型元年\"，发布Matrix-Game 3.5等模型",
+          "summary": "昆仑万维董事长方汉在WAIC上宣布2026年为\"世界模型元年\"，并发布Matrix-Game 3.5世界模型、Mureka v9.5与O3音乐模型。Matrix-Game 3.5实现Patch级记忆注入，5B模型在720p分辨率下单卡可达20FPS实时生成，核心架构已开源。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s/LidvGePhOOoUY3KTor_w9g",
+          "source": "公众号：昆仑万维（天工）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-19T12:35:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7644,
+      "importance": 0.7644,
+      "importance_score": 0.7644,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.982,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-19T12:35:56Z",
+      "latest_at": "2026-07-19T12:35:56Z",
+      "primary_item": {
+        "id": "83952e148349f8569b30edfa9d5867019f64c72d",
+        "title": "昆仑万维宣布2026为\"世界模型元年\"，发布Matrix-Game 3.5等模型",
+        "title_zh": "昆仑万维宣布2026为\"世界模型元年\"，发布Matrix-Game 3.5等模型",
+        "title_en": null,
+        "title_original": "昆仑万维宣布2026为\"世界模型元年\"，发布Matrix-Game 3.5等模型",
+        "summary": "昆仑万维董事长方汉在WAIC上宣布2026年为\"世界模型元年\"，并发布Matrix-Game 3.5世界模型、Mureka v9.5与O3音乐模型。Matrix-Game 3.5实现Patch级记忆注入，5B模型在720p分辨率下单卡可达20FPS实时生成，核心架构已开源。",
+        "recommend_reason_zh": null,
+        "url": "https://mp.weixin.qq.com/s/LidvGePhOOoUY3KTor_w9g",
+        "source": "公众号：昆仑万维（天工）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-19T13:52:20.873891Z"
       }
     },
     {
@@ -359,15 +441,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7667,
-      "importance": 0.7667,
-      "importance_score": 0.7667,
+      "score": 0.7624,
+      "importance": 0.7624,
+      "importance_score": 0.7624,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.945,
+        "recency": 0.9212,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -393,7 +475,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-19T12:06:51.482865Z"
+        "scored_at": "2026-07-19T13:52:20.873891Z"
+      }
+    },
+    {
+      "story_id": "story_0addcd6712bf",
+      "title": "MiniCPM5-2B发布：4B以下全球性能第一，适配9款芯片",
+      "url": "https://mp.weixin.qq.com/s/rjFxrUylyGMqa5QtgypCdw",
+      "primary_url": "https://mp.weixin.qq.com/s/rjFxrUylyGMqa5QtgypCdw",
+      "source": "公众号：面壁智能（MiniCPM）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f8c017dd60633b4db85934be3d38c38c88d73e0f",
+          "title": "MiniCPM5-2B发布：4B以下全球性能第一，适配9款芯片",
+          "title_zh": "MiniCPM5-2B发布：4B以下全球性能第一，适配9款芯片",
+          "title_en": null,
+          "title_original": "MiniCPM5-2B发布：4B以下全球性能第一，适配9款芯片",
+          "summary": "面壁智能联合OpenBMB发布端侧模型MiniCPM5-2B，以2B参数量在AA-Index榜单取得4B以下模型最高分17分，平均分54.26，超越Qwen3.5-2B等竞品。模型原生支持混合思考与512K上下文，已完成华为昇腾、英伟达等9款芯片的Day0适配，即将开源。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s/rjFxrUylyGMqa5QtgypCdw",
+          "source": "公众号：面壁智能（MiniCPM）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-19T13:12:39Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：面壁智能（MiniCPM）"
+      ],
+      "items": [
+        {
+          "id": "f8c017dd60633b4db85934be3d38c38c88d73e0f",
+          "title": "MiniCPM5-2B发布：4B以下全球性能第一，适配9款芯片",
+          "title_zh": "MiniCPM5-2B发布：4B以下全球性能第一，适配9款芯片",
+          "title_en": null,
+          "title_original": "MiniCPM5-2B发布：4B以下全球性能第一，适配9款芯片",
+          "summary": "面壁智能联合OpenBMB发布端侧模型MiniCPM5-2B，以2B参数量在AA-Index榜单取得4B以下模型最高分17分，平均分54.26，超越Qwen3.5-2B等竞品。模型原生支持混合思考与512K上下文，已完成华为昇腾、英伟达等9款芯片的Day0适配，即将开源。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s/rjFxrUylyGMqa5QtgypCdw",
+          "source": "公众号：面壁智能（MiniCPM）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-19T13:12:39Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7539,
+      "importance": 0.7539,
+      "importance_score": 0.7539,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9907,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-19T13:12:39Z",
+      "latest_at": "2026-07-19T13:12:39Z",
+      "primary_item": {
+        "id": "f8c017dd60633b4db85934be3d38c38c88d73e0f",
+        "title": "MiniCPM5-2B发布：4B以下全球性能第一，适配9款芯片",
+        "title_zh": "MiniCPM5-2B发布：4B以下全球性能第一，适配9款芯片",
+        "title_en": null,
+        "title_original": "MiniCPM5-2B发布：4B以下全球性能第一，适配9款芯片",
+        "summary": "面壁智能联合OpenBMB发布端侧模型MiniCPM5-2B，以2B参数量在AA-Index榜单取得4B以下模型最高分17分，平均分54.26，超越Qwen3.5-2B等竞品。模型原生支持混合思考与512K上下文，已完成华为昇腾、英伟达等9款芯片的Day0适配，即将开源。",
+        "recommend_reason_zh": null,
+        "url": "https://mp.weixin.qq.com/s/rjFxrUylyGMqa5QtgypCdw",
+        "source": "公众号：面壁智能（MiniCPM）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-19T13:52:20.873891Z"
       }
     },
     {
@@ -441,15 +605,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7471,
-      "importance": 0.7471,
-      "importance_score": 0.7471,
+      "score": 0.7431,
+      "importance": 0.7431,
+      "importance_score": 0.7431,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.886,
+        "recency": 0.8637,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -474,7 +638,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-19T12:06:51.482865Z"
+        "scored_at": "2026-07-19T13:52:20.873891Z"
       }
     },
     {
@@ -522,15 +686,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.763,
-      "importance": 0.763,
-      "importance_score": 0.763,
+      "score": 0.7591,
+      "importance": 0.7591,
+      "importance_score": 0.7591,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8746,
+        "recency": 0.8527,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -556,7 +720,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-19T12:06:51.482865Z"
+        "scored_at": "2026-07-19T13:52:20.873891Z"
       }
     },
     {
@@ -719,15 +883,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6124,
-      "importance": 0.6124,
-      "importance_score": 0.6124,
+      "score": 0.6081,
+      "importance": 0.6081,
+      "importance_score": 0.6081,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9536,
+        "recency": 0.9296,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -752,7 +916,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-19T12:06:51.482865Z"
+        "scored_at": "2026-07-19T13:52:20.873891Z"
+      }
+    },
+    {
+      "story_id": "story_c52bb64d8638",
+      "title": "Claude Code 现在使用的是用 Rust 编写的 Bun / Claude Code uses Bun written in Rust now",
+      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust",
+      "primary_url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust",
+      "source": "Simon Willison",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "01c3fbc920281ceb312e53d3b6804a945c8df637",
+          "title": "Claude Code 现在使用的是用 Rust 编写的 Bun / Claude Code uses Bun written in Rust now",
+          "title_zh": "Claude Code 现在使用的是用 Rust 编写的 Bun",
+          "title_en": "Claude Code uses Bun written in Rust now",
+          "title_original": "Claude Code uses Bun written in Rust now",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust",
+          "source": "Simon Willison",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-19T03:54:09Z"
+        },
+        {
+          "id": "de39365cf1490854ce1321311f37e65b09b74e27",
+          "title": "Claude Code 现在使用的是用 Rust 编写的 Bun",
+          "title_zh": "Claude Code 现在使用的是用 Rust 编写的 Bun",
+          "title_en": null,
+          "title_original": "Claude Code 现在使用的是用 Rust 编写的 Bun",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust",
+          "source": "simonwillison.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-19T12:09:19.462000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Simon Willison",
+        "simonwillison.net"
+      ],
+      "items": [
+        {
+          "id": "01c3fbc920281ceb312e53d3b6804a945c8df637",
+          "title": "Claude Code 现在使用的是用 Rust 编写的 Bun / Claude Code uses Bun written in Rust now",
+          "title_zh": "Claude Code 现在使用的是用 Rust 编写的 Bun",
+          "title_en": "Claude Code uses Bun written in Rust now",
+          "title_original": "Claude Code uses Bun written in Rust now",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust",
+          "source": "Simon Willison",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-19T03:54:09Z"
+        },
+        {
+          "id": "de39365cf1490854ce1321311f37e65b09b74e27",
+          "title": "Claude Code 现在使用的是用 Rust 编写的 Bun",
+          "title_zh": "Claude Code 现在使用的是用 Rust 编写的 Bun",
+          "title_en": null,
+          "title_original": "Claude Code 现在使用的是用 Rust 编写的 Bun",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust",
+          "source": "simonwillison.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-19T12:09:19.462000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5863,
+      "importance": 0.5863,
+      "importance_score": 0.5863,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5112,
+        "source_tier": 0.5,
+        "ai_relevance": 0.71,
+        "recency": 0.8661,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-19T03:54:09Z",
+      "latest_at": "2026-07-19T12:09:19.462000Z",
+      "primary_item": {
+        "id": "01c3fbc920281ceb312e53d3b6804a945c8df637",
+        "title": "Claude Code 现在使用的是用 Rust 编写的 Bun / Claude Code uses Bun written in Rust now",
+        "title_zh": "Claude Code 现在使用的是用 Rust 编写的 Bun",
+        "title_en": "Claude Code uses Bun written in Rust now",
+        "title_original": "Claude Code uses Bun written in Rust now",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust",
+        "source": "Simon Willison",
+        "source_name": "OPML RSS"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-19T13:52:20.873891Z"
       }
     },
     {
@@ -858,15 +1132,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5327,
-      "importance": 0.5327,
-      "importance_score": 0.5327,
+      "score": 0.5291,
+      "importance": 0.5291,
+      "importance_score": 0.5291,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7883,
+        "recency": 0.7685,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -891,7 +1165,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-19T12:06:51.482865Z"
+        "scored_at": "2026-07-19T13:52:20.873891Z"
       }
     },
     {
@@ -917,7 +1191,7 @@
           "published_at": "2026-07-19T03:53:18.442000Z"
         },
         {
-          "id": "2b93f1543b53bff936fd4a073c54457c312c64ba",
+          "id": "2383c8441a5382743d239c02fc6ad0b72c359ae9",
           "title": "《Codex》重置 / Codex Resets",
           "title_zh": "《Codex》重置",
           "title_en": "Codex Resets",
@@ -925,15 +1199,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://codex-resets.com",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-07-18T23:24:26Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "codex-resets.com"
       ],
       "items": [
@@ -952,7 +1226,7 @@
           "published_at": "2026-07-19T03:53:18.442000Z"
         },
         {
-          "id": "2b93f1543b53bff936fd4a073c54457c312c64ba",
+          "id": "2383c8441a5382743d239c02fc6ad0b72c359ae9",
           "title": "《Codex》重置 / Codex Resets",
           "title_zh": "《Codex》重置",
           "title_en": "Codex Resets",
@@ -960,23 +1234,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://codex-resets.com",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-07-18T23:24:26Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5257,
-      "importance": 0.5257,
-      "importance_score": 0.5257,
+      "score": 0.5217,
+      "importance": 0.5217,
+      "importance_score": 0.5217,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8882,
+        "recency": 0.8659,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1001,146 +1275,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-19T12:06:51.482865Z"
-      }
-    },
-    {
-      "story_id": "story_641c7fe4ecc7",
-      "title": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白",
-      "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
-      "primary_url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
-      "source": "old.reddit.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "9651931f406a4d924811d9891efdfa2132928dc1",
-          "title": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白",
-          "title_zh": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白",
-          "title_en": null,
-          "title_original": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
-          "source": "old.reddit.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T14:17:48.882000Z"
-        },
-        {
-          "id": "59cc559ce0a94dd4aa8dbc7d068f02fa8c4feb8a",
-          "title": "GPT-5.6使用提示缩小了凸优化30年的差距 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-          "title_zh": "GPT-5.6使用提示缩小了凸优化30年的差距",
-          "title_en": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-          "title_original": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=48957779",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T13:26:05.437000Z"
-        },
-        {
-          "id": "8c75ec476a3401e38256cf7766af40479e966b99",
-          "title": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-          "title_zh": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白",
-          "title_en": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-          "title_original": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-18T13:00:52Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "old.reddit.com"
-      ],
-      "items": [
-        {
-          "id": "9651931f406a4d924811d9891efdfa2132928dc1",
-          "title": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白",
-          "title_zh": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白",
-          "title_en": null,
-          "title_original": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
-          "source": "old.reddit.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T14:17:48.882000Z"
-        },
-        {
-          "id": "59cc559ce0a94dd4aa8dbc7d068f02fa8c4feb8a",
-          "title": "GPT-5.6使用提示缩小了凸优化30年的差距 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-          "title_zh": "GPT-5.6使用提示缩小了凸优化30年的差距",
-          "title_en": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-          "title_original": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=48957779",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T13:26:05.437000Z"
-        },
-        {
-          "id": "8c75ec476a3401e38256cf7766af40479e966b99",
-          "title": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-          "title_zh": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白",
-          "title_en": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-          "title_original": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-18T13:00:52Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5222,
-      "importance": 0.5222,
-      "importance_score": 0.5222,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7299,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T13:00:52Z",
-      "latest_at": "2026-07-18T14:17:48.882000Z",
-      "primary_item": {
-        "id": "9651931f406a4d924811d9891efdfa2132928dc1",
-        "title": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白",
-        "title_zh": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白",
-        "title_en": null,
-        "title_original": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
-        "source": "old.reddit.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-19T12:06:51.482865Z"
+        "scored_at": "2026-07-19T13:52:20.873891Z"
       }
     },
     {
@@ -1217,15 +1352,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5451,
-      "importance": 0.5451,
-      "importance_score": 0.5451,
+      "score": 0.5406,
+      "importance": 0.5406,
+      "importance_score": 0.5406,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9959,
+        "recency": 0.9709,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1250,7 +1385,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-19T12:06:51.482865Z"
+        "scored_at": "2026-07-19T13:52:20.873891Z"
       }
     },
     {
@@ -1327,15 +1462,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5374,
-      "importance": 0.5374,
-      "importance_score": 0.5374,
+      "score": 0.5331,
+      "importance": 0.5331,
+      "importance_score": 0.5331,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9536,
+        "recency": 0.9296,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1360,7 +1495,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-19T12:06:51.482865Z"
+        "scored_at": "2026-07-19T13:52:20.873891Z"
       }
     },
     {
@@ -1437,15 +1572,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5145,
-      "importance": 0.5145,
-      "importance_score": 0.5145,
+      "score": 0.5108,
+      "importance": 0.5108,
+      "importance_score": 0.5108,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8261,
+        "recency": 0.8054,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1470,7 +1605,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-19T12:06:51.482865Z"
+        "scored_at": "2026-07-19T13:52:20.873891Z"
       }
     },
     {
@@ -1547,15 +1682,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5074,
-      "importance": 0.5074,
-      "importance_score": 0.5074,
+      "score": 0.5039,
+      "importance": 0.5039,
+      "importance_score": 0.5039,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7868,
+        "recency": 0.7671,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1580,7 +1715,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-19T12:06:51.482865Z"
+        "scored_at": "2026-07-19T13:52:20.873891Z"
       }
     }
   ]
