@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T06:40:17.825982Z",
+  "generated_at": "2026-07-21T09:38:24.971717Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -135,15 +135,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8676,
-      "importance": 0.8676,
-      "importance_score": 0.8676,
+      "score": 0.8601,
+      "importance": 0.8601,
+      "importance_score": 0.8601,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9889,
+        "recency": 0.9474,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -170,7 +170,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-21T06:41:26.973665Z"
+        "scored_at": "2026-07-21T09:39:08.328718Z"
       }
     },
     {
@@ -218,15 +218,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8256,
-      "importance": 0.8256,
-      "importance_score": 0.8256,
+      "score": 0.8195,
+      "importance": 0.8195,
+      "importance_score": 0.8195,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8088,
+        "recency": 0.7749,
         "story_heat": 0.0
       },
       "category": "official",
@@ -253,7 +253,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-21T06:41:26.973665Z"
+        "scored_at": "2026-07-21T09:39:08.328718Z"
       }
     },
     {
@@ -301,15 +301,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8176,
-      "importance": 0.8176,
-      "importance_score": 0.8176,
+      "score": 0.8115,
+      "importance": 0.8115,
+      "importance_score": 0.8115,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8091,
+        "recency": 0.7752,
         "story_heat": 0.0
       },
       "category": "official",
@@ -336,7 +336,206 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-21T06:41:26.973665Z"
+        "scored_at": "2026-07-21T09:39:08.328718Z"
+      }
+    },
+    {
+      "story_id": "story_7f388aa5cb3e",
+      "title": "ArXiv上超30%新投稿文本特征与AI撰写一致",
+      "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+      "primary_url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0f678a2fdef492aa4c3d0ce4fc36604dbdbe8a8d",
+          "title": "ArXiv上超30%新投稿文本特征与AI撰写一致",
+          "title_zh": "ArXiv上超30%新投稿文本特征与AI撰写一致",
+          "title_en": null,
+          "title_original": "ArXiv上超30%新投稿文本特征与AI撰写一致",
+          "summary": "一项对12，750篇ArXiv论文全文的检测显示，截至2026年7月，约32%的新投稿文本特征与AI撰写一致，该比例在2026年初峰值接近39%。计算机科学领域最高（65%），数学领域最低（0.7%）。检测器在0.4%假阳性率下可识别85%的AI学术文本。",
+          "recommend_reason_zh": null,
+          "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T18:28:23.600000Z"
+        },
+        {
+          "id": "95412d1b76b9b7b7b77082ee99f2276c028a1f93",
+          "title": "我们如何测量 arXiv 上的人工智能写作，以及测量的突破点 / How we measured AI writing across arXiv, and where the measurement breaks",
+          "title_zh": "我们如何测量 arXiv 上的人工智能写作，以及测量的突破点",
+          "title_en": "How we measured AI writing across arXiv, and where the measurement breaks",
+          "title_original": "How we measured AI writing across arXiv, and where the measurement breaks",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=48981206",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-20T20:27:09.213000Z"
+        },
+        {
+          "id": "b2601d5909e76698c05ddcd733411a3d25be597c",
+          "title": "目前，ArXiv上超过30%的新投稿读起来像是人工智能撰写的",
+          "title_zh": "目前，ArXiv上超过30%的新投稿读起来像是人工智能撰写的",
+          "title_en": null,
+          "title_original": "目前，ArXiv上超过30%的新投稿读起来像是人工智能撰写的",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+          "source": "unslop.run",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-20T18:28:23.600000Z"
+        },
+        {
+          "id": "44dc8dd3d7ec855ff1eaccf51cd71cd032284642",
+          "title": "ArXiv上超30%新投稿文本特征与AI撰写一致 / How we measured AI writing across arXiv, and where the measurement breaks",
+          "title_zh": "ArXiv上超30%新投稿文本特征与AI撰写一致",
+          "title_en": "How we measured AI writing across arXiv, and where the measurement breaks",
+          "title_original": "How we measured AI writing across arXiv, and where the measurement breaks",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-20T16:36:36Z"
+        },
+        {
+          "id": "3cbd95b51eb65716652cf72caf1ee928cc34607b",
+          "title": "ArXiv上超30%新投稿文本特征与AI撰写一致 / Over 30% of new ArXiv submissions now read as AI-written",
+          "title_zh": "ArXiv上超30%新投稿文本特征与AI撰写一致",
+          "title_en": "Over 30% of new ArXiv submissions now read as AI-written",
+          "title_original": "Over 30% of new ArXiv submissions now read as AI-written",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-20T16:36:36Z"
+        }
+      ],
+      "source_count": 5,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "hackernews",
+        "unslop.run"
+      ],
+      "items": [
+        {
+          "id": "0f678a2fdef492aa4c3d0ce4fc36604dbdbe8a8d",
+          "title": "ArXiv上超30%新投稿文本特征与AI撰写一致",
+          "title_zh": "ArXiv上超30%新投稿文本特征与AI撰写一致",
+          "title_en": null,
+          "title_original": "ArXiv上超30%新投稿文本特征与AI撰写一致",
+          "summary": "一项对12，750篇ArXiv论文全文的检测显示，截至2026年7月，约32%的新投稿文本特征与AI撰写一致，该比例在2026年初峰值接近39%。计算机科学领域最高（65%），数学领域最低（0.7%）。检测器在0.4%假阳性率下可识别85%的AI学术文本。",
+          "recommend_reason_zh": null,
+          "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T18:28:23.600000Z"
+        },
+        {
+          "id": "95412d1b76b9b7b7b77082ee99f2276c028a1f93",
+          "title": "我们如何测量 arXiv 上的人工智能写作，以及测量的突破点 / How we measured AI writing across arXiv, and where the measurement breaks",
+          "title_zh": "我们如何测量 arXiv 上的人工智能写作，以及测量的突破点",
+          "title_en": "How we measured AI writing across arXiv, and where the measurement breaks",
+          "title_original": "How we measured AI writing across arXiv, and where the measurement breaks",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=48981206",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-20T20:27:09.213000Z"
+        },
+        {
+          "id": "b2601d5909e76698c05ddcd733411a3d25be597c",
+          "title": "目前，ArXiv上超过30%的新投稿读起来像是人工智能撰写的",
+          "title_zh": "目前，ArXiv上超过30%的新投稿读起来像是人工智能撰写的",
+          "title_en": null,
+          "title_original": "目前，ArXiv上超过30%的新投稿读起来像是人工智能撰写的",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+          "source": "unslop.run",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-20T18:28:23.600000Z"
+        },
+        {
+          "id": "44dc8dd3d7ec855ff1eaccf51cd71cd032284642",
+          "title": "ArXiv上超30%新投稿文本特征与AI撰写一致 / How we measured AI writing across arXiv, and where the measurement breaks",
+          "title_zh": "ArXiv上超30%新投稿文本特征与AI撰写一致",
+          "title_en": "How we measured AI writing across arXiv, and where the measurement breaks",
+          "title_original": "How we measured AI writing across arXiv, and where the measurement breaks",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-20T16:36:36Z"
+        },
+        {
+          "id": "3cbd95b51eb65716652cf72caf1ee928cc34607b",
+          "title": "ArXiv上超30%新投稿文本特征与AI撰写一致 / Over 30% of new ArXiv submissions now read as AI-written",
+          "title_zh": "ArXiv上超30%新投稿文本特征与AI撰写一致",
+          "title_en": "Over 30% of new ArXiv submissions now read as AI-written",
+          "title_original": "Over 30% of new ArXiv submissions now read as AI-written",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-20T16:36:36Z"
+        }
+      ],
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.8382,
+      "importance": 0.8382,
+      "importance_score": 0.8382,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8033,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-20T16:36:36Z",
+      "latest_at": "2026-07-20T20:27:09.213000Z",
+      "primary_item": {
+        "id": "0f678a2fdef492aa4c3d0ce4fc36604dbdbe8a8d",
+        "title": "ArXiv上超30%新投稿文本特征与AI撰写一致",
+        "title_zh": "ArXiv上超30%新投稿文本特征与AI撰写一致",
+        "title_en": null,
+        "title_original": "ArXiv上超30%新投稿文本特征与AI撰写一致",
+        "summary": "一项对12，750篇ArXiv论文全文的检测显示，截至2026年7月，约32%的新投稿文本特征与AI撰写一致，该比例在2026年初峰值接近39%。计算机科学领域最高（65%），数学领域最低（0.7%）。检测器在0.4%假阳性率下可识别85%的AI学术文本。",
+        "recommend_reason_zh": null,
+        "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-21T09:39:08.328718Z"
       }
     },
     {
@@ -384,15 +583,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8055,
-      "importance": 0.8055,
-      "importance_score": 0.8055,
+      "score": 0.7999,
+      "importance": 0.7999,
+      "importance_score": 0.7999,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7419,
+        "recency": 0.7108,
         "story_heat": 0.0
       },
       "category": "official",
@@ -419,7 +618,119 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-21T06:41:26.973665Z"
+        "scored_at": "2026-07-21T09:39:08.328718Z"
+      }
+    },
+    {
+      "story_id": "story_3112aab36584",
+      "title": "通义千问发布 Qwen-Image-3.0 图像生成模型，核心关键词为\"实\" / Qwen-Image-3.0： Rich Content， Authentic Details， Deep Knowledge",
+      "url": "https://qwen.ai/blog?id=qwen-image-3.0",
+      "primary_url": "https://qwen.ai/blog?id=qwen-image-3.0",
+      "source": "Qwen：Blog Retrieval（API）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "36d38540011f8f5fcbc9e5b3b53653f01cd2a3d0",
+          "title": "通义千问发布 Qwen-Image-3.0 图像生成模型，核心关键词为\"实\" / Qwen-Image-3.0： Rich Content， Authentic Details， Deep Knowledge",
+          "title_zh": "通义千问发布 Qwen-Image-3.0 图像生成模型，核心关键词为\"实\"",
+          "title_en": "Qwen-Image-3.0： Rich Content， Authentic Details， Deep Knowledge",
+          "title_original": "Qwen-Image-3.0： Rich Content， Authentic Details， Deep Knowledge",
+          "summary": "通义千问发布第三代图像生成基座模型 Qwen-Image-3.0，核心关键词为\"实\"。该模型支持最长 4.5k token 指令输入，可单次生成包含 9 个复杂信息图的 3×3 网格布局；文本渲染精度达 10px，并支持 12 种语言原生渲染，旨在将图像转化为可部署的生产力工具。",
+          "recommend_reason_zh": null,
+          "url": "https://qwen.ai/blog?id=qwen-image-3.0",
+          "source": "Qwen：Blog Retrieval（API）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-21T06:00:00Z"
+        },
+        {
+          "id": "4e4246dba5c5ba1be1f42db1539cc1aac9819851",
+          "title": "通义千问发布 Qwen-Image-3.0 图像生成模型，核心关键词为\"实\" / Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
+          "title_zh": "通义千问发布 Qwen-Image-3.0 图像生成模型，核心关键词为\"实\"",
+          "title_en": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
+          "title_original": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://qwen.ai/blog?id=qwen-image-3.0",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-21T08:44:23Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Qwen：Blog Retrieval（API）"
+      ],
+      "items": [
+        {
+          "id": "36d38540011f8f5fcbc9e5b3b53653f01cd2a3d0",
+          "title": "通义千问发布 Qwen-Image-3.0 图像生成模型，核心关键词为\"实\" / Qwen-Image-3.0： Rich Content， Authentic Details， Deep Knowledge",
+          "title_zh": "通义千问发布 Qwen-Image-3.0 图像生成模型，核心关键词为\"实\"",
+          "title_en": "Qwen-Image-3.0： Rich Content， Authentic Details， Deep Knowledge",
+          "title_original": "Qwen-Image-3.0： Rich Content， Authentic Details， Deep Knowledge",
+          "summary": "通义千问发布第三代图像生成基座模型 Qwen-Image-3.0，核心关键词为\"实\"。该模型支持最长 4.5k token 指令输入，可单次生成包含 9 个复杂信息图的 3×3 网格布局；文本渲染精度达 10px，并支持 12 种语言原生渲染，旨在将图像转化为可部署的生产力工具。",
+          "recommend_reason_zh": null,
+          "url": "https://qwen.ai/blog?id=qwen-image-3.0",
+          "source": "Qwen：Blog Retrieval（API）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-21T06:00:00Z"
+        },
+        {
+          "id": "4e4246dba5c5ba1be1f42db1539cc1aac9819851",
+          "title": "通义千问发布 Qwen-Image-3.0 图像生成模型，核心关键词为\"实\" / Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
+          "title_zh": "通义千问发布 Qwen-Image-3.0 图像生成模型，核心关键词为\"实\"",
+          "title_en": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
+          "title_original": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://qwen.ai/blog?id=qwen-image-3.0",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-21T08:44:23Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7984,
+      "importance": 0.7984,
+      "importance_score": 0.7984,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9488,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-21T06:00:00Z",
+      "latest_at": "2026-07-21T08:44:23Z",
+      "primary_item": {
+        "id": "36d38540011f8f5fcbc9e5b3b53653f01cd2a3d0",
+        "title": "通义千问发布 Qwen-Image-3.0 图像生成模型，核心关键词为\"实\" / Qwen-Image-3.0： Rich Content， Authentic Details， Deep Knowledge",
+        "title_zh": "通义千问发布 Qwen-Image-3.0 图像生成模型，核心关键词为\"实\"",
+        "title_en": "Qwen-Image-3.0： Rich Content， Authentic Details， Deep Knowledge",
+        "title_original": "Qwen-Image-3.0： Rich Content， Authentic Details， Deep Knowledge",
+        "summary": "通义千问发布第三代图像生成基座模型 Qwen-Image-3.0，核心关键词为\"实\"。该模型支持最长 4.5k token 指令输入，可单次生成包含 9 个复杂信息图的 3×3 网格布局；文本渲染精度达 10px，并支持 12 种语言原生渲染，旨在将图像转化为可部署的生产力工具。",
+        "recommend_reason_zh": null,
+        "url": "https://qwen.ai/blog?id=qwen-image-3.0",
+        "source": "Qwen：Blog Retrieval（API）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-21T09:39:08.328718Z"
       }
     },
     {
@@ -467,15 +778,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8148,
-      "importance": 0.8148,
-      "importance_score": 0.8148,
+      "score": 0.8085,
+      "importance": 0.8085,
+      "importance_score": 0.8085,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8377,
+        "recency": 0.8025,
         "story_heat": 0.0
       },
       "category": "official",
@@ -502,112 +813,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-21T06:41:26.973665Z"
+        "scored_at": "2026-07-21T09:39:08.328718Z"
       }
     },
     {
-      "story_id": "story_3112aab36584",
-      "title": "通义千问发布 Qwen-Image-3.0 图像生成模型，核心关键词为\"实\" / Qwen-Image-3.0： Rich Content， Authentic Details， Deep Knowledge",
-      "url": "https://qwen.ai/blog?id=qwen-image-3.0",
-      "primary_url": "https://qwen.ai/blog?id=qwen-image-3.0",
-      "source": "Qwen：Blog Retrieval（API）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "36d38540011f8f5fcbc9e5b3b53653f01cd2a3d0",
-          "title": "通义千问发布 Qwen-Image-3.0 图像生成模型，核心关键词为\"实\" / Qwen-Image-3.0： Rich Content， Authentic Details， Deep Knowledge",
-          "title_zh": "通义千问发布 Qwen-Image-3.0 图像生成模型，核心关键词为\"实\"",
-          "title_en": "Qwen-Image-3.0： Rich Content， Authentic Details， Deep Knowledge",
-          "title_original": "Qwen-Image-3.0： Rich Content， Authentic Details， Deep Knowledge",
-          "summary": "通义千问发布第三代图像生成基座模型 Qwen-Image-3.0，核心关键词为\"实\"。该模型支持最长 4.5k token 指令输入，可单次生成包含 9 个复杂信息图的 3×3 网格布局；文本渲染精度达 10px，并支持 12 种语言原生渲染，旨在将图像转化为可部署的生产力工具。",
-          "recommend_reason_zh": null,
-          "url": "https://qwen.ai/blog?id=qwen-image-3.0",
-          "source": "Qwen：Blog Retrieval（API）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T06:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Qwen：Blog Retrieval（API）"
-      ],
-      "items": [
-        {
-          "id": "36d38540011f8f5fcbc9e5b3b53653f01cd2a3d0",
-          "title": "通义千问发布 Qwen-Image-3.0 图像生成模型，核心关键词为\"实\" / Qwen-Image-3.0： Rich Content， Authentic Details， Deep Knowledge",
-          "title_zh": "通义千问发布 Qwen-Image-3.0 图像生成模型，核心关键词为\"实\"",
-          "title_en": "Qwen-Image-3.0： Rich Content， Authentic Details， Deep Knowledge",
-          "title_original": "Qwen-Image-3.0： Rich Content， Authentic Details， Deep Knowledge",
-          "summary": "通义千问发布第三代图像生成基座模型 Qwen-Image-3.0，核心关键词为\"实\"。该模型支持最长 4.5k token 指令输入，可单次生成包含 9 个复杂信息图的 3×3 网格布局；文本渲染精度达 10px，并支持 12 种语言原生渲染，旨在将图像转化为可部署的生产力工具。",
-          "recommend_reason_zh": null,
-          "url": "https://qwen.ai/blog?id=qwen-image-3.0",
-          "source": "Qwen：Blog Retrieval（API）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T06:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7809,
-      "importance": 0.7809,
-      "importance_score": 0.7809,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9903,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-21T06:00:00Z",
-      "latest_at": "2026-07-21T06:00:00Z",
-      "primary_item": {
-        "id": "36d38540011f8f5fcbc9e5b3b53653f01cd2a3d0",
-        "title": "通义千问发布 Qwen-Image-3.0 图像生成模型，核心关键词为\"实\" / Qwen-Image-3.0： Rich Content， Authentic Details， Deep Knowledge",
-        "title_zh": "通义千问发布 Qwen-Image-3.0 图像生成模型，核心关键词为\"实\"",
-        "title_en": "Qwen-Image-3.0： Rich Content， Authentic Details， Deep Knowledge",
-        "title_original": "Qwen-Image-3.0： Rich Content， Authentic Details， Deep Knowledge",
-        "summary": "通义千问发布第三代图像生成基座模型 Qwen-Image-3.0，核心关键词为\"实\"。该模型支持最长 4.5k token 指令输入，可单次生成包含 9 个复杂信息图的 3×3 网格布局；文本渲染精度达 10px，并支持 12 种语言原生渲染，旨在将图像转化为可部署的生产力工具。",
-        "recommend_reason_zh": null,
-        "url": "https://qwen.ai/blog?id=qwen-image-3.0",
-        "source": "Qwen：Blog Retrieval（API）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-21T06:41:26.973665Z"
-      }
-    },
-    {
-      "story_id": "story_0c4ce1cb129d",
-      "title": "110 亿参数塞进六类科学大脑：上智院开放\"神珍\"多模态模型，从蛋白质到气象场一个模型全读懂",
-      "url": "https://www.aibase.com/news/29746",
-      "primary_url": "https://www.aibase.com/news/29746",
+      "story_id": "story_980f9fb15e19",
+      "title": "AI热潮狂飙！韩国 7 月出口再创纪录 芯片暴增超1. 8 倍",
+      "url": "https://www.aibase.com/news/29750",
+      "primary_url": "https://www.aibase.com/news/29750",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "a9d33358b322e536d722101bb2a3b29822c5cef1",
-          "title": "110 亿参数塞进六类科学大脑：上智院开放\"神珍\"多模态模型，从蛋白质到气象场一个模型全读懂",
-          "title_zh": "110 亿参数塞进六类科学大脑：上智院开放\"神珍\"多模态模型，从蛋白质到气象场一个模型全读懂",
+          "id": "033f5f33eb840d8ce0221250398a553ae16446f5",
+          "title": "AI热潮狂飙！韩国 7 月出口再创纪录 芯片暴增超1. 8 倍",
+          "title_zh": "AI热潮狂飙！韩国 7 月出口再创纪录 芯片暴增超1. 8 倍",
           "title_en": null,
-          "title_original": "110 亿参数塞进六类科学大脑：上智院开放\"神珍\"多模态模型，从蛋白质到气象场一个模型全读懂",
+          "title_original": "AI热潮狂飙！韩国 7 月出口再创纪录 芯片暴增超1. 8 倍",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29746",
+          "url": "https://www.aibase.com/news/29750",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-21T06:40:17.825982Z"
+          "published_at": "2026-07-21T09:38:24.971717Z"
         }
       ],
       "source_count": 1,
@@ -616,18 +845,18 @@
       ],
       "items": [
         {
-          "id": "a9d33358b322e536d722101bb2a3b29822c5cef1",
-          "title": "110 亿参数塞进六类科学大脑：上智院开放\"神珍\"多模态模型，从蛋白质到气象场一个模型全读懂",
-          "title_zh": "110 亿参数塞进六类科学大脑：上智院开放\"神珍\"多模态模型，从蛋白质到气象场一个模型全读懂",
+          "id": "033f5f33eb840d8ce0221250398a553ae16446f5",
+          "title": "AI热潮狂飙！韩国 7 月出口再创纪录 芯片暴增超1. 8 倍",
+          "title_zh": "AI热潮狂飙！韩国 7 月出口再创纪录 芯片暴增超1. 8 倍",
           "title_en": null,
-          "title_original": "110 亿参数塞进六类科学大脑：上智院开放\"神珍\"多模态模型，从蛋白质到气象场一个模型全读懂",
+          "title_original": "AI热潮狂飙！韩国 7 月出口再创纪录 芯片暴增超1. 8 倍",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29746",
+          "url": "https://www.aibase.com/news/29750",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-21T06:40:17.825982Z"
+          "published_at": "2026-07-21T09:38:24.971717Z"
         }
       ],
       "item_count": 1,
@@ -648,17 +877,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-21T06:40:17.825982Z",
-      "latest_at": "2026-07-21T06:40:17.825982Z",
+      "earliest_at": "2026-07-21T09:38:24.971717Z",
+      "latest_at": "2026-07-21T09:38:24.971717Z",
       "primary_item": {
-        "id": "a9d33358b322e536d722101bb2a3b29822c5cef1",
-        "title": "110 亿参数塞进六类科学大脑：上智院开放\"神珍\"多模态模型，从蛋白质到气象场一个模型全读懂",
-        "title_zh": "110 亿参数塞进六类科学大脑：上智院开放\"神珍\"多模态模型，从蛋白质到气象场一个模型全读懂",
+        "id": "033f5f33eb840d8ce0221250398a553ae16446f5",
+        "title": "AI热潮狂飙！韩国 7 月出口再创纪录 芯片暴增超1. 8 倍",
+        "title_zh": "AI热潮狂飙！韩国 7 月出口再创纪录 芯片暴增超1. 8 倍",
         "title_en": null,
-        "title_original": "110 亿参数塞进六类科学大脑：上智院开放\"神珍\"多模态模型，从蛋白质到气象场一个模型全读懂",
+        "title_original": "AI热潮狂飙！韩国 7 月出口再创纪录 芯片暴增超1. 8 倍",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/29746",
+        "url": "https://www.aibase.com/news/29750",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -666,148 +895,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-21T06:41:26.973665Z"
-      }
-    },
-    {
-      "story_id": "story_7f388aa5cb3e",
-      "title": "ArXiv上超30%新投稿文本特征与AI撰写一致",
-      "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
-      "primary_url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0f678a2fdef492aa4c3d0ce4fc36604dbdbe8a8d",
-          "title": "ArXiv上超30%新投稿文本特征与AI撰写一致",
-          "title_zh": "ArXiv上超30%新投稿文本特征与AI撰写一致",
-          "title_en": null,
-          "title_original": "ArXiv上超30%新投稿文本特征与AI撰写一致",
-          "summary": "一项对12，750篇ArXiv论文全文的检测显示，截至2026年7月，约32%的新投稿文本特征与AI撰写一致，该比例在2026年初峰值接近39%。计算机科学领域最高（65%），数学领域最低（0.7%）。检测器在0.4%假阳性率下可识别85%的AI学术文本。",
-          "recommend_reason_zh": null,
-          "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T18:28:23.600000Z"
-        },
-        {
-          "id": "b2601d5909e76698c05ddcd733411a3d25be597c",
-          "title": "目前，ArXiv上超过30%的新投稿读起来像是人工智能撰写的",
-          "title_zh": "目前，ArXiv上超过30%的新投稿读起来像是人工智能撰写的",
-          "title_en": null,
-          "title_original": "目前，ArXiv上超过30%的新投稿读起来像是人工智能撰写的",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
-          "source": "unslop.run",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-20T18:28:23.600000Z"
-        },
-        {
-          "id": "3c5cafa69cae492adc835a138f64ec57c7d6bfdb",
-          "title": "ArXiv上超30%新投稿文本特征与AI撰写一致 / How we measured AI writing across arXiv, and where the measurement breaks",
-          "title_zh": "ArXiv上超30%新投稿文本特征与AI撰写一致",
-          "title_en": "How we measured AI writing across arXiv, and where the measurement breaks",
-          "title_original": "How we measured AI writing across arXiv, and where the measurement breaks",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-20T16:36:36Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "unslop.run"
-      ],
-      "items": [
-        {
-          "id": "0f678a2fdef492aa4c3d0ce4fc36604dbdbe8a8d",
-          "title": "ArXiv上超30%新投稿文本特征与AI撰写一致",
-          "title_zh": "ArXiv上超30%新投稿文本特征与AI撰写一致",
-          "title_en": null,
-          "title_original": "ArXiv上超30%新投稿文本特征与AI撰写一致",
-          "summary": "一项对12，750篇ArXiv论文全文的检测显示，截至2026年7月，约32%的新投稿文本特征与AI撰写一致，该比例在2026年初峰值接近39%。计算机科学领域最高（65%），数学领域最低（0.7%）。检测器在0.4%假阳性率下可识别85%的AI学术文本。",
-          "recommend_reason_zh": null,
-          "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T18:28:23.600000Z"
-        },
-        {
-          "id": "b2601d5909e76698c05ddcd733411a3d25be597c",
-          "title": "目前，ArXiv上超过30%的新投稿读起来像是人工智能撰写的",
-          "title_zh": "目前，ArXiv上超过30%的新投稿读起来像是人工智能撰写的",
-          "title_en": null,
-          "title_original": "目前，ArXiv上超过30%的新投稿读起来像是人工智能撰写的",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
-          "source": "unslop.run",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-20T18:28:23.600000Z"
-        },
-        {
-          "id": "3c5cafa69cae492adc835a138f64ec57c7d6bfdb",
-          "title": "ArXiv上超30%新投稿文本特征与AI撰写一致 / How we measured AI writing across arXiv, and where the measurement breaks",
-          "title_zh": "ArXiv上超30%新投稿文本特征与AI撰写一致",
-          "title_en": "How we measured AI writing across arXiv, and where the measurement breaks",
-          "title_original": "How we measured AI writing across arXiv, and where the measurement breaks",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-20T16:36:36Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7945,
-      "importance": 0.7945,
-      "importance_score": 0.7945,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8385,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-20T16:36:36Z",
-      "latest_at": "2026-07-20T18:28:23.600000Z",
-      "primary_item": {
-        "id": "0f678a2fdef492aa4c3d0ce4fc36604dbdbe8a8d",
-        "title": "ArXiv上超30%新投稿文本特征与AI撰写一致",
-        "title_zh": "ArXiv上超30%新投稿文本特征与AI撰写一致",
-        "title_en": null,
-        "title_original": "ArXiv上超30%新投稿文本特征与AI撰写一致",
-        "summary": "一项对12，750篇ArXiv论文全文的检测显示，截至2026年7月，约32%的新投稿文本特征与AI撰写一致，该比例在2026年初峰值接近39%。计算机科学领域最高（65%），数学领域最低（0.7%）。检测器在0.4%假阳性率下可识别85%的AI学术文本。",
-        "recommend_reason_zh": null,
-        "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-21T06:41:26.973665Z"
+        "scored_at": "2026-07-21T09:39:08.328718Z"
       }
     },
     {
@@ -884,15 +972,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7595,
-      "importance": 0.7595,
-      "importance_score": 0.7595,
+      "score": 0.7537,
+      "importance": 0.7537,
+      "importance_score": 0.7537,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.766,
+        "recency": 0.7339,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -919,7 +1007,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-21T06:41:26.973665Z"
+        "scored_at": "2026-07-21T09:39:08.328718Z"
       }
     },
     {
@@ -967,15 +1055,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7588,
-      "importance": 0.7588,
-      "importance_score": 0.7588,
+      "score": 0.7517,
+      "importance": 0.7517,
+      "importance_score": 0.7517,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9343,
+        "recency": 0.8951,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1001,7 +1089,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-21T06:41:26.973665Z"
+        "scored_at": "2026-07-21T09:39:08.328718Z"
       }
     },
     {
@@ -1049,15 +1137,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8035,
-      "importance": 0.8035,
-      "importance_score": 0.8035,
+      "score": 0.7977,
+      "importance": 0.7977,
+      "importance_score": 0.7977,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.775,
+        "recency": 0.7425,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1084,30 +1172,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-21T06:41:26.973665Z"
+        "scored_at": "2026-07-21T09:39:08.328718Z"
       }
     },
     {
-      "story_id": "story_75763ac08cfb",
-      "title": "人形机器人迎来飞跃！逐际动力张巍：智能水平已达 GPT-3 阶段",
-      "url": "https://www.aibase.com/news/29745",
-      "primary_url": "https://www.aibase.com/news/29745",
+      "story_id": "story_660ae8f26457",
+      "title": "Anthropic Fable 5 训练成本三倍于开源模型，未来面临挑战",
+      "url": "https://www.aibase.com/news/29760",
+      "primary_url": "https://www.aibase.com/news/29760",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "768c0e0b585c017b97a1136caec8aa8f5dde0df1",
-          "title": "人形机器人迎来飞跃！逐际动力张巍：智能水平已达 GPT-3 阶段",
-          "title_zh": "人形机器人迎来飞跃！逐际动力张巍：智能水平已达 GPT-3 阶段",
+          "id": "309eee4527aad332d44f52eb7a2b212c1fbf72ed",
+          "title": "Anthropic Fable 5 训练成本三倍于开源模型，未来面临挑战",
+          "title_zh": "Anthropic Fable 5 训练成本三倍于开源模型，未来面临挑战",
           "title_en": null,
-          "title_original": "人形机器人迎来飞跃！逐际动力张巍：智能水平已达 GPT-3 阶段",
+          "title_original": "Anthropic Fable 5 训练成本三倍于开源模型，未来面临挑战",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29745",
+          "url": "https://www.aibase.com/news/29760",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-21T06:40:17.825982Z"
+          "published_at": "2026-07-21T09:38:24.971717Z"
         }
       ],
       "source_count": 1,
@@ -1116,18 +1204,18 @@
       ],
       "items": [
         {
-          "id": "768c0e0b585c017b97a1136caec8aa8f5dde0df1",
-          "title": "人形机器人迎来飞跃！逐际动力张巍：智能水平已达 GPT-3 阶段",
-          "title_zh": "人形机器人迎来飞跃！逐际动力张巍：智能水平已达 GPT-3 阶段",
+          "id": "309eee4527aad332d44f52eb7a2b212c1fbf72ed",
+          "title": "Anthropic Fable 5 训练成本三倍于开源模型，未来面临挑战",
+          "title_zh": "Anthropic Fable 5 训练成本三倍于开源模型，未来面临挑战",
           "title_en": null,
-          "title_original": "人形机器人迎来飞跃！逐际动力张巍：智能水平已达 GPT-3 阶段",
+          "title_original": "Anthropic Fable 5 训练成本三倍于开源模型，未来面临挑战",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29745",
+          "url": "https://www.aibase.com/news/29760",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-21T06:40:17.825982Z"
+          "published_at": "2026-07-21T09:38:24.971717Z"
         }
       ],
       "item_count": 1,
@@ -1148,17 +1236,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-21T06:40:17.825982Z",
-      "latest_at": "2026-07-21T06:40:17.825982Z",
+      "earliest_at": "2026-07-21T09:38:24.971717Z",
+      "latest_at": "2026-07-21T09:38:24.971717Z",
       "primary_item": {
-        "id": "768c0e0b585c017b97a1136caec8aa8f5dde0df1",
-        "title": "人形机器人迎来飞跃！逐际动力张巍：智能水平已达 GPT-3 阶段",
-        "title_zh": "人形机器人迎来飞跃！逐际动力张巍：智能水平已达 GPT-3 阶段",
+        "id": "309eee4527aad332d44f52eb7a2b212c1fbf72ed",
+        "title": "Anthropic Fable 5 训练成本三倍于开源模型，未来面临挑战",
+        "title_zh": "Anthropic Fable 5 训练成本三倍于开源模型，未来面临挑战",
         "title_en": null,
-        "title_original": "人形机器人迎来飞跃！逐际动力张巍：智能水平已达 GPT-3 阶段",
+        "title_original": "Anthropic Fable 5 训练成本三倍于开源模型，未来面临挑战",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/29745",
+        "url": "https://www.aibase.com/news/29760",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1166,7 +1254,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-21T06:41:26.973665Z"
+        "scored_at": "2026-07-21T09:39:08.328718Z"
       }
     },
     {
@@ -1214,15 +1302,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7357,
-      "importance": 0.7357,
-      "importance_score": 0.7357,
+      "score": 0.7285,
+      "importance": 0.7285,
+      "importance_score": 0.7285,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.64,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.956,
+        "recency": 0.9158,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1247,7 +1335,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-21T06:41:26.973665Z"
+        "scored_at": "2026-07-21T09:39:08.328718Z"
       }
     },
     {
@@ -1295,15 +1383,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7299,
-      "importance": 0.7299,
-      "importance_score": 0.7299,
+      "score": 0.7229,
+      "importance": 0.7229,
+      "importance_score": 0.7229,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.64,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9238,
+        "recency": 0.885,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1328,7 +1416,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-21T06:41:26.973665Z"
+        "scored_at": "2026-07-21T09:39:08.328718Z"
       }
     },
     {
@@ -1405,15 +1493,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7261,
-      "importance": 0.7261,
-      "importance_score": 0.7261,
+      "score": 0.7203,
+      "importance": 0.7203,
+      "importance_score": 0.7203,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.64,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7637,
+        "recency": 0.7316,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1439,88 +1527,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-21T06:41:26.973665Z"
-      }
-    },
-    {
-      "story_id": "story_1d380b987a08",
-      "title": "Grok for Excel 发布：在 Microsoft Excel 中用自然语言提问、写公式和运行场景 / Grok for Excel",
-      "url": "https://x.ai/news/introducing-excel-addin",
-      "primary_url": "https://x.ai/news/introducing-excel-addin",
-      "source": "xAI：News（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f6697f4ca470f898348aef165d8193b250e8b902",
-          "title": "Grok for Excel 发布：在 Microsoft Excel 中用自然语言提问、写公式和运行场景 / Grok for Excel",
-          "title_zh": "Grok for Excel 发布：在 Microsoft Excel 中用自然语言提问、写公式和运行场景",
-          "title_en": "Grok for Excel",
-          "title_original": "Grok for Excel",
-          "summary": "xAI 将 Grok 引入 Microsoft Excel，推出免费 Microsoft 365 加载项。用户可在工作表中用自然语言提问、根据描述编写公式或运行场景，答案会引用具体单元格，图表可直接插入工作表。该加载项还支持连接 SharePoint 或 Google Drive 获取上下文，并已同步支持 Word 和 PowerPoint。",
-          "recommend_reason_zh": null,
-          "url": "https://x.ai/news/introducing-excel-addin",
-          "source": "xAI：News（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T16:19:52.655000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "xAI：News（网页）"
-      ],
-      "items": [
-        {
-          "id": "f6697f4ca470f898348aef165d8193b250e8b902",
-          "title": "Grok for Excel 发布：在 Microsoft Excel 中用自然语言提问、写公式和运行场景 / Grok for Excel",
-          "title_zh": "Grok for Excel 发布：在 Microsoft Excel 中用自然语言提问、写公式和运行场景",
-          "title_en": "Grok for Excel",
-          "title_original": "Grok for Excel",
-          "summary": "xAI 将 Grok 引入 Microsoft Excel，推出免费 Microsoft 365 加载项。用户可在工作表中用自然语言提问、根据描述编写公式或运行场景，答案会引用具体单元格，图表可直接插入工作表。该加载项还支持连接 SharePoint 或 Google Drive 获取上下文，并已同步支持 Word 和 PowerPoint。",
-          "recommend_reason_zh": null,
-          "url": "https://x.ai/news/introducing-excel-addin",
-          "source": "xAI：News（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T16:19:52.655000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7249,
-      "importance": 0.7249,
-      "importance_score": 0.7249,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.813,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-20T16:19:52.655000Z",
-      "latest_at": "2026-07-20T16:19:52.655000Z",
-      "primary_item": {
-        "id": "f6697f4ca470f898348aef165d8193b250e8b902",
-        "title": "Grok for Excel 发布：在 Microsoft Excel 中用自然语言提问、写公式和运行场景 / Grok for Excel",
-        "title_zh": "Grok for Excel 发布：在 Microsoft Excel 中用自然语言提问、写公式和运行场景",
-        "title_en": "Grok for Excel",
-        "title_original": "Grok for Excel",
-        "summary": "xAI 将 Grok 引入 Microsoft Excel，推出免费 Microsoft 365 加载项。用户可在工作表中用自然语言提问、根据描述编写公式或运行场景，答案会引用具体单元格，图表可直接插入工作表。该加载项还支持连接 SharePoint 或 Google Drive 获取上下文，并已同步支持 Word 和 PowerPoint。",
-        "recommend_reason_zh": null,
-        "url": "https://x.ai/news/introducing-excel-addin",
-        "source": "xAI：News（网页）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-21T06:41:26.973665Z"
+        "scored_at": "2026-07-21T09:39:08.328718Z"
       }
     },
     {
@@ -1568,15 +1575,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7485,
-      "importance": 0.7485,
-      "importance_score": 0.7485,
+      "score": 0.7423,
+      "importance": 0.7423,
+      "importance_score": 0.7423,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8273,
+        "recency": 0.7926,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1601,30 +1608,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-21T06:41:26.973665Z"
+        "scored_at": "2026-07-21T09:39:08.328718Z"
       }
     },
     {
-      "story_id": "story_58e7082eb8a9",
-      "title": "机器人其实比汽车好造：逐际动力张巍称人形机器人大脑已到GPT-3，行业正处指数拐点",
-      "url": "https://www.aibase.com/news/29749",
-      "primary_url": "https://www.aibase.com/news/29749",
+      "story_id": "story_311641596bf6",
+      "title": "Kimi3引发访问热潮:月之暗面回应资源紧张，优先保障付费用户",
+      "url": "https://www.aibase.com/news/29755",
+      "primary_url": "https://www.aibase.com/news/29755",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "f2d4a7e2844703cd65a920c607f5d0dea1b8e980",
-          "title": "机器人其实比汽车好造：逐际动力张巍称人形机器人大脑已到GPT-3，行业正处指数拐点",
-          "title_zh": "机器人其实比汽车好造：逐际动力张巍称人形机器人大脑已到GPT-3，行业正处指数拐点",
+          "id": "4b3cd8ccb379262a1b99305db95e3598e0cffba2",
+          "title": "Kimi3引发访问热潮:月之暗面回应资源紧张，优先保障付费用户",
+          "title_zh": "Kimi3引发访问热潮:月之暗面回应资源紧张，优先保障付费用户",
           "title_en": null,
-          "title_original": "机器人其实比汽车好造：逐际动力张巍称人形机器人大脑已到GPT-3，行业正处指数拐点",
+          "title_original": "Kimi3引发访问热潮:月之暗面回应资源紧张，优先保障付费用户",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29749",
+          "url": "https://www.aibase.com/news/29755",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-21T06:40:17.825982Z"
+          "published_at": "2026-07-21T09:38:24.971717Z"
         }
       ],
       "source_count": 1,
@@ -1633,18 +1640,18 @@
       ],
       "items": [
         {
-          "id": "f2d4a7e2844703cd65a920c607f5d0dea1b8e980",
-          "title": "机器人其实比汽车好造：逐际动力张巍称人形机器人大脑已到GPT-3，行业正处指数拐点",
-          "title_zh": "机器人其实比汽车好造：逐际动力张巍称人形机器人大脑已到GPT-3，行业正处指数拐点",
+          "id": "4b3cd8ccb379262a1b99305db95e3598e0cffba2",
+          "title": "Kimi3引发访问热潮:月之暗面回应资源紧张，优先保障付费用户",
+          "title_zh": "Kimi3引发访问热潮:月之暗面回应资源紧张，优先保障付费用户",
           "title_en": null,
-          "title_original": "机器人其实比汽车好造：逐际动力张巍称人形机器人大脑已到GPT-3，行业正处指数拐点",
+          "title_original": "Kimi3引发访问热潮:月之暗面回应资源紧张，优先保障付费用户",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29749",
+          "url": "https://www.aibase.com/news/29755",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-21T06:40:17.825982Z"
+          "published_at": "2026-07-21T09:38:24.971717Z"
         }
       ],
       "item_count": 1,
@@ -1665,17 +1672,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-21T06:40:17.825982Z",
-      "latest_at": "2026-07-21T06:40:17.825982Z",
+      "earliest_at": "2026-07-21T09:38:24.971717Z",
+      "latest_at": "2026-07-21T09:38:24.971717Z",
       "primary_item": {
-        "id": "f2d4a7e2844703cd65a920c607f5d0dea1b8e980",
-        "title": "机器人其实比汽车好造：逐际动力张巍称人形机器人大脑已到GPT-3，行业正处指数拐点",
-        "title_zh": "机器人其实比汽车好造：逐际动力张巍称人形机器人大脑已到GPT-3，行业正处指数拐点",
+        "id": "4b3cd8ccb379262a1b99305db95e3598e0cffba2",
+        "title": "Kimi3引发访问热潮:月之暗面回应资源紧张，优先保障付费用户",
+        "title_zh": "Kimi3引发访问热潮:月之暗面回应资源紧张，优先保障付费用户",
         "title_en": null,
-        "title_original": "机器人其实比汽车好造：逐际动力张巍称人形机器人大脑已到GPT-3，行业正处指数拐点",
+        "title_original": "Kimi3引发访问热潮:月之暗面回应资源紧张，优先保障付费用户",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/29749",
+        "url": "https://www.aibase.com/news/29755",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1683,7 +1690,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-21T06:41:26.973665Z"
+        "scored_at": "2026-07-21T09:39:08.328718Z"
       }
     },
     {
@@ -1731,15 +1738,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7495,
-      "importance": 0.7495,
-      "importance_score": 0.7495,
+      "score": 0.7425,
+      "importance": 0.7425,
+      "importance_score": 0.7425,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9159,
+        "recency": 0.8775,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1764,30 +1771,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-21T06:41:26.973665Z"
+        "scored_at": "2026-07-21T09:39:08.328718Z"
       }
     },
     {
-      "story_id": "story_c10c9fd8c9aa",
-      "title": "腾讯混元发布科研智能体Hyra-1.0，单一框架打通AI研发与科学发现",
-      "url": "https://www.aibase.com/news/29747",
-      "primary_url": "https://www.aibase.com/news/29747",
+      "story_id": "story_798a640da06c",
+      "title": "OpenAI扩大ChatGPT家长通知，青少年暴力违规将触发提醒",
+      "url": "https://www.aibase.com/news/29759",
+      "primary_url": "https://www.aibase.com/news/29759",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "8b2a2fbefe1050440de1c58cf8196894669de51d",
-          "title": "腾讯混元发布科研智能体Hyra-1.0，单一框架打通AI研发与科学发现",
-          "title_zh": "腾讯混元发布科研智能体Hyra-1.0，单一框架打通AI研发与科学发现",
+          "id": "dc24079ba3525f8a0de78f68d6af5e115a870379",
+          "title": "OpenAI扩大ChatGPT家长通知，青少年暴力违规将触发提醒",
+          "title_zh": "OpenAI扩大ChatGPT家长通知，青少年暴力违规将触发提醒",
           "title_en": null,
-          "title_original": "腾讯混元发布科研智能体Hyra-1.0，单一框架打通AI研发与科学发现",
+          "title_original": "OpenAI扩大ChatGPT家长通知，青少年暴力违规将触发提醒",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29747",
+          "url": "https://www.aibase.com/news/29759",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-21T06:40:17.825982Z"
+          "published_at": "2026-07-21T09:38:24.971717Z"
         }
       ],
       "source_count": 1,
@@ -1796,18 +1803,18 @@
       ],
       "items": [
         {
-          "id": "8b2a2fbefe1050440de1c58cf8196894669de51d",
-          "title": "腾讯混元发布科研智能体Hyra-1.0，单一框架打通AI研发与科学发现",
-          "title_zh": "腾讯混元发布科研智能体Hyra-1.0，单一框架打通AI研发与科学发现",
+          "id": "dc24079ba3525f8a0de78f68d6af5e115a870379",
+          "title": "OpenAI扩大ChatGPT家长通知，青少年暴力违规将触发提醒",
+          "title_zh": "OpenAI扩大ChatGPT家长通知，青少年暴力违规将触发提醒",
           "title_en": null,
-          "title_original": "腾讯混元发布科研智能体Hyra-1.0，单一框架打通AI研发与科学发现",
+          "title_original": "OpenAI扩大ChatGPT家长通知，青少年暴力违规将触发提醒",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29747",
+          "url": "https://www.aibase.com/news/29759",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-21T06:40:17.825982Z"
+          "published_at": "2026-07-21T09:38:24.971717Z"
         }
       ],
       "item_count": 1,
@@ -1828,17 +1835,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-21T06:40:17.825982Z",
-      "latest_at": "2026-07-21T06:40:17.825982Z",
+      "earliest_at": "2026-07-21T09:38:24.971717Z",
+      "latest_at": "2026-07-21T09:38:24.971717Z",
       "primary_item": {
-        "id": "8b2a2fbefe1050440de1c58cf8196894669de51d",
-        "title": "腾讯混元发布科研智能体Hyra-1.0，单一框架打通AI研发与科学发现",
-        "title_zh": "腾讯混元发布科研智能体Hyra-1.0，单一框架打通AI研发与科学发现",
+        "id": "dc24079ba3525f8a0de78f68d6af5e115a870379",
+        "title": "OpenAI扩大ChatGPT家长通知，青少年暴力违规将触发提醒",
+        "title_zh": "OpenAI扩大ChatGPT家长通知，青少年暴力违规将触发提醒",
         "title_en": null,
-        "title_original": "腾讯混元发布科研智能体Hyra-1.0，单一框架打通AI研发与科学发现",
+        "title_original": "OpenAI扩大ChatGPT家长通知，青少年暴力违规将触发提醒",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/29747",
+        "url": "https://www.aibase.com/news/29759",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1846,7 +1853,118 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-21T06:41:26.973665Z"
+        "scored_at": "2026-07-21T09:39:08.328718Z"
+      }
+    },
+    {
+      "story_id": "story_f7f39d4701ab",
+      "title": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率",
+      "url": "https://github.com/Saivineeth147/lora-speedrun",
+      "primary_url": "https://github.com/Saivineeth147/lora-speedrun",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4ae616fd44dae4d7e25ba518ae7bb2a13987c887",
+          "title": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率",
+          "title_zh": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率",
+          "title_en": null,
+          "title_original": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率",
+          "summary": "LoRA Speedrun项目推出公开排行榜，在固定硬件（单张L40S）上比拼Qwen2.5-1.5B的微调运行时间。当前纪录由@Saivineeth147以6分05秒保持，采用序列打包与仅完成损失掩码技术，相比基线11分57秒提速约2倍且准确率更高（61.1%）。项目提供免费Modal沙箱验证，任何提交需经3次独立复现确认。",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/Saivineeth147/lora-speedrun",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T12:21:09.021000Z"
+        },
+        {
+          "id": "4e726cae0601b10c3192da887c86074b0b4a7bc9",
+          "title": "LoRA Speedrun——一个针对微调技术的公开实际运行时间排行榜",
+          "title_zh": "LoRA Speedrun——一个针对微调技术的公开实际运行时间排行榜",
+          "title_en": null,
+          "title_original": "LoRA Speedrun——一个针对微调技术的公开实际运行时间排行榜",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/Saivineeth147/lora-speedrun",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-20T12:21:09.021000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "github.com"
+      ],
+      "items": [
+        {
+          "id": "4ae616fd44dae4d7e25ba518ae7bb2a13987c887",
+          "title": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率",
+          "title_zh": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率",
+          "title_en": null,
+          "title_original": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率",
+          "summary": "LoRA Speedrun项目推出公开排行榜，在固定硬件（单张L40S）上比拼Qwen2.5-1.5B的微调运行时间。当前纪录由@Saivineeth147以6分05秒保持，采用序列打包与仅完成损失掩码技术，相比基线11分57秒提速约2倍且准确率更高（61.1%）。项目提供免费Modal沙箱验证，任何提交需经3次独立复现确认。",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/Saivineeth147/lora-speedrun",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T12:21:09.021000Z"
+        },
+        {
+          "id": "4e726cae0601b10c3192da887c86074b0b4a7bc9",
+          "title": "LoRA Speedrun——一个针对微调技术的公开实际运行时间排行榜",
+          "title_zh": "LoRA Speedrun——一个针对微调技术的公开实际运行时间排行榜",
+          "title_en": null,
+          "title_original": "LoRA Speedrun——一个针对微调技术的公开实际运行时间排行榜",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/Saivineeth147/lora-speedrun",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-20T12:21:09.021000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.739,
+      "importance": 0.739,
+      "importance_score": 0.739,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7354,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-20T12:21:09.021000Z",
+      "latest_at": "2026-07-20T12:21:09.021000Z",
+      "primary_item": {
+        "id": "4ae616fd44dae4d7e25ba518ae7bb2a13987c887",
+        "title": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率",
+        "title_zh": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率",
+        "title_en": null,
+        "title_original": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率",
+        "summary": "LoRA Speedrun项目推出公开排行榜，在固定硬件（单张L40S）上比拼Qwen2.5-1.5B的微调运行时间。当前纪录由@Saivineeth147以6分05秒保持，采用序列打包与仅完成损失掩码技术，相比基线11分57秒提速约2倍且准确率更高（61.1%）。项目提供免费Modal沙箱验证，任何提交需经3次独立复现确认。",
+        "recommend_reason_zh": null,
+        "url": "https://github.com/Saivineeth147/lora-speedrun",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-21T09:39:08.328718Z"
       }
     }
   ]
