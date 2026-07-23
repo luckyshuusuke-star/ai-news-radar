@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T06:38:53.294314Z",
+  "generated_at": "2026-07-23T09:35:09.669889Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -40,6 +40,20 @@
           "published_at": "2026-07-22T23:51:33Z"
         },
         {
+          "id": "03864af9db6e4e44ace2be9bd954dcf9e60580ae",
+          "title": "OpenAI对Hugging Face的意外攻击，堪称“现实版科幻故事”",
+          "title_zh": "OpenAI对Hugging Face的意外攻击，堪称“现实版科幻故事”",
+          "title_en": null,
+          "title_original": "OpenAI对Hugging Face的意外攻击，堪称“现实版科幻故事”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack",
+          "source": "simonwillison.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-23T08:11:48.077000Z"
+        },
+        {
           "id": "a7be05763b7c2d0fb7b4b3d996e521b9430c3bc4",
           "title": "OpenAI 对 Hugging Face 的意外网络攻击是科幻小说 / OpenAI's accidental cyberattack against Hugging Face is science fiction",
           "title_zh": "OpenAI 对 Hugging Face 的意外网络攻击是科幻小说",
@@ -82,13 +96,14 @@
           "published_at": "2026-07-23T01:16:14Z"
         }
       ],
-      "source_count": 5,
+      "source_count": 6,
       "source_names": [
         "Hacker News",
         "Hacker News · 24h最热",
         "Simon Willison",
         "Simon Willison 博客",
-        "hackernews"
+        "hackernews",
+        "simonwillison.net"
       ],
       "items": [
         {
@@ -120,6 +135,20 @@
           "published_at": "2026-07-22T23:51:33Z"
         },
         {
+          "id": "03864af9db6e4e44ace2be9bd954dcf9e60580ae",
+          "title": "OpenAI对Hugging Face的意外攻击，堪称“现实版科幻故事”",
+          "title_zh": "OpenAI对Hugging Face的意外攻击，堪称“现实版科幻故事”",
+          "title_en": null,
+          "title_original": "OpenAI对Hugging Face的意外攻击，堪称“现实版科幻故事”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack",
+          "source": "simonwillison.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-23T08:11:48.077000Z"
+        },
+        {
           "id": "a7be05763b7c2d0fb7b4b3d996e521b9430c3bc4",
           "title": "OpenAI 对 Hugging Face 的意外网络攻击是科幻小说 / OpenAI's accidental cyberattack against Hugging Face is science fiction",
           "title_zh": "OpenAI 对 Hugging Face 的意外网络攻击是科幻小说",
@@ -162,17 +191,17 @@
           "published_at": "2026-07-23T01:16:14Z"
         }
       ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.8688,
-      "importance": 0.8688,
-      "importance_score": 0.8688,
+      "item_count": 6,
+      "duplicate_count": 6,
+      "score": 0.862,
+      "importance": 0.862,
+      "importance_score": 0.862,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9066,
+        "recency": 0.869,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -182,7 +211,7 @@
         "high_importance"
       ],
       "earliest_at": "2026-07-22T23:51:33Z",
-      "latest_at": "2026-07-23T03:36:37.539000Z",
+      "latest_at": "2026-07-23T08:11:48.077000Z",
       "primary_item": {
         "id": "58244cf6838cc24631a179988eb42df28e0b44cb",
         "title": "OpenAI 模型在安全测试中突破沙箱入侵 Hugging Face 作弊 / OpenAI's accidental cyberattack against Hugging Face is science fiction that happened",
@@ -199,7 +228,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-23T06:39:34.814823Z"
+        "scored_at": "2026-07-23T09:36:07.429102Z"
+      }
+    },
+    {
+      "story_id": "story_b7a2b487977e",
+      "title": "将 Nunchaku 4 位扩散推理引入扩散器 / Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+      "url": "https://huggingface.co/blog/nunchaku-diffusers",
+      "primary_url": "https://huggingface.co/blog/nunchaku-diffusers",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f8aff7e85b5148594e968854ce8edf596c17f4e4",
+          "title": "将 Nunchaku 4 位扩散推理引入扩散器 / Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+          "title_zh": "将 Nunchaku 4 位扩散推理引入扩散器",
+          "title_en": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+          "title_original": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/nunchaku-diffusers",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-23T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "f8aff7e85b5148594e968854ce8edf596c17f4e4",
+          "title": "将 Nunchaku 4 位扩散推理引入扩散器 / Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+          "title_zh": "将 Nunchaku 4 位扩散推理引入扩散器",
+          "title_en": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+          "title_original": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/nunchaku-diffusers",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-23T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8447,
+      "importance": 0.8447,
+      "importance_score": 0.8447,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.99,
+        "recency": 0.8707,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-23T00:00:00Z",
+      "latest_at": "2026-07-23T00:00:00Z",
+      "primary_item": {
+        "id": "f8aff7e85b5148594e968854ce8edf596c17f4e4",
+        "title": "将 Nunchaku 4 位扩散推理引入扩散器 / Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+        "title_zh": "将 Nunchaku 4 位扩散推理引入扩散器",
+        "title_en": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+        "title_original": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/nunchaku-diffusers",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-23T09:36:07.429102Z"
       }
     },
     {
@@ -247,15 +359,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8241,
-      "importance": 0.8241,
-      "importance_score": 0.8241,
+      "score": 0.8178,
+      "importance": 0.8178,
+      "importance_score": 0.8178,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8452,
+        "recency": 0.8101,
         "story_heat": 0.0
       },
       "category": "official",
@@ -282,7 +394,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-23T06:39:34.814823Z"
+        "scored_at": "2026-07-23T09:36:07.429102Z"
       }
     },
     {
@@ -330,15 +442,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8184,
-      "importance": 0.8184,
-      "importance_score": 0.8184,
+      "score": 0.8124,
+      "importance": 0.8124,
+      "importance_score": 0.8124,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8136,
+        "recency": 0.7798,
         "story_heat": 0.0
       },
       "category": "official",
@@ -365,7 +477,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-23T06:39:34.814823Z"
+        "scored_at": "2026-07-23T09:36:07.429102Z"
       }
     },
     {
@@ -413,15 +525,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8115,
-      "importance": 0.8115,
-      "importance_score": 0.8115,
+      "score": 0.8057,
+      "importance": 0.8057,
+      "importance_score": 0.8057,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.775,
+        "recency": 0.7428,
         "story_heat": 0.0
       },
       "category": "official",
@@ -448,7 +560,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-23T06:39:34.814823Z"
+        "scored_at": "2026-07-23T09:36:07.429102Z"
       }
     },
     {
@@ -496,15 +608,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8048,
-      "importance": 0.8048,
-      "importance_score": 0.8048,
+      "score": 0.799,
+      "importance": 0.799,
+      "importance_score": 0.799,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7823,
+        "recency": 0.7498,
         "story_heat": 0.0
       },
       "category": "official",
@@ -531,7 +643,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-23T06:39:34.814823Z"
+        "scored_at": "2026-07-23T09:36:07.429102Z"
       }
     },
     {
@@ -579,15 +691,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8035,
-      "importance": 0.8035,
-      "importance_score": 0.8035,
+      "score": 0.7977,
+      "importance": 0.7977,
+      "importance_score": 0.7977,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.775,
+        "recency": 0.7428,
         "story_heat": 0.0
       },
       "category": "official",
@@ -614,7 +726,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-23T06:39:34.814823Z"
+        "scored_at": "2026-07-23T09:36:07.429102Z"
       }
     },
     {
@@ -691,15 +803,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7892,
-      "importance": 0.7892,
-      "importance_score": 0.7892,
+      "score": 0.7828,
+      "importance": 0.7828,
+      "importance_score": 0.7828,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8476,
+        "recency": 0.8124,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -726,7 +838,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-23T06:39:34.814823Z"
+        "scored_at": "2026-07-23T09:36:07.429102Z"
       }
     },
     {
@@ -774,15 +886,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.783,
-      "importance": 0.783,
-      "importance_score": 0.783,
+      "score": 0.7766,
+      "importance": 0.7766,
+      "importance_score": 0.7766,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8521,
+        "recency": 0.8167,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -808,7 +920,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-23T06:39:34.814823Z"
+        "scored_at": "2026-07-23T09:36:07.429102Z"
       }
     },
     {
@@ -856,15 +968,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8115,
-      "importance": 0.8115,
-      "importance_score": 0.8115,
+      "score": 0.8057,
+      "importance": 0.8057,
+      "importance_score": 0.8057,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.775,
+        "recency": 0.7428,
         "story_heat": 0.0
       },
       "category": "official",
@@ -891,7 +1003,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-23T06:39:34.814823Z"
+        "scored_at": "2026-07-23T09:36:07.429102Z"
       }
     },
     {
@@ -939,15 +1051,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7786,
-      "importance": 0.7786,
-      "importance_score": 0.7786,
+      "score": 0.7725,
+      "importance": 0.7725,
+      "importance_score": 0.7725,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8258,
+        "recency": 0.7915,
         "story_heat": 0.0
       },
       "category": "official",
@@ -973,7 +1085,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-23T06:39:34.814823Z"
+        "scored_at": "2026-07-23T09:36:07.429102Z"
       }
     },
     {
@@ -1021,15 +1133,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8078,
-      "importance": 0.8078,
-      "importance_score": 0.8078,
+      "score": 0.8018,
+      "importance": 0.8018,
+      "importance_score": 0.8018,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7988,
+        "recency": 0.7656,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1056,7 +1168,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-23T06:39:34.814823Z"
+        "scored_at": "2026-07-23T09:36:07.429102Z"
       }
     },
     {
@@ -1133,15 +1245,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7764,
-      "importance": 0.7764,
-      "importance_score": 0.7764,
+      "score": 0.7701,
+      "importance": 0.7701,
+      "importance_score": 0.7701,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8435,
+        "recency": 0.8084,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1168,7 +1280,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-23T06:39:34.814823Z"
+        "scored_at": "2026-07-23T09:36:07.429102Z"
       }
     },
     {
@@ -1216,15 +1328,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7758,
-      "importance": 0.7758,
-      "importance_score": 0.7758,
+      "score": 0.7687,
+      "importance": 0.7687,
+      "importance_score": 0.7687,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9625,
+        "recency": 0.9225,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1250,30 +1362,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-23T06:39:34.814823Z"
+        "scored_at": "2026-07-23T09:36:07.429102Z"
       }
     },
     {
-      "story_id": "story_5eb84f7dcb33",
-      "title": "Alphabet发布最新财报:AI功能推动谷歌搜索收入增长17%，月活突破10亿",
-      "url": "https://www.aibase.com/news/29834",
-      "primary_url": "https://www.aibase.com/news/29834",
+      "story_id": "story_1022d965cfc1",
+      "title": "Claude语音模式即将升级：支持切换Opus和Sonnet更强模型，告别Haiku独撑局面",
+      "url": "https://www.aibase.com/news/29843",
+      "primary_url": "https://www.aibase.com/news/29843",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "35ee645c203289ce97fb8c585eed6b8e6504b752",
-          "title": "Alphabet发布最新财报:AI功能推动谷歌搜索收入增长17%，月活突破10亿",
-          "title_zh": "Alphabet发布最新财报:AI功能推动谷歌搜索收入增长17%，月活突破10亿",
+          "id": "420603b00466b3ff6c446be97d305bf8f5cf9cb0",
+          "title": "Claude语音模式即将升级：支持切换Opus和Sonnet更强模型，告别Haiku独撑局面",
+          "title_zh": "Claude语音模式即将升级：支持切换Opus和Sonnet更强模型，告别Haiku独撑局面",
           "title_en": null,
-          "title_original": "Alphabet发布最新财报:AI功能推动谷歌搜索收入增长17%，月活突破10亿",
+          "title_original": "Claude语音模式即将升级：支持切换Opus和Sonnet更强模型，告别Haiku独撑局面",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29834",
+          "url": "https://www.aibase.com/news/29843",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-23T06:38:53.294314Z"
+          "published_at": "2026-07-23T09:35:09.669889Z"
         }
       ],
       "source_count": 1,
@@ -1282,18 +1394,18 @@
       ],
       "items": [
         {
-          "id": "35ee645c203289ce97fb8c585eed6b8e6504b752",
-          "title": "Alphabet发布最新财报:AI功能推动谷歌搜索收入增长17%，月活突破10亿",
-          "title_zh": "Alphabet发布最新财报:AI功能推动谷歌搜索收入增长17%，月活突破10亿",
+          "id": "420603b00466b3ff6c446be97d305bf8f5cf9cb0",
+          "title": "Claude语音模式即将升级：支持切换Opus和Sonnet更强模型，告别Haiku独撑局面",
+          "title_zh": "Claude语音模式即将升级：支持切换Opus和Sonnet更强模型，告别Haiku独撑局面",
           "title_en": null,
-          "title_original": "Alphabet发布最新财报:AI功能推动谷歌搜索收入增长17%，月活突破10亿",
+          "title_original": "Claude语音模式即将升级：支持切换Opus和Sonnet更强模型，告别Haiku独撑局面",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29834",
+          "url": "https://www.aibase.com/news/29843",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-23T06:38:53.294314Z"
+          "published_at": "2026-07-23T09:35:09.669889Z"
         }
       ],
       "item_count": 1,
@@ -1314,17 +1426,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-23T06:38:53.294314Z",
-      "latest_at": "2026-07-23T06:38:53.294314Z",
+      "earliest_at": "2026-07-23T09:35:09.669889Z",
+      "latest_at": "2026-07-23T09:35:09.669889Z",
       "primary_item": {
-        "id": "35ee645c203289ce97fb8c585eed6b8e6504b752",
-        "title": "Alphabet发布最新财报:AI功能推动谷歌搜索收入增长17%，月活突破10亿",
-        "title_zh": "Alphabet发布最新财报:AI功能推动谷歌搜索收入增长17%，月活突破10亿",
+        "id": "420603b00466b3ff6c446be97d305bf8f5cf9cb0",
+        "title": "Claude语音模式即将升级：支持切换Opus和Sonnet更强模型，告别Haiku独撑局面",
+        "title_zh": "Claude语音模式即将升级：支持切换Opus和Sonnet更强模型，告别Haiku独撑局面",
         "title_en": null,
-        "title_original": "Alphabet发布最新财报:AI功能推动谷歌搜索收入增长17%，月活突破10亿",
+        "title_original": "Claude语音模式即将升级：支持切换Opus和Sonnet更强模型，告别Haiku独撑局面",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/29834",
+        "url": "https://www.aibase.com/news/29843",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1332,7 +1444,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-23T06:39:34.814823Z"
+        "scored_at": "2026-07-23T09:36:07.429102Z"
       }
     },
     {
@@ -1380,21 +1492,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.755,
-      "importance": 0.755,
-      "importance_score": 0.755,
+      "score": 0.748,
+      "importance": 0.748,
+      "importance_score": 0.748,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9469,
+        "recency": 0.9075,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-23T02:51:59Z",
       "latest_at": "2026-07-23T02:51:59Z",
@@ -1414,7 +1525,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-23T06:39:34.814823Z"
+        "scored_at": "2026-07-23T09:36:07.429102Z"
       }
     },
     {
@@ -1462,15 +1573,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8095,
-      "importance": 0.8095,
-      "importance_score": 0.8095,
+      "score": 0.8038,
+      "importance": 0.8038,
+      "importance_score": 0.8038,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7639,
+        "recency": 0.7322,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1497,7 +1608,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-23T06:39:34.814823Z"
+        "scored_at": "2026-07-23T09:36:07.429102Z"
       }
     },
     {
@@ -1545,15 +1656,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7472,
-      "importance": 0.7472,
-      "importance_score": 0.7472,
+      "score": 0.7407,
+      "importance": 0.7407,
+      "importance_score": 0.7407,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.87,
+        "recency": 0.8339,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1578,88 +1689,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-23T06:39:34.814823Z"
-      }
-    },
-    {
-      "story_id": "story_87d814e4f245",
-      "title": "北京发布智能体新政，首次将Harness Engineering、Token经济、OPC等写入政策",
-      "url": "https://mp.weixin.qq.com/s/CYB7v1e5D4m-btgosjmLgA",
-      "primary_url": "https://mp.weixin.qq.com/s/CYB7v1e5D4m-btgosjmLgA",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "98ee80e744f7c39cfb79a06cb355896cf1b0750b",
-          "title": "北京发布智能体新政，首次将Harness Engineering、Token经济、OPC等写入政策",
-          "title_zh": "北京发布智能体新政，首次将Harness Engineering、Token经济、OPC等写入政策",
-          "title_en": null,
-          "title_original": "北京发布智能体新政，首次将Harness Engineering、Token经济、OPC等写入政策",
-          "summary": "北京市发布《关于加快智能体引领发展的若干措施》，共十条，首次将Harness Engineering（驾驭层工程）、Token经济、OPC（一人公司）等前沿概念写入正式政策。文件提出从Token消耗量计费转向价值计费，鼓励发展TaaS、AaaS、RaaS模式，并推动智能体嵌入手机、眼镜、汽车等终端。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s/CYB7v1e5D4m-btgosjmLgA",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T05:13:37Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "98ee80e744f7c39cfb79a06cb355896cf1b0750b",
-          "title": "北京发布智能体新政，首次将Harness Engineering、Token经济、OPC等写入政策",
-          "title_zh": "北京发布智能体新政，首次将Harness Engineering、Token经济、OPC等写入政策",
-          "title_en": null,
-          "title_original": "北京发布智能体新政，首次将Harness Engineering、Token经济、OPC等写入政策",
-          "summary": "北京市发布《关于加快智能体引领发展的若干措施》，共十条，首次将Harness Engineering（驾驭层工程）、Token经济、OPC（一人公司）等前沿概念写入正式政策。文件提出从Token消耗量计费转向价值计费，鼓励发展TaaS、AaaS、RaaS模式，并推动智能体嵌入手机、眼镜、汽车等终端。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s/CYB7v1e5D4m-btgosjmLgA",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T05:13:37Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7459,
-      "importance": 0.7459,
-      "importance_score": 0.7459,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9797,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-23T05:13:37Z",
-      "latest_at": "2026-07-23T05:13:37Z",
-      "primary_item": {
-        "id": "98ee80e744f7c39cfb79a06cb355896cf1b0750b",
-        "title": "北京发布智能体新政，首次将Harness Engineering、Token经济、OPC等写入政策",
-        "title_zh": "北京发布智能体新政，首次将Harness Engineering、Token经济、OPC等写入政策",
-        "title_en": null,
-        "title_original": "北京发布智能体新政，首次将Harness Engineering、Token经济、OPC等写入政策",
-        "summary": "北京市发布《关于加快智能体引领发展的若干措施》，共十条，首次将Harness Engineering（驾驭层工程）、Token经济、OPC（一人公司）等前沿概念写入正式政策。文件提出从Token消耗量计费转向价值计费，鼓励发展TaaS、AaaS、RaaS模式，并推动智能体嵌入手机、眼镜、汽车等终端。",
-        "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s/CYB7v1e5D4m-btgosjmLgA",
-        "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-23T06:39:34.814823Z"
+        "scored_at": "2026-07-23T09:36:07.429102Z"
       }
     },
     {
@@ -1707,15 +1737,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7455,
-      "importance": 0.7455,
-      "importance_score": 0.7455,
+      "score": 0.7393,
+      "importance": 0.7393,
+      "importance_score": 0.7393,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8272,
+        "recency": 0.7929,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1740,88 +1770,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-23T06:39:34.814823Z"
+        "scored_at": "2026-07-23T09:36:07.429102Z"
       }
     },
     {
-      "story_id": "story_a2421a5bb9fb",
-      "title": "AMD 投资 50 亿，Anthropic 采购 2GW GPU / AMD HAS JUST ANNOUNCED AN ANTHROPIC DEAL WHERE THEY ARE INVESTING UP TO 5 BILLION IN EXCHANGE FOR AN…",
-      "url": "https://x.com/SemiAnalysis_/status/2079929602429141215",
-      "primary_url": "https://x.com/SemiAnalysis_/status/2079929602429141215",
-      "source": "X：SemiAnalysis (@SemiAnalysis_)",
+      "story_id": "story_87d814e4f245",
+      "title": "北京发布智能体新政，首次将Harness Engineering、Token经济、OPC等写入政策",
+      "url": "https://mp.weixin.qq.com/s/CYB7v1e5D4m-btgosjmLgA",
+      "primary_url": "https://mp.weixin.qq.com/s/CYB7v1e5D4m-btgosjmLgA",
+      "source": "公众号：数字生命卡兹克",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "d0cb57ffd7404a4a981bc59f02f147d7683a9d88",
-          "title": "AMD 投资 50 亿，Anthropic 采购 2GW GPU / AMD HAS JUST ANNOUNCED AN ANTHROPIC DEAL WHERE THEY ARE INVESTING UP TO 5 BILLION IN EXCHANGE FOR AN…",
-          "title_zh": "AMD 投资 50 亿，Anthropic 采购 2GW GPU",
-          "title_en": "AMD HAS JUST ANNOUNCED AN ANTHROPIC DEAL WHERE THEY ARE INVESTING UP TO 5 BILLION IN EXCHANGE FOR AN…",
-          "title_original": "AMD HAS JUST ANNOUNCED AN ANTHROPIC DEAL WHERE THEY ARE INVESTING UP TO 5 BILLION IN EXCHANGE FOR AN…",
-          "summary": "AMD 刚刚宣布与 Anthropic 达成协议，将投资高达 50 亿美元，换取 Anthropic 采购 2GW 的 AMD MI455 UALOE72 及未来 GPU。🚨 这与我们三天前关于 Anthropic 的说法一致。",
+          "id": "98ee80e744f7c39cfb79a06cb355896cf1b0750b",
+          "title": "北京发布智能体新政，首次将Harness Engineering、Token经济、OPC等写入政策",
+          "title_zh": "北京发布智能体新政，首次将Harness Engineering、Token经济、OPC等写入政策",
+          "title_en": null,
+          "title_original": "北京发布智能体新政，首次将Harness Engineering、Token经济、OPC等写入政策",
+          "summary": "北京市发布《关于加快智能体引领发展的若干措施》，共十条，首次将Harness Engineering（驾驭层工程）、Token经济、OPC（一人公司）等前沿概念写入正式政策。文件提出从Token消耗量计费转向价值计费，鼓励发展TaaS、AaaS、RaaS模式，并推动智能体嵌入手机、眼镜、汽车等终端。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/SemiAnalysis_/status/2079929602429141215",
-          "source": "X：SemiAnalysis (@SemiAnalysis_)",
+          "url": "https://mp.weixin.qq.com/s/CYB7v1e5D4m-btgosjmLgA",
+          "source": "公众号：数字生命卡兹克",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-22T14:00:35Z"
+          "published_at": "2026-07-23T05:13:37Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：SemiAnalysis (@SemiAnalysis_)"
+        "公众号：数字生命卡兹克"
       ],
       "items": [
         {
-          "id": "d0cb57ffd7404a4a981bc59f02f147d7683a9d88",
-          "title": "AMD 投资 50 亿，Anthropic 采购 2GW GPU / AMD HAS JUST ANNOUNCED AN ANTHROPIC DEAL WHERE THEY ARE INVESTING UP TO 5 BILLION IN EXCHANGE FOR AN…",
-          "title_zh": "AMD 投资 50 亿，Anthropic 采购 2GW GPU",
-          "title_en": "AMD HAS JUST ANNOUNCED AN ANTHROPIC DEAL WHERE THEY ARE INVESTING UP TO 5 BILLION IN EXCHANGE FOR AN…",
-          "title_original": "AMD HAS JUST ANNOUNCED AN ANTHROPIC DEAL WHERE THEY ARE INVESTING UP TO 5 BILLION IN EXCHANGE FOR AN…",
-          "summary": "AMD 刚刚宣布与 Anthropic 达成协议，将投资高达 50 亿美元，换取 Anthropic 采购 2GW 的 AMD MI455 UALOE72 及未来 GPU。🚨 这与我们三天前关于 Anthropic 的说法一致。",
+          "id": "98ee80e744f7c39cfb79a06cb355896cf1b0750b",
+          "title": "北京发布智能体新政，首次将Harness Engineering、Token经济、OPC等写入政策",
+          "title_zh": "北京发布智能体新政，首次将Harness Engineering、Token经济、OPC等写入政策",
+          "title_en": null,
+          "title_original": "北京发布智能体新政，首次将Harness Engineering、Token经济、OPC等写入政策",
+          "summary": "北京市发布《关于加快智能体引领发展的若干措施》，共十条，首次将Harness Engineering（驾驭层工程）、Token经济、OPC（一人公司）等前沿概念写入正式政策。文件提出从Token消耗量计费转向价值计费，鼓励发展TaaS、AaaS、RaaS模式，并推动智能体嵌入手机、眼镜、汽车等终端。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/SemiAnalysis_/status/2079929602429141215",
-          "source": "X：SemiAnalysis (@SemiAnalysis_)",
+          "url": "https://mp.weixin.qq.com/s/CYB7v1e5D4m-btgosjmLgA",
+          "source": "公众号：数字生命卡兹克",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-22T14:00:35Z"
+          "published_at": "2026-07-23T05:13:37Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7412,
-      "importance": 0.7412,
-      "importance_score": 0.7412,
+      "score": 0.7386,
+      "importance": 0.7386,
+      "importance_score": 0.7386,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.76,
+        "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7864,
+        "recency": 0.939,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-22T14:00:35Z",
-      "latest_at": "2026-07-22T14:00:35Z",
+      "earliest_at": "2026-07-23T05:13:37Z",
+      "latest_at": "2026-07-23T05:13:37Z",
       "primary_item": {
-        "id": "d0cb57ffd7404a4a981bc59f02f147d7683a9d88",
-        "title": "AMD 投资 50 亿，Anthropic 采购 2GW GPU / AMD HAS JUST ANNOUNCED AN ANTHROPIC DEAL WHERE THEY ARE INVESTING UP TO 5 BILLION IN EXCHANGE FOR AN…",
-        "title_zh": "AMD 投资 50 亿，Anthropic 采购 2GW GPU",
-        "title_en": "AMD HAS JUST ANNOUNCED AN ANTHROPIC DEAL WHERE THEY ARE INVESTING UP TO 5 BILLION IN EXCHANGE FOR AN…",
-        "title_original": "AMD HAS JUST ANNOUNCED AN ANTHROPIC DEAL WHERE THEY ARE INVESTING UP TO 5 BILLION IN EXCHANGE FOR AN…",
-        "summary": "AMD 刚刚宣布与 Anthropic 达成协议，将投资高达 50 亿美元，换取 Anthropic 采购 2GW 的 AMD MI455 UALOE72 及未来 GPU。🚨 这与我们三天前关于 Anthropic 的说法一致。",
+        "id": "98ee80e744f7c39cfb79a06cb355896cf1b0750b",
+        "title": "北京发布智能体新政，首次将Harness Engineering、Token经济、OPC等写入政策",
+        "title_zh": "北京发布智能体新政，首次将Harness Engineering、Token经济、OPC等写入政策",
+        "title_en": null,
+        "title_original": "北京发布智能体新政，首次将Harness Engineering、Token经济、OPC等写入政策",
+        "summary": "北京市发布《关于加快智能体引领发展的若干措施》，共十条，首次将Harness Engineering（驾驭层工程）、Token经济、OPC（一人公司）等前沿概念写入正式政策。文件提出从Token消耗量计费转向价值计费，鼓励发展TaaS、AaaS、RaaS模式，并推动智能体嵌入手机、眼镜、汽车等终端。",
         "recommend_reason_zh": null,
-        "url": "https://x.com/SemiAnalysis_/status/2079929602429141215",
-        "source": "X：SemiAnalysis (@SemiAnalysis_)",
+        "url": "https://mp.weixin.qq.com/s/CYB7v1e5D4m-btgosjmLgA",
+        "source": "公众号：数字生命卡兹克",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-23T06:39:34.814823Z"
+        "scored_at": "2026-07-23T09:36:07.429102Z"
       }
     }
   ]
