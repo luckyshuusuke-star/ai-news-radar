@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T16:44:13.311598Z",
+  "generated_at": "2026-07-23T18:36:32.554022Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -221,15 +221,15 @@
       ],
       "item_count": 7,
       "duplicate_count": 7,
-      "score": 0.8467,
-      "importance": 0.8467,
-      "importance_score": 0.8467,
+      "score": 0.8429,
+      "importance": 0.8429,
+      "importance_score": 0.8429,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7837,
+        "recency": 0.7628,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -256,7 +256,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-23T16:45:18.958388Z"
+        "scored_at": "2026-07-23T18:37:34.756505Z"
       }
     },
     {
@@ -304,15 +304,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8294,
-      "importance": 0.8294,
-      "importance_score": 0.8294,
+      "score": 0.8256,
+      "importance": 0.8256,
+      "importance_score": 0.8256,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.7853,
+        "recency": 0.7644,
         "story_heat": 0.0
       },
       "category": "official",
@@ -339,7 +339,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-23T16:45:18.958388Z"
+        "scored_at": "2026-07-23T18:37:34.756505Z"
+      }
+    },
+    {
+      "story_id": "story_4f34c54c72e5",
+      "title": "在 ChatGPT 中启动 Health / Launching Health in ChatGPT",
+      "url": "https://openai.com/index/health-in-chatgpt",
+      "primary_url": "https://openai.com/index/health-in-chatgpt",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "3d971c1b779fe596db260d78ff129a5151f66d31",
+          "title": "在 ChatGPT 中启动 Health / Launching Health in ChatGPT",
+          "title_zh": "在 ChatGPT 中启动 Health",
+          "title_en": "Launching Health in ChatGPT",
+          "title_original": "Launching Health in ChatGPT",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/health-in-chatgpt",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-23T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "3d971c1b779fe596db260d78ff129a5151f66d31",
+          "title": "在 ChatGPT 中启动 Health / Launching Health in ChatGPT",
+          "title_zh": "在 ChatGPT 中启动 Health",
+          "title_en": "Launching Health in ChatGPT",
+          "title_original": "Launching Health in ChatGPT",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/health-in-chatgpt",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-23T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8176,
+      "importance": 0.8176,
+      "importance_score": 0.8176,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7644,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-23T00:00:00Z",
+      "latest_at": "2026-07-23T00:00:00Z",
+      "primary_item": {
+        "id": "3d971c1b779fe596db260d78ff129a5151f66d31",
+        "title": "在 ChatGPT 中启动 Health / Launching Health in ChatGPT",
+        "title_zh": "在 ChatGPT 中启动 Health",
+        "title_en": "Launching Health in ChatGPT",
+        "title_original": "Launching Health in ChatGPT",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/health-in-chatgpt",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-23T18:37:34.756505Z"
       }
     },
     {
@@ -387,15 +470,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8035,
-      "importance": 0.8035,
-      "importance_score": 0.8035,
+      "score": 0.8,
+      "importance": 0.8,
+      "importance_score": 0.8,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7306,
+        "recency": 0.7111,
         "story_heat": 0.0
       },
       "category": "official",
@@ -422,7 +505,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-23T16:45:18.958388Z"
+        "scored_at": "2026-07-23T18:37:34.756505Z"
       }
     },
     {
@@ -499,15 +582,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7878,
-      "importance": 0.7878,
-      "importance_score": 0.7878,
+      "score": 0.7832,
+      "importance": 0.7832,
+      "importance_score": 0.7832,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9735,
+        "recency": 0.9476,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -534,7 +617,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-23T16:45:18.958388Z"
+        "scored_at": "2026-07-23T18:37:34.756505Z"
       }
     },
     {
@@ -611,15 +694,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7856,
-      "importance": 0.7856,
-      "importance_score": 0.7856,
+      "score": 0.781,
+      "importance": 0.781,
+      "importance_score": 0.781,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9612,
+        "recency": 0.9356,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -646,7 +729,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-23T16:45:18.958388Z"
+        "scored_at": "2026-07-23T18:37:34.756505Z"
       }
     },
     {
@@ -694,15 +777,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7781,
-      "importance": 0.7781,
-      "importance_score": 0.7781,
+      "score": 0.7735,
+      "importance": 0.7735,
+      "importance_score": 0.7735,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9414,
+        "recency": 0.9163,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -728,7 +811,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-23T16:45:18.958388Z"
+        "scored_at": "2026-07-23T18:37:34.756505Z"
       }
     },
     {
@@ -776,15 +859,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7622,
-      "importance": 0.7622,
-      "importance_score": 0.7622,
+      "score": 0.7586,
+      "importance": 0.7586,
+      "importance_score": 0.7586,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7366,
+        "recency": 0.7169,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -810,89 +893,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-23T16:45:18.958388Z"
-      }
-    },
-    {
-      "story_id": "story_1a563dab923e",
-      "title": "Claude 新增 Anthropic Economic Index 连接器，可直接查询 AI 对经济与职业的影响数据 / Ask Claude about the Anthropic Economic Index",
-      "url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
-      "primary_url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
-      "source": "Anthropic：Newsroom（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "821bdadd86b732e41232f06399db46b8b3aace9f",
-          "title": "Claude 新增 Anthropic Economic Index 连接器，可直接查询 AI 对经济与职业的影响数据 / Ask Claude about the Anthropic Economic Index",
-          "title_zh": "Claude 新增 Anthropic Economic Index 连接器，可直接查询 AI 对经济与职业的影响数据",
-          "title_en": "Ask Claude about the Anthropic Economic Index",
-          "title_original": "Ask Claude about the Anthropic Economic Index",
-          "summary": "Anthropic 为 Claude 推出 Anthropic Economic Index 连接器，用户可在 claude.ai 中直接向 Claude 提问\"哪些职业使用 AI 最多\"等问题，答案基于 Index 的真实数据。该连接器无需安装，适用于任何 Claude 模型，并会引导用户查看原始数据及其局限性。完整数据集仍免费开放。",
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
-          "source": "Anthropic：Newsroom（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-22T17:23:31.324000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Anthropic：Newsroom（网页）"
-      ],
-      "items": [
-        {
-          "id": "821bdadd86b732e41232f06399db46b8b3aace9f",
-          "title": "Claude 新增 Anthropic Economic Index 连接器，可直接查询 AI 对经济与职业的影响数据 / Ask Claude about the Anthropic Economic Index",
-          "title_zh": "Claude 新增 Anthropic Economic Index 连接器，可直接查询 AI 对经济与职业的影响数据",
-          "title_en": "Ask Claude about the Anthropic Economic Index",
-          "title_original": "Ask Claude about the Anthropic Economic Index",
-          "summary": "Anthropic 为 Claude 推出 Anthropic Economic Index 连接器，用户可在 claude.ai 中直接向 Claude 提问\"哪些职业使用 AI 最多\"等问题，答案基于 Index 的真实数据。该连接器无需安装，适用于任何 Claude 模型，并会引导用户查看原始数据及其局限性。完整数据集仍免费开放。",
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
-          "source": "Anthropic：Newsroom（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-22T17:23:31.324000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7585,
-      "importance": 0.7585,
-      "importance_score": 0.7585,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7138,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-22T17:23:31.324000Z",
-      "latest_at": "2026-07-22T17:23:31.324000Z",
-      "primary_item": {
-        "id": "821bdadd86b732e41232f06399db46b8b3aace9f",
-        "title": "Claude 新增 Anthropic Economic Index 连接器，可直接查询 AI 对经济与职业的影响数据 / Ask Claude about the Anthropic Economic Index",
-        "title_zh": "Claude 新增 Anthropic Economic Index 连接器，可直接查询 AI 对经济与职业的影响数据",
-        "title_en": "Ask Claude about the Anthropic Economic Index",
-        "title_original": "Ask Claude about the Anthropic Economic Index",
-        "summary": "Anthropic 为 Claude 推出 Anthropic Economic Index 连接器，用户可在 claude.ai 中直接向 Claude 提问\"哪些职业使用 AI 最多\"等问题，答案基于 Index 的真实数据。该连接器无需安装，适用于任何 Claude 模型，并会引导用户查看原始数据及其局限性。完整数据集仍免费开放。",
-        "recommend_reason_zh": null,
-        "url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
-        "source": "Anthropic：Newsroom（网页）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-23T16:45:18.958388Z"
+        "scored_at": "2026-07-23T18:37:34.756505Z"
       }
     },
     {
@@ -969,15 +970,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7558,
-      "importance": 0.7558,
-      "importance_score": 0.7558,
+      "score": 0.7523,
+      "importance": 0.7523,
+      "importance_score": 0.7523,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7291,
+        "recency": 0.7097,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1004,7 +1005,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-23T16:45:18.958388Z"
+        "scored_at": "2026-07-23T18:37:34.756505Z"
       }
     },
     {
@@ -1052,15 +1053,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7558,
-      "importance": 0.7558,
-      "importance_score": 0.7558,
+      "score": 0.7513,
+      "importance": 0.7513,
+      "importance_score": 0.7513,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9343,
+        "recency": 0.9094,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1086,7 +1087,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-23T16:45:18.958388Z"
+        "scored_at": "2026-07-23T18:37:34.756505Z"
       }
     },
     {
@@ -1134,21 +1135,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7524,
-      "importance": 0.7524,
-      "importance_score": 0.7524,
+      "score": 0.7484,
+      "importance": 0.7484,
+      "importance_score": 0.7484,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.832,
+        "recency": 0.8098,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-23T04:00:00Z",
       "latest_at": "2026-07-23T04:00:00Z",
@@ -1168,7 +1168,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-23T16:45:18.958388Z"
+        "scored_at": "2026-07-23T18:37:34.756505Z"
+      }
+    },
+    {
+      "story_id": "story_b17e627022e6",
+      "title": "微软MAI模型：以更低成本实现前沿能力规模化 / http://x.com/i/article/2080328073724260352",
+      "url": "https://x.com/satyanadella/status/2080329851127669104",
+      "primary_url": "https://x.com/satyanadella/status/2080329851127669104",
+      "source": "X：Satya Nadella (@satyanadella)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d72daa2e5b7b6321ccd98fbe31c3a75f08bef8e2",
+          "title": "微软MAI模型：以更低成本实现前沿能力规模化 / http://x.com/i/article/2080328073724260352",
+          "title_zh": "微软MAI模型：以更低成本实现前沿能力规模化",
+          "title_en": "http://x.com/i/article/2080328073724260352",
+          "title_original": "http://x.com/i/article/2080328073724260352",
+          "summary": "微软CEO Satya Nadella详解MAI模型家族战略：通过优化成本-效果前沿，MAI模型在GitHub Copilot、Excel等产品中已用更少token超越通用前沿模型。核心是构建独立于模型的评估系统，让模型在产品真实环境中学习并完成用户关心的任务。微软正将这一模板通过Foundry平台开放给企业客户。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/satyanadella/status/2080329851127669104",
+          "source": "X：Satya Nadella (@satyanadella)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T16:31:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Satya Nadella (@satyanadella)"
+      ],
+      "items": [
+        {
+          "id": "d72daa2e5b7b6321ccd98fbe31c3a75f08bef8e2",
+          "title": "微软MAI模型：以更低成本实现前沿能力规模化 / http://x.com/i/article/2080328073724260352",
+          "title_zh": "微软MAI模型：以更低成本实现前沿能力规模化",
+          "title_en": "http://x.com/i/article/2080328073724260352",
+          "title_original": "http://x.com/i/article/2080328073724260352",
+          "summary": "微软CEO Satya Nadella详解MAI模型家族战略：通过优化成本-效果前沿，MAI模型在GitHub Copilot、Excel等产品中已用更少token超越通用前沿模型。核心是构建独立于模型的评估系统，让模型在产品真实环境中学习并完成用户关心的任务。微软正将这一模板通过Foundry平台开放给企业客户。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/satyanadella/status/2080329851127669104",
+          "source": "X：Satya Nadella (@satyanadella)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T16:31:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7412,
+      "importance": 0.7412,
+      "importance_score": 0.7412,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9702,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-23T16:31:01Z",
+      "latest_at": "2026-07-23T16:31:01Z",
+      "primary_item": {
+        "id": "d72daa2e5b7b6321ccd98fbe31c3a75f08bef8e2",
+        "title": "微软MAI模型：以更低成本实现前沿能力规模化 / http://x.com/i/article/2080328073724260352",
+        "title_zh": "微软MAI模型：以更低成本实现前沿能力规模化",
+        "title_en": "http://x.com/i/article/2080328073724260352",
+        "title_original": "http://x.com/i/article/2080328073724260352",
+        "summary": "微软CEO Satya Nadella详解MAI模型家族战略：通过优化成本-效果前沿，MAI模型在GitHub Copilot、Excel等产品中已用更少token超越通用前沿模型。核心是构建独立于模型的评估系统，让模型在产品真实环境中学习并完成用户关心的任务。微软正将这一模板通过Foundry平台开放给企业客户。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/satyanadella/status/2080329851127669104",
+        "source": "X：Satya Nadella (@satyanadella)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-23T18:37:34.756505Z"
       }
     },
     {
@@ -1245,15 +1326,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7685,
-      "importance": 0.7685,
-      "importance_score": 0.7685,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7327,
+        "recency": 0.7131,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1280,7 +1361,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-23T16:45:18.958388Z"
+        "scored_at": "2026-07-23T18:37:34.756505Z"
       }
     },
     {
@@ -1328,15 +1409,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7361,
-      "importance": 0.7361,
-      "importance_score": 0.7361,
+      "score": 0.7316,
+      "importance": 0.7316,
+      "importance_score": 0.7316,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9249,
+        "recency": 0.9003,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1361,7 +1442,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-23T16:45:18.958388Z"
+        "scored_at": "2026-07-23T18:37:34.756505Z"
       }
     },
     {
@@ -1409,15 +1490,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7319,
-      "importance": 0.7319,
-      "importance_score": 0.7319,
+      "score": 0.728,
+      "importance": 0.728,
+      "importance_score": 0.728,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8185,
+        "recency": 0.7967,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1442,7 +1523,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-23T16:45:18.958388Z"
+        "scored_at": "2026-07-23T18:37:34.756505Z"
+      }
+    },
+    {
+      "story_id": "story_79c2ff005240",
+      "title": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体 / One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
+      "url": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes",
+      "primary_url": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "39ca60e336078bc560f5427e1deef672799be840",
+          "title": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体 / One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
+          "title_zh": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体",
+          "title_en": "One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
+          "title_original": "One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
+          "summary": "安全公司 Zenity Labs 发现 OpenAI Workspace Agents 存在\"AgentForger\"漏洞，攻击者发送一个含恶意提示词的 ChatGPT 链接，即可在受害者账户下创建自主 AI 智能体。该智能体继承受害者身份和已授权应用权限，绕过安全审批，并设置每五分钟运行一次的定时任务，从攻击者邮箱获取指令执行。OpenAI 在四天内修复了该漏洞。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T17:01:30Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "39ca60e336078bc560f5427e1deef672799be840",
+          "title": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体 / One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
+          "title_zh": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体",
+          "title_en": "One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
+          "title_original": "One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
+          "summary": "安全公司 Zenity Labs 发现 OpenAI Workspace Agents 存在\"AgentForger\"漏洞，攻击者发送一个含恶意提示词的 ChatGPT 链接，即可在受害者账户下创建自主 AI 智能体。该智能体继承受害者身份和已授权应用权限，绕过安全审批，并设置每五分钟运行一次的定时任务，从攻击者邮箱获取指令执行。OpenAI 在四天内修复了该漏洞。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T17:01:30Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7575,
+      "importance": 0.7575,
+      "importance_score": 0.7575,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9774,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-23T17:01:30Z",
+      "latest_at": "2026-07-23T17:01:30Z",
+      "primary_item": {
+        "id": "39ca60e336078bc560f5427e1deef672799be840",
+        "title": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体 / One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
+        "title_zh": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体",
+        "title_en": "One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
+        "title_original": "One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
+        "summary": "安全公司 Zenity Labs 发现 OpenAI Workspace Agents 存在\"AgentForger\"漏洞，攻击者发送一个含恶意提示词的 ChatGPT 链接，即可在受害者账户下创建自主 AI 智能体。该智能体继承受害者身份和已授权应用权限，绕过安全审批，并设置每五分钟运行一次的定时任务，从攻击者邮箱获取指令执行。OpenAI 在四天内修复了该漏洞。",
+        "recommend_reason_zh": null,
+        "url": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-23T18:37:34.756505Z"
       }
     },
     {
@@ -1490,15 +1653,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.726,
-      "importance": 0.726,
-      "importance_score": 0.726,
+      "score": 0.7224,
+      "importance": 0.7224,
+      "importance_score": 0.7224,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7521,
+        "recency": 0.732,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1523,250 +1686,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-23T16:45:18.958388Z"
-      }
-    },
-    {
-      "story_id": "story_97b950f64bc4",
-      "title": "从提示词到任务：多模态交互单元提升AI智能体效率 / http://x.com/i/article/2079981292108582912",
-      "url": "https://x.com/omarsar0/status/2079982491578827214",
-      "primary_url": "https://x.com/omarsar0/status/2079982491578827214",
-      "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9dc2eb3a235e7b783dc43780757ca4067639001e",
-          "title": "从提示词到任务：多模态交互单元提升AI智能体效率 / http://x.com/i/article/2079981292108582912",
-          "title_zh": "从提示词到任务：多模态交互单元提升AI智能体效率",
-          "title_en": "http://x.com/i/article/2079981292108582912",
-          "title_original": "http://x.com/i/article/2079981292108582912",
-          "summary": "DAIR.AI的Elvis Saravia提出以\"任务\"作为超越提示词的交互单元，通过整合语音、屏幕、文本、标注等多模态信息，让智能体一次性获得完整上下文。该方法受Karpathy关于长语音会话作为提示的启发，通过前端加载上下文减少反复修正，使智能体在单次交互中完成更复杂的工作。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/omarsar0/status/2079982491578827214",
-          "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-22T17:30:44Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Elvis Saravia (@omarsar0, DAIR.AI)"
-      ],
-      "items": [
-        {
-          "id": "9dc2eb3a235e7b783dc43780757ca4067639001e",
-          "title": "从提示词到任务：多模态交互单元提升AI智能体效率 / http://x.com/i/article/2079981292108582912",
-          "title_zh": "从提示词到任务：多模态交互单元提升AI智能体效率",
-          "title_en": "http://x.com/i/article/2079981292108582912",
-          "title_original": "http://x.com/i/article/2079981292108582912",
-          "summary": "DAIR.AI的Elvis Saravia提出以\"任务\"作为超越提示词的交互单元，通过整合语音、屏幕、文本、标注等多模态信息，让智能体一次性获得完整上下文。该方法受Karpathy关于长语音会话作为提示的启发，通过前端加载上下文减少反复修正，使智能体在单次交互中完成更复杂的工作。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/omarsar0/status/2079982491578827214",
-          "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-22T17:30:44Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7253,
-      "importance": 0.7253,
-      "importance_score": 0.7253,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7151,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-22T17:30:44Z",
-      "latest_at": "2026-07-22T17:30:44Z",
-      "primary_item": {
-        "id": "9dc2eb3a235e7b783dc43780757ca4067639001e",
-        "title": "从提示词到任务：多模态交互单元提升AI智能体效率 / http://x.com/i/article/2079981292108582912",
-        "title_zh": "从提示词到任务：多模态交互单元提升AI智能体效率",
-        "title_en": "http://x.com/i/article/2079981292108582912",
-        "title_original": "http://x.com/i/article/2079981292108582912",
-        "summary": "DAIR.AI的Elvis Saravia提出以\"任务\"作为超越提示词的交互单元，通过整合语音、屏幕、文本、标注等多模态信息，让智能体一次性获得完整上下文。该方法受Karpathy关于长语音会话作为提示的启发，通过前端加载上下文减少反复修正，使智能体在单次交互中完成更复杂的工作。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/omarsar0/status/2079982491578827214",
-        "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-23T16:45:18.958388Z"
-      }
-    },
-    {
-      "story_id": "story_87d814e4f245",
-      "title": "北京发布智能体新政，首次将Harness Engineering、Token经济、OPC等写入政策",
-      "url": "https://mp.weixin.qq.com/s/CYB7v1e5D4m-btgosjmLgA",
-      "primary_url": "https://mp.weixin.qq.com/s/CYB7v1e5D4m-btgosjmLgA",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "98ee80e744f7c39cfb79a06cb355896cf1b0750b",
-          "title": "北京发布智能体新政，首次将Harness Engineering、Token经济、OPC等写入政策",
-          "title_zh": "北京发布智能体新政，首次将Harness Engineering、Token经济、OPC等写入政策",
-          "title_en": null,
-          "title_original": "北京发布智能体新政，首次将Harness Engineering、Token经济、OPC等写入政策",
-          "summary": "北京市发布《关于加快智能体引领发展的若干措施》，共十条，首次将Harness Engineering（驾驭层工程）、Token经济、OPC（一人公司）等前沿概念写入正式政策。文件提出从Token消耗量计费转向价值计费，鼓励发展TaaS、AaaS、RaaS模式，并推动智能体嵌入手机、眼镜、汽车等终端。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s/CYB7v1e5D4m-btgosjmLgA",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T05:13:37Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "98ee80e744f7c39cfb79a06cb355896cf1b0750b",
-          "title": "北京发布智能体新政，首次将Harness Engineering、Token经济、OPC等写入政策",
-          "title_zh": "北京发布智能体新政，首次将Harness Engineering、Token经济、OPC等写入政策",
-          "title_en": null,
-          "title_original": "北京发布智能体新政，首次将Harness Engineering、Token经济、OPC等写入政策",
-          "summary": "北京市发布《关于加快智能体引领发展的若干措施》，共十条，首次将Harness Engineering（驾驭层工程）、Token经济、OPC（一人公司）等前沿概念写入正式政策。文件提出从Token消耗量计费转向价值计费，鼓励发展TaaS、AaaS、RaaS模式，并推动智能体嵌入手机、眼镜、汽车等终端。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s/CYB7v1e5D4m-btgosjmLgA",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T05:13:37Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.722,
-      "importance": 0.722,
-      "importance_score": 0.722,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8469,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-23T05:13:37Z",
-      "latest_at": "2026-07-23T05:13:37Z",
-      "primary_item": {
-        "id": "98ee80e744f7c39cfb79a06cb355896cf1b0750b",
-        "title": "北京发布智能体新政，首次将Harness Engineering、Token经济、OPC等写入政策",
-        "title_zh": "北京发布智能体新政，首次将Harness Engineering、Token经济、OPC等写入政策",
-        "title_en": null,
-        "title_original": "北京发布智能体新政，首次将Harness Engineering、Token经济、OPC等写入政策",
-        "summary": "北京市发布《关于加快智能体引领发展的若干措施》，共十条，首次将Harness Engineering（驾驭层工程）、Token经济、OPC（一人公司）等前沿概念写入正式政策。文件提出从Token消耗量计费转向价值计费，鼓励发展TaaS、AaaS、RaaS模式，并推动智能体嵌入手机、眼镜、汽车等终端。",
-        "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s/CYB7v1e5D4m-btgosjmLgA",
-        "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-23T16:45:18.958388Z"
-      }
-    },
-    {
-      "story_id": "story_0ba3ace346fe",
-      "title": "微软 MagenticLite 模型全面开源 / MagenticLite's models are now fully open source. MagenticBrain and Fara 1.5， previously available …",
-      "url": "https://x.com/MSFTResearch/status/2079989338994069511",
-      "primary_url": "https://x.com/MSFTResearch/status/2079989338994069511",
-      "source": "X：Microsoft Research (@MSFTResearch)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "dd8a7f2203b3cc45de551a806933da55cd93ec16",
-          "title": "微软 MagenticLite 模型全面开源 / MagenticLite's models are now fully open source. MagenticBrain and Fara 1.5， previously available …",
-          "title_zh": "微软 MagenticLite 模型全面开源",
-          "title_en": "MagenticLite's models are now fully open source. MagenticBrain and Fara 1.5， previously available …",
-          "title_original": "MagenticLite's models are now fully open source. MagenticBrain and Fara 1.5， previously available …",
-          "summary": "MagenticLite 的模型现已完全开源。\n\n此前在 Microsoft Foundry 上提供的 MagenticBrain 和 Fara 1.5，现已在 Hugging Face 上开放权重。\n\n该应用、测试工具以及堆栈中的每个模型现已全部开放。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/MSFTResearch/status/2079989338994069511",
-          "source": "X：Microsoft Research (@MSFTResearch)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-22T17:57:57Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Microsoft Research (@MSFTResearch)"
-      ],
-      "items": [
-        {
-          "id": "dd8a7f2203b3cc45de551a806933da55cd93ec16",
-          "title": "微软 MagenticLite 模型全面开源 / MagenticLite's models are now fully open source. MagenticBrain and Fara 1.5， previously available …",
-          "title_zh": "微软 MagenticLite 模型全面开源",
-          "title_en": "MagenticLite's models are now fully open source. MagenticBrain and Fara 1.5， previously available …",
-          "title_original": "MagenticLite's models are now fully open source. MagenticBrain and Fara 1.5， previously available …",
-          "summary": "MagenticLite 的模型现已完全开源。\n\n此前在 Microsoft Foundry 上提供的 MagenticBrain 和 Fara 1.5，现已在 Hugging Face 上开放权重。\n\n该应用、测试工具以及堆栈中的每个模型现已全部开放。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/MSFTResearch/status/2079989338994069511",
-          "source": "X：Microsoft Research (@MSFTResearch)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-22T17:57:57Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7202,
-      "importance": 0.7202,
-      "importance_score": 0.7202,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7198,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-22T17:57:57Z",
-      "latest_at": "2026-07-22T17:57:57Z",
-      "primary_item": {
-        "id": "dd8a7f2203b3cc45de551a806933da55cd93ec16",
-        "title": "微软 MagenticLite 模型全面开源 / MagenticLite's models are now fully open source. MagenticBrain and Fara 1.5， previously available …",
-        "title_zh": "微软 MagenticLite 模型全面开源",
-        "title_en": "MagenticLite's models are now fully open source. MagenticBrain and Fara 1.5， previously available …",
-        "title_original": "MagenticLite's models are now fully open source. MagenticBrain and Fara 1.5， previously available …",
-        "summary": "MagenticLite 的模型现已完全开源。\n\n此前在 Microsoft Foundry 上提供的 MagenticBrain 和 Fara 1.5，现已在 Hugging Face 上开放权重。\n\n该应用、测试工具以及堆栈中的每个模型现已全部开放。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/MSFTResearch/status/2079989338994069511",
-        "source": "X：Microsoft Research (@MSFTResearch)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-23T16:45:18.958388Z"
+        "scored_at": "2026-07-23T18:37:34.756505Z"
       }
     },
     {
@@ -1814,15 +1734,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7499,
-      "importance": 0.7499,
-      "importance_score": 0.7499,
+      "score": 0.7456,
+      "importance": 0.7456,
+      "importance_score": 0.7456,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9019,
+        "recency": 0.8778,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1847,7 +1767,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-23T16:45:18.958388Z"
+        "scored_at": "2026-07-23T18:37:34.756505Z"
       }
     },
     {
@@ -1895,15 +1815,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7353,
-      "importance": 0.7353,
-      "importance_score": 0.7353,
+      "score": 0.7312,
+      "importance": 0.7312,
+      "importance_score": 0.7312,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8538,
+        "recency": 0.831,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1928,7 +1848,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-23T16:45:18.958388Z"
+        "scored_at": "2026-07-23T18:37:34.756505Z"
+      }
+    },
+    {
+      "story_id": "story_79be99194271",
+      "title": "OpenAI 为数据中心争取社区支持：承诺不推高电费、用水量极低",
+      "url": "https://www.aibase.com/news/29837",
+      "primary_url": "https://www.aibase.com/news/29837",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "10c7d59372a959e3110026780f55fe41a56ebb65",
+          "title": "OpenAI 为数据中心争取社区支持：承诺不推高电费、用水量极低",
+          "title_zh": "OpenAI 为数据中心争取社区支持：承诺不推高电费、用水量极低",
+          "title_en": null,
+          "title_original": "OpenAI 为数据中心争取社区支持：承诺不推高电费、用水量极低",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/29837",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-23T09:35:09.669889Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "10c7d59372a959e3110026780f55fe41a56ebb65",
+          "title": "OpenAI 为数据中心争取社区支持：承诺不推高电费、用水量极低",
+          "title_zh": "OpenAI 为数据中心争取社区支持：承诺不推高电费、用水量极低",
+          "title_en": null,
+          "title_original": "OpenAI 为数据中心争取社区支持：承诺不推高电费、用水量极低",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/29837",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-23T09:35:09.669889Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7456,
+      "importance": 0.7456,
+      "importance_score": 0.7456,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8778,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-23T09:35:09.669889Z",
+      "latest_at": "2026-07-23T09:35:09.669889Z",
+      "primary_item": {
+        "id": "10c7d59372a959e3110026780f55fe41a56ebb65",
+        "title": "OpenAI 为数据中心争取社区支持：承诺不推高电费、用水量极低",
+        "title_zh": "OpenAI 为数据中心争取社区支持：承诺不推高电费、用水量极低",
+        "title_en": null,
+        "title_original": "OpenAI 为数据中心争取社区支持：承诺不推高电费、用水量极低",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/29837",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-23T18:37:34.756505Z"
       }
     }
   ]
