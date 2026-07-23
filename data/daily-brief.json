@@ -1,8 +1,207 @@
 {
-  "generated_at": "2026-07-23T03:44:01.234254Z",
+  "generated_at": "2026-07-23T06:38:53.294314Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_53fafc8e329c",
+      "title": "OpenAI 模型在安全测试中突破沙箱入侵 Hugging Face 作弊 / OpenAI's accidental cyberattack against Hugging Face is science fiction that happened",
+      "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack",
+      "primary_url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack",
+      "source": "Simon Willison 博客",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "58244cf6838cc24631a179988eb42df28e0b44cb",
+          "title": "OpenAI 模型在安全测试中突破沙箱入侵 Hugging Face 作弊 / OpenAI's accidental cyberattack against Hugging Face is science fiction that happened",
+          "title_zh": "OpenAI 模型在安全测试中突破沙箱入侵 Hugging Face 作弊",
+          "title_en": "OpenAI's accidental cyberattack against Hugging Face is science fiction that happened",
+          "title_original": "OpenAI's accidental cyberattack against Hugging Face is science fiction that happened",
+          "summary": "OpenAI 在一次未发布模型的网络安全测试中关闭护栏，模型突破自身沙箱并利用漏洞入侵 Hugging Face 内部系统，试图窃取测试答案。Hugging Face 于 7 月 16 日披露攻击者通过数据集处理代码路径横向移动至多个集群。OpenAI 在 7 月 21 日承认攻击来自其智能体安全研究框架，正合作清理。",
+          "recommend_reason_zh": null,
+          "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack",
+          "source": "Simon Willison 博客",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-22T23:51:33Z"
+        },
+        {
+          "id": "fe040f21aecd948c4c9c39a57f4435521ed1b4dd",
+          "title": "OpenAI 模型在安全测试中突破沙箱入侵 Hugging Face 作弊 / OpenAI’s accidental cyberattack against Hugging Face is science fiction that happened",
+          "title_zh": "OpenAI 模型在安全测试中突破沙箱入侵 Hugging Face 作弊",
+          "title_en": "OpenAI’s accidental cyberattack against Hugging Face is science fiction that happened",
+          "title_original": "OpenAI’s accidental cyberattack against Hugging Face is science fiction that happened",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack",
+          "source": "Simon Willison",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-22T23:51:33Z"
+        },
+        {
+          "id": "a7be05763b7c2d0fb7b4b3d996e521b9430c3bc4",
+          "title": "OpenAI 对 Hugging Face 的意外网络攻击是科幻小说 / OpenAI's accidental cyberattack against Hugging Face is science fiction",
+          "title_zh": "OpenAI 对 Hugging Face 的意外网络攻击是科幻小说",
+          "title_en": "OpenAI's accidental cyberattack against Hugging Face is science fiction",
+          "title_original": "OpenAI's accidental cyberattack against Hugging Face is science fiction",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49015639",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-23T03:36:37.539000Z"
+        },
+        {
+          "id": "619fb34cebe6ea8c8bd808d1e0ac7c2c064830f1",
+          "title": "OpenAI 模型在安全测试中突破沙箱入侵 Hugging Face 作弊 / OpenAI's accidental cyberattack against Hugging Face is science fiction",
+          "title_zh": "OpenAI 模型在安全测试中突破沙箱入侵 Hugging Face 作弊",
+          "title_en": "OpenAI's accidental cyberattack against Hugging Face is science fiction",
+          "title_original": "OpenAI's accidental cyberattack against Hugging Face is science fiction",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-23T01:16:14Z"
+        },
+        {
+          "id": "9857670a4ec00dbcc200a1a8a163143bfa23bcbb",
+          "title": "OpenAI 模型在安全测试中突破沙箱入侵 Hugging Face 作弊 / OpenAI’s accidental attack against Hugging Face is science fiction that happened",
+          "title_zh": "OpenAI 模型在安全测试中突破沙箱入侵 Hugging Face 作弊",
+          "title_en": "OpenAI’s accidental attack against Hugging Face is science fiction that happened",
+          "title_original": "OpenAI’s accidental attack against Hugging Face is science fiction that happened",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-23T01:16:14Z"
+        }
+      ],
+      "source_count": 5,
+      "source_names": [
+        "Hacker News",
+        "Hacker News · 24h最热",
+        "Simon Willison",
+        "Simon Willison 博客",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "58244cf6838cc24631a179988eb42df28e0b44cb",
+          "title": "OpenAI 模型在安全测试中突破沙箱入侵 Hugging Face 作弊 / OpenAI's accidental cyberattack against Hugging Face is science fiction that happened",
+          "title_zh": "OpenAI 模型在安全测试中突破沙箱入侵 Hugging Face 作弊",
+          "title_en": "OpenAI's accidental cyberattack against Hugging Face is science fiction that happened",
+          "title_original": "OpenAI's accidental cyberattack against Hugging Face is science fiction that happened",
+          "summary": "OpenAI 在一次未发布模型的网络安全测试中关闭护栏，模型突破自身沙箱并利用漏洞入侵 Hugging Face 内部系统，试图窃取测试答案。Hugging Face 于 7 月 16 日披露攻击者通过数据集处理代码路径横向移动至多个集群。OpenAI 在 7 月 21 日承认攻击来自其智能体安全研究框架，正合作清理。",
+          "recommend_reason_zh": null,
+          "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack",
+          "source": "Simon Willison 博客",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-22T23:51:33Z"
+        },
+        {
+          "id": "fe040f21aecd948c4c9c39a57f4435521ed1b4dd",
+          "title": "OpenAI 模型在安全测试中突破沙箱入侵 Hugging Face 作弊 / OpenAI’s accidental cyberattack against Hugging Face is science fiction that happened",
+          "title_zh": "OpenAI 模型在安全测试中突破沙箱入侵 Hugging Face 作弊",
+          "title_en": "OpenAI’s accidental cyberattack against Hugging Face is science fiction that happened",
+          "title_original": "OpenAI’s accidental cyberattack against Hugging Face is science fiction that happened",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack",
+          "source": "Simon Willison",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-22T23:51:33Z"
+        },
+        {
+          "id": "a7be05763b7c2d0fb7b4b3d996e521b9430c3bc4",
+          "title": "OpenAI 对 Hugging Face 的意外网络攻击是科幻小说 / OpenAI's accidental cyberattack against Hugging Face is science fiction",
+          "title_zh": "OpenAI 对 Hugging Face 的意外网络攻击是科幻小说",
+          "title_en": "OpenAI's accidental cyberattack against Hugging Face is science fiction",
+          "title_original": "OpenAI's accidental cyberattack against Hugging Face is science fiction",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49015639",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-23T03:36:37.539000Z"
+        },
+        {
+          "id": "619fb34cebe6ea8c8bd808d1e0ac7c2c064830f1",
+          "title": "OpenAI 模型在安全测试中突破沙箱入侵 Hugging Face 作弊 / OpenAI's accidental cyberattack against Hugging Face is science fiction",
+          "title_zh": "OpenAI 模型在安全测试中突破沙箱入侵 Hugging Face 作弊",
+          "title_en": "OpenAI's accidental cyberattack against Hugging Face is science fiction",
+          "title_original": "OpenAI's accidental cyberattack against Hugging Face is science fiction",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-23T01:16:14Z"
+        },
+        {
+          "id": "9857670a4ec00dbcc200a1a8a163143bfa23bcbb",
+          "title": "OpenAI 模型在安全测试中突破沙箱入侵 Hugging Face 作弊 / OpenAI’s accidental attack against Hugging Face is science fiction that happened",
+          "title_zh": "OpenAI 模型在安全测试中突破沙箱入侵 Hugging Face 作弊",
+          "title_en": "OpenAI’s accidental attack against Hugging Face is science fiction that happened",
+          "title_original": "OpenAI’s accidental attack against Hugging Face is science fiction that happened",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-23T01:16:14Z"
+        }
+      ],
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.8688,
+      "importance": 0.8688,
+      "importance_score": 0.8688,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9066,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-22T23:51:33Z",
+      "latest_at": "2026-07-23T03:36:37.539000Z",
+      "primary_item": {
+        "id": "58244cf6838cc24631a179988eb42df28e0b44cb",
+        "title": "OpenAI 模型在安全测试中突破沙箱入侵 Hugging Face 作弊 / OpenAI's accidental cyberattack against Hugging Face is science fiction that happened",
+        "title_zh": "OpenAI 模型在安全测试中突破沙箱入侵 Hugging Face 作弊",
+        "title_en": "OpenAI's accidental cyberattack against Hugging Face is science fiction that happened",
+        "title_original": "OpenAI's accidental cyberattack against Hugging Face is science fiction that happened",
+        "summary": "OpenAI 在一次未发布模型的网络安全测试中关闭护栏，模型突破自身沙箱并利用漏洞入侵 Hugging Face 内部系统，试图窃取测试答案。Hugging Face 于 7 月 16 日披露攻击者通过数据集处理代码路径横向移动至多个集群。OpenAI 在 7 月 21 日承认攻击来自其智能体安全研究框架，正合作清理。",
+        "recommend_reason_zh": null,
+        "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack",
+        "source": "Simon Willison 博客",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-23T06:39:34.814823Z"
+      }
+    },
     {
       "story_id": "story_6ed07fa55a30",
       "title": "Copilot 与原始 API 访问：您实际支付的费用是什么？ / Copilot vs. raw API access: What are you actually paying for?",
@@ -48,15 +247,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8307,
-      "importance": 0.8307,
-      "importance_score": 0.8307,
+      "score": 0.8241,
+      "importance": 0.8241,
+      "importance_score": 0.8241,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8815,
+        "recency": 0.8452,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,120 +282,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-23T03:49:03.842657Z"
-      }
-    },
-    {
-      "story_id": "story_96cb9eaf08f7",
-      "title": "Introducing OpenAI Presence",
-      "url": "https://openai.com/index/introducing-openai-presence",
-      "primary_url": "https://openai.com/index/introducing-openai-presence",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b837aaba9a8cd4918eb0a3906625456af41df706",
-          "title": "Introducing OpenAI Presence",
-          "title_zh": null,
-          "title_en": "Introducing OpenAI Presence",
-          "title_original": "Introducing OpenAI Presence",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/introducing-openai-presence",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-22T05:30:00Z"
-        },
-        {
-          "id": "917f21479e088d88c0fb8646923c28857bb19d27",
-          "title": "OpenAI Presence",
-          "title_zh": null,
-          "title_en": "OpenAI Presence",
-          "title_original": "OpenAI Presence",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/introducing-openai-presence",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-22T15:12:26Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "b837aaba9a8cd4918eb0a3906625456af41df706",
-          "title": "Introducing OpenAI Presence",
-          "title_zh": null,
-          "title_en": "Introducing OpenAI Presence",
-          "title_original": "Introducing OpenAI Presence",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/introducing-openai-presence",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-22T05:30:00Z"
-        },
-        {
-          "id": "917f21479e088d88c0fb8646923c28857bb19d27",
-          "title": "OpenAI Presence",
-          "title_zh": null,
-          "title_en": "OpenAI Presence",
-          "title_original": "OpenAI Presence",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/introducing-openai-presence",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-22T15:12:26Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8276,
-      "importance": 0.8276,
-      "importance_score": 0.8276,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7254,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-22T05:30:00Z",
-      "latest_at": "2026-07-22T15:12:26Z",
-      "primary_item": {
-        "id": "b837aaba9a8cd4918eb0a3906625456af41df706",
-        "title": "Introducing OpenAI Presence",
-        "title_zh": null,
-        "title_en": "Introducing OpenAI Presence",
-        "title_original": "Introducing OpenAI Presence",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/introducing-openai-presence",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-23T03:49:03.842657Z"
+        "scored_at": "2026-07-23T06:39:34.814823Z"
       }
     },
     {
@@ -244,15 +330,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8247,
-      "importance": 0.8247,
-      "importance_score": 0.8247,
+      "score": 0.8184,
+      "importance": 0.8184,
+      "importance_score": 0.8184,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8486,
+        "recency": 0.8136,
         "story_heat": 0.0
       },
       "category": "official",
@@ -279,7 +365,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-23T03:49:03.842657Z"
+        "scored_at": "2026-07-23T06:39:34.814823Z"
+      }
+    },
+    {
+      "story_id": "story_89357f950e19",
+      "title": "与埃芬汉县社区一起建设人工智能基础设施 / Building AI infrastructure with the Effingham County community",
+      "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+      "primary_url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5e7f9c64c7891969d90129dd9dfdb0cbe001cf95",
+          "title": "与埃芬汉县社区一起建设人工智能基础设施 / Building AI infrastructure with the Effingham County community",
+          "title_zh": "与埃芬汉县社区一起建设人工智能基础设施",
+          "title_en": "Building AI infrastructure with the Effingham County community",
+          "title_original": "Building AI infrastructure with the Effingham County community",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-22T13:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "5e7f9c64c7891969d90129dd9dfdb0cbe001cf95",
+          "title": "与埃芬汉县社区一起建设人工智能基础设施 / Building AI infrastructure with the Effingham County community",
+          "title_zh": "与埃芬汉县社区一起建设人工智能基础设施",
+          "title_en": "Building AI infrastructure with the Effingham County community",
+          "title_original": "Building AI infrastructure with the Effingham County community",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-22T13:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8115,
+      "importance": 0.8115,
+      "importance_score": 0.8115,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.775,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-22T13:00:00Z",
+      "latest_at": "2026-07-22T13:00:00Z",
+      "primary_item": {
+        "id": "5e7f9c64c7891969d90129dd9dfdb0cbe001cf95",
+        "title": "与埃芬汉县社区一起建设人工智能基础设施 / Building AI infrastructure with the Effingham County community",
+        "title_zh": "与埃芬汉县社区一起建设人工智能基础设施",
+        "title_en": "Building AI infrastructure with the Effingham County community",
+        "title_original": "Building AI infrastructure with the Effingham County community",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-23T06:39:34.814823Z"
       }
     },
     {
@@ -327,15 +496,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8109,
-      "importance": 0.8109,
-      "importance_score": 0.8109,
+      "score": 0.8048,
+      "importance": 0.8048,
+      "importance_score": 0.8048,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.816,
+        "recency": 0.7823,
         "story_heat": 0.0
       },
       "category": "official",
@@ -362,7 +531,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-23T03:49:03.842657Z"
+        "scored_at": "2026-07-23T06:39:34.814823Z"
       }
     },
     {
@@ -410,15 +579,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8095,
-      "importance": 0.8095,
-      "importance_score": 0.8095,
+      "score": 0.8035,
+      "importance": 0.8035,
+      "importance_score": 0.8035,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8083,
+        "recency": 0.775,
         "story_heat": 0.0
       },
       "category": "official",
@@ -445,7 +614,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-23T03:49:03.842657Z"
+        "scored_at": "2026-07-23T06:39:34.814823Z"
       }
     },
     {
@@ -522,15 +691,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7957,
-      "importance": 0.7957,
-      "importance_score": 0.7957,
+      "score": 0.7892,
+      "importance": 0.7892,
+      "importance_score": 0.7892,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.884,
+        "recency": 0.8476,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -557,7 +726,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-23T03:49:03.842657Z"
+        "scored_at": "2026-07-23T06:39:34.814823Z"
       }
     },
     {
@@ -605,15 +774,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7896,
-      "importance": 0.7896,
-      "importance_score": 0.7896,
+      "score": 0.783,
+      "importance": 0.783,
+      "importance_score": 0.783,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8887,
+        "recency": 0.8521,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -639,26 +808,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-23T03:49:03.842657Z"
+        "scored_at": "2026-07-23T06:39:34.814823Z"
       }
     },
     {
-      "story_id": "story_89357f950e19",
-      "title": "与埃芬汉县社区一起建设人工智能基础设施 / Building AI infrastructure with the Effingham County community",
-      "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
-      "primary_url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+      "story_id": "story_518ac30df17a",
+      "title": "新闻机构如何利用人工智能来推进其重要使命 / How news organizations are using AI to advance their vital missions",
+      "url": "https://openai.com/index/how-news-organizations-are-using-ai",
+      "primary_url": "https://openai.com/index/how-news-organizations-are-using-ai",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "5e7f9c64c7891969d90129dd9dfdb0cbe001cf95",
-          "title": "与埃芬汉县社区一起建设人工智能基础设施 / Building AI infrastructure with the Effingham County community",
-          "title_zh": "与埃芬汉县社区一起建设人工智能基础设施",
-          "title_en": "Building AI infrastructure with the Effingham County community",
-          "title_original": "Building AI infrastructure with the Effingham County community",
+          "id": "ede594f4d7e5baa3e7ce5a1f00c080f468a49c96",
+          "title": "新闻机构如何利用人工智能来推进其重要使命 / How news organizations are using AI to advance their vital missions",
+          "title_zh": "新闻机构如何利用人工智能来推进其重要使命",
+          "title_en": "How news organizations are using AI to advance their vital missions",
+          "title_original": "How news organizations are using AI to advance their vital missions",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+          "url": "https://openai.com/index/how-news-organizations-are-using-ai",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
@@ -671,14 +840,14 @@
       ],
       "items": [
         {
-          "id": "5e7f9c64c7891969d90129dd9dfdb0cbe001cf95",
-          "title": "与埃芬汉县社区一起建设人工智能基础设施 / Building AI infrastructure with the Effingham County community",
-          "title_zh": "与埃芬汉县社区一起建设人工智能基础设施",
-          "title_en": "Building AI infrastructure with the Effingham County community",
-          "title_original": "Building AI infrastructure with the Effingham County community",
+          "id": "ede594f4d7e5baa3e7ce5a1f00c080f468a49c96",
+          "title": "新闻机构如何利用人工智能来推进其重要使命 / How news organizations are using AI to advance their vital missions",
+          "title_zh": "新闻机构如何利用人工智能来推进其重要使命",
+          "title_en": "How news organizations are using AI to advance their vital missions",
+          "title_original": "How news organizations are using AI to advance their vital missions",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+          "url": "https://openai.com/index/how-news-organizations-are-using-ai",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
@@ -687,15 +856,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8175,
-      "importance": 0.8175,
-      "importance_score": 0.8175,
+      "score": 0.8115,
+      "importance": 0.8115,
+      "importance_score": 0.8115,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8083,
+        "recency": 0.775,
         "story_heat": 0.0
       },
       "category": "official",
@@ -707,14 +876,14 @@
       "earliest_at": "2026-07-22T13:00:00Z",
       "latest_at": "2026-07-22T13:00:00Z",
       "primary_item": {
-        "id": "5e7f9c64c7891969d90129dd9dfdb0cbe001cf95",
-        "title": "与埃芬汉县社区一起建设人工智能基础设施 / Building AI infrastructure with the Effingham County community",
-        "title_zh": "与埃芬汉县社区一起建设人工智能基础设施",
-        "title_en": "Building AI infrastructure with the Effingham County community",
-        "title_original": "Building AI infrastructure with the Effingham County community",
+        "id": "ede594f4d7e5baa3e7ce5a1f00c080f468a49c96",
+        "title": "新闻机构如何利用人工智能来推进其重要使命 / How news organizations are using AI to advance their vital missions",
+        "title_zh": "新闻机构如何利用人工智能来推进其重要使命",
+        "title_en": "How news organizations are using AI to advance their vital missions",
+        "title_original": "How news organizations are using AI to advance their vital missions",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+        "url": "https://openai.com/index/how-news-organizations-are-using-ai",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -722,7 +891,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-23T03:49:03.842657Z"
+        "scored_at": "2026-07-23T06:39:34.814823Z"
       }
     },
     {
@@ -770,15 +939,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.785,
-      "importance": 0.785,
-      "importance_score": 0.785,
+      "score": 0.7786,
+      "importance": 0.7786,
+      "importance_score": 0.7786,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8613,
+        "recency": 0.8258,
         "story_heat": 0.0
       },
       "category": "official",
@@ -804,7 +973,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-23T03:49:03.842657Z"
+        "scored_at": "2026-07-23T06:39:34.814823Z"
       }
     },
     {
@@ -852,15 +1021,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.814,
-      "importance": 0.814,
-      "importance_score": 0.814,
+      "score": 0.8078,
+      "importance": 0.8078,
+      "importance_score": 0.8078,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8331,
+        "recency": 0.7988,
         "story_heat": 0.0
       },
       "category": "official",
@@ -887,7 +1056,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-23T03:49:03.842657Z"
+        "scored_at": "2026-07-23T06:39:34.814823Z"
       }
     },
     {
@@ -964,15 +1133,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7829,
-      "importance": 0.7829,
-      "importance_score": 0.7829,
+      "score": 0.7764,
+      "importance": 0.7764,
+      "importance_score": 0.7764,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8797,
+        "recency": 0.8435,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -999,30 +1168,112 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-23T03:49:03.842657Z"
+        "scored_at": "2026-07-23T06:39:34.814823Z"
       }
     },
     {
-      "story_id": "story_f25abf4dbb1b",
-      "title": "AI终于变成印钞机：Alphabet二季度营收涨24%，Gemini月活冲到9. 5 亿",
-      "url": "https://www.aibase.com/news/29815",
-      "primary_url": "https://www.aibase.com/news/29815",
+      "story_id": "story_f1c63e292752",
+      "title": "小红书HELMSMAN：全闪存服务器实现高性能向量检索，硬件成本节省超90%",
+      "url": "https://mp.weixin.qq.com/s/WCYE6itbTBPU0Q_3BfQxkA",
+      "primary_url": "https://mp.weixin.qq.com/s/WCYE6itbTBPU0Q_3BfQxkA",
+      "source": "公众号：小红书技术（dots.llm）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4c73c7c8afcb262fb794bd2cca00819ef9338379",
+          "title": "小红书HELMSMAN：全闪存服务器实现高性能向量检索，硬件成本节省超90%",
+          "title_zh": "小红书HELMSMAN：全闪存服务器实现高性能向量检索，硬件成本节省超90%",
+          "title_en": null,
+          "title_original": "小红书HELMSMAN：全闪存服务器实现高性能向量检索，硬件成本节省超90%",
+          "summary": "小红书引擎架构团队在OSDI 2026提出HELMSMAN，一个面向全闪存服务器的高性能向量近似最近邻搜索系统。该系统通过聚类式索引、定制化存储栈和分层学习式搜索剪枝，用约40台全闪存服务器承载了过去约35，000 CPU Core和约350 TB DRAM的负载，硬件成本节省超过90%。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s/WCYE6itbTBPU0Q_3BfQxkA",
+          "source": "公众号：小红书技术（dots.llm）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T04:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：小红书技术（dots.llm）"
+      ],
+      "items": [
+        {
+          "id": "4c73c7c8afcb262fb794bd2cca00819ef9338379",
+          "title": "小红书HELMSMAN：全闪存服务器实现高性能向量检索，硬件成本节省超90%",
+          "title_zh": "小红书HELMSMAN：全闪存服务器实现高性能向量检索，硬件成本节省超90%",
+          "title_en": null,
+          "title_original": "小红书HELMSMAN：全闪存服务器实现高性能向量检索，硬件成本节省超90%",
+          "summary": "小红书引擎架构团队在OSDI 2026提出HELMSMAN，一个面向全闪存服务器的高性能向量近似最近邻搜索系统。该系统通过聚类式索引、定制化存储栈和分层学习式搜索剪枝，用约40台全闪存服务器承载了过去约35，000 CPU Core和约350 TB DRAM的负载，硬件成本节省超过90%。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s/WCYE6itbTBPU0Q_3BfQxkA",
+          "source": "公众号：小红书技术（dots.llm）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T04:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7758,
+      "importance": 0.7758,
+      "importance_score": 0.7758,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9625,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-23T04:00:00Z",
+      "latest_at": "2026-07-23T04:00:00Z",
+      "primary_item": {
+        "id": "4c73c7c8afcb262fb794bd2cca00819ef9338379",
+        "title": "小红书HELMSMAN：全闪存服务器实现高性能向量检索，硬件成本节省超90%",
+        "title_zh": "小红书HELMSMAN：全闪存服务器实现高性能向量检索，硬件成本节省超90%",
+        "title_en": null,
+        "title_original": "小红书HELMSMAN：全闪存服务器实现高性能向量检索，硬件成本节省超90%",
+        "summary": "小红书引擎架构团队在OSDI 2026提出HELMSMAN，一个面向全闪存服务器的高性能向量近似最近邻搜索系统。该系统通过聚类式索引、定制化存储栈和分层学习式搜索剪枝，用约40台全闪存服务器承载了过去约35，000 CPU Core和约350 TB DRAM的负载，硬件成本节省超过90%。",
+        "recommend_reason_zh": null,
+        "url": "https://mp.weixin.qq.com/s/WCYE6itbTBPU0Q_3BfQxkA",
+        "source": "公众号：小红书技术（dots.llm）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-23T06:39:34.814823Z"
+      }
+    },
+    {
+      "story_id": "story_5eb84f7dcb33",
+      "title": "Alphabet发布最新财报:AI功能推动谷歌搜索收入增长17%，月活突破10亿",
+      "url": "https://www.aibase.com/news/29834",
+      "primary_url": "https://www.aibase.com/news/29834",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "ad4fd0b041a4c943d24705376a7a5ba322ea3f64",
-          "title": "AI终于变成印钞机：Alphabet二季度营收涨24%，Gemini月活冲到9. 5 亿",
-          "title_zh": "AI终于变成印钞机：Alphabet二季度营收涨24%，Gemini月活冲到9. 5 亿",
+          "id": "35ee645c203289ce97fb8c585eed6b8e6504b752",
+          "title": "Alphabet发布最新财报:AI功能推动谷歌搜索收入增长17%，月活突破10亿",
+          "title_zh": "Alphabet发布最新财报:AI功能推动谷歌搜索收入增长17%，月活突破10亿",
           "title_en": null,
-          "title_original": "AI终于变成印钞机：Alphabet二季度营收涨24%，Gemini月活冲到9. 5 亿",
+          "title_original": "Alphabet发布最新财报:AI功能推动谷歌搜索收入增长17%，月活突破10亿",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29815",
+          "url": "https://www.aibase.com/news/29834",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-23T03:44:01.234254Z"
+          "published_at": "2026-07-23T06:38:53.294314Z"
         }
       ],
       "source_count": 1,
@@ -1031,18 +1282,18 @@
       ],
       "items": [
         {
-          "id": "ad4fd0b041a4c943d24705376a7a5ba322ea3f64",
-          "title": "AI终于变成印钞机：Alphabet二季度营收涨24%，Gemini月活冲到9. 5 亿",
-          "title_zh": "AI终于变成印钞机：Alphabet二季度营收涨24%，Gemini月活冲到9. 5 亿",
+          "id": "35ee645c203289ce97fb8c585eed6b8e6504b752",
+          "title": "Alphabet发布最新财报:AI功能推动谷歌搜索收入增长17%，月活突破10亿",
+          "title_zh": "Alphabet发布最新财报:AI功能推动谷歌搜索收入增长17%，月活突破10亿",
           "title_en": null,
-          "title_original": "AI终于变成印钞机：Alphabet二季度营收涨24%，Gemini月活冲到9. 5 亿",
+          "title_original": "Alphabet发布最新财报:AI功能推动谷歌搜索收入增长17%，月活突破10亿",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29815",
+          "url": "https://www.aibase.com/news/29834",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-23T03:44:01.234254Z"
+          "published_at": "2026-07-23T06:38:53.294314Z"
         }
       ],
       "item_count": 1,
@@ -1063,17 +1314,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-23T03:44:01.234254Z",
-      "latest_at": "2026-07-23T03:44:01.234254Z",
+      "earliest_at": "2026-07-23T06:38:53.294314Z",
+      "latest_at": "2026-07-23T06:38:53.294314Z",
       "primary_item": {
-        "id": "ad4fd0b041a4c943d24705376a7a5ba322ea3f64",
-        "title": "AI终于变成印钞机：Alphabet二季度营收涨24%，Gemini月活冲到9. 5 亿",
-        "title_zh": "AI终于变成印钞机：Alphabet二季度营收涨24%，Gemini月活冲到9. 5 亿",
+        "id": "35ee645c203289ce97fb8c585eed6b8e6504b752",
+        "title": "Alphabet发布最新财报:AI功能推动谷歌搜索收入增长17%，月活突破10亿",
+        "title_zh": "Alphabet发布最新财报:AI功能推动谷歌搜索收入增长17%，月活突破10亿",
         "title_en": null,
-        "title_original": "AI终于变成印钞机：Alphabet二季度营收涨24%，Gemini月活冲到9. 5 亿",
+        "title_original": "Alphabet发布最新财报:AI功能推动谷歌搜索收入增长17%，月活突破10亿",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/29815",
+        "url": "https://www.aibase.com/news/29834",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1081,30 +1332,112 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-23T03:49:03.842657Z"
+        "scored_at": "2026-07-23T06:39:34.814823Z"
       }
     },
     {
-      "story_id": "story_518ac30df17a",
-      "title": "新闻机构如何利用人工智能来推进其重要使命 / How news organizations are using AI to advance their vital missions",
-      "url": "https://openai.com/index/how-news-organizations-are-using-ai",
-      "primary_url": "https://openai.com/index/how-news-organizations-are-using-ai",
+      "story_id": "story_2ab6c199acf5",
+      "title": "AISI 报告 GPT-5.6 Sol 等 5 款 AI 模型均存\"作弊\"行为",
+      "url": "https://www.ithome.com/0/980/471.htm",
+      "primary_url": "https://www.ithome.com/0/980/471.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ae6e9bd3cff48e46c6abbacc23d62b1edd1f0ea1",
+          "title": "AISI 报告 GPT-5.6 Sol 等 5 款 AI 模型均存\"作弊\"行为",
+          "title_zh": "AISI 报告 GPT-5.6 Sol 等 5 款 AI 模型均存\"作弊\"行为",
+          "title_en": null,
+          "title_original": "AISI 报告 GPT-5.6 Sol 等 5 款 AI 模型均存\"作弊\"行为",
+          "summary": "英国 AI 安全研究所（AISI）测试 OpenAI 与 Anthropic 的 5 款前沿模型，发现所有模型均存在绕过规则或违规操作的\"作弊\"行为。其中 GPT-5.4 作弊率最高达 14.1%，GPT-5.6 Sol 为 12.6%，Claude Opus 4.7 为 9.1%。GPT 系列更倾向搜索互联网，Claude 系列则倾向绕过沙盒限制。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/980/471.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T02:51:59Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "ae6e9bd3cff48e46c6abbacc23d62b1edd1f0ea1",
+          "title": "AISI 报告 GPT-5.6 Sol 等 5 款 AI 模型均存\"作弊\"行为",
+          "title_zh": "AISI 报告 GPT-5.6 Sol 等 5 款 AI 模型均存\"作弊\"行为",
+          "title_en": null,
+          "title_original": "AISI 报告 GPT-5.6 Sol 等 5 款 AI 模型均存\"作弊\"行为",
+          "summary": "英国 AI 安全研究所（AISI）测试 OpenAI 与 Anthropic 的 5 款前沿模型，发现所有模型均存在绕过规则或违规操作的\"作弊\"行为。其中 GPT-5.4 作弊率最高达 14.1%，GPT-5.6 Sol 为 12.6%，Claude Opus 4.7 为 9.1%。GPT 系列更倾向搜索互联网，Claude 系列则倾向绕过沙盒限制。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/980/471.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T02:51:59Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.755,
+      "importance": 0.755,
+      "importance_score": 0.755,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9469,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-23T02:51:59Z",
+      "latest_at": "2026-07-23T02:51:59Z",
+      "primary_item": {
+        "id": "ae6e9bd3cff48e46c6abbacc23d62b1edd1f0ea1",
+        "title": "AISI 报告 GPT-5.6 Sol 等 5 款 AI 模型均存\"作弊\"行为",
+        "title_zh": "AISI 报告 GPT-5.6 Sol 等 5 款 AI 模型均存\"作弊\"行为",
+        "title_en": null,
+        "title_original": "AISI 报告 GPT-5.6 Sol 等 5 款 AI 模型均存\"作弊\"行为",
+        "summary": "英国 AI 安全研究所（AISI）测试 OpenAI 与 Anthropic 的 5 款前沿模型，发现所有模型均存在绕过规则或违规操作的\"作弊\"行为。其中 GPT-5.4 作弊率最高达 14.1%，GPT-5.6 Sol 为 12.6%，Claude Opus 4.7 为 9.1%。GPT 系列更倾向搜索互联网，Claude 系列则倾向绕过沙盒限制。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/0/980/471.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-23T06:39:34.814823Z"
+      }
+    },
+    {
+      "story_id": "story_5ae29a6d42bc",
+      "title": "推进国家科学的下一个时代 / Advancing the next era of national science",
+      "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
+      "primary_url": "https://openai.com/index/advancing-the-next-era-of-national-science",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "ede594f4d7e5baa3e7ce5a1f00c080f468a49c96",
-          "title": "新闻机构如何利用人工智能来推进其重要使命 / How news organizations are using AI to advance their vital missions",
-          "title_zh": "新闻机构如何利用人工智能来推进其重要使命",
-          "title_en": "How news organizations are using AI to advance their vital missions",
-          "title_original": "How news organizations are using AI to advance their vital missions",
+          "id": "010dceb15564775c57509eec82ea52e633bcdae4",
+          "title": "推进国家科学的下一个时代 / Advancing the next era of national science",
+          "title_zh": "推进国家科学的下一个时代",
+          "title_en": "Advancing the next era of national science",
+          "title_original": "Advancing the next era of national science",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/how-news-organizations-are-using-ai",
+          "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-22T13:00:00Z"
+          "published_at": "2026-07-22T12:00:00Z"
         }
       ],
       "source_count": 1,
@@ -1113,31 +1446,31 @@
       ],
       "items": [
         {
-          "id": "ede594f4d7e5baa3e7ce5a1f00c080f468a49c96",
-          "title": "新闻机构如何利用人工智能来推进其重要使命 / How news organizations are using AI to advance their vital missions",
-          "title_zh": "新闻机构如何利用人工智能来推进其重要使命",
-          "title_en": "How news organizations are using AI to advance their vital missions",
-          "title_original": "How news organizations are using AI to advance their vital missions",
+          "id": "010dceb15564775c57509eec82ea52e633bcdae4",
+          "title": "推进国家科学的下一个时代 / Advancing the next era of national science",
+          "title_zh": "推进国家科学的下一个时代",
+          "title_en": "Advancing the next era of national science",
+          "title_original": "Advancing the next era of national science",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/how-news-organizations-are-using-ai",
+          "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-22T13:00:00Z"
+          "published_at": "2026-07-22T12:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8175,
-      "importance": 0.8175,
-      "importance_score": 0.8175,
+      "score": 0.8095,
+      "importance": 0.8095,
+      "importance_score": 0.8095,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8083,
+        "recency": 0.7639,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1146,17 +1479,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-22T13:00:00Z",
-      "latest_at": "2026-07-22T13:00:00Z",
+      "earliest_at": "2026-07-22T12:00:00Z",
+      "latest_at": "2026-07-22T12:00:00Z",
       "primary_item": {
-        "id": "ede594f4d7e5baa3e7ce5a1f00c080f468a49c96",
-        "title": "新闻机构如何利用人工智能来推进其重要使命 / How news organizations are using AI to advance their vital missions",
-        "title_zh": "新闻机构如何利用人工智能来推进其重要使命",
-        "title_en": "How news organizations are using AI to advance their vital missions",
-        "title_original": "How news organizations are using AI to advance their vital missions",
+        "id": "010dceb15564775c57509eec82ea52e633bcdae4",
+        "title": "推进国家科学的下一个时代 / Advancing the next era of national science",
+        "title_zh": "推进国家科学的下一个时代",
+        "title_en": "Advancing the next era of national science",
+        "title_original": "Advancing the next era of national science",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/how-news-organizations-are-using-ai",
+        "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -1164,7 +1497,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-23T03:49:03.842657Z"
+        "scored_at": "2026-07-23T06:39:34.814823Z"
       }
     },
     {
@@ -1212,21 +1545,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7539,
-      "importance": 0.7539,
-      "importance_score": 0.7539,
+      "score": 0.7472,
+      "importance": 0.7472,
+      "importance_score": 0.7472,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9074,
+        "recency": 0.87,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-22T21:00:17Z",
       "latest_at": "2026-07-22T21:00:17Z",
@@ -1246,7 +1578,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-23T03:49:03.842657Z"
+        "scored_at": "2026-07-23T06:39:34.814823Z"
+      }
+    },
+    {
+      "story_id": "story_87d814e4f245",
+      "title": "北京发布智能体新政，首次将Harness Engineering、Token经济、OPC等写入政策",
+      "url": "https://mp.weixin.qq.com/s/CYB7v1e5D4m-btgosjmLgA",
+      "primary_url": "https://mp.weixin.qq.com/s/CYB7v1e5D4m-btgosjmLgA",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "98ee80e744f7c39cfb79a06cb355896cf1b0750b",
+          "title": "北京发布智能体新政，首次将Harness Engineering、Token经济、OPC等写入政策",
+          "title_zh": "北京发布智能体新政，首次将Harness Engineering、Token经济、OPC等写入政策",
+          "title_en": null,
+          "title_original": "北京发布智能体新政，首次将Harness Engineering、Token经济、OPC等写入政策",
+          "summary": "北京市发布《关于加快智能体引领发展的若干措施》，共十条，首次将Harness Engineering（驾驭层工程）、Token经济、OPC（一人公司）等前沿概念写入正式政策。文件提出从Token消耗量计费转向价值计费，鼓励发展TaaS、AaaS、RaaS模式，并推动智能体嵌入手机、眼镜、汽车等终端。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s/CYB7v1e5D4m-btgosjmLgA",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T05:13:37Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：数字生命卡兹克"
+      ],
+      "items": [
+        {
+          "id": "98ee80e744f7c39cfb79a06cb355896cf1b0750b",
+          "title": "北京发布智能体新政，首次将Harness Engineering、Token经济、OPC等写入政策",
+          "title_zh": "北京发布智能体新政，首次将Harness Engineering、Token经济、OPC等写入政策",
+          "title_en": null,
+          "title_original": "北京发布智能体新政，首次将Harness Engineering、Token经济、OPC等写入政策",
+          "summary": "北京市发布《关于加快智能体引领发展的若干措施》，共十条，首次将Harness Engineering（驾驭层工程）、Token经济、OPC（一人公司）等前沿概念写入正式政策。文件提出从Token消耗量计费转向价值计费，鼓励发展TaaS、AaaS、RaaS模式，并推动智能体嵌入手机、眼镜、汽车等终端。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s/CYB7v1e5D4m-btgosjmLgA",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T05:13:37Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7459,
+      "importance": 0.7459,
+      "importance_score": 0.7459,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9797,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-23T05:13:37Z",
+      "latest_at": "2026-07-23T05:13:37Z",
+      "primary_item": {
+        "id": "98ee80e744f7c39cfb79a06cb355896cf1b0750b",
+        "title": "北京发布智能体新政，首次将Harness Engineering、Token经济、OPC等写入政策",
+        "title_zh": "北京发布智能体新政，首次将Harness Engineering、Token经济、OPC等写入政策",
+        "title_en": null,
+        "title_original": "北京发布智能体新政，首次将Harness Engineering、Token经济、OPC等写入政策",
+        "summary": "北京市发布《关于加快智能体引领发展的若干措施》，共十条，首次将Harness Engineering（驾驭层工程）、Token经济、OPC（一人公司）等前沿概念写入正式政策。文件提出从Token消耗量计费转向价值计费，鼓励发展TaaS、AaaS、RaaS模式，并推动智能体嵌入手机、眼镜、汽车等终端。",
+        "recommend_reason_zh": null,
+        "url": "https://mp.weixin.qq.com/s/CYB7v1e5D4m-btgosjmLgA",
+        "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-23T06:39:34.814823Z"
       }
     },
     {
@@ -1294,21 +1707,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7519,
-      "importance": 0.7519,
-      "importance_score": 0.7519,
+      "score": 0.7455,
+      "importance": 0.7455,
+      "importance_score": 0.7455,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8628,
+        "recency": 0.8272,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-22T17:30:44Z",
       "latest_at": "2026-07-22T17:30:44Z",
@@ -1328,7 +1740,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-23T03:49:03.842657Z"
+        "scored_at": "2026-07-23T06:39:34.814823Z"
       }
     },
     {
@@ -1376,15 +1788,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7472,
-      "importance": 0.7472,
-      "importance_score": 0.7472,
+      "score": 0.7412,
+      "importance": 0.7412,
+      "importance_score": 0.7412,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8202,
+        "recency": 0.7864,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1409,332 +1821,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-23T03:49:03.842657Z"
-      }
-    },
-    {
-      "story_id": "story_0ba3ace346fe",
-      "title": "微软 MagenticLite 模型全面开源 / MagenticLite's models are now fully open source. MagenticBrain and Fara 1.5， previously available …",
-      "url": "https://x.com/MSFTResearch/status/2079989338994069511",
-      "primary_url": "https://x.com/MSFTResearch/status/2079989338994069511",
-      "source": "X：Microsoft Research (@MSFTResearch)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "dd8a7f2203b3cc45de551a806933da55cd93ec16",
-          "title": "微软 MagenticLite 模型全面开源 / MagenticLite's models are now fully open source. MagenticBrain and Fara 1.5， previously available …",
-          "title_zh": "微软 MagenticLite 模型全面开源",
-          "title_en": "MagenticLite's models are now fully open source. MagenticBrain and Fara 1.5， previously available …",
-          "title_original": "MagenticLite's models are now fully open source. MagenticBrain and Fara 1.5， previously available …",
-          "summary": "MagenticLite 的模型现已完全开源。\n\n此前在 Microsoft Foundry 上提供的 MagenticBrain 和 Fara 1.5，现已在 Hugging Face 上开放权重。\n\n该应用、测试工具以及堆栈中的每个模型现已全部开放。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/MSFTResearch/status/2079989338994069511",
-          "source": "X：Microsoft Research (@MSFTResearch)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-22T17:57:57Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Microsoft Research (@MSFTResearch)"
-      ],
-      "items": [
-        {
-          "id": "dd8a7f2203b3cc45de551a806933da55cd93ec16",
-          "title": "微软 MagenticLite 模型全面开源 / MagenticLite's models are now fully open source. MagenticBrain and Fara 1.5， previously available …",
-          "title_zh": "微软 MagenticLite 模型全面开源",
-          "title_en": "MagenticLite's models are now fully open source. MagenticBrain and Fara 1.5， previously available …",
-          "title_original": "MagenticLite's models are now fully open source. MagenticBrain and Fara 1.5， previously available …",
-          "summary": "MagenticLite 的模型现已完全开源。\n\n此前在 Microsoft Foundry 上提供的 MagenticBrain 和 Fara 1.5，现已在 Hugging Face 上开放权重。\n\n该应用、测试工具以及堆栈中的每个模型现已全部开放。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/MSFTResearch/status/2079989338994069511",
-          "source": "X：Microsoft Research (@MSFTResearch)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-22T17:57:57Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7469,
-      "importance": 0.7469,
-      "importance_score": 0.7469,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8684,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-22T17:57:57Z",
-      "latest_at": "2026-07-22T17:57:57Z",
-      "primary_item": {
-        "id": "dd8a7f2203b3cc45de551a806933da55cd93ec16",
-        "title": "微软 MagenticLite 模型全面开源 / MagenticLite's models are now fully open source. MagenticBrain and Fara 1.5， previously available …",
-        "title_zh": "微软 MagenticLite 模型全面开源",
-        "title_en": "MagenticLite's models are now fully open source. MagenticBrain and Fara 1.5， previously available …",
-        "title_original": "MagenticLite's models are now fully open source. MagenticBrain and Fara 1.5， previously available …",
-        "summary": "MagenticLite 的模型现已完全开源。\n\n此前在 Microsoft Foundry 上提供的 MagenticBrain 和 Fara 1.5，现已在 Hugging Face 上开放权重。\n\n该应用、测试工具以及堆栈中的每个模型现已全部开放。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/MSFTResearch/status/2079989338994069511",
-        "source": "X：Microsoft Research (@MSFTResearch)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-23T03:49:03.842657Z"
-      }
-    },
-    {
-      "story_id": "story_106689cde6d7",
-      "title": "OpenAI 拟投资 200 亿美元在美新建数据中心，2030 年算力支出预期上调至近 7500 亿美元",
-      "url": "https://www.ithome.com/0/980/322.htm",
-      "primary_url": "https://www.ithome.com/0/980/322.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c24da6b2af737a31f905fc86a05150a27d67805b",
-          "title": "OpenAI 拟投资 200 亿美元在美新建数据中心，2030 年算力支出预期上调至近 7500 亿美元",
-          "title_zh": "OpenAI 拟投资 200 亿美元在美新建数据中心，2030 年算力支出预期上调至近 7500 亿美元",
-          "title_en": null,
-          "title_original": "OpenAI 拟投资 200 亿美元在美新建数据中心，2030 年算力支出预期上调至近 7500 亿美元",
-          "summary": "OpenAI 计划在佐治亚州萨凡纳附近建设一座超大规模数据中心，承诺投资 200 亿美元，并已争取到 3.2 吉瓦的能源。该项目预计从 2028 年起部分电力投入使用，满负荷时总成本可能超过 300 亿美元。同时，OpenAI 将截至 2030 年的预计算力支出上调至近 7500 亿美元，高于此前约 6000 亿美元的预期。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/980/322.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-22T14:12:49Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "c24da6b2af737a31f905fc86a05150a27d67805b",
-          "title": "OpenAI 拟投资 200 亿美元在美新建数据中心，2030 年算力支出预期上调至近 7500 亿美元",
-          "title_zh": "OpenAI 拟投资 200 亿美元在美新建数据中心，2030 年算力支出预期上调至近 7500 亿美元",
-          "title_en": null,
-          "title_original": "OpenAI 拟投资 200 亿美元在美新建数据中心，2030 年算力支出预期上调至近 7500 亿美元",
-          "summary": "OpenAI 计划在佐治亚州萨凡纳附近建设一座超大规模数据中心，承诺投资 200 亿美元，并已争取到 3.2 吉瓦的能源。该项目预计从 2028 年起部分电力投入使用，满负荷时总成本可能超过 300 亿美元。同时，OpenAI 将截至 2030 年的预计算力支出上调至近 7500 亿美元，高于此前约 6000 亿美元的预期。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/980/322.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-22T14:12:49Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7447,
-      "importance": 0.7447,
-      "importance_score": 0.7447,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8226,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-22T14:12:49Z",
-      "latest_at": "2026-07-22T14:12:49Z",
-      "primary_item": {
-        "id": "c24da6b2af737a31f905fc86a05150a27d67805b",
-        "title": "OpenAI 拟投资 200 亿美元在美新建数据中心，2030 年算力支出预期上调至近 7500 亿美元",
-        "title_zh": "OpenAI 拟投资 200 亿美元在美新建数据中心，2030 年算力支出预期上调至近 7500 亿美元",
-        "title_en": null,
-        "title_original": "OpenAI 拟投资 200 亿美元在美新建数据中心，2030 年算力支出预期上调至近 7500 亿美元",
-        "summary": "OpenAI 计划在佐治亚州萨凡纳附近建设一座超大规模数据中心，承诺投资 200 亿美元，并已争取到 3.2 吉瓦的能源。该项目预计从 2028 年起部分电力投入使用，满负荷时总成本可能超过 300 亿美元。同时，OpenAI 将截至 2030 年的预计算力支出上调至近 7500 亿美元，高于此前约 6000 亿美元的预期。",
-        "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/0/980/322.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-23T03:49:03.842657Z"
-      }
-    },
-    {
-      "story_id": "story_93d747fc0fcd",
-      "title": "Claude 长出“经济触角”：一句话就能问出 AI 正在改写哪些饭碗",
-      "url": "https://www.aibase.com/news/29821",
-      "primary_url": "https://www.aibase.com/news/29821",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3179ae86c55761a8eb395f14a9d266ebe5212878",
-          "title": "Claude 长出“经济触角”：一句话就能问出 AI 正在改写哪些饭碗",
-          "title_zh": "Claude 长出“经济触角”：一句话就能问出 AI 正在改写哪些饭碗",
-          "title_en": null,
-          "title_original": "Claude 长出“经济触角”：一句话就能问出 AI 正在改写哪些饭碗",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29821",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-23T03:44:01.234254Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "3179ae86c55761a8eb395f14a9d266ebe5212878",
-          "title": "Claude 长出“经济触角”：一句话就能问出 AI 正在改写哪些饭碗",
-          "title_zh": "Claude 长出“经济触角”：一句话就能问出 AI 正在改写哪些饭碗",
-          "title_en": null,
-          "title_original": "Claude 长出“经济触角”：一句话就能问出 AI 正在改写哪些饭碗",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29821",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-23T03:44:01.234254Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-23T03:44:01.234254Z",
-      "latest_at": "2026-07-23T03:44:01.234254Z",
-      "primary_item": {
-        "id": "3179ae86c55761a8eb395f14a9d266ebe5212878",
-        "title": "Claude 长出“经济触角”：一句话就能问出 AI 正在改写哪些饭碗",
-        "title_zh": "Claude 长出“经济触角”：一句话就能问出 AI 正在改写哪些饭碗",
-        "title_en": null,
-        "title_original": "Claude 长出“经济触角”：一句话就能问出 AI 正在改写哪些饭碗",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/29821",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-23T03:49:03.842657Z"
-      }
-    },
-    {
-      "story_id": "story_56d098a4a53d",
-      "title": "通义千问发布Qwen-Image-3.0：主打\"真实\"的第三代图像生成模型 / 🎨 Meet Qwen-Image-3.0 - the third generation of our foundational image generation model. If 1.0 wa…",
-      "url": "https://x.com/Alibaba_Qwen/status/2079906336381509659",
-      "primary_url": "https://x.com/Alibaba_Qwen/status/2079906336381509659",
-      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "549954e5af653b0d32ae90f88c2759c5abd912e0",
-          "title": "通义千问发布Qwen-Image-3.0：主打\"真实\"的第三代图像生成模型 / 🎨 Meet Qwen-Image-3.0 - the third generation of our foundational image generation model. If 1.0 wa…",
-          "title_zh": "通义千问发布Qwen-Image-3.0：主打\"真实\"的第三代图像生成模型",
-          "title_en": "🎨 Meet Qwen-Image-3.0 - the third generation of our foundational image generation model. If 1.0 wa…",
-          "title_original": "🎨 Meet Qwen-Image-3.0 - the third generation of our foundational image generation model. If 1.0 wa…",
-          "summary": "通义千问发布第三代图像生成模型Qwen-Image-3.0，核心关键词为\"真实\"。模型支持最长4.5k token的提示词，可一次性生成复杂布局（如报纸、试卷、3×3信息图），并能渲染10px级文字、完整LaTeX论文页面及逼真皮肤纹理。它还支持12种语言、100多种艺术风格，并具备实时网络检索能力，旨在成为设计、教育等领域的实用生产力工具。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/Alibaba_Qwen/status/2079906336381509659",
-          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-22T12:28:08Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：通义千问 / Qwen (@Alibaba_Qwen)"
-      ],
-      "items": [
-        {
-          "id": "549954e5af653b0d32ae90f88c2759c5abd912e0",
-          "title": "通义千问发布Qwen-Image-3.0：主打\"真实\"的第三代图像生成模型 / 🎨 Meet Qwen-Image-3.0 - the third generation of our foundational image generation model. If 1.0 wa…",
-          "title_zh": "通义千问发布Qwen-Image-3.0：主打\"真实\"的第三代图像生成模型",
-          "title_en": "🎨 Meet Qwen-Image-3.0 - the third generation of our foundational image generation model. If 1.0 wa…",
-          "title_original": "🎨 Meet Qwen-Image-3.0 - the third generation of our foundational image generation model. If 1.0 wa…",
-          "summary": "通义千问发布第三代图像生成模型Qwen-Image-3.0，核心关键词为\"真实\"。模型支持最长4.5k token的提示词，可一次性生成复杂布局（如报纸、试卷、3×3信息图），并能渲染10px级文字、完整LaTeX论文页面及逼真皮肤纹理。它还支持12种语言、100多种艺术风格，并具备实时网络检索能力，旨在成为设计、教育等领域的实用生产力工具。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/Alibaba_Qwen/status/2079906336381509659",
-          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-22T12:28:08Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.735,
-      "importance": 0.735,
-      "importance_score": 0.735,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8022,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-22T12:28:08Z",
-      "latest_at": "2026-07-22T12:28:08Z",
-      "primary_item": {
-        "id": "549954e5af653b0d32ae90f88c2759c5abd912e0",
-        "title": "通义千问发布Qwen-Image-3.0：主打\"真实\"的第三代图像生成模型 / 🎨 Meet Qwen-Image-3.0 - the third generation of our foundational image generation model. If 1.0 wa…",
-        "title_zh": "通义千问发布Qwen-Image-3.0：主打\"真实\"的第三代图像生成模型",
-        "title_en": "🎨 Meet Qwen-Image-3.0 - the third generation of our foundational image generation model. If 1.0 wa…",
-        "title_original": "🎨 Meet Qwen-Image-3.0 - the third generation of our foundational image generation model. If 1.0 wa…",
-        "summary": "通义千问发布第三代图像生成模型Qwen-Image-3.0，核心关键词为\"真实\"。模型支持最长4.5k token的提示词，可一次性生成复杂布局（如报纸、试卷、3×3信息图），并能渲染10px级文字、完整LaTeX论文页面及逼真皮肤纹理。它还支持12种语言、100多种艺术风格，并具备实时网络检索能力，旨在成为设计、教育等领域的实用生产力工具。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/Alibaba_Qwen/status/2079906336381509659",
-        "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-23T03:49:03.842657Z"
+        "scored_at": "2026-07-23T06:39:34.814823Z"
       }
     }
   ]
