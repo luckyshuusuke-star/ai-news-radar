@@ -1967,7 +1967,7 @@ summary:focus-visible {
   overflow-wrap: anywhere;
 }
 
-.story-title-en {
+.story-title-original {
   color: var(--muted);
   font-size: 12px;
   font-weight: 560;
@@ -2323,6 +2323,19 @@ summary:focus-visible {
   min-width: 0;
   font-size: 13px;
   line-height: 1.35;
+  overflow-wrap: anywhere;
+}
+
+.waytoagi-item .content {
+  min-width: 0;
+  display: grid;
+  gap: 3px;
+}
+
+.waytoagi-item .s {
+  color: var(--muted);
+  font-size: 12px;
+  line-height: 1.4;
   overflow-wrap: anywhere;
 }
 

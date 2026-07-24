@@ -106,48 +106,48 @@ const waytoagi7dBtnEl = document.getElementById("waytoagi7dBtn");
 const sectionTabsEl = document.getElementById("sectionTabs");
 
 const SOURCE_KINDS = {
-  official_ai: { label: "官方", tone: "official" },
-  curated_media: { label: "精选媒体", tone: "aihub" },
+  official_ai: { label: "公式", tone: "official" },
+  curated_media: { label: "厳選メディア", tone: "aihub" },
   aihot: { label: "AI HOT", tone: "hot" },
-  aibreakfast: { label: "日报", tone: "newsletter" },
+  aibreakfast: { label: "ニュースレター", tone: "newsletter" },
   followbuilders: { label: "Builders/X", tone: "builders" },
   xapi: { label: "X API", tone: "builders" },
-  socialdata_x: { label: "X 搜索", tone: "builders" },
-  tikhub_douyin: { label: "抖音", tone: "creator" },
-  tikhub_xiaohongshu: { label: "小红书", tone: "creator" },
-  techurls: { label: "聚合", tone: "aggregate" },
-  buzzing: { label: "聚合", tone: "aggregate" },
-  iris: { label: "聚合", tone: "aggregate" },
-  bestblogs: { label: "博客", tone: "blogs" },
-  zeli: { label: "聚合", tone: "aggregate" },
+  socialdata_x: { label: "X検索", tone: "builders" },
+  tikhub_douyin: { label: "Douyin", tone: "creator" },
+  tikhub_xiaohongshu: { label: "Xiaohongshu", tone: "creator" },
+  techurls: { label: "アグリゲーター", tone: "aggregate" },
+  buzzing: { label: "アグリゲーター", tone: "aggregate" },
+  iris: { label: "アグリゲーター", tone: "aggregate" },
+  bestblogs: { label: "ブログ", tone: "blogs" },
+  zeli: { label: "アグリゲーター", tone: "aggregate" },
   hackernews: { label: "HN", tone: "aggregate" },
-  aihubtoday: { label: "AI站点", tone: "aihub" },
-  aibase: { label: "AI站点", tone: "aihub" },
-  waytoagi: { label: "社区", tone: "builders" },
-  newsnow: { label: "聚合", tone: "aggregate" },
+  aihubtoday: { label: "AIサイト", tone: "aihub" },
+  aibase: { label: "AIサイト", tone: "aihub" },
+  waytoagi: { label: "コミュニティ", tone: "builders" },
+  newsnow: { label: "アグリゲーター", tone: "aggregate" },
   opmlrss: { label: "OPML", tone: "newsletter" },
 };
 
 // aihotSubSource() 结果 → 卡片小标签文案/色调，色调复用既有 .category.kind-* 规则，不新增样式
-const AIHOT_SUB_LABELS = { x: "X", wechat: "公众号", hn: "HN", rss: "RSS" };
+const AIHOT_SUB_LABELS = { x: "X", wechat: "WeChat", hn: "HN", rss: "RSS" };
 const AIHOT_SUB_TONES = { x: "builders", wechat: "creator", hn: "aggregate", rss: "newsletter" };
 
 // 单层内容 tab：全部（默认，无过滤）+ 5 个主题栏目 + 社区 + 自媒体，互斥单值。
 const SECTION_DEFS = [
-  { id: "all", label: "全部", short: "全部", description: "不筛选内容栏目，查看全部信号" },
-  { id: "models", label: "模型", short: "模型", description: "模型发布、能力升级、评测与开源权重" },
-  { id: "products", label: "产品", short: "产品", description: "AI 应用、Agent、生成工具和用户产品更新" },
-  { id: "devtools", label: "开发者", short: "开发者", description: "编程工具、API、开源项目、推理与工程实践" },
-  { id: "industry", label: "行业", short: "行业", description: "公司战略、融资收购、监管、芯片与产业变化" },
-  { id: "research", label: "论文", short: "论文", description: "论文、基准、方法、数据集与研究团队动态" },
-  { id: "community", label: "社区", short: "社区", description: "HN、中文技术社区与社群动态" },
-  { id: "creator", label: "自媒体", short: "自媒体", description: "抖音、小红书等自媒体创作者内容" },
+  { id: "all", label: "すべて", short: "すべて", description: "カテゴリーを限定せず、すべてのニュースを表示" },
+  { id: "models", label: "モデル", short: "モデル", description: "モデル公開、性能向上、評価、オープンウェイト" },
+  { id: "products", label: "プロダクト", short: "プロダクト", description: "AIアプリ、Agent、生成ツール、ユーザー向け製品の更新" },
+  { id: "devtools", label: "開発者", short: "開発者", description: "開発ツール、API、OSS、推論、エンジニアリング" },
+  { id: "industry", label: "業界", short: "業界", description: "企業戦略、資金調達、買収、規制、半導体、産業動向" },
+  { id: "research", label: "論文", short: "論文", description: "論文、ベンチマーク、手法、データセット、研究チーム" },
+  { id: "community", label: "コミュニティ", short: "コミュニティ", description: "HNや技術コミュニティの動向" },
+  { id: "creator", label: "クリエイター", short: "クリエイター", description: "動画・ソーシャル系クリエイターの投稿" },
 ];
 
 const SECTION_BY_ID = Object.fromEntries(SECTION_DEFS.map((section) => [section.id, section]));
 
 function fmtNumber(n) {
-  return new Intl.NumberFormat("zh-CN").format(n || 0);
+  return new Intl.NumberFormat("ja-JP").format(n || 0);
 }
 
 const UNSAFE_HARD_PATTERNS = [
@@ -168,6 +168,7 @@ const UNSAFE_PROMO_PATTERNS = [
 function contentSafetyText(record) {
   return [
     record?.title,
+    record?.title_ja,
     record?.title_zh,
     record?.title_en,
     record?.title_original,
@@ -198,10 +199,10 @@ function isUnsafeStory(story) {
 }
 
 function fmtTime(iso) {
-  if (!iso) return "时间未知";
+  if (!iso) return "時刻不明";
   const d = new Date(iso);
-  if (Number.isNaN(d.getTime())) return "时间未知";
-  return new Intl.DateTimeFormat("zh-CN", {
+  if (Number.isNaN(d.getTime())) return "時刻不明";
+  return new Intl.DateTimeFormat("ja-JP", {
     month: "2-digit",
     day: "2-digit",
     hour: "2-digit",
@@ -210,10 +211,10 @@ function fmtTime(iso) {
 }
 
 function fmtDate(iso) {
-  if (!iso) return "未知日期";
+  if (!iso) return "日付不明";
   const d = new Date(`${iso}T00:00:00`);
   if (Number.isNaN(d.getTime())) return iso;
-  return new Intl.DateTimeFormat("zh-CN", {
+  return new Intl.DateTimeFormat("ja-JP", {
     month: "2-digit",
     day: "2-digit",
   }).format(d);
@@ -223,18 +224,18 @@ function fmtHHMM(ms) {
   if (!ms) return "--:--";
   const d = new Date(ms);
   if (Number.isNaN(d.getTime())) return "--:--";
-  return new Intl.DateTimeFormat("zh-CN", { hour: "2-digit", minute: "2-digit", hour12: false }).format(d);
+  return new Intl.DateTimeFormat("ja-JP", { hour: "2-digit", minute: "2-digit", hour12: false }).format(d);
 }
 
 function fmtRelativeTime(ms) {
-  if (!ms) return "时间未知";
+  if (!ms) return "時刻不明";
   const diff = Date.now() - ms;
-  if (diff < 0) return "刚刚";
+  if (diff < 0) return "たった今";
   const minutes = Math.round(diff / 60000);
-  if (minutes < 60) return `${Math.max(1, minutes)} 分钟前`;
+  if (minutes < 60) return `${Math.max(1, minutes)}分前`;
   const hours = Math.round(minutes / 60);
-  if (hours < 48) return `${hours} 小时前`;
-  return `${Math.round(hours / 24)} 天前`;
+  if (hours < 48) return `${hours}時間前`;
+  return `${Math.round(hours / 24)}日前`;
 }
 
 function failedSourceCount(status = state.sourceStatus) {
@@ -249,7 +250,7 @@ function renderSourceStatusPill(errorMessage = "") {
   const status = state.sourceStatus;
   sourceStatusPillEl.className = "source-status-pill";
   if (!status) {
-    sourceStatusPillEl.textContent = errorMessage || "源状态加载中";
+    sourceStatusPillEl.textContent = errorMessage || "ソース状態を読み込み中";
     if (errorMessage) sourceStatusPillEl.classList.add("bad");
     return;
   }
@@ -257,29 +258,29 @@ function renderSourceStatusPill(errorMessage = "") {
   const okSites = Number(status.successful_sites || 0);
   const failed = failedSourceCount(status);
   sourceStatusPillEl.textContent = failed
-    ? `${fmtNumber(okSites)}/${fmtNumber(totalSites)} 源正常 · 失败 ${fmtNumber(failed)}`
-    : `${fmtNumber(okSites)}/${fmtNumber(totalSites)} 源正常`;
+    ? `${fmtNumber(okSites)}/${fmtNumber(totalSites)}ソース正常・失敗${fmtNumber(failed)}`
+    : `${fmtNumber(okSites)}/${fmtNumber(totalSites)}ソース正常`;
   if (failed) sourceStatusPillEl.classList.add("warn");
 }
 
 // 模式文案：精选（AI 相关合并事件池，纯时间序）/ 全量（原始条目池）
 function modeLabelText() {
-  return state.mode === "all" ? "全量" : "精选";
+  return state.mode === "all" ? "全件" : "厳選";
 }
 
 function sourceKind(siteId) {
-  return SOURCE_KINDS[siteId] || { label: "来源", tone: "default" };
+  return SOURCE_KINDS[siteId] || { label: "ソース", tone: "default" };
 }
 
 function sourceSignalTone(signal) {
   const text = String(signal || "").toLowerCase();
-  if (text.includes("官方") || text.includes("official")) return "official";
-  if (text.includes("ai hot") || text.includes("精选")) return "hot";
-  if (text.includes("自媒体") || text.includes("tikhub") || text.includes("douyin") || text.includes("xiaohongshu") || text.includes("抖音") || text.includes("小红书")) return "creator";
+  if (text.includes("公式") || text.includes("官方") || text.includes("official")) return "official";
+  if (text.includes("ai hot") || text.includes("厳選") || text.includes("精选")) return "hot";
+  if (text.includes("クリエイター") || text.includes("自媒体") || text.includes("tikhub") || text.includes("douyin") || text.includes("xiaohongshu") || text.includes("抖音") || text.includes("小红书")) return "creator";
   if (text.includes("builders") || text.includes("github") || text.includes("x")) return "builders";
-  if (text.includes("aihub") || text.includes("aibase") || text.includes("媒体")) return "aihub";
-  if (text.includes("hn") || text.includes("hacker") || text.includes("聚合")) return "aggregate";
-  if (text.includes("opml") || text.includes("日报")) return "newsletter";
+  if (text.includes("aihub") || text.includes("aibase") || text.includes("メディア") || text.includes("媒体")) return "aihub";
+  if (text.includes("hn") || text.includes("hacker") || text.includes("アグリゲーター") || text.includes("聚合")) return "aggregate";
+  if (text.includes("opml") || text.includes("ニュースレター") || text.includes("日报")) return "newsletter";
   return "default";
 }
 
@@ -291,7 +292,7 @@ function sourceChip(label, tone = "default", className = "source-chip") {
   dot.setAttribute("aria-hidden", "true");
   const text = document.createElement("span");
   text.className = "source-chip-label";
-  text.textContent = label || "来源";
+  text.textContent = label || "ソース";
   chip.append(dot, text);
   return chip;
 }
@@ -341,7 +342,7 @@ function renderClearFiltersButton() {
   if (!clearFiltersBtnEl) return;
   const count = activeAdjustmentCount();
   clearFiltersBtnEl.hidden = count === 0;
-  clearFiltersBtnEl.textContent = count ? `清除 ${fmtNumber(count)} 项调整` : "清除筛选";
+  clearFiltersBtnEl.textContent = count ? `${fmtNumber(count)}件の絞り込みを解除` : "絞り込みを解除";
 }
 
 // 数据同源指示：非空 dataBaseUrl 生效时提示当前数据源 + 提供一键恢复本地相对路径的入口。
@@ -350,7 +351,7 @@ function renderDataSourceIndicator() {
   const base = state.dataBaseUrl;
   dataSourceIndicatorEl.hidden = !base;
   if (base && dataSourceIndicatorTextEl) {
-    dataSourceIndicatorTextEl.textContent = `数据源:${base}`;
+    dataSourceIndicatorTextEl.textContent = `データソース：${base}`;
   }
 }
 
@@ -401,7 +402,7 @@ function isHighPriorityItem(item) {
   return highPriorityScore(item) >= 75 || itemPriorityScore(item) >= 82 || item.site_id === "official_ai" || item.site_id === "aihot";
 }
 
-// tab 计数跟随当前模式的可见集合（忽略当前已选栏目本身，展示"如果点这个 tab 会有多少条"）
+// tab 计数跟随当前模式的可见集合（忽略当前已选栏目本身，展示"このタブで表示される件数"）
 function sectionTabCount(sectionId) {
   if (state.mode === "all") {
     const pool = mainListRawItemsBase();
@@ -443,18 +444,18 @@ function siteRatioText(siteStats) {
   const raw = Number(siteStats.raw_count ?? siteStats.count ?? 0);
   if (!raw) {
     const scanned = Number(siteRow(siteStats.site_id)?.item_count || 0);
-    if (!count && scanned) return `24h 0 · 已扫 ${fmtNumber(scanned)}`;
-    if (!count) return "已扫 0";
-    return `${fmtNumber(count)} 条`;
+    if (!count && scanned) return `24h 0・確認済み${fmtNumber(scanned)}`;
+    if (!count) return "確認済み 0";
+    return `${fmtNumber(count)}件`;
   }
-  if (raw === count) return `${fmtNumber(count)} 条`;
+  if (raw === count) return `${fmtNumber(count)}件`;
   return `${fmtNumber(count)}/${fmtNumber(raw)} · ${Math.round((count / raw) * 100)}%AI`;
 }
 
 function renderSiteFilters() {
   const stats = currentSiteStats();
 
-  siteSelectEl.innerHTML = '<option value="">全部站点</option>';
+  siteSelectEl.innerHTML = '<option value="">すべてのサイト</option>';
   stats.forEach((s) => {
     const opt = document.createElement("option");
     opt.value = s.site_id;
@@ -477,11 +478,11 @@ function renderModeSwitch() {
   if (hotBoardWrapEl) hotBoardWrapEl.hidden = state.mode !== "selected";
   if (allDedupeWrapEl) allDedupeWrapEl.classList.toggle("show", state.mode === "all");
   if (allDedupeToggleEl) allDedupeToggleEl.checked = state.allDedup;
-  if (allDedupeLabelEl) allDedupeLabelEl.textContent = state.allDedup ? "去重开" : "去重关";
+  if (allDedupeLabelEl) allDedupeLabelEl.textContent = state.allDedup ? "重複を統合" : "重複を個別表示";
   const count = mainListEntries().length;
   if (modeHintEl) {
-    modeHintEl.textContent = `${modeLabelText()} ${fmtNumber(count)} 条`;
-    modeHintEl.setAttribute("aria-label", `当前${modeLabelText()}模式，${fmtNumber(count)} 条`);
+    modeHintEl.textContent = `${modeLabelText()} ${fmtNumber(count)}件`;
+    modeHintEl.setAttribute("aria-label", `現在は${modeLabelText()}・${fmtNumber(count)}件`);
   }
   if (listTitleEl) listTitleEl.textContent = listTitleText();
   renderClearFiltersButton();
@@ -498,49 +499,40 @@ function effectiveAllItems() {
   return safeItems(state.allDedup ? state.itemsAll : state.itemsAllRaw);
 }
 
-function repairDisplayedTitle(original, translated) {
-  let result = String(translated || "").trim();
-  const source = String(original || "");
-  if (/\bCodex\b/i.test(source)) result = result.replaceAll("法典", "Codex");
-  if (/\bBug Bounty\b/i.test(source)) result = result.replaceAll("错误赏金", "漏洞悬赏").replaceAll("Bug 赏金", "漏洞悬赏");
-  if (/\bBio Bug Bounty\b/i.test(source)) result = result.replaceAll("生物漏洞悬赏", "生物安全漏洞悬赏");
-  if (/\brepositor(?:y|ies)\b/i.test(source)) result = result.replaceAll("存储库", "代码仓库");
-  if (/\bdesktop app\b/i.test(source)) result = result.replaceAll("桌面应用程序", "桌面应用");
-  return result;
-}
-
-function isMostlyEnglishTitle(text) {
-  const value = String(text || "").trim();
-  const latin = (value.match(/[A-Za-z]/g) || []).length;
-  const cjk = (value.match(/[㐀-鿿]/g) || []).length;
-  return latin >= 4 && latin > cjk * 2;
+function originalTitleValue(value) {
+  const title = String(value || "").trim();
+  if (!title.includes(" / ")) return title;
+  const [, ...originalParts] = title.split(" / ");
+  return originalParts.join(" / ").trim() || title;
 }
 
 function itemTitleText(item) {
-  const zhTitle = item.title_enhanced_zh || item.title_zh || "";
-  const preferred = (zhTitle || item.title || item.title_en || "未命名更新").trim();
-  const titleParts = preferred.includes(" / ") ? preferred.split(" / ") : [];
-  const display = !zhTitle && titleParts.length ? titleParts[0].trim() : preferred;
-  const original = item.title_en || item.title_original || (titleParts.length > 1 ? titleParts.slice(1).join(" / ") : "");
-  return repairDisplayedTitle(original, display);
+  return String(
+    item?.title_ja
+    || item?.title_original
+    || item?.title_en
+    || originalTitleValue(item?.title)
+    || "無題のニュース"
+  ).trim();
 }
 
 function itemOriginalTitleText(item) {
-  const explicit = String(item?.title_en || "").trim();
-  if (isMostlyEnglishTitle(explicit) && explicit !== itemTitleText(item)) return explicit;
+  const display = itemTitleText(item);
+  const explicit = String(item?.title_original || "").trim();
+  if (explicit && explicit !== display) return explicit;
   const bilingual = String(item?.title || item?.title_bilingual || "").trim();
   if (bilingual.includes(" / ")) {
     const [, ...rest] = bilingual.split(" / ");
     const original = rest.join(" / ").trim();
-    if (isMostlyEnglishTitle(original) && original !== itemTitleText(item)) return original;
+    if (original && original !== display) return original;
   }
-  const original = String(item?.title_original || "").trim();
-  if (isMostlyEnglishTitle(original) && original !== itemTitleText(item)) return original;
+  const english = String(item?.title_en || "").trim();
+  if (english && english !== display) return english;
   return "";
 }
 
 function itemSummaryText(item, maxLength = 180) {
-  const text = String(item?.summary || "").replace(/\s+/g, " ").trim();
+  const text = String(item?.summary_ja || item?.summary || "").replace(/\s+/g, " ").trim();
   if (!text) return "";
   return text.length > maxLength ? `${text.slice(0, maxLength - 1).trim()}…` : text;
 }
@@ -578,17 +570,17 @@ function itemLabelTone(item) {
 
 function itemTagTone(label) {
   const text = String(label || "");
-  if (text.includes("多源")) return "strong";
-  if (text.includes("官方")) return "official";
-  if (text.includes("精选") || text.includes("热点")) return "hot";
+  if (text.includes("複数ソース")) return "strong";
+  if (text.includes("公式")) return "official";
+  if (text.includes("厳選") || text.includes("注目")) return "hot";
   if (text.includes("HN")) return "aggregate";
-  if (text.includes("模型")) return "models";
-  if (text.includes("开发")) return "devtools";
+  if (text.includes("モデル")) return "models";
+  if (text.includes("開発")) return "devtools";
   if (text.includes("研究")) return "research";
-  if (text.includes("自媒体")) return "creator";
-  if (text.includes("社区")) return "community";
-  if (text.includes("产品")) return "products";
-  if (text.includes("行业")) return "industry";
+  if (text.includes("クリエイター")) return "creator";
+  if (text.includes("コミュニティ")) return "community";
+  if (text.includes("プロダクト")) return "products";
+  if (text.includes("業界")) return "industry";
   return "default";
 }
 
@@ -608,7 +600,7 @@ function setSourceBadge(el, label, tone = "default", title = "") {
   dot.setAttribute("aria-hidden", "true");
   const text = document.createElement("span");
   text.className = "source-chip-label";
-  text.textContent = label || "来源";
+  text.textContent = label || "ソース";
   el.append(dot, text);
 }
 
@@ -649,26 +641,27 @@ function itemPriorityScore(item) {
 
 function labelText(item) {
   const labels = {
-    ai_general: "AI信号",
-    model_release: "模型发布",
-    agent_workflow: "Agent工作流",
-    ai_product_update: "产品更新",
-    developer_tooling: "开发工具",
-    developer_tool: "开发工具",
-    infrastructure: "基础设施",
-    infra_compute: "基础设施",
-    industry_business: "行业动态",
-    research_paper: "研究论文",
-    robotics: "机器人",
-    curated_hotlist: "热点",
-    ai_tech: "技术趋势",
+    ai_general: "AIニュース",
+    model_release: "モデル公開",
+    agent_workflow: "Agentワークフロー",
+    ai_product_update: "プロダクト更新",
+    developer_tooling: "開発ツール",
+    developer_tool: "開発ツール",
+    infrastructure: "インフラ",
+    infra_compute: "インフラ",
+    industry_business: "業界動向",
+    research_paper: "研究論文",
+    robotics: "ロボティクス",
+    curated_hotlist: "注目",
+    ai_tech: "技術トレンド",
   };
-  return labels[item.ai_label] || item.ai_label || "精选信号";
+  return labels[item.ai_label] || item.ai_label || "厳選ニュース";
 }
 
 function itemHaystack(item) {
   return [
     item.title,
+    item.title_ja,
     item.title_zh,
     item.title_en,
     item.title_original,
@@ -790,8 +783,8 @@ function itemSourceGroup(item) {
   return "other";
 }
 
-// 唯一分类入口：自媒体源 → 社区源 → 主题分类（AI_LABEL_SECTION_MAP/SECTION_FALLBACK_RULES）→ 兜底"全部"
-// 每条 item 只落一个 tag；无法归入任何具体栏目的条目只在"全部"里可见，不强行塞进"行业"。
+// 唯一分类入口：自媒体源 → 社区源 → 主题分类（AI_LABEL_SECTION_MAP/SECTION_FALLBACK_RULES）→ 兜底"すべて"
+// 每条 item 只落一个 tag；无法归入任何具体栏目的条目只在"すべて"里可见，不强行塞进"業界"。
 function itemSection(item) {
   const group = itemSourceGroup(item);
   if (group === "creator") return "creator";
@@ -811,7 +804,7 @@ function itemMatchesSection(item, sectionId = state.activeSection) {
 }
 
 function sectionBadgeLabel(sectionId) {
-  return SECTION_BY_ID[sectionId]?.short || "栏目";
+  return SECTION_BY_ID[sectionId]?.short || "カテゴリー";
 }
 
 // ---- 故事级辅助：按 primary_item（无则第一个 source）判定 ----
@@ -846,10 +839,7 @@ function storyMatchesQuery(story, query = state.query.trim().toLowerCase()) {
     story.primary_item,
     ...(Array.isArray(story.sources) ? story.sources : []),
   ].filter(Boolean);
-  return refs.some((ref) => {
-    const hay = `${ref.title || ""} ${ref.title_zh || ""} ${ref.title_en || ""} ${ref.source || ""} ${ref.source_name || ""} ${ref.site_name || ""}`.toLowerCase();
-    return hay.includes(query);
-  });
+  return refs.some((ref) => itemHaystack(ref).includes(query));
 }
 
 // 站点等条目级筛选映射到故事：任意 source 命中即可
@@ -871,20 +861,18 @@ function reasonText(item) {
   if (creatorScore && itemSourceGroup(item) === "creator") {
     const metrics = item.creator_metrics || {};
     const parts = [
-      `赞 ${fmtNumber(metrics.likes)}`,
-      `藏 ${fmtNumber(metrics.collects)}`,
-      `评 ${fmtNumber(metrics.comments)}`,
-      `转 ${fmtNumber(metrics.shares)}`,
+      `いいね ${fmtNumber(metrics.likes)}`,
+      `保存 ${fmtNumber(metrics.collects)}`,
+      `コメント ${fmtNumber(metrics.comments)}`,
+      `共有 ${fmtNumber(metrics.shares)}`,
     ];
-    if (Number(item.creator_freshness_bonus || 0) > 0) parts.push("24h 加分");
-    return `一周互动：${parts.join(" · ")}`;
+    if (Number(item.creator_freshness_bonus || 0) > 0) parts.push("24h新着加点");
+    return `週間反応：${parts.join("・")}`;
   }
-  const recommendReason = String(item?.recommend_reason_zh || "").trim();
-  if (recommendReason) return recommendReason;
   const signals = Array.isArray(item.ai_signals) ? item.ai_signals.filter(Boolean).slice(0, 3) : [];
-  if (signals.length) return `命中方向：${signals.join(" / ")}`;
+  if (signals.length) return `該当テーマ：${signals.join(" / ")}`;
   if (item.ai_relevance_reason) return String(item.ai_relevance_reason).replaceAll("_", " ");
-  return "来源与标题信号通过筛选";
+  return "ソースとタイトルが条件に一致";
 }
 
 function timelineIso(item) {
@@ -932,9 +920,9 @@ function itemIdentityKeys(item) {
   const url = item.url || item.primary_url;
   if (url) keys.add(`url:${url}`);
   if (item.id) keys.add(`id:${item.id}`);
-  const title = item.title_zh || item.title || item.title_en || item.title_original;
+  const title = item.title_original || item.title_en || item.title;
   if (title) {
-    keys.add(`event:${eventKey({ ...item, title, title_zh: item.title_zh || title })}`);
+    keys.add(`event:${eventKey({ ...item, title, title_ja: "" })}`);
     keys.add(`title:${normalizedEventText(title).slice(0, 34)}`);
   }
   return keys;
@@ -967,16 +955,16 @@ function sourceSignal(item) {
   const site = item.site_name || "";
   const source = item.source || "";
   const hay = `${site} ${source}`.toLowerCase();
-  if (site === "AI HOT") return "AI HOT精选";
-  if (hay.includes("hackernews") || hay.includes("hacker news")) return "HN热议";
-  if (source.includes("GitHub · Trending Today") || hay.includes("github")) return "GitHub趋势";
-  if (site === "Official AI Updates") return "官方更新";
+  if (site === "AI HOT") return "AI HOT厳選";
+  if (hay.includes("hackernews") || hay.includes("hacker news")) return "HNで話題";
+  if (source.includes("GitHub · Trending Today") || hay.includes("github")) return "GitHubトレンド";
+  if (site === "Official AI Updates") return "公式アップデート";
   if (site === "Follow Builders") return "Builders";
-  if (site === "TikHub Douyin" || hay.includes("tikhub douyin")) return "抖音自媒体";
-  if (site === "TikHub Xiaohongshu" || hay.includes("tikhub xiaohongshu")) return "小红书自媒体";
+  if (site === "TikHub Douyin" || hay.includes("tikhub douyin")) return "Douyinクリエイター";
+  if (site === "TikHub Xiaohongshu" || hay.includes("tikhub xiaohongshu")) return "Xiaohongshuクリエイター";
   if (site === "AIbase") return "AIbase";
   if (site === "OPML RSS") return "OPML";
-  return site || "来源";
+  return site || "ソース";
 }
 
 function storyTimeMs(story, key) {
@@ -995,27 +983,29 @@ function storyScore(story) {
 
 function storyPrimaryTitleText(story) {
   const primary = (story && story.primary_item) || {};
-  const explicit = String(primary.title_enhanced_zh || primary.title_zh || "").trim();
-  const explicitOriginal = String(primary.title_en || primary.title_original || "").trim();
-  if (explicit) return repairDisplayedTitle(explicitOriginal, explicit);
-  const bilingual = String(primary.title || (story && story.title) || "").trim();
-  if (bilingual.includes(" / ")) {
-    const [zh, en] = bilingual.split(" / ");
-    return repairDisplayedTitle(explicitOriginal || en, (zh || en || bilingual).trim());
-  }
-  return bilingual || "未命名更新";
+  return String(
+    primary.title_ja
+    || story?.title_ja
+    || primary.title_original
+    || primary.title_en
+    || originalTitleValue(primary.title || story?.title)
+    || "無題のニュース"
+  ).trim();
 }
 
-function storyPrimaryEnText(story) {
+function storyPrimaryOriginalText(story) {
   const primary = (story && story.primary_item) || {};
-  const explicit = String(primary.title_en || primary.title_original || "").trim();
-  if (isMostlyEnglishTitle(explicit) && explicit !== storyPrimaryTitleText(story)) return explicit;
+  const display = storyPrimaryTitleText(story);
+  const explicit = String(primary.title_original || "").trim();
+  if (explicit && explicit !== display) return explicit;
   const bilingual = String(primary.title || (story && story.title) || "").trim();
   if (bilingual.includes(" / ")) {
-    const [, en] = bilingual.split(" / ");
-    const original = (en || "").trim();
-    return isMostlyEnglishTitle(original) ? original : "";
+    const [, ...rest] = bilingual.split(" / ");
+    const original = rest.join(" / ").trim();
+    if (original && original !== display) return original;
   }
+  const english = String(primary.title_en || "").trim();
+  if (english && english !== display) return english;
   return "";
 }
 
@@ -1051,7 +1041,7 @@ function buildEventSourceRow(source) {
 
   const nameEl = document.createElement("span");
   nameEl.className = "event-source-name";
-  nameEl.textContent = source.source_name || source.site_name || source.source || "来源";
+  nameEl.textContent = source.source_name || source.site_name || source.source || "ソース";
 
   const timeEl = document.createElement("span");
   timeEl.className = "event-source-time";
@@ -1070,7 +1060,7 @@ function buildEventSourceList(row) {
   return list;
 }
 
-const PERSONA_NAMES = { pragmatic: "实用派", cynic: "毒舌评论员", "paper-police": "较真党" };
+const PERSONA_NAMES = { pragmatic: "実用派", cynic: "辛口評論", "paper-police": "検証派" };
 
 // 三口味 persona 的网页展示暂时下线（2026-07-15 归档，样式待重设计，见 docs/ROADMAP.md）。
 // 数据管线（persona_score.py）与 Skill 端不受影响；置回 true 即恢复 TOP3 板块与卡片锐评行。
@@ -1187,7 +1177,7 @@ function mergedStories() {
   return (Array.isArray(state.storiesMerged?.stories) ? state.storiesMerged.stories : []).filter((story) => !isUnsafeStory(story));
 }
 
-// 精选徽章：故事命中每日精选（daily-brief.json）即视为"精选"来源，与分数徽章分开显示
+// 精选徽章：故事命中每日精选（daily-brief.json）即视为"厳選"来源，与分数徽章分开显示
 let _briefIdentityKeyCache = null;
 function briefIdentityKeySet() {
   if (_briefIdentityKeyCache) return _briefIdentityKeyCache;
@@ -1302,18 +1292,18 @@ function dateGroupKey(ms) {
 }
 
 function dateGroupLabel(ms) {
-  if (!ms) return "时间未知";
+  if (!ms) return "時刻不明";
   const d = new Date(ms);
   const now = new Date();
   const sameYear = d.getFullYear() === now.getFullYear();
-  return new Intl.DateTimeFormat("zh-CN", sameYear
+  return new Intl.DateTimeFormat("ja-JP", sameYear
     ? { month: "long", day: "numeric" }
     : { year: "numeric", month: "long", day: "numeric" }).format(d);
 }
 
 function dateGroupWeekday(ms) {
   if (!ms) return "";
-  return new Intl.DateTimeFormat("zh-CN", { weekday: "long" }).format(new Date(ms));
+  return new Intl.DateTimeFormat("ja-JP", { weekday: "long" }).format(new Date(ms));
 }
 
 function itemSourceRefs(item, row = null) {
@@ -1341,7 +1331,7 @@ function itemSourceRefs(item, row = null) {
     add(item.source || item.site_name || kind.label, kind.tone);
   }
 
-  return refs.length ? refs : [{ label: "来源", tone: "default" }];
+  return refs.length ? refs : [{ label: "ソース", tone: "default" }];
 }
 
 function rowSourceCount(row) {
@@ -1357,29 +1347,23 @@ function signalSummaryText(row) {
   const editorialSummary = itemSummaryText(item) || itemSummaryText(story.primary_item || {});
   if (editorialSummary) return editorialSummary;
   const reason = reasonText(item);
-  if (reason && !reason.startsWith("来源与标题")) return reason.replace(/^命中方向：/, "核心方向：");
+  if (reason && !reason.startsWith("ソースとタイトル")) return reason.replace(/^命中方向：/, "主要テーマ：");
   return "";
 }
 
-// 只返回真实的、条目级别的推荐理由（item.recommend_reason_zh 或 story.primary_item.recommend_reason_zh）。
-// 这类数据是预算受限的窄池，多数条目没有——没有真实理由时必须返回空字符串，
-// 不再用分区/来源信号拼出通用模板句子（那类句子读起来像针对该条目的判断，实际是套话，参见调用方 renderItemNode 的隐藏逻辑）。
-function whyImportantText(row) {
-  const item = row.item || {};
-  const story = row.story || {};
-  const recommendReason = String(
-    item.recommend_reason_zh || story.primary_item?.recommend_reason_zh || ""
-  ).trim();
-  return recommendReason;
+// 日本語版は推薦理由を新規生成しない。中国語の既存理由や汎用文を
+// 日本語の個別評価に見せないため、この欄は明示的に空へフォールバックする。
+function whyImportantText() {
+  return "";
 }
 
 function feedSummaryText(item) {
   const editorialSummary = itemSummaryText(item);
   if (editorialSummary) return editorialSummary;
   const signals = Array.isArray(item.ai_signals) ? item.ai_signals.filter(Boolean).slice(0, 2) : [];
-  if (signals.length) return `相关线索：${signals.join(" / ")}。`;
+  if (signals.length) return `関連シグナル：${signals.join(" / ")}。`;
   const reason = reasonText(item);
-  if (reason && !reason.startsWith("来源与标题")) return reason.replace(/^命中方向：/, "相关线索：");
+  if (reason && !reason.startsWith("ソースとタイトル")) return reason.replace(/^命中方向：/, "関連シグナル：");
   return "";
 }
 
@@ -1402,9 +1386,9 @@ function renderItemNode(row) {
 
   const sourceEl = node.querySelector(".source");
   const sourceLabel = sourceSignal(item);
-  setSourceBadge(sourceEl, sourceLabel, sourceSignalTone(sourceLabel), item.source ? `分区: ${item.source}` : "");
+  setSourceBadge(sourceEl, sourceLabel, sourceSignalTone(sourceLabel), item.source ? `区分：${item.source}` : "");
   if (rowSourceCount(row) > 1) {
-    sourceEl.title = `${sourceEl.title || ""} · 共 ${fmtNumber(rowSourceCount(row))} 个来源`.replace(/^ · /, "");
+    sourceEl.title = `${sourceEl.title || ""}・${fmtNumber(rowSourceCount(row))}ソース`.replace(/^ · /, "");
   }
 
   // aihot 子来源 chip（X/公众号/HN/RSS）紧跟通道 chip（.source）之后，色调复用既有 .category.kind-* 规则，不新增样式。
@@ -1418,13 +1402,13 @@ function renderItemNode(row) {
     metaAnchorEl = subChip;
   }
 
-  // 多源 chip：source_count>=2 时出现，紧跟通道/子来源 chip 之后，同时充当"同一事件"展开/收起触发器
+  // 多源 chip：source_count>=2 时出现，紧跟通道/子来源 chip 之后，同时充当"同じニュース"展开/收起触发器
   // （取代旧的独立 event-expand-toggle）。子列表挂在 news-card-body 末尾，首次点击才建 DOM，之后本地 toggle。
   if (row.story && storySourceCount(row.story) >= 2) {
     const bodyEl = node.querySelector(".news-card-body") || node;
     const eventCount = storySourceCount(row.story);
-    const collapsedLabel = `多源 ${fmtNumber(eventCount)} ▸`;
-    const expandedLabel = `多源 ${fmtNumber(eventCount)} ▾`;
+    const collapsedLabel = `複数ソース ${fmtNumber(eventCount)} ▸`;
+    const expandedLabel = `複数ソース ${fmtNumber(eventCount)} ▾`;
     const multiChip = document.createElement("button");
     multiChip.type = "button";
     multiChip.className = "multi-chip";
@@ -1455,20 +1439,20 @@ function renderItemNode(row) {
   const displayScore = row.score;
   if (displayScore > 0) {
     scoreEl.hidden = false;
-    scoreEl.textContent = `${displayScore} 分`;
+    scoreEl.textContent = `${displayScore}点`;
     scoreEl.className = `score-badge tone-${scoreTone(displayScore)}`;
   } else {
     scoreEl.hidden = true;
   }
 
   // 栏目 chip（行业/模型/产品...）是 meta-row 的最后一个 chip，appendChild 保证排在 score-badge 之后、
-  // 在下面的"查看原文"链接（margin-left: auto 靠右）之前。
+  // 在下面的"原文を開く"链接（margin-left: auto 靠右）之前。
   const sectionChip = itemTagChip(sectionBadgeLabel(itemSection(item)));
   metaRow.appendChild(sectionChip);
 
   const titleEl = node.querySelector(".title");
   const displayTitle = row.story ? storyPrimaryTitleText(row.story) : itemTitleText(item);
-  const originalTitle = row.story ? storyPrimaryEnText(row.story) : itemOriginalTitleText(item);
+  const originalTitle = row.story ? storyPrimaryOriginalText(row.story) : itemOriginalTitleText(item);
   titleEl.textContent = "";
   if (originalTitle) {
     const primary = document.createElement("span");
@@ -1517,7 +1501,7 @@ function renderItemNode(row) {
   originalLink.href = item.url || row.story?.primary_url || row.story?.url || "#";
   originalLink.target = "_blank";
   originalLink.rel = "noopener noreferrer";
-  originalLink.textContent = "查看原文 ↗";
+  originalLink.textContent = "原文を開く ↗";
   metaRow.appendChild(originalLink);
 
   return node;
@@ -1548,13 +1532,13 @@ function buildHotRow(row, rank) {
   const sourceCount = rowSourceCount(row);
   const relTime = fmtRelativeTime(timelineMs(item) || storyTimeMs(row.story, "latest_at"));
 
-  // 同一事件展开：热点行的"N 个信源"变成可点击项，点击在 .hot-row 正下方插入/移除同一份子列表组件。
+  // 同一事件展开：热点行的"Nソース"变成可点击项，点击在 .hot-row 正下方插入/移除同一份子列表组件。
   const expandable = row.story && storySourceCount(row.story) >= 2;
   if (expandable) {
     const sourceToggle = document.createElement("button");
     sourceToggle.type = "button";
     sourceToggle.className = "hot-row-source-toggle";
-    sourceToggle.textContent = `${fmtNumber(sourceCount)} 个信源`;
+    sourceToggle.textContent = `${fmtNumber(sourceCount)}ソース`;
     sourceToggle.setAttribute("aria-expanded", "false");
     let sourceList = null;
     sourceToggle.addEventListener("click", (evt) => {
@@ -1578,7 +1562,7 @@ function buildHotRow(row, rank) {
     timeEl.textContent = relTime;
     metaEl.append(sourceToggle, sep, timeEl);
   } else {
-    metaEl.textContent = `${fmtNumber(sourceCount)} 个信源 · ${relTime}`;
+    metaEl.textContent = `${fmtNumber(sourceCount)}ソース・${relTime}`;
   }
 
   el.append(rankEl, titleEl, metaEl);
@@ -1588,7 +1572,7 @@ function buildHotRow(row, rank) {
 function renderLoadingNotice(label, count) {
   const loading = document.createElement("div");
   loading.className = "list-loading";
-  loading.textContent = `正在整理 ${label} · ${fmtNumber(count)} 条`;
+  loading.textContent = `${label}を整理中・${fmtNumber(count)}件`;
   newsListEl.appendChild(loading);
 }
 
@@ -1618,11 +1602,11 @@ state.mainListVisibleCount = MAIN_LIST_PAGE_SIZE;
 // 主列表：纯时间倒序 + 按日期分组渲染，精选/全量两种模式共用同一套模板。
 function renderMainList() {
   const entries = mainListEntries();
-  resultCountEl.textContent = `${fmtNumber(entries.length)} 条`;
+  resultCountEl.textContent = `${fmtNumber(entries.length)}件`;
   renderClearFiltersButton();
   if (modeHintEl) {
-    modeHintEl.textContent = `${modeLabelText()} ${fmtNumber(entries.length)} 条`;
-    modeHintEl.setAttribute("aria-label", `当前${modeLabelText()}模式，${fmtNumber(entries.length)} 条`);
+    modeHintEl.textContent = `${modeLabelText()} ${fmtNumber(entries.length)}件`;
+    modeHintEl.setAttribute("aria-label", `現在は${modeLabelText()}・${fmtNumber(entries.length)}件`);
   }
 
   newsListEl.innerHTML = "";
@@ -1633,15 +1617,15 @@ function renderMainList() {
     const empty = document.createElement("div");
     empty.className = "empty";
     const title = document.createElement("h3");
-    title.textContent = "没有找到匹配内容";
+    title.textContent = "一致するニュースがありません";
     const message = document.createElement("p");
-    message.textContent = "可以换个关键词，或一键恢复默认视图。";
+    message.textContent = "検索語を変えるか、既定の表示に戻してください。";
     empty.append(title, message);
     if (activeAdjustmentCount()) {
       const reset = document.createElement("button");
       reset.type = "button";
       reset.className = "empty-reset-btn";
-      reset.textContent = "清除筛选，查看全部";
+      reset.textContent = "絞り込みを解除してすべて表示";
       reset.addEventListener("click", clearAllFilters);
       empty.appendChild(reset);
     }
@@ -1674,7 +1658,7 @@ function renderMainList() {
         const count = dateGroupCounts.get(key) || 0;
         const meta = document.createElement("span");
         meta.className = "date-group-meta";
-        meta.textContent = weekday ? `· ${weekday} · ${fmtNumber(count)} 条` : `· ${fmtNumber(count)} 条`;
+        meta.textContent = weekday ? `・${weekday}・${fmtNumber(count)}件` : `・${fmtNumber(count)}件`;
         header.appendChild(meta);
         frag.appendChild(header);
         lastKey = key;
@@ -1697,7 +1681,7 @@ function renderMainList() {
     if (entries.length > visible.length) {
       addLoadMoreButton(
         newsListEl,
-        `展开更多 ${fmtNumber(entries.length - visible.length)} 条`,
+        `さらに${fmtNumber(entries.length - visible.length)}件表示`,
         () => {
           state.mainListVisibleCount = visibleCount + MAIN_LIST_PAGE_SIZE;
           renderMainList();
@@ -1746,14 +1730,14 @@ function renderHotBoard() {
   const rows = hotBoardEntries();
   if (hotBoardMetaEl) {
     hotBoardMetaEl.textContent = rows.length
-      ? `当前 ${fmtNumber(rows.length)} 条热点 · 按热度降序`
-      : "按热度排序";
+      ? `注目ニュース${fmtNumber(rows.length)}件・重要度順`
+      : "重要度順";
   }
 
   if (!rows.length) {
     const empty = document.createElement("div");
     empty.className = "bole-empty";
-    empty.textContent = "当前筛选下没有 2 个以上信源交叉的热点，可切换筛选或查看全量。";
+    empty.textContent = "現在の条件では複数ソースが報じたニュースはありません。条件を変えるか全件を確認してください。";
     hotBoardListEl.appendChild(empty);
     return;
   }
@@ -1793,23 +1777,23 @@ function renderWaytoagi(waytoagi) {
   if (waytoagi7dBtnEl) waytoagi7dBtnEl.classList.toggle("active", state.waytoagiMode === "7d");
   if (waytoagiTodayBtnEl) waytoagiTodayBtnEl.setAttribute("aria-pressed", state.waytoagiMode === "today" ? "true" : "false");
   if (waytoagi7dBtnEl) waytoagi7dBtnEl.setAttribute("aria-pressed", state.waytoagiMode === "7d" ? "true" : "false");
-  waytoagiUpdatedAtEl.textContent = `更新时间：${fmtTime(waytoagi.generated_at)}`;
+  waytoagiUpdatedAtEl.textContent = `更新：${fmtTime(waytoagi.generated_at)}`;
 
   waytoagiMetaEl.innerHTML = "";
   const rootLink = document.createElement("a");
   rootLink.href = waytoagi.root_url || "#";
   rootLink.target = "_blank";
   rootLink.rel = "noopener noreferrer";
-  rootLink.textContent = "主页面";
+  rootLink.textContent = "メインページ";
   const historyLink = document.createElement("a");
   historyLink.href = waytoagi.history_url || "#";
   historyLink.target = "_blank";
   historyLink.rel = "noopener noreferrer";
-  historyLink.textContent = "历史更新页";
+  historyLink.textContent = "更新履歴";
   const todayCount = document.createElement("span");
-  todayCount.textContent = `最近更新日(${latestDate || "--"})：${fmtNumber(waytoagi.count_today || updatesToday.length)} 条`;
+  todayCount.textContent = `最新日（${latestDate || "--"}）：${fmtNumber(waytoagi.count_today || updatesToday.length)}件`;
   const weekCount = document.createElement("span");
-  weekCount.textContent = `近 7 日：${fmtNumber(waytoagi.count_7d || updates7d.length)} 条`;
+  weekCount.textContent = `直近7日：${fmtNumber(waytoagi.count_7d || updates7d.length)}件`;
   [rootLink, "·", historyLink, "·", todayCount, "·", weekCount].forEach((part) => {
     if (typeof part === "string") {
       const sep = document.createElement("span");
@@ -1824,7 +1808,7 @@ function renderWaytoagi(waytoagi) {
   if (waytoagi.has_error) {
     const div = document.createElement("div");
     div.className = "waytoagi-error";
-    div.textContent = waytoagi.error || "WaytoAGI 数据加载失败";
+    div.textContent = waytoagi.error || "WaytoAGIデータの読み込みに失敗しました";
     waytoagiListEl.appendChild(div);
     return;
   }
@@ -1834,8 +1818,8 @@ function renderWaytoagi(waytoagi) {
     const div = document.createElement("div");
     div.className = "waytoagi-empty";
     div.textContent = state.waytoagiMode === "today"
-      ? "最近更新日没有更新，可切换到近7日查看。"
-      : (waytoagi.warning || "近 7 日没有更新");
+      ? "最新日の更新はありません。直近7日に切り替えて確認できます。"
+      : (waytoagi.warning || "直近7日間の更新はありません");
     waytoagiListEl.appendChild(div);
     return;
   }
@@ -1849,10 +1833,20 @@ function renderWaytoagi(waytoagi) {
     const dateEl = document.createElement("span");
     dateEl.className = "d";
     dateEl.textContent = fmtDate(u.date);
+    const contentEl = document.createElement("span");
+    contentEl.className = "content";
     const titleEl = document.createElement("span");
     titleEl.className = "t";
-    titleEl.textContent = u.title;
-    row.append(dateEl, titleEl);
+    titleEl.textContent = u.title_ja || u.title || "";
+    const summaryText = String(u.summary_ja || u.summary || "").trim();
+    contentEl.appendChild(titleEl);
+    if (summaryText && summaryText !== titleEl.textContent) {
+      const summaryEl = document.createElement("span");
+      summaryEl.className = "s";
+      summaryEl.textContent = summaryText;
+      contentEl.appendChild(summaryEl);
+    }
+    row.append(dateEl, contentEl);
     waytoagiListEl.appendChild(row);
   });
 }
@@ -1902,17 +1896,17 @@ function renderSocialdataAuthorList(authors, itemCount) {
   panel.className = "health-author-list";
   const heading = document.createElement("div");
   heading.className = "health-author-list-title";
-  heading.textContent = "本轮 X 扫到的博主";
+  heading.textContent = "今回確認したX投稿者";
   const meta = document.createElement("div");
   meta.className = "health-author-list-meta";
-  meta.textContent = `${fmtNumber(authors.length)} 位博主 · ${fmtNumber(itemCount)} 条入池内容`;
+  meta.textContent = `${fmtNumber(authors.length)}人の投稿者・${fmtNumber(itemCount)}件`;
   const list = document.createElement("div");
   list.className = "health-author-list-items";
   authors.forEach(({ handle, display }) => {
     const item = document.createElement("button");
     item.type = "button";
     item.textContent = display;
-    item.title = `查看 ${display} 的 X 内容`;
+    item.title = `${display}のX投稿を見る`;
     item.addEventListener("click", () => selectSocialdataAuthor(handle));
     list.appendChild(item);
   });
@@ -1925,7 +1919,7 @@ function renderSourceHealthSummaryNode(status, errorMessage = "") {
   node.className = "source-health-summary";
   if (!status) {
     node.classList.add(errorMessage ? "bad" : "warn");
-    node.innerHTML = `<strong>${errorMessage ? "源状态异常" : "源状态未生成"}</strong><span>${errorMessage || "等待 source-status.json"}</span>`;
+    node.innerHTML = `<strong>${errorMessage ? "ソース状態に異常" : "ソース状態なし"}</strong><span>${errorMessage || "source-status.json待ち"}</span>`;
     return node;
   }
   const sites = Array.isArray(status.sites) ? status.sites : [];
@@ -1938,13 +1932,13 @@ function renderSourceHealthSummaryNode(status, errorMessage = "") {
   const aiRelevant = safeItems(state.itemsAi).length;
   node.classList.toggle("warn", failed > 0);
   const segments = [];
-  if (fetched) segments.push(`今日采集 ${fmtNumber(fetched)} 条`);
-  if (pooled) segments.push(`入池 ${fmtNumber(pooled)}`);
-  if (aiRelevant) segments.push(`AI 强相关 ${fmtNumber(aiRelevant)}`);
+  if (fetched) segments.push(`本日の収集 ${fmtNumber(fetched)}件`);
+  if (pooled) segments.push(`採用 ${fmtNumber(pooled)}`);
+  if (aiRelevant) segments.push(`AI高関連 ${fmtNumber(aiRelevant)}`);
   segments.push(failed > 0
-    ? `<span class="source-health-fail-bad">失败 ${fmtNumber(failed)}</span>`
-    : `失败 ${fmtNumber(failed)}`);
-  node.innerHTML = `<strong>${fmtNumber(okSites)}/${fmtNumber(sites.length)} 源正常</strong><span>${segments.join(" · ")}</span>`;
+    ? `<span class="source-health-fail-bad">失敗 ${fmtNumber(failed)}</span>`
+    : `失敗 ${fmtNumber(failed)}`);
+  node.innerHTML = `<strong>${fmtNumber(okSites)}/${fmtNumber(sites.length)}ソース正常</strong><span>${segments.join("・")}</span>`;
   return node;
 }
 
@@ -2019,12 +2013,12 @@ function renderSourceStatusTable(status) {
   table.className = "source-table";
   const header = document.createElement("div");
   header.className = "source-table-row source-table-head";
-  header.innerHTML = "<span>来源</span><span>AI / 原始</span><span>AI占比</span><span>状态</span>";
+  header.innerHTML = "<span>ソース</span><span>AI / 全件</span><span>AI比率</span><span>状態</span>";
   table.appendChild(header);
   rows.forEach((site) => {
     const row = document.createElement("div");
     row.className = "source-table-row";
-    const statusText = site.ok ? "正常" : "异常";
+    const statusText = site.ok ? "正常" : "異常";
     row.innerHTML = `
       <span>${site.site_name || site.site_id}</span>
       <span>${fmtNumber(site.aiCount)} / ${fmtNumber(site.rawCount)}</span>
@@ -2035,7 +2029,7 @@ function renderSourceStatusTable(status) {
   });
   const foot = document.createElement("div");
   foot.className = "source-table-row source-table-foot";
-  foot.textContent = `共 ${fmtNumber(rows.length)} 源`;
+  foot.textContent = `全${fmtNumber(rows.length)}ソース`;
   table.appendChild(foot);
   sourceStatusTableEl.appendChild(table);
 }
@@ -2049,13 +2043,13 @@ function sourceHealthHintNode(status) {
   const skippedFeeds = Array.isArray(rss.skipped_feeds) ? rss.skipped_feeds : [];
 
   const optionalBits = [];
-  if (!rss.enabled) optionalBits.push("RSS 未启用");
-  if (!agentmail.enabled) optionalBits.push("AgentMail 未配置");
+  if (!rss.enabled) optionalBits.push("RSSは未設定");
+  if (!agentmail.enabled) optionalBits.push("AgentMailは未設定");
 
   const parts = [];
-  if (optionalBits.length) parts.push(`可选接入:${optionalBits.join(" · ")}`);
+  if (optionalBits.length) parts.push(`追加可能：${optionalBits.join("・")}`);
   if (replacedFeeds.length || skippedFeeds.length) {
-    parts.push(`替换/跳过 ${fmtNumber(replacedFeeds.length)}/${fmtNumber(skippedFeeds.length)}`);
+    parts.push(`置換/スキップ ${fmtNumber(replacedFeeds.length)}/${fmtNumber(skippedFeeds.length)}`);
   }
   if (!parts.length) return null;
 
@@ -2096,8 +2090,8 @@ function renderSourceHealth(errorMessage = "") {
     toggle.className = "source-health-authors-toggle";
     toggle.setAttribute("aria-expanded", String(Boolean(state.xAuthorsExpanded)));
     toggle.textContent = state.xAuthorsExpanded
-      ? "收起 X 博主列表 ▲"
-      : `查看本轮 X 博主 (${fmtNumber(xAuthors.length)}) ▸`;
+      ? "X投稿者一覧を閉じる ▲"
+      : `今回のX投稿者を見る（${fmtNumber(xAuthors.length)}）▸`;
     toggle.addEventListener("click", () => {
       state.xAuthorsExpanded = !state.xAuthorsExpanded;
       renderSourceHealth();
@@ -2116,7 +2110,7 @@ function renderSourceHealth(errorMessage = "") {
 
 async function loadNewsData() {
   const res = await fetch(`${dataUrl("data/latest-24h.json")}?t=${Date.now()}`);
-  if (!res.ok) throw new Error(`加载 latest-24h.json 失败: ${res.status}`);
+  if (!res.ok) throw new Error(`latest-24h.jsonの読み込みに失敗しました: ${res.status}`);
   return res.json();
 }
 
@@ -2125,7 +2119,7 @@ async function loadAllModeData() {
   if (!state.allDataPromise) {
     state.allDataPromise = fetch(`${dataUrl(state.allDataUrl)}?t=${Date.now()}`)
       .then((res) => {
-        if (!res.ok) throw new Error(`加载 latest-24h-all.json 失败: ${res.status}`);
+        if (!res.ok) throw new Error(`latest-24h-all.jsonの読み込みに失敗しました: ${res.status}`);
         return res.json();
       })
       .then((payload) => {
@@ -2145,31 +2139,31 @@ async function loadAllModeData() {
 
 async function loadWaytoagiData() {
   const res = await fetch(`${dataUrl("data/waytoagi-7d.json")}?t=${Date.now()}`);
-  if (!res.ok) throw new Error(`加载 waytoagi-7d.json 失败: ${res.status}`);
+  if (!res.ok) throw new Error(`waytoagi-7d.jsonの読み込みに失敗しました: ${res.status}`);
   return res.json();
 }
 
 async function loadSourceStatusData() {
   const res = await fetch(`${dataUrl("data/source-status.json")}?t=${Date.now()}`);
-  if (!res.ok) throw new Error(`加载 source-status.json 失败: ${res.status}`);
+  if (!res.ok) throw new Error(`source-status.jsonの読み込みに失敗しました: ${res.status}`);
   return res.json();
 }
 
 async function loadDailyBriefData() {
   const res = await fetch(`${dataUrl("data/daily-brief.json")}?t=${Date.now()}`);
-  if (!res.ok) throw new Error(`加载 daily-brief.json 失败: ${res.status}`);
+  if (!res.ok) throw new Error(`daily-brief.jsonの読み込みに失敗しました: ${res.status}`);
   return res.json();
 }
 
 async function loadTop3PersonasData() {
   const res = await fetch(`${dataUrl("data/top3-personas.json")}?t=${Date.now()}`);
-  if (!res.ok) throw new Error(`加载 top3-personas.json 失败: ${res.status}`);
+  if (!res.ok) throw new Error(`top3-personas.jsonの読み込みに失敗しました: ${res.status}`);
   return res.json();
 }
 
 async function loadStoriesData() {
   const res = await fetch(`${dataUrl(state.storiesDataUrl)}?t=${Date.now()}`);
-  if (!res.ok) throw new Error(`加载 stories-merged.json 失败: ${res.status}`);
+  if (!res.ok) throw new Error(`stories-merged.jsonの読み込みに失敗しました: ${res.status}`);
   return res.json();
 }
 
@@ -2239,7 +2233,7 @@ async function init() {
     renderMainList();
     updatedAtEl.textContent = fmtTime(state.generatedAt);
   } else {
-    updatedAtEl.textContent = "新闻数据加载失败";
+    updatedAtEl.textContent = "ニュースデータの読み込みに失敗しました";
     newsListEl.innerHTML = `<div class="empty">${newsResult.reason.message}</div>`;
   }
 
@@ -2255,7 +2249,7 @@ async function init() {
     renderWaytoagi(state.waytoagiData);
   } else {
     if (waytoagiWrapEl) waytoagiWrapEl.hidden = state.activeSection !== "community";
-    waytoagiUpdatedAtEl.textContent = "加载失败";
+    waytoagiUpdatedAtEl.textContent = "読み込み失敗";
     waytoagiListEl.innerHTML = `<div class="waytoagi-error">${waytoagiResult.reason.message}</div>`;
   }
 
@@ -2304,7 +2298,7 @@ if (modeAllBtnEl) {
     newsListEl.innerHTML = "";
     const loading = document.createElement("div");
     loading.className = "empty";
-    loading.textContent = "正在加载全量更新...";
+    loading.textContent = "全件データを読み込み中...";
     newsListEl.appendChild(loading);
     try {
       await loadAllModeData();

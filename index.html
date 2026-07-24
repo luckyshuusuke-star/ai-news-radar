@@ -1,21 +1,21 @@
 <!doctype html>
-<html lang="zh-CN" data-radar-view="mobile">
+<html lang="ja" data-radar-view="mobile">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>AI News Radar｜24 小时 AI 更新雷达</title>
+    <title>AI News Radar｜24時間のAIニュースレーダー</title>
     <meta
       name="description"
-      content="自动整理过去 24 小时值得看的 AI、模型和开发者工具更新；伯乐Skill（Scout Skill）帮你从一堆信源里选出千里马。"
+      content="過去24時間の注目すべきAI、モデル、開発者ツールの更新を自動整理するニュースレーダーです。"
     />
-    <link rel="canonical" href="https://news.learnprompt.pro/" />
-    <meta property="og:title" content="AI News Radar｜24 小时 AI 更新雷达" />
+    <link rel="canonical" href="https://luckyshuusuke-star.github.io/ai-news-radar/" />
+    <meta property="og:title" content="AI News Radar｜24時間のAIニュースレーダー" />
     <meta
       property="og:description"
-      content="自动整理过去 24 小时值得看的 AI、模型和开发者工具更新；伯乐Skill（Scout Skill）帮你从一堆信源里选出千里马。"
+      content="過去24時間の注目すべきAI、モデル、開発者ツールの更新を自動整理するニュースレーダーです。"
     />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://news.learnprompt.pro/" />
+    <meta property="og:url" content="https://luckyshuusuke-star.github.io/ai-news-radar/" />
     <meta property="og:site_name" content="AI News Radar" />
     <meta name="application-name" content="AI News Radar" />
     <meta name="theme-color" content="#f6f6f2" />
@@ -24,21 +24,21 @@
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="default" />
     <meta name="twitter:card" content="summary" />
-    <meta name="twitter:title" content="AI News Radar｜24 小时 AI 更新雷达" />
+    <meta name="twitter:title" content="AI News Radar｜24時間のAIニュースレーダー" />
     <meta
       name="twitter:description"
-      content="自动整理过去 24 小时值得看的 AI、模型和开发者工具更新；伯乐Skill（Scout Skill）帮你从一堆信源里选出千里马。"
+      content="過去24時間の注目すべきAI、モデル、開発者ツールの更新を自動整理するニュースレーダーです。"
     />
     <link rel="icon" href="./assets/logo.svg" type="image/svg+xml" />
     <link rel="icon" href="./assets/icons/favicon-32.png" sizes="32x32" type="image/png" />
     <link rel="apple-touch-icon" href="./assets/icons/apple-touch-icon.png" sizes="180x180" />
     <link rel="manifest" href="./site.webmanifest" />
     <script src="./assets/view-mode.js?v=dual-view-0713c" data-root="./"></script>
-    <link rel="stylesheet" href="./assets/styles.css?v=aihot-0715b" />
+    <link rel="stylesheet" href="./assets/styles.css?v=ja-0717a" />
     <link rel="stylesheet" href="./assets/view-switch.css?v=dual-view-0713b" />
   </head>
   <body>
-    <a class="skip-link" href="#hotBoardWrap">跳到当前热点</a>
+    <a class="skip-link" href="#hotBoardWrap">注目ニュースへ移動</a>
     <main class="shell">
       <header class="hero">
         <div class="hero-main">
@@ -47,87 +47,95 @@
             <div>
               <h1>AI News Radar</h1>
               <div class="hero-updated hero-view-row">
-                <span class="updated-label">更新时间</span>
-                <span class="updated" id="updatedAt">加载中...</span>
-                <div class="view-switch" role="group" aria-label="视角切换">
-                  <span class="view-switch-label">视角</span>
-                  <button class="view-switch-btn" type="button" data-radar-view-target="mobile">手机版</button>
-                  <button class="view-switch-btn" type="button" data-radar-view-target="classic">经典版</button>
+                <span class="updated-label">更新日時</span>
+                <span class="updated" id="updatedAt">読み込み中...</span>
+                <div class="view-switch" role="group" aria-label="表示切り替え">
+                  <span class="view-switch-label">表示</span>
+                  <button class="view-switch-btn" type="button" data-radar-view-target="mobile">モバイル版</button>
+                  <button class="view-switch-btn" type="button" data-radar-view-target="classic">クラシック版</button>
                 </div>
               </div>
             </div>
           </div>
         </div>
         <div class="hero-meta">
-          <span class="source-status-pill" id="sourceStatusPill">源状态加载中</span>
-          <div class="hero-links" aria-label="项目入口">
+          <span class="source-status-pill" id="sourceStatusPill">ソース状態を読み込み中</span>
+          <div class="hero-links" aria-label="プロジェクト">
             <a
               class="hero-link"
+              data-site-repository
+              href="https://github.com/luckyshuusuke-star/ai-news-radar"
+              target="_blank"
+              rel="noopener noreferrer"
+            >この日本語版のGitHub</a>
+            <a
+              class="hero-link"
+              data-original-repository
               href="https://github.com/LearnPrompt/ai-news-radar"
               target="_blank"
               rel="noopener noreferrer"
-            >GitHub 与接入指南</a>
+            >原作者・オリジナル版</a>
           </div>
         </div>
 
-        <section class="section-nav-wrap" aria-label="内容栏目">
-          <div class="section-tabs" id="sectionTabs" role="tablist" aria-label="AI 新闻栏目"></div>
-          <div class="section-scroll-hint" aria-hidden="true">左右滑动，查看更多栏目 →</div>
+        <section class="section-nav-wrap" aria-label="カテゴリー">
+          <div class="section-tabs" id="sectionTabs" role="tablist" aria-label="AIニュースカテゴリー"></div>
+          <div class="section-scroll-hint" aria-hidden="true">左右にスワイプしてカテゴリーを表示 →</div>
         </section>
       </header>
 
       <section class="primary-controls">
-        <div class="mode-switch curation-mode-switch" role="group" aria-label="精选/全量切换">
+        <div class="mode-switch curation-mode-switch" role="group" aria-label="厳選と全件の切り替え">
           <button id="modeSelectedBtn" class="mode-btn active" type="button" aria-pressed="true">
-            <span class="mode-btn-icon" aria-hidden="true">&#10022;</span>精选
+            <span class="mode-btn-icon" aria-hidden="true">&#10022;</span>厳選
           </button>
           <button id="modeAllBtn" class="mode-btn" type="button" aria-pressed="false">
-            <span class="mode-btn-icon" aria-hidden="true">&#9776;</span>全量
+            <span class="mode-btn-icon" aria-hidden="true">&#9776;</span>全件
           </button>
         </div>
-        <input id="searchInput" type="search" placeholder="搜索 AI 信号 / 来源" aria-label="搜索 AI 信号或来源" />
-        <div class="mode-hint" id="modeHint">精选加载中</div>
-        <button class="clear-filters-btn" id="clearFiltersBtn" type="button" hidden>清除筛选</button>
+        <input id="searchInput" type="search" placeholder="AIニュース・ソースを検索" aria-label="AIニュースまたはソースを検索" />
+        <div class="mode-hint" id="modeHint">厳選ニュースを読み込み中</div>
+        <button class="clear-filters-btn" id="clearFiltersBtn" type="button" hidden>絞り込みを解除</button>
       </section>
 
       <details class="advanced-panel">
           <summary>
-            <span>高级筛选</span>
-            <span class="advanced-hint">只看某个来源，或检查各信源采集是否正常</span>
+            <span>詳細フィルター</span>
+            <span class="advanced-hint">ソースを指定、または取得状態を確認</span>
           </summary>
           <div class="advanced-content">
             <div class="advanced-controls">
               <label class="field">
-                <span>具体来源</span>
+                <span>ソース</span>
                 <select id="siteSelect">
-                  <option value="">全部站点</option>
+                  <option value="">すべてのサイト</option>
                 </select>
               </label>
             </div>
             <div class="data-source-indicator" id="dataSourceIndicator" hidden>
               <span id="dataSourceIndicatorText"></span>
-              <button type="button" id="dataSourceResetBtn" class="data-source-reset-btn">恢复本地</button>
+              <button type="button" id="dataSourceResetBtn" class="data-source-reset-btn">ローカルに戻す</button>
             </div>
-            <div class="source-health" id="sourceHealth">源状态加载中...</div>
+            <div class="source-health" id="sourceHealth">ソース状態を読み込み中...</div>
             <details class="source-detail-panel">
-              <summary>查看源状态详情</summary>
+              <summary>ソース状態の詳細</summary>
               <div class="source-health-details" id="sourceHealthDetails"></div>
-              <section class="source-status-table" id="sourceStatusTable" aria-label="源状态详情"></section>
+              <section class="source-status-table" id="sourceStatusTable" aria-label="ソース状態の詳細"></section>
             </details>
           </div>
       </details>
 
-      <section class="list-wrap hot-board-wrap" id="hotBoardWrap" aria-label="当前热点">
+      <section class="list-wrap hot-board-wrap" id="hotBoardWrap" aria-label="注目ニュース">
         <div class="list-head">
-          <h2>当前热点</h2>
-          <span id="hotBoardMeta">按热度排序</span>
+          <h2>注目ニュース</h2>
+          <span id="hotBoardMeta">重要度順</span>
         </div>
         <div id="hotBoardList" class="hot-board-list"></div>
       </section>
 
-      <section class="list-wrap top3-board-wrap" id="top3BoardWrap" aria-label="今日 TOP3 · 三口味锐评" hidden>
+      <section class="list-wrap top3-board-wrap" id="top3BoardWrap" aria-label="今日のTOP3" hidden>
         <div class="list-head">
-          <h2>今日 TOP3 · 三口味锐评</h2>
+          <h2>今日のTOP3</h2>
           <span id="top3BoardMeta"></span>
         </div>
         <div id="top3BoardList" class="top3-board-list"></div>
@@ -135,13 +143,13 @@
 
       <section class="waytoagi-wrap">
         <div class="waytoagi-head">
-          <h2>社区更新 · WaytoAGI</h2>
+          <h2>コミュニティ更新・WaytoAGI</h2>
           <div class="waytoagi-tools">
             <div class="waytoagi-switch">
-              <button id="waytoagiTodayBtn" class="waytoagi-btn active" type="button" aria-pressed="true">最近更新日</button>
-              <button id="waytoagi7dBtn" class="waytoagi-btn" type="button" aria-pressed="false">近7日</button>
+              <button id="waytoagiTodayBtn" class="waytoagi-btn active" type="button" aria-pressed="true">最新日</button>
+              <button id="waytoagi7dBtn" class="waytoagi-btn" type="button" aria-pressed="false">直近7日</button>
             </div>
-            <span id="waytoagiUpdatedAt">加载中...</span>
+            <span id="waytoagiUpdatedAt">読み込み中...</span>
           </div>
         </div>
         <div id="waytoagiMeta" class="waytoagi-meta"></div>
@@ -150,14 +158,14 @@
 
       <section class="list-wrap" id="newsListWrap">
         <div class="list-head">
-          <h2 id="listTitle">精选</h2>
+          <h2 id="listTitle">厳選</h2>
           <div class="list-head-tools">
             <label id="allDedupeWrap" class="all-dedupe" for="allDedupeToggle">
               <input id="allDedupeToggle" type="checkbox" checked />
               <span class="all-dedupe-dot"></span>
-              <span id="allDedupeLabel">去重开</span>
+              <span id="allDedupeLabel">重複を統合</span>
             </label>
-            <span id="resultCount">0 条</span>
+            <span id="resultCount">0件</span>
           </div>
         </div>
         <div id="newsList" class="news-list" aria-live="polite"></div>
@@ -169,7 +177,7 @@
       <article class="news-card">
         <div class="news-card-body">
           <div class="meta-row">
-            <span class="curated-badge" hidden>精选</span>
+            <span class="curated-badge" hidden>厳選</span>
             <span class="site"></span>
             <span class="source"></span>
             <strong class="score-badge" hidden></strong>
@@ -177,7 +185,7 @@
           <a class="title" target="_blank" rel="noopener noreferrer"></a>
           <p class="news-summary"></p>
           <div class="why-box" hidden>
-            <span class="why-label">推荐理由：</span>
+            <span class="why-label">読む価値：</span>
             <span class="why-text"></span>
           </div>
           <div class="persona-slot"></div>
@@ -187,6 +195,6 @@
 
     <script src="https://cdn.jsdelivr.net/npm/gsap@3.13.0/dist/gsap.min.js" integrity="sha384-HOvlOYPIs/zjoIkWUGXkVmXsjr8GuZLV+Q+rcPwmJOVZVpvTSXQChiN4t9Euv9Vc" crossorigin="anonymous" defer></script>
     <script src="./assets/motion.js?v=aihot-0715b" defer></script>
-    <script src="./assets/app.js?v=aihot-0715b" defer></script>
+    <script src="./assets/app.js?v=ja-0717d" defer></script>
   </body>
 </html>
