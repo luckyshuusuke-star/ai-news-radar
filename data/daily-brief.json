@@ -1,12 +1,235 @@
 {
-  "generated_at": "2026-07-24T09:48:46.950310Z",
+  "generated_at": "2026-07-24T12:19:56.244931Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
+      "story_id": "story_ce28d04e10f8",
+      "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
+      "title_ja": "Claude-thermos: クロード セッション キャッシュをホットに保ち、再エンコードのコストを回避します。",
+      "url": "https://github.com/izeigerman/claude-thermos",
+      "primary_url": "https://github.com/izeigerman/claude-thermos",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b506f9f06b58edb7fdab55edf5c29946861094d1",
+          "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
+          "title_zh": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
+          "title_ja": "Claude-thermos: クロード セッション キャッシュをホットに保ち、再エンコードのコストを回避します。",
+          "title_en": null,
+          "title_original": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
+          "summary": "Claude-thermos 通过本地反向代理监控 Claude Code 会话，在主智能体因等待子智能体而空闲超过 5 分钟时，自动发送预热请求刷新提示缓存。实测约 185 次本地会话中，缓存过期导致的重新编码占账单约 22%。工具以 uvx 运行，支持自定义空闲阈值和预热间隔。",
+          "summary_ja": "Claude-thermos は、ローカル リバース プロキシを通じて Claude Code セッションを監視し、メイン エージェントが子エージェントを待って 5 分以上アイドル状態になると、プロンプト キャッシュを更新するためのウォームアップ リクエストを自動的に送信します。約 185 のローカル セッションの実測では、キャッシュ期限切れによる再コーディングが請求額の約 22% を占めていました。このツールは uvx で実行され、カスタムのアイドルしきい値とウォームアップ間隔をサポートします。",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/izeigerman/claude-thermos",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T09:47:29.601000Z"
+        },
+        {
+          "id": "ac54013370dcbcd288acd2bb35928d408174a926",
+          "title": "Show HN: Claude-thermos 能为您保持 Claude 会话的热度",
+          "title_zh": "Show HN: Claude-thermos 能为您保持 Claude 会话的热度",
+          "title_ja": "Show HN: クロードサーモスはクロードセッションを熱く保ちます",
+          "title_en": null,
+          "title_original": "Show HN: Claude-thermos 能为您保持 Claude 会话的热度",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/izeigerman/claude-thermos",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-24T09:47:29.601000Z"
+        },
+        {
+          "id": "7a521493088ae324b98f515f600855b1e0c43814",
+          "title": "Show HN：Claude-thermos – 让您的 Claude 疗程保持温暖 / Show HN: Claude-thermos – keeps your Claude session warm for you",
+          "title_zh": "Show HN：Claude-thermos – 让您的 Claude 疗程保持温暖",
+          "title_ja": null,
+          "title_en": "Show HN: Claude-thermos – keeps your Claude session warm for you",
+          "title_original": "Show HN: Claude-thermos – keeps your Claude session warm for you",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49024882",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-23T18:20:12.130000Z"
+        },
+        {
+          "id": "86dc4382a1ab15f6da95288b51b80fc774cf6689",
+          "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用 / Show HN: Claude-thermos keeps your Claude session warm for you",
+          "title_zh": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
+          "title_ja": "Show HN: クロードサーモスはクロードセッションを暖かく保ちます",
+          "title_en": "Show HN: Claude-thermos keeps your Claude session warm for you",
+          "title_original": "Show HN: Claude-thermos keeps your Claude session warm for you",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/izeigerman/claude-thermos",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-23T17:06:22Z"
+        },
+        {
+          "id": "e841a661bcc2dcc49d0a9913428ea0c0737b204d",
+          "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用 / Show HN: Claude-thermos – keeps your Claude session warm for you",
+          "title_zh": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
+          "title_ja": null,
+          "title_en": "Show HN: Claude-thermos – keeps your Claude session warm for you",
+          "title_original": "Show HN: Claude-thermos – keeps your Claude session warm for you",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/izeigerman/claude-thermos",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-23T17:06:22Z"
+        }
+      ],
+      "source_count": 5,
+      "source_names": [
+        "Hacker News",
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "github.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "b506f9f06b58edb7fdab55edf5c29946861094d1",
+          "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
+          "title_zh": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
+          "title_ja": "Claude-thermos: クロード セッション キャッシュをホットに保ち、再エンコードのコストを回避します。",
+          "title_en": null,
+          "title_original": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
+          "summary": "Claude-thermos 通过本地反向代理监控 Claude Code 会话，在主智能体因等待子智能体而空闲超过 5 分钟时，自动发送预热请求刷新提示缓存。实测约 185 次本地会话中，缓存过期导致的重新编码占账单约 22%。工具以 uvx 运行，支持自定义空闲阈值和预热间隔。",
+          "summary_ja": "Claude-thermos は、ローカル リバース プロキシを通じて Claude Code セッションを監視し、メイン エージェントが子エージェントを待って 5 分以上アイドル状態になると、プロンプト キャッシュを更新するためのウォームアップ リクエストを自動的に送信します。約 185 のローカル セッションの実測では、キャッシュ期限切れによる再コーディングが請求額の約 22% を占めていました。このツールは uvx で実行され、カスタムのアイドルしきい値とウォームアップ間隔をサポートします。",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/izeigerman/claude-thermos",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T09:47:29.601000Z"
+        },
+        {
+          "id": "ac54013370dcbcd288acd2bb35928d408174a926",
+          "title": "Show HN: Claude-thermos 能为您保持 Claude 会话的热度",
+          "title_zh": "Show HN: Claude-thermos 能为您保持 Claude 会话的热度",
+          "title_ja": "Show HN: クロードサーモスはクロードセッションを熱く保ちます",
+          "title_en": null,
+          "title_original": "Show HN: Claude-thermos 能为您保持 Claude 会话的热度",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/izeigerman/claude-thermos",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-24T09:47:29.601000Z"
+        },
+        {
+          "id": "7a521493088ae324b98f515f600855b1e0c43814",
+          "title": "Show HN：Claude-thermos – 让您的 Claude 疗程保持温暖 / Show HN: Claude-thermos – keeps your Claude session warm for you",
+          "title_zh": "Show HN：Claude-thermos – 让您的 Claude 疗程保持温暖",
+          "title_ja": null,
+          "title_en": "Show HN: Claude-thermos – keeps your Claude session warm for you",
+          "title_original": "Show HN: Claude-thermos – keeps your Claude session warm for you",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49024882",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-23T18:20:12.130000Z"
+        },
+        {
+          "id": "86dc4382a1ab15f6da95288b51b80fc774cf6689",
+          "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用 / Show HN: Claude-thermos keeps your Claude session warm for you",
+          "title_zh": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
+          "title_ja": "Show HN: クロードサーモスはクロードセッションを暖かく保ちます",
+          "title_en": "Show HN: Claude-thermos keeps your Claude session warm for you",
+          "title_original": "Show HN: Claude-thermos keeps your Claude session warm for you",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/izeigerman/claude-thermos",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-23T17:06:22Z"
+        },
+        {
+          "id": "e841a661bcc2dcc49d0a9913428ea0c0737b204d",
+          "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用 / Show HN: Claude-thermos – keeps your Claude session warm for you",
+          "title_zh": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
+          "title_ja": null,
+          "title_en": "Show HN: Claude-thermos – keeps your Claude session warm for you",
+          "title_original": "Show HN: Claude-thermos – keeps your Claude session warm for you",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/izeigerman/claude-thermos",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-23T17:06:22Z"
+        }
+      ],
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.8821,
+      "importance": 0.8821,
+      "importance_score": 0.8821,
+      "importance_label": "多源热议",
+      "importance_label_ja": "複数ソースで話題",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.964,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-23T17:06:22Z",
+      "latest_at": "2026-07-24T09:47:29.601000Z",
+      "primary_item": {
+        "id": "b506f9f06b58edb7fdab55edf5c29946861094d1",
+        "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
+        "title_zh": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
+        "title_ja": "Claude-thermos: クロード セッション キャッシュをホットに保ち、再エンコードのコストを回避します。",
+        "title_en": null,
+        "title_original": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
+        "summary": "Claude-thermos 通过本地反向代理监控 Claude Code 会话，在主智能体因等待子智能体而空闲超过 5 分钟时，自动发送预热请求刷新提示缓存。实测约 185 次本地会话中，缓存过期导致的重新编码占账单约 22%。工具以 uvx 运行，支持自定义空闲阈值和预热间隔。",
+        "summary_ja": "Claude-thermos は、ローカル リバース プロキシを通じて Claude Code セッションを監視し、メイン エージェントが子エージェントを待って 5 分以上アイドル状態になると、プロンプト キャッシュを更新するためのウォームアップ リクエストを自動的に送信します。約 185 のローカル セッションの実測では、キャッシュ期限切れによる再コーディングが請求額の約 22% を占めていました。このツールは uvx で実行され、カスタムのアイドルしきい値とウォームアップ間隔をサポートします。",
+        "recommend_reason_zh": null,
+        "url": "https://github.com/izeigerman/claude-thermos",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-24T12:21:17.237371Z"
+      }
+    },
+    {
       "story_id": "story_542d81ae471d",
       "title": "Linear 的 Copilot 云代理现已全面上市 / Copilot cloud agent for Linear is now generally available",
-      "title_ja": null,
+      "title_ja": "Linear 用の Copilot クラウド エージェントが一般提供になりました",
       "url": "https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available",
       "primary_url": "https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available",
       "source": "GitHub Changelog",
@@ -16,7 +239,7 @@
           "id": "09274412181224c288c30c79cc8cd092e8a6df03",
           "title": "Linear 的 Copilot 云代理现已全面上市 / Copilot cloud agent for Linear is now generally available",
           "title_zh": "Linear 的 Copilot 云代理现已全面上市",
-          "title_ja": null,
+          "title_ja": "Linear 用の Copilot クラウド エージェントが一般提供になりました",
           "title_en": "Copilot cloud agent for Linear is now generally available",
           "title_original": "Copilot cloud agent for Linear is now generally available",
           "summary": null,
@@ -38,7 +261,7 @@
           "id": "09274412181224c288c30c79cc8cd092e8a6df03",
           "title": "Linear 的 Copilot 云代理现已全面上市 / Copilot cloud agent for Linear is now generally available",
           "title_zh": "Linear 的 Copilot 云代理现已全面上市",
-          "title_ja": null,
+          "title_ja": "Linear 用の Copilot クラウド エージェントが一般提供になりました",
           "title_en": "Copilot cloud agent for Linear is now generally available",
           "title_original": "Copilot cloud agent for Linear is now generally available",
           "summary": null,
@@ -53,16 +276,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.831,
-      "importance": 0.831,
-      "importance_score": 0.831,
+      "score": 0.8255,
+      "importance": 0.8255,
+      "importance_score": 0.8255,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.8498,
+        "recency": 0.8194,
         "story_heat": 0.0
       },
       "category": "official",
@@ -77,7 +300,7 @@
         "id": "09274412181224c288c30c79cc8cd092e8a6df03",
         "title": "Linear 的 Copilot 云代理现已全面上市 / Copilot cloud agent for Linear is now generally available",
         "title_zh": "Linear 的 Copilot 云代理现已全面上市",
-        "title_ja": null,
+        "title_ja": "Linear 用の Copilot クラウド エージェントが一般提供になりました",
         "title_en": "Copilot cloud agent for Linear is now generally available",
         "title_original": "Copilot cloud agent for Linear is now generally available",
         "summary": null,
@@ -91,13 +314,228 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T09:53:15.813291Z"
+        "scored_at": "2026-07-24T12:21:17.237371Z"
+      }
+    },
+    {
+      "story_id": "story_11ed83f3e906",
+      "title": "GitHub Mobile：使用 Copilot 云代理修复失败的 Actions 检查 / GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
+      "title_ja": null,
+      "url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
+      "primary_url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "0fe8e8b29bf9368b8e1021c43f95e06837eaf73d",
+          "title": "GitHub Mobile：使用 Copilot 云代理修复失败的 Actions 检查 / GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
+          "title_zh": "GitHub Mobile：使用 Copilot 云代理修复失败的 Actions 检查",
+          "title_ja": null,
+          "title_en": "GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
+          "title_original": "GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-23T19:47:58Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "0fe8e8b29bf9368b8e1021c43f95e06837eaf73d",
+          "title": "GitHub Mobile：使用 Copilot 云代理修复失败的 Actions 检查 / GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
+          "title_zh": "GitHub Mobile：使用 Copilot 云代理修复失败的 Actions 检查",
+          "title_ja": null,
+          "title_en": "GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
+          "title_original": "GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-23T19:47:58Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8198,
+      "importance": 0.8198,
+      "importance_score": 0.8198,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.94,
+        "recency": 0.7876,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-23T19:47:58Z",
+      "latest_at": "2026-07-23T19:47:58Z",
+      "primary_item": {
+        "id": "0fe8e8b29bf9368b8e1021c43f95e06837eaf73d",
+        "title": "GitHub Mobile：使用 Copilot 云代理修复失败的 Actions 检查 / GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
+        "title_zh": "GitHub Mobile：使用 Copilot 云代理修复失败的 Actions 检查",
+        "title_ja": null,
+        "title_en": "GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
+        "title_original": "GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-24T12:21:17.237371Z"
+      }
+    },
+    {
+      "story_id": "story_c64ef4eed3f2",
+      "title": "Kimi K3 在网络安全漏洞利用测试中大幅落后美国前沿模型，知识蒸馏或为原因 / Kimi K3 trails frontier US models by a wide margin on cyber exploits， and distillation may explain why",
+      "title_ja": "キミ K3 はサイバー攻撃に関して最先端の米国モデルに大差をつけているが、その理由は蒸留によって説明できるかもしれない",
+      "url": "https://the-decoder.com/kimi-k3-trails-frontier-us-models-by-a-wide-margin-on-cyber-exploits-and-distillation-may-explain-why",
+      "primary_url": "https://the-decoder.com/kimi-k3-trails-frontier-us-models-by-a-wide-margin-on-cyber-exploits-and-distillation-may-explain-why",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "722d6426546a0d39a3d3bead58ca13fc3915bff9",
+          "title": "Kimi K3 在网络安全漏洞利用测试中大幅落后美国前沿模型，知识蒸馏或为原因 / Kimi K3 trails frontier US models by a wide margin on cyber exploits， and distillation may explain why",
+          "title_zh": "Kimi K3 在网络安全漏洞利用测试中大幅落后美国前沿模型，知识蒸馏或为原因",
+          "title_ja": "キミ K3 はサイバー攻撃に関して最先端の米国モデルに大差をつけているが、その理由は蒸留によって説明できるかもしれない",
+          "title_en": "Kimi K3 trails frontier US models by a wide margin on cyber exploits， and distillation may explain why",
+          "title_original": "Kimi K3 trails frontier US models by a wide margin on cyber exploits， and distillation may explain why",
+          "summary": "英国AI安全研究所与美国AI标准与创新中心联合评估显示，月之暗面的Kimi K3在ExploitBench基准上得分32.2%，远低于美国领先模型的76.2%，但优于智谱GLM-5.2的24.4%。",
+          "summary_ja": "英国 AI セキュリティ研究所と米国 AI 標準イノベーション センターによる共同評価によると、Dark Side of the Moon の Kim K3 は ExploitBench ベンチマークで 32.2% のスコアを記録しました。これは、米国の主要モデルの 76.2% よりははるかに低いですが、GLM-5.2 の 24.4% よりは優れています。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/kimi-k3-trails-frontier-us-models-by-a-wide-margin-on-cyber-exploits-and-distillation-may-explain-why",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T09:48:32Z"
+        },
+        {
+          "id": "c25b286ba4b4b718a1db39c9eb9d736205ecab88",
+          "title": "Kimi K3 在网络安全漏洞利用测试中大幅落后美国前沿模型，知识蒸馏或为原因 / Kimi K3 trails frontier US models by a wide margin on cyber exploits, and distillation may explain why",
+          "title_zh": "Kimi K3 在网络安全漏洞利用测试中大幅落后美国前沿模型，知识蒸馏或为原因",
+          "title_ja": "キミ K3 はサイバー攻撃に関して最先端の米国モデルに大差をつけているが、その理由は蒸留によって説明できるかもしれない",
+          "title_en": "Kimi K3 trails frontier US models by a wide margin on cyber exploits, and distillation may explain why",
+          "title_original": "Kimi K3 trails frontier US models by a wide margin on cyber exploits, and distillation may explain why",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/kimi-k3-trails-frontier-us-models-by-a-wide-margin-on-cyber-exploits-and-distillation-may-explain-why",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-24T09:48:32Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "722d6426546a0d39a3d3bead58ca13fc3915bff9",
+          "title": "Kimi K3 在网络安全漏洞利用测试中大幅落后美国前沿模型，知识蒸馏或为原因 / Kimi K3 trails frontier US models by a wide margin on cyber exploits， and distillation may explain why",
+          "title_zh": "Kimi K3 在网络安全漏洞利用测试中大幅落后美国前沿模型，知识蒸馏或为原因",
+          "title_ja": "キミ K3 はサイバー攻撃に関して最先端の米国モデルに大差をつけているが、その理由は蒸留によって説明できるかもしれない",
+          "title_en": "Kimi K3 trails frontier US models by a wide margin on cyber exploits， and distillation may explain why",
+          "title_original": "Kimi K3 trails frontier US models by a wide margin on cyber exploits， and distillation may explain why",
+          "summary": "英国AI安全研究所与美国AI标准与创新中心联合评估显示，月之暗面的Kimi K3在ExploitBench基准上得分32.2%，远低于美国领先模型的76.2%，但优于智谱GLM-5.2的24.4%。",
+          "summary_ja": "英国 AI セキュリティ研究所と米国 AI 標準イノベーション センターによる共同評価によると、Dark Side of the Moon の Kim K3 は ExploitBench ベンチマークで 32.2% のスコアを記録しました。これは、米国の主要モデルの 76.2% よりははるかに低いですが、GLM-5.2 の 24.4% よりは優れています。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/kimi-k3-trails-frontier-us-models-by-a-wide-margin-on-cyber-exploits-and-distillation-may-explain-why",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T09:48:32Z"
+        },
+        {
+          "id": "c25b286ba4b4b718a1db39c9eb9d736205ecab88",
+          "title": "Kimi K3 在网络安全漏洞利用测试中大幅落后美国前沿模型，知识蒸馏或为原因 / Kimi K3 trails frontier US models by a wide margin on cyber exploits, and distillation may explain why",
+          "title_zh": "Kimi K3 在网络安全漏洞利用测试中大幅落后美国前沿模型，知识蒸馏或为原因",
+          "title_ja": "キミ K3 はサイバー攻撃に関して最先端の米国モデルに大差をつけているが、その理由は蒸留によって説明できるかもしれない",
+          "title_en": "Kimi K3 trails frontier US models by a wide margin on cyber exploits, and distillation may explain why",
+          "title_original": "Kimi K3 trails frontier US models by a wide margin on cyber exploits, and distillation may explain why",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/kimi-k3-trails-frontier-us-models-by-a-wide-margin-on-cyber-exploits-and-distillation-may-explain-why",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-24T09:48:32Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7892,
+      "importance": 0.7892,
+      "importance_score": 0.7892,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9642,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-24T09:48:32Z",
+      "latest_at": "2026-07-24T09:48:32Z",
+      "primary_item": {
+        "id": "722d6426546a0d39a3d3bead58ca13fc3915bff9",
+        "title": "Kimi K3 在网络安全漏洞利用测试中大幅落后美国前沿模型，知识蒸馏或为原因 / Kimi K3 trails frontier US models by a wide margin on cyber exploits， and distillation may explain why",
+        "title_zh": "Kimi K3 在网络安全漏洞利用测试中大幅落后美国前沿模型，知识蒸馏或为原因",
+        "title_ja": "キミ K3 はサイバー攻撃に関して最先端の米国モデルに大差をつけているが、その理由は蒸留によって説明できるかもしれない",
+        "title_en": "Kimi K3 trails frontier US models by a wide margin on cyber exploits， and distillation may explain why",
+        "title_original": "Kimi K3 trails frontier US models by a wide margin on cyber exploits， and distillation may explain why",
+        "summary": "英国AI安全研究所与美国AI标准与创新中心联合评估显示，月之暗面的Kimi K3在ExploitBench基准上得分32.2%，远低于美国领先模型的76.2%，但优于智谱GLM-5.2的24.4%。",
+        "summary_ja": "英国 AI セキュリティ研究所と米国 AI 標準イノベーション センターによる共同評価によると、Dark Side of the Moon の Kim K3 は ExploitBench ベンチマークで 32.2% のスコアを記録しました。これは、米国の主要モデルの 76.2% よりははるかに低いですが、GLM-5.2 の 24.4% よりは優れています。",
+        "recommend_reason_zh": null,
+        "url": "https://the-decoder.com/kimi-k3-trails-frontier-us-models-by-a-wide-margin-on-cyber-exploits-and-distillation-may-explain-why",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-24T12:21:17.237371Z"
       }
     },
     {
       "story_id": "story_bfadc5abab8d",
       "title": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
-      "title_ja": null,
+      "title_ja": "DARPAと米空軍、AI制御のF-16戦闘機の試験飛行",
       "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
       "primary_url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
       "source": "Hacker News 热门（buzzing.cc 中文翻译）",
@@ -107,7 +545,7 @@
           "id": "ddab2ff28daf418d5d3d1338bdc51af6492938b2",
           "title": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
           "title_zh": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
-          "title_ja": null,
+          "title_ja": "DARPAと米空軍、AI制御のF-16戦闘機の試験飛行",
           "title_en": null,
           "title_original": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
           "summary": "DARPA 与美国空军成功试飞了由人工智能操控的 F-16 战机。该 AI 系统在真实空战环境中完成了自主飞行与战术机动测试，标志着 AI 在军事航空领域的重大进展。",
@@ -180,7 +618,7 @@
           "id": "ddab2ff28daf418d5d3d1338bdc51af6492938b2",
           "title": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
           "title_zh": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
-          "title_ja": null,
+          "title_ja": "DARPAと米空軍、AI制御のF-16戦闘機の試験飛行",
           "title_en": null,
           "title_original": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
           "summary": "DARPA 与美国空军成功试飞了由人工智能操控的 F-16 战机。该 AI 系统在真实空战环境中完成了自主飞行与战术机动测试，标志着 AI 在军事航空领域的重大进展。",
@@ -243,16 +681,16 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8135,
-      "importance": 0.8135,
-      "importance_score": 0.8135,
+      "score": 0.8082,
+      "importance": 0.8082,
+      "importance_score": 0.8082,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8214,
+        "recency": 0.7921,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -267,7 +705,7 @@
         "id": "ddab2ff28daf418d5d3d1338bdc51af6492938b2",
         "title": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
         "title_zh": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
-        "title_ja": null,
+        "title_ja": "DARPAと米空軍、AI制御のF-16戦闘機の試験飛行",
         "title_en": null,
         "title_original": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
         "summary": "DARPA 与美国空军成功试飞了由人工智能操控的 F-16 战机。该 AI 系统在真实空战环境中完成了自主飞行与战术机动测试，标志着 AI 在军事航空领域的重大进展。",
@@ -281,124 +719,33 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T09:53:15.813291Z"
+        "scored_at": "2026-07-24T12:21:17.237371Z"
       }
     },
     {
-      "story_id": "story_11ed83f3e906",
-      "title": "GitHub Mobile：使用 Copilot 云代理修复失败的 Actions 检查 / GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
-      "title_ja": null,
-      "url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
-      "primary_url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "0fe8e8b29bf9368b8e1021c43f95e06837eaf73d",
-          "title": "GitHub Mobile：使用 Copilot 云代理修复失败的 Actions 检查 / GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
-          "title_zh": "GitHub Mobile：使用 Copilot 云代理修复失败的 Actions 检查",
-          "title_ja": null,
-          "title_en": "GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
-          "title_original": "GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-23T19:47:58Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "0fe8e8b29bf9368b8e1021c43f95e06837eaf73d",
-          "title": "GitHub Mobile：使用 Copilot 云代理修复失败的 Actions 检查 / GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
-          "title_zh": "GitHub Mobile：使用 Copilot 云代理修复失败的 Actions 检查",
-          "title_ja": null,
-          "title_en": "GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
-          "title_original": "GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-23T19:47:58Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.825,
-      "importance": 0.825,
-      "importance_score": 0.825,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.8168,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-23T19:47:58Z",
-      "latest_at": "2026-07-23T19:47:58Z",
-      "primary_item": {
-        "id": "0fe8e8b29bf9368b8e1021c43f95e06837eaf73d",
-        "title": "GitHub Mobile：使用 Copilot 云代理修复失败的 Actions 检查 / GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
-        "title_zh": "GitHub Mobile：使用 Copilot 云代理修复失败的 Actions 检查",
-        "title_ja": null,
-        "title_en": "GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
-        "title_original": "GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-24T09:53:15.813291Z"
-      }
-    },
-    {
-      "story_id": "story_8f786c0e22cb",
-      "title": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
-      "title_ja": "紅果短編ドラマがAIキャラクターの仕様を公開、「高頻度AI顔」とマテリアル侵害の修正に特化",
-      "url": "https://www.aibase.com/news/29879",
-      "primary_url": "https://www.aibase.com/news/29879",
+      "story_id": "story_29cdb0f6765b",
+      "title": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
+      "title_ja": "キミ K3 の攻撃的および防御的テストペーパーが覆された: 脆弱性は米国の最先端モデルの 40% でのみ悪用され、蒸留の疑いが治安当局によって提起された",
+      "url": "https://www.aibase.com/news/29881",
+      "primary_url": "https://www.aibase.com/news/29881",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "73f202821fdad56b7559a6d316da467d75b4e508",
-          "title": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
-          "title_zh": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
-          "title_ja": "紅果短編ドラマがAIキャラクターの仕様を公開、「高頻度AI顔」とマテリアル侵害の修正に特化",
+          "id": "a3404a9d2a7b48d96b1c4c0e8850bc3d474446e5",
+          "title": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
+          "title_zh": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
+          "title_ja": "キミ K3 の攻撃的および防御的テストペーパーが覆された: 脆弱性は米国の最先端モデルの 40% でのみ悪用され、蒸留の疑いが治安当局によって提起された",
           "title_en": null,
-          "title_original": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
+          "title_original": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29879",
+          "url": "https://www.aibase.com/news/29881",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-24T09:48:46.950310Z"
+          "published_at": "2026-07-24T12:19:56.244931Z"
         }
       ],
       "source_count": 1,
@@ -407,20 +754,20 @@
       ],
       "items": [
         {
-          "id": "73f202821fdad56b7559a6d316da467d75b4e508",
-          "title": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
-          "title_zh": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
-          "title_ja": "紅果短編ドラマがAIキャラクターの仕様を公開、「高頻度AI顔」とマテリアル侵害の修正に特化",
+          "id": "a3404a9d2a7b48d96b1c4c0e8850bc3d474446e5",
+          "title": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
+          "title_zh": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
+          "title_ja": "キミ K3 の攻撃的および防御的テストペーパーが覆された: 脆弱性は米国の最先端モデルの 40% でのみ悪用され、蒸留の疑いが治安当局によって提起された",
           "title_en": null,
-          "title_original": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
+          "title_original": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29879",
+          "url": "https://www.aibase.com/news/29881",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-24T09:48:46.950310Z"
+          "published_at": "2026-07-24T12:19:56.244931Z"
         }
       ],
       "item_count": 1,
@@ -442,19 +789,19 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-24T09:48:46.950310Z",
-      "latest_at": "2026-07-24T09:48:46.950310Z",
+      "earliest_at": "2026-07-24T12:19:56.244931Z",
+      "latest_at": "2026-07-24T12:19:56.244931Z",
       "primary_item": {
-        "id": "73f202821fdad56b7559a6d316da467d75b4e508",
-        "title": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
-        "title_zh": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
-        "title_ja": "紅果短編ドラマがAIキャラクターの仕様を公開、「高頻度AI顔」とマテリアル侵害の修正に特化",
+        "id": "a3404a9d2a7b48d96b1c4c0e8850bc3d474446e5",
+        "title": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
+        "title_zh": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
+        "title_ja": "キミ K3 の攻撃的および防御的テストペーパーが覆された: 脆弱性は米国の最先端モデルの 40% でのみ悪用され、蒸留の疑いが治安当局によって提起された",
         "title_en": null,
-        "title_original": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
+        "title_original": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
         "summary": null,
         "summary_ja": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/29879",
+        "url": "https://www.aibase.com/news/29881",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -462,7 +809,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T09:53:15.813291Z"
+        "scored_at": "2026-07-24T12:21:17.237371Z"
       }
     },
     {
@@ -515,16 +862,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7629,
-      "importance": 0.7629,
-      "importance_score": 0.7629,
+      "score": 0.7568,
+      "importance": 0.7568,
+      "importance_score": 0.7568,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9574,
+        "recency": 0.9232,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -552,13 +899,13 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T09:53:15.813291Z"
+        "scored_at": "2026-07-24T12:21:17.237371Z"
       }
     },
     {
       "story_id": "story_1950d49db06a",
       "title": "GitHub MCP 服务器支持下一个 MCP 规范 / GitHub MCP Server supports the next MCP specification",
-      "title_ja": null,
+      "title_ja": "GitHub MCP サーバーは次の MCP 仕様をサポートします",
       "url": "https://github.blog/changelog/2026-07-23-github-mcp-server-supports-the-next-mcp-specification",
       "primary_url": "https://github.blog/changelog/2026-07-23-github-mcp-server-supports-the-next-mcp-specification",
       "source": "GitHub Changelog",
@@ -568,7 +915,7 @@
           "id": "08cfb2e1c50fdd903761c005e5754fb3541ba641",
           "title": "GitHub MCP 服务器支持下一个 MCP 规范 / GitHub MCP Server supports the next MCP specification",
           "title_zh": "GitHub MCP 服务器支持下一个 MCP 规范",
-          "title_ja": null,
+          "title_ja": "GitHub MCP サーバーは次の MCP 仕様をサポートします",
           "title_en": "GitHub MCP Server supports the next MCP specification",
           "title_original": "GitHub MCP Server supports the next MCP specification",
           "summary": null,
@@ -590,7 +937,7 @@
           "id": "08cfb2e1c50fdd903761c005e5754fb3541ba641",
           "title": "GitHub MCP 服务器支持下一个 MCP 规范 / GitHub MCP Server supports the next MCP specification",
           "title_zh": "GitHub MCP 服务器支持下一个 MCP 规范",
-          "title_ja": null,
+          "title_ja": "GitHub MCP サーバーは次の MCP 仕様をサポートします",
           "title_en": "GitHub MCP Server supports the next MCP specification",
           "title_original": "GitHub MCP Server supports the next MCP specification",
           "summary": null,
@@ -605,16 +952,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8208,
-      "importance": 0.8208,
-      "importance_score": 0.8208,
+      "score": 0.8155,
+      "importance": 0.8155,
+      "importance_score": 0.8155,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8268,
+        "recency": 0.7972,
         "story_heat": 0.0
       },
       "category": "official",
@@ -629,7 +976,7 @@
         "id": "08cfb2e1c50fdd903761c005e5754fb3541ba641",
         "title": "GitHub MCP 服务器支持下一个 MCP 规范 / GitHub MCP Server supports the next MCP specification",
         "title_zh": "GitHub MCP 服务器支持下一个 MCP 规范",
-        "title_ja": null,
+        "title_ja": "GitHub MCP サーバーは次の MCP 仕様をサポートします",
         "title_en": "GitHub MCP Server supports the next MCP specification",
         "title_original": "GitHub MCP Server supports the next MCP specification",
         "summary": null,
@@ -643,7 +990,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T09:53:15.813291Z"
+        "scored_at": "2026-07-24T12:21:17.237371Z"
       }
     },
     {
@@ -696,16 +1043,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7555,
-      "importance": 0.7555,
-      "importance_score": 0.7555,
+      "score": 0.7502,
+      "importance": 0.7502,
+      "importance_score": 0.7502,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8158,
+        "recency": 0.7867,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -733,7 +1080,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T09:53:15.813291Z"
+        "scored_at": "2026-07-24T12:21:17.237371Z"
       }
     },
     {
@@ -819,16 +1166,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7495,
-      "importance": 0.7495,
-      "importance_score": 0.7495,
+      "score": 0.7446,
+      "importance": 0.7446,
+      "importance_score": 0.7446,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7608,
+        "recency": 0.7336,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -856,7 +1203,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T09:53:15.813291Z"
+        "scored_at": "2026-07-24T12:21:17.237371Z"
       }
     },
     {
@@ -942,16 +1289,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7478,
-      "importance": 0.7478,
-      "importance_score": 0.7478,
+      "score": 0.743,
+      "importance": 0.743,
+      "importance_score": 0.743,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7512,
+        "recency": 0.7243,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -979,7 +1326,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T09:53:15.813291Z"
+        "scored_at": "2026-07-24T12:21:17.237371Z"
       }
     },
     {
@@ -1032,16 +1379,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7439,
-      "importance": 0.7439,
-      "importance_score": 0.7439,
+      "score": 0.7386,
+      "importance": 0.7386,
+      "importance_score": 0.7386,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8183,
+        "recency": 0.789,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1068,7 +1415,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T09:53:15.813291Z"
+        "scored_at": "2026-07-24T12:21:17.237371Z"
       }
     },
     {
@@ -1121,16 +1468,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.741,
-      "importance": 0.741,
-      "importance_score": 0.741,
+      "score": 0.7363,
+      "importance": 0.7363,
+      "importance_score": 0.7363,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7357,
+        "recency": 0.7094,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1157,29 +1504,29 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T09:53:15.813291Z"
+        "scored_at": "2026-07-24T12:21:17.237371Z"
       }
     },
     {
-      "story_id": "story_84ccf0281166",
-      "title": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
-      "title_ja": "Black Forest Laboratory の FLUX3 マルチモーダル モデルがデビュー: シングルショットで 20 秒のオーディオとビデオを生成し、Grok や Seedance を上回る勝率を実現",
-      "url": "https://www.aibase.com/news/29880",
-      "primary_url": "https://www.aibase.com/news/29880",
+      "story_id": "story_8f786c0e22cb",
+      "title": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
+      "title_ja": "紅果短編ドラマがAIキャラクターの仕様を公開、「高頻度AI顔」とマテリアル侵害の修正に特化",
+      "url": "https://www.aibase.com/news/29879",
+      "primary_url": "https://www.aibase.com/news/29879",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "704182d0f95c0ecb3a1cb4ae0128d765c9e7b34f",
-          "title": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
-          "title_zh": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
-          "title_ja": "Black Forest Laboratory の FLUX3 マルチモーダル モデルがデビュー: シングルショットで 20 秒のオーディオとビデオを生成し、Grok や Seedance を上回る勝率を実現",
+          "id": "73f202821fdad56b7559a6d316da467d75b4e508",
+          "title": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
+          "title_zh": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
+          "title_ja": "紅果短編ドラマがAIキャラクターの仕様を公開、「高頻度AI顔」とマテリアル侵害の修正に特化",
           "title_en": null,
-          "title_original": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
+          "title_original": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29880",
+          "url": "https://www.aibase.com/news/29879",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1192,16 +1539,16 @@
       ],
       "items": [
         {
-          "id": "704182d0f95c0ecb3a1cb4ae0128d765c9e7b34f",
-          "title": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
-          "title_zh": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
-          "title_ja": "Black Forest Laboratory の FLUX3 マルチモーダル モデルがデビュー: シングルショットで 20 秒のオーディオとビデオを生成し、Grok や Seedance を上回る勝率を実現",
+          "id": "73f202821fdad56b7559a6d316da467d75b4e508",
+          "title": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
+          "title_zh": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
+          "title_ja": "紅果短編ドラマがAIキャラクターの仕様を公開、「高頻度AI顔」とマテリアル侵害の修正に特化",
           "title_en": null,
-          "title_original": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
+          "title_original": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29880",
+          "url": "https://www.aibase.com/news/29879",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1210,16 +1557,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7612,
+      "importance": 0.7612,
+      "importance_score": 0.7612,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9643,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1230,16 +1577,16 @@
       "earliest_at": "2026-07-24T09:48:46.950310Z",
       "latest_at": "2026-07-24T09:48:46.950310Z",
       "primary_item": {
-        "id": "704182d0f95c0ecb3a1cb4ae0128d765c9e7b34f",
-        "title": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
-        "title_zh": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
-        "title_ja": "Black Forest Laboratory の FLUX3 マルチモーダル モデルがデビュー: シングルショットで 20 秒のオーディオとビデオを生成し、Grok や Seedance を上回る勝率を実現",
+        "id": "73f202821fdad56b7559a6d316da467d75b4e508",
+        "title": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
+        "title_zh": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
+        "title_ja": "紅果短編ドラマがAIキャラクターの仕様を公開、「高頻度AI顔」とマテリアル侵害の修正に特化",
         "title_en": null,
-        "title_original": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
+        "title_original": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
         "summary": null,
         "summary_ja": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/29880",
+        "url": "https://www.aibase.com/news/29879",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1247,13 +1594,13 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T09:53:15.813291Z"
+        "scored_at": "2026-07-24T12:21:17.237371Z"
       }
     },
     {
       "story_id": "story_8df1b0bf002d",
       "title": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
-      "title_ja": null,
+      "title_ja": "ChatGPTが治療を拒否したと信じて死にそうになったフロリダの男性、OpenAIとCEOのアルトマンを告訴",
       "url": "https://www.ithome.com/0/980/890.htm",
       "primary_url": "https://www.ithome.com/0/980/890.htm",
       "source": "IT之家（RSS）",
@@ -1263,7 +1610,7 @@
           "id": "8bc90c40a6536a690373cc42456b6735218b4d67",
           "title": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
           "title_zh": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
-          "title_ja": null,
+          "title_ja": "ChatGPTが治療を拒否したと信じて死にそうになったフロリダの男性、OpenAIとCEOのアルトマンを告訴",
           "title_en": null,
           "title_original": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
           "summary": "美国佛罗里达州 55 岁男子 Scott Winters 起诉 OpenAI，称 ChatGPT-4o 多次建议其无需就医，导致其因双肺血栓引发大面积肺栓塞，一度濒临死亡。诉状指控 OpenAI 存在疏忽和\"无证行医\"行为，要求经济赔偿并暂停 ChatGPT Health 服务。OpenAI 回应称 ChatGPT 不是医生，不应替代专业医疗护理。",
@@ -1285,7 +1632,7 @@
           "id": "8bc90c40a6536a690373cc42456b6735218b4d67",
           "title": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
           "title_zh": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
-          "title_ja": null,
+          "title_ja": "ChatGPTが治療を拒否したと信じて死にそうになったフロリダの男性、OpenAIとCEOのアルトマンを告訴",
           "title_en": null,
           "title_original": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
           "summary": "美国佛罗里达州 55 岁男子 Scott Winters 起诉 OpenAI，称 ChatGPT-4o 多次建议其无需就医，导致其因双肺血栓引发大面积肺栓塞，一度濒临死亡。诉状指控 OpenAI 存在疏忽和\"无证行医\"行为，要求经济赔偿并暂停 ChatGPT Health 服务。OpenAI 回应称 ChatGPT 不是医生，不应替代专业医疗护理。",
@@ -1300,16 +1647,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7577,
-      "importance": 0.7577,
-      "importance_score": 0.7577,
+      "score": 0.7522,
+      "importance": 0.7522,
+      "importance_score": 0.7522,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8618,
+        "recency": 0.831,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1323,7 +1670,7 @@
         "id": "8bc90c40a6536a690373cc42456b6735218b4d67",
         "title": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
         "title_zh": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
-        "title_ja": null,
+        "title_ja": "ChatGPTが治療を拒否したと信じて死にそうになったフロリダの男性、OpenAIとCEOのアルトマンを告訴",
         "title_en": null,
         "title_original": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
         "summary": "美国佛罗里达州 55 岁男子 Scott Winters 起诉 OpenAI，称 ChatGPT-4o 多次建议其无需就医，导致其因双肺血栓引发大面积肺栓塞，一度濒临死亡。诉状指控 OpenAI 存在疏忽和\"无证行医\"行为，要求经济赔偿并暂停 ChatGPT Health 服务。OpenAI 回应称 ChatGPT 不是医生，不应替代专业医疗护理。",
@@ -1337,185 +1684,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T09:53:15.813291Z"
-      }
-    },
-    {
-      "story_id": "story_79c2ff005240",
-      "title": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体 / One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
-      "title_ja": null,
-      "url": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes",
-      "primary_url": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "39ca60e336078bc560f5427e1deef672799be840",
-          "title": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体 / One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
-          "title_zh": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体",
-          "title_ja": null,
-          "title_en": "One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
-          "title_original": "One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
-          "summary": "安全公司 Zenity Labs 发现 OpenAI Workspace Agents 存在\"AgentForger\"漏洞，攻击者发送一个含恶意提示词的 ChatGPT 链接，即可在受害者账户下创建自主 AI 智能体。该智能体继承受害者身份和已授权应用权限，绕过安全审批，并设置每五分钟运行一次的定时任务，从攻击者邮箱获取指令执行。OpenAI 在四天内修复了该漏洞。",
-          "summary_ja": "セキュリティ企業のZenity Labsは、OpenAI Workspace Agentsに「AgentForger」の脆弱性があることを発見した。攻撃者は、悪意のあるプロンプトワードを含む ChatGPT リンクを送信することにより、被害者のアカウントで自律型 AI エージェントを作成できます。エージェントは、被害者の ID と承認されたアプリケーションのアクセス許可を継承し、セキュリティの承認をバイパスし、スケジュールされたタスクを 5 分ごとに実行するように設定し、攻撃者のメールボックスから実行の指示を取得します。 OpenAI は 4 日以内に脆弱性を修正しました。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T17:01:30Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "39ca60e336078bc560f5427e1deef672799be840",
-          "title": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体 / One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
-          "title_zh": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体",
-          "title_ja": null,
-          "title_en": "One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
-          "title_original": "One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
-          "summary": "安全公司 Zenity Labs 发现 OpenAI Workspace Agents 存在\"AgentForger\"漏洞，攻击者发送一个含恶意提示词的 ChatGPT 链接，即可在受害者账户下创建自主 AI 智能体。该智能体继承受害者身份和已授权应用权限，绕过安全审批，并设置每五分钟运行一次的定时任务，从攻击者邮箱获取指令执行。OpenAI 在四天内修复了该漏洞。",
-          "summary_ja": "セキュリティ企業のZenity Labsは、OpenAI Workspace Agentsに「AgentForger」の脆弱性があることを発見した。攻撃者は、悪意のあるプロンプトワードを含む ChatGPT リンクを送信することにより、被害者のアカウントで自律型 AI エージェントを作成できます。エージェントは、被害者の ID と承認されたアプリケーションのアクセス許可を継承し、セキュリティの承認をバイパスし、スケジュールされたタスクを 5 分ごとに実行するように設定し、攻撃者のメールボックスから実行の指示を取得します。 OpenAI は 4 日以内に脆弱性を修正しました。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T17:01:30Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7228,
-      "importance": 0.7228,
-      "importance_score": 0.7228,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7847,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-23T17:01:30Z",
-      "latest_at": "2026-07-23T17:01:30Z",
-      "primary_item": {
-        "id": "39ca60e336078bc560f5427e1deef672799be840",
-        "title": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体 / One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
-        "title_zh": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体",
-        "title_ja": null,
-        "title_en": "One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
-        "title_original": "One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
-        "summary": "安全公司 Zenity Labs 发现 OpenAI Workspace Agents 存在\"AgentForger\"漏洞，攻击者发送一个含恶意提示词的 ChatGPT 链接，即可在受害者账户下创建自主 AI 智能体。该智能体继承受害者身份和已授权应用权限，绕过安全审批，并设置每五分钟运行一次的定时任务，从攻击者邮箱获取指令执行。OpenAI 在四天内修复了该漏洞。",
-        "summary_ja": "セキュリティ企業のZenity Labsは、OpenAI Workspace Agentsに「AgentForger」の脆弱性があることを発見した。攻撃者は、悪意のあるプロンプトワードを含む ChatGPT リンクを送信することにより、被害者のアカウントで自律型 AI エージェントを作成できます。エージェントは、被害者の ID と承認されたアプリケーションのアクセス許可を継承し、セキュリティの承認をバイパスし、スケジュールされたタスクを 5 分ごとに実行するように設定し、攻撃者のメールボックスから実行の指示を取得します。 OpenAI は 4 日以内に脆弱性を修正しました。",
-        "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-24T09:53:15.813291Z"
-      }
-    },
-    {
-      "story_id": "story_8e78ef3b778a",
-      "title": "ChatGPT 向美国用户推出健康功能 / Launching Health in ChatGPT to U.S. users. 300 million people use ChatGPT each week for health quer…",
-      "title_ja": null,
-      "url": "https://x.com/gdb/status/2080351159638704615",
-      "primary_url": "https://x.com/gdb/status/2080351159638704615",
-      "source": "X：Greg Brockman (@gdb)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1e12c1d4ffe597b0ee121de37cd70ccb28dd59ef",
-          "title": "ChatGPT 向美国用户推出健康功能 / Launching Health in ChatGPT to U.S. users. 300 million people use ChatGPT each week for health quer…",
-          "title_zh": "ChatGPT 向美国用户推出健康功能",
-          "title_ja": null,
-          "title_en": "Launching Health in ChatGPT to U.S. users. 300 million people use ChatGPT each week for health quer…",
-          "title_original": "Launching Health in ChatGPT to U.S. users. 300 million people use ChatGPT each week for health quer…",
-          "summary": "OpenAI 宣布向美国用户推出 ChatGPT 健康功能，支持安全连接 Apple Health 及受支持的医疗记录。每周有 3 亿用户使用 ChatGPT 进行健康咨询，新功能可让 ChatGPT 理解个人健康上下文，追踪变化并提供更个性化的帮助。",
-          "summary_ja": "OpenAI は、ChatGPT 健康機能を米国ユーザーに展開し、Apple Health およびサポートされている医療記録への安全な接続を可能にすることを発表しました。毎週 3 億人のユーザーが ChatGPT を健康相談に使用しているため、新機能により ChatGPT は個人の健康状況を理解し、変化を追跡し、よりパーソナライズされたヘルプを提供できるようになります。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/gdb/status/2080351159638704615",
-          "source": "X：Greg Brockman (@gdb)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T17:55:42Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Greg Brockman (@gdb)"
-      ],
-      "items": [
-        {
-          "id": "1e12c1d4ffe597b0ee121de37cd70ccb28dd59ef",
-          "title": "ChatGPT 向美国用户推出健康功能 / Launching Health in ChatGPT to U.S. users. 300 million people use ChatGPT each week for health quer…",
-          "title_zh": "ChatGPT 向美国用户推出健康功能",
-          "title_ja": null,
-          "title_en": "Launching Health in ChatGPT to U.S. users. 300 million people use ChatGPT each week for health quer…",
-          "title_original": "Launching Health in ChatGPT to U.S. users. 300 million people use ChatGPT each week for health quer…",
-          "summary": "OpenAI 宣布向美国用户推出 ChatGPT 健康功能，支持安全连接 Apple Health 及受支持的医疗记录。每周有 3 亿用户使用 ChatGPT 进行健康咨询，新功能可让 ChatGPT 理解个人健康上下文，追踪变化并提供更个性化的帮助。",
-          "summary_ja": "OpenAI は、ChatGPT 健康機能を米国ユーザーに展開し、Apple Health およびサポートされている医療記録への安全な接続を可能にすることを発表しました。毎週 3 億人のユーザーが ChatGPT を健康相談に使用しているため、新機能により ChatGPT は個人の健康状況を理解し、変化を追跡し、よりパーソナライズされたヘルプを提供できるようになります。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/gdb/status/2080351159638704615",
-          "source": "X：Greg Brockman (@gdb)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T17:55:42Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7217,
-      "importance": 0.7217,
-      "importance_score": 0.7217,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.795,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-23T17:55:42Z",
-      "latest_at": "2026-07-23T17:55:42Z",
-      "primary_item": {
-        "id": "1e12c1d4ffe597b0ee121de37cd70ccb28dd59ef",
-        "title": "ChatGPT 向美国用户推出健康功能 / Launching Health in ChatGPT to U.S. users. 300 million people use ChatGPT each week for health quer…",
-        "title_zh": "ChatGPT 向美国用户推出健康功能",
-        "title_ja": null,
-        "title_en": "Launching Health in ChatGPT to U.S. users. 300 million people use ChatGPT each week for health quer…",
-        "title_original": "Launching Health in ChatGPT to U.S. users. 300 million people use ChatGPT each week for health quer…",
-        "summary": "OpenAI 宣布向美国用户推出 ChatGPT 健康功能，支持安全连接 Apple Health 及受支持的医疗记录。每周有 3 亿用户使用 ChatGPT 进行健康咨询，新功能可让 ChatGPT 理解个人健康上下文，追踪变化并提供更个性化的帮助。",
-        "summary_ja": "OpenAI は、ChatGPT 健康機能を米国ユーザーに展開し、Apple Health およびサポートされている医療記録への安全な接続を可能にすることを発表しました。毎週 3 億人のユーザーが ChatGPT を健康相談に使用しているため、新機能により ChatGPT は個人の健康状況を理解し、変化を追跡し、よりパーソナライズされたヘルプを提供できるようになります。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/gdb/status/2080351159638704615",
-        "source": "X：Greg Brockman (@gdb)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-24T09:53:15.813291Z"
+        "scored_at": "2026-07-24T12:21:17.237371Z"
       }
     },
     {
@@ -1568,16 +1737,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8079,
-      "importance": 0.8079,
-      "importance_score": 0.8079,
+      "score": 0.8028,
+      "importance": 0.8028,
+      "importance_score": 0.8028,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7995,
+        "recency": 0.771,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1606,122 +1775,33 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T09:53:15.813291Z"
+        "scored_at": "2026-07-24T12:21:17.237371Z"
       }
     },
     {
-      "story_id": "story_5024eb5536d2",
-      "title": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
-      "title_ja": null,
-      "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
-      "primary_url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d5cf8ad28a2fb89768aef8293251d6cb6142fa2f",
-          "title": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
-          "title_zh": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
-          "title_ja": null,
-          "title_en": null,
-          "title_original": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
-          "summary": "电影数据权威网站 The Numbers 于 2026 年 3 月 5 日突然下线，一周后仅以精简版恢复上线，历史图表、电影页面和 Report Builder 均被移除。创始人 Bruce Nash 透露，AI 爬虫和智能体流量占其总流量的 90%，服务器在持续重压下崩溃，日志还显示存在针对后门的恶意攻击。团队被迫放弃运行 30 年、包含 16 万源文件的旧系统，在新基础设施上重建网站。",
-          "summary_ja": "映画データの権威ある Web サイトである The Numbers は、2026 年 3 月 5 日に突然オフラインになり、1 週間後に過去のグラフ、映画ページ、レポート ビルダーが削除された合理化されたバージョンのみでオンラインに戻りました。創設者のブルース・ナッシュ氏は、AI クローラーとエージェントのトラフィックが総トラフィックの 90% を占めていたことを明らかにしました。サーバーは継続的な圧力によってクラッシュし、ログにはバックドアを標的とした悪意のある攻撃の存在も示されていました。チームは、160,000 のソース ファイルを含む 30 年前のシステムを放棄し、新しいインフラストラクチャ上にサイトを再構築することを余儀なくされました。",
-          "recommend_reason_zh": null,
-          "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T18:35:29.016000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "d5cf8ad28a2fb89768aef8293251d6cb6142fa2f",
-          "title": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
-          "title_zh": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
-          "title_ja": null,
-          "title_en": null,
-          "title_original": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
-          "summary": "电影数据权威网站 The Numbers 于 2026 年 3 月 5 日突然下线，一周后仅以精简版恢复上线，历史图表、电影页面和 Report Builder 均被移除。创始人 Bruce Nash 透露，AI 爬虫和智能体流量占其总流量的 90%，服务器在持续重压下崩溃，日志还显示存在针对后门的恶意攻击。团队被迫放弃运行 30 年、包含 16 万源文件的旧系统，在新基础设施上重建网站。",
-          "summary_ja": "映画データの権威ある Web サイトである The Numbers は、2026 年 3 月 5 日に突然オフラインになり、1 週間後に過去のグラフ、映画ページ、レポート ビルダーが削除された合理化されたバージョンのみでオンラインに戻りました。創設者のブルース・ナッシュ氏は、AI クローラーとエージェントのトラフィックが総トラフィックの 90% を占めていたことを明らかにしました。サーバーは継続的な圧力によってクラッシュし、ログにはバックドアを標的とした悪意のある攻撃の存在も示されていました。チームは、160,000 のソース ファイルを含む 30 年前のシステムを放棄し、新しいインフラストラクチャ上にサイトを再構築することを余儀なくされました。",
-          "recommend_reason_zh": null,
-          "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T18:35:29.016000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7411,
-      "importance": 0.7411,
-      "importance_score": 0.7411,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8027,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-23T18:35:29.016000Z",
-      "latest_at": "2026-07-23T18:35:29.016000Z",
-      "primary_item": {
-        "id": "d5cf8ad28a2fb89768aef8293251d6cb6142fa2f",
-        "title": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
-        "title_zh": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
-        "title_ja": null,
-        "title_en": null,
-        "title_original": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
-        "summary": "电影数据权威网站 The Numbers 于 2026 年 3 月 5 日突然下线，一周后仅以精简版恢复上线，历史图表、电影页面和 Report Builder 均被移除。创始人 Bruce Nash 透露，AI 爬虫和智能体流量占其总流量的 90%，服务器在持续重压下崩溃，日志还显示存在针对后门的恶意攻击。团队被迫放弃运行 30 年、包含 16 万源文件的旧系统，在新基础设施上重建网站。",
-        "summary_ja": "映画データの権威ある Web サイトである The Numbers は、2026 年 3 月 5 日に突然オフラインになり、1 週間後に過去のグラフ、映画ページ、レポート ビルダーが削除された合理化されたバージョンのみでオンラインに戻りました。創設者のブルース・ナッシュ氏は、AI クローラーとエージェントのトラフィックが総トラフィックの 90% を占めていたことを明らかにしました。サーバーは継続的な圧力によってクラッシュし、ログにはバックドアを標的とした悪意のある攻撃の存在も示されていました。チームは、160,000 のソース ファイルを含む 30 年前のシステムを放棄し、新しいインフラストラクチャ上にサイトを再構築することを余儀なくされました。",
-        "recommend_reason_zh": null,
-        "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-24T09:53:15.813291Z"
-      }
-    },
-    {
-      "story_id": "story_e8f0a452a534",
-      "title": "Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍",
-      "title_ja": "Google 第 2 四半期の設備投資は過去最高の 2 倍に増加: AI インフラストラクチャに 449 億ドルが費やされ、クラウド ビジネスの利益率はほぼ 2 倍になりました",
-      "url": "https://www.aibase.com/news/29870",
-      "primary_url": "https://www.aibase.com/news/29870",
+      "story_id": "story_84ccf0281166",
+      "title": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
+      "title_ja": "Black Forest Laboratory の FLUX3 マルチモーダル モデルがデビュー: シングルショットで 20 秒のオーディオとビデオを生成し、Grok や Seedance を上回る勝率を実現",
+      "url": "https://www.aibase.com/news/29880",
+      "primary_url": "https://www.aibase.com/news/29880",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "c585b7b5321a3a10cca7de27bbd36f5e698ce3af",
-          "title": "Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍",
-          "title_zh": "Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍",
-          "title_ja": "Google 第 2 四半期の設備投資は過去最高の 2 倍に増加: AI インフラストラクチャに 449 億ドルが費やされ、クラウド ビジネスの利益率はほぼ 2 倍になりました",
+          "id": "704182d0f95c0ecb3a1cb4ae0128d765c9e7b34f",
+          "title": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
+          "title_zh": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
+          "title_ja": "Black Forest Laboratory の FLUX3 マルチモーダル モデルがデビュー: シングルショットで 20 秒のオーディオとビデオを生成し、Grok や Seedance を上回る勝率を実現",
           "title_en": null,
-          "title_original": "Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍",
+          "title_original": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29870",
+          "url": "https://www.aibase.com/news/29880",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-24T09:32:48.965032Z"
+          "published_at": "2026-07-24T09:48:46.950310Z"
         }
       ],
       "source_count": 1,
@@ -1730,34 +1810,34 @@
       ],
       "items": [
         {
-          "id": "c585b7b5321a3a10cca7de27bbd36f5e698ce3af",
-          "title": "Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍",
-          "title_zh": "Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍",
-          "title_ja": "Google 第 2 四半期の設備投資は過去最高の 2 倍に増加: AI インフラストラクチャに 449 億ドルが費やされ、クラウド ビジネスの利益率はほぼ 2 倍になりました",
+          "id": "704182d0f95c0ecb3a1cb4ae0128d765c9e7b34f",
+          "title": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
+          "title_zh": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
+          "title_ja": "Black Forest Laboratory の FLUX3 マルチモーダル モデルがデビュー: シングルショットで 20 秒のオーディオとビデオを生成し、Grok や Seedance を上回る勝率を実現",
           "title_en": null,
-          "title_original": "Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍",
+          "title_original": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29870",
+          "url": "https://www.aibase.com/news/29880",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-24T09:32:48.965032Z"
+          "published_at": "2026-07-24T09:48:46.950310Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7669,
-      "importance": 0.7669,
-      "importance_score": 0.7669,
+      "score": 0.7612,
+      "importance": 0.7612,
+      "importance_score": 0.7612,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9962,
+        "recency": 0.9643,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1765,19 +1845,19 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-24T09:32:48.965032Z",
-      "latest_at": "2026-07-24T09:32:48.965032Z",
+      "earliest_at": "2026-07-24T09:48:46.950310Z",
+      "latest_at": "2026-07-24T09:48:46.950310Z",
       "primary_item": {
-        "id": "c585b7b5321a3a10cca7de27bbd36f5e698ce3af",
-        "title": "Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍",
-        "title_zh": "Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍",
-        "title_ja": "Google 第 2 四半期の設備投資は過去最高の 2 倍に増加: AI インフラストラクチャに 449 億ドルが費やされ、クラウド ビジネスの利益率はほぼ 2 倍になりました",
+        "id": "704182d0f95c0ecb3a1cb4ae0128d765c9e7b34f",
+        "title": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
+        "title_zh": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
+        "title_ja": "Black Forest Laboratory の FLUX3 マルチモーダル モデルがデビュー: シングルショットで 20 秒のオーディオとビデオを生成し、Grok や Seedance を上回る勝率を実現",
         "title_en": null,
-        "title_original": "Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍",
+        "title_original": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
         "summary": null,
         "summary_ja": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/29870",
+        "url": "https://www.aibase.com/news/29880",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1785,7 +1865,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T09:53:15.813291Z"
+        "scored_at": "2026-07-24T12:21:17.237371Z"
       }
     },
     {
@@ -1838,16 +1918,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8022,
-      "importance": 0.8022,
-      "importance_score": 0.8022,
+      "score": 0.7973,
+      "importance": 0.7973,
+      "importance_score": 0.7973,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7677,
+        "recency": 0.7403,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1876,29 +1956,118 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T09:53:15.813291Z"
+        "scored_at": "2026-07-24T12:21:17.237371Z"
       }
     },
     {
-      "story_id": "story_d7d984c2df20",
-      "title": "Runway推出Media Router：自动切换AI模型帮你省Token，创意验证到成片一条龙搞定",
-      "title_ja": "Runway が Media Router を発表: AI モデルを自動的に切り替えてトークンを節約し、クリエイティブの検証から映画の完成までのワンストップ プロセスを完了します",
-      "url": "https://www.aibase.com/news/29877",
-      "primary_url": "https://www.aibase.com/news/29877",
+      "story_id": "story_5024eb5536d2",
+      "title": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
+      "title_ja": null,
+      "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
+      "primary_url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d5cf8ad28a2fb89768aef8293251d6cb6142fa2f",
+          "title": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
+          "title_zh": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
+          "title_ja": null,
+          "title_en": null,
+          "title_original": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
+          "summary": "电影数据权威网站 The Numbers 于 2026 年 3 月 5 日突然下线，一周后仅以精简版恢复上线，历史图表、电影页面和 Report Builder 均被移除。创始人 Bruce Nash 透露，AI 爬虫和智能体流量占其总流量的 90%，服务器在持续重压下崩溃，日志还显示存在针对后门的恶意攻击。团队被迫放弃运行 30 年、包含 16 万源文件的旧系统，在新基础设施上重建网站。",
+          "summary_ja": "映画データの権威ある Web サイトである The Numbers は、2026 年 3 月 5 日に突然オフラインになり、1 週間後に過去のグラフ、映画ページ、レポート ビルダーが削除された合理化されたバージョンのみでオンラインに戻りました。創設者のブルース・ナッシュ氏は、AI クローラーとエージェントのトラフィックが総トラフィックの 90% を占めていたことを明らかにしました。サーバーは継続的な圧力によってクラッシュし、ログにはバックドアを標的とした悪意のある攻撃の存在も示されていました。チームは、160,000 のソース ファイルを含む 30 年前のシステムを放棄し、新しいインフラストラクチャ上にサイトを再構築することを余儀なくされました。",
+          "recommend_reason_zh": null,
+          "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T18:35:29.016000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "d5cf8ad28a2fb89768aef8293251d6cb6142fa2f",
+          "title": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
+          "title_zh": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
+          "title_ja": null,
+          "title_en": null,
+          "title_original": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
+          "summary": "电影数据权威网站 The Numbers 于 2026 年 3 月 5 日突然下线，一周后仅以精简版恢复上线，历史图表、电影页面和 Report Builder 均被移除。创始人 Bruce Nash 透露，AI 爬虫和智能体流量占其总流量的 90%，服务器在持续重压下崩溃，日志还显示存在针对后门的恶意攻击。团队被迫放弃运行 30 年、包含 16 万源文件的旧系统，在新基础设施上重建网站。",
+          "summary_ja": "映画データの権威ある Web サイトである The Numbers は、2026 年 3 月 5 日に突然オフラインになり、1 週間後に過去のグラフ、映画ページ、レポート ビルダーが削除された合理化されたバージョンのみでオンラインに戻りました。創設者のブルース・ナッシュ氏は、AI クローラーとエージェントのトラフィックが総トラフィックの 90% を占めていたことを明らかにしました。サーバーは継続的な圧力によってクラッシュし、ログにはバックドアを標的とした悪意のある攻撃の存在も示されていました。チームは、160,000 のソース ファイルを含む 30 年前のシステムを放棄し、新しいインフラストラクチャ上にサイトを再構築することを余儀なくされました。",
+          "recommend_reason_zh": null,
+          "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T18:35:29.016000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7359,
+      "importance": 0.7359,
+      "importance_score": 0.7359,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.774,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-23T18:35:29.016000Z",
+      "latest_at": "2026-07-23T18:35:29.016000Z",
+      "primary_item": {
+        "id": "d5cf8ad28a2fb89768aef8293251d6cb6142fa2f",
+        "title": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
+        "title_zh": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
+        "title_ja": null,
+        "title_en": null,
+        "title_original": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
+        "summary": "电影数据权威网站 The Numbers 于 2026 年 3 月 5 日突然下线，一周后仅以精简版恢复上线，历史图表、电影页面和 Report Builder 均被移除。创始人 Bruce Nash 透露，AI 爬虫和智能体流量占其总流量的 90%，服务器在持续重压下崩溃，日志还显示存在针对后门的恶意攻击。团队被迫放弃运行 30 年、包含 16 万源文件的旧系统，在新基础设施上重建网站。",
+        "summary_ja": "映画データの権威ある Web サイトである The Numbers は、2026 年 3 月 5 日に突然オフラインになり、1 週間後に過去のグラフ、映画ページ、レポート ビルダーが削除された合理化されたバージョンのみでオンラインに戻りました。創設者のブルース・ナッシュ氏は、AI クローラーとエージェントのトラフィックが総トラフィックの 90% を占めていたことを明らかにしました。サーバーは継続的な圧力によってクラッシュし、ログにはバックドアを標的とした悪意のある攻撃の存在も示されていました。チームは、160,000 のソース ファイルを含む 30 年前のシステムを放棄し、新しいインフラストラクチャ上にサイトを再構築することを余儀なくされました。",
+        "recommend_reason_zh": null,
+        "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-24T12:21:17.237371Z"
+      }
+    },
+    {
+      "story_id": "story_e8f0a452a534",
+      "title": "Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍",
+      "title_ja": "Google 第 2 四半期の設備投資は過去最高の 2 倍に増加: AI インフラストラクチャに 449 億ドルが費やされ、クラウド ビジネスの利益率はほぼ 2 倍になりました",
+      "url": "https://www.aibase.com/news/29870",
+      "primary_url": "https://www.aibase.com/news/29870",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "59cda7b7c747964fd514cc6ab0465d0d8a39c572",
-          "title": "Runway推出Media Router：自动切换AI模型帮你省Token，创意验证到成片一条龙搞定",
-          "title_zh": "Runway推出Media Router：自动切换AI模型帮你省Token，创意验证到成片一条龙搞定",
-          "title_ja": "Runway が Media Router を発表: AI モデルを自動的に切り替えてトークンを節約し、クリエイティブの検証から映画の完成までのワンストップ プロセスを完了します",
+          "id": "c585b7b5321a3a10cca7de27bbd36f5e698ce3af",
+          "title": "Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍",
+          "title_zh": "Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍",
+          "title_ja": "Google 第 2 四半期の設備投資は過去最高の 2 倍に増加: AI インフラストラクチャに 449 億ドルが費やされ、クラウド ビジネスの利益率はほぼ 2 倍になりました",
           "title_en": null,
-          "title_original": "Runway推出Media Router：自动切换AI模型帮你省Token，创意验证到成片一条龙搞定",
+          "title_original": "Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29877",
+          "url": "https://www.aibase.com/news/29870",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1911,16 +2080,16 @@
       ],
       "items": [
         {
-          "id": "59cda7b7c747964fd514cc6ab0465d0d8a39c572",
-          "title": "Runway推出Media Router：自动切换AI模型帮你省Token，创意验证到成片一条龙搞定",
-          "title_zh": "Runway推出Media Router：自动切换AI模型帮你省Token，创意验证到成片一条龙搞定",
-          "title_ja": "Runway が Media Router を発表: AI モデルを自動的に切り替えてトークンを節約し、クリエイティブの検証から映画の完成までのワンストップ プロセスを完了します",
+          "id": "c585b7b5321a3a10cca7de27bbd36f5e698ce3af",
+          "title": "Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍",
+          "title_zh": "Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍",
+          "title_ja": "Google 第 2 四半期の設備投資は過去最高の 2 倍に増加: AI インフラストラクチャに 449 億ドルが費やされ、クラウド ビジネスの利益率はほぼ 2 倍になりました",
           "title_en": null,
-          "title_original": "Runway推出Media Router：自动切换AI模型帮你省Token，创意验证到成片一条龙搞定",
+          "title_original": "Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29877",
+          "url": "https://www.aibase.com/news/29870",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1929,16 +2098,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7669,
-      "importance": 0.7669,
-      "importance_score": 0.7669,
+      "score": 0.7605,
+      "importance": 0.7605,
+      "importance_score": 0.7605,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9962,
+        "recency": 0.9606,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1949,16 +2118,16 @@
       "earliest_at": "2026-07-24T09:32:48.965032Z",
       "latest_at": "2026-07-24T09:32:48.965032Z",
       "primary_item": {
-        "id": "59cda7b7c747964fd514cc6ab0465d0d8a39c572",
-        "title": "Runway推出Media Router：自动切换AI模型帮你省Token，创意验证到成片一条龙搞定",
-        "title_zh": "Runway推出Media Router：自动切换AI模型帮你省Token，创意验证到成片一条龙搞定",
-        "title_ja": "Runway が Media Router を発表: AI モデルを自動的に切り替えてトークンを節約し、クリエイティブの検証から映画の完成までのワンストップ プロセスを完了します",
+        "id": "c585b7b5321a3a10cca7de27bbd36f5e698ce3af",
+        "title": "Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍",
+        "title_zh": "Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍",
+        "title_ja": "Google 第 2 四半期の設備投資は過去最高の 2 倍に増加: AI インフラストラクチャに 449 億ドルが費やされ、クラウド ビジネスの利益率はほぼ 2 倍になりました",
         "title_en": null,
-        "title_original": "Runway推出Media Router：自动切换AI模型帮你省Token，创意验证到成片一条龙搞定",
+        "title_original": "Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍",
         "summary": null,
         "summary_ja": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/29877",
+        "url": "https://www.aibase.com/news/29870",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1966,7 +2135,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T09:53:15.813291Z"
+        "scored_at": "2026-07-24T12:21:17.237371Z"
       }
     }
   ]
