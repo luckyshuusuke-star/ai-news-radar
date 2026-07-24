@@ -1279,10 +1279,20 @@ function storyImportanceLabel(story) {
   return String(story.importance_label_ja || IMPORTANCE_LABELS_JA[story.category] || "");
 }
 
+function storyLocalizedTitleText(story) {
+  const primary = (story && story.primary_item) || {};
+  const candidates = [primary, ...(Array.isArray(story?.sources) ? story.sources : [])];
+  for (const candidate of candidates) {
+    const localized = String(candidate?.title_ja || "").trim();
+    if (localized) return localized;
+  }
+  return "";
+}
+
 function storyPrimaryTitleText(story) {
   const primary = (story && story.primary_item) || {};
   return String(
-    primary.title_ja
+    storyLocalizedTitleText(story)
     || story?.title_ja
     || primary.title_original
     || primary.title_en

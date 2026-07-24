@@ -11,12 +11,12 @@ gradually fill the Japanese layer without a separate migration job.
 
 | Variable | Default | Scope |
 |---|---:|---|
-| `JA_TRANSLATE_MAX_NEW` | 60 | Main and broad-pool titles, shared budget |
+| `JA_TRANSLATE_MAX_NEW` | 80 | Main and broad-pool titles, with hot-board titles first |
 | `JA_TRANSLATE_CREATOR_MAX_NEW` | 20 | Creator hot-list titles |
 | `JA_SUMMARY_MAX_NEW` | 30 | Normal news summaries |
 | `JA_WAYTOAGI_MAX_NEW` | 30 | WaytoAGI title or summary fields |
 
-With the defaults, one generation attempts at most 140 new translation fields.
+With the defaults, one generation attempts at most 160 new translation fields.
 The budget counts unique uncached source values. If the same title or summary is
 present in the curated and broad pools, it is attempted once per generation,
 including when both providers fail. Failures are not persisted, so a later

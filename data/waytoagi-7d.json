@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T11:54:57.094264Z",
+  "generated_at": "2026-07-24T12:22:59.510116Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
@@ -303,40 +303,40 @@
       "title": "智能体如何真正使用浏览器：CDP（Chrome DevTools Protocol）指南",
       "summary": "想让智能体真正操作浏览器，CDP是绕不开的一层底座。作者从 DevTools 背后的通信协议讲起，带大家看看Chrome如何通过JSON 命令、事件、Target、Session 暴露页面、网络、JS 运行时、输入和性能诊断能力。",
       "url": "https://waytoagi.feishu.cn/wiki/Ac6nwuLyJi3IDNk2Sc0cdAQXnAf?from=from_copylink",
-      "title_ja": null,
-      "summary_ja": null
+      "title_ja": "エージェントが実際にブラウザを使用する方法: CDP (Chrome DevTools プロトコル) のガイド",
+      "summary_ja": "実際にエージェントにブラウザを操作してもらいたい場合、CDPは避けては通れない基盤です。著者は、DevTools の背後にある通信プロトコルから始めて、Chrome が JSON コマンド、イベント、ターゲット、セッションを通じてページ、ネットワーク、JS ランタイム、入力およびパフォーマンス診断機能を公開する方法を示します。"
     },
     {
       "date": "2026-07-18",
       "title": "把 Skill 做稳：我开源了 Skill Engineering 1.0",
       "summary": "如果你已经写过几个Skill，大概率会遇到这种情况：刚开始能用，改几轮后边界模糊了、触发乱了、补丁越堆越多。作者开源的Skill Engineering 1.0可以帮你把Skill 从“能写出来”推进到“能稳定使用”。从会议纪要、GitHub Issue、Web 验收到研究证据包，详细展示了如何先定边界、再做验证、保留回归场景，让Skill真正变成可复用、可维护的Agent能力。",
       "url": "https://waytoagi.feishu.cn/wiki/R7aewWK3kiAYNnk8W06cAFswnGc?from=from_copylink",
-      "title_ja": null,
-      "summary_ja": null
+      "title_ja": "スキルを安定させる: Skill Engineering 1.0 をオープンソース化しました",
+      "summary_ja": "複数のスキルを作成した場合は、この状況に遭遇する可能性が高くなります。最初は機能しますが、数回変更を繰り返すと、境界があいまいになり、トリガーが混乱し、パッチが積み重なっていきます。著者のオープンソース スキル エンジニアリング 1.0 は、スキルを「書ける」から「安定して使える」に進化させるのに役立ちます。会議議事録、GitHub の問題、Web での承認から証拠パッケージの調査に至るまで、最初に境界を設定し、次に回帰シナリオを検証して保持する方法を詳細に示しています。これにより、スキルが真に再利用可能で保守可能なエージェント機能になることができます。"
     },
     {
       "date": "2026-07-18",
       "title": "如何快速学习一门新的编程语言：以 Rust 和 Go 为例",
       "summary": "很多人学习一门新语言时，会从变量、循环、函数开始，顺着教程一章一章往后读。几天之后，语法记住了一些，但真正要写程序时，仍然不知道该怎样组织代码。问题通常不在于学得不够多，而在于学习顺序错了。快速掌握一门编程语言的关键，是尽快建立它的心智模型：它为何存在，擅长解决什么问题，提供了哪些核心抽象，又希望程序员以什么方式思考。",
       "url": "https://waytoagi.feishu.cn/wiki/Bvkbw4bzBiv4YXktcUSc4Zvgn38?from=from_copylink",
-      "title_ja": null,
-      "summary_ja": null
+      "title_ja": "新しいプログラミング言語を素早く学ぶ方法: Rust と Go の例",
+      "summary_ja": "多くの人が新しい言語を学ぶときは、変数、ループ、関数から始めて、章ごとにチュートリアルを読みます。数日後、構文の一部は覚えましたが、実際にプログラムを書く段になっても、コードをどのように構成すればよいのかまだわかりませんでした。通常、問題は学習が足りないことではなく、学習の順序が間違っていることです。プログラミング言語を迅速にマスターするための鍵は、プログラミング言語のメンタル モデルをできるだけ早く確立することです。つまり、その言語が存在する理由、その言語が解決するのが得意な問題、それが提供する核となる抽象化、プログラマーにどのように考えてほしいかなどです。"
     },
     {
       "date": "2026-07-18",
       "title": "Yangyi：FDE企业落地方法论：从专家知识到SOP",
       "summary": "FDE（Forward Deployed Engineer，前沿部署工程师）由Palantir开创，核心是把工程师塞进客户的真实工作流里，用几周时间把隐性业务逻辑抽成可运行的软件。很多企业想学 FDE，却容易卡在“工程师不懂业务”这个误区里。有没有一个能让非专家几周就产生价值的产品内核、能不能把专家的隐性知识撬成可执行的 SOP、以及落地过程中专家凭什么配合你。本文把这三件事拆成一套可操作的方法论。",
       "url": "https://waytoagi.feishu.cn/wiki/IOOzwBMYjipe4HkY2SHcixEVncd?from=from_copylink",
-      "title_ja": null,
-      "summary_ja": null
+      "title_ja": "Yangyi: FDE エンタープライズ実装方法論: 専門知識から SOP まで",
+      "summary_ja": "FDE (Forward Deployed Engineer) は Palantir によって開発されました。その核心は、顧客の実際のワークフローにエンジニアを投入し、暗黙的なビジネス ロジックを数週間で実行可能なソフトウェアに抽出することです。多くの企業がFDEを学びたいと考えていますが、「エンジニアはビジネスを理解していない」という誤解に陥りやすいのです。専門家でなくても数週間で価値を生み出すことができる製品コアはあるでしょうか?専門家の暗黙知を実行可能なSOPに活用できるでしょうか?導入プロセス中に専門家が協力する必要があるのはなぜですか?この記事では、これら 3 つを一連の運用方法論に分けて説明します。"
     },
     {
       "date": "2026-07-18",
       "title": "Claude Code两周100万行背后，藏着19个坑没人提！",
       "summary": "看到Claude Code两周写出100万行代码，很多人第一反应是：以后迁移、重构是不是能直接丢给 AI 跑？老金这篇文章把兴奋感往回拽了一下——真正值得学的不是“跑得快”，而是背后的规则书、裁判、任务账本和断点。长任务可以交给 AI 扩产，但完成标准、测试验证、错误回滚和最终验收，必须提前设计好。",
       "url": "https://waytoagi.feishu.cn/wiki/MLKVw0orgidcLckjO8tcOC0Dnlv?from=from_copylink",
-      "title_ja": null,
-      "summary_ja": null
+      "title_ja": "Claude Code が 2 週間で 100 万行を書いた裏には、誰も言及していない 19 の落とし穴があります。",
+      "summary_ja": "Claude Code が 2 週間で 100 万行のコードを書いたのを見て、多くの人の最初の反応は次のようなものでした。将来の移行とリファクタリングは AI に直接任せることができるのでしょうか? Lao Jin の記事を読んで少し興奮が戻りました。本当に学ぶ価値があるのは「速く走る」ことではなく、その背後にあるルールブック、審判、タスク台帳、ブレークポイントです。生産拡大のために長時間のタスクを AI に引き渡すことはできますが、標準の完了、テスト検証、エラーのロールバック、最終的な承認は事前に設計する必要があります。"
     }
   ],
   "warning": null,
