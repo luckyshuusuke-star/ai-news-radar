@@ -88,6 +88,23 @@ def test_both_views_show_non_identical_original_titles_regardless_of_language():
     assert 'sub.className = "title-sub"' in item_renderer
 
 
+def test_both_views_fall_back_to_a_localized_secondary_story_source():
+    for path in ("assets/app.js", "classic/assets/app.js"):
+        source = read(path)
+        localized_helper = source[
+            source.index("function storyLocalizedTitleText"):
+            source.index("function storyPrimaryTitleText")
+        ]
+        assert "story?.sources" in localized_helper
+        assert "candidate?.title_ja" in localized_helper
+
+        primary_helper = source[
+            source.index("function storyPrimaryTitleText"):
+            source.index("function storyPrimaryOriginalText")
+        ]
+        assert "storyLocalizedTitleText(story)" in primary_helper
+
+
 def test_both_views_keep_tone_support_for_existing_chinese_source_labels():
     for path in ("assets/app.js", "classic/assets/app.js"):
         source = read(path)

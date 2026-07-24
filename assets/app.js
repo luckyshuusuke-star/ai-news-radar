@@ -981,10 +981,20 @@ function storyScore(story) {
   return Math.round(score <= 1 ? score * 100 : score);
 }
 
+function storyLocalizedTitleText(story) {
+  const primary = (story && story.primary_item) || {};
+  const candidates = [primary, ...(Array.isArray(story?.sources) ? story.sources : [])];
+  for (const candidate of candidates) {
+    const localized = String(candidate?.title_ja || "").trim();
+    if (localized) return localized;
+  }
+  return "";
+}
+
 function storyPrimaryTitleText(story) {
   const primary = (story && story.primary_item) || {};
   return String(
-    primary.title_ja
+    storyLocalizedTitleText(story)
     || story?.title_ja
     || primary.title_original
     || primary.title_en

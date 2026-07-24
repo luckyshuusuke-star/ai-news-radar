@@ -3,6 +3,7 @@ from __future__ import annotations
 import argparse
 import hashlib
 import json
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from unittest.mock import MagicMock, patch
 
@@ -14,6 +15,7 @@ from scripts.update_news import (
     add_waytoagi_japanese_fields,
     build_japanese_translation_coverage,
     build_japanese_translation_policy,
+    hot_story_translation_priority_sources,
 )
 
 
@@ -23,7 +25,7 @@ FIXTURE = ROOT / "tests" / "fixtures" / "japanese-display.json"
 
 def policy_args() -> argparse.Namespace:
     return argparse.Namespace(
-        ja_translate_max_new=60,
+        ja_translate_max_new=80,
         ja_translate_creator_max_new=20,
         ja_summary_max_new=30,
         ja_waytoagi_max_new=30,
@@ -34,11 +36,11 @@ def test_incremental_profile_has_upstream_style_fixed_per_run_limits():
     with patch.dict("os.environ", {"DEEPSEEK_API_KEY": "sk-test"}, clear=True):
         policy = build_japanese_translation_policy(policy_args())
 
-    assert policy["limits"]["main_titles"] == 60
+    assert policy["limits"]["main_titles"] == 80
     assert policy["limits"]["summaries"] == 30
     assert policy["limits"]["creator_titles"] == 20
     assert policy["limits"]["waytoagi_title_or_summary_fields"] == 30
-    assert policy["max_new_japanese_fields_per_run"] == 140
+    assert policy["max_new_japanese_fields_per_run"] == 160
     assert policy["deepseek_enabled"] is False
     assert policy["max_paid_deepseek_requests_per_run"] == 0
     assert "mode" not in policy
@@ -64,7 +66,7 @@ def test_japanese_deepseek_is_independently_default_off_even_with_shared_key():
     post.assert_not_called()
 
 
-def test_enabled_deepseek_policy_stays_within_the_same_140_field_budget():
+def test_enabled_deepseek_policy_stays_within_the_same_160_field_budget():
     with patch.dict(
         "os.environ",
         {"JA_DEEPSEEK_ENABLED": "1", "DEEPSEEK_API_KEY": "sk-test"},
@@ -79,9 +81,100 @@ def test_enabled_deepseek_policy_stays_within_the_same_140_field_budget():
         "waytoagi_title_or_summary_fields",
     }
     assert policy["deepseek_enabled"] is True
-    assert policy["max_new_japanese_fields_per_run"] == 140
-    assert policy["max_paid_deepseek_requests_per_run"] == 140
-    assert policy["max_keyless_google_requests_per_run"] == 140
+    assert policy["max_new_japanese_fields_per_run"] == 160
+    assert policy["max_paid_deepseek_requests_per_run"] == 160
+    assert policy["max_keyless_google_requests_per_run"] == 160
+
+
+def test_hot_titles_use_the_first_20_slots_of_the_shared_80_title_budget():
+    regular_sources = [f"Regular English title {index}" for index in range(85)]
+    priority_sources = regular_sources[65:85]
+    items = [
+        {
+            "title": source,
+            "title_original": source,
+            "url": f"https://example.com/{index}",
+        }
+        for index, source in enumerate(regular_sources)
+    ]
+
+    with patch.dict("os.environ", {}, clear=True), patch(
+        "scripts.update_news.translate_to_ja_google",
+        side_effect=lambda _session, source: f"日本語のニュースタイトル{regular_sources.index(source)}",
+    ) as translate, patch(
+        "scripts.update_news.is_valid_ja_translation", return_value=True
+    ):
+        output, _, _ = add_japanese_fields(
+            items,
+            [],
+            MagicMock(),
+            {},
+            max_new_translations=80,
+            priority_sources=priority_sources,
+        )
+
+    attempted = [call.args[1] for call in translate.call_args_list]
+    assert attempted[:20] == priority_sources
+    assert attempted[20:] == regular_sources[:60]
+    assert len(attempted) == 80
+    assert [item["title_original"] for item in output] == regular_sources
+    assert all(output[index]["title_ja"] for index in range(60))
+    assert all(output[index]["title_ja"] is None for index in range(60, 65))
+    assert all(output[index]["title_ja"] for index in range(65, 85))
+
+
+def test_hot_story_priority_matches_multi_source_freshness_order_and_limit():
+    now = datetime(2026, 7, 24, 12, tzinfo=timezone.utc)
+    topics = [
+        "amber falcon lattice",
+        "birch galaxy compass",
+        "cobalt harbor prism",
+        "delta meadow turbine",
+        "ember glacier signal",
+        "forest helium circuit",
+        "granite island beacon",
+        "hazel junction orbit",
+        "indigo kernel radar",
+        "jade lantern vector",
+        "kelp mountain sensor",
+        "lunar nebula engine",
+        "maple ocean matrix",
+        "nickel prairie robot",
+        "onyx quartz network",
+        "pearl river compiler",
+        "ruby summit protocol",
+        "silver thunder database",
+        "topaz valley processor",
+        "umber willow satellite",
+        "violet xenon browser",
+        "winter yellow zephyr",
+    ]
+    items = []
+    for index in range(22):
+        source_count = 4 if index == 21 else 2
+        published = now - timedelta(minutes=index)
+        for source_index in range(source_count):
+            title = f"{topics[index]} artificial intelligence research announcement"
+            items.append(
+                {
+                    "id": f"{index}-{source_index}",
+                    "site_id": f"site-{source_index}",
+                    "site_name": f"Site {source_index}",
+                    "source": f"Site {source_index}",
+                    "title": title,
+                    "title_original": title,
+                    "url": f"https://example.com/story-{index}/source-{source_index}",
+                    "published_at": published.isoformat(),
+                    "ai_is_related": True,
+                    "ai_score": 0.9,
+                }
+            )
+
+    priorities = hot_story_translation_priority_sources(items, now, 24)
+
+    assert len(priorities) == 20
+    assert priorities[0].startswith(topics[0])
+    assert any(source.startswith(topics[21]) for source in priorities[:3])
 
 
 def test_failed_title_and_summary_attempts_still_consume_the_api_budget():
@@ -219,8 +312,12 @@ def test_failed_source_can_retry_on_the_next_generation():
     session.get.side_effect = RuntimeError("offline")
 
     with patch.dict("os.environ", {}, clear=True):
-        _, _, cache = add_japanese_fields([item], [], session, {}, 1)
-        add_japanese_fields([item], [], session, cache, 1)
+        _, _, cache = add_japanese_fields(
+            [item], [], session, {}, 1, priority_sources=[source]
+        )
+        add_japanese_fields(
+            [item], [], session, cache, 1, priority_sources=[source]
+        )
 
     assert session.get.call_count == 2
     assert cache == {}
@@ -397,6 +494,7 @@ def test_actions_pass_only_incremental_japanese_limits():
         "JA_WAYTOAGI_MAX_NEW",
     ):
         assert name in workflow
+    assert "JA_TRANSLATE_MAX_NEW || 80" in workflow
     assert "TITLE_ENHANCE_JA_MAX_PER_RUN" not in workflow
     assert "REASON_ENHANCE_JA_MAX_PER_RUN" not in workflow
     assert "JA_TRANSLATION_MODE" not in workflow

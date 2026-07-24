@@ -158,7 +158,7 @@ jobs:
           # Japanese processing follows the upstream incremental-cache pattern:
           # fixed per-run limits and an independent, default-off paid switch.
           JA_DEEPSEEK_ENABLED: ${{ vars.JA_DEEPSEEK_ENABLED || '0' }}
-          JA_TRANSLATE_MAX_NEW: ${{ vars.JA_TRANSLATE_MAX_NEW || 60 }}
+          JA_TRANSLATE_MAX_NEW: ${{ vars.JA_TRANSLATE_MAX_NEW || 80 }}
           JA_TRANSLATE_CREATOR_MAX_NEW: ${{ vars.JA_TRANSLATE_CREATOR_MAX_NEW || 20 }}
           JA_SUMMARY_MAX_NEW: ${{ vars.JA_SUMMARY_MAX_NEW || 30 }}
           JA_WAYTOAGI_MAX_NEW: ${{ vars.JA_WAYTOAGI_MAX_NEW || 30 }}

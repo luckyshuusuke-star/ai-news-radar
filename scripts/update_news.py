@@ -5071,7 +5071,7 @@ _CHINESE_SPECIFIC_RE = re.compile(
     r"|推出|发布|發布|开放|開放|上线|上線|用户|用戶|功能|模型"
 )
 
-JA_TRANSLATE_MAX_NEW_DEFAULT = 60
+JA_TRANSLATE_MAX_NEW_DEFAULT = 80
 JA_TRANSLATE_CREATOR_MAX_NEW_DEFAULT = 20
 JA_SUMMARY_MAX_NEW_DEFAULT = 30
 JA_WAYTOAGI_MAX_NEW_DEFAULT = 30
@@ -5251,6 +5251,7 @@ def add_japanese_fields(
     session: requests.Session,
     cache: dict[str, str],
     max_new_translations: int,
+    priority_sources: Iterable[str] = (),
 ) -> tuple[list[dict[str, Any]], list[dict[str, Any]], dict[str, str]]:
     """Add `title_ja` directly from each original title.
 
@@ -5304,7 +5305,14 @@ def add_japanese_fields(
         out["title_ja"] = translated
         return out
 
-    # One shared Japanese budget covers unique source titles across both pools.
+    # Prime the shared run-local result map with reader-facing priority titles.
+    # This consumes the same budget as the normal pools without reordering them.
+    for source in dict.fromkeys(str(value or "").strip() for value in priority_sources):
+        if source:
+            enrich({"title_original": source})
+
+    # One shared Japanese budget covers priority titles and unique source titles
+    # across both pools.
     # The per-run result map suppresses duplicate calls even when translation
     # fails and therefore produces no persistent cache entry.
     ai_out = [enrich(item) for item in items_ai]
@@ -6542,6 +6550,66 @@ def merge_story_items(
     return stories, events
 
 
+HOT_STORY_TRANSLATION_LIMIT = 20
+HOT_STORY_DECAY_HOURS = 12
+
+
+def japanese_title_source(record: dict[str, Any] | None) -> str:
+    source = record or {}
+    return str(
+        source.get("title_original") or source.get("title_en") or source.get("title") or ""
+    ).strip()
+
+
+def hot_story_translation_priority_sources(
+    items: list[dict[str, Any]],
+    now: datetime,
+    window_hours: int,
+    limit: int = HOT_STORY_TRANSLATION_LIMIT,
+) -> list[str]:
+    """Return representative original titles in the same order as the hot board."""
+
+    preview_items = suppress_near_duplicate_items(
+        dedupe_items_by_title_url(items, random_pick=False)
+    )
+    stories, _ = merge_story_items(preview_items, now=now, window_hours=window_hours)
+
+    def hotness(story: dict[str, Any]) -> float:
+        sources = max(1, int(story.get("source_count") or 1))
+        if sources < 2:
+            return 0.0
+        latest = parse_iso(str(story.get("latest_at") or "")) or parse_iso(
+            str(story.get("earliest_at") or "")
+        )
+        age_hours = (
+            max(0.0, (now - latest).total_seconds() / 3600)
+            if latest
+            else float(window_hours)
+        )
+        return (sources - 1) * math.exp(-age_hours / HOT_STORY_DECAY_HOURS)
+
+    ranked = sorted(
+        (story for story in stories if hotness(story) > 0),
+        key=lambda story: (
+            -hotness(story),
+            -float(story.get("importance_score") or story.get("score") or 0),
+            -(
+                parse_iso(str(story.get("latest_at") or "")).timestamp()
+                if parse_iso(str(story.get("latest_at") or ""))
+                else 0
+            ),
+        ),
+    )
+    sources: list[str] = []
+    for story in ranked:
+        original = japanese_title_source(story.get("primary_item"))
+        if original and original not in sources:
+            sources.append(original)
+        if len(sources) >= max(0, limit):
+            break
+    return sources
+
+
 BRIEF_SCORE_GATE = 0.72
 
 
@@ -7114,12 +7182,18 @@ def main() -> int:
     )
     title_ja_cache = load_title_ja_cache(title_ja_cache_path)
     summary_ja_cache = load_summary_ja_cache(summary_ja_cache_path)
+    hot_title_priority_sources = hot_story_translation_priority_sources(
+        latest_items,
+        now=now,
+        window_hours=args.window_hours,
+    )
     latest_items, latest_items_all, title_ja_cache = add_japanese_fields(
         latest_items,
         latest_items_all,
         session,
         title_ja_cache,
         max_new_translations=ja_policy["limits"]["main_titles"],
+        priority_sources=hot_title_priority_sources,
     )
     creator_items_ai = build_creator_hot_items(archive, now, ai_only=True)
     creator_items_all = build_creator_hot_items(archive, now, ai_only=False)
