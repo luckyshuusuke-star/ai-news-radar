@@ -1,8 +1,132 @@
 {
-  "generated_at": "2026-07-24T23:15:13.019622Z",
+  "generated_at": "2026-07-25T00:15:03.542243Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_db9570cdaf10",
+      "title": "Anthropic 发布 Claude Opus 5 / Introducing Claude Opus 5",
+      "title_ja": "クロード作品5の紹介",
+      "url": "https://www.anthropic.com/news/claude-opus-5",
+      "primary_url": "https://www.anthropic.com/news/claude-opus-5",
+      "source": "Anthropic：Newsroom（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0e81d4cf8c1908c817163d7e08bd41ceb535298f",
+          "title": "Anthropic 发布 Claude Opus 5 / Introducing Claude Opus 5",
+          "title_zh": "Anthropic 发布 Claude Opus 5",
+          "title_ja": "クロード作品5の紹介",
+          "title_en": "Introducing Claude Opus 5",
+          "title_original": "Introducing Claude Opus 5",
+          "summary": "Anthropic 发布 Claude Opus 5，其智能水平接近 Claude Fable 5，但价格减半。该模型在 Frontier-Bench v0.1 上性能超过 Opus 4.8 两倍以上，在 ARC-AGI 3 上得分是次优模型的三倍。Opus 5 即日起成为 Claude Max 的默认模型和 Claude Pro 的最强模型。",
+          "summary_ja": "Anthropic は、Claude Fable 5 とほぼ同じスマートさながら、価格は半額の Claude Opus 5 をリリースします。このモデルは、Frontier-Bench v0.1 では Opus 4.8 のパフォーマンスを 2 倍以上上回り、ARC-AGI 3 では次に優れたモデルの 3 倍のスコアを獲得しました。Opus 5 は、本日より Claude Max のデフォルト モデルとなり、Claude Pro では最も強力なモデルになります。",
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/news/claude-opus-5",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T17:24:25.589000Z"
+        },
+        {
+          "id": "7fdd4aa79bac6da7a6f1a55036976e3dfaf6a27c",
+          "title": "Anthropic 发布 Claude Opus 5 / Claude Opus 5",
+          "title_zh": "Anthropic 发布 Claude Opus 5",
+          "title_ja": "作品5を閉じる",
+          "title_en": "Claude Opus 5",
+          "title_original": "Claude Opus 5",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/news/claude-opus-5",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-24T16:55:26Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Anthropic：Newsroom（网页）",
+        "Hacker News"
+      ],
+      "items": [
+        {
+          "id": "0e81d4cf8c1908c817163d7e08bd41ceb535298f",
+          "title": "Anthropic 发布 Claude Opus 5 / Introducing Claude Opus 5",
+          "title_zh": "Anthropic 发布 Claude Opus 5",
+          "title_ja": "クロード作品5の紹介",
+          "title_en": "Introducing Claude Opus 5",
+          "title_original": "Introducing Claude Opus 5",
+          "summary": "Anthropic 发布 Claude Opus 5，其智能水平接近 Claude Fable 5，但价格减半。该模型在 Frontier-Bench v0.1 上性能超过 Opus 4.8 两倍以上，在 ARC-AGI 3 上得分是次优模型的三倍。Opus 5 即日起成为 Claude Max 的默认模型和 Claude Pro 的最强模型。",
+          "summary_ja": "Anthropic は、Claude Fable 5 とほぼ同じスマートさながら、価格は半額の Claude Opus 5 をリリースします。このモデルは、Frontier-Bench v0.1 では Opus 4.8 のパフォーマンスを 2 倍以上上回り、ARC-AGI 3 では次に優れたモデルの 3 倍のスコアを獲得しました。Opus 5 は、本日より Claude Max のデフォルト モデルとなり、Claude Pro では最も強力なモデルになります。",
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/news/claude-opus-5",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T17:24:25.589000Z"
+        },
+        {
+          "id": "7fdd4aa79bac6da7a6f1a55036976e3dfaf6a27c",
+          "title": "Anthropic 发布 Claude Opus 5 / Claude Opus 5",
+          "title_zh": "Anthropic 发布 Claude Opus 5",
+          "title_ja": "作品5を閉じる",
+          "title_en": "Claude Opus 5",
+          "title_original": "Claude Opus 5",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/news/claude-opus-5",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-24T16:55:26Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8841,
+      "importance": 0.8841,
+      "importance_score": 0.8841,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
+      "importance_breakdown": {
+        "editorial": 0.92,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.9059,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-24T16:55:26Z",
+      "latest_at": "2026-07-24T17:24:25.589000Z",
+      "primary_item": {
+        "id": "0e81d4cf8c1908c817163d7e08bd41ceb535298f",
+        "title": "Anthropic 发布 Claude Opus 5 / Introducing Claude Opus 5",
+        "title_zh": "Anthropic 发布 Claude Opus 5",
+        "title_ja": "クロード作品5の紹介",
+        "title_en": "Introducing Claude Opus 5",
+        "title_original": "Introducing Claude Opus 5",
+        "summary": "Anthropic 发布 Claude Opus 5，其智能水平接近 Claude Fable 5，但价格减半。该模型在 Frontier-Bench v0.1 上性能超过 Opus 4.8 两倍以上，在 ARC-AGI 3 上得分是次优模型的三倍。Opus 5 即日起成为 Claude Max 的默认模型和 Claude Pro 的最强模型。",
+        "summary_ja": "Anthropic は、Claude Fable 5 とほぼ同じスマートさながら、価格は半額の Claude Opus 5 をリリースします。このモデルは、Frontier-Bench v0.1 では Opus 4.8 のパフォーマンスを 2 倍以上上回り、ARC-AGI 3 では次に優れたモデルの 3 倍のスコアを獲得しました。Opus 5 は、本日より Claude Max のデフォルト モデルとなり、Claude Pro では最も強力なモデルになります。",
+        "recommend_reason_zh": null,
+        "url": "https://www.anthropic.com/news/claude-opus-5",
+        "source": "Anthropic：Newsroom（网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-25T00:16:03.871986Z"
+      }
+    },
     {
       "story_id": "story_fdc1a7916c66",
       "title": "Claude Opus 5 现已在 GitHub Copilot 中提供 / Claude Opus 5 is now available in GitHub Copilot",
@@ -53,16 +177,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8437,
-      "importance": 0.8437,
-      "importance_score": 0.8437,
+      "score": 0.8413,
+      "importance": 0.8413,
+      "importance_score": 0.8413,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9093,
+        "recency": 0.8963,
         "story_heat": 0.0
       },
       "category": "official",
@@ -91,132 +215,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T23:17:32.715151Z"
-      }
-    },
-    {
-      "story_id": "story_884b6719295f",
-      "title": "Anthropic 发布 Claude Opus 5 / Introducing Claude Opus 5",
-      "title_ja": "クロード作品5の紹介",
-      "url": "https://www.anthropic.com/news/claude-opus-5",
-      "primary_url": "https://www.anthropic.com/news/claude-opus-5",
-      "source": "Anthropic News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "29203caf34e109c4c304f5c8fd07b6bb7dee072a",
-          "title": "Anthropic 发布 Claude Opus 5 / Introducing Claude Opus 5",
-          "title_zh": "Anthropic 发布 Claude Opus 5",
-          "title_ja": "クロード作品5の紹介",
-          "title_en": "Introducing Claude Opus 5",
-          "title_original": "Introducing Claude Opus 5",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/news/claude-opus-5",
-          "source": "Anthropic News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-24T00:00:00Z"
-        },
-        {
-          "id": "7fdd4aa79bac6da7a6f1a55036976e3dfaf6a27c",
-          "title": "Anthropic 发布 Claude Opus 5 / Claude Opus 5",
-          "title_zh": "Anthropic 发布 Claude Opus 5",
-          "title_ja": "作品5を閉じる",
-          "title_en": "Claude Opus 5",
-          "title_original": "Claude Opus 5",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/news/claude-opus-5",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-24T16:55:26Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Anthropic News",
-        "Hacker News"
-      ],
-      "items": [
-        {
-          "id": "29203caf34e109c4c304f5c8fd07b6bb7dee072a",
-          "title": "Anthropic 发布 Claude Opus 5 / Introducing Claude Opus 5",
-          "title_zh": "Anthropic 发布 Claude Opus 5",
-          "title_ja": "クロード作品5の紹介",
-          "title_en": "Introducing Claude Opus 5",
-          "title_original": "Introducing Claude Opus 5",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/news/claude-opus-5",
-          "source": "Anthropic News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-24T00:00:00Z"
-        },
-        {
-          "id": "7fdd4aa79bac6da7a6f1a55036976e3dfaf6a27c",
-          "title": "Anthropic 发布 Claude Opus 5 / Claude Opus 5",
-          "title_zh": "Anthropic 发布 Claude Opus 5",
-          "title_ja": "作品5を閉じる",
-          "title_en": "Claude Opus 5",
-          "title_original": "Claude Opus 5",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/news/claude-opus-5",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-24T16:55:26Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8337,
-      "importance": 0.8337,
-      "importance_score": 0.8337,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7148,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-24T00:00:00Z",
-      "latest_at": "2026-07-24T16:55:26Z",
-      "primary_item": {
-        "id": "29203caf34e109c4c304f5c8fd07b6bb7dee072a",
-        "title": "Anthropic 发布 Claude Opus 5 / Introducing Claude Opus 5",
-        "title_zh": "Anthropic 发布 Claude Opus 5",
-        "title_ja": "クロード作品5の紹介",
-        "title_en": "Introducing Claude Opus 5",
-        "title_original": "Introducing Claude Opus 5",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.anthropic.com/news/claude-opus-5",
-        "source": "Anthropic News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-24T23:17:32.715151Z"
+        "scored_at": "2026-07-25T00:16:03.871986Z"
       }
     },
     {
@@ -269,16 +268,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7897,
-      "importance": 0.7897,
-      "importance_score": 0.7897,
+      "score": 0.7875,
+      "importance": 0.7875,
+      "importance_score": 0.7875,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8707,
+        "recency": 0.8583,
         "story_heat": 0.0
       },
       "category": "official",
@@ -306,7 +305,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T23:17:32.715151Z"
+        "scored_at": "2026-07-25T00:16:03.871986Z"
       }
     },
     {
@@ -392,16 +391,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7818,
-      "importance": 0.7818,
-      "importance_score": 0.7818,
+      "score": 0.7797,
+      "importance": 0.7797,
+      "importance_score": 0.7797,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8233,
+        "recency": 0.8116,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -430,7 +429,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T23:17:32.715151Z"
+        "scored_at": "2026-07-25T00:16:03.871986Z"
       }
     },
     {
@@ -483,16 +482,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7682,
-      "importance": 0.7682,
-      "importance_score": 0.7682,
+      "score": 0.7656,
+      "importance": 0.7656,
+      "importance_score": 0.7656,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9865,
+        "recency": 0.9724,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -520,7 +519,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T23:17:32.715151Z"
+        "scored_at": "2026-07-25T00:16:03.871986Z"
       }
     },
     {
@@ -606,16 +605,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7638,
-      "importance": 0.7638,
-      "importance_score": 0.7638,
+      "score": 0.7617,
+      "importance": 0.7617,
+      "importance_score": 0.7617,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8235,
+        "recency": 0.8118,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -644,7 +643,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T23:17:32.715151Z"
+        "scored_at": "2026-07-25T00:16:03.871986Z"
       }
     },
     {
@@ -697,16 +696,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7533,
-      "importance": 0.7533,
-      "importance_score": 0.7533,
+      "score": 0.7511,
+      "importance": 0.7511,
+      "importance_score": 0.7511,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8708,
+        "recency": 0.8584,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -734,7 +733,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T23:17:32.715151Z"
+        "scored_at": "2026-07-25T00:16:03.871986Z"
       }
     },
     {
@@ -787,22 +786,21 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7514,
-      "importance": 0.7514,
-      "importance_score": 0.7514,
+      "score": 0.7491,
+      "importance": 0.7491,
+      "importance_score": 0.7491,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8932,
+        "recency": 0.8804,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-24T15:25:45.300000Z",
       "latest_at": "2026-07-24T15:25:45.300000Z",
@@ -824,7 +822,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T23:17:32.715151Z"
+        "scored_at": "2026-07-25T00:16:03.871986Z"
       }
     },
     {
@@ -877,16 +875,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7499,
-      "importance": 0.7499,
-      "importance_score": 0.7499,
+      "score": 0.7476,
+      "importance": 0.7476,
+      "importance_score": 0.7476,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8682,
+        "recency": 0.8558,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -913,7 +911,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T23:17:32.715151Z"
+        "scored_at": "2026-07-25T00:16:03.871986Z"
       }
     },
     {
@@ -999,16 +997,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7744,
-      "importance": 0.7744,
-      "importance_score": 0.7744,
+      "score": 0.7723,
+      "importance": 0.7723,
+      "importance_score": 0.7723,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8491,
+        "recency": 0.837,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1037,7 +1035,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T23:17:32.715151Z"
+        "scored_at": "2026-07-25T00:16:03.871986Z"
       }
     },
     {
@@ -1090,16 +1088,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7413,
-      "importance": 0.7413,
-      "importance_score": 0.7413,
+      "score": 0.7391,
+      "importance": 0.7391,
+      "importance_score": 0.7391,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8541,
+        "recency": 0.8419,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1126,7 +1124,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T23:17:32.715151Z"
+        "scored_at": "2026-07-25T00:16:03.871986Z"
       }
     },
     {
@@ -1179,16 +1177,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7325,
-      "importance": 0.7325,
-      "importance_score": 0.7325,
+      "score": 0.7305,
+      "importance": 0.7305,
+      "importance_score": 0.7305,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7885,
+        "recency": 0.7773,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1215,7 +1213,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T23:17:32.715151Z"
+        "scored_at": "2026-07-25T00:16:03.871986Z"
       }
     },
     {
@@ -1268,16 +1266,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7321,
-      "importance": 0.7321,
-      "importance_score": 0.7321,
+      "score": 0.7297,
+      "importance": 0.7297,
+      "importance_score": 0.7297,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9194,
+        "recency": 0.9062,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1304,7 +1302,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T23:17:32.715151Z"
+        "scored_at": "2026-07-25T00:16:03.871986Z"
       }
     },
     {
@@ -1357,16 +1355,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7267,
-      "importance": 0.7267,
-      "importance_score": 0.7267,
+      "score": 0.7244,
+      "importance": 0.7244,
+      "importance_score": 0.7244,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8558,
+        "recency": 0.8436,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1393,7 +1391,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T23:17:32.715151Z"
+        "scored_at": "2026-07-25T00:16:03.871986Z"
       }
     },
     {
@@ -1446,16 +1444,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7722,
-      "importance": 0.7722,
-      "importance_score": 0.7722,
+      "score": 0.7698,
+      "importance": 0.7698,
+      "importance_score": 0.7698,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9422,
+        "recency": 0.9287,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1483,7 +1481,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T23:17:32.715151Z"
+        "scored_at": "2026-07-25T00:16:03.871986Z"
       }
     },
     {
@@ -1536,16 +1534,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7358,
-      "importance": 0.7358,
-      "importance_score": 0.7358,
+      "score": 0.7337,
+      "importance": 0.7337,
+      "importance_score": 0.7337,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8236,
+        "recency": 0.8118,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1572,96 +1570,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T23:17:32.715151Z"
-      }
-    },
-    {
-      "story_id": "story_8df1b0bf002d",
-      "title": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
-      "title_ja": "ChatGPTが治療を拒否したと信じて死にそうになったフロリダの男性、OpenAIとCEOのアルトマンを告訴",
-      "url": "https://www.ithome.com/0/980/890.htm",
-      "primary_url": "https://www.ithome.com/0/980/890.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8bc90c40a6536a690373cc42456b6735218b4d67",
-          "title": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
-          "title_zh": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
-          "title_ja": "ChatGPTが治療を拒否したと信じて死にそうになったフロリダの男性、OpenAIとCEOのアルトマンを告訴",
-          "title_en": null,
-          "title_original": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
-          "summary": "美国佛罗里达州 55 岁男子 Scott Winters 起诉 OpenAI，称 ChatGPT-4o 多次建议其无需就医，导致其因双肺血栓引发大面积肺栓塞，一度濒临死亡。诉状指控 OpenAI 存在疏忽和\"无证行医\"行为，要求经济赔偿并暂停 ChatGPT Health 服务。OpenAI 回应称 ChatGPT 不是医生，不应替代专业医疗护理。",
-          "summary_ja": "米国フロリダ州在住のスコット・ウィンターズさん（55）は、ChatGPT-4oが治療の必要はないと繰り返しアドバイスしたため、両肺の血栓による重度の肺塞栓症を患い、瀕死の状態に陥ったと主張して、OpenAIを訴えた。訴状ではOpenAIの過失と「無許可で医療行為を行った」と非難し、金銭的補償とChatGPT Healthサービスの停止を求めている。 OpenAIは、ChatGPTは医師ではなく、専門的な医療の代替となるべきではないと回答した。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/980/890.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T23:30:43Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "8bc90c40a6536a690373cc42456b6735218b4d67",
-          "title": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
-          "title_zh": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
-          "title_ja": "ChatGPTが治療を拒否したと信じて死にそうになったフロリダの男性、OpenAIとCEOのアルトマンを告訴",
-          "title_en": null,
-          "title_original": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
-          "summary": "美国佛罗里达州 55 岁男子 Scott Winters 起诉 OpenAI，称 ChatGPT-4o 多次建议其无需就医，导致其因双肺血栓引发大面积肺栓塞，一度濒临死亡。诉状指控 OpenAI 存在疏忽和\"无证行医\"行为，要求经济赔偿并暂停 ChatGPT Health 服务。OpenAI 回应称 ChatGPT 不是医生，不应替代专业医疗护理。",
-          "summary_ja": "米国フロリダ州在住のスコット・ウィンターズさん（55）は、ChatGPT-4oが治療の必要はないと繰り返しアドバイスしたため、両肺の血栓による重度の肺塞栓症を患い、瀕死の状態に陥ったと主張して、OpenAIを訴えた。訴状ではOpenAIの過失と「無許可で医療行為を行った」と非難し、金銭的補償とChatGPT Healthサービスの停止を求めている。 OpenAIは、ChatGPTは医師ではなく、専門的な医療の代替となるべきではないと回答した。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/980/890.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T23:30:43Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7304,
-      "importance": 0.7304,
-      "importance_score": 0.7304,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7097,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-23T23:30:43Z",
-      "latest_at": "2026-07-23T23:30:43Z",
-      "primary_item": {
-        "id": "8bc90c40a6536a690373cc42456b6735218b4d67",
-        "title": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
-        "title_zh": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
-        "title_ja": "ChatGPTが治療を拒否したと信じて死にそうになったフロリダの男性、OpenAIとCEOのアルトマンを告訴",
-        "title_en": null,
-        "title_original": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
-        "summary": "美国佛罗里达州 55 岁男子 Scott Winters 起诉 OpenAI，称 ChatGPT-4o 多次建议其无需就医，导致其因双肺血栓引发大面积肺栓塞，一度濒临死亡。诉状指控 OpenAI 存在疏忽和\"无证行医\"行为，要求经济赔偿并暂停 ChatGPT Health 服务。OpenAI 回应称 ChatGPT 不是医生，不应替代专业医疗护理。",
-        "summary_ja": "米国フロリダ州在住のスコット・ウィンターズさん（55）は、ChatGPT-4oが治療の必要はないと繰り返しアドバイスしたため、両肺の血栓による重度の肺塞栓症を患い、瀕死の状態に陥ったと主張して、OpenAIを訴えた。訴状ではOpenAIの過失と「無許可で医療行為を行った」と非難し、金銭的補償とChatGPT Healthサービスの停止を求めている。 OpenAIは、ChatGPTは医師ではなく、専門的な医療の代替となるべきではないと回答した。",
-        "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/0/980/890.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-24T23:17:32.715151Z"
+        "scored_at": "2026-07-25T00:16:03.871986Z"
       }
     },
     {
@@ -1714,16 +1623,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7358,
-      "importance": 0.7358,
-      "importance_score": 0.7358,
+      "score": 0.7337,
+      "importance": 0.7337,
+      "importance_score": 0.7337,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8236,
+        "recency": 0.8118,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1750,7 +1659,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T23:17:32.715151Z"
+        "scored_at": "2026-07-25T00:16:03.871986Z"
       }
     },
     {
@@ -1803,16 +1712,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7353,
-      "importance": 0.7353,
-      "importance_score": 0.7353,
+      "score": 0.7332,
+      "importance": 0.7332,
+      "importance_score": 0.7332,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8204,
+        "recency": 0.8087,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1839,7 +1748,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T23:17:32.715151Z"
+        "scored_at": "2026-07-25T00:16:03.871986Z"
       }
     },
     {
@@ -1892,16 +1801,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7353,
-      "importance": 0.7353,
-      "importance_score": 0.7353,
+      "score": 0.7332,
+      "importance": 0.7332,
+      "importance_score": 0.7332,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8204,
+        "recency": 0.8087,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1928,7 +1837,96 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-24T23:17:32.715151Z"
+        "scored_at": "2026-07-25T00:16:03.871986Z"
+      }
+    },
+    {
+      "story_id": "story_9555ff43cca1",
+      "title": "小鹏人形机器人广州工厂开启小批量试生产 预计2026年实现量产",
+      "title_ja": "小鵬人型ロボット広州工場が少量試作を開始、2026年に量産化の見込み",
+      "url": "https://www.aibase.com/news/29875",
+      "primary_url": "https://www.aibase.com/news/29875",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "ffac4af30d2c054071b5875b4b8a5d5ca3892baf",
+          "title": "小鹏人形机器人广州工厂开启小批量试生产 预计2026年实现量产",
+          "title_zh": "小鹏人形机器人广州工厂开启小批量试生产 预计2026年实现量产",
+          "title_ja": "小鵬人型ロボット広州工場が少量試作を開始、2026年に量産化の見込み",
+          "title_en": null,
+          "title_original": "小鹏人形机器人广州工厂开启小批量试生产 预计2026年实现量产",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/29875",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-24T09:32:48.965032Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "ffac4af30d2c054071b5875b4b8a5d5ca3892baf",
+          "title": "小鹏人形机器人广州工厂开启小批量试生产 预计2026年实现量产",
+          "title_zh": "小鹏人形机器人广州工厂开启小批量试生产 预计2026年实现量产",
+          "title_ja": "小鵬人型ロボット広州工場が少量試作を開始、2026年に量産化の見込み",
+          "title_en": null,
+          "title_original": "小鹏人形机器人广州工厂开启小批量试生产 预计2026年实现量产",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/29875",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-24T09:32:48.965032Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7332,
+      "importance": 0.7332,
+      "importance_score": 0.7332,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8087,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-24T09:32:48.965032Z",
+      "latest_at": "2026-07-24T09:32:48.965032Z",
+      "primary_item": {
+        "id": "ffac4af30d2c054071b5875b4b8a5d5ca3892baf",
+        "title": "小鹏人形机器人广州工厂开启小批量试生产 预计2026年实现量产",
+        "title_zh": "小鹏人形机器人广州工厂开启小批量试生产 预计2026年实现量产",
+        "title_ja": "小鵬人型ロボット広州工場が少量試作を開始、2026年に量産化の見込み",
+        "title_en": null,
+        "title_original": "小鹏人形机器人广州工厂开启小批量试生产 预计2026年实现量产",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/29875",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-25T00:16:03.871986Z"
       }
     }
   ]
