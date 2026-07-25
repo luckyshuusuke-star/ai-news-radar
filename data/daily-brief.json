@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-25T22:08:33.375722Z",
+  "generated_at": "2026-07-25T23:10:32.284341Z",
   "window_hours": 24,
-  "total_items": 7,
+  "total_items": 9,
   "items": [
     {
       "story_id": "story_74755d9d6ce9",
@@ -53,16 +53,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7591,
-      "importance": 0.7591,
-      "importance_score": 0.7591,
+      "score": 0.7567,
+      "importance": 0.7567,
+      "importance_score": 0.7567,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.886,
+        "recency": 0.8729,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -90,7 +90,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-25T22:09:33.271647Z"
+        "scored_at": "2026-07-25T23:11:23.622086Z"
       }
     },
     {
@@ -143,16 +143,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7295,
-      "importance": 0.7295,
-      "importance_score": 0.7295,
+      "score": 0.7276,
+      "importance": 0.7276,
+      "importance_score": 0.7276,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7384,
+        "recency": 0.7275,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -179,7 +179,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-25T22:09:33.271647Z"
+        "scored_at": "2026-07-25T23:11:23.622086Z"
       }
     },
     {
@@ -331,16 +331,16 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5888,
-      "importance": 0.5888,
-      "importance_score": 0.5888,
+      "score": 0.5862,
+      "importance": 0.5862,
+      "importance_score": 0.5862,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9609,
+        "recency": 0.9466,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -367,7 +367,251 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-25T22:09:33.271647Z"
+        "scored_at": "2026-07-25T23:11:23.622086Z"
+      }
+    },
+    {
+      "story_id": "story_b90b03f133ee",
+      "title": "一般解决方案：LLM 在 Debian 中的使用 / General Resolution: LLM Usage in Debian",
+      "title_ja": "一般的な解決策: Debian での LLM の使用",
+      "url": "https://news.ycombinator.com/item?id=49050859",
+      "primary_url": "https://news.ycombinator.com/item?id=49050859",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "440e2dd4cb92209bfcfcee18fc3616a9d0d0dd2a",
+          "title": "一般解决方案：LLM 在 Debian 中的使用 / General Resolution: LLM Usage in Debian",
+          "title_zh": "一般解决方案：LLM 在 Debian 中的使用",
+          "title_ja": "一般的な解決策: Debian での LLM の使用",
+          "title_en": "General Resolution: LLM Usage in Debian",
+          "title_original": "General Resolution: LLM Usage in Debian",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49050859",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T23:10:54.951000Z"
+        },
+        {
+          "id": "c38cc1a0119d03a6b3b6e9207bc9a898ba5e87a8",
+          "title": "一般解决方案：LLM 在 Debian 中的使用 / General Resolution: LLM Usage in Debian",
+          "title_zh": "一般解决方案：LLM 在 Debian 中的使用",
+          "title_ja": "一般的な解決策: Debian での LLM の使用",
+          "title_en": "General Resolution: LLM Usage in Debian",
+          "title_original": "General Resolution: LLM Usage in Debian",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.debian.org/vote/2026/vote_002",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T19:44:39Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "440e2dd4cb92209bfcfcee18fc3616a9d0d0dd2a",
+          "title": "一般解决方案：LLM 在 Debian 中的使用 / General Resolution: LLM Usage in Debian",
+          "title_zh": "一般解决方案：LLM 在 Debian 中的使用",
+          "title_ja": "一般的な解決策: Debian での LLM の使用",
+          "title_en": "General Resolution: LLM Usage in Debian",
+          "title_original": "General Resolution: LLM Usage in Debian",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49050859",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T23:10:54.951000Z"
+        },
+        {
+          "id": "c38cc1a0119d03a6b3b6e9207bc9a898ba5e87a8",
+          "title": "一般解决方案：LLM 在 Debian 中的使用 / General Resolution: LLM Usage in Debian",
+          "title_zh": "一般解决方案：LLM 在 Debian 中的使用",
+          "title_ja": "一般的な解決策: Debian での LLM の使用",
+          "title_en": "General Resolution: LLM Usage in Debian",
+          "title_original": "General Resolution: LLM Usage in Debian",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.debian.org/vote/2026/vote_002",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T19:44:39Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_label_ja": "要注目",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T19:44:39Z",
+      "latest_at": "2026-07-25T23:10:54.951000Z",
+      "primary_item": {
+        "id": "440e2dd4cb92209bfcfcee18fc3616a9d0d0dd2a",
+        "title": "一般解决方案：LLM 在 Debian 中的使用 / General Resolution: LLM Usage in Debian",
+        "title_zh": "一般解决方案：LLM 在 Debian 中的使用",
+        "title_ja": "一般的な解決策: Debian での LLM の使用",
+        "title_en": "General Resolution: LLM Usage in Debian",
+        "title_original": "General Resolution: LLM Usage in Debian",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49050859",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-25T23:11:23.622086Z"
+      }
+    },
+    {
+      "story_id": "story_fd83d61e5894",
+      "title": "在 8 美元的微控制器上运行 2890 万参数的 LLM / Running a 28.9M parameter LLM on an $8 microcontroller",
+      "title_ja": "8ドルのマイクロコントローラーで2,890万パラメータのLLMを実行",
+      "url": "https://news.ycombinator.com/item?id=49050512",
+      "primary_url": "https://news.ycombinator.com/item?id=49050512",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "78d7d4403a4002210cc614ea22b03df47beea53e",
+          "title": "在 8 美元的微控制器上运行 2890 万参数的 LLM / Running a 28.9M parameter LLM on an $8 microcontroller",
+          "title_zh": "在 8 美元的微控制器上运行 2890 万参数的 LLM",
+          "title_ja": "8ドルのマイクロコントローラーで2,890万パラメータのLLMを実行",
+          "title_en": "Running a 28.9M parameter LLM on an $8 microcontroller",
+          "title_original": "Running a 28.9M parameter LLM on an $8 microcontroller",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49050512",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T23:10:54.951000Z"
+        },
+        {
+          "id": "fa17019e58414a7f6a4d622fe9328891ef58c102",
+          "title": "在 8 美元的微控制器上运行 2890 万参数的 LLM / Running a 28.9M parameter LLM on an $8 microcontroller",
+          "title_zh": "在 8 美元的微控制器上运行 2890 万参数的 LLM",
+          "title_ja": "8ドルのマイクロコントローラーで2,890万パラメータのLLMを実行",
+          "title_en": "Running a 28.9M parameter LLM on an $8 microcontroller",
+          "title_original": "Running a 28.9M parameter LLM on an $8 microcontroller",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/slvDev/esp32-ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-25T18:59:50Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "78d7d4403a4002210cc614ea22b03df47beea53e",
+          "title": "在 8 美元的微控制器上运行 2890 万参数的 LLM / Running a 28.9M parameter LLM on an $8 microcontroller",
+          "title_zh": "在 8 美元的微控制器上运行 2890 万参数的 LLM",
+          "title_ja": "8ドルのマイクロコントローラーで2,890万パラメータのLLMを実行",
+          "title_en": "Running a 28.9M parameter LLM on an $8 microcontroller",
+          "title_original": "Running a 28.9M parameter LLM on an $8 microcontroller",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49050512",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T23:10:54.951000Z"
+        },
+        {
+          "id": "fa17019e58414a7f6a4d622fe9328891ef58c102",
+          "title": "在 8 美元的微控制器上运行 2890 万参数的 LLM / Running a 28.9M parameter LLM on an $8 microcontroller",
+          "title_zh": "在 8 美元的微控制器上运行 2890 万参数的 LLM",
+          "title_ja": "8ドルのマイクロコントローラーで2,890万パラメータのLLMを実行",
+          "title_en": "Running a 28.9M parameter LLM on an $8 microcontroller",
+          "title_original": "Running a 28.9M parameter LLM on an $8 microcontroller",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/slvDev/esp32-ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-25T18:59:50Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_label_ja": "要注目",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T18:59:50Z",
+      "latest_at": "2026-07-25T23:10:54.951000Z",
+      "primary_item": {
+        "id": "78d7d4403a4002210cc614ea22b03df47beea53e",
+        "title": "在 8 美元的微控制器上运行 2890 万参数的 LLM / Running a 28.9M parameter LLM on an $8 microcontroller",
+        "title_zh": "在 8 美元的微控制器上运行 2890 万参数的 LLM",
+        "title_ja": "8ドルのマイクロコントローラーで2,890万パラメータのLLMを実行",
+        "title_en": "Running a 28.9M parameter LLM on an $8 microcontroller",
+        "title_original": "Running a 28.9M parameter LLM on an $8 microcontroller",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49050512",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-25T23:11:23.622086Z"
       }
     },
     {
@@ -453,16 +697,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5451,
-      "importance": 0.5451,
-      "importance_score": 0.5451,
+      "score": 0.5425,
+      "importance": 0.5425,
+      "importance_score": 0.5425,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9964,
+        "recency": 0.9816,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -489,7 +733,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-25T22:09:33.271647Z"
+        "scored_at": "2026-07-25T23:11:23.622086Z"
       }
     },
     {
@@ -575,16 +819,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5451,
-      "importance": 0.5451,
-      "importance_score": 0.5451,
+      "score": 0.5425,
+      "importance": 0.5425,
+      "importance_score": 0.5425,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9964,
+        "recency": 0.9816,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -611,7 +855,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-25T22:09:33.271647Z"
+        "scored_at": "2026-07-25T23:11:23.622086Z"
       }
     },
     {
@@ -640,7 +884,7 @@
           "published_at": "2026-07-25T17:52:19.298000Z"
         },
         {
-          "id": "4dc6a85d4e09312aefe3a953a436dbc1bb5a8a53",
+          "id": "b81ec76946d428090d221e10e3ff088e44ee186f",
           "title": "政客在集会期间阅读人工智能提示 / Politician reads AI prompt during assembly",
           "title_zh": "政客在集会期间阅读人工智能提示",
           "title_ja": "政治家が議会中にAIプロンプトを読む",
@@ -650,15 +894,15 @@
           "summary_ja": null,
           "recommend_reason_zh": null,
           "url": "https://www.youtube.com/watch?v=wlYa8NV5k-U",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-25T16:31:15Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
@@ -679,7 +923,7 @@
           "published_at": "2026-07-25T17:52:19.298000Z"
         },
         {
-          "id": "4dc6a85d4e09312aefe3a953a436dbc1bb5a8a53",
+          "id": "b81ec76946d428090d221e10e3ff088e44ee186f",
           "title": "政客在集会期间阅读人工智能提示 / Politician reads AI prompt during assembly",
           "title_zh": "政客在集会期间阅读人工智能提示",
           "title_ja": "政治家が議会中にAIプロンプトを読む",
@@ -689,24 +933,24 @@
           "summary_ja": null,
           "recommend_reason_zh": null,
           "url": "https://www.youtube.com/watch?v=wlYa8NV5k-U",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-25T16:31:15Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.535,
-      "importance": 0.535,
-      "importance_score": 0.535,
+      "score": 0.5325,
+      "importance": 0.5325,
+      "importance_score": 0.5325,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9402,
+        "recency": 0.9263,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -733,7 +977,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-25T22:09:33.271647Z"
+        "scored_at": "2026-07-25T23:11:23.622086Z"
       }
     },
     {
@@ -819,16 +1063,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5259,
-      "importance": 0.5259,
-      "importance_score": 0.5259,
+      "score": 0.5235,
+      "importance": 0.5235,
+      "importance_score": 0.5235,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8892,
+        "recency": 0.876,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -855,7 +1099,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-25T22:09:33.271647Z"
+        "scored_at": "2026-07-25T23:11:23.622086Z"
       }
     }
   ]
