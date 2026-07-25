@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-25T09:11:34.448912Z",
+  "generated_at": "2026-07-25T10:42:31.661787Z",
   "window_hours": 24,
-  "total_items": 20,
+  "total_items": 17,
   "items": [
     {
       "story_id": "story_db9570cdaf10",
@@ -29,7 +29,7 @@
           "published_at": "2026-07-24T17:24:25.589000Z"
         },
         {
-          "id": "7fdd4aa79bac6da7a6f1a55036976e3dfaf6a27c",
+          "id": "5e6f4b2d0286887467b40335ebe2f64104234f87",
           "title": "Anthropic 发布 Claude Opus 5 / Claude Opus 5",
           "title_zh": "Anthropic 发布 Claude Opus 5",
           "title_ja": "作品5を閉じる",
@@ -39,16 +39,16 @@
           "summary_ja": null,
           "recommend_reason_zh": null,
           "url": "https://www.anthropic.com/news/claude-opus-5",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-07-24T16:55:26Z"
         }
       ],
       "source_count": 2,
       "source_names": [
         "Anthropic：Newsroom（网页）",
-        "Hacker News"
+        "Hacker News (黑客新闻)"
       ],
       "items": [
         {
@@ -68,7 +68,7 @@
           "published_at": "2026-07-24T17:24:25.589000Z"
         },
         {
-          "id": "7fdd4aa79bac6da7a6f1a55036976e3dfaf6a27c",
+          "id": "5e6f4b2d0286887467b40335ebe2f64104234f87",
           "title": "Anthropic 发布 Claude Opus 5 / Claude Opus 5",
           "title_zh": "Anthropic 发布 Claude Opus 5",
           "title_ja": "作品5を閉じる",
@@ -78,24 +78,24 @@
           "summary_ja": null,
           "recommend_reason_zh": null,
           "url": "https://www.anthropic.com/news/claude-opus-5",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-07-24T16:55:26Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8643,
-      "importance": 0.8643,
-      "importance_score": 0.8643,
+      "score": 0.8612,
+      "importance": 0.8612,
+      "importance_score": 0.8612,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.92,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7962,
+        "recency": 0.7789,
         "story_heat": 0.25
       },
       "category": "official",
@@ -124,7 +124,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-25T09:12:58.831973Z"
+        "scored_at": "2026-07-25T10:43:42.322730Z"
       }
     },
     {
@@ -177,16 +177,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8218,
-      "importance": 0.8218,
-      "importance_score": 0.8218,
+      "score": 0.8187,
+      "importance": 0.8187,
+      "importance_score": 0.8187,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7877,
+        "recency": 0.7706,
         "story_heat": 0.0
       },
       "category": "official",
@@ -215,7 +215,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-25T09:12:58.831973Z"
+        "scored_at": "2026-07-25T10:43:42.322730Z"
       }
     },
     {
@@ -268,16 +268,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7688,
-      "importance": 0.7688,
-      "importance_score": 0.7688,
+      "score": 0.7658,
+      "importance": 0.7658,
+      "importance_score": 0.7658,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7543,
+        "recency": 0.738,
         "story_heat": 0.0
       },
       "category": "official",
@@ -305,131 +305,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-25T09:12:58.831973Z"
-      }
-    },
-    {
-      "story_id": "story_5105aa91a912",
-      "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
-      "title_ja": "Claude-thermos: クロード セッション キャッシュをホットに保ち、再エンコードのコストを回避します。",
-      "url": "https://github.com/izeigerman/claude-thermos",
-      "primary_url": "https://github.com/izeigerman/claude-thermos",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b506f9f06b58edb7fdab55edf5c29946861094d1",
-          "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
-          "title_zh": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
-          "title_ja": "Claude-thermos: クロード セッション キャッシュをホットに保ち、再エンコードのコストを回避します。",
-          "title_en": null,
-          "title_original": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
-          "summary": "Claude-thermos 通过本地反向代理监控 Claude Code 会话，在主智能体因等待子智能体而空闲超过 5 分钟时，自动发送预热请求刷新提示缓存。实测约 185 次本地会话中，缓存过期导致的重新编码占账单约 22%。工具以 uvx 运行，支持自定义空闲阈值和预热间隔。",
-          "summary_ja": "Claude-thermos は、ローカル リバース プロキシを通じて Claude Code セッションを監視し、メイン エージェントが子エージェントを待って 5 分以上アイドル状態になると、プロンプト キャッシュを更新するためのウォームアップ リクエストを自動的に送信します。約 185 のローカル セッションの実測では、キャッシュ期限切れによる再コーディングが請求額の約 22% を占めていました。このツールは uvx で実行され、カスタムのアイドルしきい値とウォームアップ間隔をサポートします。",
-          "recommend_reason_zh": null,
-          "url": "https://github.com/izeigerman/claude-thermos",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T09:47:29.601000Z"
-        },
-        {
-          "id": "ac54013370dcbcd288acd2bb35928d408174a926",
-          "title": "Show HN: Claude-thermos 能为您保持 Claude 会话的热度",
-          "title_zh": "Show HN: Claude-thermos 能为您保持 Claude 会话的热度",
-          "title_ja": "Show HN: クロードサーモスはクロードセッションを熱く保ちます",
-          "title_en": null,
-          "title_original": "Show HN: Claude-thermos 能为您保持 Claude 会话的热度",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/izeigerman/claude-thermos",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T09:47:29.601000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "github.com"
-      ],
-      "items": [
-        {
-          "id": "b506f9f06b58edb7fdab55edf5c29946861094d1",
-          "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
-          "title_zh": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
-          "title_ja": "Claude-thermos: クロード セッション キャッシュをホットに保ち、再エンコードのコストを回避します。",
-          "title_en": null,
-          "title_original": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
-          "summary": "Claude-thermos 通过本地反向代理监控 Claude Code 会话，在主智能体因等待子智能体而空闲超过 5 分钟时，自动发送预热请求刷新提示缓存。实测约 185 次本地会话中，缓存过期导致的重新编码占账单约 22%。工具以 uvx 运行，支持自定义空闲阈值和预热间隔。",
-          "summary_ja": "Claude-thermos は、ローカル リバース プロキシを通じて Claude Code セッションを監視し、メイン エージェントが子エージェントを待って 5 分以上アイドル状態になると、プロンプト キャッシュを更新するためのウォームアップ リクエストを自動的に送信します。約 185 のローカル セッションの実測では、キャッシュ期限切れによる再コーディングが請求額の約 22% を占めていました。このツールは uvx で実行され、カスタムのアイドルしきい値とウォームアップ間隔をサポートします。",
-          "recommend_reason_zh": null,
-          "url": "https://github.com/izeigerman/claude-thermos",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T09:47:29.601000Z"
-        },
-        {
-          "id": "ac54013370dcbcd288acd2bb35928d408174a926",
-          "title": "Show HN: Claude-thermos 能为您保持 Claude 会话的热度",
-          "title_zh": "Show HN: Claude-thermos 能为您保持 Claude 会话的热度",
-          "title_ja": "Show HN: クロードサーモスはクロードセッションを熱く保ちます",
-          "title_en": null,
-          "title_original": "Show HN: Claude-thermos 能为您保持 Claude 会话的热度",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/izeigerman/claude-thermos",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T09:47:29.601000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.762,
-      "importance": 0.762,
-      "importance_score": 0.762,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7132,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-24T09:47:29.601000Z",
-      "latest_at": "2026-07-24T09:47:29.601000Z",
-      "primary_item": {
-        "id": "b506f9f06b58edb7fdab55edf5c29946861094d1",
-        "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
-        "title_zh": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
-        "title_ja": "Claude-thermos: クロード セッション キャッシュをホットに保ち、再エンコードのコストを回避します。",
-        "title_en": null,
-        "title_original": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
-        "summary": "Claude-thermos 通过本地反向代理监控 Claude Code 会话，在主智能体因等待子智能体而空闲超过 5 分钟时，自动发送预热请求刷新提示缓存。实测约 185 次本地会话中，缓存过期导致的重新编码占账单约 22%。工具以 uvx 运行，支持自定义空闲阈值和预热间隔。",
-        "summary_ja": "Claude-thermos は、ローカル リバース プロキシを通じて Claude Code セッションを監視し、メイン エージェントが子エージェントを待って 5 分以上アイドル状態になると、プロンプト キャッシュを更新するためのウォームアップ リクエストを自動的に送信します。約 185 のローカル セッションの実測では、キャッシュ期限切れによる再コーディングが請求額の約 22% を占めていました。このツールは uvx で実行され、カスタムのアイドルしきい値とウォームアップ間隔をサポートします。",
-        "recommend_reason_zh": null,
-        "url": "https://github.com/izeigerman/claude-thermos",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-25T09:12:58.831973Z"
+        "scored_at": "2026-07-25T10:43:42.322730Z"
       }
     },
     {
@@ -482,16 +358,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7569,
-      "importance": 0.7569,
-      "importance_score": 0.7569,
+      "score": 0.7534,
+      "importance": 0.7534,
+      "importance_score": 0.7534,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8903,
+        "recency": 0.871,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -519,699 +395,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-25T09:12:58.831973Z"
-      }
-    },
-    {
-      "story_id": "story_59b2266d0512",
-      "title": "Midjourney V8.2 发布：专注美学提升与个性化理解 / Version 8.2",
-      "title_ja": null,
-      "url": "https://updates.midjourney.com/version-8-2",
-      "primary_url": "https://updates.midjourney.com/version-8-2",
-      "source": "Midjourney：Updates（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6715b8c36caa48bad1405256fe026a3909e5eae4",
-          "title": "Midjourney V8.2 发布：专注美学提升与个性化理解 / Version 8.2",
-          "title_zh": "Midjourney V8.2 发布：专注美学提升与个性化理解",
-          "title_ja": null,
-          "title_en": "Version 8.2",
-          "title_original": "Version 8.2",
-          "summary": "Midjourney 今日推出 V8.2 图像模型，重点提升美学质量、图像创意与个性化表现。低质量图像出现频率将显著降低，个性化功能能更精准理解用户审美偏好。V8.2 的个性化配置文件拥有更大、更优的图像选择池，建议用户尝试新旧配置文件体验最新版本。",
-          "summary_ja": "Midjourney は本日、美的品質、画像の創造性、パーソナライズされたパフォーマンスの向上に重点を置いた V8.2 画像モデルを発表しました。低品質の画像の頻度が大幅に減少し、パーソナライズ機能によりユーザーの美的好みをより正確に理解できるようになります。 V8.2 のパーソナライズされたプロファイルには、より大きくて優れた画像選択プールがあります。最新バージョンを体験するには、古いプロファイルと新しいプロファイルを試してみることをお勧めします。",
-          "recommend_reason_zh": null,
-          "url": "https://updates.midjourney.com/version-8-2",
-          "source": "Midjourney：Updates（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T22:18:48Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Midjourney：Updates（RSS）"
-      ],
-      "items": [
-        {
-          "id": "6715b8c36caa48bad1405256fe026a3909e5eae4",
-          "title": "Midjourney V8.2 发布：专注美学提升与个性化理解 / Version 8.2",
-          "title_zh": "Midjourney V8.2 发布：专注美学提升与个性化理解",
-          "title_ja": null,
-          "title_en": "Version 8.2",
-          "title_original": "Version 8.2",
-          "summary": "Midjourney 今日推出 V8.2 图像模型，重点提升美学质量、图像创意与个性化表现。低质量图像出现频率将显著降低，个性化功能能更精准理解用户审美偏好。V8.2 的个性化配置文件拥有更大、更优的图像选择池，建议用户尝试新旧配置文件体验最新版本。",
-          "summary_ja": "Midjourney は本日、美的品質、画像の創造性、パーソナライズされたパフォーマンスの向上に重点を置いた V8.2 画像モデルを発表しました。低品質の画像の頻度が大幅に減少し、パーソナライズ機能によりユーザーの美的好みをより正確に理解できるようになります。 V8.2 のパーソナライズされたプロファイルには、より大きくて優れた画像選択プールがあります。最新バージョンを体験するには、古いプロファイルと新しいプロファイルを試してみることをお勧めします。",
-          "recommend_reason_zh": null,
-          "url": "https://updates.midjourney.com/version-8-2",
-          "source": "Midjourney：Updates（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T22:18:48Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7444,
-      "importance": 0.7444,
-      "importance_score": 0.7444,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8546,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-24T22:18:48Z",
-      "latest_at": "2026-07-24T22:18:48Z",
-      "primary_item": {
-        "id": "6715b8c36caa48bad1405256fe026a3909e5eae4",
-        "title": "Midjourney V8.2 发布：专注美学提升与个性化理解 / Version 8.2",
-        "title_zh": "Midjourney V8.2 发布：专注美学提升与个性化理解",
-        "title_ja": null,
-        "title_en": "Version 8.2",
-        "title_original": "Version 8.2",
-        "summary": "Midjourney 今日推出 V8.2 图像模型，重点提升美学质量、图像创意与个性化表现。低质量图像出现频率将显著降低，个性化功能能更精准理解用户审美偏好。V8.2 的个性化配置文件拥有更大、更优的图像选择池，建议用户尝试新旧配置文件体验最新版本。",
-        "summary_ja": "Midjourney は本日、美的品質、画像の創造性、パーソナライズされたパフォーマンスの向上に重点を置いた V8.2 画像モデルを発表しました。低品質の画像の頻度が大幅に減少し、パーソナライズ機能によりユーザーの美的好みをより正確に理解できるようになります。 V8.2 のパーソナライズされたプロファイルには、より大きくて優れた画像選択プールがあります。最新バージョンを体験するには、古いプロファイルと新しいプロファイルを試してみることをお勧めします。",
-        "recommend_reason_zh": null,
-        "url": "https://updates.midjourney.com/version-8-2",
-        "source": "Midjourney：Updates（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-25T09:12:58.831973Z"
-      }
-    },
-    {
-      "story_id": "story_c64ef4eed3f2",
-      "title": "Kimi K3 在网络安全漏洞利用测试中大幅落后美国前沿模型，知识蒸馏或为原因 / Kimi K3 trails frontier US models by a wide margin on cyber exploits， and distillation may explain why",
-      "title_ja": "キミ K3 はサイバー攻撃に関して最先端の米国モデルに大差をつけているが、その理由は蒸留によって説明できるかもしれない",
-      "url": "https://the-decoder.com/kimi-k3-trails-frontier-us-models-by-a-wide-margin-on-cyber-exploits-and-distillation-may-explain-why",
-      "primary_url": "https://the-decoder.com/kimi-k3-trails-frontier-us-models-by-a-wide-margin-on-cyber-exploits-and-distillation-may-explain-why",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "722d6426546a0d39a3d3bead58ca13fc3915bff9",
-          "title": "Kimi K3 在网络安全漏洞利用测试中大幅落后美国前沿模型，知识蒸馏或为原因 / Kimi K3 trails frontier US models by a wide margin on cyber exploits， and distillation may explain why",
-          "title_zh": "Kimi K3 在网络安全漏洞利用测试中大幅落后美国前沿模型，知识蒸馏或为原因",
-          "title_ja": "キミ K3 はサイバー攻撃に関して最先端の米国モデルに大差をつけているが、その理由は蒸留によって説明できるかもしれない",
-          "title_en": "Kimi K3 trails frontier US models by a wide margin on cyber exploits， and distillation may explain why",
-          "title_original": "Kimi K3 trails frontier US models by a wide margin on cyber exploits， and distillation may explain why",
-          "summary": "英国AI安全研究所与美国AI标准与创新中心联合评估显示，月之暗面的Kimi K3在ExploitBench基准上得分32.2%，远低于美国领先模型的76.2%，但优于智谱GLM-5.2的24.4%。",
-          "summary_ja": "英国 AI セキュリティ研究所と米国 AI 標準イノベーション センターによる共同評価によると、Dark Side of the Moon の Kim K3 は ExploitBench ベンチマークで 32.2% のスコアを記録しました。これは、米国の主要モデルの 76.2% よりははるかに低いですが、GLM-5.2 の 24.4% よりは優れています。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/kimi-k3-trails-frontier-us-models-by-a-wide-margin-on-cyber-exploits-and-distillation-may-explain-why",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T09:48:32Z"
-        },
-        {
-          "id": "c25b286ba4b4b718a1db39c9eb9d736205ecab88",
-          "title": "Kimi K3 在网络安全漏洞利用测试中大幅落后美国前沿模型，知识蒸馏或为原因 / Kimi K3 trails frontier US models by a wide margin on cyber exploits, and distillation may explain why",
-          "title_zh": "Kimi K3 在网络安全漏洞利用测试中大幅落后美国前沿模型，知识蒸馏或为原因",
-          "title_ja": "キミ K3 はサイバー攻撃に関して最先端の米国モデルに大差をつけているが、その理由は蒸留によって説明できるかもしれない",
-          "title_en": "Kimi K3 trails frontier US models by a wide margin on cyber exploits, and distillation may explain why",
-          "title_original": "Kimi K3 trails frontier US models by a wide margin on cyber exploits, and distillation may explain why",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/kimi-k3-trails-frontier-us-models-by-a-wide-margin-on-cyber-exploits-and-distillation-may-explain-why",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-24T09:48:32Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Decoder AI News",
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "722d6426546a0d39a3d3bead58ca13fc3915bff9",
-          "title": "Kimi K3 在网络安全漏洞利用测试中大幅落后美国前沿模型，知识蒸馏或为原因 / Kimi K3 trails frontier US models by a wide margin on cyber exploits， and distillation may explain why",
-          "title_zh": "Kimi K3 在网络安全漏洞利用测试中大幅落后美国前沿模型，知识蒸馏或为原因",
-          "title_ja": "キミ K3 はサイバー攻撃に関して最先端の米国モデルに大差をつけているが、その理由は蒸留によって説明できるかもしれない",
-          "title_en": "Kimi K3 trails frontier US models by a wide margin on cyber exploits， and distillation may explain why",
-          "title_original": "Kimi K3 trails frontier US models by a wide margin on cyber exploits， and distillation may explain why",
-          "summary": "英国AI安全研究所与美国AI标准与创新中心联合评估显示，月之暗面的Kimi K3在ExploitBench基准上得分32.2%，远低于美国领先模型的76.2%，但优于智谱GLM-5.2的24.4%。",
-          "summary_ja": "英国 AI セキュリティ研究所と米国 AI 標準イノベーション センターによる共同評価によると、Dark Side of the Moon の Kim K3 は ExploitBench ベンチマークで 32.2% のスコアを記録しました。これは、米国の主要モデルの 76.2% よりははるかに低いですが、GLM-5.2 の 24.4% よりは優れています。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/kimi-k3-trails-frontier-us-models-by-a-wide-margin-on-cyber-exploits-and-distillation-may-explain-why",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T09:48:32Z"
-        },
-        {
-          "id": "c25b286ba4b4b718a1db39c9eb9d736205ecab88",
-          "title": "Kimi K3 在网络安全漏洞利用测试中大幅落后美国前沿模型，知识蒸馏或为原因 / Kimi K3 trails frontier US models by a wide margin on cyber exploits, and distillation may explain why",
-          "title_zh": "Kimi K3 在网络安全漏洞利用测试中大幅落后美国前沿模型，知识蒸馏或为原因",
-          "title_ja": "キミ K3 はサイバー攻撃に関して最先端の米国モデルに大差をつけているが、その理由は蒸留によって説明できるかもしれない",
-          "title_en": "Kimi K3 trails frontier US models by a wide margin on cyber exploits, and distillation may explain why",
-          "title_original": "Kimi K3 trails frontier US models by a wide margin on cyber exploits, and distillation may explain why",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/kimi-k3-trails-frontier-us-models-by-a-wide-margin-on-cyber-exploits-and-distillation-may-explain-why",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-24T09:48:32Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.744,
-      "importance": 0.744,
-      "importance_score": 0.744,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7134,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-24T09:48:32Z",
-      "latest_at": "2026-07-24T09:48:32Z",
-      "primary_item": {
-        "id": "722d6426546a0d39a3d3bead58ca13fc3915bff9",
-        "title": "Kimi K3 在网络安全漏洞利用测试中大幅落后美国前沿模型，知识蒸馏或为原因 / Kimi K3 trails frontier US models by a wide margin on cyber exploits， and distillation may explain why",
-        "title_zh": "Kimi K3 在网络安全漏洞利用测试中大幅落后美国前沿模型，知识蒸馏或为原因",
-        "title_ja": "キミ K3 はサイバー攻撃に関して最先端の米国モデルに大差をつけているが、その理由は蒸留によって説明できるかもしれない",
-        "title_en": "Kimi K3 trails frontier US models by a wide margin on cyber exploits， and distillation may explain why",
-        "title_original": "Kimi K3 trails frontier US models by a wide margin on cyber exploits， and distillation may explain why",
-        "summary": "英国AI安全研究所与美国AI标准与创新中心联合评估显示，月之暗面的Kimi K3在ExploitBench基准上得分32.2%，远低于美国领先模型的76.2%，但优于智谱GLM-5.2的24.4%。",
-        "summary_ja": "英国 AI セキュリティ研究所と米国 AI 標準イノベーション センターによる共同評価によると、Dark Side of the Moon の Kim K3 は ExploitBench ベンチマークで 32.2% のスコアを記録しました。これは、米国の主要モデルの 76.2% よりははるかに低いですが、GLM-5.2 の 24.4% よりは優れています。",
-        "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/kimi-k3-trails-frontier-us-models-by-a-wide-margin-on-cyber-exploits-and-distillation-may-explain-why",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-25T09:12:58.831973Z"
-      }
-    },
-    {
-      "story_id": "story_a1def1d5869a",
-      "title": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
-      "title_ja": "Ant Bailing が Ling-3.0-フラッシュ ネイティブ ハイブリッド推論モデルをリリース",
-      "url": "https://mp.weixin.qq.com/s/5ic54FCsy334JJsQcyBr1g",
-      "primary_url": "https://mp.weixin.qq.com/s/5ic54FCsy334JJsQcyBr1g",
-      "source": "公众号：蚂蚁百灵（Ling）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "cc31beb6a04d5fe1892b55856a826870a83fd214",
-          "title": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
-          "title_zh": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
-          "title_ja": "Ant Bailing が Ling-3.0-フラッシュ ネイティブ ハイブリッド推論モデルをリリース",
-          "title_en": null,
-          "title_original": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
-          "summary": "蚂蚁百灵发布新一代原生混合推理模型Ling-3.0-flash，总参数量124B，激活参数量仅5.1B，在传统推理、指令遵循与长文本等指标上对标甚至超越上一代旗舰Ring-2.6-1T。模型采用原生混合线性注意力架构与1/64稀疏MoE，并扩展至10，000+可交互训练环境，长输入下TTFT降低60%至80%以上。",
-          "summary_ja": "Ant Bailing は、総パラメータ ボリュームが 124B、アクティベーション パラメータ ボリュームがわずか 5.1B の新世代のネイティブ ハイブリッド推論モデル Ling-3.0-flash をリリースしました。従来の推論、命令追従、長いテキスト インジケーターの点で、前世代のフラッグシップ Ring-2.6-1T のベンチマークとなるか、それを上回ります。このモデルは、ネイティブ ハイブリッド リニア アテンション アーキテクチャと 1/64 スパース MoE を使用し、10,000 以上のインタラクティブ トレーニング環境に拡張されています。 TTFT は、長い入力の下では 60% から 80% 以上減少します。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s/5ic54FCsy334JJsQcyBr1g",
-          "source": "公众号：蚂蚁百灵（Ling）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T13:40:30Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：蚂蚁百灵（Ling）"
-      ],
-      "items": [
-        {
-          "id": "cc31beb6a04d5fe1892b55856a826870a83fd214",
-          "title": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
-          "title_zh": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
-          "title_ja": "Ant Bailing が Ling-3.0-フラッシュ ネイティブ ハイブリッド推論モデルをリリース",
-          "title_en": null,
-          "title_original": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
-          "summary": "蚂蚁百灵发布新一代原生混合推理模型Ling-3.0-flash，总参数量124B，激活参数量仅5.1B，在传统推理、指令遵循与长文本等指标上对标甚至超越上一代旗舰Ring-2.6-1T。模型采用原生混合线性注意力架构与1/64稀疏MoE，并扩展至10，000+可交互训练环境，长输入下TTFT降低60%至80%以上。",
-          "summary_ja": "Ant Bailing は、総パラメータ ボリュームが 124B、アクティベーション パラメータ ボリュームがわずか 5.1B の新世代のネイティブ ハイブリッド推論モデル Ling-3.0-flash をリリースしました。従来の推論、命令追従、長いテキスト インジケーターの点で、前世代のフラッグシップ Ring-2.6-1T のベンチマークとなるか、それを上回ります。このモデルは、ネイティブ ハイブリッド リニア アテンション アーキテクチャと 1/64 スパース MoE を使用し、10,000 以上のインタラクティブ トレーニング環境に拡張されています。 TTFT は、長い入力の下では 60% から 80% 以上減少します。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s/5ic54FCsy334JJsQcyBr1g",
-          "source": "公众号：蚂蚁百灵（Ling）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T13:40:30Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7324,
-      "importance": 0.7324,
-      "importance_score": 0.7324,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7544,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-24T13:40:30Z",
-      "latest_at": "2026-07-24T13:40:30Z",
-      "primary_item": {
-        "id": "cc31beb6a04d5fe1892b55856a826870a83fd214",
-        "title": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
-        "title_zh": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
-        "title_ja": "Ant Bailing が Ling-3.0-フラッシュ ネイティブ ハイブリッド推論モデルをリリース",
-        "title_en": null,
-        "title_original": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
-        "summary": "蚂蚁百灵发布新一代原生混合推理模型Ling-3.0-flash，总参数量124B，激活参数量仅5.1B，在传统推理、指令遵循与长文本等指标上对标甚至超越上一代旗舰Ring-2.6-1T。模型采用原生混合线性注意力架构与1/64稀疏MoE，并扩展至10，000+可交互训练环境，长输入下TTFT降低60%至80%以上。",
-        "summary_ja": "Ant Bailing は、総パラメータ ボリュームが 124B、アクティベーション パラメータ ボリュームがわずか 5.1B の新世代のネイティブ ハイブリッド推論モデル Ling-3.0-flash をリリースしました。従来の推論、命令追従、長いテキスト インジケーターの点で、前世代のフラッグシップ Ring-2.6-1T のベンチマークとなるか、それを上回ります。このモデルは、ネイティブ ハイブリッド リニア アテンション アーキテクチャと 1/64 スパース MoE を使用し、10,000 以上のインタラクティブ トレーニング環境に拡張されています。 TTFT は、長い入力の下では 60% から 80% 以上減少します。",
-        "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s/5ic54FCsy334JJsQcyBr1g",
-        "source": "公众号：蚂蚁百灵（Ling）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-25T09:12:58.831973Z"
-      }
-    },
-    {
-      "story_id": "story_e6faf39224d8",
-      "title": "Anthropic 联合 Andon Labs 发布 Drone-Bench，评估 AI 模型自主操控无人机执行定位追踪任务的能力 / Project Pilot： Can AI control a drone？",
-      "title_ja": "プロジェクトパイロット： AIはドローンを制御できるのか？",
-      "url": "https://www.anthropic.com/research/project-pilot",
-      "primary_url": "https://www.anthropic.com/research/project-pilot",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6d978bac4bc3e6f0fdd4b448336d72246c3748a0",
-          "title": "Anthropic 联合 Andon Labs 发布 Drone-Bench，评估 AI 模型自主操控无人机执行定位追踪任务的能力 / Project Pilot： Can AI control a drone？",
-          "title_zh": "Anthropic 联合 Andon Labs 发布 Drone-Bench，评估 AI 模型自主操控无人机执行定位追踪任务的能力",
-          "title_ja": "プロジェクトパイロット： AIはドローンを制御できるのか？",
-          "title_en": "Project Pilot： Can AI control a drone？",
-          "title_original": "Project Pilot： Can AI control a drone？",
-          "summary": "Anthropic 与 Andon Labs 合作推出 Drone-Bench，用于测试 AI 模型自主操控四旋翼无人机在室内环境中定位并追踪指定人员的能力。该基准将任务分解为 3D 地图重建、定位、导航、目标检测与跟随五个子任务，并通过软件复现实现快速评估。实验表明，该任务链的难度足以区分不同智能水平的模型，并揭示 AI 在物理世界操控能力上的进步轨迹。",
-          "summary_ja": "Anthropic は Andon Labs と提携して Drone-Bench を立ち上げ、クアッドコプター ドローンを自律制御して屋内環境で指定された人物の位置を特定し追跡する AI モデルの能力をテストします。このベンチマークは、タスクを 3D マップ再構築、測位、ナビゲーション、ターゲット検出と追跡の 5 つのサブタスクに分解し、ソフトウェアの再現を通じて迅速な評価を実現します。実験によれば、タスクチェーンは、異なる知能レベルを持つモデルを区別するのに十分難しいものであり、物理世界を操作する能力における AI の進歩の軌跡を明らかにすることができます。",
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/research/project-pilot",
-          "source": "Anthropic：Research（发表成果 · 网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T15:25:45.300000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Anthropic：Research（发表成果 · 网页）"
-      ],
-      "items": [
-        {
-          "id": "6d978bac4bc3e6f0fdd4b448336d72246c3748a0",
-          "title": "Anthropic 联合 Andon Labs 发布 Drone-Bench，评估 AI 模型自主操控无人机执行定位追踪任务的能力 / Project Pilot： Can AI control a drone？",
-          "title_zh": "Anthropic 联合 Andon Labs 发布 Drone-Bench，评估 AI 模型自主操控无人机执行定位追踪任务的能力",
-          "title_ja": "プロジェクトパイロット： AIはドローンを制御できるのか？",
-          "title_en": "Project Pilot： Can AI control a drone？",
-          "title_original": "Project Pilot： Can AI control a drone？",
-          "summary": "Anthropic 与 Andon Labs 合作推出 Drone-Bench，用于测试 AI 模型自主操控四旋翼无人机在室内环境中定位并追踪指定人员的能力。该基准将任务分解为 3D 地图重建、定位、导航、目标检测与跟随五个子任务，并通过软件复现实现快速评估。实验表明，该任务链的难度足以区分不同智能水平的模型，并揭示 AI 在物理世界操控能力上的进步轨迹。",
-          "summary_ja": "Anthropic は Andon Labs と提携して Drone-Bench を立ち上げ、クアッドコプター ドローンを自律制御して屋内環境で指定された人物の位置を特定し追跡する AI モデルの能力をテストします。このベンチマークは、タスクを 3D マップ再構築、測位、ナビゲーション、ターゲット検出と追跡の 5 つのサブタスクに分解し、ソフトウェアの再現を通じて迅速な評価を実現します。実験によれば、タスクチェーンは、異なる知能レベルを持つモデルを区別するのに十分難しいものであり、物理世界を操作する能力における AI の進歩の軌跡を明らかにすることができます。",
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/research/project-pilot",
-          "source": "Anthropic：Research（发表成果 · 网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T15:25:45.300000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7299,
-      "importance": 0.7299,
-      "importance_score": 0.7299,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7737,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-24T15:25:45.300000Z",
-      "latest_at": "2026-07-24T15:25:45.300000Z",
-      "primary_item": {
-        "id": "6d978bac4bc3e6f0fdd4b448336d72246c3748a0",
-        "title": "Anthropic 联合 Andon Labs 发布 Drone-Bench，评估 AI 模型自主操控无人机执行定位追踪任务的能力 / Project Pilot： Can AI control a drone？",
-        "title_zh": "Anthropic 联合 Andon Labs 发布 Drone-Bench，评估 AI 模型自主操控无人机执行定位追踪任务的能力",
-        "title_ja": "プロジェクトパイロット： AIはドローンを制御できるのか？",
-        "title_en": "Project Pilot： Can AI control a drone？",
-        "title_original": "Project Pilot： Can AI control a drone？",
-        "summary": "Anthropic 与 Andon Labs 合作推出 Drone-Bench，用于测试 AI 模型自主操控四旋翼无人机在室内环境中定位并追踪指定人员的能力。该基准将任务分解为 3D 地图重建、定位、导航、目标检测与跟随五个子任务，并通过软件复现实现快速评估。实验表明，该任务链的难度足以区分不同智能水平的模型，并揭示 AI 在物理世界操控能力上的进步轨迹。",
-        "summary_ja": "Anthropic は Andon Labs と提携して Drone-Bench を立ち上げ、クアッドコプター ドローンを自律制御して屋内環境で指定された人物の位置を特定し追跡する AI モデルの能力をテストします。このベンチマークは、タスクを 3D マップ再構築、測位、ナビゲーション、ターゲット検出と追跡の 5 つのサブタスクに分解し、ソフトウェアの再現を通じて迅速な評価を実現します。実験によれば、タスクチェーンは、異なる知能レベルを持つモデルを区別するのに十分難しいものであり、物理世界を操作する能力における AI の進歩の軌跡を明らかにすることができます。",
-        "recommend_reason_zh": null,
-        "url": "https://www.anthropic.com/research/project-pilot",
-        "source": "Anthropic：Research（发表成果 · 网页）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-25T09:12:58.831973Z"
-      }
-    },
-    {
-      "story_id": "story_6f64216575d4",
-      "title": "微软阐述开源模型助力美国竞争力路径 / Open-weight models are essential to a healthy AI ecosystem. Together with others across our industry…",
-      "title_ja": "オープンウェイト モデルは健全な AI エコシステムに不可欠です。業界全体の皆様と一緒に…",
-      "url": "https://x.com/satyanadella/status/2080646162483417097",
-      "primary_url": "https://x.com/satyanadella/status/2080646162483417097",
-      "source": "X：Satya Nadella (@satyanadella)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "635efd919bc4925c89ab2f7436e3a380f683f93e",
-          "title": "微软阐述开源模型助力美国竞争力路径 / Open-weight models are essential to a healthy AI ecosystem. Together with others across our industry…",
-          "title_zh": "微软阐述开源模型助力美国竞争力路径",
-          "title_ja": "オープンウェイト モデルは健全な AI エコシステムに不可欠です。業界全体の皆様と一緒に…",
-          "title_en": "Open-weight models are essential to a healthy AI ecosystem. Together with others across our industry…",
-          "title_original": "Open-weight models are essential to a healthy AI ecosystem. Together with others across our industry…",
-          "summary": "开放权重模型对健康的 AI 生态系统至关重要。我们与行业同仁一道，正在规划一条路径，让开放权重模型在保护国家安全的同时，增强美国竞争力并扩大经济机会。",
-          "summary_ja": "オープンウェイト モデルは、健全な AI エコシステムにとって不可欠です。私たちは業界の同僚と協力して、国家安全保障を守りながら米国の競争力を強化し、経済的機会を拡大するための非加重モデルの道筋を描いています。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/satyanadella/status/2080646162483417097",
-          "source": "X：Satya Nadella (@satyanadella)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T13:27:56Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Satya Nadella (@satyanadella)"
-      ],
-      "items": [
-        {
-          "id": "635efd919bc4925c89ab2f7436e3a380f683f93e",
-          "title": "微软阐述开源模型助力美国竞争力路径 / Open-weight models are essential to a healthy AI ecosystem. Together with others across our industry…",
-          "title_zh": "微软阐述开源模型助力美国竞争力路径",
-          "title_ja": "オープンウェイト モデルは健全な AI エコシステムに不可欠です。業界全体の皆様と一緒に…",
-          "title_en": "Open-weight models are essential to a healthy AI ecosystem. Together with others across our industry…",
-          "title_original": "Open-weight models are essential to a healthy AI ecosystem. Together with others across our industry…",
-          "summary": "开放权重模型对健康的 AI 生态系统至关重要。我们与行业同仁一道，正在规划一条路径，让开放权重模型在保护国家安全的同时，增强美国竞争力并扩大经济机会。",
-          "summary_ja": "オープンウェイト モデルは、健全な AI エコシステムにとって不可欠です。私たちは業界の同僚と協力して、国家安全保障を守りながら米国の競争力を強化し、経済的機会を拡大するための非加重モデルの道筋を描いています。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/satyanadella/status/2080646162483417097",
-          "source": "X：Satya Nadella (@satyanadella)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T13:27:56Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.729,
-      "importance": 0.729,
-      "importance_score": 0.729,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7521,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-24T13:27:56Z",
-      "latest_at": "2026-07-24T13:27:56Z",
-      "primary_item": {
-        "id": "635efd919bc4925c89ab2f7436e3a380f683f93e",
-        "title": "微软阐述开源模型助力美国竞争力路径 / Open-weight models are essential to a healthy AI ecosystem. Together with others across our industry…",
-        "title_zh": "微软阐述开源模型助力美国竞争力路径",
-        "title_ja": "オープンウェイト モデルは健全な AI エコシステムに不可欠です。業界全体の皆様と一緒に…",
-        "title_en": "Open-weight models are essential to a healthy AI ecosystem. Together with others across our industry…",
-        "title_original": "Open-weight models are essential to a healthy AI ecosystem. Together with others across our industry…",
-        "summary": "开放权重模型对健康的 AI 生态系统至关重要。我们与行业同仁一道，正在规划一条路径，让开放权重模型在保护国家安全的同时，增强美国竞争力并扩大经济机会。",
-        "summary_ja": "オープンウェイト モデルは、健全な AI エコシステムにとって不可欠です。私たちは業界の同僚と協力して、国家安全保障を守りながら米国の競争力を強化し、経済的機会を拡大するための非加重モデルの道筋を描いています。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/satyanadella/status/2080646162483417097",
-        "source": "X：Satya Nadella (@satyanadella)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-25T09:12:58.831973Z"
-      }
-    },
-    {
-      "story_id": "story_b10cb29baa4b",
-      "title": "FLUX 3 x mimic：新一代视频动作模型",
-      "title_ja": "FLUX 3 x mimic: 新世代のビデオ アクション モデル",
-      "url": "https://bfl.ai/blog/flux-3-mimic",
-      "primary_url": "https://bfl.ai/blog/flux-3-mimic",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "fd77d4f467151087a7e14015ce2e68234888ff71",
-          "title": "FLUX 3 x mimic：新一代视频动作模型",
-          "title_zh": "FLUX 3 x mimic：新一代视频动作模型",
-          "title_ja": "FLUX 3 x mimic: 新世代のビデオ アクション モデル",
-          "title_en": null,
-          "title_original": "FLUX 3 x mimic：新一代视频动作模型",
-          "summary": "Black Forest Labs 发布多模态基础模型 FLUX 3，联合训练图像、视频和音频，其中视频预测占训练算力的 95% 以上。该模型与机器人公司 mimic 合作推出 FLUX-mimic，已在奥迪生产线上测试部署。加入动作预测后，视频生成质量最初下降最多 10%，但经 3500 步训练后恢复原有水平。",
-          "summary_ja": "Black Forest Labs は、画像、ビデオ、オーディオを共同でトレーニングするマルチモーダル基本モデル FLUX 3 をリリースしました。トレーニングのコンピューティング能力の 95% 以上をビデオ予測が占めています。ロボット企業mimic社、FLUX-mimic社と提携して発売されたこのモデルは、すでにテストされ、アウディの生産ラインに導入されています。アクション予測を追加した後、ビデオ生成の品質は最初は最大 10% 低下しましたが、3500 トレーニング ステップ後には元のレベルに戻りました。",
-          "recommend_reason_zh": null,
-          "url": "https://bfl.ai/blog/flux-3-mimic",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T11:55:45.885000Z"
-        },
-        {
-          "id": "36542a2fb972d1da2e9bfb21c568c238806bec3f",
-          "title": "Flux 3 X Mimic：新一代视频动作模型 / Flux 3 X Mimic: The Next Generation of Video-Action Models",
-          "title_zh": "Flux 3 X Mimic：新一代视频动作模型",
-          "title_ja": "Flux 3 X Mimic: 次世代のビデオアクションモデル",
-          "title_en": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
-          "title_original": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://bfl.ai/blog/flux-3-mimic",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-24T09:31:48Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "fd77d4f467151087a7e14015ce2e68234888ff71",
-          "title": "FLUX 3 x mimic：新一代视频动作模型",
-          "title_zh": "FLUX 3 x mimic：新一代视频动作模型",
-          "title_ja": "FLUX 3 x mimic: 新世代のビデオ アクション モデル",
-          "title_en": null,
-          "title_original": "FLUX 3 x mimic：新一代视频动作模型",
-          "summary": "Black Forest Labs 发布多模态基础模型 FLUX 3，联合训练图像、视频和音频，其中视频预测占训练算力的 95% 以上。该模型与机器人公司 mimic 合作推出 FLUX-mimic，已在奥迪生产线上测试部署。加入动作预测后，视频生成质量最初下降最多 10%，但经 3500 步训练后恢复原有水平。",
-          "summary_ja": "Black Forest Labs は、画像、ビデオ、オーディオを共同でトレーニングするマルチモーダル基本モデル FLUX 3 をリリースしました。トレーニングのコンピューティング能力の 95% 以上をビデオ予測が占めています。ロボット企業mimic社、FLUX-mimic社と提携して発売されたこのモデルは、すでにテストされ、アウディの生産ラインに導入されています。アクション予測を追加した後、ビデオ生成の品質は最初は最大 10% 低下しましたが、3500 トレーニング ステップ後には元のレベルに戻りました。",
-          "recommend_reason_zh": null,
-          "url": "https://bfl.ai/blog/flux-3-mimic",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T11:55:45.885000Z"
-        },
-        {
-          "id": "36542a2fb972d1da2e9bfb21c568c238806bec3f",
-          "title": "Flux 3 X Mimic：新一代视频动作模型 / Flux 3 X Mimic: The Next Generation of Video-Action Models",
-          "title_zh": "Flux 3 X Mimic：新一代视频动作模型",
-          "title_ja": "Flux 3 X Mimic: 次世代のビデオアクションモデル",
-          "title_en": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
-          "title_original": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://bfl.ai/blog/flux-3-mimic",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-24T09:31:48Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.754,
-      "importance": 0.754,
-      "importance_score": 0.754,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7356,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-24T09:31:48Z",
-      "latest_at": "2026-07-24T11:55:45.885000Z",
-      "primary_item": {
-        "id": "fd77d4f467151087a7e14015ce2e68234888ff71",
-        "title": "FLUX 3 x mimic：新一代视频动作模型",
-        "title_zh": "FLUX 3 x mimic：新一代视频动作模型",
-        "title_ja": "FLUX 3 x mimic: 新世代のビデオ アクション モデル",
-        "title_en": null,
-        "title_original": "FLUX 3 x mimic：新一代视频动作模型",
-        "summary": "Black Forest Labs 发布多模态基础模型 FLUX 3，联合训练图像、视频和音频，其中视频预测占训练算力的 95% 以上。该模型与机器人公司 mimic 合作推出 FLUX-mimic，已在奥迪生产线上测试部署。加入动作预测后，视频生成质量最初下降最多 10%，但经 3500 步训练后恢复原有水平。",
-        "summary_ja": "Black Forest Labs は、画像、ビデオ、オーディオを共同でトレーニングするマルチモーダル基本モデル FLUX 3 をリリースしました。トレーニングのコンピューティング能力の 95% 以上をビデオ予測が占めています。ロボット企業mimic社、FLUX-mimic社と提携して発売されたこのモデルは、すでにテストされ、アウディの生産ラインに導入されています。アクション予測を追加した後、ビデオ生成の品質は最初は最大 10% 低下しましたが、3500 トレーニング ステップ後には元のレベルに戻りました。",
-        "recommend_reason_zh": null,
-        "url": "https://bfl.ai/blog/flux-3-mimic",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-25T09:12:58.831973Z"
-      }
-    },
-    {
-      "story_id": "story_29cdb0f6765b",
-      "title": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
-      "title_ja": "キミ K3 の攻撃的および防御的テストペーパーが覆された: 脆弱性は米国の最先端モデルの 40% でのみ悪用され、蒸留の疑いが治安当局によって提起された",
-      "url": "https://www.aibase.com/news/29881",
-      "primary_url": "https://www.aibase.com/news/29881",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a3404a9d2a7b48d96b1c4c0e8850bc3d474446e5",
-          "title": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
-          "title_zh": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
-          "title_ja": "キミ K3 の攻撃的および防御的テストペーパーが覆された: 脆弱性は米国の最先端モデルの 40% でのみ悪用され、蒸留の疑いが治安当局によって提起された",
-          "title_en": null,
-          "title_original": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29881",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T12:19:56.244931Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "a3404a9d2a7b48d96b1c4c0e8850bc3d474446e5",
-          "title": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
-          "title_zh": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
-          "title_ja": "キミ K3 の攻撃的および防御的テストペーパーが覆された: 脆弱性は米国の最先端モデルの 40% でのみ悪用され、蒸留の疑いが治安当局によって提起された",
-          "title_en": null,
-          "title_original": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29881",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T12:19:56.244931Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7208,
-      "importance": 0.7208,
-      "importance_score": 0.7208,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7399,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-24T12:19:56.244931Z",
-      "latest_at": "2026-07-24T12:19:56.244931Z",
-      "primary_item": {
-        "id": "a3404a9d2a7b48d96b1c4c0e8850bc3d474446e5",
-        "title": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
-        "title_zh": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
-        "title_ja": "キミ K3 の攻撃的および防御的テストペーパーが覆された: 脆弱性は米国の最先端モデルの 40% でのみ悪用され、蒸留の疑いが治安当局によって提起された",
-        "title_en": null,
-        "title_original": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/29881",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-25T09:12:58.831973Z"
+        "scored_at": "2026-07-25T10:43:42.322730Z"
       }
     },
     {
@@ -1264,16 +448,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7495,
-      "importance": 0.7495,
-      "importance_score": 0.7495,
+      "score": 0.7463,
+      "importance": 0.7463,
+      "importance_score": 0.7463,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8162,
+        "recency": 0.7986,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1300,7 +484,574 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-25T09:12:58.831973Z"
+        "scored_at": "2026-07-25T10:43:42.322730Z"
+      }
+    },
+    {
+      "story_id": "story_59b2266d0512",
+      "title": "Midjourney V8.2 发布：专注美学提升与个性化理解 / Version 8.2",
+      "title_ja": null,
+      "url": "https://updates.midjourney.com/version-8-2",
+      "primary_url": "https://updates.midjourney.com/version-8-2",
+      "source": "Midjourney：Updates（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6715b8c36caa48bad1405256fe026a3909e5eae4",
+          "title": "Midjourney V8.2 发布：专注美学提升与个性化理解 / Version 8.2",
+          "title_zh": "Midjourney V8.2 发布：专注美学提升与个性化理解",
+          "title_ja": null,
+          "title_en": "Version 8.2",
+          "title_original": "Version 8.2",
+          "summary": "Midjourney 今日推出 V8.2 图像模型，重点提升美学质量、图像创意与个性化表现。低质量图像出现频率将显著降低，个性化功能能更精准理解用户审美偏好。V8.2 的个性化配置文件拥有更大、更优的图像选择池，建议用户尝试新旧配置文件体验最新版本。",
+          "summary_ja": "Midjourney は本日、美的品質、画像の創造性、パーソナライズされたパフォーマンスの向上に重点を置いた V8.2 画像モデルを発表しました。低品質の画像の頻度が大幅に減少し、パーソナライズ機能によりユーザーの美的好みをより正確に理解できるようになります。 V8.2 のパーソナライズされたプロファイルには、より大きくて優れた画像選択プールがあります。最新バージョンを体験するには、古いプロファイルと新しいプロファイルを試してみることをお勧めします。",
+          "recommend_reason_zh": null,
+          "url": "https://updates.midjourney.com/version-8-2",
+          "source": "Midjourney：Updates（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T22:18:48Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Midjourney：Updates（RSS）"
+      ],
+      "items": [
+        {
+          "id": "6715b8c36caa48bad1405256fe026a3909e5eae4",
+          "title": "Midjourney V8.2 发布：专注美学提升与个性化理解 / Version 8.2",
+          "title_zh": "Midjourney V8.2 发布：专注美学提升与个性化理解",
+          "title_ja": null,
+          "title_en": "Version 8.2",
+          "title_original": "Version 8.2",
+          "summary": "Midjourney 今日推出 V8.2 图像模型，重点提升美学质量、图像创意与个性化表现。低质量图像出现频率将显著降低，个性化功能能更精准理解用户审美偏好。V8.2 的个性化配置文件拥有更大、更优的图像选择池，建议用户尝试新旧配置文件体验最新版本。",
+          "summary_ja": "Midjourney は本日、美的品質、画像の創造性、パーソナライズされたパフォーマンスの向上に重点を置いた V8.2 画像モデルを発表しました。低品質の画像の頻度が大幅に減少し、パーソナライズ機能によりユーザーの美的好みをより正確に理解できるようになります。 V8.2 のパーソナライズされたプロファイルには、より大きくて優れた画像選択プールがあります。最新バージョンを体験するには、古いプロファイルと新しいプロファイルを試してみることをお勧めします。",
+          "recommend_reason_zh": null,
+          "url": "https://updates.midjourney.com/version-8-2",
+          "source": "Midjourney：Updates（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T22:18:48Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7411,
+      "importance": 0.7411,
+      "importance_score": 0.7411,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8361,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-24T22:18:48Z",
+      "latest_at": "2026-07-24T22:18:48Z",
+      "primary_item": {
+        "id": "6715b8c36caa48bad1405256fe026a3909e5eae4",
+        "title": "Midjourney V8.2 发布：专注美学提升与个性化理解 / Version 8.2",
+        "title_zh": "Midjourney V8.2 发布：专注美学提升与个性化理解",
+        "title_ja": null,
+        "title_en": "Version 8.2",
+        "title_original": "Version 8.2",
+        "summary": "Midjourney 今日推出 V8.2 图像模型，重点提升美学质量、图像创意与个性化表现。低质量图像出现频率将显著降低，个性化功能能更精准理解用户审美偏好。V8.2 的个性化配置文件拥有更大、更优的图像选择池，建议用户尝试新旧配置文件体验最新版本。",
+        "summary_ja": "Midjourney は本日、美的品質、画像の創造性、パーソナライズされたパフォーマンスの向上に重点を置いた V8.2 画像モデルを発表しました。低品質の画像の頻度が大幅に減少し、パーソナライズ機能によりユーザーの美的好みをより正確に理解できるようになります。 V8.2 のパーソナライズされたプロファイルには、より大きくて優れた画像選択プールがあります。最新バージョンを体験するには、古いプロファイルと新しいプロファイルを試してみることをお勧めします。",
+        "recommend_reason_zh": null,
+        "url": "https://updates.midjourney.com/version-8-2",
+        "source": "Midjourney：Updates（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-25T10:43:42.322730Z"
+      }
+    },
+    {
+      "story_id": "story_a1def1d5869a",
+      "title": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
+      "title_ja": "Ant Bailing が Ling-3.0-フラッシュ ネイティブ ハイブリッド推論モデルをリリース",
+      "url": "https://mp.weixin.qq.com/s/5ic54FCsy334JJsQcyBr1g",
+      "primary_url": "https://mp.weixin.qq.com/s/5ic54FCsy334JJsQcyBr1g",
+      "source": "公众号：蚂蚁百灵（Ling）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "cc31beb6a04d5fe1892b55856a826870a83fd214",
+          "title": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
+          "title_zh": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
+          "title_ja": "Ant Bailing が Ling-3.0-フラッシュ ネイティブ ハイブリッド推論モデルをリリース",
+          "title_en": null,
+          "title_original": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
+          "summary": "蚂蚁百灵发布新一代原生混合推理模型Ling-3.0-flash，总参数量124B，激活参数量仅5.1B，在传统推理、指令遵循与长文本等指标上对标甚至超越上一代旗舰Ring-2.6-1T。模型采用原生混合线性注意力架构与1/64稀疏MoE，并扩展至10，000+可交互训练环境，长输入下TTFT降低60%至80%以上。",
+          "summary_ja": "Ant Bailing は、総パラメータ ボリュームが 124B、アクティベーション パラメータ ボリュームがわずか 5.1B の新世代のネイティブ ハイブリッド推論モデル Ling-3.0-flash をリリースしました。従来の推論、命令追従、長いテキスト インジケーターの点で、前世代のフラッグシップ Ring-2.6-1T のベンチマークとなるか、それを上回ります。このモデルは、ネイティブ ハイブリッド リニア アテンション アーキテクチャと 1/64 スパース MoE を使用し、10,000 以上のインタラクティブ トレーニング環境に拡張されています。 TTFT は、長い入力の下では 60% から 80% 以上減少します。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s/5ic54FCsy334JJsQcyBr1g",
+          "source": "公众号：蚂蚁百灵（Ling）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T13:40:30Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：蚂蚁百灵（Ling）"
+      ],
+      "items": [
+        {
+          "id": "cc31beb6a04d5fe1892b55856a826870a83fd214",
+          "title": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
+          "title_zh": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
+          "title_ja": "Ant Bailing が Ling-3.0-フラッシュ ネイティブ ハイブリッド推論モデルをリリース",
+          "title_en": null,
+          "title_original": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
+          "summary": "蚂蚁百灵发布新一代原生混合推理模型Ling-3.0-flash，总参数量124B，激活参数量仅5.1B，在传统推理、指令遵循与长文本等指标上对标甚至超越上一代旗舰Ring-2.6-1T。模型采用原生混合线性注意力架构与1/64稀疏MoE，并扩展至10，000+可交互训练环境，长输入下TTFT降低60%至80%以上。",
+          "summary_ja": "Ant Bailing は、総パラメータ ボリュームが 124B、アクティベーション パラメータ ボリュームがわずか 5.1B の新世代のネイティブ ハイブリッド推論モデル Ling-3.0-flash をリリースしました。従来の推論、命令追従、長いテキスト インジケーターの点で、前世代のフラッグシップ Ring-2.6-1T のベンチマークとなるか、それを上回ります。このモデルは、ネイティブ ハイブリッド リニア アテンション アーキテクチャと 1/64 スパース MoE を使用し、10,000 以上のインタラクティブ トレーニング環境に拡張されています。 TTFT は、長い入力の下では 60% から 80% 以上減少します。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s/5ic54FCsy334JJsQcyBr1g",
+          "source": "公众号：蚂蚁百灵（Ling）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T13:40:30Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7294,
+      "importance": 0.7294,
+      "importance_score": 0.7294,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7381,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-24T13:40:30Z",
+      "latest_at": "2026-07-24T13:40:30Z",
+      "primary_item": {
+        "id": "cc31beb6a04d5fe1892b55856a826870a83fd214",
+        "title": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
+        "title_zh": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
+        "title_ja": "Ant Bailing が Ling-3.0-フラッシュ ネイティブ ハイブリッド推論モデルをリリース",
+        "title_en": null,
+        "title_original": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
+        "summary": "蚂蚁百灵发布新一代原生混合推理模型Ling-3.0-flash，总参数量124B，激活参数量仅5.1B，在传统推理、指令遵循与长文本等指标上对标甚至超越上一代旗舰Ring-2.6-1T。模型采用原生混合线性注意力架构与1/64稀疏MoE，并扩展至10，000+可交互训练环境，长输入下TTFT降低60%至80%以上。",
+        "summary_ja": "Ant Bailing は、総パラメータ ボリュームが 124B、アクティベーション パラメータ ボリュームがわずか 5.1B の新世代のネイティブ ハイブリッド推論モデル Ling-3.0-flash をリリースしました。従来の推論、命令追従、長いテキスト インジケーターの点で、前世代のフラッグシップ Ring-2.6-1T のベンチマークとなるか、それを上回ります。このモデルは、ネイティブ ハイブリッド リニア アテンション アーキテクチャと 1/64 スパース MoE を使用し、10,000 以上のインタラクティブ トレーニング環境に拡張されています。 TTFT は、長い入力の下では 60% から 80% 以上減少します。",
+        "recommend_reason_zh": null,
+        "url": "https://mp.weixin.qq.com/s/5ic54FCsy334JJsQcyBr1g",
+        "source": "公众号：蚂蚁百灵（Ling）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-25T10:43:42.322730Z"
+      }
+    },
+    {
+      "story_id": "story_e6faf39224d8",
+      "title": "Anthropic 联合 Andon Labs 发布 Drone-Bench，评估 AI 模型自主操控无人机执行定位追踪任务的能力 / Project Pilot： Can AI control a drone？",
+      "title_ja": "プロジェクトパイロット： AIはドローンを制御できるのか？",
+      "url": "https://www.anthropic.com/research/project-pilot",
+      "primary_url": "https://www.anthropic.com/research/project-pilot",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6d978bac4bc3e6f0fdd4b448336d72246c3748a0",
+          "title": "Anthropic 联合 Andon Labs 发布 Drone-Bench，评估 AI 模型自主操控无人机执行定位追踪任务的能力 / Project Pilot： Can AI control a drone？",
+          "title_zh": "Anthropic 联合 Andon Labs 发布 Drone-Bench，评估 AI 模型自主操控无人机执行定位追踪任务的能力",
+          "title_ja": "プロジェクトパイロット： AIはドローンを制御できるのか？",
+          "title_en": "Project Pilot： Can AI control a drone？",
+          "title_original": "Project Pilot： Can AI control a drone？",
+          "summary": "Anthropic 与 Andon Labs 合作推出 Drone-Bench，用于测试 AI 模型自主操控四旋翼无人机在室内环境中定位并追踪指定人员的能力。该基准将任务分解为 3D 地图重建、定位、导航、目标检测与跟随五个子任务，并通过软件复现实现快速评估。实验表明，该任务链的难度足以区分不同智能水平的模型，并揭示 AI 在物理世界操控能力上的进步轨迹。",
+          "summary_ja": "Anthropic は Andon Labs と提携して Drone-Bench を立ち上げ、クアッドコプター ドローンを自律制御して屋内環境で指定された人物の位置を特定し追跡する AI モデルの能力をテストします。このベンチマークは、タスクを 3D マップ再構築、測位、ナビゲーション、ターゲット検出と追跡の 5 つのサブタスクに分解し、ソフトウェアの再現を通じて迅速な評価を実現します。実験によれば、タスクチェーンは、異なる知能レベルを持つモデルを区別するのに十分難しいものであり、物理世界を操作する能力における AI の進歩の軌跡を明らかにすることができます。",
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/research/project-pilot",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T15:25:45.300000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Anthropic：Research（发表成果 · 网页）"
+      ],
+      "items": [
+        {
+          "id": "6d978bac4bc3e6f0fdd4b448336d72246c3748a0",
+          "title": "Anthropic 联合 Andon Labs 发布 Drone-Bench，评估 AI 模型自主操控无人机执行定位追踪任务的能力 / Project Pilot： Can AI control a drone？",
+          "title_zh": "Anthropic 联合 Andon Labs 发布 Drone-Bench，评估 AI 模型自主操控无人机执行定位追踪任务的能力",
+          "title_ja": "プロジェクトパイロット： AIはドローンを制御できるのか？",
+          "title_en": "Project Pilot： Can AI control a drone？",
+          "title_original": "Project Pilot： Can AI control a drone？",
+          "summary": "Anthropic 与 Andon Labs 合作推出 Drone-Bench，用于测试 AI 模型自主操控四旋翼无人机在室内环境中定位并追踪指定人员的能力。该基准将任务分解为 3D 地图重建、定位、导航、目标检测与跟随五个子任务，并通过软件复现实现快速评估。实验表明，该任务链的难度足以区分不同智能水平的模型，并揭示 AI 在物理世界操控能力上的进步轨迹。",
+          "summary_ja": "Anthropic は Andon Labs と提携して Drone-Bench を立ち上げ、クアッドコプター ドローンを自律制御して屋内環境で指定された人物の位置を特定し追跡する AI モデルの能力をテストします。このベンチマークは、タスクを 3D マップ再構築、測位、ナビゲーション、ターゲット検出と追跡の 5 つのサブタスクに分解し、ソフトウェアの再現を通じて迅速な評価を実現します。実験によれば、タスクチェーンは、異なる知能レベルを持つモデルを区別するのに十分難しいものであり、物理世界を操作する能力における AI の進歩の軌跡を明らかにすることができます。",
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/research/project-pilot",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T15:25:45.300000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7269,
+      "importance": 0.7269,
+      "importance_score": 0.7269,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.757,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-24T15:25:45.300000Z",
+      "latest_at": "2026-07-24T15:25:45.300000Z",
+      "primary_item": {
+        "id": "6d978bac4bc3e6f0fdd4b448336d72246c3748a0",
+        "title": "Anthropic 联合 Andon Labs 发布 Drone-Bench，评估 AI 模型自主操控无人机执行定位追踪任务的能力 / Project Pilot： Can AI control a drone？",
+        "title_zh": "Anthropic 联合 Andon Labs 发布 Drone-Bench，评估 AI 模型自主操控无人机执行定位追踪任务的能力",
+        "title_ja": "プロジェクトパイロット： AIはドローンを制御できるのか？",
+        "title_en": "Project Pilot： Can AI control a drone？",
+        "title_original": "Project Pilot： Can AI control a drone？",
+        "summary": "Anthropic 与 Andon Labs 合作推出 Drone-Bench，用于测试 AI 模型自主操控四旋翼无人机在室内环境中定位并追踪指定人员的能力。该基准将任务分解为 3D 地图重建、定位、导航、目标检测与跟随五个子任务，并通过软件复现实现快速评估。实验表明，该任务链的难度足以区分不同智能水平的模型，并揭示 AI 在物理世界操控能力上的进步轨迹。",
+        "summary_ja": "Anthropic は Andon Labs と提携して Drone-Bench を立ち上げ、クアッドコプター ドローンを自律制御して屋内環境で指定された人物の位置を特定し追跡する AI モデルの能力をテストします。このベンチマークは、タスクを 3D マップ再構築、測位、ナビゲーション、ターゲット検出と追跡の 5 つのサブタスクに分解し、ソフトウェアの再現を通じて迅速な評価を実現します。実験によれば、タスクチェーンは、異なる知能レベルを持つモデルを区別するのに十分難しいものであり、物理世界を操作する能力における AI の進歩の軌跡を明らかにすることができます。",
+        "recommend_reason_zh": null,
+        "url": "https://www.anthropic.com/research/project-pilot",
+        "source": "Anthropic：Research（发表成果 · 网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-25T10:43:42.322730Z"
+      }
+    },
+    {
+      "story_id": "story_6f64216575d4",
+      "title": "微软阐述开源模型助力美国竞争力路径 / Open-weight models are essential to a healthy AI ecosystem. Together with others across our industry…",
+      "title_ja": "オープンウェイト モデルは健全な AI エコシステムに不可欠です。業界全体の皆様と一緒に…",
+      "url": "https://x.com/satyanadella/status/2080646162483417097",
+      "primary_url": "https://x.com/satyanadella/status/2080646162483417097",
+      "source": "X：Satya Nadella (@satyanadella)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "635efd919bc4925c89ab2f7436e3a380f683f93e",
+          "title": "微软阐述开源模型助力美国竞争力路径 / Open-weight models are essential to a healthy AI ecosystem. Together with others across our industry…",
+          "title_zh": "微软阐述开源模型助力美国竞争力路径",
+          "title_ja": "オープンウェイト モデルは健全な AI エコシステムに不可欠です。業界全体の皆様と一緒に…",
+          "title_en": "Open-weight models are essential to a healthy AI ecosystem. Together with others across our industry…",
+          "title_original": "Open-weight models are essential to a healthy AI ecosystem. Together with others across our industry…",
+          "summary": "开放权重模型对健康的 AI 生态系统至关重要。我们与行业同仁一道，正在规划一条路径，让开放权重模型在保护国家安全的同时，增强美国竞争力并扩大经济机会。",
+          "summary_ja": "オープンウェイト モデルは、健全な AI エコシステムにとって不可欠です。私たちは業界の同僚と協力して、国家安全保障を守りながら米国の競争力を強化し、経済的機会を拡大するための非加重モデルの道筋を描いています。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/satyanadella/status/2080646162483417097",
+          "source": "X：Satya Nadella (@satyanadella)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T13:27:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Satya Nadella (@satyanadella)"
+      ],
+      "items": [
+        {
+          "id": "635efd919bc4925c89ab2f7436e3a380f683f93e",
+          "title": "微软阐述开源模型助力美国竞争力路径 / Open-weight models are essential to a healthy AI ecosystem. Together with others across our industry…",
+          "title_zh": "微软阐述开源模型助力美国竞争力路径",
+          "title_ja": "オープンウェイト モデルは健全な AI エコシステムに不可欠です。業界全体の皆様と一緒に…",
+          "title_en": "Open-weight models are essential to a healthy AI ecosystem. Together with others across our industry…",
+          "title_original": "Open-weight models are essential to a healthy AI ecosystem. Together with others across our industry…",
+          "summary": "开放权重模型对健康的 AI 生态系统至关重要。我们与行业同仁一道，正在规划一条路径，让开放权重模型在保护国家安全的同时，增强美国竞争力并扩大经济机会。",
+          "summary_ja": "オープンウェイト モデルは、健全な AI エコシステムにとって不可欠です。私たちは業界の同僚と協力して、国家安全保障を守りながら米国の競争力を強化し、経済的機会を拡大するための非加重モデルの道筋を描いています。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/satyanadella/status/2080646162483417097",
+          "source": "X：Satya Nadella (@satyanadella)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T13:27:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.726,
+      "importance": 0.726,
+      "importance_score": 0.726,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7358,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-24T13:27:56Z",
+      "latest_at": "2026-07-24T13:27:56Z",
+      "primary_item": {
+        "id": "635efd919bc4925c89ab2f7436e3a380f683f93e",
+        "title": "微软阐述开源模型助力美国竞争力路径 / Open-weight models are essential to a healthy AI ecosystem. Together with others across our industry…",
+        "title_zh": "微软阐述开源模型助力美国竞争力路径",
+        "title_ja": "オープンウェイト モデルは健全な AI エコシステムに不可欠です。業界全体の皆様と一緒に…",
+        "title_en": "Open-weight models are essential to a healthy AI ecosystem. Together with others across our industry…",
+        "title_original": "Open-weight models are essential to a healthy AI ecosystem. Together with others across our industry…",
+        "summary": "开放权重模型对健康的 AI 生态系统至关重要。我们与行业同仁一道，正在规划一条路径，让开放权重模型在保护国家安全的同时，增强美国竞争力并扩大经济机会。",
+        "summary_ja": "オープンウェイト モデルは、健全な AI エコシステムにとって不可欠です。私たちは業界の同僚と協力して、国家安全保障を守りながら米国の競争力を強化し、経済的機会を拡大するための非加重モデルの道筋を描いています。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/satyanadella/status/2080646162483417097",
+        "source": "X：Satya Nadella (@satyanadella)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-25T10:43:42.322730Z"
+      }
+    },
+    {
+      "story_id": "story_27602b8b9645",
+      "title": "FLUX 3 x mimic：新一代视频动作模型",
+      "title_ja": "FLUX 3 x mimic: 新世代のビデオ アクション モデル",
+      "url": "https://bfl.ai/blog/flux-3-mimic",
+      "primary_url": "https://bfl.ai/blog/flux-3-mimic",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "fd77d4f467151087a7e14015ce2e68234888ff71",
+          "title": "FLUX 3 x mimic：新一代视频动作模型",
+          "title_zh": "FLUX 3 x mimic：新一代视频动作模型",
+          "title_ja": "FLUX 3 x mimic: 新世代のビデオ アクション モデル",
+          "title_en": null,
+          "title_original": "FLUX 3 x mimic：新一代视频动作模型",
+          "summary": "Black Forest Labs 发布多模态基础模型 FLUX 3，联合训练图像、视频和音频，其中视频预测占训练算力的 95% 以上。该模型与机器人公司 mimic 合作推出 FLUX-mimic，已在奥迪生产线上测试部署。加入动作预测后，视频生成质量最初下降最多 10%，但经 3500 步训练后恢复原有水平。",
+          "summary_ja": "Black Forest Labs は、画像、ビデオ、オーディオを共同でトレーニングするマルチモーダル基本モデル FLUX 3 をリリースしました。トレーニングのコンピューティング能力の 95% 以上をビデオ予測が占めています。ロボット企業mimic社、FLUX-mimic社と提携して発売されたこのモデルは、すでにテストされ、アウディの生産ラインに導入されています。アクション予測を追加した後、ビデオ生成の品質は最初は最大 10% 低下しましたが、3500 トレーニング ステップ後には元のレベルに戻りました。",
+          "recommend_reason_zh": null,
+          "url": "https://bfl.ai/blog/flux-3-mimic",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T11:55:45.885000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "fd77d4f467151087a7e14015ce2e68234888ff71",
+          "title": "FLUX 3 x mimic：新一代视频动作模型",
+          "title_zh": "FLUX 3 x mimic：新一代视频动作模型",
+          "title_ja": "FLUX 3 x mimic: 新世代のビデオ アクション モデル",
+          "title_en": null,
+          "title_original": "FLUX 3 x mimic：新一代视频动作模型",
+          "summary": "Black Forest Labs 发布多模态基础模型 FLUX 3，联合训练图像、视频和音频，其中视频预测占训练算力的 95% 以上。该模型与机器人公司 mimic 合作推出 FLUX-mimic，已在奥迪生产线上测试部署。加入动作预测后，视频生成质量最初下降最多 10%，但经 3500 步训练后恢复原有水平。",
+          "summary_ja": "Black Forest Labs は、画像、ビデオ、オーディオを共同でトレーニングするマルチモーダル基本モデル FLUX 3 をリリースしました。トレーニングのコンピューティング能力の 95% 以上をビデオ予測が占めています。ロボット企業mimic社、FLUX-mimic社と提携して発売されたこのモデルは、すでにテストされ、アウディの生産ラインに導入されています。アクション予測を追加した後、ビデオ生成の品質は最初は最大 10% 低下しましたが、3500 トレーニング ステップ後には元のレベルに戻りました。",
+          "recommend_reason_zh": null,
+          "url": "https://bfl.ai/blog/flux-3-mimic",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T11:55:45.885000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7261,
+      "importance": 0.7261,
+      "importance_score": 0.7261,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7197,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-24T11:55:45.885000Z",
+      "latest_at": "2026-07-24T11:55:45.885000Z",
+      "primary_item": {
+        "id": "fd77d4f467151087a7e14015ce2e68234888ff71",
+        "title": "FLUX 3 x mimic：新一代视频动作模型",
+        "title_zh": "FLUX 3 x mimic：新一代视频动作模型",
+        "title_ja": "FLUX 3 x mimic: 新世代のビデオ アクション モデル",
+        "title_en": null,
+        "title_original": "FLUX 3 x mimic：新一代视频动作模型",
+        "summary": "Black Forest Labs 发布多模态基础模型 FLUX 3，联合训练图像、视频和音频，其中视频预测占训练算力的 95% 以上。该模型与机器人公司 mimic 合作推出 FLUX-mimic，已在奥迪生产线上测试部署。加入动作预测后，视频生成质量最初下降最多 10%，但经 3500 步训练后恢复原有水平。",
+        "summary_ja": "Black Forest Labs は、画像、ビデオ、オーディオを共同でトレーニングするマルチモーダル基本モデル FLUX 3 をリリースしました。トレーニングのコンピューティング能力の 95% 以上をビデオ予測が占めています。ロボット企業mimic社、FLUX-mimic社と提携して発売されたこのモデルは、すでにテストされ、アウディの生産ラインに導入されています。アクション予測を追加した後、ビデオ生成の品質は最初は最大 10% 低下しましたが、3500 トレーニング ステップ後には元のレベルに戻りました。",
+        "recommend_reason_zh": null,
+        "url": "https://bfl.ai/blog/flux-3-mimic",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-25T10:43:42.322730Z"
+      }
+    },
+    {
+      "story_id": "story_1b6fa8de7ae9",
+      "title": "Anthropic 的 Claude Opus 5 以一半的代币价格提供接近 Fable 5 的性能 / Anthropic's Claude Opus 5 delivers near-Fable 5 performance at half the token price",
+      "title_ja": "Anthropic の Claude Opus 5 は、半額のトークン価格で Fable 5 に近いパフォーマンスを実現します",
+      "url": "https://the-decoder.com/anthropic-claims-its-new-claude-opus-5-delivers-near-fable-5-performance-at-half-the-token-price",
+      "primary_url": "https://the-decoder.com/anthropic-claims-its-new-claude-opus-5-delivers-near-fable-5-performance-at-half-the-token-price",
+      "source": "The Decoder AI News",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "bcdeb2b9386f095faaff8320b61d5e7afaa855ba",
+          "title": "Anthropic 的 Claude Opus 5 以一半的代币价格提供接近 Fable 5 的性能 / Anthropic's Claude Opus 5 delivers near-Fable 5 performance at half the token price",
+          "title_zh": "Anthropic 的 Claude Opus 5 以一半的代币价格提供接近 Fable 5 的性能",
+          "title_ja": "Anthropic の Claude Opus 5 は、半額のトークン価格で Fable 5 に近いパフォーマンスを実現します",
+          "title_en": "Anthropic's Claude Opus 5 delivers near-Fable 5 performance at half the token price",
+          "title_original": "Anthropic's Claude Opus 5 delivers near-Fable 5 performance at half the token price",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/anthropic-claims-its-new-claude-opus-5-delivers-near-fable-5-performance-at-half-the-token-price",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-25T10:04:42Z"
+        },
+        {
+          "id": "cd4d82b93243982b6f87df1a82dc7397086ee84c",
+          "title": "Anthropic 声称其新的 Claude Opus 5 以一半的代币价格提供了接近 Fable 5 的性能 / Anthropic claims its new Claude Opus 5 delivers near-Fable 5 performance at half the token price",
+          "title_zh": "Anthropic 声称其新的 Claude Opus 5 以一半的代币价格提供了接近 Fable 5 的性能",
+          "title_ja": "Anthropicは、新しいClaude Opus 5がトークン価格の半分でFable 5に近いパフォーマンスを提供すると主張しています",
+          "title_en": "Anthropic claims its new Claude Opus 5 delivers near-Fable 5 performance at half the token price",
+          "title_original": "Anthropic claims its new Claude Opus 5 delivers near-Fable 5 performance at half the token price",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/anthropic-claims-its-new-claude-opus-5-delivers-near-fable-5-performance-at-half-the-token-price",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-24T18:36:42Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Decoder AI News"
+      ],
+      "items": [
+        {
+          "id": "bcdeb2b9386f095faaff8320b61d5e7afaa855ba",
+          "title": "Anthropic 的 Claude Opus 5 以一半的代币价格提供接近 Fable 5 的性能 / Anthropic's Claude Opus 5 delivers near-Fable 5 performance at half the token price",
+          "title_zh": "Anthropic 的 Claude Opus 5 以一半的代币价格提供接近 Fable 5 的性能",
+          "title_ja": "Anthropic の Claude Opus 5 は、半額のトークン価格で Fable 5 に近いパフォーマンスを実現します",
+          "title_en": "Anthropic's Claude Opus 5 delivers near-Fable 5 performance at half the token price",
+          "title_original": "Anthropic's Claude Opus 5 delivers near-Fable 5 performance at half the token price",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/anthropic-claims-its-new-claude-opus-5-delivers-near-fable-5-performance-at-half-the-token-price",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-25T10:04:42Z"
+        },
+        {
+          "id": "cd4d82b93243982b6f87df1a82dc7397086ee84c",
+          "title": "Anthropic 声称其新的 Claude Opus 5 以一半的代币价格提供了接近 Fable 5 的性能 / Anthropic claims its new Claude Opus 5 delivers near-Fable 5 performance at half the token price",
+          "title_zh": "Anthropic 声称其新的 Claude Opus 5 以一半的代币价格提供了接近 Fable 5 的性能",
+          "title_ja": "Anthropicは、新しいClaude Opus 5がトークン価格の半分でFable 5に近いパフォーマンスを提供すると主張しています",
+          "title_en": "Anthropic claims its new Claude Opus 5 delivers near-Fable 5 performance at half the token price",
+          "title_original": "Anthropic claims its new Claude Opus 5 delivers near-Fable 5 performance at half the token price",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/anthropic-claims-its-new-claude-opus-5-delivers-near-fable-5-performance-at-half-the-token-price",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-24T18:36:42Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6721,
+      "importance": 0.6721,
+      "importance_score": 0.6721,
+      "importance_label": "值得关注",
+      "importance_label_ja": "要注目",
+      "importance_breakdown": {
+        "editorial": 0.5904,
+        "source_tier": 0.58,
+        "ai_relevance": 0.82,
+        "recency": 0.9909,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-24T18:36:42Z",
+      "latest_at": "2026-07-25T10:04:42Z",
+      "primary_item": {
+        "id": "bcdeb2b9386f095faaff8320b61d5e7afaa855ba",
+        "title": "Anthropic 的 Claude Opus 5 以一半的代币价格提供接近 Fable 5 的性能 / Anthropic's Claude Opus 5 delivers near-Fable 5 performance at half the token price",
+        "title_zh": "Anthropic 的 Claude Opus 5 以一半的代币价格提供接近 Fable 5 的性能",
+        "title_ja": "Anthropic の Claude Opus 5 は、半額のトークン価格で Fable 5 に近いパフォーマンスを実現します",
+        "title_en": "Anthropic's Claude Opus 5 delivers near-Fable 5 performance at half the token price",
+        "title_original": "Anthropic's Claude Opus 5 delivers near-Fable 5 performance at half the token price",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://the-decoder.com/anthropic-claims-its-new-claude-opus-5-delivers-near-fable-5-performance-at-half-the-token-price",
+        "source": "The Decoder AI News",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-25T10:43:42.322730Z"
       }
     },
     {
@@ -1419,16 +1170,16 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5355,
-      "importance": 0.5355,
-      "importance_score": 0.5355,
+      "score": 0.5323,
+      "importance": 0.5323,
+      "importance_score": 0.5323,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8037,
+        "recency": 0.7863,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1455,7 +1206,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-25T09:12:58.831973Z"
+        "scored_at": "2026-07-25T10:43:42.322730Z"
       }
     },
     {
@@ -1574,16 +1325,16 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5338,
-      "importance": 0.5338,
-      "importance_score": 0.5338,
+      "score": 0.5307,
+      "importance": 0.5307,
+      "importance_score": 0.5307,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7945,
+        "recency": 0.7773,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1610,162 +1361,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-25T09:12:58.831973Z"
-      }
-    },
-    {
-      "story_id": "story_37308b6241d5",
-      "title": "Hetzner 正在开发 LLM 推理服务",
-      "title_ja": "Hetzner は LLM 推論サービスを開発しています",
-      "url": "https://sliplane.io/blog/hetzner-inference",
-      "primary_url": "https://sliplane.io/blog/hetzner-inference",
-      "source": "sliplane.io",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "efdb65b458ae12396aef1143f5bb760beea79787",
-          "title": "Hetzner 正在开发 LLM 推理服务",
-          "title_zh": "Hetzner 正在开发 LLM 推理服务",
-          "title_ja": "Hetzner は LLM 推論サービスを開発しています",
-          "title_en": null,
-          "title_original": "Hetzner 正在开发 LLM 推理服务",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://sliplane.io/blog/hetzner-inference",
-          "source": "sliplane.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T14:19:40.181000Z"
-        },
-        {
-          "id": "ec6aa9aa0da5237679ff2efdcfb7b679c74dee67",
-          "title": "Hetzner 正在研究 LLM Inference / Hetzner is working on LLM Inference",
-          "title_zh": "Hetzner 正在研究 LLM Inference",
-          "title_ja": "Hetzner は LLM 推論に取り組んでいます",
-          "title_en": "Hetzner is working on LLM Inference",
-          "title_original": "Hetzner is working on LLM Inference",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49033087",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-24T12:05:53.543000Z"
-        },
-        {
-          "id": "9f81bbdba19d6e10c9db8cb270ec2a6efb57d8fc",
-          "title": "Hetzner 正在开发 LLM 推理服务 / Hetzner is working on LLM Inference",
-          "title_zh": "Hetzner 正在开发 LLM 推理服务",
-          "title_ja": "Hetzner は LLM 推論に取り組んでいます",
-          "title_en": "Hetzner is working on LLM Inference",
-          "title_original": "Hetzner is working on LLM Inference",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://sliplane.io/blog/hetzner-inference",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-24T09:24:44Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "sliplane.io"
-      ],
-      "items": [
-        {
-          "id": "efdb65b458ae12396aef1143f5bb760beea79787",
-          "title": "Hetzner 正在开发 LLM 推理服务",
-          "title_zh": "Hetzner 正在开发 LLM 推理服务",
-          "title_ja": "Hetzner は LLM 推論サービスを開発しています",
-          "title_en": null,
-          "title_original": "Hetzner 正在开发 LLM 推理服务",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://sliplane.io/blog/hetzner-inference",
-          "source": "sliplane.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T14:19:40.181000Z"
-        },
-        {
-          "id": "ec6aa9aa0da5237679ff2efdcfb7b679c74dee67",
-          "title": "Hetzner 正在研究 LLM Inference / Hetzner is working on LLM Inference",
-          "title_zh": "Hetzner 正在研究 LLM Inference",
-          "title_ja": "Hetzner は LLM 推論に取り組んでいます",
-          "title_en": "Hetzner is working on LLM Inference",
-          "title_original": "Hetzner is working on LLM Inference",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49033087",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-24T12:05:53.543000Z"
-        },
-        {
-          "id": "9f81bbdba19d6e10c9db8cb270ec2a6efb57d8fc",
-          "title": "Hetzner 正在开发 LLM 推理服务 / Hetzner is working on LLM Inference",
-          "title_zh": "Hetzner 正在开发 LLM 推理服务",
-          "title_ja": "Hetzner は LLM 推論に取り組んでいます",
-          "title_en": "Hetzner is working on LLM Inference",
-          "title_original": "Hetzner is working on LLM Inference",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://sliplane.io/blog/hetzner-inference",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-24T09:24:44Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5279,
-      "importance": 0.5279,
-      "importance_score": 0.5279,
-      "importance_label": "多源热议",
-      "importance_label_ja": "複数ソースで話題",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7615,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-24T09:24:44Z",
-      "latest_at": "2026-07-24T14:19:40.181000Z",
-      "primary_item": {
-        "id": "efdb65b458ae12396aef1143f5bb760beea79787",
-        "title": "Hetzner 正在开发 LLM 推理服务",
-        "title_zh": "Hetzner 正在开发 LLM 推理服务",
-        "title_ja": "Hetzner は LLM 推論サービスを開発しています",
-        "title_en": null,
-        "title_original": "Hetzner 正在开发 LLM 推理服务",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://sliplane.io/blog/hetzner-inference",
-        "source": "sliplane.io",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-25T09:12:58.831973Z"
+        "scored_at": "2026-07-25T10:43:42.322730Z"
       }
     },
     {
@@ -1851,16 +1447,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5251,
-      "importance": 0.5251,
-      "importance_score": 0.5251,
+      "score": 0.5216,
+      "importance": 0.5216,
+      "importance_score": 0.5216,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.885,
+        "recency": 0.8658,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1887,7 +1483,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-25T09:12:58.831973Z"
+        "scored_at": "2026-07-25T10:43:42.322730Z"
       }
     },
     {
@@ -1973,16 +1569,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5088,
-      "importance": 0.5088,
-      "importance_score": 0.5088,
+      "score": 0.5057,
+      "importance": 0.5057,
+      "importance_score": 0.5057,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7945,
+        "recency": 0.7773,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2009,7 +1605,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-25T09:12:58.831973Z"
+        "scored_at": "2026-07-25T10:43:42.322730Z"
       }
     },
     {
@@ -2095,16 +1691,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5026,
-      "importance": 0.5026,
-      "importance_score": 0.5026,
+      "score": 0.4996,
+      "importance": 0.4996,
+      "importance_score": 0.4996,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7598,
+        "recency": 0.7433,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2128,10 +1724,10 @@
         "source_name": "NewsNow"
       },
       "persona_id": "pragmatic",
-      "persona_score": 1,
+      "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-25T09:12:58.831973Z"
+        "scored_at": "2026-07-25T10:43:42.322730Z"
       }
     },
     {
@@ -2217,16 +1813,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5026,
-      "importance": 0.5026,
-      "importance_score": 0.5026,
+      "score": 0.4996,
+      "importance": 0.4996,
+      "importance_score": 0.4996,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7598,
+        "recency": 0.7433,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2250,10 +1846,10 @@
         "source_name": "NewsNow"
       },
       "persona_id": "pragmatic",
-      "persona_score": 1,
+      "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-25T09:12:58.831973Z"
+        "scored_at": "2026-07-25T10:43:42.322730Z"
       }
     }
   ]
