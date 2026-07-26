@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-26T18:11:14.533694Z",
+  "generated_at": "2026-07-26T19:32:56.709712Z",
   "window_hours": 24,
-  "total_items": 15,
+  "total_items": 17,
   "items": [
     {
-      "story_id": "story_fd83d61e5894",
+      "story_id": "story_12116ef69e35",
       "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
       "title_ja": "8 ドルの ESP32-S3 マイクロコントローラーで 2,890 万パラメーターの大規模言語モデルを実行する",
       "url": "https://github.com/slvDev/esp32-ai",
@@ -43,46 +43,12 @@
           "source_name": "Buzzing",
           "site_id": "buzzing",
           "published_at": "2026-07-26T03:54:52.332000Z"
-        },
-        {
-          "id": "78d7d4403a4002210cc614ea22b03df47beea53e",
-          "title": "在 8 美元的微控制器上运行 2890 万参数的 LLM / Running a 28.9M parameter LLM on an $8 microcontroller",
-          "title_zh": "在 8 美元的微控制器上运行 2890 万参数的 LLM",
-          "title_ja": "8ドルのマイクロコントローラーで2,890万パラメータのLLMを実行",
-          "title_en": "Running a 28.9M parameter LLM on an $8 microcontroller",
-          "title_original": "Running a 28.9M parameter LLM on an $8 microcontroller",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49050512",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-25T23:10:54.951000Z"
-        },
-        {
-          "id": "d608f6eea734b97e04e648d443cbf33a29812ee1",
-          "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型 / Running a 28.9M parameter LLM on an $8 microcontroller",
-          "title_zh": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
-          "title_ja": "8ドルのマイクロコントローラーで2,890万パラメータのLLMを実行",
-          "title_en": "Running a 28.9M parameter LLM on an $8 microcontroller",
-          "title_original": "Running a 28.9M parameter LLM on an $8 microcontroller",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/slvDev/esp32-ai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T18:59:50Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
         "Hacker News 热门（buzzing.cc 中文翻译）",
-        "github.com",
-        "hackernews"
+        "github.com"
       ],
       "items": [
         {
@@ -116,61 +82,29 @@
           "source_name": "Buzzing",
           "site_id": "buzzing",
           "published_at": "2026-07-26T03:54:52.332000Z"
-        },
-        {
-          "id": "78d7d4403a4002210cc614ea22b03df47beea53e",
-          "title": "在 8 美元的微控制器上运行 2890 万参数的 LLM / Running a 28.9M parameter LLM on an $8 microcontroller",
-          "title_zh": "在 8 美元的微控制器上运行 2890 万参数的 LLM",
-          "title_ja": "8ドルのマイクロコントローラーで2,890万パラメータのLLMを実行",
-          "title_en": "Running a 28.9M parameter LLM on an $8 microcontroller",
-          "title_original": "Running a 28.9M parameter LLM on an $8 microcontroller",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49050512",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-25T23:10:54.951000Z"
-        },
-        {
-          "id": "d608f6eea734b97e04e648d443cbf33a29812ee1",
-          "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型 / Running a 28.9M parameter LLM on an $8 microcontroller",
-          "title_zh": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
-          "title_ja": "8ドルのマイクロコントローラーで2,890万パラメータのLLMを実行",
-          "title_en": "Running a 28.9M parameter LLM on an $8 microcontroller",
-          "title_original": "Running a 28.9M parameter LLM on an $8 microcontroller",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/slvDev/esp32-ai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T18:59:50Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8211,
-      "importance": 0.8211,
-      "importance_score": 0.8211,
-      "importance_label": "多源热议",
-      "importance_label_ja": "複数ソースで話題",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7682,
+      "importance": 0.7682,
+      "importance_score": 0.7682,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8137,
-        "story_heat": 0.75
+        "recency": 0.7979,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "industry",
       "reasons": [
         "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-25T18:59:50Z",
+      "earliest_at": "2026-07-26T03:54:52.332000Z",
       "latest_at": "2026-07-26T03:54:52.332000Z",
       "primary_item": {
         "id": "cc96f9f73280ff1d60a721d8b876081729a90645",
@@ -190,7 +124,97 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T18:12:12.202432Z"
+        "scored_at": "2026-07-26T19:33:47.463071Z"
+      }
+    },
+    {
+      "story_id": "story_b171ba4f1505",
+      "title": "Suno 推出多项新功能，含MIDI导出等 / We've been building faster than ever！ 🚀 Here's a quick look at what's new across web & mobile： • …",
+      "title_ja": "私たちはこれまで以上に迅速に構築してきました！ 🚀 ウェブとモバイルの新機能を簡単に見てみましょう： • …",
+      "url": "https://x.com/suno/status/2081443050312843765",
+      "primary_url": "https://x.com/suno/status/2081443050312843765",
+      "source": "X：Suno (@suno)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "aaa781f2714a25da4b652de4787f304a23ab69a1",
+          "title": "Suno 推出多项新功能，含MIDI导出等 / We've been building faster than ever！ 🚀 Here's a quick look at what's new across web & mobile： • …",
+          "title_zh": "Suno 推出多项新功能，含MIDI导出等",
+          "title_ja": "私たちはこれまで以上に迅速に構築してきました！ 🚀 ウェブとモバイルの新機能を簡単に見てみましょう： • …",
+          "title_en": "We've been building faster than ever！ 🚀 Here's a quick look at what's new across web & mobile： • …",
+          "title_original": "We've been building faster than ever！ 🚀 Here's a quick look at what's new across web & mobile： • …",
+          "summary": "我们一直在以比以往更快的速度构建！🚀\n\n以下是网页端和移动端的新功能一览：\n\n• 高级音轨分离 • 将音轨导出为 MIDI • 歌词合写与自动保存 • 截图生成歌曲 • Apple CarPlay 与 Android Auto\n\n你最期待 Suno 的哪些新功能？",
+          "summary_ja": "私たちはこれまで以上に早く構築してきました。 🚀\n\nWeb とモバイルの新機能の概要は次のとおりです。\n\n• 高度なトラック分離 • MIDI へのトラックのエクスポート • 歌詞の共同作成と自動保存 • スクリーンショットで生成された曲 • Apple CarPlay と Android Auto\n\nSuno のどの新機能を最も楽しみにしていますか?",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/suno/status/2081443050312843765",
+          "source": "X：Suno (@suno)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-26T18:14:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Suno (@suno)"
+      ],
+      "items": [
+        {
+          "id": "aaa781f2714a25da4b652de4787f304a23ab69a1",
+          "title": "Suno 推出多项新功能，含MIDI导出等 / We've been building faster than ever！ 🚀 Here's a quick look at what's new across web & mobile： • …",
+          "title_zh": "Suno 推出多项新功能，含MIDI导出等",
+          "title_ja": "私たちはこれまで以上に迅速に構築してきました！ 🚀 ウェブとモバイルの新機能を簡単に見てみましょう： • …",
+          "title_en": "We've been building faster than ever！ 🚀 Here's a quick look at what's new across web & mobile： • …",
+          "title_original": "We've been building faster than ever！ 🚀 Here's a quick look at what's new across web & mobile： • …",
+          "summary": "我们一直在以比以往更快的速度构建！🚀\n\n以下是网页端和移动端的新功能一览：\n\n• 高级音轨分离 • 将音轨导出为 MIDI • 歌词合写与自动保存 • 截图生成歌曲 • Apple CarPlay 与 Android Auto\n\n你最期待 Suno 的哪些新功能？",
+          "summary_ja": "私たちはこれまで以上に早く構築してきました。 🚀\n\nWeb とモバイルの新機能の概要は次のとおりです。\n\n• 高度なトラック分離 • MIDI へのトラックのエクスポート • 歌詞の共同作成と自動保存 • スクリーンショットで生成された曲 • Apple CarPlay と Android Auto\n\nSuno のどの新機能を最も楽しみにしていますか?",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/suno/status/2081443050312843765",
+          "source": "X：Suno (@suno)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-26T18:14:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7522,
+      "importance": 0.7522,
+      "importance_score": 0.7522,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9813,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-26T18:14:29Z",
+      "latest_at": "2026-07-26T18:14:29Z",
+      "primary_item": {
+        "id": "aaa781f2714a25da4b652de4787f304a23ab69a1",
+        "title": "Suno 推出多项新功能，含MIDI导出等 / We've been building faster than ever！ 🚀 Here's a quick look at what's new across web & mobile： • …",
+        "title_zh": "Suno 推出多项新功能，含MIDI导出等",
+        "title_ja": "私たちはこれまで以上に迅速に構築してきました！ 🚀 ウェブとモバイルの新機能を簡単に見てみましょう： • …",
+        "title_en": "We've been building faster than ever！ 🚀 Here's a quick look at what's new across web & mobile： • …",
+        "title_original": "We've been building faster than ever！ 🚀 Here's a quick look at what's new across web & mobile： • …",
+        "summary": "我们一直在以比以往更快的速度构建！🚀\n\n以下是网页端和移动端的新功能一览：\n\n• 高级音轨分离 • 将音轨导出为 MIDI • 歌词合写与自动保存 • 截图生成歌曲 • Apple CarPlay 与 Android Auto\n\n你最期待 Suno 的哪些新功能？",
+        "summary_ja": "私たちはこれまで以上に早く構築してきました。 🚀\n\nWeb とモバイルの新機能の概要は次のとおりです。\n\n• 高度なトラック分離 • MIDI へのトラックのエクスポート • 歌詞の共同作成と自動保存 • スクリーンショットで生成された曲 • Apple CarPlay と Android Auto\n\nSuno のどの新機能を最も楽しみにしていますか?",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/suno/status/2081443050312843765",
+        "source": "X：Suno (@suno)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-26T19:33:47.463071Z"
       }
     },
     {
@@ -243,22 +267,21 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7514,
-      "importance": 0.7514,
-      "importance_score": 0.7514,
+      "score": 0.7481,
+      "importance": 0.7481,
+      "importance_score": 0.7481,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9266,
+        "recency": 0.9086,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-26T12:54:28Z",
       "latest_at": "2026-07-26T12:54:28Z",
@@ -280,7 +303,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T18:12:12.202432Z"
+        "scored_at": "2026-07-26T19:33:47.463071Z"
       }
     },
     {
@@ -333,16 +356,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7473,
-      "importance": 0.7473,
-      "importance_score": 0.7473,
+      "score": 0.7443,
+      "importance": 0.7443,
+      "importance_score": 0.7443,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8707,
+        "recency": 0.8537,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -369,7 +392,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T18:12:12.202432Z"
+        "scored_at": "2026-07-26T19:33:47.463071Z"
       }
     },
     {
@@ -422,16 +445,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7316,
-      "importance": 0.7316,
-      "importance_score": 0.7316,
+      "score": 0.7287,
+      "importance": 0.7287,
+      "importance_score": 0.7287,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8333,
+        "recency": 0.8171,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -458,7 +481,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T18:12:12.202432Z"
+        "scored_at": "2026-07-26T19:33:47.463071Z"
       }
     },
     {
@@ -642,16 +665,16 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5873,
-      "importance": 0.5873,
-      "importance_score": 0.5873,
+      "score": 0.5844,
+      "importance": 0.5844,
+      "importance_score": 0.5844,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8137,
+        "recency": 0.7979,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -678,7 +701,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T18:12:12.202432Z"
+        "scored_at": "2026-07-26T19:33:47.463071Z"
       }
     },
     {
@@ -797,16 +820,16 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5676,
-      "importance": 0.5676,
-      "importance_score": 0.5676,
+      "score": 0.5641,
+      "importance": 0.5641,
+      "importance_score": 0.5641,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.982,
+        "recency": 0.9629,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -833,7 +856,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T18:12:12.202432Z"
+        "scored_at": "2026-07-26T19:33:47.463071Z"
       }
     },
     {
@@ -952,16 +975,16 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5533,
-      "importance": 0.5533,
-      "importance_score": 0.5533,
+      "score": 0.5502,
+      "importance": 0.5502,
+      "importance_score": 0.5502,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9029,
+        "recency": 0.8853,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -988,7 +1011,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T18:12:12.202432Z"
+        "scored_at": "2026-07-26T19:33:47.463071Z"
       }
     },
     {
@@ -1033,7 +1056,7 @@
           "published_at": "2026-07-26T03:36:38.722000Z"
         },
         {
-          "id": "2d1e732658f9db304dfc22de572764252c7c2efa",
+          "id": "4893a4df9d2c99406c7644a2867f3ff311785ce2",
           "title": "Cloudflare 面向客户推出的全新 AI 流量管理选项 / Cloudflare's new AI traffic options for customers",
           "title_zh": "Cloudflare 面向客户推出的全新 AI 流量管理选项",
           "title_ja": "Cloudflareの顧客向けの新しいAIトラフィックオプション",
@@ -1043,15 +1066,15 @@
           "summary_ja": null,
           "recommend_reason_zh": null,
           "url": "https://blog.cloudflare.com/content-independence-day-ai-options",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-25T22:50:49Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "blog.cloudflare.com",
         "hackernews"
       ],
@@ -1089,7 +1112,7 @@
           "published_at": "2026-07-26T03:36:38.722000Z"
         },
         {
-          "id": "2d1e732658f9db304dfc22de572764252c7c2efa",
+          "id": "4893a4df9d2c99406c7644a2867f3ff311785ce2",
           "title": "Cloudflare 面向客户推出的全新 AI 流量管理选项 / Cloudflare's new AI traffic options for customers",
           "title_zh": "Cloudflare 面向客户推出的全新 AI 流量管理选项",
           "title_ja": "Cloudflareの顧客向けの新しいAIトラフィックオプション",
@@ -1099,24 +1122,24 @@
           "summary_ja": null,
           "recommend_reason_zh": null,
           "url": "https://blog.cloudflare.com/content-independence-day-ai-options",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-25T22:50:49Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.546,
-      "importance": 0.546,
-      "importance_score": 0.546,
+      "score": 0.543,
+      "importance": 0.543,
+      "importance_score": 0.543,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8621,
+        "recency": 0.8453,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1143,7 +1166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T18:12:12.202432Z"
+        "scored_at": "2026-07-26T19:33:47.463071Z"
       }
     },
     {
@@ -1262,16 +1285,16 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5373,
-      "importance": 0.5373,
-      "importance_score": 0.5373,
+      "score": 0.5344,
+      "importance": 0.5344,
+      "importance_score": 0.5344,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8137,
+        "recency": 0.7979,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1298,7 +1321,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T18:12:12.202432Z"
+        "scored_at": "2026-07-26T19:33:47.463071Z"
       }
     },
     {
@@ -1343,7 +1366,7 @@
           "published_at": "2026-07-25T21:53:29.575000Z"
         },
         {
-          "id": "b29d63d16c40b219fb2e29ee30bdd9fc299b9abc",
+          "id": "d105580d62986262856d4df7c87a85dd27afd2ac",
           "title": "Claude 5 生成模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
           "title_zh": "Claude 5 生成模型的上下文工程新规则",
           "title_ja": "Claude 5 世代モデルのコンテキスト エンジニアリングの新しいルール",
@@ -1353,15 +1376,15 @@
           "summary_ja": null,
           "recommend_reason_zh": null,
           "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-25T20:42:35Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "claude.com",
         "hackernews"
       ],
@@ -1399,7 +1422,7 @@
           "published_at": "2026-07-25T21:53:29.575000Z"
         },
         {
-          "id": "b29d63d16c40b219fb2e29ee30bdd9fc299b9abc",
+          "id": "d105580d62986262856d4df7c87a85dd27afd2ac",
           "title": "Claude 5 生成模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
           "title_zh": "Claude 5 生成模型的上下文工程新规则",
           "title_ja": "Claude 5 世代モデルのコンテキスト エンジニアリングの新しいルール",
@@ -1409,24 +1432,24 @@
           "summary_ja": null,
           "recommend_reason_zh": null,
           "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-25T20:42:35Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.528,
-      "importance": 0.528,
-      "importance_score": 0.528,
+      "score": 0.5253,
+      "importance": 0.5253,
+      "importance_score": 0.5253,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7622,
+        "recency": 0.7474,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1453,7 +1476,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T18:12:12.202432Z"
+        "scored_at": "2026-07-26T19:33:47.463071Z"
       }
     },
     {
@@ -1539,16 +1562,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5204,
-      "importance": 0.5204,
-      "importance_score": 0.5204,
+      "score": 0.5174,
+      "importance": 0.5174,
+      "importance_score": 0.5174,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8588,
+        "recency": 0.8421,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1575,7 +1598,129 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T18:12:12.202432Z"
+        "scored_at": "2026-07-26T19:33:47.463071Z"
+      }
+    },
+    {
+      "story_id": "story_d8d5f7f780b2",
+      "title": "Show HN：HART OS – 一款开源 AI 操作系统，前沿 AI 无需数据中心 / Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+      "title_ja": "Show HN: HART OS – フロンティア AI がデータセンターを必要としないように構築されたオープンソース AI OS",
+      "url": "https://news.ycombinator.com/item?id=49061015",
+      "primary_url": "https://news.ycombinator.com/item?id=49061015",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "cac793e54a9f457b0b7095103d40a6570f5e4493",
+          "title": "Show HN：HART OS – 一款开源 AI 操作系统，前沿 AI 无需数据中心 / Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+          "title_zh": "Show HN：HART OS – 一款开源 AI 操作系统，前沿 AI 无需数据中心",
+          "title_ja": "Show HN: HART OS – フロンティア AI がデータセンターを必要としないように構築されたオープンソース AI OS",
+          "title_en": "Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+          "title_original": "Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49061015",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T19:33:16.040000Z"
+        },
+        {
+          "id": "610523dc201d5c47da83a2664c7cff8ffb9b780a",
+          "title": "Show HN：HART OS – 一款开源 AI 操作系统，前沿 AI 无需数据中心 / Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+          "title_zh": "Show HN：HART OS – 一款开源 AI 操作系统，前沿 AI 无需数据中心",
+          "title_ja": "Show HN: HART OS – フロンティア AI がデータセンターを必要としないように構築されたオープンソース AI OS",
+          "title_en": "Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+          "title_original": "Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/hertz-ai/HARTOS",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-26T18:40:08Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "cac793e54a9f457b0b7095103d40a6570f5e4493",
+          "title": "Show HN：HART OS – 一款开源 AI 操作系统，前沿 AI 无需数据中心 / Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+          "title_zh": "Show HN：HART OS – 一款开源 AI 操作系统，前沿 AI 无需数据中心",
+          "title_ja": "Show HN: HART OS – フロンティア AI がデータセンターを必要としないように構築されたオープンソース AI OS",
+          "title_en": "Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+          "title_original": "Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49061015",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T19:33:16.040000Z"
+        },
+        {
+          "id": "610523dc201d5c47da83a2664c7cff8ffb9b780a",
+          "title": "Show HN：HART OS – 一款开源 AI 操作系统，前沿 AI 无需数据中心 / Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+          "title_zh": "Show HN：HART OS – 一款开源 AI 操作系统，前沿 AI 无需数据中心",
+          "title_ja": "Show HN: HART OS – フロンティア AI がデータセンターを必要としないように構築されたオープンソース AI OS",
+          "title_en": "Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+          "title_original": "Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/hertz-ai/HARTOS",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-26T18:40:08Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_label_ja": "要注目",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-26T18:40:08Z",
+      "latest_at": "2026-07-26T19:33:16.040000Z",
+      "primary_item": {
+        "id": "cac793e54a9f457b0b7095103d40a6570f5e4493",
+        "title": "Show HN：HART OS – 一款开源 AI 操作系统，前沿 AI 无需数据中心 / Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+        "title_zh": "Show HN：HART OS – 一款开源 AI 操作系统，前沿 AI 无需数据中心",
+        "title_ja": "Show HN: HART OS – フロンティア AI がデータセンターを必要としないように構築されたオープンソース AI OS",
+        "title_en": "Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+        "title_original": "Show HN: HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49061015",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-26T19:33:47.463071Z"
       }
     },
     {
@@ -1661,16 +1806,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5451,
-      "importance": 0.5451,
-      "importance_score": 0.5451,
+      "score": 0.5417,
+      "importance": 0.5417,
+      "importance_score": 0.5417,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9963,
+        "recency": 0.9769,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1697,7 +1842,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T18:12:12.202432Z"
+        "scored_at": "2026-07-26T19:33:47.463071Z"
       }
     },
     {
@@ -1783,16 +1928,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5426,
-      "importance": 0.5426,
-      "importance_score": 0.5426,
+      "score": 0.5391,
+      "importance": 0.5391,
+      "importance_score": 0.5391,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.982,
+        "recency": 0.9629,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1819,162 +1964,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T18:12:12.202432Z"
-      }
-    },
-    {
-      "story_id": "story_2fe9abb9e4dd",
-      "title": "“人工智能狂热正在彻底改变全球决策” / 'AI Mania Is Eviscerating Global Decision-Making'",
-      "title_ja": "「AIマニアが世界的な意思決定を骨抜きにしている」",
-      "url": "https://news.ycombinator.com/item?id=49051692",
-      "primary_url": "https://news.ycombinator.com/item?id=49051692",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "1c457ee6bf171aa619d8b716e91619b1339d6f25",
-          "title": "“人工智能狂热正在彻底改变全球决策” / 'AI Mania Is Eviscerating Global Decision-Making'",
-          "title_zh": "“人工智能狂热正在彻底改变全球决策”",
-          "title_ja": "「AIマニアが世界的な意思決定を骨抜きにしている」",
-          "title_en": "'AI Mania Is Eviscerating Global Decision-Making'",
-          "title_original": "'AI Mania Is Eviscerating Global Decision-Making'",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49051692",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-25T21:53:29.575000Z"
-        },
-        {
-          "id": "902bb7442e2cfd97985cfa3cc79835c7a90f0bea",
-          "title": "“人工智能狂热正在彻底改变全球决策” / 'AI Mania Is Eviscerating Global Decision-Making'",
-          "title_zh": "“人工智能狂热正在彻底改变全球决策”",
-          "title_ja": "「AIマニアが世界的な意思決定を骨抜きにしている」",
-          "title_en": "'AI Mania Is Eviscerating Global Decision-Making'",
-          "title_original": "'AI Mania Is Eviscerating Global Decision-Making'",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T21:18:06Z"
-        },
-        {
-          "id": "b177dd60cd4406913c3921ae6f3b47fdeca5cab9",
-          "title": "“人工智能狂热正在彻底改变全球决策” / ‘AI Mania Is Eviscerating Global Decision-Making’",
-          "title_zh": "“人工智能狂热正在彻底改变全球决策”",
-          "title_ja": "「AIマニアが世界的な意思決定を骨抜きにしている」",
-          "title_en": "‘AI Mania Is Eviscerating Global Decision-Making’",
-          "title_original": "‘AI Mania Is Eviscerating Global Decision-Making’",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
-          "source": "Daring Fireball",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-25T18:15:12Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Daring Fireball",
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "1c457ee6bf171aa619d8b716e91619b1339d6f25",
-          "title": "“人工智能狂热正在彻底改变全球决策” / 'AI Mania Is Eviscerating Global Decision-Making'",
-          "title_zh": "“人工智能狂热正在彻底改变全球决策”",
-          "title_ja": "「AIマニアが世界的な意思決定を骨抜きにしている」",
-          "title_en": "'AI Mania Is Eviscerating Global Decision-Making'",
-          "title_original": "'AI Mania Is Eviscerating Global Decision-Making'",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49051692",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-25T21:53:29.575000Z"
-        },
-        {
-          "id": "902bb7442e2cfd97985cfa3cc79835c7a90f0bea",
-          "title": "“人工智能狂热正在彻底改变全球决策” / 'AI Mania Is Eviscerating Global Decision-Making'",
-          "title_zh": "“人工智能狂热正在彻底改变全球决策”",
-          "title_ja": "「AIマニアが世界的な意思決定を骨抜きにしている」",
-          "title_en": "'AI Mania Is Eviscerating Global Decision-Making'",
-          "title_original": "'AI Mania Is Eviscerating Global Decision-Making'",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T21:18:06Z"
-        },
-        {
-          "id": "b177dd60cd4406913c3921ae6f3b47fdeca5cab9",
-          "title": "“人工智能狂热正在彻底改变全球决策” / ‘AI Mania Is Eviscerating Global Decision-Making’",
-          "title_zh": "“人工智能狂热正在彻底改变全球决策”",
-          "title_ja": "「AIマニアが世界的な意思決定を骨抜きにしている」",
-          "title_en": "‘AI Mania Is Eviscerating Global Decision-Making’",
-          "title_original": "‘AI Mania Is Eviscerating Global Decision-Making’",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
-          "source": "Daring Fireball",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-25T18:15:12Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5251,
-      "importance": 0.5251,
-      "importance_score": 0.5251,
-      "importance_label": "多源热议",
-      "importance_label_ja": "複数ソースで話題",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.746,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-25T18:15:12Z",
-      "latest_at": "2026-07-25T21:53:29.575000Z",
-      "primary_item": {
-        "id": "1c457ee6bf171aa619d8b716e91619b1339d6f25",
-        "title": "“人工智能狂热正在彻底改变全球决策” / 'AI Mania Is Eviscerating Global Decision-Making'",
-        "title_zh": "“人工智能狂热正在彻底改变全球决策”",
-        "title_ja": "「AIマニアが世界的な意思決定を骨抜きにしている」",
-        "title_en": "'AI Mania Is Eviscerating Global Decision-Making'",
-        "title_original": "'AI Mania Is Eviscerating Global Decision-Making'",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49051692",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-26T18:12:12.202432Z"
+        "scored_at": "2026-07-26T19:33:47.463071Z"
       }
     },
     {
@@ -2060,16 +2050,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5046,
-      "importance": 0.5046,
-      "importance_score": 0.5046,
+      "score": 0.5019,
+      "importance": 0.5019,
+      "importance_score": 0.5019,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7713,
+        "recency": 0.7562,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2096,7 +2086,129 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T18:12:12.202432Z"
+        "scored_at": "2026-07-26T19:33:47.463071Z"
+      }
+    },
+    {
+      "story_id": "story_b3261f8eea24",
+      "title": "“人工智能狂热正在彻底改变全球决策” / 'AI Mania Is Eviscerating Global Decision-Making'",
+      "title_ja": "「AIマニアが世界的な意思決定を骨抜きにしている」",
+      "url": "https://news.ycombinator.com/item?id=49051692",
+      "primary_url": "https://news.ycombinator.com/item?id=49051692",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "1c457ee6bf171aa619d8b716e91619b1339d6f25",
+          "title": "“人工智能狂热正在彻底改变全球决策” / 'AI Mania Is Eviscerating Global Decision-Making'",
+          "title_zh": "“人工智能狂热正在彻底改变全球决策”",
+          "title_ja": "「AIマニアが世界的な意思決定を骨抜きにしている」",
+          "title_en": "'AI Mania Is Eviscerating Global Decision-Making'",
+          "title_original": "'AI Mania Is Eviscerating Global Decision-Making'",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49051692",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T21:53:29.575000Z"
+        },
+        {
+          "id": "902bb7442e2cfd97985cfa3cc79835c7a90f0bea",
+          "title": "“人工智能狂热正在彻底改变全球决策” / 'AI Mania Is Eviscerating Global Decision-Making'",
+          "title_zh": "“人工智能狂热正在彻底改变全球决策”",
+          "title_ja": "「AIマニアが世界的な意思決定を骨抜きにしている」",
+          "title_en": "'AI Mania Is Eviscerating Global Decision-Making'",
+          "title_original": "'AI Mania Is Eviscerating Global Decision-Making'",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-25T21:18:06Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "1c457ee6bf171aa619d8b716e91619b1339d6f25",
+          "title": "“人工智能狂热正在彻底改变全球决策” / 'AI Mania Is Eviscerating Global Decision-Making'",
+          "title_zh": "“人工智能狂热正在彻底改变全球决策”",
+          "title_ja": "「AIマニアが世界的な意思決定を骨抜きにしている」",
+          "title_en": "'AI Mania Is Eviscerating Global Decision-Making'",
+          "title_original": "'AI Mania Is Eviscerating Global Decision-Making'",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49051692",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T21:53:29.575000Z"
+        },
+        {
+          "id": "902bb7442e2cfd97985cfa3cc79835c7a90f0bea",
+          "title": "“人工智能狂热正在彻底改变全球决策” / 'AI Mania Is Eviscerating Global Decision-Making'",
+          "title_zh": "“人工智能狂热正在彻底改变全球决策”",
+          "title_ja": "「AIマニアが世界的な意思決定を骨抜きにしている」",
+          "title_en": "'AI Mania Is Eviscerating Global Decision-Making'",
+          "title_original": "'AI Mania Is Eviscerating Global Decision-Making'",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-25T21:18:06Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4975,
+      "importance": 0.4975,
+      "importance_score": 0.4975,
+      "importance_label": "值得关注",
+      "importance_label_ja": "要注目",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7314,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T21:18:06Z",
+      "latest_at": "2026-07-25T21:53:29.575000Z",
+      "primary_item": {
+        "id": "1c457ee6bf171aa619d8b716e91619b1339d6f25",
+        "title": "“人工智能狂热正在彻底改变全球决策” / 'AI Mania Is Eviscerating Global Decision-Making'",
+        "title_zh": "“人工智能狂热正在彻底改变全球决策”",
+        "title_ja": "「AIマニアが世界的な意思決定を骨抜きにしている」",
+        "title_en": "'AI Mania Is Eviscerating Global Decision-Making'",
+        "title_original": "'AI Mania Is Eviscerating Global Decision-Making'",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49051692",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 0,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-26T19:33:47.463071Z"
       }
     }
   ]
