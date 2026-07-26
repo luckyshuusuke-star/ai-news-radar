@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-25T23:10:32.284341Z",
+  "generated_at": "2026-07-26T00:11:42.778922Z",
   "window_hours": 24,
-  "total_items": 9,
+  "total_items": 12,
   "items": [
     {
       "story_id": "story_74755d9d6ce9",
@@ -53,16 +53,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7567,
-      "importance": 0.7567,
-      "importance_score": 0.7567,
+      "score": 0.7544,
+      "importance": 0.7544,
+      "importance_score": 0.7544,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8729,
+        "recency": 0.8602,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -90,7 +90,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-25T23:11:23.622086Z"
+        "scored_at": "2026-07-26T00:12:35.729736Z"
       }
     },
     {
@@ -143,16 +143,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7276,
-      "importance": 0.7276,
-      "importance_score": 0.7276,
+      "score": 0.7256,
+      "importance": 0.7256,
+      "importance_score": 0.7256,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7275,
+        "recency": 0.7169,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -179,7 +179,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-25T23:11:23.622086Z"
+        "scored_at": "2026-07-26T00:12:35.729736Z"
       }
     },
     {
@@ -331,16 +331,16 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5862,
-      "importance": 0.5862,
-      "importance_score": 0.5862,
+      "score": 0.5837,
+      "importance": 0.5837,
+      "importance_score": 0.5837,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9466,
+        "recency": 0.9328,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -367,7 +367,528 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-25T23:11:23.622086Z"
+        "scored_at": "2026-07-26T00:12:35.729736Z"
+      }
+    },
+    {
+      "story_id": "story_7d231e7bb6a8",
+      "title": "Claude 5 生成模型的上下文工程新规则",
+      "title_ja": "クロード 5 生成モデルのコンテキスト エンジニアリングのための新しいルール",
+      "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+      "primary_url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+      "source": "claude.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "2ae9320b0f7625aac5d63abc709ee8fdadf835c2",
+          "title": "Claude 5 生成模型的上下文工程新规则",
+          "title_zh": "Claude 5 生成模型的上下文工程新规则",
+          "title_ja": "クロード 5 生成モデルのコンテキスト エンジニアリングのための新しいルール",
+          "title_en": null,
+          "title_original": "Claude 5 生成模型的上下文工程新规则",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+          "source": "claude.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T23:23:09.413000Z"
+        },
+        {
+          "id": "b27cf50203d00f94165e44664ab63b7e378aecbc",
+          "title": "Claude 5代模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
+          "title_zh": "Claude 5代模型的上下文工程新规则",
+          "title_ja": "Claude 5 世代モデルのコンテキスト エンジニアリングの新しいルール",
+          "title_en": "The new rules of context engineering for Claude 5 generation models",
+          "title_original": "The new rules of context engineering for Claude 5 generation models",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49051361",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T21:53:29.575000Z"
+        },
+        {
+          "id": "5920a73ab632ecf7df801097810fdd2b22fd624d",
+          "title": "Claude 5 生成模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
+          "title_zh": "Claude 5 生成模型的上下文工程新规则",
+          "title_ja": "Claude 5 世代モデルのコンテキスト エンジニアリングの新しいルール",
+          "title_en": "The new rules of context engineering for Claude 5 generation models",
+          "title_original": "The new rules of context engineering for Claude 5 generation models",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T20:42:35Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "claude.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "2ae9320b0f7625aac5d63abc709ee8fdadf835c2",
+          "title": "Claude 5 生成模型的上下文工程新规则",
+          "title_zh": "Claude 5 生成模型的上下文工程新规则",
+          "title_ja": "クロード 5 生成モデルのコンテキスト エンジニアリングのための新しいルール",
+          "title_en": null,
+          "title_original": "Claude 5 生成模型的上下文工程新规则",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+          "source": "claude.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T23:23:09.413000Z"
+        },
+        {
+          "id": "b27cf50203d00f94165e44664ab63b7e378aecbc",
+          "title": "Claude 5代模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
+          "title_zh": "Claude 5代模型的上下文工程新规则",
+          "title_ja": "Claude 5 世代モデルのコンテキスト エンジニアリングの新しいルール",
+          "title_en": "The new rules of context engineering for Claude 5 generation models",
+          "title_original": "The new rules of context engineering for Claude 5 generation models",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49051361",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T21:53:29.575000Z"
+        },
+        {
+          "id": "5920a73ab632ecf7df801097810fdd2b22fd624d",
+          "title": "Claude 5 生成模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
+          "title_zh": "Claude 5 生成模型的上下文工程新规则",
+          "title_ja": "Claude 5 世代モデルのコンテキスト エンジニアリングの新しいルール",
+          "title_en": "The new rules of context engineering for Claude 5 generation models",
+          "title_original": "The new rules of context engineering for Claude 5 generation models",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T20:42:35Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5687,
+      "importance": 0.5687,
+      "importance_score": 0.5687,
+      "importance_label": "多源热议",
+      "importance_label_ja": "複数ソースで話題",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9884,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T20:42:35Z",
+      "latest_at": "2026-07-25T23:23:09.413000Z",
+      "primary_item": {
+        "id": "2ae9320b0f7625aac5d63abc709ee8fdadf835c2",
+        "title": "Claude 5 生成模型的上下文工程新规则",
+        "title_zh": "Claude 5 生成模型的上下文工程新规则",
+        "title_ja": "クロード 5 生成モデルのコンテキスト エンジニアリングのための新しいルール",
+        "title_en": null,
+        "title_original": "Claude 5 生成模型的上下文工程新规则",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+        "source": "claude.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-26T00:12:35.729736Z"
+      }
+    },
+    {
+      "story_id": "story_213f8ad1a1a3",
+      "title": "关于美国计算差距的评论泄露后 DeepSeek 暂停筹款（文字记录）[pdf] / DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+      "title_ja": "DeepSeek、米国とのコンピューティング格差に関するコメント流出を受けて資金調達を一時停止 (転写) [pdf]",
+      "url": "https://news.ycombinator.com/item?id=49052912",
+      "primary_url": "https://news.ycombinator.com/item?id=49052912",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "b1b9c362461a0f65f118995d1337da8f0170ed1b",
+          "title": "关于美国计算差距的评论泄露后 DeepSeek 暂停筹款（文字记录）[pdf] / DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+          "title_zh": "关于美国计算差距的评论泄露后 DeepSeek 暂停筹款（文字记录）[pdf]",
+          "title_ja": "DeepSeek、米国とのコンピューティング格差に関するコメント流出を受けて資金調達を一時停止 (転写) [pdf]",
+          "title_en": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+          "title_original": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49052912",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T00:12:04.277000Z"
+        },
+        {
+          "id": "5e6ad59fb9400db7b7946b5c0251a9489142f675",
+          "title": "关于美国计算差距的评论泄露后 DeepSeek 暂停筹款（文字记录）[pdf] / DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+          "title_zh": "关于美国计算差距的评论泄露后 DeepSeek 暂停筹款（文字记录）[pdf]",
+          "title_ja": "DeepSeek、米国とのコンピューティング格差に関するコメント流出を受けて資金調達を一時停止 (転写) [pdf]",
+          "title_en": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+          "title_original": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-25T23:32:50Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "b1b9c362461a0f65f118995d1337da8f0170ed1b",
+          "title": "关于美国计算差距的评论泄露后 DeepSeek 暂停筹款（文字记录）[pdf] / DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+          "title_zh": "关于美国计算差距的评论泄露后 DeepSeek 暂停筹款（文字记录）[pdf]",
+          "title_ja": "DeepSeek、米国とのコンピューティング格差に関するコメント流出を受けて資金調達を一時停止 (転写) [pdf]",
+          "title_en": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+          "title_original": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49052912",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T00:12:04.277000Z"
+        },
+        {
+          "id": "5e6ad59fb9400db7b7946b5c0251a9489142f675",
+          "title": "关于美国计算差距的评论泄露后 DeepSeek 暂停筹款（文字记录）[pdf] / DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+          "title_zh": "关于美国计算差距的评论泄露后 DeepSeek 暂停筹款（文字记录）[pdf]",
+          "title_ja": "DeepSeek、米国とのコンピューティング格差に関するコメント流出を受けて資金調達を一時停止 (転写) [pdf]",
+          "title_en": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+          "title_original": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-25T23:32:50Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_label_ja": "要注目",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T23:32:50Z",
+      "latest_at": "2026-07-26T00:12:04.277000Z",
+      "primary_item": {
+        "id": "b1b9c362461a0f65f118995d1337da8f0170ed1b",
+        "title": "关于美国计算差距的评论泄露后 DeepSeek 暂停筹款（文字记录）[pdf] / DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+        "title_zh": "关于美国计算差距的评论泄露后 DeepSeek 暂停筹款（文字记录）[pdf]",
+        "title_ja": "DeepSeek、米国とのコンピューティング格差に関するコメント流出を受けて資金調達を一時停止 (転写) [pdf]",
+        "title_en": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+        "title_original": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49052912",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-26T00:12:35.729736Z"
+      }
+    },
+    {
+      "story_id": "story_f87d3f1e3314",
+      "title": "就业形势如何？区分人工智能炒作与现实 / What is happening to jobs? Separating AI hype from reality",
+      "title_ja": "雇用に何が起こっているのでしょうか? AI の誇大宣伝と現実を区別する",
+      "url": "https://news.ycombinator.com/item?id=49052570",
+      "primary_url": "https://news.ycombinator.com/item?id=49052570",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "bc7e4b4593aaf4e3fed54b00809c6ebaf2b2b6e1",
+          "title": "就业形势如何？区分人工智能炒作与现实 / What is happening to jobs? Separating AI hype from reality",
+          "title_zh": "就业形势如何？区分人工智能炒作与现实",
+          "title_ja": "雇用に何が起こっているのでしょうか? AI の誇大宣伝と現実を区別する",
+          "title_en": "What is happening to jobs? Separating AI hype from reality",
+          "title_original": "What is happening to jobs? Separating AI hype from reality",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49052570",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T00:12:04.277000Z"
+        },
+        {
+          "id": "b18fbc041109800fae4f38b4a6e043d005c00414",
+          "title": "就业形势如何？区分人工智能炒作与现实 / What is happening to jobs? Separating AI hype from reality",
+          "title_zh": "就业形势如何？区分人工智能炒作与现实",
+          "title_ja": "雇用に何が起こっているのでしょうか? AI の誇大宣伝と現実を区別する",
+          "title_en": "What is happening to jobs? Separating AI hype from reality",
+          "title_original": "What is happening to jobs? Separating AI hype from reality",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T22:51:10Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "bc7e4b4593aaf4e3fed54b00809c6ebaf2b2b6e1",
+          "title": "就业形势如何？区分人工智能炒作与现实 / What is happening to jobs? Separating AI hype from reality",
+          "title_zh": "就业形势如何？区分人工智能炒作与现实",
+          "title_ja": "雇用に何が起こっているのでしょうか? AI の誇大宣伝と現実を区別する",
+          "title_en": "What is happening to jobs? Separating AI hype from reality",
+          "title_original": "What is happening to jobs? Separating AI hype from reality",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49052570",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T00:12:04.277000Z"
+        },
+        {
+          "id": "b18fbc041109800fae4f38b4a6e043d005c00414",
+          "title": "就业形势如何？区分人工智能炒作与现实 / What is happening to jobs? Separating AI hype from reality",
+          "title_zh": "就业形势如何？区分人工智能炒作与现实",
+          "title_ja": "雇用に何が起こっているのでしょうか? AI の誇大宣伝と現実を区別する",
+          "title_en": "What is happening to jobs? Separating AI hype from reality",
+          "title_original": "What is happening to jobs? Separating AI hype from reality",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T22:51:10Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_label_ja": "要注目",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T22:51:10Z",
+      "latest_at": "2026-07-26T00:12:04.277000Z",
+      "primary_item": {
+        "id": "bc7e4b4593aaf4e3fed54b00809c6ebaf2b2b6e1",
+        "title": "就业形势如何？区分人工智能炒作与现实 / What is happening to jobs? Separating AI hype from reality",
+        "title_zh": "就业形势如何？区分人工智能炒作与现实",
+        "title_ja": "雇用に何が起こっているのでしょうか? AI の誇大宣伝と現実を区別する",
+        "title_en": "What is happening to jobs? Separating AI hype from reality",
+        "title_original": "What is happening to jobs? Separating AI hype from reality",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49052570",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-26T00:12:35.729736Z"
+      }
+    },
+    {
+      "story_id": "story_adf204578023",
+      "title": "成为大型LLM实验室的研究工程师 / Becoming a Research Engineer at a Big LLM Lab",
+      "title_ja": "大手LLMラボの研究エンジニアになる",
+      "url": "https://news.ycombinator.com/item?id=49051707",
+      "primary_url": "https://news.ycombinator.com/item?id=49051707",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "0b9159f6e4cea71c00ce8f737cd711fe3e125110",
+          "title": "成为大型LLM实验室的研究工程师 / Becoming a Research Engineer at a Big LLM Lab",
+          "title_zh": "成为大型LLM实验室的研究工程师",
+          "title_ja": "大手LLMラボの研究エンジニアになる",
+          "title_en": "Becoming a Research Engineer at a Big LLM Lab",
+          "title_original": "Becoming a Research Engineer at a Big LLM Lab",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49051707",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T00:12:04.277000Z"
+        },
+        {
+          "id": "a5b0c74214e7e1aec40af0387ecf1bb9fc4143dd",
+          "title": "成为大型LLM实验室的研究工程师 / Becoming a Research Engineer at a Big LLM Lab",
+          "title_zh": "成为大型LLM实验室的研究工程师",
+          "title_ja": "大手LLMラボの研究エンジニアになる",
+          "title_en": "Becoming a Research Engineer at a Big LLM Lab",
+          "title_original": "Becoming a Research Engineer at a Big LLM Lab",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.maxmynter.com/pages/blog/jobhunt",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-25T21:19:42Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "0b9159f6e4cea71c00ce8f737cd711fe3e125110",
+          "title": "成为大型LLM实验室的研究工程师 / Becoming a Research Engineer at a Big LLM Lab",
+          "title_zh": "成为大型LLM实验室的研究工程师",
+          "title_ja": "大手LLMラボの研究エンジニアになる",
+          "title_en": "Becoming a Research Engineer at a Big LLM Lab",
+          "title_original": "Becoming a Research Engineer at a Big LLM Lab",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49051707",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T00:12:04.277000Z"
+        },
+        {
+          "id": "a5b0c74214e7e1aec40af0387ecf1bb9fc4143dd",
+          "title": "成为大型LLM实验室的研究工程师 / Becoming a Research Engineer at a Big LLM Lab",
+          "title_zh": "成为大型LLM实验室的研究工程师",
+          "title_ja": "大手LLMラボの研究エンジニアになる",
+          "title_en": "Becoming a Research Engineer at a Big LLM Lab",
+          "title_original": "Becoming a Research Engineer at a Big LLM Lab",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.maxmynter.com/pages/blog/jobhunt",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-25T21:19:42Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_label_ja": "要注目",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T21:19:42Z",
+      "latest_at": "2026-07-26T00:12:04.277000Z",
+      "primary_item": {
+        "id": "0b9159f6e4cea71c00ce8f737cd711fe3e125110",
+        "title": "成为大型LLM实验室的研究工程师 / Becoming a Research Engineer at a Big LLM Lab",
+        "title_zh": "成为大型LLM实验室的研究工程师",
+        "title_ja": "大手LLMラボの研究エンジニアになる",
+        "title_en": "Becoming a Research Engineer at a Big LLM Lab",
+        "title_original": "Becoming a Research Engineer at a Big LLM Lab",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49051707",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-26T00:12:35.729736Z"
       }
     },
     {
@@ -453,16 +974,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5432,
+      "importance": 0.5432,
+      "importance_score": 0.5432,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9855,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -489,7 +1010,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-25T23:11:23.622086Z"
+        "scored_at": "2026-07-26T00:12:35.729736Z"
       }
     },
     {
@@ -575,16 +1096,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5432,
+      "importance": 0.5432,
+      "importance_score": 0.5432,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9855,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -611,129 +1132,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-25T23:11:23.622086Z"
-      }
-    },
-    {
-      "story_id": "story_7d231e7bb6a8",
-      "title": "Claude 5代模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
-      "title_ja": "Claude 5 世代モデルのコンテキスト エンジニアリングの新しいルール",
-      "url": "https://news.ycombinator.com/item?id=49051361",
-      "primary_url": "https://news.ycombinator.com/item?id=49051361",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "b27cf50203d00f94165e44664ab63b7e378aecbc",
-          "title": "Claude 5代模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
-          "title_zh": "Claude 5代模型的上下文工程新规则",
-          "title_ja": "Claude 5 世代モデルのコンテキスト エンジニアリングの新しいルール",
-          "title_en": "The new rules of context engineering for Claude 5 generation models",
-          "title_original": "The new rules of context engineering for Claude 5 generation models",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49051361",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-25T21:53:29.575000Z"
-        },
-        {
-          "id": "5920a73ab632ecf7df801097810fdd2b22fd624d",
-          "title": "Claude 5代模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
-          "title_zh": "Claude 5代模型的上下文工程新规则",
-          "title_ja": "Claude 5 世代モデルのコンテキスト エンジニアリングの新しいルール",
-          "title_en": "The new rules of context engineering for Claude 5 generation models",
-          "title_original": "The new rules of context engineering for Claude 5 generation models",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-25T20:42:35Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "b27cf50203d00f94165e44664ab63b7e378aecbc",
-          "title": "Claude 5代模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
-          "title_zh": "Claude 5代模型的上下文工程新规则",
-          "title_ja": "Claude 5 世代モデルのコンテキスト エンジニアリングの新しいルール",
-          "title_en": "The new rules of context engineering for Claude 5 generation models",
-          "title_original": "The new rules of context engineering for Claude 5 generation models",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49051361",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-25T21:53:29.575000Z"
-        },
-        {
-          "id": "5920a73ab632ecf7df801097810fdd2b22fd624d",
-          "title": "Claude 5代模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
-          "title_zh": "Claude 5代模型的上下文工程新规则",
-          "title_ja": "Claude 5 世代モデルのコンテキスト エンジニアリングの新しいルール",
-          "title_en": "The new rules of context engineering for Claude 5 generation models",
-          "title_original": "The new rules of context engineering for Claude 5 generation models",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-25T20:42:35Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5425,
-      "importance": 0.5425,
-      "importance_score": 0.5425,
-      "importance_label": "值得关注",
-      "importance_label_ja": "要注目",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9816,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-25T20:42:35Z",
-      "latest_at": "2026-07-25T21:53:29.575000Z",
-      "primary_item": {
-        "id": "b27cf50203d00f94165e44664ab63b7e378aecbc",
-        "title": "Claude 5代模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
-        "title_zh": "Claude 5代模型的上下文工程新规则",
-        "title_ja": "Claude 5 世代モデルのコンテキスト エンジニアリングの新しいルール",
-        "title_en": "The new rules of context engineering for Claude 5 generation models",
-        "title_original": "The new rules of context engineering for Claude 5 generation models",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49051361",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-25T23:11:23.622086Z"
+        "scored_at": "2026-07-26T00:12:35.729736Z"
       }
     },
     {
@@ -819,16 +1218,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5425,
-      "importance": 0.5425,
-      "importance_score": 0.5425,
+      "score": 0.5399,
+      "importance": 0.5399,
+      "importance_score": 0.5399,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9816,
+        "recency": 0.9673,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -855,7 +1254,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-25T23:11:23.622086Z"
+        "scored_at": "2026-07-26T00:12:35.729736Z"
       }
     },
     {
@@ -941,16 +1340,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5325,
-      "importance": 0.5325,
-      "importance_score": 0.5325,
+      "score": 0.5301,
+      "importance": 0.5301,
+      "importance_score": 0.5301,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9263,
+        "recency": 0.9127,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -977,7 +1376,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-25T23:11:23.622086Z"
+        "scored_at": "2026-07-26T00:12:35.729736Z"
       }
     },
     {
@@ -1063,16 +1462,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5235,
-      "importance": 0.5235,
-      "importance_score": 0.5235,
+      "score": 0.5212,
+      "importance": 0.5212,
+      "importance_score": 0.5212,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.876,
+        "recency": 0.8632,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1099,7 +1498,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-25T23:11:23.622086Z"
+        "scored_at": "2026-07-26T00:12:35.729736Z"
       }
     }
   ]
