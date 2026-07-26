@@ -1,8 +1,97 @@
 {
-  "generated_at": "2026-07-26T00:11:42.778922Z",
+  "generated_at": "2026-07-26T03:52:57.144251Z",
   "window_hours": 24,
-  "total_items": 12,
+  "total_items": 13,
   "items": [
+    {
+      "story_id": "story_373076a10218",
+      "title": "xAI 发布 Grok CLI 并支持 /tutorial 命令 / Download Grok Build and type /tutorial http://X.ai/cli",
+      "title_ja": "Grok Build をダウンロードし、「/tutorial http://X.ai/cli」と入力します。",
+      "url": "https://x.com/elonmusk/status/2081174079969632347",
+      "primary_url": "https://x.com/elonmusk/status/2081174079969632347",
+      "source": "X：Elon Musk (@elonmusk, xAI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6ead983ec445354837fda616f660a0314129158f",
+          "title": "xAI 发布 Grok CLI 并支持 /tutorial 命令 / Download Grok Build and type /tutorial http://X.ai/cli",
+          "title_zh": "xAI 发布 Grok CLI 并支持 /tutorial 命令",
+          "title_ja": "Grok Build をダウンロードし、「/tutorial http://X.ai/cli」と入力します。",
+          "title_en": "Download Grok Build and type /tutorial http://X.ai/cli",
+          "title_original": "Download Grok Build and type /tutorial http://X.ai/cli",
+          "summary": "下载 Grok Build 并输入 /tutorial\n\nhttp://X.ai/cli",
+          "summary_ja": "Grok Build をダウンロードして /tutorial と入力します\n\nhttp://X.ai/cli",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/elonmusk/status/2081174079969632347",
+          "source": "X：Elon Musk (@elonmusk, xAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-26T00:25:41Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Elon Musk (@elonmusk, xAI)"
+      ],
+      "items": [
+        {
+          "id": "6ead983ec445354837fda616f660a0314129158f",
+          "title": "xAI 发布 Grok CLI 并支持 /tutorial 命令 / Download Grok Build and type /tutorial http://X.ai/cli",
+          "title_zh": "xAI 发布 Grok CLI 并支持 /tutorial 命令",
+          "title_ja": "Grok Build をダウンロードし、「/tutorial http://X.ai/cli」と入力します。",
+          "title_en": "Download Grok Build and type /tutorial http://X.ai/cli",
+          "title_original": "Download Grok Build and type /tutorial http://X.ai/cli",
+          "summary": "下载 Grok Build 并输入 /tutorial\n\nhttp://X.ai/cli",
+          "summary_ja": "Grok Build をダウンロードして /tutorial と入力します\n\nhttp://X.ai/cli",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/elonmusk/status/2081174079969632347",
+          "source": "X：Elon Musk (@elonmusk, xAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-26T00:25:41Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7498,
+      "importance": 0.7498,
+      "importance_score": 0.7498,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9513,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-26T00:25:41Z",
+      "latest_at": "2026-07-26T00:25:41Z",
+      "primary_item": {
+        "id": "6ead983ec445354837fda616f660a0314129158f",
+        "title": "xAI 发布 Grok CLI 并支持 /tutorial 命令 / Download Grok Build and type /tutorial http://X.ai/cli",
+        "title_zh": "xAI 发布 Grok CLI 并支持 /tutorial 命令",
+        "title_ja": "Grok Build をダウンロードし、「/tutorial http://X.ai/cli」と入力します。",
+        "title_en": "Download Grok Build and type /tutorial http://X.ai/cli",
+        "title_original": "Download Grok Build and type /tutorial http://X.ai/cli",
+        "summary": "下载 Grok Build 并输入 /tutorial\n\nhttp://X.ai/cli",
+        "summary_ja": "Grok Build をダウンロードして /tutorial と入力します\n\nhttp://X.ai/cli",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/elonmusk/status/2081174079969632347",
+        "source": "X：Elon Musk (@elonmusk, xAI)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-26T03:53:54.031454Z"
+      }
+    },
     {
       "story_id": "story_74755d9d6ce9",
       "title": "新报告揭示OpenAI在Hugging Face自主黑客事件中失控的严重程度 / New reports reveal the extent of OpenAI's loss of control during the autonomous hack on Hugging Face",
@@ -53,22 +142,21 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7544,
-      "importance": 0.7544,
-      "importance_score": 0.7544,
+      "score": 0.7464,
+      "importance": 0.7464,
+      "importance_score": 0.7464,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8602,
+        "recency": 0.8156,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-25T13:45:50Z",
       "latest_at": "2026-07-25T13:45:50Z",
@@ -90,96 +178,349 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T00:12:35.729736Z"
+        "scored_at": "2026-07-26T03:53:54.031454Z"
       }
     },
     {
-      "story_id": "story_ebb08fd48ad1",
-      "title": "OpenAI 智能体入侵 Hugging Face，消息人士称 OpenAI 至少一周都没察觉",
-      "title_ja": "OpenAIエージェントがHugging Faceをハッキング、情報筋によると、OpenAIは少なくとも1週間気付かなかったという",
-      "url": "https://www.ithome.com/0/981/432.htm",
-      "primary_url": "https://www.ithome.com/0/981/432.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_b90b03f133ee",
+      "title": "LLM 在 Debian 中的使用：三个建议 / LLM Usage in Debian: Three Proposals",
+      "title_ja": "Debian での LLM の使用: 3 つの提案",
+      "url": "https://news.ycombinator.com/item?id=49050859",
+      "primary_url": "https://news.ycombinator.com/item?id=49050859",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "e6800627a2a9f0b44852539be4d0ff91c6ccd109",
-          "title": "OpenAI 智能体入侵 Hugging Face，消息人士称 OpenAI 至少一周都没察觉",
-          "title_zh": "OpenAI 智能体入侵 Hugging Face，消息人士称 OpenAI 至少一周都没察觉",
-          "title_ja": "OpenAIエージェントがHugging Faceをハッキング、情報筋によると、OpenAIは少なくとも1週間気付かなかったという",
-          "title_en": null,
-          "title_original": "OpenAI 智能体入侵 Hugging Face，消息人士称 OpenAI 至少一周都没察觉",
-          "summary": "OpenAI 一款由 GPT-5.6 Sol 等驱动的网络安全智能体于 7 月 11 日闯入 Hugging Face 并持续攻击至 7 月 13 日。Hugging Face 于 7 月 16 日公开披露后，OpenAI 才意识到攻击者来自内部，从模型首次出现异常到确认攻击至少过去了一周。",
-          "summary_ja": "GPT-5.6 Sol などを搭載したネットワーク セキュリティ エージェントである OpenAI は、7 月 11 日に Hugging Face に侵入し、7 月 13 日まで攻撃を続けました。7 月 16 日に Hugging Face が公表されて初めて、OpenAI が攻撃者が内部からのものであることに気づき、モデルの最初の異常から攻撃の確認までに少なくとも 1 週間が経過していました。",
+          "id": "afb2f58c5eb9c9f4f8c2012771d27ebc7de67450",
+          "title": "LLM 在 Debian 中的使用：三个建议 / LLM Usage in Debian: Three Proposals",
+          "title_zh": "LLM 在 Debian 中的使用：三个建议",
+          "title_ja": "Debian での LLM の使用: 3 つの提案",
+          "title_en": "LLM Usage in Debian: Three Proposals",
+          "title_original": "LLM Usage in Debian: Three Proposals",
+          "summary": null,
+          "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/981/432.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-25T01:08:45Z"
+          "url": "https://news.ycombinator.com/item?id=49050859",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T03:36:38.722000Z"
+        },
+        {
+          "id": "440e2dd4cb92209bfcfcee18fc3616a9d0d0dd2a",
+          "title": "一般解决方案：LLM 在 Debian 中的使用 / General Resolution: LLM Usage in Debian",
+          "title_zh": "一般解决方案：LLM 在 Debian 中的使用",
+          "title_ja": "一般的な解決策: Debian での LLM の使用",
+          "title_en": "General Resolution: LLM Usage in Debian",
+          "title_original": "General Resolution: LLM Usage in Debian",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49050859",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T23:10:54.951000Z"
+        },
+        {
+          "id": "c38cc1a0119d03a6b3b6e9207bc9a898ba5e87a8",
+          "title": "一般解决方案：LLM 在 Debian 中的使用 / General Resolution: LLM Usage in Debian",
+          "title_zh": "一般解决方案：LLM 在 Debian 中的使用",
+          "title_ja": "一般的な解決策: Debian での LLM の使用",
+          "title_en": "General Resolution: LLM Usage in Debian",
+          "title_original": "General Resolution: LLM Usage in Debian",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.debian.org/vote/2026/vote_002",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T19:44:39Z"
+        },
+        {
+          "id": "99e8214f738422118ebf82a01fed4ba438a21132",
+          "title": "LLM 在 Debian 中的使用：三个建议 / LLM Usage in Debian: Three Proposals",
+          "title_zh": "LLM 在 Debian 中的使用：三个建议",
+          "title_ja": "Debian での LLM の使用: 3 つの提案",
+          "title_en": "LLM Usage in Debian: Three Proposals",
+          "title_original": "LLM Usage in Debian: Three Proposals",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.debian.org/vote/2026/vote_002",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-25T19:44:39Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 4,
       "source_names": [
-        "IT之家（RSS）"
+        "Hacker News",
+        "Hacker News (黑客新闻)",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "e6800627a2a9f0b44852539be4d0ff91c6ccd109",
-          "title": "OpenAI 智能体入侵 Hugging Face，消息人士称 OpenAI 至少一周都没察觉",
-          "title_zh": "OpenAI 智能体入侵 Hugging Face，消息人士称 OpenAI 至少一周都没察觉",
-          "title_ja": "OpenAIエージェントがHugging Faceをハッキング、情報筋によると、OpenAIは少なくとも1週間気付かなかったという",
-          "title_en": null,
-          "title_original": "OpenAI 智能体入侵 Hugging Face，消息人士称 OpenAI 至少一周都没察觉",
-          "summary": "OpenAI 一款由 GPT-5.6 Sol 等驱动的网络安全智能体于 7 月 11 日闯入 Hugging Face 并持续攻击至 7 月 13 日。Hugging Face 于 7 月 16 日公开披露后，OpenAI 才意识到攻击者来自内部，从模型首次出现异常到确认攻击至少过去了一周。",
-          "summary_ja": "GPT-5.6 Sol などを搭載したネットワーク セキュリティ エージェントである OpenAI は、7 月 11 日に Hugging Face に侵入し、7 月 13 日まで攻撃を続けました。7 月 16 日に Hugging Face が公表されて初めて、OpenAI が攻撃者が内部からのものであることに気づき、モデルの最初の異常から攻撃の確認までに少なくとも 1 週間が経過していました。",
+          "id": "afb2f58c5eb9c9f4f8c2012771d27ebc7de67450",
+          "title": "LLM 在 Debian 中的使用：三个建议 / LLM Usage in Debian: Three Proposals",
+          "title_zh": "LLM 在 Debian 中的使用：三个建议",
+          "title_ja": "Debian での LLM の使用: 3 つの提案",
+          "title_en": "LLM Usage in Debian: Three Proposals",
+          "title_original": "LLM Usage in Debian: Three Proposals",
+          "summary": null,
+          "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/981/432.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-25T01:08:45Z"
+          "url": "https://news.ycombinator.com/item?id=49050859",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T03:36:38.722000Z"
+        },
+        {
+          "id": "440e2dd4cb92209bfcfcee18fc3616a9d0d0dd2a",
+          "title": "一般解决方案：LLM 在 Debian 中的使用 / General Resolution: LLM Usage in Debian",
+          "title_zh": "一般解决方案：LLM 在 Debian 中的使用",
+          "title_ja": "一般的な解決策: Debian での LLM の使用",
+          "title_en": "General Resolution: LLM Usage in Debian",
+          "title_original": "General Resolution: LLM Usage in Debian",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49050859",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T23:10:54.951000Z"
+        },
+        {
+          "id": "c38cc1a0119d03a6b3b6e9207bc9a898ba5e87a8",
+          "title": "一般解决方案：LLM 在 Debian 中的使用 / General Resolution: LLM Usage in Debian",
+          "title_zh": "一般解决方案：LLM 在 Debian 中的使用",
+          "title_ja": "一般的な解決策: Debian での LLM の使用",
+          "title_en": "General Resolution: LLM Usage in Debian",
+          "title_original": "General Resolution: LLM Usage in Debian",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.debian.org/vote/2026/vote_002",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T19:44:39Z"
+        },
+        {
+          "id": "99e8214f738422118ebf82a01fed4ba438a21132",
+          "title": "LLM 在 Debian 中的使用：三个建议 / LLM Usage in Debian: Three Proposals",
+          "title_zh": "LLM 在 Debian 中的使用：三个建议",
+          "title_ja": "Debian での LLM の使用: 3 つの提案",
+          "title_en": "LLM Usage in Debian: Three Proposals",
+          "title_original": "LLM Usage in Debian: Three Proposals",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.debian.org/vote/2026/vote_002",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-25T19:44:39Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7256,
-      "importance": 0.7256,
-      "importance_score": 0.7256,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5951,
+      "importance": 0.5951,
+      "importance_score": 0.5951,
+      "importance_label": "多源热议",
+      "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7169,
-        "story_heat": 0.0
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9961,
+        "story_heat": 0.75
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-07-25T01:08:45Z",
-      "latest_at": "2026-07-25T01:08:45Z",
+      "earliest_at": "2026-07-25T19:44:39Z",
+      "latest_at": "2026-07-26T03:36:38.722000Z",
       "primary_item": {
-        "id": "e6800627a2a9f0b44852539be4d0ff91c6ccd109",
-        "title": "OpenAI 智能体入侵 Hugging Face，消息人士称 OpenAI 至少一周都没察觉",
-        "title_zh": "OpenAI 智能体入侵 Hugging Face，消息人士称 OpenAI 至少一周都没察觉",
-        "title_ja": "OpenAIエージェントがHugging Faceをハッキング、情報筋によると、OpenAIは少なくとも1週間気付かなかったという",
-        "title_en": null,
-        "title_original": "OpenAI 智能体入侵 Hugging Face，消息人士称 OpenAI 至少一周都没察觉",
-        "summary": "OpenAI 一款由 GPT-5.6 Sol 等驱动的网络安全智能体于 7 月 11 日闯入 Hugging Face 并持续攻击至 7 月 13 日。Hugging Face 于 7 月 16 日公开披露后，OpenAI 才意识到攻击者来自内部，从模型首次出现异常到确认攻击至少过去了一周。",
-        "summary_ja": "GPT-5.6 Sol などを搭載したネットワーク セキュリティ エージェントである OpenAI は、7 月 11 日に Hugging Face に侵入し、7 月 13 日まで攻撃を続けました。7 月 16 日に Hugging Face が公表されて初めて、OpenAI が攻撃者が内部からのものであることに気づき、モデルの最初の異常から攻撃の確認までに少なくとも 1 週間が経過していました。",
+        "id": "afb2f58c5eb9c9f4f8c2012771d27ebc7de67450",
+        "title": "LLM 在 Debian 中的使用：三个建议 / LLM Usage in Debian: Three Proposals",
+        "title_zh": "LLM 在 Debian 中的使用：三个建议",
+        "title_ja": "Debian での LLM の使用: 3 つの提案",
+        "title_en": "LLM Usage in Debian: Three Proposals",
+        "title_original": "LLM Usage in Debian: Three Proposals",
+        "summary": null,
+        "summary_ja": null,
         "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/0/981/432.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
+        "url": "https://news.ycombinator.com/item?id=49050859",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T00:12:35.729736Z"
+        "scored_at": "2026-07-26T03:53:54.031454Z"
+      }
+    },
+    {
+      "story_id": "story_7d231e7bb6a8",
+      "title": "Claude 5 生成模型的上下文工程新规则",
+      "title_ja": "クロード 5 生成モデルのコンテキスト エンジニアリングのための新しいルール",
+      "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+      "primary_url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+      "source": "claude.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "2ae9320b0f7625aac5d63abc709ee8fdadf835c2",
+          "title": "Claude 5 生成模型的上下文工程新规则",
+          "title_zh": "Claude 5 生成模型的上下文工程新规则",
+          "title_ja": "クロード 5 生成モデルのコンテキスト エンジニアリングのための新しいルール",
+          "title_en": null,
+          "title_original": "Claude 5 生成模型的上下文工程新规则",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+          "source": "claude.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T23:23:09.413000Z"
+        },
+        {
+          "id": "b27cf50203d00f94165e44664ab63b7e378aecbc",
+          "title": "Claude 5代模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
+          "title_zh": "Claude 5代模型的上下文工程新规则",
+          "title_ja": "Claude 5 世代モデルのコンテキスト エンジニアリングの新しいルール",
+          "title_en": "The new rules of context engineering for Claude 5 generation models",
+          "title_original": "The new rules of context engineering for Claude 5 generation models",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49051361",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T21:53:29.575000Z"
+        },
+        {
+          "id": "5920a73ab632ecf7df801097810fdd2b22fd624d",
+          "title": "Claude 5 生成模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
+          "title_zh": "Claude 5 生成模型的上下文工程新规则",
+          "title_ja": "Claude 5 世代モデルのコンテキスト エンジニアリングの新しいルール",
+          "title_en": "The new rules of context engineering for Claude 5 generation models",
+          "title_original": "The new rules of context engineering for Claude 5 generation models",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T20:42:35Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "claude.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "2ae9320b0f7625aac5d63abc709ee8fdadf835c2",
+          "title": "Claude 5 生成模型的上下文工程新规则",
+          "title_zh": "Claude 5 生成模型的上下文工程新规则",
+          "title_ja": "クロード 5 生成モデルのコンテキスト エンジニアリングのための新しいルール",
+          "title_en": null,
+          "title_original": "Claude 5 生成模型的上下文工程新规则",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+          "source": "claude.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T23:23:09.413000Z"
+        },
+        {
+          "id": "b27cf50203d00f94165e44664ab63b7e378aecbc",
+          "title": "Claude 5代模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
+          "title_zh": "Claude 5代模型的上下文工程新规则",
+          "title_ja": "Claude 5 世代モデルのコンテキスト エンジニアリングの新しいルール",
+          "title_en": "The new rules of context engineering for Claude 5 generation models",
+          "title_original": "The new rules of context engineering for Claude 5 generation models",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49051361",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T21:53:29.575000Z"
+        },
+        {
+          "id": "5920a73ab632ecf7df801097810fdd2b22fd624d",
+          "title": "Claude 5 生成模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
+          "title_zh": "Claude 5 生成模型的上下文工程新规则",
+          "title_ja": "Claude 5 世代モデルのコンテキスト エンジニアリングの新しいルール",
+          "title_en": "The new rules of context engineering for Claude 5 generation models",
+          "title_original": "The new rules of context engineering for Claude 5 generation models",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T20:42:35Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5595,
+      "importance": 0.5595,
+      "importance_score": 0.5595,
+      "importance_label": "多源热议",
+      "importance_label_ja": "複数ソースで話題",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9371,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T20:42:35Z",
+      "latest_at": "2026-07-25T23:23:09.413000Z",
+      "primary_item": {
+        "id": "2ae9320b0f7625aac5d63abc709ee8fdadf835c2",
+        "title": "Claude 5 生成模型的上下文工程新规则",
+        "title_zh": "Claude 5 生成模型的上下文工程新规则",
+        "title_ja": "クロード 5 生成モデルのコンテキスト エンジニアリングのための新しいルール",
+        "title_en": null,
+        "title_original": "Claude 5 生成模型的上下文工程新规则",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+        "source": "claude.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-26T03:53:54.031454Z"
       }
     },
     {
@@ -331,16 +672,16 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5837,
-      "importance": 0.5837,
-      "importance_score": 0.5837,
+      "score": 0.575,
+      "importance": 0.575,
+      "importance_score": 0.575,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9328,
+        "recency": 0.8844,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -367,162 +708,129 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T00:12:35.729736Z"
+        "scored_at": "2026-07-26T03:53:54.031454Z"
       }
     },
     {
-      "story_id": "story_7d231e7bb6a8",
-      "title": "Claude 5 生成模型的上下文工程新规则",
-      "title_ja": "クロード 5 生成モデルのコンテキスト エンジニアリングのための新しいルール",
-      "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-      "primary_url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-      "source": "claude.com",
-      "source_name": "Buzzing",
+      "story_id": "story_053563a28f71",
+      "title": "Cloudflare 为客户提供的新 AI 流量选项 / Cloudflare's new AI traffic options for customers",
+      "title_ja": "Cloudflareの顧客向けの新しいAIトラフィックオプション",
+      "url": "https://news.ycombinator.com/item?id=49052564",
+      "primary_url": "https://news.ycombinator.com/item?id=49052564",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "2ae9320b0f7625aac5d63abc709ee8fdadf835c2",
-          "title": "Claude 5 生成模型的上下文工程新规则",
-          "title_zh": "Claude 5 生成模型的上下文工程新规则",
-          "title_ja": "クロード 5 生成モデルのコンテキスト エンジニアリングのための新しいルール",
-          "title_en": null,
-          "title_original": "Claude 5 生成模型的上下文工程新规则",
+          "id": "7920be7f61ea9be43a5e49edb0b813f6eb89c993",
+          "title": "Cloudflare 为客户提供的新 AI 流量选项 / Cloudflare's new AI traffic options for customers",
+          "title_zh": "Cloudflare 为客户提供的新 AI 流量选项",
+          "title_ja": "Cloudflareの顧客向けの新しいAIトラフィックオプション",
+          "title_en": "Cloudflare's new AI traffic options for customers",
+          "title_original": "Cloudflare's new AI traffic options for customers",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-          "source": "claude.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T23:23:09.413000Z"
-        },
-        {
-          "id": "b27cf50203d00f94165e44664ab63b7e378aecbc",
-          "title": "Claude 5代模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
-          "title_zh": "Claude 5代模型的上下文工程新规则",
-          "title_ja": "Claude 5 世代モデルのコンテキスト エンジニアリングの新しいルール",
-          "title_en": "The new rules of context engineering for Claude 5 generation models",
-          "title_original": "The new rules of context engineering for Claude 5 generation models",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49051361",
+          "url": "https://news.ycombinator.com/item?id=49052564",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-25T21:53:29.575000Z"
+          "published_at": "2026-07-26T03:36:38.722000Z"
         },
         {
-          "id": "5920a73ab632ecf7df801097810fdd2b22fd624d",
-          "title": "Claude 5 生成模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
-          "title_zh": "Claude 5 生成模型的上下文工程新规则",
-          "title_ja": "Claude 5 世代モデルのコンテキスト エンジニアリングの新しいルール",
-          "title_en": "The new rules of context engineering for Claude 5 generation models",
-          "title_original": "The new rules of context engineering for Claude 5 generation models",
+          "id": "3c68ddb734e95223ab88b9b1edd0c28062c204a1",
+          "title": "Cloudflare 为客户提供的新 AI 流量选项 / Cloudflare's new AI traffic options for customers",
+          "title_zh": "Cloudflare 为客户提供的新 AI 流量选项",
+          "title_ja": "Cloudflareの顧客向けの新しいAIトラフィックオプション",
+          "title_en": "Cloudflare's new AI traffic options for customers",
+          "title_original": "Cloudflare's new AI traffic options for customers",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+          "url": "https://blog.cloudflare.com/content-independence-day-ai-options",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-25T20:42:35Z"
+          "published_at": "2026-07-25T22:50:49Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
         "Hacker News",
-        "claude.com",
         "hackernews"
       ],
       "items": [
         {
-          "id": "2ae9320b0f7625aac5d63abc709ee8fdadf835c2",
-          "title": "Claude 5 生成模型的上下文工程新规则",
-          "title_zh": "Claude 5 生成模型的上下文工程新规则",
-          "title_ja": "クロード 5 生成モデルのコンテキスト エンジニアリングのための新しいルール",
-          "title_en": null,
-          "title_original": "Claude 5 生成模型的上下文工程新规则",
+          "id": "7920be7f61ea9be43a5e49edb0b813f6eb89c993",
+          "title": "Cloudflare 为客户提供的新 AI 流量选项 / Cloudflare's new AI traffic options for customers",
+          "title_zh": "Cloudflare 为客户提供的新 AI 流量选项",
+          "title_ja": "Cloudflareの顧客向けの新しいAIトラフィックオプション",
+          "title_en": "Cloudflare's new AI traffic options for customers",
+          "title_original": "Cloudflare's new AI traffic options for customers",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-          "source": "claude.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T23:23:09.413000Z"
-        },
-        {
-          "id": "b27cf50203d00f94165e44664ab63b7e378aecbc",
-          "title": "Claude 5代模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
-          "title_zh": "Claude 5代模型的上下文工程新规则",
-          "title_ja": "Claude 5 世代モデルのコンテキスト エンジニアリングの新しいルール",
-          "title_en": "The new rules of context engineering for Claude 5 generation models",
-          "title_original": "The new rules of context engineering for Claude 5 generation models",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49051361",
+          "url": "https://news.ycombinator.com/item?id=49052564",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-25T21:53:29.575000Z"
+          "published_at": "2026-07-26T03:36:38.722000Z"
         },
         {
-          "id": "5920a73ab632ecf7df801097810fdd2b22fd624d",
-          "title": "Claude 5 生成模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
-          "title_zh": "Claude 5 生成模型的上下文工程新规则",
-          "title_ja": "Claude 5 世代モデルのコンテキスト エンジニアリングの新しいルール",
-          "title_en": "The new rules of context engineering for Claude 5 generation models",
-          "title_original": "The new rules of context engineering for Claude 5 generation models",
+          "id": "3c68ddb734e95223ab88b9b1edd0c28062c204a1",
+          "title": "Cloudflare 为客户提供的新 AI 流量选项 / Cloudflare's new AI traffic options for customers",
+          "title_zh": "Cloudflare 为客户提供的新 AI 流量选项",
+          "title_ja": "Cloudflareの顧客向けの新しいAIトラフィックオプション",
+          "title_en": "Cloudflare's new AI traffic options for customers",
+          "title_original": "Cloudflare's new AI traffic options for customers",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+          "url": "https://blog.cloudflare.com/content-independence-day-ai-options",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-25T20:42:35Z"
+          "published_at": "2026-07-25T22:50:49Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5687,
-      "importance": 0.5687,
-      "importance_score": 0.5687,
-      "importance_label": "多源热议",
-      "importance_label_ja": "複数ソースで話題",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5451,
+      "importance": 0.5451,
+      "importance_score": 0.5451,
+      "importance_label": "值得关注",
+      "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9884,
-        "story_heat": 0.5
+        "recency": 0.9961,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-25T20:42:35Z",
-      "latest_at": "2026-07-25T23:23:09.413000Z",
+      "earliest_at": "2026-07-25T22:50:49Z",
+      "latest_at": "2026-07-26T03:36:38.722000Z",
       "primary_item": {
-        "id": "2ae9320b0f7625aac5d63abc709ee8fdadf835c2",
-        "title": "Claude 5 生成模型的上下文工程新规则",
-        "title_zh": "Claude 5 生成模型的上下文工程新规则",
-        "title_ja": "クロード 5 生成モデルのコンテキスト エンジニアリングのための新しいルール",
-        "title_en": null,
-        "title_original": "Claude 5 生成模型的上下文工程新规则",
+        "id": "7920be7f61ea9be43a5e49edb0b813f6eb89c993",
+        "title": "Cloudflare 为客户提供的新 AI 流量选项 / Cloudflare's new AI traffic options for customers",
+        "title_zh": "Cloudflare 为客户提供的新 AI 流量选项",
+        "title_ja": "Cloudflareの顧客向けの新しいAIトラフィックオプション",
+        "title_en": "Cloudflare's new AI traffic options for customers",
+        "title_original": "Cloudflare's new AI traffic options for customers",
         "summary": null,
         "summary_ja": null,
         "recommend_reason_zh": null,
-        "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-        "source": "claude.com",
-        "source_name": "Buzzing"
+        "url": "https://news.ycombinator.com/item?id=49052564",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T00:12:35.729736Z"
+        "scored_at": "2026-07-26T03:53:54.031454Z"
       }
     },
     {
@@ -608,16 +916,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5365,
+      "importance": 0.5365,
+      "importance_score": 0.5365,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9482,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -644,7 +952,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T00:12:35.729736Z"
+        "scored_at": "2026-07-26T03:53:54.031454Z"
       }
     },
     {
@@ -730,16 +1038,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5365,
+      "importance": 0.5365,
+      "importance_score": 0.5365,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9482,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -766,7 +1074,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T00:12:35.729736Z"
+        "scored_at": "2026-07-26T03:53:54.031454Z"
       }
     },
     {
@@ -852,16 +1160,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5365,
+      "importance": 0.5365,
+      "importance_score": 0.5365,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9482,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -888,129 +1196,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T00:12:35.729736Z"
-      }
-    },
-    {
-      "story_id": "story_b90b03f133ee",
-      "title": "一般解决方案：LLM 在 Debian 中的使用 / General Resolution: LLM Usage in Debian",
-      "title_ja": "一般的な解決策: Debian での LLM の使用",
-      "url": "https://news.ycombinator.com/item?id=49050859",
-      "primary_url": "https://news.ycombinator.com/item?id=49050859",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "440e2dd4cb92209bfcfcee18fc3616a9d0d0dd2a",
-          "title": "一般解决方案：LLM 在 Debian 中的使用 / General Resolution: LLM Usage in Debian",
-          "title_zh": "一般解决方案：LLM 在 Debian 中的使用",
-          "title_ja": "一般的な解決策: Debian での LLM の使用",
-          "title_en": "General Resolution: LLM Usage in Debian",
-          "title_original": "General Resolution: LLM Usage in Debian",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49050859",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-25T23:10:54.951000Z"
-        },
-        {
-          "id": "c38cc1a0119d03a6b3b6e9207bc9a898ba5e87a8",
-          "title": "一般解决方案：LLM 在 Debian 中的使用 / General Resolution: LLM Usage in Debian",
-          "title_zh": "一般解决方案：LLM 在 Debian 中的使用",
-          "title_ja": "一般的な解決策: Debian での LLM の使用",
-          "title_en": "General Resolution: LLM Usage in Debian",
-          "title_original": "General Resolution: LLM Usage in Debian",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-25T19:44:39Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "440e2dd4cb92209bfcfcee18fc3616a9d0d0dd2a",
-          "title": "一般解决方案：LLM 在 Debian 中的使用 / General Resolution: LLM Usage in Debian",
-          "title_zh": "一般解决方案：LLM 在 Debian 中的使用",
-          "title_ja": "一般的な解決策: Debian での LLM の使用",
-          "title_en": "General Resolution: LLM Usage in Debian",
-          "title_original": "General Resolution: LLM Usage in Debian",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49050859",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-25T23:10:54.951000Z"
-        },
-        {
-          "id": "c38cc1a0119d03a6b3b6e9207bc9a898ba5e87a8",
-          "title": "一般解决方案：LLM 在 Debian 中的使用 / General Resolution: LLM Usage in Debian",
-          "title_zh": "一般解决方案：LLM 在 Debian 中的使用",
-          "title_ja": "一般的な解決策: Debian での LLM の使用",
-          "title_en": "General Resolution: LLM Usage in Debian",
-          "title_original": "General Resolution: LLM Usage in Debian",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-25T19:44:39Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5432,
-      "importance": 0.5432,
-      "importance_score": 0.5432,
-      "importance_label": "值得关注",
-      "importance_label_ja": "要注目",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9855,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-25T19:44:39Z",
-      "latest_at": "2026-07-25T23:10:54.951000Z",
-      "primary_item": {
-        "id": "440e2dd4cb92209bfcfcee18fc3616a9d0d0dd2a",
-        "title": "一般解决方案：LLM 在 Debian 中的使用 / General Resolution: LLM Usage in Debian",
-        "title_zh": "一般解决方案：LLM 在 Debian 中的使用",
-        "title_ja": "一般的な解決策: Debian での LLM の使用",
-        "title_en": "General Resolution: LLM Usage in Debian",
-        "title_original": "General Resolution: LLM Usage in Debian",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49050859",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-26T00:12:35.729736Z"
+        "scored_at": "2026-07-26T03:53:54.031454Z"
       }
     },
     {
@@ -1096,16 +1282,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5432,
-      "importance": 0.5432,
-      "importance_score": 0.5432,
+      "score": 0.534,
+      "importance": 0.534,
+      "importance_score": 0.534,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9855,
+        "recency": 0.9344,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1132,7 +1318,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T00:12:35.729736Z"
+        "scored_at": "2026-07-26T03:53:54.031454Z"
       }
     },
     {
@@ -1218,16 +1404,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5399,
-      "importance": 0.5399,
-      "importance_score": 0.5399,
+      "score": 0.5309,
+      "importance": 0.5309,
+      "importance_score": 0.5309,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9673,
+        "recency": 0.9171,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1254,7 +1440,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T00:12:35.729736Z"
+        "scored_at": "2026-07-26T03:53:54.031454Z"
       }
     },
     {
@@ -1340,16 +1526,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5301,
-      "importance": 0.5301,
-      "importance_score": 0.5301,
+      "score": 0.5216,
+      "importance": 0.5216,
+      "importance_score": 0.5216,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9127,
+        "recency": 0.8654,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1376,7 +1562,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T00:12:35.729736Z"
+        "scored_at": "2026-07-26T03:53:54.031454Z"
       }
     },
     {
@@ -1462,16 +1648,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5212,
-      "importance": 0.5212,
-      "importance_score": 0.5212,
+      "score": 0.5131,
+      "importance": 0.5131,
+      "importance_score": 0.5131,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8632,
+        "recency": 0.8185,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1498,7 +1684,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-26T00:12:35.729736Z"
+        "scored_at": "2026-07-26T03:53:54.031454Z"
       }
     }
   ]
