@@ -1,32 +1,214 @@
 {
-  "generated_at": "2026-07-27T07:48:18.407590Z",
+  "generated_at": "2026-07-27T11:37:14.914987Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_830e0635b3bc",
-      "title": "Midjourney 收购星座社交应用 Co-Star，月活 430 万，团队全员并入",
-      "title_ja": "Midjourney は、月間アクティブ ユーザー数 430 万人を誇る zodiac ソーシャル アプリ Co-Star を買収し、チーム メンバー全員が統合されました",
-      "url": "https://www.aibase.com/news/29903",
-      "primary_url": "https://www.aibase.com/news/29903",
+      "story_id": "story_eb297d743217",
+      "title": "NVIDIA Cosmos-H-Dreams：为手术机器人带来实时生成模拟 / NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+      "title_ja": "NVIDIA Cosmos-H-Dreams: 手術ロボット工学にリアルタイムの生成シミュレーションを導入",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+      "primary_url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "800b18f6965cc56f2d77a6c1e793755b29f0949f",
+          "title": "NVIDIA Cosmos-H-Dreams：为手术机器人带来实时生成模拟 / NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+          "title_zh": "NVIDIA Cosmos-H-Dreams：为手术机器人带来实时生成模拟",
+          "title_ja": "NVIDIA Cosmos-H-Dreams: 手術ロボット工学にリアルタイムの生成シミュレーションを導入",
+          "title_en": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+          "title_original": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-27T09:32:20Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "800b18f6965cc56f2d77a6c1e793755b29f0949f",
+          "title": "NVIDIA Cosmos-H-Dreams：为手术机器人带来实时生成模拟 / NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+          "title_zh": "NVIDIA Cosmos-H-Dreams：为手术机器人带来实时生成模拟",
+          "title_ja": "NVIDIA Cosmos-H-Dreams: 手術ロボット工学にリアルタイムの生成シミュレーションを導入",
+          "title_en": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+          "title_original": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-27T09:32:20Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8647,
+      "importance": 0.8647,
+      "importance_score": 0.8647,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.9704,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T09:32:20Z",
+      "latest_at": "2026-07-27T09:32:20Z",
+      "primary_item": {
+        "id": "800b18f6965cc56f2d77a6c1e793755b29f0949f",
+        "title": "NVIDIA Cosmos-H-Dreams：为手术机器人带来实时生成模拟 / NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+        "title_zh": "NVIDIA Cosmos-H-Dreams：为手术机器人带来实时生成模拟",
+        "title_ja": "NVIDIA Cosmos-H-Dreams: 手術ロボット工学にリアルタイムの生成シミュレーションを導入",
+        "title_en": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+        "title_original": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-27T11:38:36.929304Z"
+      }
+    },
+    {
+      "story_id": "story_2c891351a310",
+      "title": "人工智能如何扩展人们的工作范围 / How AI is expanding what people do at work",
+      "title_ja": "AI は人々の仕事の範囲をどのように拡張するか",
+      "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+      "primary_url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "2e2d656e1bbc540d6d0428c09cf2fb5ebbdce060",
+          "title": "人工智能如何扩展人们的工作范围 / How AI is expanding what people do at work",
+          "title_zh": "人工智能如何扩展人们的工作范围",
+          "title_ja": "AI は人々の仕事の範囲をどのように拡張するか",
+          "title_en": "How AI is expanding what people do at work",
+          "title_original": "How AI is expanding what people do at work",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-27T03:30:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "2e2d656e1bbc540d6d0428c09cf2fb5ebbdce060",
+          "title": "人工智能如何扩展人们的工作范围 / How AI is expanding what people do at work",
+          "title_zh": "人工智能如何扩展人们的工作范围",
+          "title_ja": "AI は人々の仕事の範囲をどのように拡張するか",
+          "title_en": "How AI is expanding what people do at work",
+          "title_original": "How AI is expanding what people do at work",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-27T03:30:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8321,
+      "importance": 0.8321,
+      "importance_score": 0.8321,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8893,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T03:30:00Z",
+      "latest_at": "2026-07-27T03:30:00Z",
+      "primary_item": {
+        "id": "2e2d656e1bbc540d6d0428c09cf2fb5ebbdce060",
+        "title": "人工智能如何扩展人们的工作范围 / How AI is expanding what people do at work",
+        "title_zh": "人工智能如何扩展人们的工作范围",
+        "title_ja": "AI は人々の仕事の範囲をどのように拡張するか",
+        "title_en": "How AI is expanding what people do at work",
+        "title_original": "How AI is expanding what people do at work",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-27T11:38:36.929304Z"
+      }
+    },
+    {
+      "story_id": "story_b6a9a859e99e",
+      "title": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
+      "title_ja": "クロードの会話共有リンクが検索エンジンによって「誤ってキャプチャ」され、秘密鍵とプライバシーを含む多数の会話が公開インデックスに登録されました",
+      "url": "https://www.aibase.com/news/29910",
+      "primary_url": "https://www.aibase.com/news/29910",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "44bd3d43620c0a2b33b64b16619085a3d9bf8aa2",
-          "title": "Midjourney 收购星座社交应用 Co-Star，月活 430 万，团队全员并入",
-          "title_zh": "Midjourney 收购星座社交应用 Co-Star，月活 430 万，团队全员并入",
-          "title_ja": "Midjourney は、月間アクティブ ユーザー数 430 万人を誇る zodiac ソーシャル アプリ Co-Star を買収し、チーム メンバー全員が統合されました",
+          "id": "8c21edfd378c931f752d0362621f4df294ed011d",
+          "title": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
+          "title_zh": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
+          "title_ja": "クロードの会話共有リンクが検索エンジンによって「誤ってキャプチャ」され、秘密鍵とプライバシーを含む多数の会話が公開インデックスに登録されました",
           "title_en": null,
-          "title_original": "Midjourney 收购星座社交应用 Co-Star，月活 430 万，团队全员并入",
+          "title_original": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29903",
+          "url": "https://www.aibase.com/news/29910",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-27T07:48:18.407590Z"
+          "published_at": "2026-07-27T11:37:14.914987Z"
         }
       ],
       "source_count": 1,
@@ -35,20 +217,20 @@
       ],
       "items": [
         {
-          "id": "44bd3d43620c0a2b33b64b16619085a3d9bf8aa2",
-          "title": "Midjourney 收购星座社交应用 Co-Star，月活 430 万，团队全员并入",
-          "title_zh": "Midjourney 收购星座社交应用 Co-Star，月活 430 万，团队全员并入",
-          "title_ja": "Midjourney は、月間アクティブ ユーザー数 430 万人を誇る zodiac ソーシャル アプリ Co-Star を買収し、チーム メンバー全員が統合されました",
+          "id": "8c21edfd378c931f752d0362621f4df294ed011d",
+          "title": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
+          "title_zh": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
+          "title_ja": "クロードの会話共有リンクが検索エンジンによって「誤ってキャプチャ」され、秘密鍵とプライバシーを含む多数の会話が公開インデックスに登録されました",
           "title_en": null,
-          "title_original": "Midjourney 收购星座社交应用 Co-Star，月活 430 万，团队全员并入",
+          "title_original": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29903",
+          "url": "https://www.aibase.com/news/29910",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-27T07:48:18.407590Z"
+          "published_at": "2026-07-27T11:37:14.914987Z"
         }
       ],
       "item_count": 1,
@@ -70,19 +252,19 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-27T07:48:18.407590Z",
-      "latest_at": "2026-07-27T07:48:18.407590Z",
+      "earliest_at": "2026-07-27T11:37:14.914987Z",
+      "latest_at": "2026-07-27T11:37:14.914987Z",
       "primary_item": {
-        "id": "44bd3d43620c0a2b33b64b16619085a3d9bf8aa2",
-        "title": "Midjourney 收购星座社交应用 Co-Star，月活 430 万，团队全员并入",
-        "title_zh": "Midjourney 收购星座社交应用 Co-Star，月活 430 万，团队全员并入",
-        "title_ja": "Midjourney は、月間アクティブ ユーザー数 430 万人を誇る zodiac ソーシャル アプリ Co-Star を買収し、チーム メンバー全員が統合されました",
+        "id": "8c21edfd378c931f752d0362621f4df294ed011d",
+        "title": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
+        "title_zh": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
+        "title_ja": "クロードの会話共有リンクが検索エンジンによって「誤ってキャプチャ」され、秘密鍵とプライバシーを含む多数の会話が公開インデックスに登録されました",
         "title_en": null,
-        "title_original": "Midjourney 收购星座社交应用 Co-Star，月活 430 万，团队全员并入",
+        "title_original": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
         "summary": null,
         "summary_ja": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/29903",
+        "url": "https://www.aibase.com/news/29910",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -90,7 +272,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T07:49:52.928232Z"
+        "scored_at": "2026-07-27T11:38:36.929304Z"
       }
     },
     {
@@ -143,16 +325,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7665,
-      "importance": 0.7665,
-      "importance_score": 0.7665,
+      "score": 0.7576,
+      "importance": 0.7576,
+      "importance_score": 0.7576,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9273,
+        "recency": 0.8776,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -180,33 +362,33 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T07:49:52.928232Z"
+        "scored_at": "2026-07-27T11:38:36.929304Z"
       }
     },
     {
-      "story_id": "story_b1ab2dbdc211",
-      "title": "Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行",
-      "title_ja": "Monday.com は AI に関する人員削減を行った最新の企業となり、同業他社 20 社が自社を支援",
-      "url": "https://www.aibase.com/news/29904",
-      "primary_url": "https://www.aibase.com/news/29904",
+      "story_id": "story_1ea579ee44b6",
+      "title": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
+      "title_ja": "クロードの共有リンク設定が覆される: ユーザーの秘密鍵と企業秘密が Google によって公開される",
+      "url": "https://www.aibase.com/news/29917",
+      "primary_url": "https://www.aibase.com/news/29917",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "08ac480394c087bd6350d94ed811c8cef1893b1b",
-          "title": "Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行",
-          "title_zh": "Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行",
-          "title_ja": "Monday.com は AI に関する人員削減を行った最新の企業となり、同業他社 20 社が自社を支援",
+          "id": "b7146ce31f4fdbccb24924a1fd1b630c36312ea2",
+          "title": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
+          "title_zh": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
+          "title_ja": "クロードの共有リンク設定が覆される: ユーザーの秘密鍵と企業秘密が Google によって公開される",
           "title_en": null,
-          "title_original": "Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行",
+          "title_original": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29904",
+          "url": "https://www.aibase.com/news/29917",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-27T07:48:18.407590Z"
+          "published_at": "2026-07-27T11:37:14.914987Z"
         }
       ],
       "source_count": 1,
@@ -215,20 +397,20 @@
       ],
       "items": [
         {
-          "id": "08ac480394c087bd6350d94ed811c8cef1893b1b",
-          "title": "Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行",
-          "title_zh": "Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行",
-          "title_ja": "Monday.com は AI に関する人員削減を行った最新の企業となり、同業他社 20 社が自社を支援",
+          "id": "b7146ce31f4fdbccb24924a1fd1b630c36312ea2",
+          "title": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
+          "title_zh": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
+          "title_ja": "クロードの共有リンク設定が覆される: ユーザーの秘密鍵と企業秘密が Google によって公開される",
           "title_en": null,
-          "title_original": "Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行",
+          "title_original": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29904",
+          "url": "https://www.aibase.com/news/29917",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-27T07:48:18.407590Z"
+          "published_at": "2026-07-27T11:37:14.914987Z"
         }
       ],
       "item_count": 1,
@@ -250,19 +432,19 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-27T07:48:18.407590Z",
-      "latest_at": "2026-07-27T07:48:18.407590Z",
+      "earliest_at": "2026-07-27T11:37:14.914987Z",
+      "latest_at": "2026-07-27T11:37:14.914987Z",
       "primary_item": {
-        "id": "08ac480394c087bd6350d94ed811c8cef1893b1b",
-        "title": "Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行",
-        "title_zh": "Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行",
-        "title_ja": "Monday.com は AI に関する人員削減を行った最新の企業となり、同業他社 20 社が自社を支援",
+        "id": "b7146ce31f4fdbccb24924a1fd1b630c36312ea2",
+        "title": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
+        "title_zh": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
+        "title_ja": "クロードの共有リンク設定が覆される: ユーザーの秘密鍵と企業秘密が Google によって公開される",
         "title_en": null,
-        "title_original": "Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行",
+        "title_original": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
         "summary": null,
         "summary_ja": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/29904",
+        "url": "https://www.aibase.com/news/29917",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -270,7 +452,96 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T07:49:52.928232Z"
+        "scored_at": "2026-07-27T11:38:36.929304Z"
+      }
+    },
+    {
+      "story_id": "story_630a5caa233a",
+      "title": "当编码不再是瓶颈：Berkeley RDI 提出软件自主开发三级框架 / When Coding Stops Being the Bottleneck",
+      "title_ja": "コーディングがボトルネックでなくなるとき",
+      "url": "https://rdi.berkeley.edu/blog/auto-software-dev",
+      "primary_url": "https://rdi.berkeley.edu/blog/auto-software-dev",
+      "source": "Berkeley RDI：Blog（AI 安全与评测）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "99c7a0611b8c3fcfdaa290acf333dfad7eb62c9c",
+          "title": "当编码不再是瓶颈：Berkeley RDI 提出软件自主开发三级框架 / When Coding Stops Being the Bottleneck",
+          "title_zh": "当编码不再是瓶颈：Berkeley RDI 提出软件自主开发三级框架",
+          "title_ja": "コーディングがボトルネックでなくなるとき",
+          "title_en": "When Coding Stops Being the Bottleneck",
+          "title_original": "When Coding Stops Being the Bottleneck",
+          "summary": "Berkeley RDI等机构提出三级软件自主开发框架：代码自主（AI完成设计与实现，人类决定构建内容并审核PR）、流水线自主（AI运行从设计到部署的全流程，人类仅评估结果）、需求自主（AI自主决定构建内容）。该框架旨在为能力声明、部署选择与问责提供清晰分类。",
+          "summary_ja": "バークレー RDI およびその他の機関は、コード自律性 (AI が設計と実装を完了し、人間が何を構築して PR をレビューするかを決定する)、パイプライン自律性 (AI が設計から展開までの全プロセスを実行し、人間は結果を評価するだけである)、要求自律性 (AI が何を構築するかを独立して決定する) という 3 つのレベルのソフトウェア独立開発フレームワークを提案しました。このフレームワークは、機能ステートメント、展開オプション、説明責任を明確に分類するように設計されています。",
+          "recommend_reason_zh": null,
+          "url": "https://rdi.berkeley.edu/blog/auto-software-dev",
+          "source": "Berkeley RDI：Blog（AI 安全与评测）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T07:51:26.272000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Berkeley RDI：Blog（AI 安全与评测）"
+      ],
+      "items": [
+        {
+          "id": "99c7a0611b8c3fcfdaa290acf333dfad7eb62c9c",
+          "title": "当编码不再是瓶颈：Berkeley RDI 提出软件自主开发三级框架 / When Coding Stops Being the Bottleneck",
+          "title_zh": "当编码不再是瓶颈：Berkeley RDI 提出软件自主开发三级框架",
+          "title_ja": "コーディングがボトルネックでなくなるとき",
+          "title_en": "When Coding Stops Being the Bottleneck",
+          "title_original": "When Coding Stops Being the Bottleneck",
+          "summary": "Berkeley RDI等机构提出三级软件自主开发框架：代码自主（AI完成设计与实现，人类决定构建内容并审核PR）、流水线自主（AI运行从设计到部署的全流程，人类仅评估结果）、需求自主（AI自主决定构建内容）。该框架旨在为能力声明、部署选择与问责提供清晰分类。",
+          "summary_ja": "バークレー RDI およびその他の機関は、コード自律性 (AI が設計と実装を完了し、人間が何を構築して PR をレビューするかを決定する)、パイプライン自律性 (AI が設計から展開までの全プロセスを実行し、人間は結果を評価するだけである)、要求自律性 (AI が何を構築するかを独立して決定する) という 3 つのレベルのソフトウェア独立開発フレームワークを提案しました。このフレームワークは、機能ステートメント、展開オプション、説明責任を明確に分類するように設計されています。",
+          "recommend_reason_zh": null,
+          "url": "https://rdi.berkeley.edu/blog/auto-software-dev",
+          "source": "Berkeley RDI：Blog（AI 安全与评测）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T07:51:26.272000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7341,
+      "importance": 0.7341,
+      "importance_score": 0.7341,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.64,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9471,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-27T07:51:26.272000Z",
+      "latest_at": "2026-07-27T07:51:26.272000Z",
+      "primary_item": {
+        "id": "99c7a0611b8c3fcfdaa290acf333dfad7eb62c9c",
+        "title": "当编码不再是瓶颈：Berkeley RDI 提出软件自主开发三级框架 / When Coding Stops Being the Bottleneck",
+        "title_zh": "当编码不再是瓶颈：Berkeley RDI 提出软件自主开发三级框架",
+        "title_ja": "コーディングがボトルネックでなくなるとき",
+        "title_en": "When Coding Stops Being the Bottleneck",
+        "title_original": "When Coding Stops Being the Bottleneck",
+        "summary": "Berkeley RDI等机构提出三级软件自主开发框架：代码自主（AI完成设计与实现，人类决定构建内容并审核PR）、流水线自主（AI运行从设计到部署的全流程，人类仅评估结果）、需求自主（AI自主决定构建内容）。该框架旨在为能力声明、部署选择与问责提供清晰分类。",
+        "summary_ja": "バークレー RDI およびその他の機関は、コード自律性 (AI が設計と実装を完了し、人間が何を構築して PR をレビューするかを決定する)、パイプライン自律性 (AI が設計から展開までの全プロセスを実行し、人間は結果を評価するだけである)、要求自律性 (AI が何を構築するかを独立して決定する) という 3 つのレベルのソフトウェア独立開発フレームワークを提案しました。このフレームワークは、機能ステートメント、展開オプション、説明責任を明確に分類するように設計されています。",
+        "recommend_reason_zh": null,
+        "url": "https://rdi.berkeley.edu/blog/auto-software-dev",
+        "source": "Berkeley RDI：Blog（AI 安全与评测）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-27T11:38:36.929304Z"
       }
     },
     {
@@ -323,16 +594,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7369,
-      "importance": 0.7369,
-      "importance_score": 0.7369,
+      "score": 0.7282,
+      "importance": 0.7282,
+      "importance_score": 0.7282,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.896,
+        "recency": 0.848,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -359,211 +630,33 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T07:49:52.928232Z"
+        "scored_at": "2026-07-27T11:38:36.929304Z"
       }
     },
     {
-      "story_id": "story_b171ba4f1505",
-      "title": "Suno 推出多项新功能，含MIDI导出等 / We've been building faster than ever！ 🚀 Here's a quick look at what's new across web & mobile： • …",
-      "title_ja": "私たちはこれまで以上に迅速に構築してきました！ 🚀 ウェブとモバイルの新機能を簡単に見てみましょう： • …",
-      "url": "https://x.com/suno/status/2081443050312843765",
-      "primary_url": "https://x.com/suno/status/2081443050312843765",
-      "source": "X：Suno (@suno)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "aaa781f2714a25da4b652de4787f304a23ab69a1",
-          "title": "Suno 推出多项新功能，含MIDI导出等 / We've been building faster than ever！ 🚀 Here's a quick look at what's new across web & mobile： • …",
-          "title_zh": "Suno 推出多项新功能，含MIDI导出等",
-          "title_ja": "私たちはこれまで以上に迅速に構築してきました！ 🚀 ウェブとモバイルの新機能を簡単に見てみましょう： • …",
-          "title_en": "We've been building faster than ever！ 🚀 Here's a quick look at what's new across web & mobile： • …",
-          "title_original": "We've been building faster than ever！ 🚀 Here's a quick look at what's new across web & mobile： • …",
-          "summary": "我们一直在以比以往更快的速度构建！🚀\n\n以下是网页端和移动端的新功能一览：\n\n• 高级音轨分离 • 将音轨导出为 MIDI • 歌词合写与自动保存 • 截图生成歌曲 • Apple CarPlay 与 Android Auto\n\n你最期待 Suno 的哪些新功能？",
-          "summary_ja": "私たちはこれまで以上に早く構築してきました。 🚀\n\nWeb とモバイルの新機能の概要は次のとおりです。\n\n• 高度なトラック分離 • MIDI へのトラックのエクスポート • 歌詞の共同作成と自動保存 • スクリーンショットで生成された曲 • Apple CarPlay と Android Auto\n\nSuno のどの新機能を最も楽しみにしていますか?",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/suno/status/2081443050312843765",
-          "source": "X：Suno (@suno)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-26T18:14:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Suno (@suno)"
-      ],
-      "items": [
-        {
-          "id": "aaa781f2714a25da4b652de4787f304a23ab69a1",
-          "title": "Suno 推出多项新功能，含MIDI导出等 / We've been building faster than ever！ 🚀 Here's a quick look at what's new across web & mobile： • …",
-          "title_zh": "Suno 推出多项新功能，含MIDI导出等",
-          "title_ja": "私たちはこれまで以上に迅速に構築してきました！ 🚀 ウェブとモバイルの新機能を簡単に見てみましょう： • …",
-          "title_en": "We've been building faster than ever！ 🚀 Here's a quick look at what's new across web & mobile： • …",
-          "title_original": "We've been building faster than ever！ 🚀 Here's a quick look at what's new across web & mobile： • …",
-          "summary": "我们一直在以比以往更快的速度构建！🚀\n\n以下是网页端和移动端的新功能一览：\n\n• 高级音轨分离 • 将音轨导出为 MIDI • 歌词合写与自动保存 • 截图生成歌曲 • Apple CarPlay 与 Android Auto\n\n你最期待 Suno 的哪些新功能？",
-          "summary_ja": "私たちはこれまで以上に早く構築してきました。 🚀\n\nWeb とモバイルの新機能の概要は次のとおりです。\n\n• 高度なトラック分離 • MIDI へのトラックのエクスポート • 歌詞の共同作成と自動保存 • スクリーンショットで生成された曲 • Apple CarPlay と Android Auto\n\nSuno のどの新機能を最も楽しみにしていますか?",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/suno/status/2081443050312843765",
-          "source": "X：Suno (@suno)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-26T18:14:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7236,
-      "importance": 0.7236,
-      "importance_score": 0.7236,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8221,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-26T18:14:29Z",
-      "latest_at": "2026-07-26T18:14:29Z",
-      "primary_item": {
-        "id": "aaa781f2714a25da4b652de4787f304a23ab69a1",
-        "title": "Suno 推出多项新功能，含MIDI导出等 / We've been building faster than ever！ 🚀 Here's a quick look at what's new across web & mobile： • …",
-        "title_zh": "Suno 推出多项新功能，含MIDI导出等",
-        "title_ja": "私たちはこれまで以上に迅速に構築してきました！ 🚀 ウェブとモバイルの新機能を簡単に見てみましょう： • …",
-        "title_en": "We've been building faster than ever！ 🚀 Here's a quick look at what's new across web & mobile： • …",
-        "title_original": "We've been building faster than ever！ 🚀 Here's a quick look at what's new across web & mobile： • …",
-        "summary": "我们一直在以比以往更快的速度构建！🚀\n\n以下是网页端和移动端的新功能一览：\n\n• 高级音轨分离 • 将音轨导出为 MIDI • 歌词合写与自动保存 • 截图生成歌曲 • Apple CarPlay 与 Android Auto\n\n你最期待 Suno 的哪些新功能？",
-        "summary_ja": "私たちはこれまで以上に早く構築してきました。 🚀\n\nWeb とモバイルの新機能の概要は次のとおりです。\n\n• 高度なトラック分離 • MIDI へのトラックのエクスポート • 歌詞の共同作成と自動保存 • スクリーンショットで生成された曲 • Apple CarPlay と Android Auto\n\nSuno のどの新機能を最も楽しみにしていますか?",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/suno/status/2081443050312843765",
-        "source": "X：Suno (@suno)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-27T07:49:52.928232Z"
-      }
-    },
-    {
-      "story_id": "story_9a66534a1fc0",
-      "title": "OpenAI、Anthropic 游说美国限制中国开源模型，黄仁勋与马斯克公开反对",
-      "title_ja": "OpenAIとAnthropicは中国のオープンソースモデルを制限するよう米国に働きかけ、黄仁勲氏とマスク氏はこれに公に反対した",
-      "url": "https://www.ithome.com/0/981/797.htm",
-      "primary_url": "https://www.ithome.com/0/981/797.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5309bb87c866fe790223159d8f8d4b9313205eac",
-          "title": "OpenAI、Anthropic 游说美国限制中国开源模型，黄仁勋与马斯克公开反对",
-          "title_zh": "OpenAI、Anthropic 游说美国限制中国开源模型，黄仁勋与马斯克公开反对",
-          "title_ja": "OpenAIとAnthropicは中国のオープンソースモデルを制限するよう米国に働きかけ、黄仁勲氏とマスク氏はこれに公に反対した",
-          "title_en": null,
-          "title_original": "OpenAI、Anthropic 游说美国限制中国开源模型，黄仁勋与马斯克公开反对",
-          "summary": "OpenAI 与 Anthropic 正游说美国监管机构限制中国开源 AI 模型，认为开放开发过于危险。英伟达 CEO 黄仁勋、微软 CEO 纳德拉、马斯克及扎克伯格等人公开支持开源，签署联名信反对限制。近 200 家硅谷创业公司也敦促特朗普政府不要限制获取中国开源模型，美国官员倾向于将此事作为国家安全问题单独处理。",
-          "summary_ja": "OpenAIとAnthropicは、オープン開発は危険すぎるとして、中国でのオープンソースAIモデルを制限するよう米国の規制当局にロビー活動を行っている。 Nvidiaのジェンセン・フアンCEO、マイクロソフトのナデラCEO、マスク氏、ザッカーバーグ氏はオープンソースを公に支持し、制限に反対する共同書簡に署名した。シリコンバレーの新興企業200社近くも、中国のオープンソースモデルへのアクセスを制限しないようトランプ政権に要請しており、米国当局はこの問題を国家安全保障問題として別個に扱うことを望んでいる。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/981/797.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-26T12:54:28Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "5309bb87c866fe790223159d8f8d4b9313205eac",
-          "title": "OpenAI、Anthropic 游说美国限制中国开源模型，黄仁勋与马斯克公开反对",
-          "title_zh": "OpenAI、Anthropic 游说美国限制中国开源模型，黄仁勋与马斯克公开反对",
-          "title_ja": "OpenAIとAnthropicは中国のオープンソースモデルを制限するよう米国に働きかけ、黄仁勲氏とマスク氏はこれに公に反対した",
-          "title_en": null,
-          "title_original": "OpenAI、Anthropic 游说美国限制中国开源模型，黄仁勋与马斯克公开反对",
-          "summary": "OpenAI 与 Anthropic 正游说美国监管机构限制中国开源 AI 模型，认为开放开发过于危险。英伟达 CEO 黄仁勋、微软 CEO 纳德拉、马斯克及扎克伯格等人公开支持开源，签署联名信反对限制。近 200 家硅谷创业公司也敦促特朗普政府不要限制获取中国开源模型，美国官员倾向于将此事作为国家安全问题单独处理。",
-          "summary_ja": "OpenAIとAnthropicは、オープン開発は危険すぎるとして、中国でのオープンソースAIモデルを制限するよう米国の規制当局にロビー活動を行っている。 Nvidiaのジェンセン・フアンCEO、マイクロソフトのナデラCEO、マスク氏、ザッカーバーグ氏はオープンソースを公に支持し、制限に反対する共同書簡に署名した。シリコンバレーの新興企業200社近くも、中国のオープンソースモデルへのアクセスを制限しないようトランプ政権に要請しており、米国当局はこの問題を国家安全保障問題として別個に扱うことを望んでいる。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/981/797.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-26T12:54:28Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7216,
-      "importance": 0.7216,
-      "importance_score": 0.7216,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7612,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-26T12:54:28Z",
-      "latest_at": "2026-07-26T12:54:28Z",
-      "primary_item": {
-        "id": "5309bb87c866fe790223159d8f8d4b9313205eac",
-        "title": "OpenAI、Anthropic 游说美国限制中国开源模型，黄仁勋与马斯克公开反对",
-        "title_zh": "OpenAI、Anthropic 游说美国限制中国开源模型，黄仁勋与马斯克公开反对",
-        "title_ja": "OpenAIとAnthropicは中国のオープンソースモデルを制限するよう米国に働きかけ、黄仁勲氏とマスク氏はこれに公に反対した",
-        "title_en": null,
-        "title_original": "OpenAI、Anthropic 游说美国限制中国开源模型，黄仁勋与马斯克公开反对",
-        "summary": "OpenAI 与 Anthropic 正游说美国监管机构限制中国开源 AI 模型，认为开放开发过于危险。英伟达 CEO 黄仁勋、微软 CEO 纳德拉、马斯克及扎克伯格等人公开支持开源，签署联名信反对限制。近 200 家硅谷创业公司也敦促特朗普政府不要限制获取中国开源模型，美国官员倾向于将此事作为国家安全问题单独处理。",
-        "summary_ja": "OpenAIとAnthropicは、オープン開発は危険すぎるとして、中国でのオープンソースAIモデルを制限するよう米国の規制当局にロビー活動を行っている。 Nvidiaのジェンセン・フアンCEO、マイクロソフトのナデラCEO、マスク氏、ザッカーバーグ氏はオープンソースを公に支持し、制限に反対する共同書簡に署名した。シリコンバレーの新興企業200社近くも、中国のオープンソースモデルへのアクセスを制限しないようトランプ政権に要請しており、米国当局はこの問題を国家安全保障問題として別個に扱うことを望んでいる。",
-        "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/0/981/797.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-27T07:49:52.928232Z"
-      }
-    },
-    {
-      "story_id": "story_2f2bb8073ae3",
-      "title": "OpenAI 首席执行官奥尔特曼泼冷水：AI 救不了你的工时，超级智能时代人只会更忙",
-      "title_ja": "OpenAI CEO アルトマン氏が冷や水を浴びせる：AI は労働時間を節約できない、超インテリジェンスの時代には人々はさらに忙しくなるだけだ",
-      "url": "https://www.aibase.com/news/29908",
-      "primary_url": "https://www.aibase.com/news/29908",
+      "story_id": "story_78c20dc62353",
+      "title": "GEO服务商迎来“效率革命”：一套SaaS平台系统解决计费、交付、代理管理三大难题",
+      "title_ja": "ゲオのサービスプロバイダーが「効率革命」を起こす：請求・配送・代理店管理の3大課題をSaaSプラットフォームシステムで解決",
+      "url": "https://www.aibase.com/news/29914",
+      "primary_url": "https://www.aibase.com/news/29914",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "6e1fc6960ffca9cbbec6edcc1153b660a65cc7de",
-          "title": "OpenAI 首席执行官奥尔特曼泼冷水：AI 救不了你的工时，超级智能时代人只会更忙",
-          "title_zh": "OpenAI 首席执行官奥尔特曼泼冷水：AI 救不了你的工时，超级智能时代人只会更忙",
-          "title_ja": "OpenAI CEO アルトマン氏が冷や水を浴びせる：AI は労働時間を節約できない、超インテリジェンスの時代には人々はさらに忙しくなるだけだ",
+          "id": "19424603e898aaa6d70be7195f041cf5237ea17f",
+          "title": "GEO服务商迎来“效率革命”：一套SaaS平台系统解决计费、交付、代理管理三大难题",
+          "title_zh": "GEO服务商迎来“效率革命”：一套SaaS平台系统解决计费、交付、代理管理三大难题",
+          "title_ja": "ゲオのサービスプロバイダーが「効率革命」を起こす：請求・配送・代理店管理の3大課題をSaaSプラットフォームシステムで解決",
           "title_en": null,
-          "title_original": "OpenAI 首席执行官奥尔特曼泼冷水：AI 救不了你的工时，超级智能时代人只会更忙",
+          "title_original": "GEO服务商迎来“效率革命”：一套SaaS平台系统解决计费、交付、代理管理三大难题",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29908",
+          "url": "https://www.aibase.com/news/29914",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-27T07:48:18.407590Z"
+          "published_at": "2026-07-27T11:37:14.914987Z"
         }
       ],
       "source_count": 1,
@@ -572,20 +665,20 @@
       ],
       "items": [
         {
-          "id": "6e1fc6960ffca9cbbec6edcc1153b660a65cc7de",
-          "title": "OpenAI 首席执行官奥尔特曼泼冷水：AI 救不了你的工时，超级智能时代人只会更忙",
-          "title_zh": "OpenAI 首席执行官奥尔特曼泼冷水：AI 救不了你的工时，超级智能时代人只会更忙",
-          "title_ja": "OpenAI CEO アルトマン氏が冷や水を浴びせる：AI は労働時間を節約できない、超インテリジェンスの時代には人々はさらに忙しくなるだけだ",
+          "id": "19424603e898aaa6d70be7195f041cf5237ea17f",
+          "title": "GEO服务商迎来“效率革命”：一套SaaS平台系统解决计费、交付、代理管理三大难题",
+          "title_zh": "GEO服务商迎来“效率革命”：一套SaaS平台系统解决计费、交付、代理管理三大难题",
+          "title_ja": "ゲオのサービスプロバイダーが「効率革命」を起こす：請求・配送・代理店管理の3大課題をSaaSプラットフォームシステムで解決",
           "title_en": null,
-          "title_original": "OpenAI 首席执行官奥尔特曼泼冷水：AI 救不了你的工时，超级智能时代人只会更忙",
+          "title_original": "GEO服务商迎来“效率革命”：一套SaaS平台系统解决计费、交付、代理管理三大难题",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29908",
+          "url": "https://www.aibase.com/news/29914",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-27T07:48:18.407590Z"
+          "published_at": "2026-07-27T11:37:14.914987Z"
         }
       ],
       "item_count": 1,
@@ -607,19 +700,19 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-27T07:48:18.407590Z",
-      "latest_at": "2026-07-27T07:48:18.407590Z",
+      "earliest_at": "2026-07-27T11:37:14.914987Z",
+      "latest_at": "2026-07-27T11:37:14.914987Z",
       "primary_item": {
-        "id": "6e1fc6960ffca9cbbec6edcc1153b660a65cc7de",
-        "title": "OpenAI 首席执行官奥尔特曼泼冷水：AI 救不了你的工时，超级智能时代人只会更忙",
-        "title_zh": "OpenAI 首席执行官奥尔特曼泼冷水：AI 救不了你的工时，超级智能时代人只会更忙",
-        "title_ja": "OpenAI CEO アルトマン氏が冷や水を浴びせる：AI は労働時間を節約できない、超インテリジェンスの時代には人々はさらに忙しくなるだけだ",
+        "id": "19424603e898aaa6d70be7195f041cf5237ea17f",
+        "title": "GEO服务商迎来“效率革命”：一套SaaS平台系统解决计费、交付、代理管理三大难题",
+        "title_zh": "GEO服务商迎来“效率革命”：一套SaaS平台系统解决计费、交付、代理管理三大难题",
+        "title_ja": "ゲオのサービスプロバイダーが「効率革命」を起こす：請求・配送・代理店管理の3大課題をSaaSプラットフォームシステムで解決",
         "title_en": null,
-        "title_original": "OpenAI 首席执行官奥尔特曼泼冷水：AI 救不了你的工时，超级智能时代人只会更忙",
+        "title_original": "GEO服务商迎来“效率革命”：一套SaaS平台系统解决计费、交付、代理管理三大难题",
         "summary": null,
         "summary_ja": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/29908",
+        "url": "https://www.aibase.com/news/29914",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -627,33 +720,33 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T07:49:52.928232Z"
+        "scored_at": "2026-07-27T11:38:36.929304Z"
       }
     },
     {
-      "story_id": "story_6e37e0c3ca13",
-      "title": "QQ宠物携AI大脑重生：接入腾讯Hy3 大模型，这次真的会\"回应\"你",
-      "title_ja": "QQペットがAI頭脳で生まれ変わる：Tencent Hy3大型モデルに接続され、今度は本当にあなたに「応答」します",
-      "url": "https://www.aibase.com/news/29905",
-      "primary_url": "https://www.aibase.com/news/29905",
+      "story_id": "story_620ebb8c9c5b",
+      "title": "​35 名大学生 32 人考试作弊，教授用一行\"隐形咒语\"让AI现原形",
+      "title_ja": "大学生35人中32人が試験でカンニング、教授が「透明化の呪文」を使ってAIに本当の姿を明らかにさせた",
+      "url": "https://www.aibase.com/news/29916",
+      "primary_url": "https://www.aibase.com/news/29916",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "17d11038163f823192d508995e9fc61f94746787",
-          "title": "QQ宠物携AI大脑重生：接入腾讯Hy3 大模型，这次真的会\"回应\"你",
-          "title_zh": "QQ宠物携AI大脑重生：接入腾讯Hy3 大模型，这次真的会\"回应\"你",
-          "title_ja": "QQペットがAI頭脳で生まれ変わる：Tencent Hy3大型モデルに接続され、今度は本当にあなたに「応答」します",
+          "id": "326261f775bd97b90c695a2a62309932378bfecc",
+          "title": "​35 名大学生 32 人考试作弊，教授用一行\"隐形咒语\"让AI现原形",
+          "title_zh": "​35 名大学生 32 人考试作弊，教授用一行\"隐形咒语\"让AI现原形",
+          "title_ja": "大学生35人中32人が試験でカンニング、教授が「透明化の呪文」を使ってAIに本当の姿を明らかにさせた",
           "title_en": null,
-          "title_original": "QQ宠物携AI大脑重生：接入腾讯Hy3 大模型，这次真的会\"回应\"你",
+          "title_original": "​35 名大学生 32 人考试作弊，教授用一行\"隐形咒语\"让AI现原形",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29905",
+          "url": "https://www.aibase.com/news/29916",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-27T07:48:18.407590Z"
+          "published_at": "2026-07-27T11:37:14.914987Z"
         }
       ],
       "source_count": 1,
@@ -662,20 +755,20 @@
       ],
       "items": [
         {
-          "id": "17d11038163f823192d508995e9fc61f94746787",
-          "title": "QQ宠物携AI大脑重生：接入腾讯Hy3 大模型，这次真的会\"回应\"你",
-          "title_zh": "QQ宠物携AI大脑重生：接入腾讯Hy3 大模型，这次真的会\"回应\"你",
-          "title_ja": "QQペットがAI頭脳で生まれ変わる：Tencent Hy3大型モデルに接続され、今度は本当にあなたに「応答」します",
+          "id": "326261f775bd97b90c695a2a62309932378bfecc",
+          "title": "​35 名大学生 32 人考试作弊，教授用一行\"隐形咒语\"让AI现原形",
+          "title_zh": "​35 名大学生 32 人考试作弊，教授用一行\"隐形咒语\"让AI现原形",
+          "title_ja": "大学生35人中32人が試験でカンニング、教授が「透明化の呪文」を使ってAIに本当の姿を明らかにさせた",
           "title_en": null,
-          "title_original": "QQ宠物携AI大脑重生：接入腾讯Hy3 大模型，这次真的会\"回应\"你",
+          "title_original": "​35 名大学生 32 人考试作弊，教授用一行\"隐形咒语\"让AI现原形",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29905",
+          "url": "https://www.aibase.com/news/29916",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-27T07:48:18.407590Z"
+          "published_at": "2026-07-27T11:37:14.914987Z"
         }
       ],
       "item_count": 1,
@@ -697,19 +790,19 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-27T07:48:18.407590Z",
-      "latest_at": "2026-07-27T07:48:18.407590Z",
+      "earliest_at": "2026-07-27T11:37:14.914987Z",
+      "latest_at": "2026-07-27T11:37:14.914987Z",
       "primary_item": {
-        "id": "17d11038163f823192d508995e9fc61f94746787",
-        "title": "QQ宠物携AI大脑重生：接入腾讯Hy3 大模型，这次真的会\"回应\"你",
-        "title_zh": "QQ宠物携AI大脑重生：接入腾讯Hy3 大模型，这次真的会\"回应\"你",
-        "title_ja": "QQペットがAI頭脳で生まれ変わる：Tencent Hy3大型モデルに接続され、今度は本当にあなたに「応答」します",
+        "id": "326261f775bd97b90c695a2a62309932378bfecc",
+        "title": "​35 名大学生 32 人考试作弊，教授用一行\"隐形咒语\"让AI现原形",
+        "title_zh": "​35 名大学生 32 人考试作弊，教授用一行\"隐形咒语\"让AI现原形",
+        "title_ja": "大学生35人中32人が試験でカンニング、教授が「透明化の呪文」を使ってAIに本当の姿を明らかにさせた",
         "title_en": null,
-        "title_original": "QQ宠物携AI大脑重生：接入腾讯Hy3 大模型，这次真的会\"回应\"你",
+        "title_original": "​35 名大学生 32 人考试作弊，教授用一行\"隐形咒语\"让AI现原形",
         "summary": null,
         "summary_ja": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/29905",
+        "url": "https://www.aibase.com/news/29916",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -717,33 +810,33 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T07:49:52.928232Z"
+        "scored_at": "2026-07-27T11:38:36.929304Z"
       }
     },
     {
-      "story_id": "story_9bc7ee932d09",
-      "title": "​企业微信AI助理\"大圆\"内测：一句话写周报，专治99+群聊消息",
-      "title_ja": "エンタープライズ WeChat AI アシスタント「Dayuan」の内部ベータ テスト: 99 個以上のグループ チャット メッセージに特化した、一文で週次レポートを作成",
-      "url": "https://www.aibase.com/news/29909",
-      "primary_url": "https://www.aibase.com/news/29909",
+      "story_id": "story_0736bf3e9f9b",
+      "title": "抖音升级未成年人模式引擎，把多模态大语言模型请进了适龄推荐",
+      "title_ja": "Douyin はマイナー モード エンジンをアップグレードし、年齢に応じたレコメンデーションにマルチモーダルな大規模言語モデルを導入します。",
+      "url": "https://www.aibase.com/news/29918",
+      "primary_url": "https://www.aibase.com/news/29918",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "6a20106fa3d1b4e2af1ef5e5a6cbe899f6c712f2",
-          "title": "​企业微信AI助理\"大圆\"内测：一句话写周报，专治99+群聊消息",
-          "title_zh": "​企业微信AI助理\"大圆\"内测：一句话写周报，专治99+群聊消息",
-          "title_ja": "エンタープライズ WeChat AI アシスタント「Dayuan」の内部ベータ テスト: 99 個以上のグループ チャット メッセージに特化した、一文で週次レポートを作成",
+          "id": "d9f235aecfe2f0fbe740936f9acf2fd8b8430cd1",
+          "title": "抖音升级未成年人模式引擎，把多模态大语言模型请进了适龄推荐",
+          "title_zh": "抖音升级未成年人模式引擎，把多模态大语言模型请进了适龄推荐",
+          "title_ja": "Douyin はマイナー モード エンジンをアップグレードし、年齢に応じたレコメンデーションにマルチモーダルな大規模言語モデルを導入します。",
           "title_en": null,
-          "title_original": "​企业微信AI助理\"大圆\"内测：一句话写周报，专治99+群聊消息",
+          "title_original": "抖音升级未成年人模式引擎，把多模态大语言模型请进了适龄推荐",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29909",
+          "url": "https://www.aibase.com/news/29918",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-27T07:48:18.407590Z"
+          "published_at": "2026-07-27T11:37:14.914987Z"
         }
       ],
       "source_count": 1,
@@ -752,20 +845,20 @@
       ],
       "items": [
         {
-          "id": "6a20106fa3d1b4e2af1ef5e5a6cbe899f6c712f2",
-          "title": "​企业微信AI助理\"大圆\"内测：一句话写周报，专治99+群聊消息",
-          "title_zh": "​企业微信AI助理\"大圆\"内测：一句话写周报，专治99+群聊消息",
-          "title_ja": "エンタープライズ WeChat AI アシスタント「Dayuan」の内部ベータ テスト: 99 個以上のグループ チャット メッセージに特化した、一文で週次レポートを作成",
+          "id": "d9f235aecfe2f0fbe740936f9acf2fd8b8430cd1",
+          "title": "抖音升级未成年人模式引擎，把多模态大语言模型请进了适龄推荐",
+          "title_zh": "抖音升级未成年人模式引擎，把多模态大语言模型请进了适龄推荐",
+          "title_ja": "Douyin はマイナー モード エンジンをアップグレードし、年齢に応じたレコメンデーションにマルチモーダルな大規模言語モデルを導入します。",
           "title_en": null,
-          "title_original": "​企业微信AI助理\"大圆\"内测：一句话写周报，专治99+群聊消息",
+          "title_original": "抖音升级未成年人模式引擎，把多模态大语言模型请进了适龄推荐",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29909",
+          "url": "https://www.aibase.com/news/29918",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-27T07:48:18.407590Z"
+          "published_at": "2026-07-27T11:37:14.914987Z"
         }
       ],
       "item_count": 1,
@@ -787,19 +880,19 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-27T07:48:18.407590Z",
-      "latest_at": "2026-07-27T07:48:18.407590Z",
+      "earliest_at": "2026-07-27T11:37:14.914987Z",
+      "latest_at": "2026-07-27T11:37:14.914987Z",
       "primary_item": {
-        "id": "6a20106fa3d1b4e2af1ef5e5a6cbe899f6c712f2",
-        "title": "​企业微信AI助理\"大圆\"内测：一句话写周报，专治99+群聊消息",
-        "title_zh": "​企业微信AI助理\"大圆\"内测：一句话写周报，专治99+群聊消息",
-        "title_ja": "エンタープライズ WeChat AI アシスタント「Dayuan」の内部ベータ テスト: 99 個以上のグループ チャット メッセージに特化した、一文で週次レポートを作成",
+        "id": "d9f235aecfe2f0fbe740936f9acf2fd8b8430cd1",
+        "title": "抖音升级未成年人模式引擎，把多模态大语言模型请进了适龄推荐",
+        "title_zh": "抖音升级未成年人模式引擎，把多模态大语言模型请进了适龄推荐",
+        "title_ja": "Douyin はマイナー モード エンジンをアップグレードし、年齢に応じたレコメンデーションにマルチモーダルな大規模言語モデルを導入します。",
         "title_en": null,
-        "title_original": "​企业微信AI助理\"大圆\"内测：一句话写周报，专治99+群聊消息",
+        "title_original": "抖音升级未成年人模式引擎，把多模态大语言模型请进了适龄推荐",
         "summary": null,
         "summary_ja": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/29909",
+        "url": "https://www.aibase.com/news/29918",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -807,33 +900,33 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T07:49:52.928232Z"
+        "scored_at": "2026-07-27T11:38:36.929304Z"
       }
     },
     {
-      "story_id": "story_ff35d4d39822",
-      "title": "​脑电波训练机器人：物理AI的下一个突破口藏在人脑信号里",
-      "title_ja": "脳波トレーニングロボット: 物理的 AI の次のブレークスルーは人間の脳信号に隠されている",
-      "url": "https://www.aibase.com/news/29901",
-      "primary_url": "https://www.aibase.com/news/29901",
+      "story_id": "story_71876d6c1e78",
+      "title": "灵光APP上线“一键部署”:支持Codex、Claude Code、Cursor等AI应用直接发布",
+      "title_ja": "Lingguang APP は「ワンクリック展開」を開始します。Codex、Claude Code、Cursor などの AI アプリケーションの直接リリースをサポートします。",
+      "url": "https://www.aibase.com/news/29912",
+      "primary_url": "https://www.aibase.com/news/29912",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "5c5c368e4dea3a734230876fbc80e22c3404f6ce",
-          "title": "​脑电波训练机器人：物理AI的下一个突破口藏在人脑信号里",
-          "title_zh": "​脑电波训练机器人：物理AI的下一个突破口藏在人脑信号里",
-          "title_ja": "脳波トレーニングロボット: 物理的 AI の次のブレークスルーは人間の脳信号に隠されている",
+          "id": "ba749cfd41c0c42c77e279abb3c4ee9fe2672cd4",
+          "title": "灵光APP上线“一键部署”:支持Codex、Claude Code、Cursor等AI应用直接发布",
+          "title_zh": "灵光APP上线“一键部署”:支持Codex、Claude Code、Cursor等AI应用直接发布",
+          "title_ja": "Lingguang APP は「ワンクリック展開」を開始します。Codex、Claude Code、Cursor などの AI アプリケーションの直接リリースをサポートします。",
           "title_en": null,
-          "title_original": "​脑电波训练机器人：物理AI的下一个突破口藏在人脑信号里",
+          "title_original": "灵光APP上线“一键部署”:支持Codex、Claude Code、Cursor等AI应用直接发布",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29901",
+          "url": "https://www.aibase.com/news/29912",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-27T07:48:18.407590Z"
+          "published_at": "2026-07-27T11:37:14.914987Z"
         }
       ],
       "source_count": 1,
@@ -842,20 +935,20 @@
       ],
       "items": [
         {
-          "id": "5c5c368e4dea3a734230876fbc80e22c3404f6ce",
-          "title": "​脑电波训练机器人：物理AI的下一个突破口藏在人脑信号里",
-          "title_zh": "​脑电波训练机器人：物理AI的下一个突破口藏在人脑信号里",
-          "title_ja": "脳波トレーニングロボット: 物理的 AI の次のブレークスルーは人間の脳信号に隠されている",
+          "id": "ba749cfd41c0c42c77e279abb3c4ee9fe2672cd4",
+          "title": "灵光APP上线“一键部署”:支持Codex、Claude Code、Cursor等AI应用直接发布",
+          "title_zh": "灵光APP上线“一键部署”:支持Codex、Claude Code、Cursor等AI应用直接发布",
+          "title_ja": "Lingguang APP は「ワンクリック展開」を開始します。Codex、Claude Code、Cursor などの AI アプリケーションの直接リリースをサポートします。",
           "title_en": null,
-          "title_original": "​脑电波训练机器人：物理AI的下一个突破口藏在人脑信号里",
+          "title_original": "灵光APP上线“一键部署”:支持Codex、Claude Code、Cursor等AI应用直接发布",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29901",
+          "url": "https://www.aibase.com/news/29912",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-27T07:48:18.407590Z"
+          "published_at": "2026-07-27T11:37:14.914987Z"
         }
       ],
       "item_count": 1,
@@ -877,19 +970,19 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-27T07:48:18.407590Z",
-      "latest_at": "2026-07-27T07:48:18.407590Z",
+      "earliest_at": "2026-07-27T11:37:14.914987Z",
+      "latest_at": "2026-07-27T11:37:14.914987Z",
       "primary_item": {
-        "id": "5c5c368e4dea3a734230876fbc80e22c3404f6ce",
-        "title": "​脑电波训练机器人：物理AI的下一个突破口藏在人脑信号里",
-        "title_zh": "​脑电波训练机器人：物理AI的下一个突破口藏在人脑信号里",
-        "title_ja": "脳波トレーニングロボット: 物理的 AI の次のブレークスルーは人間の脳信号に隠されている",
+        "id": "ba749cfd41c0c42c77e279abb3c4ee9fe2672cd4",
+        "title": "灵光APP上线“一键部署”:支持Codex、Claude Code、Cursor等AI应用直接发布",
+        "title_zh": "灵光APP上线“一键部署”:支持Codex、Claude Code、Cursor等AI应用直接发布",
+        "title_ja": "Lingguang APP は「ワンクリック展開」を開始します。Codex、Claude Code、Cursor などの AI アプリケーションの直接リリースをサポートします。",
         "title_en": null,
-        "title_original": "​脑电波训练机器人：物理AI的下一个突破口藏在人脑信号里",
+        "title_original": "灵光APP上线“一键部署”:支持Codex、Claude Code、Cursor等AI应用直接发布",
         "summary": null,
         "summary_ja": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/29901",
+        "url": "https://www.aibase.com/news/29912",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -897,33 +990,33 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T07:49:52.928232Z"
+        "scored_at": "2026-07-27T11:38:36.929304Z"
       }
     },
     {
-      "story_id": "story_d7c0ebfdd22e",
-      "title": "千问办公悄然开启内测 主打25项企业 IM 能力与多形态产物一站式交付",
-      "title_ja": "Qianwen Office は、25 のエンタープライズ IM 機能とマルチフォーム製品のワンストップ配信に焦点を当てた内部テストを静かに開始しました。",
-      "url": "https://www.aibase.com/news/29899",
-      "primary_url": "https://www.aibase.com/news/29899",
+      "story_id": "story_7cc955d7d08a",
+      "title": "美团发布全场景 AI Agent 平台 CatPaw，搭载 1.6T 参数开源大模型 LongCat 2.0",
+      "title_ja": "Meituan、1.6Tパラメータのオープンソース大型モデルLongCat 2.0を搭載したフルシナリオAIエージェントプラットフォームCatPawをリリース",
+      "url": "https://www.aibase.com/news/29913",
+      "primary_url": "https://www.aibase.com/news/29913",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "b5e4795c042a9a1dbcf893fd460f1061f33f7acb",
-          "title": "千问办公悄然开启内测 主打25项企业 IM 能力与多形态产物一站式交付",
-          "title_zh": "千问办公悄然开启内测 主打25项企业 IM 能力与多形态产物一站式交付",
-          "title_ja": "Qianwen Office は、25 のエンタープライズ IM 機能とマルチフォーム製品のワンストップ配信に焦点を当てた内部テストを静かに開始しました。",
+          "id": "2c0493a0ae22d415fd95abdbb8cd6f50ced715f0",
+          "title": "美团发布全场景 AI Agent 平台 CatPaw，搭载 1.6T 参数开源大模型 LongCat 2.0",
+          "title_zh": "美团发布全场景 AI Agent 平台 CatPaw，搭载 1.6T 参数开源大模型 LongCat 2.0",
+          "title_ja": "Meituan、1.6Tパラメータのオープンソース大型モデルLongCat 2.0を搭載したフルシナリオAIエージェントプラットフォームCatPawをリリース",
           "title_en": null,
-          "title_original": "千问办公悄然开启内测 主打25项企业 IM 能力与多形态产物一站式交付",
+          "title_original": "美团发布全场景 AI Agent 平台 CatPaw，搭载 1.6T 参数开源大模型 LongCat 2.0",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29899",
+          "url": "https://www.aibase.com/news/29913",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-27T07:48:18.407590Z"
+          "published_at": "2026-07-27T11:37:14.914987Z"
         }
       ],
       "source_count": 1,
@@ -932,20 +1025,20 @@
       ],
       "items": [
         {
-          "id": "b5e4795c042a9a1dbcf893fd460f1061f33f7acb",
-          "title": "千问办公悄然开启内测 主打25项企业 IM 能力与多形态产物一站式交付",
-          "title_zh": "千问办公悄然开启内测 主打25项企业 IM 能力与多形态产物一站式交付",
-          "title_ja": "Qianwen Office は、25 のエンタープライズ IM 機能とマルチフォーム製品のワンストップ配信に焦点を当てた内部テストを静かに開始しました。",
+          "id": "2c0493a0ae22d415fd95abdbb8cd6f50ced715f0",
+          "title": "美团发布全场景 AI Agent 平台 CatPaw，搭载 1.6T 参数开源大模型 LongCat 2.0",
+          "title_zh": "美团发布全场景 AI Agent 平台 CatPaw，搭载 1.6T 参数开源大模型 LongCat 2.0",
+          "title_ja": "Meituan、1.6Tパラメータのオープンソース大型モデルLongCat 2.0を搭載したフルシナリオAIエージェントプラットフォームCatPawをリリース",
           "title_en": null,
-          "title_original": "千问办公悄然开启内测 主打25项企业 IM 能力与多形态产物一站式交付",
+          "title_original": "美团发布全场景 AI Agent 平台 CatPaw，搭载 1.6T 参数开源大模型 LongCat 2.0",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29899",
+          "url": "https://www.aibase.com/news/29913",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-27T07:48:18.407590Z"
+          "published_at": "2026-07-27T11:37:14.914987Z"
         }
       ],
       "item_count": 1,
@@ -967,19 +1060,19 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-27T07:48:18.407590Z",
-      "latest_at": "2026-07-27T07:48:18.407590Z",
+      "earliest_at": "2026-07-27T11:37:14.914987Z",
+      "latest_at": "2026-07-27T11:37:14.914987Z",
       "primary_item": {
-        "id": "b5e4795c042a9a1dbcf893fd460f1061f33f7acb",
-        "title": "千问办公悄然开启内测 主打25项企业 IM 能力与多形态产物一站式交付",
-        "title_zh": "千问办公悄然开启内测 主打25项企业 IM 能力与多形态产物一站式交付",
-        "title_ja": "Qianwen Office は、25 のエンタープライズ IM 機能とマルチフォーム製品のワンストップ配信に焦点を当てた内部テストを静かに開始しました。",
+        "id": "2c0493a0ae22d415fd95abdbb8cd6f50ced715f0",
+        "title": "美团发布全场景 AI Agent 平台 CatPaw，搭载 1.6T 参数开源大模型 LongCat 2.0",
+        "title_zh": "美团发布全场景 AI Agent 平台 CatPaw，搭载 1.6T 参数开源大模型 LongCat 2.0",
+        "title_ja": "Meituan、1.6Tパラメータのオープンソース大型モデルLongCat 2.0を搭載したフルシナリオAIエージェントプラットフォームCatPawをリリース",
         "title_en": null,
-        "title_original": "千问办公悄然开启内测 主打25项企业 IM 能力与多形态产物一站式交付",
+        "title_original": "美团发布全场景 AI Agent 平台 CatPaw，搭载 1.6T 参数开源大模型 LongCat 2.0",
         "summary": null,
         "summary_ja": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/29899",
+        "url": "https://www.aibase.com/news/29913",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -987,33 +1080,188 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T07:49:52.928232Z"
+        "scored_at": "2026-07-27T11:38:36.929304Z"
       }
     },
     {
-      "story_id": "story_c39243180913",
-      "title": "皮查伊确认Gemini4 已投入训练，谷歌AI旗舰型号年底见分晓",
-      "title_ja": "ピチャイ氏は、Gemini4がトレーニングに投入され、GoogleのAIフラッグシップモデルが年末までに利用可能になることを認めた",
-      "url": "https://www.aibase.com/news/29906",
-      "primary_url": "https://www.aibase.com/news/29906",
+      "story_id": "story_2d4e47d50fc6",
+      "title": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
+      "title_ja": "7 月 27 日、Kimi-K3 が HuggingFace に投稿",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3",
+      "primary_url": "https://huggingface.co/moonshotai/Kimi-K3",
+      "source": "huggingface.co",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "e1e07cd277305abdc98b63c45f673b20341b0169",
+          "title": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
+          "title_zh": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
+          "title_ja": "7 月 27 日、Kimi-K3 が HuggingFace に投稿",
+          "title_en": null,
+          "title_original": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/moonshotai/Kimi-K3",
+          "source": "huggingface.co",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-27T08:09:26.811000Z"
+        },
+        {
+          "id": "aef79877fe0677a9ac3e3b2b8989645960fb5942",
+          "title": "Kimi-K3 在 HuggingFace 7/27 上发布 / Kimi-K3 Releases on HuggingFace 7/27",
+          "title_zh": "Kimi-K3 在 HuggingFace 7/27 上发布",
+          "title_ja": "Kimi-K3 7/27 HuggingFace リリース",
+          "title_en": "Kimi-K3 Releases on HuggingFace 7/27",
+          "title_original": "Kimi-K3 Releases on HuggingFace 7/27",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49065752",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-27T07:48:44.363000Z"
+        },
+        {
+          "id": "436d18c01c7bae7b2d15ac94ed347b9d8b1a0a29",
+          "title": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布 / Kimi-K3 Releases on HuggingFace 7/27",
+          "title_zh": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
+          "title_ja": "Kimi-K3 7/27 HuggingFace リリース",
+          "title_en": "Kimi-K3 Releases on HuggingFace 7/27",
+          "title_original": "Kimi-K3 Releases on HuggingFace 7/27",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/moonshotai/Kimi-K3",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-27T06:18:10Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "hackernews",
+        "huggingface.co"
+      ],
+      "items": [
+        {
+          "id": "e1e07cd277305abdc98b63c45f673b20341b0169",
+          "title": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
+          "title_zh": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
+          "title_ja": "7 月 27 日、Kimi-K3 が HuggingFace に投稿",
+          "title_en": null,
+          "title_original": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/moonshotai/Kimi-K3",
+          "source": "huggingface.co",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-27T08:09:26.811000Z"
+        },
+        {
+          "id": "aef79877fe0677a9ac3e3b2b8989645960fb5942",
+          "title": "Kimi-K3 在 HuggingFace 7/27 上发布 / Kimi-K3 Releases on HuggingFace 7/27",
+          "title_zh": "Kimi-K3 在 HuggingFace 7/27 上发布",
+          "title_ja": "Kimi-K3 7/27 HuggingFace リリース",
+          "title_en": "Kimi-K3 Releases on HuggingFace 7/27",
+          "title_original": "Kimi-K3 Releases on HuggingFace 7/27",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49065752",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-27T07:48:44.363000Z"
+        },
+        {
+          "id": "436d18c01c7bae7b2d15ac94ed347b9d8b1a0a29",
+          "title": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布 / Kimi-K3 Releases on HuggingFace 7/27",
+          "title_zh": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
+          "title_ja": "Kimi-K3 7/27 HuggingFace リリース",
+          "title_en": "Kimi-K3 Releases on HuggingFace 7/27",
+          "title_original": "Kimi-K3 Releases on HuggingFace 7/27",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/moonshotai/Kimi-K3",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-27T06:18:10Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.562,
+      "importance": 0.562,
+      "importance_score": 0.562,
+      "importance_label": "多源热议",
+      "importance_label_ja": "複数ソースで話題",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9512,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-27T06:18:10Z",
+      "latest_at": "2026-07-27T08:09:26.811000Z",
+      "primary_item": {
+        "id": "e1e07cd277305abdc98b63c45f673b20341b0169",
+        "title": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
+        "title_zh": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
+        "title_ja": "7 月 27 日、Kimi-K3 が HuggingFace に投稿",
+        "title_en": null,
+        "title_original": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/moonshotai/Kimi-K3",
+        "source": "huggingface.co",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-27T11:38:36.929304Z"
+      }
+    },
+    {
+      "story_id": "story_7e59c4ca7c4e",
+      "title": "软银400亿美元OpenAI股权贷款扩圈，新增 21 家放款机构分食 70 亿额度",
+      "title_ja": "ソフトバンクの400億ドルのOpenAI株式融資が拡大、70億ドルの割り当てを共有する21の新たな貸し手が追加される",
+      "url": "https://www.aibase.com/news/29915",
+      "primary_url": "https://www.aibase.com/news/29915",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "326504f40534826ec28af75865748801d1b923e9",
-          "title": "皮查伊确认Gemini4 已投入训练，谷歌AI旗舰型号年底见分晓",
-          "title_zh": "皮查伊确认Gemini4 已投入训练，谷歌AI旗舰型号年底见分晓",
-          "title_ja": "ピチャイ氏は、Gemini4がトレーニングに投入され、GoogleのAIフラッグシップモデルが年末までに利用可能になることを認めた",
+          "id": "80742ceb6678a65c72483282319c42e62f47abbf",
+          "title": "软银400亿美元OpenAI股权贷款扩圈，新增 21 家放款机构分食 70 亿额度",
+          "title_zh": "软银400亿美元OpenAI股权贷款扩圈，新增 21 家放款机构分食 70 亿额度",
+          "title_ja": "ソフトバンクの400億ドルのOpenAI株式融資が拡大、70億ドルの割り当てを共有する21の新たな貸し手が追加される",
           "title_en": null,
-          "title_original": "皮查伊确认Gemini4 已投入训练，谷歌AI旗舰型号年底见分晓",
+          "title_original": "软银400亿美元OpenAI股权贷款扩圈，新增 21 家放款机构分食 70 亿额度",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29906",
+          "url": "https://www.aibase.com/news/29915",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-27T07:48:18.407590Z"
+          "published_at": "2026-07-27T11:37:14.914987Z"
         }
       ],
       "source_count": 1,
@@ -1022,20 +1270,20 @@
       ],
       "items": [
         {
-          "id": "326504f40534826ec28af75865748801d1b923e9",
-          "title": "皮查伊确认Gemini4 已投入训练，谷歌AI旗舰型号年底见分晓",
-          "title_zh": "皮查伊确认Gemini4 已投入训练，谷歌AI旗舰型号年底见分晓",
-          "title_ja": "ピチャイ氏は、Gemini4がトレーニングに投入され、GoogleのAIフラッグシップモデルが年末までに利用可能になることを認めた",
+          "id": "80742ceb6678a65c72483282319c42e62f47abbf",
+          "title": "软银400亿美元OpenAI股权贷款扩圈，新增 21 家放款机构分食 70 亿额度",
+          "title_zh": "软银400亿美元OpenAI股权贷款扩圈，新增 21 家放款机构分食 70 亿额度",
+          "title_ja": "ソフトバンクの400億ドルのOpenAI株式融資が拡大、70億ドルの割り当てを共有する21の新たな貸し手が追加される",
           "title_en": null,
-          "title_original": "皮查伊确认Gemini4 已投入训练，谷歌AI旗舰型号年底见分晓",
+          "title_original": "软银400亿美元OpenAI股权贷款扩圈，新增 21 家放款机构分食 70 亿额度",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29906",
+          "url": "https://www.aibase.com/news/29915",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-27T07:48:18.407590Z"
+          "published_at": "2026-07-27T11:37:14.914987Z"
         }
       ],
       "item_count": 1,
@@ -1057,19 +1305,19 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-27T07:48:18.407590Z",
-      "latest_at": "2026-07-27T07:48:18.407590Z",
+      "earliest_at": "2026-07-27T11:37:14.914987Z",
+      "latest_at": "2026-07-27T11:37:14.914987Z",
       "primary_item": {
-        "id": "326504f40534826ec28af75865748801d1b923e9",
-        "title": "皮查伊确认Gemini4 已投入训练，谷歌AI旗舰型号年底见分晓",
-        "title_zh": "皮查伊确认Gemini4 已投入训练，谷歌AI旗舰型号年底见分晓",
-        "title_ja": "ピチャイ氏は、Gemini4がトレーニングに投入され、GoogleのAIフラッグシップモデルが年末までに利用可能になることを認めた",
+        "id": "80742ceb6678a65c72483282319c42e62f47abbf",
+        "title": "软银400亿美元OpenAI股权贷款扩圈，新增 21 家放款机构分食 70 亿额度",
+        "title_zh": "软银400亿美元OpenAI股权贷款扩圈，新增 21 家放款机构分食 70 亿额度",
+        "title_ja": "ソフトバンクの400億ドルのOpenAI株式融資が拡大、70億ドルの割り当てを共有する21の新たな貸し手が追加される",
         "title_en": null,
-        "title_original": "皮查伊确认Gemini4 已投入训练，谷歌AI旗舰型号年底见分晓",
+        "title_original": "软银400亿美元OpenAI股权贷款扩圈，新增 21 家放款机构分食 70 亿额度",
         "summary": null,
         "summary_ja": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/29906",
+        "url": "https://www.aibase.com/news/29915",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1077,7 +1325,129 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T07:49:52.928232Z"
+        "scored_at": "2026-07-27T11:38:36.929304Z"
+      }
+    },
+    {
+      "story_id": "story_6086e14c411f",
+      "title": "Claude Opus 5 上的错误增加 / Elevated errors on Claude Opus 5",
+      "title_ja": "Claude Opus 5 のエラーの増加",
+      "url": "https://news.ycombinator.com/item?id=49066591",
+      "primary_url": "https://news.ycombinator.com/item?id=49066591",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "664b72220941b9396422ffc521c0d95bd1e01de2",
+          "title": "Claude Opus 5 上的错误增加 / Elevated errors on Claude Opus 5",
+          "title_zh": "Claude Opus 5 上的错误增加",
+          "title_ja": "Claude Opus 5 のエラーの増加",
+          "title_en": "Elevated errors on Claude Opus 5",
+          "title_original": "Elevated errors on Claude Opus 5",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49066591",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-27T11:37:37.686000Z"
+        },
+        {
+          "id": "23c7e9eb8d07cf929dccefeea082c5aed8a10813",
+          "title": "Claude Opus 5 上的错误增加 / Elevated errors on Claude Opus 5",
+          "title_zh": "Claude Opus 5 上的错误增加",
+          "title_ja": "Claude Opus 5 のエラーの増加",
+          "title_en": "Elevated errors on Claude Opus 5",
+          "title_original": "Elevated errors on Claude Opus 5",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://status.claude.com/incidents/lhqp09kxq7pb",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-27T08:20:06Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "664b72220941b9396422ffc521c0d95bd1e01de2",
+          "title": "Claude Opus 5 上的错误增加 / Elevated errors on Claude Opus 5",
+          "title_zh": "Claude Opus 5 上的错误增加",
+          "title_ja": "Claude Opus 5 のエラーの増加",
+          "title_en": "Elevated errors on Claude Opus 5",
+          "title_original": "Elevated errors on Claude Opus 5",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49066591",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-27T11:37:37.686000Z"
+        },
+        {
+          "id": "23c7e9eb8d07cf929dccefeea082c5aed8a10813",
+          "title": "Claude Opus 5 上的错误增加 / Elevated errors on Claude Opus 5",
+          "title_zh": "Claude Opus 5 上的错误增加",
+          "title_ja": "Claude Opus 5 のエラーの増加",
+          "title_en": "Elevated errors on Claude Opus 5",
+          "title_original": "Elevated errors on Claude Opus 5",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://status.claude.com/incidents/lhqp09kxq7pb",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-27T08:20:06Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_label_ja": "要注目",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-27T08:20:06Z",
+      "latest_at": "2026-07-27T11:37:37.686000Z",
+      "primary_item": {
+        "id": "664b72220941b9396422ffc521c0d95bd1e01de2",
+        "title": "Claude Opus 5 上的错误增加 / Elevated errors on Claude Opus 5",
+        "title_zh": "Claude Opus 5 上的错误增加",
+        "title_ja": "Claude Opus 5 のエラーの増加",
+        "title_en": "Elevated errors on Claude Opus 5",
+        "title_original": "Elevated errors on Claude Opus 5",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49066591",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-27T11:38:36.929304Z"
       }
     },
     {
@@ -1196,16 +1566,16 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5465,
-      "importance": 0.5465,
-      "importance_score": 0.5465,
+      "score": 0.5382,
+      "importance": 0.5382,
+      "importance_score": 0.5382,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8651,
+        "recency": 0.8187,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1232,151 +1602,29 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T07:49:52.928232Z"
+        "scored_at": "2026-07-27T11:38:36.929304Z"
       }
     },
     {
-      "story_id": "story_2d4e47d50fc6",
-      "title": "Kimi-K3 在 HuggingFace 7/27 上发布 / Kimi-K3 Releases on HuggingFace 7/27",
-      "title_ja": "Kimi-K3 7/27 HuggingFace リリース",
-      "url": "https://news.ycombinator.com/item?id=49065752",
-      "primary_url": "https://news.ycombinator.com/item?id=49065752",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "aef79877fe0677a9ac3e3b2b8989645960fb5942",
-          "title": "Kimi-K3 在 HuggingFace 7/27 上发布 / Kimi-K3 Releases on HuggingFace 7/27",
-          "title_zh": "Kimi-K3 在 HuggingFace 7/27 上发布",
-          "title_ja": "Kimi-K3 7/27 HuggingFace リリース",
-          "title_en": "Kimi-K3 Releases on HuggingFace 7/27",
-          "title_original": "Kimi-K3 Releases on HuggingFace 7/27",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49065752",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-27T07:48:44.363000Z"
-        },
-        {
-          "id": "436d18c01c7bae7b2d15ac94ed347b9d8b1a0a29",
-          "title": "Kimi-K3 在 HuggingFace 7/27 上发布 / Kimi-K3 Releases on HuggingFace 7/27",
-          "title_zh": "Kimi-K3 在 HuggingFace 7/27 上发布",
-          "title_ja": "Kimi-K3 7/27 HuggingFace リリース",
-          "title_en": "Kimi-K3 Releases on HuggingFace 7/27",
-          "title_original": "Kimi-K3 Releases on HuggingFace 7/27",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/moonshotai/Kimi-K3",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-27T06:18:10Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "aef79877fe0677a9ac3e3b2b8989645960fb5942",
-          "title": "Kimi-K3 在 HuggingFace 7/27 上发布 / Kimi-K3 Releases on HuggingFace 7/27",
-          "title_zh": "Kimi-K3 在 HuggingFace 7/27 上发布",
-          "title_ja": "Kimi-K3 7/27 HuggingFace リリース",
-          "title_en": "Kimi-K3 Releases on HuggingFace 7/27",
-          "title_original": "Kimi-K3 Releases on HuggingFace 7/27",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49065752",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-27T07:48:44.363000Z"
-        },
-        {
-          "id": "436d18c01c7bae7b2d15ac94ed347b9d8b1a0a29",
-          "title": "Kimi-K3 在 HuggingFace 7/27 上发布 / Kimi-K3 Releases on HuggingFace 7/27",
-          "title_zh": "Kimi-K3 在 HuggingFace 7/27 上发布",
-          "title_ja": "Kimi-K3 7/27 HuggingFace リリース",
-          "title_en": "Kimi-K3 Releases on HuggingFace 7/27",
-          "title_original": "Kimi-K3 Releases on HuggingFace 7/27",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/moonshotai/Kimi-K3",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-27T06:18:10Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
-      "importance_label": "值得关注",
-      "importance_label_ja": "要注目",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-27T06:18:10Z",
-      "latest_at": "2026-07-27T07:48:44.363000Z",
-      "primary_item": {
-        "id": "aef79877fe0677a9ac3e3b2b8989645960fb5942",
-        "title": "Kimi-K3 在 HuggingFace 7/27 上发布 / Kimi-K3 Releases on HuggingFace 7/27",
-        "title_zh": "Kimi-K3 在 HuggingFace 7/27 上发布",
-        "title_ja": "Kimi-K3 7/27 HuggingFace リリース",
-        "title_en": "Kimi-K3 Releases on HuggingFace 7/27",
-        "title_original": "Kimi-K3 Releases on HuggingFace 7/27",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49065752",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-27T07:49:52.928232Z"
-      }
-    },
-    {
-      "story_id": "story_0ba9f6334b31",
-      "title": "美团辟谣LongCat模型负责人离职，持续推进国产算力万亿大模型落地",
-      "title_ja": "MeituanはLongCatモデルの責任者が辞任したという噂を否定し、数兆の計算能力を備えた国内大規模モデルの導入を推進し続ける",
-      "url": "https://www.aibase.com/news/29900",
-      "primary_url": "https://www.aibase.com/news/29900",
+      "story_id": "story_830e0635b3bc",
+      "title": "Midjourney 收购星座社交应用 Co-Star，月活 430 万，团队全员并入",
+      "title_ja": "Midjourney は、月間アクティブ ユーザー数 430 万人を誇る zodiac ソーシャル アプリ Co-Star を買収し、チーム メンバー全員が統合されました",
+      "url": "https://www.aibase.com/news/29903",
+      "primary_url": "https://www.aibase.com/news/29903",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "5b10f5d09631551150ab8a8668242b350c59282c",
-          "title": "美团辟谣LongCat模型负责人离职，持续推进国产算力万亿大模型落地",
-          "title_zh": "美团辟谣LongCat模型负责人离职，持续推进国产算力万亿大模型落地",
-          "title_ja": "MeituanはLongCatモデルの責任者が辞任したという噂を否定し、数兆の計算能力を備えた国内大規模モデルの導入を推進し続ける",
+          "id": "44bd3d43620c0a2b33b64b16619085a3d9bf8aa2",
+          "title": "Midjourney 收购星座社交应用 Co-Star，月活 430 万，团队全员并入",
+          "title_zh": "Midjourney 收购星座社交应用 Co-Star，月活 430 万，团队全员并入",
+          "title_ja": "Midjourney は、月間アクティブ ユーザー数 430 万人を誇る zodiac ソーシャル アプリ Co-Star を買収し、チーム メンバー全員が統合されました",
           "title_en": null,
-          "title_original": "美团辟谣LongCat模型负责人离职，持续推进国产算力万亿大模型落地",
+          "title_original": "Midjourney 收购星座社交应用 Co-Star，月活 430 万，团队全员并入",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29900",
+          "url": "https://www.aibase.com/news/29903",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1389,16 +1637,16 @@
       ],
       "items": [
         {
-          "id": "5b10f5d09631551150ab8a8668242b350c59282c",
-          "title": "美团辟谣LongCat模型负责人离职，持续推进国产算力万亿大模型落地",
-          "title_zh": "美团辟谣LongCat模型负责人离职，持续推进国产算力万亿大模型落地",
-          "title_ja": "MeituanはLongCatモデルの責任者が辞任したという噂を否定し、数兆の計算能力を備えた国内大規模モデルの導入を推進し続ける",
+          "id": "44bd3d43620c0a2b33b64b16619085a3d9bf8aa2",
+          "title": "Midjourney 收购星座社交应用 Co-Star，月活 430 万，团队全员并入",
+          "title_zh": "Midjourney 收购星座社交应用 Co-Star，月活 430 万，团队全员并入",
+          "title_ja": "Midjourney は、月間アクティブ ユーザー数 430 万人を誇る zodiac ソーシャル アプリ Co-Star を買収し、チーム メンバー全員が統合されました",
           "title_en": null,
-          "title_original": "美团辟谣LongCat模型负责人离职，持续推进国产算力万亿大模型落地",
+          "title_original": "Midjourney 收购星座社交应用 Co-Star，月活 430 万，团队全员并入",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29900",
+          "url": "https://www.aibase.com/news/29903",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1407,16 +1655,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.758,
+      "importance": 0.758,
+      "importance_score": 0.758,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9464,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1427,16 +1675,16 @@
       "earliest_at": "2026-07-27T07:48:18.407590Z",
       "latest_at": "2026-07-27T07:48:18.407590Z",
       "primary_item": {
-        "id": "5b10f5d09631551150ab8a8668242b350c59282c",
-        "title": "美团辟谣LongCat模型负责人离职，持续推进国产算力万亿大模型落地",
-        "title_zh": "美团辟谣LongCat模型负责人离职，持续推进国产算力万亿大模型落地",
-        "title_ja": "MeituanはLongCatモデルの責任者が辞任したという噂を否定し、数兆の計算能力を備えた国内大規模モデルの導入を推進し続ける",
+        "id": "44bd3d43620c0a2b33b64b16619085a3d9bf8aa2",
+        "title": "Midjourney 收购星座社交应用 Co-Star，月活 430 万，团队全员并入",
+        "title_zh": "Midjourney 收购星座社交应用 Co-Star，月活 430 万，团队全员并入",
+        "title_ja": "Midjourney は、月間アクティブ ユーザー数 430 万人を誇る zodiac ソーシャル アプリ Co-Star を買収し、チーム メンバー全員が統合されました",
         "title_en": null,
-        "title_original": "美团辟谣LongCat模型负责人离职，持续推进国产算力万亿大模型落地",
+        "title_original": "Midjourney 收购星座社交应用 Co-Star，月活 430 万，团队全员并入",
         "summary": null,
         "summary_ja": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/29900",
+        "url": "https://www.aibase.com/news/29903",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1444,129 +1692,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T07:49:52.928232Z"
-      }
-    },
-    {
-      "story_id": "story_5cac93a795bf",
-      "title": "陶哲轩：《人工智能时代的数学》[pdf]",
-      "title_ja": "テレンス・タオ: 「人工知能時代の数学」 [pdf]",
-      "url": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf",
-      "primary_url": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf",
-      "source": "teorth.github.io",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "bba9241410da43921be24d1c061427b354a3cb81",
-          "title": "陶哲轩：《人工智能时代的数学》[pdf]",
-          "title_zh": "陶哲轩：《人工智能时代的数学》[pdf]",
-          "title_ja": "テレンス・タオ: 「人工知能時代の数学」 [pdf]",
-          "title_en": null,
-          "title_original": "陶哲轩：《人工智能时代的数学》[pdf]",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf",
-          "source": "teorth.github.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-26T23:38:23.200000Z"
-        },
-        {
-          "id": "b172522f57a10069cdd6e20ecc07c2ea9b0c68a8",
-          "title": "陶哲轩：《人工智能时代的数学》[pdf] / Terence Tao: Mathematics in the Age of AI [pdf]",
-          "title_zh": "陶哲轩：《人工智能时代的数学》[pdf]",
-          "title_ja": "テレンス・タオ: AI 時代の数学 [pdf]",
-          "title_en": "Terence Tao: Mathematics in the Age of AI [pdf]",
-          "title_original": "Terence Tao: Mathematics in the Age of AI [pdf]",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-26T10:32:35Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "teorth.github.io"
-      ],
-      "items": [
-        {
-          "id": "bba9241410da43921be24d1c061427b354a3cb81",
-          "title": "陶哲轩：《人工智能时代的数学》[pdf]",
-          "title_zh": "陶哲轩：《人工智能时代的数学》[pdf]",
-          "title_ja": "テレンス・タオ: 「人工知能時代の数学」 [pdf]",
-          "title_en": null,
-          "title_original": "陶哲轩：《人工智能时代的数学》[pdf]",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf",
-          "source": "teorth.github.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-26T23:38:23.200000Z"
-        },
-        {
-          "id": "b172522f57a10069cdd6e20ecc07c2ea9b0c68a8",
-          "title": "陶哲轩：《人工智能时代的数学》[pdf] / Terence Tao: Mathematics in the Age of AI [pdf]",
-          "title_zh": "陶哲轩：《人工智能时代的数学》[pdf]",
-          "title_ja": "テレンス・タオ: AI 時代の数学 [pdf]",
-          "title_en": "Terence Tao: Mathematics in the Age of AI [pdf]",
-          "title_original": "Terence Tao: Mathematics in the Age of AI [pdf]",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-26T10:32:35Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5258,
-      "importance": 0.5258,
-      "importance_score": 0.5258,
-      "importance_label": "值得关注",
-      "importance_label_ja": "要注目",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8888,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-26T10:32:35Z",
-      "latest_at": "2026-07-26T23:38:23.200000Z",
-      "primary_item": {
-        "id": "bba9241410da43921be24d1c061427b354a3cb81",
-        "title": "陶哲轩：《人工智能时代的数学》[pdf]",
-        "title_zh": "陶哲轩：《人工智能时代的数学》[pdf]",
-        "title_ja": "テレンス・タオ: 「人工知能時代の数学」 [pdf]",
-        "title_en": null,
-        "title_original": "陶哲轩：《人工智能时代的数学》[pdf]",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf",
-        "source": "teorth.github.io",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-27T07:49:52.928232Z"
+        "scored_at": "2026-07-27T11:38:36.929304Z"
       }
     },
     {
@@ -1685,16 +1811,16 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.536,
-      "importance": 0.536,
-      "importance_score": 0.536,
+      "score": 0.5282,
+      "importance": 0.5282,
+      "importance_score": 0.5282,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8067,
+        "recency": 0.7635,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1721,29 +1847,29 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T07:49:52.928232Z"
+        "scored_at": "2026-07-27T11:38:36.929304Z"
       }
     },
     {
-      "story_id": "story_7cab799dd081",
-      "title": "蚂蚁百灵发布新一代原生混合推理模型Ling-3.0-Flash",
-      "title_ja": "Ant Bailing が新世代のネイティブ ハイブリッド推論モデル Ling-3.0-Flash をリリース",
-      "url": "https://www.aibase.com/news/29907",
-      "primary_url": "https://www.aibase.com/news/29907",
+      "story_id": "story_b1ab2dbdc211",
+      "title": "Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行",
+      "title_ja": "Monday.com は AI に関する人員削減を行った最新の企業となり、同業他社 20 社が自社を支援",
+      "url": "https://www.aibase.com/news/29904",
+      "primary_url": "https://www.aibase.com/news/29904",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "e30b0a9743ab7bb4773551faa5a4b5b84ee5e95c",
-          "title": "蚂蚁百灵发布新一代原生混合推理模型Ling-3.0-Flash",
-          "title_zh": "蚂蚁百灵发布新一代原生混合推理模型Ling-3.0-Flash",
-          "title_ja": "Ant Bailing が新世代のネイティブ ハイブリッド推論モデル Ling-3.0-Flash をリリース",
+          "id": "08ac480394c087bd6350d94ed811c8cef1893b1b",
+          "title": "Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行",
+          "title_zh": "Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行",
+          "title_ja": "Monday.com は AI に関する人員削減を行った最新の企業となり、同業他社 20 社が自社を支援",
           "title_en": null,
-          "title_original": "蚂蚁百灵发布新一代原生混合推理模型Ling-3.0-Flash",
+          "title_original": "Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29907",
+          "url": "https://www.aibase.com/news/29904",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1756,16 +1882,16 @@
       ],
       "items": [
         {
-          "id": "e30b0a9743ab7bb4773551faa5a4b5b84ee5e95c",
-          "title": "蚂蚁百灵发布新一代原生混合推理模型Ling-3.0-Flash",
-          "title_zh": "蚂蚁百灵发布新一代原生混合推理模型Ling-3.0-Flash",
-          "title_ja": "Ant Bailing が新世代のネイティブ ハイブリッド推論モデル Ling-3.0-Flash をリリース",
+          "id": "08ac480394c087bd6350d94ed811c8cef1893b1b",
+          "title": "Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行",
+          "title_zh": "Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行",
+          "title_ja": "Monday.com は AI に関する人員削減を行った最新の企業となり、同業他社 20 社が自社を支援",
           "title_en": null,
-          "title_original": "蚂蚁百灵发布新一代原生混合推理模型Ling-3.0-Flash",
+          "title_original": "Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29907",
+          "url": "https://www.aibase.com/news/29904",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1774,16 +1900,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.758,
+      "importance": 0.758,
+      "importance_score": 0.758,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9464,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1794,16 +1920,16 @@
       "earliest_at": "2026-07-27T07:48:18.407590Z",
       "latest_at": "2026-07-27T07:48:18.407590Z",
       "primary_item": {
-        "id": "e30b0a9743ab7bb4773551faa5a4b5b84ee5e95c",
-        "title": "蚂蚁百灵发布新一代原生混合推理模型Ling-3.0-Flash",
-        "title_zh": "蚂蚁百灵发布新一代原生混合推理模型Ling-3.0-Flash",
-        "title_ja": "Ant Bailing が新世代のネイティブ ハイブリッド推論モデル Ling-3.0-Flash をリリース",
+        "id": "08ac480394c087bd6350d94ed811c8cef1893b1b",
+        "title": "Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行",
+        "title_zh": "Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行",
+        "title_ja": "Monday.com は AI に関する人員削減を行った最新の企業となり、同業他社 20 社が自社を支援",
         "title_en": null,
-        "title_original": "蚂蚁百灵发布新一代原生混合推理模型Ling-3.0-Flash",
+        "title_original": "Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行",
         "summary": null,
         "summary_ja": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/29907",
+        "url": "https://www.aibase.com/news/29904",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1811,29 +1937,29 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T07:49:52.928232Z"
+        "scored_at": "2026-07-27T11:38:36.929304Z"
       }
     },
     {
-      "story_id": "story_3437ad6bfaa2",
-      "title": "解锁“碰一碰”分享！腾讯 WorkBuddy 首发上架鸿蒙 PC 应用市场",
-      "title_ja": "「タッチ」共有のロックを解除しましょう！ Tencent WorkBuddy が最初に宏蒙 PC App Store でリリースされました",
-      "url": "https://www.aibase.com/news/29902",
-      "primary_url": "https://www.aibase.com/news/29902",
+      "story_id": "story_2f2bb8073ae3",
+      "title": "OpenAI 首席执行官奥尔特曼泼冷水：AI 救不了你的工时，超级智能时代人只会更忙",
+      "title_ja": "OpenAI CEO アルトマン氏が冷や水を浴びせる：AI は労働時間を節約できない、超インテリジェンスの時代には人々はさらに忙しくなるだけだ",
+      "url": "https://www.aibase.com/news/29908",
+      "primary_url": "https://www.aibase.com/news/29908",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "40335874a39abfe994e38c405bd5326f858bc1ac",
-          "title": "解锁“碰一碰”分享！腾讯 WorkBuddy 首发上架鸿蒙 PC 应用市场",
-          "title_zh": "解锁“碰一碰”分享！腾讯 WorkBuddy 首发上架鸿蒙 PC 应用市场",
-          "title_ja": "「タッチ」共有のロックを解除しましょう！ Tencent WorkBuddy が最初に宏蒙 PC App Store でリリースされました",
+          "id": "6e1fc6960ffca9cbbec6edcc1153b660a65cc7de",
+          "title": "OpenAI 首席执行官奥尔特曼泼冷水：AI 救不了你的工时，超级智能时代人只会更忙",
+          "title_zh": "OpenAI 首席执行官奥尔特曼泼冷水：AI 救不了你的工时，超级智能时代人只会更忙",
+          "title_ja": "OpenAI CEO アルトマン氏が冷や水を浴びせる：AI は労働時間を節約できない、超インテリジェンスの時代には人々はさらに忙しくなるだけだ",
           "title_en": null,
-          "title_original": "解锁“碰一碰”分享！腾讯 WorkBuddy 首发上架鸿蒙 PC 应用市场",
+          "title_original": "OpenAI 首席执行官奥尔特曼泼冷水：AI 救不了你的工时，超级智能时代人只会更忙",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29902",
+          "url": "https://www.aibase.com/news/29908",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1846,16 +1972,16 @@
       ],
       "items": [
         {
-          "id": "40335874a39abfe994e38c405bd5326f858bc1ac",
-          "title": "解锁“碰一碰”分享！腾讯 WorkBuddy 首发上架鸿蒙 PC 应用市场",
-          "title_zh": "解锁“碰一碰”分享！腾讯 WorkBuddy 首发上架鸿蒙 PC 应用市场",
-          "title_ja": "「タッチ」共有のロックを解除しましょう！ Tencent WorkBuddy が最初に宏蒙 PC App Store でリリースされました",
+          "id": "6e1fc6960ffca9cbbec6edcc1153b660a65cc7de",
+          "title": "OpenAI 首席执行官奥尔特曼泼冷水：AI 救不了你的工时，超级智能时代人只会更忙",
+          "title_zh": "OpenAI 首席执行官奥尔特曼泼冷水：AI 救不了你的工时，超级智能时代人只会更忙",
+          "title_ja": "OpenAI CEO アルトマン氏が冷や水を浴びせる：AI は労働時間を節約できない、超インテリジェンスの時代には人々はさらに忙しくなるだけだ",
           "title_en": null,
-          "title_original": "解锁“碰一碰”分享！腾讯 WorkBuddy 首发上架鸿蒙 PC 应用市场",
+          "title_original": "OpenAI 首席执行官奥尔特曼泼冷水：AI 救不了你的工时，超级智能时代人只会更忙",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29902",
+          "url": "https://www.aibase.com/news/29908",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1864,16 +1990,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.758,
+      "importance": 0.758,
+      "importance_score": 0.758,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9464,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1884,16 +2010,16 @@
       "earliest_at": "2026-07-27T07:48:18.407590Z",
       "latest_at": "2026-07-27T07:48:18.407590Z",
       "primary_item": {
-        "id": "40335874a39abfe994e38c405bd5326f858bc1ac",
-        "title": "解锁“碰一碰”分享！腾讯 WorkBuddy 首发上架鸿蒙 PC 应用市场",
-        "title_zh": "解锁“碰一碰”分享！腾讯 WorkBuddy 首发上架鸿蒙 PC 应用市场",
-        "title_ja": "「タッチ」共有のロックを解除しましょう！ Tencent WorkBuddy が最初に宏蒙 PC App Store でリリースされました",
+        "id": "6e1fc6960ffca9cbbec6edcc1153b660a65cc7de",
+        "title": "OpenAI 首席执行官奥尔特曼泼冷水：AI 救不了你的工时，超级智能时代人只会更忙",
+        "title_zh": "OpenAI 首席执行官奥尔特曼泼冷水：AI 救不了你的工时，超级智能时代人只会更忙",
+        "title_ja": "OpenAI CEO アルトマン氏が冷や水を浴びせる：AI は労働時間を節約できない、超インテリジェンスの時代には人々はさらに忙しくなるだけだ",
         "title_en": null,
-        "title_original": "解锁“碰一碰”分享！腾讯 WorkBuddy 首发上架鸿蒙 PC 应用市场",
+        "title_original": "OpenAI 首席执行官奥尔特曼泼冷水：AI 救不了你的工时，超级智能时代人只会更忙",
         "summary": null,
         "summary_ja": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/29902",
+        "url": "https://www.aibase.com/news/29908",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1901,129 +2027,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T07:49:52.928232Z"
-      }
-    },
-    {
-      "story_id": "story_68c90fc1b6d7",
-      "title": "Cursor Bridge – 在您的 Cursor 订阅上运行无限的 Claude 代码 / Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription",
-      "title_ja": "Cursor Bridge – カーソル サブスクリプションで無制限のクロード コードを実行",
-      "url": "https://news.ycombinator.com/item?id=49063186",
-      "primary_url": "https://news.ycombinator.com/item?id=49063186",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "41ca00ed72303fffe5ca0fe42561a20965906002",
-          "title": "Cursor Bridge – 在您的 Cursor 订阅上运行无限的 Claude 代码 / Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription",
-          "title_zh": "Cursor Bridge – 在您的 Cursor 订阅上运行无限的 Claude 代码",
-          "title_ja": "Cursor Bridge – カーソル サブスクリプションで無制限のクロード コードを実行",
-          "title_en": "Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription",
-          "title_original": "Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49063186",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-26T23:56:58.604000Z"
-        },
-        {
-          "id": "eaea27e174e2abad1fcc93a6b0b39e8892b1924f",
-          "title": "Cursor Bridge – 在您的 Cursor 订阅上运行无限的 Claude 代码 / Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription",
-          "title_zh": "Cursor Bridge – 在您的 Cursor 订阅上运行无限的 Claude 代码",
-          "title_ja": "Cursor Bridge – カーソル サブスクリプションで無制限のクロード コードを実行",
-          "title_en": "Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription",
-          "title_original": "Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/hkc5/cursor-bridge",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-26T22:48:09Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "41ca00ed72303fffe5ca0fe42561a20965906002",
-          "title": "Cursor Bridge – 在您的 Cursor 订阅上运行无限的 Claude 代码 / Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription",
-          "title_zh": "Cursor Bridge – 在您的 Cursor 订阅上运行无限的 Claude 代码",
-          "title_ja": "Cursor Bridge – カーソル サブスクリプションで無制限のクロード コードを実行",
-          "title_en": "Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription",
-          "title_original": "Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49063186",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-26T23:56:58.604000Z"
-        },
-        {
-          "id": "eaea27e174e2abad1fcc93a6b0b39e8892b1924f",
-          "title": "Cursor Bridge – 在您的 Cursor 订阅上运行无限的 Claude 代码 / Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription",
-          "title_zh": "Cursor Bridge – 在您的 Cursor 订阅上运行无限的 Claude 代码",
-          "title_ja": "Cursor Bridge – カーソル サブスクリプションで無制限のクロード コードを実行",
-          "title_en": "Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription",
-          "title_original": "Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/hkc5/cursor-bridge",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-26T22:48:09Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5265,
-      "importance": 0.5265,
-      "importance_score": 0.5265,
-      "importance_label": "值得关注",
-      "importance_label_ja": "要注目",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8928,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-26T22:48:09Z",
-      "latest_at": "2026-07-26T23:56:58.604000Z",
-      "primary_item": {
-        "id": "41ca00ed72303fffe5ca0fe42561a20965906002",
-        "title": "Cursor Bridge – 在您的 Cursor 订阅上运行无限的 Claude 代码 / Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription",
-        "title_zh": "Cursor Bridge – 在您的 Cursor 订阅上运行无限的 Claude 代码",
-        "title_ja": "Cursor Bridge – カーソル サブスクリプションで無制限のクロード コードを実行",
-        "title_en": "Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription",
-        "title_original": "Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49063186",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-27T07:49:52.928232Z"
+        "scored_at": "2026-07-27T11:38:36.929304Z"
       }
     }
   ]
