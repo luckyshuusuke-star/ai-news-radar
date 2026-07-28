@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T23:28:07.727064Z",
+  "generated_at": "2026-07-28T03:32:26.040401Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -86,16 +86,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8586,
-      "importance": 0.8586,
-      "importance_score": 0.8586,
+      "score": 0.8494,
+      "importance": 0.8494,
+      "importance_score": 0.8494,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8978,
+        "recency": 0.8465,
         "story_heat": 0.25
       },
       "category": "official",
@@ -125,33 +125,33 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T23:29:04.351188Z"
+        "scored_at": "2026-07-28T03:34:15.095938Z"
       }
     },
     {
-      "story_id": "story_3aa98e967d5f",
-      "title": "使用专用策略管理 GitHub Copilot 应用程序访问 / Manage GitHub Copilot app access with a dedicated policy",
-      "title_ja": "専用ポリシーを使用して GitHub Copilot アプリへのアクセスを管理する",
-      "url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
-      "primary_url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
+      "story_id": "story_8540d88057a6",
+      "title": "GitHub Copilot for JetBrains 添加了改进的 OpenTelemetry 配置和模型管理 / GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
+      "title_ja": "JetBrains 用 GitHub Copilot により、OpenTelemetry 構成とモデル管理が改善されました",
+      "url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
+      "primary_url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "017a2af4a0cb1955160e1d9a798e5a38e59e068c",
-          "title": "使用专用策略管理 GitHub Copilot 应用程序访问 / Manage GitHub Copilot app access with a dedicated policy",
-          "title_zh": "使用专用策略管理 GitHub Copilot 应用程序访问",
-          "title_ja": "専用ポリシーを使用して GitHub Copilot アプリへのアクセスを管理する",
-          "title_en": "Manage GitHub Copilot app access with a dedicated policy",
-          "title_original": "Manage GitHub Copilot app access with a dedicated policy",
+          "id": "4ef3e86958cef45a8c605c5ef0e3acafa2e97066",
+          "title": "GitHub Copilot for JetBrains 添加了改进的 OpenTelemetry 配置和模型管理 / GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
+          "title_zh": "GitHub Copilot for JetBrains 添加了改进的 OpenTelemetry 配置和模型管理",
+          "title_ja": "JetBrains 用 GitHub Copilot により、OpenTelemetry 構成とモデル管理が改善されました",
+          "title_en": "GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
+          "title_original": "GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
+          "url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-27T20:43:37Z"
+          "published_at": "2026-07-28T01:23:10Z"
         }
       ],
       "source_count": 1,
@@ -160,34 +160,34 @@
       ],
       "items": [
         {
-          "id": "017a2af4a0cb1955160e1d9a798e5a38e59e068c",
-          "title": "使用专用策略管理 GitHub Copilot 应用程序访问 / Manage GitHub Copilot app access with a dedicated policy",
-          "title_zh": "使用专用策略管理 GitHub Copilot 应用程序访问",
-          "title_ja": "専用ポリシーを使用して GitHub Copilot アプリへのアクセスを管理する",
-          "title_en": "Manage GitHub Copilot app access with a dedicated policy",
-          "title_original": "Manage GitHub Copilot app access with a dedicated policy",
+          "id": "4ef3e86958cef45a8c605c5ef0e3acafa2e97066",
+          "title": "GitHub Copilot for JetBrains 添加了改进的 OpenTelemetry 配置和模型管理 / GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
+          "title_zh": "GitHub Copilot for JetBrains 添加了改进的 OpenTelemetry 配置和模型管理",
+          "title_ja": "JetBrains 用 GitHub Copilot により、OpenTelemetry 構成とモデル管理が改善されました",
+          "title_en": "GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
+          "title_original": "GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
+          "url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-27T20:43:37Z"
+          "published_at": "2026-07-28T01:23:10Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.845,
-      "importance": 0.845,
-      "importance_score": 0.845,
+      "score": 0.8465,
+      "importance": 0.8465,
+      "importance_score": 0.8465,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9612,
+        "recency": 0.9694,
         "story_heat": 0.0
       },
       "category": "official",
@@ -196,19 +196,19 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-27T20:43:37Z",
-      "latest_at": "2026-07-27T20:43:37Z",
+      "earliest_at": "2026-07-28T01:23:10Z",
+      "latest_at": "2026-07-28T01:23:10Z",
       "primary_item": {
-        "id": "017a2af4a0cb1955160e1d9a798e5a38e59e068c",
-        "title": "使用专用策略管理 GitHub Copilot 应用程序访问 / Manage GitHub Copilot app access with a dedicated policy",
-        "title_zh": "使用专用策略管理 GitHub Copilot 应用程序访问",
-        "title_ja": "専用ポリシーを使用して GitHub Copilot アプリへのアクセスを管理する",
-        "title_en": "Manage GitHub Copilot app access with a dedicated policy",
-        "title_original": "Manage GitHub Copilot app access with a dedicated policy",
+        "id": "4ef3e86958cef45a8c605c5ef0e3acafa2e97066",
+        "title": "GitHub Copilot for JetBrains 添加了改进的 OpenTelemetry 配置和模型管理 / GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
+        "title_zh": "GitHub Copilot for JetBrains 添加了改进的 OpenTelemetry 配置和模型管理",
+        "title_ja": "JetBrains 用 GitHub Copilot により、OpenTelemetry 構成とモデル管理が改善されました",
+        "title_en": "GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
+        "title_original": "GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
         "summary": null,
         "summary_ja": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
+        "url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -216,7 +216,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T23:29:04.351188Z"
+        "scored_at": "2026-07-28T03:34:15.095938Z"
       }
     },
     {
@@ -269,16 +269,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8372,
-      "importance": 0.8372,
-      "importance_score": 0.8372,
+      "score": 0.8288,
+      "importance": 0.8288,
+      "importance_score": 0.8288,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8178,
+        "recency": 0.7711,
         "story_heat": 0.0
       },
       "category": "official",
@@ -307,7 +307,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T23:29:04.351188Z"
+        "scored_at": "2026-07-28T03:34:15.095938Z"
       }
     },
     {
@@ -393,16 +393,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8553,
-      "importance": 0.8553,
-      "importance_score": 0.8553,
+      "score": 0.8458,
+      "importance": 0.8458,
+      "importance_score": 0.8458,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9241,
+        "recency": 0.8713,
         "story_heat": 0.25
       },
       "category": "official",
@@ -432,33 +432,33 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T23:29:04.351188Z"
+        "scored_at": "2026-07-28T03:34:15.095938Z"
       }
     },
     {
-      "story_id": "story_7284fe0b61a4",
-      "title": "GitHub Copilot 应用程序和 Copilot 云代理中的企业托管设置 / Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
-      "title_ja": "GitHub Copilot アプリおよび Copilot クラウド エージェントのエンタープライズ管理設定",
-      "url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
-      "primary_url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
+      "story_id": "story_3aa98e967d5f",
+      "title": "使用专用策略管理 GitHub Copilot 应用程序访问 / Manage GitHub Copilot app access with a dedicated policy",
+      "title_ja": "専用ポリシーを使用して GitHub Copilot アプリへのアクセスを管理する",
+      "url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
+      "primary_url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "1f4daaa760e71eccd8deb7bc63c8d5cdb4e0e359",
-          "title": "GitHub Copilot 应用程序和 Copilot 云代理中的企业托管设置 / Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
-          "title_zh": "GitHub Copilot 应用程序和 Copilot 云代理中的企业托管设置",
-          "title_ja": "GitHub Copilot アプリおよび Copilot クラウド エージェントのエンタープライズ管理設定",
-          "title_en": "Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
-          "title_original": "Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+          "id": "017a2af4a0cb1955160e1d9a798e5a38e59e068c",
+          "title": "使用专用策略管理 GitHub Copilot 应用程序访问 / Manage GitHub Copilot app access with a dedicated policy",
+          "title_zh": "使用专用策略管理 GitHub Copilot 应用程序访问",
+          "title_ja": "専用ポリシーを使用して GitHub Copilot アプリへのアクセスを管理する",
+          "title_en": "Manage GitHub Copilot app access with a dedicated policy",
+          "title_original": "Manage GitHub Copilot app access with a dedicated policy",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
+          "url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-27T17:00:35Z"
+          "published_at": "2026-07-27T20:43:37Z"
         }
       ],
       "source_count": 1,
@@ -467,34 +467,34 @@
       ],
       "items": [
         {
-          "id": "1f4daaa760e71eccd8deb7bc63c8d5cdb4e0e359",
-          "title": "GitHub Copilot 应用程序和 Copilot 云代理中的企业托管设置 / Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
-          "title_zh": "GitHub Copilot 应用程序和 Copilot 云代理中的企业托管设置",
-          "title_ja": "GitHub Copilot アプリおよび Copilot クラウド エージェントのエンタープライズ管理設定",
-          "title_en": "Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
-          "title_original": "Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+          "id": "017a2af4a0cb1955160e1d9a798e5a38e59e068c",
+          "title": "使用专用策略管理 GitHub Copilot 应用程序访问 / Manage GitHub Copilot app access with a dedicated policy",
+          "title_zh": "使用专用策略管理 GitHub Copilot 应用程序访问",
+          "title_ja": "専用ポリシーを使用して GitHub Copilot アプリへのアクセスを管理する",
+          "title_en": "Manage GitHub Copilot app access with a dedicated policy",
+          "title_original": "Manage GitHub Copilot app access with a dedicated policy",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
+          "url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-27T17:00:35Z"
+          "published_at": "2026-07-27T20:43:37Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.842,
-      "importance": 0.842,
-      "importance_score": 0.842,
+      "score": 0.8351,
+      "importance": 0.8351,
+      "importance_score": 0.8351,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.9109,
+        "ai_relevance": 0.91,
+        "recency": 0.9063,
         "story_heat": 0.0
       },
       "category": "official",
@@ -503,19 +503,19 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-27T17:00:35Z",
-      "latest_at": "2026-07-27T17:00:35Z",
+      "earliest_at": "2026-07-27T20:43:37Z",
+      "latest_at": "2026-07-27T20:43:37Z",
       "primary_item": {
-        "id": "1f4daaa760e71eccd8deb7bc63c8d5cdb4e0e359",
-        "title": "GitHub Copilot 应用程序和 Copilot 云代理中的企业托管设置 / Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
-        "title_zh": "GitHub Copilot 应用程序和 Copilot 云代理中的企业托管设置",
-        "title_ja": "GitHub Copilot アプリおよび Copilot クラウド エージェントのエンタープライズ管理設定",
-        "title_en": "Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
-        "title_original": "Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+        "id": "017a2af4a0cb1955160e1d9a798e5a38e59e068c",
+        "title": "使用专用策略管理 GitHub Copilot 应用程序访问 / Manage GitHub Copilot app access with a dedicated policy",
+        "title_zh": "使用专用策略管理 GitHub Copilot 应用程序访问",
+        "title_ja": "専用ポリシーを使用して GitHub Copilot アプリへのアクセスを管理する",
+        "title_en": "Manage GitHub Copilot app access with a dedicated policy",
+        "title_original": "Manage GitHub Copilot app access with a dedicated policy",
         "summary": null,
         "summary_ja": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
+        "url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -523,98 +523,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T23:29:04.351188Z"
-      }
-    },
-    {
-      "story_id": "story_2c891351a310",
-      "title": "人工智能如何扩展人们的工作范围 / How AI is expanding what people do at work",
-      "title_ja": "AI は人々の仕事の範囲をどのように拡張するか",
-      "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
-      "primary_url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "2e2d656e1bbc540d6d0428c09cf2fb5ebbdce060",
-          "title": "人工智能如何扩展人们的工作范围 / How AI is expanding what people do at work",
-          "title_zh": "人工智能如何扩展人们的工作范围",
-          "title_ja": "AI は人々の仕事の範囲をどのように拡張するか",
-          "title_en": "How AI is expanding what people do at work",
-          "title_original": "How AI is expanding what people do at work",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-27T03:30:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "2e2d656e1bbc540d6d0428c09cf2fb5ebbdce060",
-          "title": "人工智能如何扩展人们的工作范围 / How AI is expanding what people do at work",
-          "title_zh": "人工智能如何扩展人们的工作范围",
-          "title_ja": "AI は人々の仕事の範囲をどのように拡張するか",
-          "title_en": "How AI is expanding what people do at work",
-          "title_original": "How AI is expanding what people do at work",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-27T03:30:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8069,
-      "importance": 0.8069,
-      "importance_score": 0.8069,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7495,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-27T03:30:00Z",
-      "latest_at": "2026-07-27T03:30:00Z",
-      "primary_item": {
-        "id": "2e2d656e1bbc540d6d0428c09cf2fb5ebbdce060",
-        "title": "人工智能如何扩展人们的工作范围 / How AI is expanding what people do at work",
-        "title_zh": "人工智能如何扩展人们的工作范围",
-        "title_ja": "AI は人々の仕事の範囲をどのように拡張するか",
-        "title_en": "How AI is expanding what people do at work",
-        "title_original": "How AI is expanding what people do at work",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-27T23:29:04.351188Z"
+        "scored_at": "2026-07-28T03:34:15.095938Z"
       }
     },
     {
@@ -700,16 +609,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8053,
-      "importance": 0.8053,
-      "importance_score": 0.8053,
+      "score": 0.7952,
+      "importance": 0.7952,
+      "importance_score": 0.7952,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9852,
+        "recency": 0.9289,
         "story_heat": 0.25
       },
       "category": "official",
@@ -738,7 +647,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T23:29:04.351188Z"
+        "scored_at": "2026-07-28T03:34:15.095938Z"
       }
     },
     {
@@ -824,16 +733,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7861,
-      "importance": 0.7861,
-      "importance_score": 0.7861,
+      "score": 0.7769,
+      "importance": 0.7769,
+      "importance_score": 0.7769,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8972,
+        "recency": 0.8459,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -862,7 +771,98 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T23:29:04.351188Z"
+        "scored_at": "2026-07-28T03:34:15.095938Z"
+      }
+    },
+    {
+      "story_id": "story_7284fe0b61a4",
+      "title": "GitHub Copilot 应用程序和 Copilot 云代理中的企业托管设置 / Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+      "title_ja": "GitHub Copilot アプリおよび Copilot クラウド エージェントのエンタープライズ管理設定",
+      "url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
+      "primary_url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "1f4daaa760e71eccd8deb7bc63c8d5cdb4e0e359",
+          "title": "GitHub Copilot 应用程序和 Copilot 云代理中的企业托管设置 / Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+          "title_zh": "GitHub Copilot 应用程序和 Copilot 云代理中的企业托管设置",
+          "title_ja": "GitHub Copilot アプリおよび Copilot クラウド エージェントのエンタープライズ管理設定",
+          "title_en": "Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+          "title_original": "Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-27T17:00:35Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "1f4daaa760e71eccd8deb7bc63c8d5cdb4e0e359",
+          "title": "GitHub Copilot 应用程序和 Copilot 云代理中的企业托管设置 / Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+          "title_zh": "GitHub Copilot 应用程序和 Copilot 云代理中的企业托管设置",
+          "title_ja": "GitHub Copilot アプリおよび Copilot クラウド エージェントのエンタープライズ管理設定",
+          "title_en": "Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+          "title_original": "Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-27T17:00:35Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8326,
+      "importance": 0.8326,
+      "importance_score": 0.8326,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.94,
+        "recency": 0.8589,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T17:00:35Z",
+      "latest_at": "2026-07-27T17:00:35Z",
+      "primary_item": {
+        "id": "1f4daaa760e71eccd8deb7bc63c8d5cdb4e0e359",
+        "title": "GitHub Copilot 应用程序和 Copilot 云代理中的企业托管设置 / Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+        "title_zh": "GitHub Copilot 应用程序和 Copilot 云代理中的企业托管设置",
+        "title_ja": "GitHub Copilot アプリおよび Copilot クラウド エージェントのエンタープライズ管理設定",
+        "title_en": "Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+        "title_original": "Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-28T03:34:15.095938Z"
       }
     },
     {
@@ -948,16 +948,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7793,
-      "importance": 0.7793,
-      "importance_score": 0.7793,
+      "score": 0.7698,
+      "importance": 0.7698,
+      "importance_score": 0.7698,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9259,
+        "recency": 0.8731,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -986,7 +986,97 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T23:29:04.351188Z"
+        "scored_at": "2026-07-28T03:34:15.095938Z"
+      }
+    },
+    {
+      "story_id": "story_d1e2d40dd895",
+      "title": "50 万Mac用户裸奔，Claude智能体爆沙箱逃逸漏洞可读写任意文件",
+      "title_ja": "50万人のMacユーザーが裸で走り回っており、クロードエージェントには任意のファイルを読み書きできるサンドボックスエスケープの脆弱性がある",
+      "url": "https://www.aibase.com/news/29934",
+      "primary_url": "https://www.aibase.com/news/29934",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "497017980a6f12ca52c184fb969c297cea804980",
+          "title": "50 万Mac用户裸奔，Claude智能体爆沙箱逃逸漏洞可读写任意文件",
+          "title_zh": "50 万Mac用户裸奔，Claude智能体爆沙箱逃逸漏洞可读写任意文件",
+          "title_ja": "50万人のMacユーザーが裸で走り回っており、クロードエージェントには任意のファイルを読み書きできるサンドボックスエスケープの脆弱性がある",
+          "title_en": null,
+          "title_original": "50 万Mac用户裸奔，Claude智能体爆沙箱逃逸漏洞可读写任意文件",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/29934",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-28T03:32:26.040401Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "497017980a6f12ca52c184fb969c297cea804980",
+          "title": "50 万Mac用户裸奔，Claude智能体爆沙箱逃逸漏洞可读写任意文件",
+          "title_zh": "50 万Mac用户裸奔，Claude智能体爆沙箱逃逸漏洞可读写任意文件",
+          "title_ja": "50万人のMacユーザーが裸で走り回っており、クロードエージェントには任意のファイルを読み書きできるサンドボックスエスケープの脆弱性がある",
+          "title_en": null,
+          "title_original": "50 万Mac用户裸奔，Claude智能体爆沙箱逃逸漏洞可读写任意文件",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/29934",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-28T03:32:26.040401Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-28T03:32:26.040401Z",
+      "latest_at": "2026-07-28T03:32:26.040401Z",
+      "primary_item": {
+        "id": "497017980a6f12ca52c184fb969c297cea804980",
+        "title": "50 万Mac用户裸奔，Claude智能体爆沙箱逃逸漏洞可读写任意文件",
+        "title_zh": "50 万Mac用户裸奔，Claude智能体爆沙箱逃逸漏洞可读写任意文件",
+        "title_ja": "50万人のMacユーザーが裸で走り回っており、クロードエージェントには任意のファイルを読み書きできるサンドボックスエスケープの脆弱性がある",
+        "title_en": null,
+        "title_original": "50 万Mac用户裸奔，Claude智能体爆沙箱逃逸漏洞可读写任意文件",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/29934",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-28T03:34:15.095938Z"
       }
     },
     {
@@ -1039,16 +1129,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7744,
-      "importance": 0.7744,
-      "importance_score": 0.7744,
+      "score": 0.7653,
+      "importance": 0.7653,
+      "importance_score": 0.7653,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.888,
+        "recency": 0.8373,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1076,7 +1166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T23:29:04.351188Z"
+        "scored_at": "2026-07-28T03:34:15.095938Z"
       }
     },
     {
@@ -1129,22 +1219,21 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7535,
-      "importance": 0.7535,
-      "importance_score": 0.7535,
+      "score": 0.7441,
+      "importance": 0.7441,
+      "importance_score": 0.7441,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9219,
+        "recency": 0.8693,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-27T17:50:17.260000Z",
       "latest_at": "2026-07-27T17:50:17.260000Z",
@@ -1166,7 +1255,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T23:29:04.351188Z"
+        "scored_at": "2026-07-28T03:34:15.095938Z"
       }
     },
     {
@@ -1219,22 +1308,21 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7507,
-      "importance": 0.7507,
-      "importance_score": 0.7507,
+      "score": 0.7411,
+      "importance": 0.7411,
+      "importance_score": 0.7411,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9395,
+        "recency": 0.8859,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-27T19:08:51Z",
       "latest_at": "2026-07-27T19:08:51Z",
@@ -1256,33 +1344,122 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T23:29:04.351188Z"
+        "scored_at": "2026-07-28T03:34:15.095938Z"
       }
     },
     {
-      "story_id": "story_b6a9a859e99e",
-      "title": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
-      "title_ja": "クロードの会話共有リンクが検索エンジンによって「誤ってキャプチャ」され、秘密鍵とプライバシーを含む多数の会話が公開インデックスに登録されました",
-      "url": "https://www.aibase.com/news/29910",
-      "primary_url": "https://www.aibase.com/news/29910",
+      "story_id": "story_3d28a7a92444",
+      "title": "如何评估不同 LLM 提供商在延迟、吞吐量和正常运行时间上的性能 / How to Evaluate LLM Provider Performance Across Latency， Throughput， and Uptime",
+      "title_ja": "レイテンシー、スループット、稼働時間全体にわたって LLM プロバイダーのパフォーマンスを評価する方法",
+      "url": "https://openrouter.ai/blog/insights/evaluate-llm-provider-performance",
+      "primary_url": "https://openrouter.ai/blog/insights/evaluate-llm-provider-performance",
+      "source": "OpenRouter：Announcements（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5ac8d76f69949d45ec573062b377590c70893901",
+          "title": "如何评估不同 LLM 提供商在延迟、吞吐量和正常运行时间上的性能 / How to Evaluate LLM Provider Performance Across Latency， Throughput， and Uptime",
+          "title_zh": "如何评估不同 LLM 提供商在延迟、吞吐量和正常运行时间上的性能",
+          "title_ja": "レイテンシー、スループット、稼働時間全体にわたって LLM プロバイダーのパフォーマンスを評価する方法",
+          "title_en": "How to Evaluate LLM Provider Performance Across Latency， Throughput， and Uptime",
+          "title_original": "How to Evaluate LLM Provider Performance Across Latency， Throughput， and Uptime",
+          "summary": "同一模型在不同提供商端点上的表现因基础设施、量化、负载处理和路由默认设置而异。评估需测量延迟、吞吐量、正常运行时间和精度，并将测量结果转化为路由策略。",
+          "summary_ja": "異なるプロバイダー エンドポイント上の同じモデルのパフォーマンスは、インフラストラクチャ、量子化、負荷処理、ルーティングのデフォルトによって異なります。評価では、遅延、スループット、稼働時間、精度が測定され、測定結果がルーティング ポリシーに変換されます。",
+          "recommend_reason_zh": null,
+          "url": "https://openrouter.ai/blog/insights/evaluate-llm-provider-performance",
+          "source": "OpenRouter：Announcements（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-28T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenRouter：Announcements（RSS）"
+      ],
+      "items": [
+        {
+          "id": "5ac8d76f69949d45ec573062b377590c70893901",
+          "title": "如何评估不同 LLM 提供商在延迟、吞吐量和正常运行时间上的性能 / How to Evaluate LLM Provider Performance Across Latency， Throughput， and Uptime",
+          "title_zh": "如何评估不同 LLM 提供商在延迟、吞吐量和正常运行时间上的性能",
+          "title_ja": "レイテンシー、スループット、稼働時間全体にわたって LLM プロバイダーのパフォーマンスを評価する方法",
+          "title_en": "How to Evaluate LLM Provider Performance Across Latency， Throughput， and Uptime",
+          "title_original": "How to Evaluate LLM Provider Performance Across Latency， Throughput， and Uptime",
+          "summary": "同一模型在不同提供商端点上的表现因基础设施、量化、负载处理和路由默认设置而异。评估需测量延迟、吞吐量、正常运行时间和精度，并将测量结果转化为路由策略。",
+          "summary_ja": "異なるプロバイダー エンドポイント上の同じモデルのパフォーマンスは、インフラストラクチャ、量子化、負荷処理、ルーティングのデフォルトによって異なります。評価では、遅延、スループット、稼働時間、精度が測定され、測定結果がルーティング ポリシーに変換されます。",
+          "recommend_reason_zh": null,
+          "url": "https://openrouter.ai/blog/insights/evaluate-llm-provider-performance",
+          "source": "OpenRouter：Announcements（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-28T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7376,
+      "importance": 0.7376,
+      "importance_score": 0.7376,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9502,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-28T00:00:00Z",
+      "latest_at": "2026-07-28T00:00:00Z",
+      "primary_item": {
+        "id": "5ac8d76f69949d45ec573062b377590c70893901",
+        "title": "如何评估不同 LLM 提供商在延迟、吞吐量和正常运行时间上的性能 / How to Evaluate LLM Provider Performance Across Latency， Throughput， and Uptime",
+        "title_zh": "如何评估不同 LLM 提供商在延迟、吞吐量和正常运行时间上的性能",
+        "title_ja": "レイテンシー、スループット、稼働時間全体にわたって LLM プロバイダーのパフォーマンスを評価する方法",
+        "title_en": "How to Evaluate LLM Provider Performance Across Latency， Throughput， and Uptime",
+        "title_original": "How to Evaluate LLM Provider Performance Across Latency， Throughput， and Uptime",
+        "summary": "同一模型在不同提供商端点上的表现因基础设施、量化、负载处理和路由默认设置而异。评估需测量延迟、吞吐量、正常运行时间和精度，并将测量结果转化为路由策略。",
+        "summary_ja": "異なるプロバイダー エンドポイント上の同じモデルのパフォーマンスは、インフラストラクチャ、量子化、負荷処理、ルーティングのデフォルトによって異なります。評価では、遅延、スループット、稼働時間、精度が測定され、測定結果がルーティング ポリシーに変換されます。",
+        "recommend_reason_zh": null,
+        "url": "https://openrouter.ai/blog/insights/evaluate-llm-provider-performance",
+        "source": "OpenRouter：Announcements（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-28T03:34:15.095938Z"
+      }
+    },
+    {
+      "story_id": "story_77247128b4fd",
+      "title": "Anthropic CEO 阿莫代伊撰文划清立场：不主张禁开源，但要卡死算力、蒸馏与发布前测试",
+      "title_ja": null,
+      "url": "https://www.aibase.com/news/29919",
+      "primary_url": "https://www.aibase.com/news/29919",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "8c21edfd378c931f752d0362621f4df294ed011d",
-          "title": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
-          "title_zh": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
-          "title_ja": "クロードの会話共有リンクが検索エンジンによって「誤ってキャプチャ」され、秘密鍵とプライバシーを含む多数の会話が公開インデックスに登録されました",
+          "id": "9b44c55605a32459a796261ea59b593ee25da007",
+          "title": "Anthropic CEO 阿莫代伊撰文划清立场：不主张禁开源，但要卡死算力、蒸馏与发布前测试",
+          "title_zh": "Anthropic CEO 阿莫代伊撰文划清立场：不主张禁开源，但要卡死算力、蒸馏与发布前测试",
+          "title_ja": null,
           "title_en": null,
-          "title_original": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
+          "title_original": "Anthropic CEO 阿莫代伊撰文划清立场：不主张禁开源，但要卡死算力、蒸馏与发布前测试",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29910",
+          "url": "https://www.aibase.com/news/29919",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-27T11:37:14.914987Z"
+          "published_at": "2026-07-28T03:32:26.040401Z"
         }
       ],
       "source_count": 1,
@@ -1291,53 +1468,54 @@
       ],
       "items": [
         {
-          "id": "8c21edfd378c931f752d0362621f4df294ed011d",
-          "title": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
-          "title_zh": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
-          "title_ja": "クロードの会話共有リンクが検索エンジンによって「誤ってキャプチャ」され、秘密鍵とプライバシーを含む多数の会話が公開インデックスに登録されました",
+          "id": "9b44c55605a32459a796261ea59b593ee25da007",
+          "title": "Anthropic CEO 阿莫代伊撰文划清立场：不主张禁开源，但要卡死算力、蒸馏与发布前测试",
+          "title_zh": "Anthropic CEO 阿莫代伊撰文划清立场：不主张禁开源，但要卡死算力、蒸馏与发布前测试",
+          "title_ja": null,
           "title_en": null,
-          "title_original": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
+          "title_original": "Anthropic CEO 阿莫代伊撰文划清立场：不主张禁开源，但要卡死算力、蒸馏与发布前测试",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29910",
+          "url": "https://www.aibase.com/news/29919",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-27T11:37:14.914987Z"
+          "published_at": "2026-07-28T03:32:26.040401Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7393,
-      "importance": 0.7393,
-      "importance_score": 0.7393,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8427,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-27T11:37:14.914987Z",
-      "latest_at": "2026-07-27T11:37:14.914987Z",
+      "earliest_at": "2026-07-28T03:32:26.040401Z",
+      "latest_at": "2026-07-28T03:32:26.040401Z",
       "primary_item": {
-        "id": "8c21edfd378c931f752d0362621f4df294ed011d",
-        "title": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
-        "title_zh": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
-        "title_ja": "クロードの会話共有リンクが検索エンジンによって「誤ってキャプチャ」され、秘密鍵とプライバシーを含む多数の会話が公開インデックスに登録されました",
+        "id": "9b44c55605a32459a796261ea59b593ee25da007",
+        "title": "Anthropic CEO 阿莫代伊撰文划清立场：不主张禁开源，但要卡死算力、蒸馏与发布前测试",
+        "title_zh": "Anthropic CEO 阿莫代伊撰文划清立场：不主张禁开源，但要卡死算力、蒸馏与发布前测试",
+        "title_ja": null,
         "title_en": null,
-        "title_original": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
+        "title_original": "Anthropic CEO 阿莫代伊撰文划清立场：不主张禁开源，但要卡死算力、蒸馏与发布前测试",
         "summary": null,
         "summary_ja": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/29910",
+        "url": "https://www.aibase.com/news/29919",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1345,96 +1523,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T23:29:04.351188Z"
-      }
-    },
-    {
-      "story_id": "story_0907ce5e66ea",
-      "title": "用AI Skill自动生成可协作HTML PPT",
-      "title_ja": "AI スキルを使用して共同作業用 HTML PPT を自動生成",
-      "url": "https://x.com/vista8/status/2081568902241513786",
-      "primary_url": "https://x.com/vista8/status/2081568902241513786",
-      "source": "X：Vista (@vista8)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "29e61cc109f21b35c2460b50e409520ec711253b",
-          "title": "用AI Skill自动生成可协作HTML PPT",
-          "title_zh": "用AI Skill自动生成可协作HTML PPT",
-          "title_ja": "AI スキルを使用して共同作業用 HTML PPT を自動生成",
-          "title_en": null,
-          "title_original": "用AI Skill自动生成可协作HTML PPT",
-          "summary": "Vista 基于 bento PPT 改造了一个 Skill，输入内容或主题即可自动生成可编辑、在线演示并支持协作的 HTML PPT。安装指令为 `npx skills add joeseesun/qiaomu-bento-ppt`，推荐使用 Kimi K3 或 Opus 4.8+ 等前端审美好的模型。",
-          "summary_ja": "Vista は、bento PPT に基づいてスキルを変換しました。コンテンツまたはトピックを入力すると、編集、オンラインでの表示が可能で、コラボレーションをサポートする HTML PPT が自動的に生成されます。インストール手順は「npx skill add joeseesun/qiaomu-bento-ppt」です。 Kimi K3 や Opus 4.8+ など、フロントエンドの美しさが優れたモデルを使用することをお勧めします。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/vista8/status/2081568902241513786",
-          "source": "X：Vista (@vista8)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-27T02:34:34Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Vista (@vista8)"
-      ],
-      "items": [
-        {
-          "id": "29e61cc109f21b35c2460b50e409520ec711253b",
-          "title": "用AI Skill自动生成可协作HTML PPT",
-          "title_zh": "用AI Skill自动生成可协作HTML PPT",
-          "title_ja": "AI スキルを使用して共同作業用 HTML PPT を自動生成",
-          "title_en": null,
-          "title_original": "用AI Skill自动生成可协作HTML PPT",
-          "summary": "Vista 基于 bento PPT 改造了一个 Skill，输入内容或主题即可自动生成可编辑、在线演示并支持协作的 HTML PPT。安装指令为 `npx skills add joeseesun/qiaomu-bento-ppt`，推荐使用 Kimi K3 或 Opus 4.8+ 等前端审美好的模型。",
-          "summary_ja": "Vista は、bento PPT に基づいてスキルを変換しました。コンテンツまたはトピックを入力すると、編集、オンラインでの表示が可能で、コラボレーションをサポートする HTML PPT が自動的に生成されます。インストール手順は「npx skill add joeseesun/qiaomu-bento-ppt」です。 Kimi K3 や Opus 4.8+ など、フロントエンドの美しさが優れたモデルを使用することをお勧めします。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/vista8/status/2081568902241513786",
-          "source": "X：Vista (@vista8)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-27T02:34:34Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7327,
-      "importance": 0.7327,
-      "importance_score": 0.7327,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7396,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-27T02:34:34Z",
-      "latest_at": "2026-07-27T02:34:34Z",
-      "primary_item": {
-        "id": "29e61cc109f21b35c2460b50e409520ec711253b",
-        "title": "用AI Skill自动生成可协作HTML PPT",
-        "title_zh": "用AI Skill自动生成可协作HTML PPT",
-        "title_ja": "AI スキルを使用して共同作業用 HTML PPT を自動生成",
-        "title_en": null,
-        "title_original": "用AI Skill自动生成可协作HTML PPT",
-        "summary": "Vista 基于 bento PPT 改造了一个 Skill，输入内容或主题即可自动生成可编辑、在线演示并支持协作的 HTML PPT。安装指令为 `npx skills add joeseesun/qiaomu-bento-ppt`，推荐使用 Kimi K3 或 Opus 4.8+ 等前端审美好的模型。",
-        "summary_ja": "Vista は、bento PPT に基づいてスキルを変換しました。コンテンツまたはトピックを入力すると、編集、オンラインでの表示が可能で、コラボレーションをサポートする HTML PPT が自動的に生成されます。インストール手順は「npx skill add joeseesun/qiaomu-bento-ppt」です。 Kimi K3 や Opus 4.8+ など、フロントエンドの美しさが優れたモデルを使用することをお勧めします。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/vista8/status/2081568902241513786",
-        "source": "X：Vista (@vista8)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-27T23:29:04.351188Z"
+        "scored_at": "2026-07-28T03:34:15.095938Z"
       }
     },
     {
@@ -1487,22 +1576,21 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7588,
-      "importance": 0.7588,
-      "importance_score": 0.7588,
+      "score": 0.7492,
+      "importance": 0.7492,
+      "importance_score": 0.7492,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9342,
+        "recency": 0.8809,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-27T18:45:20Z",
       "latest_at": "2026-07-27T18:45:20Z",
@@ -1524,33 +1612,33 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T23:29:04.351188Z"
+        "scored_at": "2026-07-28T03:34:15.095938Z"
       }
     },
     {
-      "story_id": "story_1ea579ee44b6",
-      "title": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
-      "title_ja": "クロードの共有リンク設定が覆される: ユーザーの秘密鍵と企業秘密が Google によって公開される",
-      "url": "https://www.aibase.com/news/29917",
-      "primary_url": "https://www.aibase.com/news/29917",
+      "story_id": "story_47c2e9f94796",
+      "title": "Anthropic Claude共享聊天功能曝隐私风险，大量对话被谷歌收录",
+      "title_ja": "Anthropic Claudeの共有チャット機能でプライバシーリスクが暴露、大量の会話がGoogleに含まれる",
+      "url": "https://www.aibase.com/news/29922",
+      "primary_url": "https://www.aibase.com/news/29922",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "b7146ce31f4fdbccb24924a1fd1b630c36312ea2",
-          "title": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
-          "title_zh": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
-          "title_ja": "クロードの共有リンク設定が覆される: ユーザーの秘密鍵と企業秘密が Google によって公開される",
+          "id": "4e449fb833f351202489ba7ec2e4b52073f3d750",
+          "title": "Anthropic Claude共享聊天功能曝隐私风险，大量对话被谷歌收录",
+          "title_zh": "Anthropic Claude共享聊天功能曝隐私风险，大量对话被谷歌收录",
+          "title_ja": "Anthropic Claudeの共有チャット機能でプライバシーリスクが暴露、大量の会話がGoogleに含まれる",
           "title_en": null,
-          "title_original": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
+          "title_original": "Anthropic Claude共享聊天功能曝隐私风险，大量对话被谷歌收录",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29917",
+          "url": "https://www.aibase.com/news/29922",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-27T11:37:14.914987Z"
+          "published_at": "2026-07-28T03:32:26.040401Z"
         }
       ],
       "source_count": 1,
@@ -1559,53 +1647,54 @@
       ],
       "items": [
         {
-          "id": "b7146ce31f4fdbccb24924a1fd1b630c36312ea2",
-          "title": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
-          "title_zh": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
-          "title_ja": "クロードの共有リンク設定が覆される: ユーザーの秘密鍵と企業秘密が Google によって公開される",
+          "id": "4e449fb833f351202489ba7ec2e4b52073f3d750",
+          "title": "Anthropic Claude共享聊天功能曝隐私风险，大量对话被谷歌收录",
+          "title_zh": "Anthropic Claude共享聊天功能曝隐私风险，大量对话被谷歌收录",
+          "title_ja": "Anthropic Claudeの共有チャット機能でプライバシーリスクが暴露、大量の会話がGoogleに含まれる",
           "title_en": null,
-          "title_original": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
+          "title_original": "Anthropic Claude共享聊天功能曝隐私风险，大量对话被谷歌收录",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29917",
+          "url": "https://www.aibase.com/news/29922",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-27T11:37:14.914987Z"
+          "published_at": "2026-07-28T03:32:26.040401Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7393,
-      "importance": 0.7393,
-      "importance_score": 0.7393,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8427,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-27T11:37:14.914987Z",
-      "latest_at": "2026-07-27T11:37:14.914987Z",
+      "earliest_at": "2026-07-28T03:32:26.040401Z",
+      "latest_at": "2026-07-28T03:32:26.040401Z",
       "primary_item": {
-        "id": "b7146ce31f4fdbccb24924a1fd1b630c36312ea2",
-        "title": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
-        "title_zh": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
-        "title_ja": "クロードの共有リンク設定が覆される: ユーザーの秘密鍵と企業秘密が Google によって公開される",
+        "id": "4e449fb833f351202489ba7ec2e4b52073f3d750",
+        "title": "Anthropic Claude共享聊天功能曝隐私风险，大量对话被谷歌收录",
+        "title_zh": "Anthropic Claude共享聊天功能曝隐私风险，大量对话被谷歌收录",
+        "title_ja": "Anthropic Claudeの共有チャット機能でプライバシーリスクが暴露、大量の会話がGoogleに含まれる",
         "title_en": null,
-        "title_original": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
+        "title_original": "Anthropic Claude共享聊天功能曝隐私风险，大量对话被谷歌收录",
         "summary": null,
         "summary_ja": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/29917",
+        "url": "https://www.aibase.com/news/29922",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1613,7 +1702,97 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T23:29:04.351188Z"
+        "scored_at": "2026-07-28T03:34:15.095938Z"
+      }
+    },
+    {
+      "story_id": "story_da00c303388c",
+      "title": "Enigma融资7100万美元：要让指挥机器人像拧音量旋钮一样简单",
+      "title_ja": "エニグマはボリュームノブを回すのと同じくらい簡単にロボットに命令できるようにするために7,100万ドルを調達",
+      "url": "https://www.aibase.com/news/29932",
+      "primary_url": "https://www.aibase.com/news/29932",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "3f2d2e18254526b7773a46c1523da37b866f992e",
+          "title": "Enigma融资7100万美元：要让指挥机器人像拧音量旋钮一样简单",
+          "title_zh": "Enigma融资7100万美元：要让指挥机器人像拧音量旋钮一样简单",
+          "title_ja": "エニグマはボリュームノブを回すのと同じくらい簡単にロボットに命令できるようにするために7,100万ドルを調達",
+          "title_en": null,
+          "title_original": "Enigma融资7100万美元：要让指挥机器人像拧音量旋钮一样简单",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/29932",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-28T03:32:26.040401Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "3f2d2e18254526b7773a46c1523da37b866f992e",
+          "title": "Enigma融资7100万美元：要让指挥机器人像拧音量旋钮一样简单",
+          "title_zh": "Enigma融资7100万美元：要让指挥机器人像拧音量旋钮一样简单",
+          "title_ja": "エニグマはボリュームノブを回すのと同じくらい簡単にロボットに命令できるようにするために7,100万ドルを調達",
+          "title_en": null,
+          "title_original": "Enigma融资7100万美元：要让指挥机器人像拧音量旋钮一样简单",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/29932",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-28T03:32:26.040401Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-28T03:32:26.040401Z",
+      "latest_at": "2026-07-28T03:32:26.040401Z",
+      "primary_item": {
+        "id": "3f2d2e18254526b7773a46c1523da37b866f992e",
+        "title": "Enigma融资7100万美元：要让指挥机器人像拧音量旋钮一样简单",
+        "title_zh": "Enigma融资7100万美元：要让指挥机器人像拧音量旋钮一样简单",
+        "title_ja": "エニグマはボリュームノブを回すのと同じくらい簡単にロボットに命令できるようにするために7,100万ドルを調達",
+        "title_en": null,
+        "title_original": "Enigma融资7100万美元：要让指挥机器人像拧音量旋钮一样简单",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/29932",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-28T03:34:15.095938Z"
       }
     },
     {
@@ -1666,16 +1845,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7426,
-      "importance": 0.7426,
-      "importance_score": 0.7426,
+      "score": 0.7334,
+      "importance": 0.7334,
+      "importance_score": 0.7334,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8943,
+        "recency": 0.8433,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1702,33 +1881,33 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T23:29:04.351188Z"
+        "scored_at": "2026-07-28T03:34:15.095938Z"
       }
     },
     {
-      "story_id": "story_78c20dc62353",
-      "title": "GEO服务商迎来“效率革命”：一套SaaS平台系统解决计费、交付、代理管理三大难题",
-      "title_ja": "ゲオのサービスプロバイダーが「効率革命」を起こす：請求・配送・代理店管理の3大課題をSaaSプラットフォームシステムで解決",
-      "url": "https://www.aibase.com/news/29914",
-      "primary_url": "https://www.aibase.com/news/29914",
+      "story_id": "story_e89dbd30d87a",
+      "title": "Firefox新标签页大改版：AI新闻字谜上线，浏览器也能玩出花样",
+      "title_ja": "Firefox の新しいタブ ページのオーバーホール: AI ニュースワード パズルがオンラインになり、ブラウザでトリックをプレイすることもできる",
+      "url": "https://www.aibase.com/news/29935",
+      "primary_url": "https://www.aibase.com/news/29935",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "19424603e898aaa6d70be7195f041cf5237ea17f",
-          "title": "GEO服务商迎来“效率革命”：一套SaaS平台系统解决计费、交付、代理管理三大难题",
-          "title_zh": "GEO服务商迎来“效率革命”：一套SaaS平台系统解决计费、交付、代理管理三大难题",
-          "title_ja": "ゲオのサービスプロバイダーが「効率革命」を起こす：請求・配送・代理店管理の3大課題をSaaSプラットフォームシステムで解決",
+          "id": "b272ccf2b013a6068b4f0d78c37bc27a5d5a7885",
+          "title": "Firefox新标签页大改版：AI新闻字谜上线，浏览器也能玩出花样",
+          "title_zh": "Firefox新标签页大改版：AI新闻字谜上线，浏览器也能玩出花样",
+          "title_ja": "Firefox の新しいタブ ページのオーバーホール: AI ニュースワード パズルがオンラインになり、ブラウザでトリックをプレイすることもできる",
           "title_en": null,
-          "title_original": "GEO服务商迎来“效率革命”：一套SaaS平台系统解决计费、交付、代理管理三大难题",
+          "title_original": "Firefox新标签页大改版：AI新闻字谜上线，浏览器也能玩出花样",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29914",
+          "url": "https://www.aibase.com/news/29935",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-27T11:37:14.914987Z"
+          "published_at": "2026-07-28T03:32:26.040401Z"
         }
       ],
       "source_count": 1,
@@ -1737,53 +1916,54 @@
       ],
       "items": [
         {
-          "id": "19424603e898aaa6d70be7195f041cf5237ea17f",
-          "title": "GEO服务商迎来“效率革命”：一套SaaS平台系统解决计费、交付、代理管理三大难题",
-          "title_zh": "GEO服务商迎来“效率革命”：一套SaaS平台系统解决计费、交付、代理管理三大难题",
-          "title_ja": "ゲオのサービスプロバイダーが「効率革命」を起こす：請求・配送・代理店管理の3大課題をSaaSプラットフォームシステムで解決",
+          "id": "b272ccf2b013a6068b4f0d78c37bc27a5d5a7885",
+          "title": "Firefox新标签页大改版：AI新闻字谜上线，浏览器也能玩出花样",
+          "title_zh": "Firefox新标签页大改版：AI新闻字谜上线，浏览器也能玩出花样",
+          "title_ja": "Firefox の新しいタブ ページのオーバーホール: AI ニュースワード パズルがオンラインになり、ブラウザでトリックをプレイすることもできる",
           "title_en": null,
-          "title_original": "GEO服务商迎来“效率革命”：一套SaaS平台系统解决计费、交付、代理管理三大难题",
+          "title_original": "Firefox新标签页大改版：AI新闻字谜上线，浏览器也能玩出花样",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29914",
+          "url": "https://www.aibase.com/news/29935",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-27T11:37:14.914987Z"
+          "published_at": "2026-07-28T03:32:26.040401Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7393,
-      "importance": 0.7393,
-      "importance_score": 0.7393,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8427,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-27T11:37:14.914987Z",
-      "latest_at": "2026-07-27T11:37:14.914987Z",
+      "earliest_at": "2026-07-28T03:32:26.040401Z",
+      "latest_at": "2026-07-28T03:32:26.040401Z",
       "primary_item": {
-        "id": "19424603e898aaa6d70be7195f041cf5237ea17f",
-        "title": "GEO服务商迎来“效率革命”：一套SaaS平台系统解决计费、交付、代理管理三大难题",
-        "title_zh": "GEO服务商迎来“效率革命”：一套SaaS平台系统解决计费、交付、代理管理三大难题",
-        "title_ja": "ゲオのサービスプロバイダーが「効率革命」を起こす：請求・配送・代理店管理の3大課題をSaaSプラットフォームシステムで解決",
+        "id": "b272ccf2b013a6068b4f0d78c37bc27a5d5a7885",
+        "title": "Firefox新标签页大改版：AI新闻字谜上线，浏览器也能玩出花样",
+        "title_zh": "Firefox新标签页大改版：AI新闻字谜上线，浏览器也能玩出花样",
+        "title_ja": "Firefox の新しいタブ ページのオーバーホール: AI ニュースワード パズルがオンラインになり、ブラウザでトリックをプレイすることもできる",
         "title_en": null,
-        "title_original": "GEO服务商迎来“效率革命”：一套SaaS平台系统解决计费、交付、代理管理三大难题",
+        "title_original": "Firefox新标签页大改版：AI新闻字谜上线，浏览器也能玩出花样",
         "summary": null,
         "summary_ja": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/29914",
+        "url": "https://www.aibase.com/news/29935",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1791,185 +1971,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-27T23:29:04.351188Z"
-      }
-    },
-    {
-      "story_id": "story_620ebb8c9c5b",
-      "title": "​35 名大学生 32 人考试作弊，教授用一行\"隐形咒语\"让AI现原形",
-      "title_ja": "大学生35人中32人が試験でカンニング、教授が「透明化の呪文」を使ってAIに本当の姿を明らかにさせた",
-      "url": "https://www.aibase.com/news/29916",
-      "primary_url": "https://www.aibase.com/news/29916",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "326261f775bd97b90c695a2a62309932378bfecc",
-          "title": "​35 名大学生 32 人考试作弊，教授用一行\"隐形咒语\"让AI现原形",
-          "title_zh": "​35 名大学生 32 人考试作弊，教授用一行\"隐形咒语\"让AI现原形",
-          "title_ja": "大学生35人中32人が試験でカンニング、教授が「透明化の呪文」を使ってAIに本当の姿を明らかにさせた",
-          "title_en": null,
-          "title_original": "​35 名大学生 32 人考试作弊，教授用一行\"隐形咒语\"让AI现原形",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29916",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-27T11:37:14.914987Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "326261f775bd97b90c695a2a62309932378bfecc",
-          "title": "​35 名大学生 32 人考试作弊，教授用一行\"隐形咒语\"让AI现原形",
-          "title_zh": "​35 名大学生 32 人考试作弊，教授用一行\"隐形咒语\"让AI现原形",
-          "title_ja": "大学生35人中32人が試験でカンニング、教授が「透明化の呪文」を使ってAIに本当の姿を明らかにさせた",
-          "title_en": null,
-          "title_original": "​35 名大学生 32 人考试作弊，教授用一行\"隐形咒语\"让AI现原形",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29916",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-27T11:37:14.914987Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7393,
-      "importance": 0.7393,
-      "importance_score": 0.7393,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8427,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-27T11:37:14.914987Z",
-      "latest_at": "2026-07-27T11:37:14.914987Z",
-      "primary_item": {
-        "id": "326261f775bd97b90c695a2a62309932378bfecc",
-        "title": "​35 名大学生 32 人考试作弊，教授用一行\"隐形咒语\"让AI现原形",
-        "title_zh": "​35 名大学生 32 人考试作弊，教授用一行\"隐形咒语\"让AI现原形",
-        "title_ja": "大学生35人中32人が試験でカンニング、教授が「透明化の呪文」を使ってAIに本当の姿を明らかにさせた",
-        "title_en": null,
-        "title_original": "​35 名大学生 32 人考试作弊，教授用一行\"隐形咒语\"让AI现原形",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/29916",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-27T23:29:04.351188Z"
-      }
-    },
-    {
-      "story_id": "story_45205b48cfd8",
-      "title": "Kimi K3 开源分布式智能体环境 AgentENV / We've open-sourced AgentENV in collaboration with kvcache-ai. AgentENV is a distributed system for …",
-      "title_ja": "kvcache-ai と協力して AgentENV をオープンソース化しました。 AgentENV は…のための分散システムです。",
-      "url": "https://x.com/Kimi_Moonshot/status/2081762978391843020",
-      "primary_url": "https://x.com/Kimi_Moonshot/status/2081762978391843020",
-      "source": "X：Kimi.ai (@Kimi_Moonshot)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e2dbc0537143b6d40bc7c79ae597ccd9dde5823c",
-          "title": "Kimi K3 开源分布式智能体环境 AgentENV / We've open-sourced AgentENV in collaboration with kvcache-ai. AgentENV is a distributed system for …",
-          "title_zh": "Kimi K3 开源分布式智能体环境 AgentENV",
-          "title_ja": "kvcache-ai と協力して AgentENV をオープンソース化しました。 AgentENV は…のための分散システムです。",
-          "title_en": "We've open-sourced AgentENV in collaboration with kvcache-ai. AgentENV is a distributed system for …",
-          "title_original": "We've open-sourced AgentENV in collaboration with kvcache-ai. AgentENV is a distributed system for …",
-          "summary": "我们与 kvcache-ai 合作开源了 AgentENV。\n\nAgentENV 是一个用于大规模运行智能体环境的分布式系统。其组件为 Kimi K3 的智能体强化学习训练提供支持，具备快速快照、恢复和分支功能，适用于大规模并行智能体工作流。\n\n在 GitHub 上探索：http://github.com/kvcache-ai/AgentEnv",
-          "summary_ja": "kvcache-ai と協力して、AgentENV をオープンソースにしました。\n\nAgentENV は、エージェント環境を大規模に実行するための分散システムです。そのコンポーネントは、大規模な並列エージェント ワークフロー向けの高速スナップショット、リカバリ、分岐機能を備えた Kim K3 のエージェント強化学習トレーニングを強化します。\n\nGitHub で探索してください: http://github.com/kvcache-ai/AgentEnv",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/Kimi_Moonshot/status/2081762978391843020",
-          "source": "X：Kimi.ai (@Kimi_Moonshot)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-27T15:25:45Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Kimi.ai (@Kimi_Moonshot)"
-      ],
-      "items": [
-        {
-          "id": "e2dbc0537143b6d40bc7c79ae597ccd9dde5823c",
-          "title": "Kimi K3 开源分布式智能体环境 AgentENV / We've open-sourced AgentENV in collaboration with kvcache-ai. AgentENV is a distributed system for …",
-          "title_zh": "Kimi K3 开源分布式智能体环境 AgentENV",
-          "title_ja": "kvcache-ai と協力して AgentENV をオープンソース化しました。 AgentENV は…のための分散システムです。",
-          "title_en": "We've open-sourced AgentENV in collaboration with kvcache-ai. AgentENV is a distributed system for …",
-          "title_original": "We've open-sourced AgentENV in collaboration with kvcache-ai. AgentENV is a distributed system for …",
-          "summary": "我们与 kvcache-ai 合作开源了 AgentENV。\n\nAgentENV 是一个用于大规模运行智能体环境的分布式系统。其组件为 Kimi K3 的智能体强化学习训练提供支持，具备快速快照、恢复和分支功能，适用于大规模并行智能体工作流。\n\n在 GitHub 上探索：http://github.com/kvcache-ai/AgentEnv",
-          "summary_ja": "kvcache-ai と協力して、AgentENV をオープンソースにしました。\n\nAgentENV は、エージェント環境を大規模に実行するための分散システムです。そのコンポーネントは、大規模な並列エージェント ワークフロー向けの高速スナップショット、リカバリ、分岐機能を備えた Kim K3 のエージェント強化学習トレーニングを強化します。\n\nGitHub で探索してください: http://github.com/kvcache-ai/AgentEnv",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/Kimi_Moonshot/status/2081762978391843020",
-          "source": "X：Kimi.ai (@Kimi_Moonshot)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-27T15:25:45Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7389,
-      "importance": 0.7389,
-      "importance_score": 0.7389,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8904,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-27T15:25:45Z",
-      "latest_at": "2026-07-27T15:25:45Z",
-      "primary_item": {
-        "id": "e2dbc0537143b6d40bc7c79ae597ccd9dde5823c",
-        "title": "Kimi K3 开源分布式智能体环境 AgentENV / We've open-sourced AgentENV in collaboration with kvcache-ai. AgentENV is a distributed system for …",
-        "title_zh": "Kimi K3 开源分布式智能体环境 AgentENV",
-        "title_ja": "kvcache-ai と協力して AgentENV をオープンソース化しました。 AgentENV は…のための分散システムです。",
-        "title_en": "We've open-sourced AgentENV in collaboration with kvcache-ai. AgentENV is a distributed system for …",
-        "title_original": "We've open-sourced AgentENV in collaboration with kvcache-ai. AgentENV is a distributed system for …",
-        "summary": "我们与 kvcache-ai 合作开源了 AgentENV。\n\nAgentENV 是一个用于大规模运行智能体环境的分布式系统。其组件为 Kimi K3 的智能体强化学习训练提供支持，具备快速快照、恢复和分支功能，适用于大规模并行智能体工作流。\n\n在 GitHub 上探索：http://github.com/kvcache-ai/AgentEnv",
-        "summary_ja": "kvcache-ai と協力して、AgentENV をオープンソースにしました。\n\nAgentENV は、エージェント環境を大規模に実行するための分散システムです。そのコンポーネントは、大規模な並列エージェント ワークフロー向けの高速スナップショット、リカバリ、分岐機能を備えた Kim K3 のエージェント強化学習トレーニングを強化します。\n\nGitHub で探索してください: http://github.com/kvcache-ai/AgentEnv",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/Kimi_Moonshot/status/2081762978391843020",
-        "source": "X：Kimi.ai (@Kimi_Moonshot)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-27T23:29:04.351188Z"
+        "scored_at": "2026-07-28T03:34:15.095938Z"
       }
     }
   ]
