@@ -1,8 +1,99 @@
 {
-  "generated_at": "2026-07-29T00:10:27.897922Z",
+  "generated_at": "2026-07-29T03:36:10.730444Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_662891d3b0ba",
+      "title": "Codex CLI 0.146.0",
+      "title_ja": "コーデックス CLI 0.146.0",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5278448a75f30f980fe7619a5fc8d1b1c7468a1e",
+          "title": "Codex CLI 0.146.0",
+          "title_zh": null,
+          "title_ja": "コーデックス CLI 0.146.0",
+          "title_en": "Codex CLI 0.146.0",
+          "title_original": "Codex CLI 0.146.0",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-29T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "5278448a75f30f980fe7619a5fc8d1b1c7468a1e",
+          "title": "Codex CLI 0.146.0",
+          "title_zh": null,
+          "title_ja": "コーデックス CLI 0.146.0",
+          "title_en": "Codex CLI 0.146.0",
+          "title_original": "Codex CLI 0.146.0",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-29T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8569,
+      "importance": 0.8569,
+      "importance_score": 0.8569,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.9493,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T00:00:00Z",
+      "latest_at": "2026-07-29T00:00:00Z",
+      "primary_item": {
+        "id": "5278448a75f30f980fe7619a5fc8d1b1c7468a1e",
+        "title": "Codex CLI 0.146.0",
+        "title_zh": null,
+        "title_ja": "コーデックス CLI 0.146.0",
+        "title_en": "Codex CLI 0.146.0",
+        "title_original": "Codex CLI 0.146.0",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-29T03:38:00.656611Z"
+      }
+    },
     {
       "story_id": "story_71077999e62f",
       "title": "代理人工智能时代的科学计算 / Scientific computing in the age of agentic AI",
@@ -86,16 +177,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8593,
-      "importance": 0.8593,
-      "importance_score": 0.8593,
+      "score": 0.8514,
+      "importance": 0.8514,
+      "importance_score": 0.8514,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9016,
+        "recency": 0.858,
         "story_heat": 0.25
       },
       "category": "official",
@@ -125,7 +216,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-29T00:11:31.973961Z"
+        "scored_at": "2026-07-29T03:38:00.656611Z"
       }
     },
     {
@@ -211,16 +302,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.857,
-      "importance": 0.857,
-      "importance_score": 0.857,
+      "score": 0.8492,
+      "importance": 0.8492,
+      "importance_score": 0.8492,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8887,
+        "recency": 0.8457,
         "story_heat": 0.25
       },
       "category": "official",
@@ -250,7 +341,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-29T00:11:31.973961Z"
+        "scored_at": "2026-07-29T03:38:00.656611Z"
       }
     },
     {
@@ -303,16 +394,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8505,
-      "importance": 0.8505,
-      "importance_score": 0.8505,
+      "score": 0.8418,
+      "importance": 0.8418,
+      "importance_score": 0.8418,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9915,
+        "recency": 0.9436,
         "story_heat": 0.0
       },
       "category": "official",
@@ -341,7 +432,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-29T00:11:31.973961Z"
+        "scored_at": "2026-07-29T03:38:00.656611Z"
       }
     },
     {
@@ -394,16 +485,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8437,
-      "importance": 0.8437,
-      "importance_score": 0.8437,
+      "score": 0.8361,
+      "importance": 0.8361,
+      "importance_score": 0.8361,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8763,
+        "recency": 0.834,
         "story_heat": 0.0
       },
       "category": "official",
@@ -432,7 +523,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-29T00:11:31.973961Z"
+        "scored_at": "2026-07-29T03:38:00.656611Z"
       }
     },
     {
@@ -485,16 +576,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8475,
-      "importance": 0.8475,
-      "importance_score": 0.8475,
+      "score": 0.8394,
+      "importance": 0.8394,
+      "importance_score": 0.8394,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9304,
+        "recency": 0.8855,
         "story_heat": 0.0
       },
       "category": "official",
@@ -523,7 +614,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-29T00:11:31.973961Z"
+        "scored_at": "2026-07-29T03:38:00.656611Z"
       }
     },
     {
@@ -576,16 +667,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.841,
-      "importance": 0.841,
-      "importance_score": 0.841,
+      "score": 0.8332,
+      "importance": 0.8332,
+      "importance_score": 0.8332,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8946,
+        "recency": 0.8514,
         "story_heat": 0.0
       },
       "category": "official",
@@ -614,7 +705,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-29T00:11:31.973961Z"
+        "scored_at": "2026-07-29T03:38:00.656611Z"
       }
     },
     {
@@ -667,16 +758,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7912,
-      "importance": 0.7912,
-      "importance_score": 0.7912,
+      "score": 0.7829,
+      "importance": 0.7829,
+      "importance_score": 0.7829,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9477,
+        "recency": 0.9019,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -704,7 +795,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-29T00:11:31.973961Z"
+        "scored_at": "2026-07-29T03:38:00.656611Z"
       }
     },
     {
@@ -757,16 +848,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8172,
-      "importance": 0.8172,
-      "importance_score": 0.8172,
+      "score": 0.8098,
+      "importance": 0.8098,
+      "importance_score": 0.8098,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.851,
+        "recency": 0.8099,
         "story_heat": 0.0
       },
       "category": "official",
@@ -795,7 +886,97 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-29T00:11:31.973961Z"
+        "scored_at": "2026-07-29T03:38:00.656611Z"
+      }
+    },
+    {
+      "story_id": "story_a140b8d566f7",
+      "title": "在 M1 Max 上运行 2.8T 参数的 Kimi K3：Deltafin 项目实现 0.0687 token/s 推理",
+      "title_ja": "M1 Max で 2.8T パラメーターを使用して Kim K3 を実行: プロジェクト Deltafin は 0.0687 トークン/秒の推論を達成",
+      "url": "https://github.com/gavamedia/deltafin",
+      "primary_url": "https://github.com/gavamedia/deltafin",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9050f0ea5122c836de98467a9c779842d595f3c0",
+          "title": "在 M1 Max 上运行 2.8T 参数的 Kimi K3：Deltafin 项目实现 0.0687 token/s 推理",
+          "title_zh": "在 M1 Max 上运行 2.8T 参数的 Kimi K3：Deltafin 项目实现 0.0687 token/s 推理",
+          "title_ja": "M1 Max で 2.8T パラメーターを使用して Kim K3 を実行: プロジェクト Deltafin は 0.0687 トークン/秒の推論を達成",
+          "title_en": null,
+          "title_original": "在 M1 Max 上运行 2.8T 参数的 Kimi K3：Deltafin 项目实现 0.0687 token/s 推理",
+          "summary": "Deltafin 项目成功在 64 GB M1 Max 上运行了 2.8T 参数的 MoE 模型 Kimi K3，当前中位推理速度为 0.0687 token/s（14.6 秒/token）。完整安装需约 1.7 TB 本地磁盘，流式模式仅需 215 GB 但推理速度降至 3 分钟以上/token。项目提供 OpenAI 兼容 API 服务器，支持聊天和代码补全，但建议客户端超时设为小时级别。",
+          "summary_ja": "Deltafin プロジェクトは、64 GB M1 Max 上で 2.8T パラメーターの MoE モデル Kimi K3 を正常に実行し、現在の推論速度の中央値は 0.0687 トークン/秒 (14.6 秒/トークン) でした。フルインストールには最大 1.7 TB のローカル ディスクが必要ですが、ストリーミング モードでは 215 GB しか必要ありませんが、推論速度はトークンあたり 3 分以上に低下します。このプロジェクトは、チャットとコード補完をサポートする OpenAI 互換 API サーバーを提供しますが、クライアントのタイムアウトを時間レベルに設定することをお勧めします。",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/gavamedia/deltafin",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T02:49:20.833000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "9050f0ea5122c836de98467a9c779842d595f3c0",
+          "title": "在 M1 Max 上运行 2.8T 参数的 Kimi K3：Deltafin 项目实现 0.0687 token/s 推理",
+          "title_zh": "在 M1 Max 上运行 2.8T 参数的 Kimi K3：Deltafin 项目实现 0.0687 token/s 推理",
+          "title_ja": "M1 Max で 2.8T パラメーターを使用して Kim K3 を実行: プロジェクト Deltafin は 0.0687 トークン/秒の推論を達成",
+          "title_en": null,
+          "title_original": "在 M1 Max 上运行 2.8T 参数的 Kimi K3：Deltafin 项目实现 0.0687 token/s 推理",
+          "summary": "Deltafin 项目成功在 64 GB M1 Max 上运行了 2.8T 参数的 MoE 模型 Kimi K3，当前中位推理速度为 0.0687 token/s（14.6 秒/token）。完整安装需约 1.7 TB 本地磁盘，流式模式仅需 215 GB 但推理速度降至 3 分钟以上/token。项目提供 OpenAI 兼容 API 服务器，支持聊天和代码补全，但建议客户端超时设为小时级别。",
+          "summary_ja": "Deltafin プロジェクトは、64 GB M1 Max 上で 2.8T パラメーターの MoE モデル Kimi K3 を正常に実行し、現在の推論速度の中央値は 0.0687 トークン/秒 (14.6 秒/トークン) でした。フルインストールには最大 1.7 TB のローカル ディスクが必要ですが、ストリーミング モードでは 215 GB しか必要ありませんが、推論速度はトークンあたり 3 分以上に低下します。このプロジェクトは、チャットとコード補完をサポートする OpenAI 互換 API サーバーを提供しますが、クライアントのタイムアウトを時間レベルに設定することをお勧めします。",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/gavamedia/deltafin",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T02:49:20.833000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7776,
+      "importance": 0.7776,
+      "importance_score": 0.7776,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9888,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T02:49:20.833000Z",
+      "latest_at": "2026-07-29T02:49:20.833000Z",
+      "primary_item": {
+        "id": "9050f0ea5122c836de98467a9c779842d595f3c0",
+        "title": "在 M1 Max 上运行 2.8T 参数的 Kimi K3：Deltafin 项目实现 0.0687 token/s 推理",
+        "title_zh": "在 M1 Max 上运行 2.8T 参数的 Kimi K3：Deltafin 项目实现 0.0687 token/s 推理",
+        "title_ja": "M1 Max で 2.8T パラメーターを使用して Kim K3 を実行: プロジェクト Deltafin は 0.0687 トークン/秒の推論を達成",
+        "title_en": null,
+        "title_original": "在 M1 Max 上运行 2.8T 参数的 Kimi K3：Deltafin 项目实现 0.0687 token/s 推理",
+        "summary": "Deltafin 项目成功在 64 GB M1 Max 上运行了 2.8T 参数的 MoE 模型 Kimi K3，当前中位推理速度为 0.0687 token/s（14.6 秒/token）。完整安装需约 1.7 TB 本地磁盘，流式模式仅需 215 GB 但推理速度降至 3 分钟以上/token。项目提供 OpenAI 兼容 API 服务器，支持聊天和代码补全，但建议客户端超时设为小时级别。",
+        "summary_ja": "Deltafin プロジェクトは、64 GB M1 Max 上で 2.8T パラメーターの MoE モデル Kimi K3 を正常に実行し、現在の推論速度の中央値は 0.0687 トークン/秒 (14.6 秒/トークン) でした。フルインストールには最大 1.7 TB のローカル ディスクが必要ですが、ストリーミング モードでは 215 GB しか必要ありませんが、推論速度はトークンあたり 3 分以上に低下します。このプロジェクトは、チャットとコード補完をサポートする OpenAI 互換 API サーバーを提供しますが、クライアントのタイムアウトを時間レベルに設定することをお勧めします。",
+        "recommend_reason_zh": null,
+        "url": "https://github.com/gavamedia/deltafin",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-29T03:38:00.656611Z"
       }
     },
     {
@@ -848,16 +1029,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7856,
-      "importance": 0.7856,
-      "importance_score": 0.7856,
+      "score": 0.7773,
+      "importance": 0.7773,
+      "importance_score": 0.7773,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9476,
+        "recency": 0.9019,
         "story_heat": 0.0
       },
       "category": "official",
@@ -885,7 +1066,97 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-29T00:11:31.973961Z"
+        "scored_at": "2026-07-29T03:38:00.656611Z"
+      }
+    },
+    {
+      "story_id": "story_f2677af66a35",
+      "title": "1100多名AI员工联名呼吁美国政府控制AI发展速度，OpenAI CEO奥尔特曼表态支持",
+      "title_ja": "1,100人以上のAI従業員が共同で米国政府にAI開発のスピードを管理するよう求め、OpenAIのCEOアルトマン氏も支持を表明",
+      "url": "https://www.ithome.com/0/982/816.htm",
+      "primary_url": "https://www.ithome.com/0/982/816.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5a8238ba1d1119bcc903825877fef30893dff034",
+          "title": "1100多名AI员工联名呼吁美国政府控制AI发展速度，OpenAI CEO奥尔特曼表态支持",
+          "title_zh": "1100多名AI员工联名呼吁美国政府控制AI发展速度，OpenAI CEO奥尔特曼表态支持",
+          "title_ja": "1,100人以上のAI従業員が共同で米国政府にAI開発のスピードを管理するよう求め、OpenAIのCEOアルトマン氏も支持を表明",
+          "title_en": null,
+          "title_original": "1100多名AI员工联名呼吁美国政府控制AI发展速度，OpenAI CEO奥尔特曼表态支持",
+          "summary": "OpenAI、Anthropic、谷歌和Meta等公司的1100多名AI员工签署公开信，呼吁美国政府支持国际合作，以\"有意识地把控自动化AI开发的前沿进程\"。该倡议名为\"把控前沿\"，重点关注AI未来可能自行开发和改进AI系统的\"递归式自我改进\"能力。OpenAI CEO萨姆·奥尔特曼在播客采访中表示，可能需要\"把控\"AI发展速度，让社会有时间建立防护机制。",
+          "summary_ja": "OpenAI、Anthropic、Google、Metaなどの企業のAI従業員1,100人以上が、「自動化されたAI開発の最先端プロセスを意識的に制御する」ための国際協力を支援するよう米国政府に求める公開書簡に署名した。 「Controlling the Frontier」と呼ばれるこの取り組みは、将来的に AI システムを独自に開発および改善する可能性がある AI の「再帰的自己改善」機能に焦点を当てています。 OpenAIの最高経営責任者（CEO）サム・アルトマン氏はポッドキャストのインタビューで、社会が保護メカニズムを確立する時間を確保するためにAI開発の速度を「制御」する必要があるかもしれないと述べた。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/982/816.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T00:20:32Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "5a8238ba1d1119bcc903825877fef30893dff034",
+          "title": "1100多名AI员工联名呼吁美国政府控制AI发展速度，OpenAI CEO奥尔特曼表态支持",
+          "title_zh": "1100多名AI员工联名呼吁美国政府控制AI发展速度，OpenAI CEO奥尔特曼表态支持",
+          "title_ja": "1,100人以上のAI従業員が共同で米国政府にAI開発のスピードを管理するよう求め、OpenAIのCEOアルトマン氏も支持を表明",
+          "title_en": null,
+          "title_original": "1100多名AI员工联名呼吁美国政府控制AI发展速度，OpenAI CEO奥尔特曼表态支持",
+          "summary": "OpenAI、Anthropic、谷歌和Meta等公司的1100多名AI员工签署公开信，呼吁美国政府支持国际合作，以\"有意识地把控自动化AI开发的前沿进程\"。该倡议名为\"把控前沿\"，重点关注AI未来可能自行开发和改进AI系统的\"递归式自我改进\"能力。OpenAI CEO萨姆·奥尔特曼在播客采访中表示，可能需要\"把控\"AI发展速度，让社会有时间建立防护机制。",
+          "summary_ja": "OpenAI、Anthropic、Google、Metaなどの企業のAI従業員1,100人以上が、「自動化されたAI開発の最先端プロセスを意識的に制御する」ための国際協力を支援するよう米国政府に求める公開書簡に署名した。 「Controlling the Frontier」と呼ばれるこの取り組みは、将来的に AI システムを独自に開発および改善する可能性がある AI の「再帰的自己改善」機能に焦点を当てています。 OpenAIの最高経営責任者（CEO）サム・アルトマン氏はポッドキャストのインタビューで、社会が保護メカニズムを確立する時間を確保するためにAI開発の速度を「制御」する必要があるかもしれないと述べた。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/982/816.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T00:20:32Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7743,
+      "importance": 0.7743,
+      "importance_score": 0.7743,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.954,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T00:20:32Z",
+      "latest_at": "2026-07-29T00:20:32Z",
+      "primary_item": {
+        "id": "5a8238ba1d1119bcc903825877fef30893dff034",
+        "title": "1100多名AI员工联名呼吁美国政府控制AI发展速度，OpenAI CEO奥尔特曼表态支持",
+        "title_zh": "1100多名AI员工联名呼吁美国政府控制AI发展速度，OpenAI CEO奥尔特曼表态支持",
+        "title_ja": "1,100人以上のAI従業員が共同で米国政府にAI開発のスピードを管理するよう求め、OpenAIのCEOアルトマン氏も支持を表明",
+        "title_en": null,
+        "title_original": "1100多名AI员工联名呼吁美国政府控制AI发展速度，OpenAI CEO奥尔特曼表态支持",
+        "summary": "OpenAI、Anthropic、谷歌和Meta等公司的1100多名AI员工签署公开信，呼吁美国政府支持国际合作，以\"有意识地把控自动化AI开发的前沿进程\"。该倡议名为\"把控前沿\"，重点关注AI未来可能自行开发和改进AI系统的\"递归式自我改进\"能力。OpenAI CEO萨姆·奥尔特曼在播客采访中表示，可能需要\"把控\"AI发展速度，让社会有时间建立防护机制。",
+        "summary_ja": "OpenAI、Anthropic、Google、Metaなどの企業のAI従業員1,100人以上が、「自動化されたAI開発の最先端プロセスを意識的に制御する」ための国際協力を支援するよう米国政府に求める公開書簡に署名した。 「Controlling the Frontier」と呼ばれるこの取り組みは、将来的に AI システムを独自に開発および改善する可能性がある AI の「再帰的自己改善」機能に焦点を当てています。 OpenAIの最高経営責任者（CEO）サム・アルトマン氏はポッドキャストのインタビューで、社会が保護メカニズムを確立する時間を確保するためにAI開発の速度を「制御」する必要があるかもしれないと述べた。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/0/982/816.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-29T03:38:00.656611Z"
       }
     },
     {
@@ -938,16 +1209,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8406,
-      "importance": 0.8406,
-      "importance_score": 0.8406,
+      "score": 0.832,
+      "importance": 0.832,
+      "importance_score": 0.832,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9808,
+        "recency": 0.9335,
         "story_heat": 0.0
       },
       "category": "official",
@@ -976,7 +1247,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-29T00:11:31.973961Z"
+        "scored_at": "2026-07-29T03:38:00.656611Z"
       }
     },
     {
@@ -1029,16 +1300,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7798,
-      "importance": 0.7798,
-      "importance_score": 0.7798,
+      "score": 0.7713,
+      "importance": 0.7713,
+      "importance_score": 0.7713,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9846,
+        "recency": 0.937,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1066,7 +1337,97 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-29T00:11:31.973961Z"
+        "scored_at": "2026-07-29T03:38:00.656611Z"
+      }
+    },
+    {
+      "story_id": "story_53ee7af07f48",
+      "title": "1100 名AI员工联名上书华盛顿：是时候给AI开发踩刹车了",
+      "title_ja": "AI従業員1,100人がワシントン宛ての書簡に署名：AI開発にブレーキをかける時が来た",
+      "url": "https://www.aibase.com/news/29960",
+      "primary_url": "https://www.aibase.com/news/29960",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "559f899a8ac2ea137e29d2b5c629b4431a3c0755",
+          "title": "1100 名AI员工联名上书华盛顿：是时候给AI开发踩刹车了",
+          "title_zh": "1100 名AI员工联名上书华盛顿：是时候给AI开发踩刹车了",
+          "title_ja": "AI従業員1,100人がワシントン宛ての書簡に署名：AI開発にブレーキをかける時が来た",
+          "title_en": null,
+          "title_original": "1100 名AI员工联名上书华盛顿：是时候给AI开发踩刹车了",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/29960",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-29T03:36:10.730444Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "559f899a8ac2ea137e29d2b5c629b4431a3c0755",
+          "title": "1100 名AI员工联名上书华盛顿：是时候给AI开发踩刹车了",
+          "title_zh": "1100 名AI员工联名上书华盛顿：是时候给AI开发踩刹车了",
+          "title_ja": "AI従業員1,100人がワシントン宛ての書簡に署名：AI開発にブレーキをかける時が来た",
+          "title_en": null,
+          "title_original": "1100 名AI员工联名上书华盛顿：是时候给AI开发踩刹车了",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/29960",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-29T03:36:10.730444Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T03:36:10.730444Z",
+      "latest_at": "2026-07-29T03:36:10.730444Z",
+      "primary_item": {
+        "id": "559f899a8ac2ea137e29d2b5c629b4431a3c0755",
+        "title": "1100 名AI员工联名上书华盛顿：是时候给AI开发踩刹车了",
+        "title_zh": "1100 名AI员工联名上书华盛顿：是时候给AI开发踩刹车了",
+        "title_ja": "AI従業員1,100人がワシントン宛ての書簡に署名：AI開発にブレーキをかける時が来た",
+        "title_en": null,
+        "title_original": "1100 名AI员工联名上书华盛顿：是时候给AI开发踩刹车了",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/29960",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-29T03:38:00.656611Z"
       }
     },
     {
@@ -1119,16 +1480,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7759,
-      "importance": 0.7759,
-      "importance_score": 0.7759,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.946,
+        "recency": 0.9003,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1156,7 +1517,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-29T00:11:31.973961Z"
+        "scored_at": "2026-07-29T03:38:00.656611Z"
       }
     },
     {
@@ -1209,16 +1570,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7738,
-      "importance": 0.7738,
-      "importance_score": 0.7738,
+      "score": 0.7654,
+      "importance": 0.7654,
+      "importance_score": 0.7654,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.968,
+        "recency": 0.9212,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1246,7 +1607,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-29T00:11:31.973961Z"
+        "scored_at": "2026-07-29T03:38:00.656611Z"
       }
     },
     {
@@ -1299,16 +1660,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7731,
-      "importance": 0.7731,
-      "importance_score": 0.7731,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9308,
+        "recency": 0.8858,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1336,7 +1697,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-29T00:11:31.973961Z"
+        "scored_at": "2026-07-29T03:38:00.656611Z"
       }
     },
     {
@@ -1389,16 +1750,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7704,
-      "importance": 0.7704,
-      "importance_score": 0.7704,
+      "score": 0.7629,
+      "importance": 0.7629,
+      "importance_score": 0.7629,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8634,
+        "recency": 0.8217,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1426,7 +1787,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-29T00:11:31.973961Z"
+        "scored_at": "2026-07-29T03:38:00.656611Z"
       }
     },
     {
@@ -1479,16 +1840,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7638,
-      "importance": 0.7638,
-      "importance_score": 0.7638,
+      "score": 0.7556,
+      "importance": 0.7556,
+      "importance_score": 0.7556,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9454,
+        "recency": 0.8997,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1516,402 +1877,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-29T00:11:31.973961Z"
-      }
-    },
-    {
-      "story_id": "story_91ce9044f408",
-      "title": "OpenAI 呼吁为前沿AI发展设定节奏 / At the core of our mission is working through how to ensure increasingly powerful AI benefits everyo…",
-      "title_ja": "私たちの使命の中核は、ますます強力な AI がすべての人に確実に利益をもたらす方法を検討することです。",
-      "url": "https://x.com/OpenAI/status/2082208694142730340",
-      "primary_url": "https://x.com/OpenAI/status/2082208694142730340",
-      "source": "X：OpenAI (@OpenAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "3aaec3a0b4eb7c57f192327215bfb745662faed1",
-          "title": "OpenAI 呼吁为前沿AI发展设定节奏 / At the core of our mission is working through how to ensure increasingly powerful AI benefits everyo…",
-          "title_zh": "OpenAI 呼吁为前沿AI发展设定节奏",
-          "title_ja": "私たちの使命の中核は、ますます強力な AI がすべての人に確実に利益をもたらす方法を検討することです。",
-          "title_en": "At the core of our mission is working through how to ensure increasingly powerful AI benefits everyo…",
-          "title_original": "At the core of our mission is working through how to ensure increasingly powerful AI benefits everyo…",
-          "summary": "我们使命的核心，是研究如何确保日益强大的AI惠及所有人。\n\n我们相信，在未来的某个时刻，前沿模型开发的AI加速可能会如此之快，以至于世界需要为AI进步设定节奏。\n\n我们希望为美国政府主导的工作做出贡献，并与其他实验室及开源社区合作，开发能够实现这一目标的工具和机制。\n\nhttp://pacingthefrontier.com",
-          "summary_ja": "私たちの使命の中核は、ますます強力になる AI がすべての人に確実に利益をもたらす方法を研究することです。\n\n私たちは、将来のある時点で、最先端のモデル開発における AI の加速が非常に急速になり、世界が AI の進歩のペースを設定する必要があると考えています。\n\n私たちは、米国政府主導の取り組みに貢献し、他の研究所やオープンソース コミュニティと協力して、この目標を達成できるツールやメカニズムを開発したいと考えています。\n\nhttp://pacingthefrontier.com",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/OpenAI/status/2082208694142730340",
-          "source": "X：OpenAI (@OpenAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T20:56:52Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenAI (@OpenAI)"
-      ],
-      "items": [
-        {
-          "id": "3aaec3a0b4eb7c57f192327215bfb745662faed1",
-          "title": "OpenAI 呼吁为前沿AI发展设定节奏 / At the core of our mission is working through how to ensure increasingly powerful AI benefits everyo…",
-          "title_zh": "OpenAI 呼吁为前沿AI发展设定节奏",
-          "title_ja": "私たちの使命の中核は、ますます強力な AI がすべての人に確実に利益をもたらす方法を検討することです。",
-          "title_en": "At the core of our mission is working through how to ensure increasingly powerful AI benefits everyo…",
-          "title_original": "At the core of our mission is working through how to ensure increasingly powerful AI benefits everyo…",
-          "summary": "我们使命的核心，是研究如何确保日益强大的AI惠及所有人。\n\n我们相信，在未来的某个时刻，前沿模型开发的AI加速可能会如此之快，以至于世界需要为AI进步设定节奏。\n\n我们希望为美国政府主导的工作做出贡献，并与其他实验室及开源社区合作，开发能够实现这一目标的工具和机制。\n\nhttp://pacingthefrontier.com",
-          "summary_ja": "私たちの使命の中核は、ますます強力になる AI がすべての人に確実に利益をもたらす方法を研究することです。\n\n私たちは、将来のある時点で、最先端のモデル開発における AI の加速が非常に急速になり、世界が AI の進歩のペースを設定する必要があると考えています。\n\n私たちは、米国政府主導の取り組みに貢献し、他の研究所やオープンソース コミュニティと協力して、この目標を達成できるツールやメカニズムを開発したいと考えています。\n\nhttp://pacingthefrontier.com",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/OpenAI/status/2082208694142730340",
-          "source": "X：OpenAI (@OpenAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T20:56:52Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7624,
-      "importance": 0.7624,
-      "importance_score": 0.7624,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9545,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-28T20:56:52Z",
-      "latest_at": "2026-07-28T20:56:52Z",
-      "primary_item": {
-        "id": "3aaec3a0b4eb7c57f192327215bfb745662faed1",
-        "title": "OpenAI 呼吁为前沿AI发展设定节奏 / At the core of our mission is working through how to ensure increasingly powerful AI benefits everyo…",
-        "title_zh": "OpenAI 呼吁为前沿AI发展设定节奏",
-        "title_ja": "私たちの使命の中核は、ますます強力な AI がすべての人に確実に利益をもたらす方法を検討することです。",
-        "title_en": "At the core of our mission is working through how to ensure increasingly powerful AI benefits everyo…",
-        "title_original": "At the core of our mission is working through how to ensure increasingly powerful AI benefits everyo…",
-        "summary": "我们使命的核心，是研究如何确保日益强大的AI惠及所有人。\n\n我们相信，在未来的某个时刻，前沿模型开发的AI加速可能会如此之快，以至于世界需要为AI进步设定节奏。\n\n我们希望为美国政府主导的工作做出贡献，并与其他实验室及开源社区合作，开发能够实现这一目标的工具和机制。\n\nhttp://pacingthefrontier.com",
-        "summary_ja": "私たちの使命の中核は、ますます強力になる AI がすべての人に確実に利益をもたらす方法を研究することです。\n\n私たちは、将来のある時点で、最先端のモデル開発における AI の加速が非常に急速になり、世界が AI の進歩のペースを設定する必要があると考えています。\n\n私たちは、米国政府主導の取り組みに貢献し、他の研究所やオープンソース コミュニティと協力して、この目標を達成できるツールやメカニズムを開発したいと考えています。\n\nhttp://pacingthefrontier.com",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/OpenAI/status/2082208694142730340",
-        "source": "X：OpenAI (@OpenAI)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-29T00:11:31.973961Z"
-      }
-    },
-    {
-      "story_id": "story_f76284dbfab9",
-      "title": "火山引擎上线豆包搜索服务，为AI Agent提供可信联网检索能力",
-      "title_ja": "Volcano Engine が AI エージェントに信頼できるインターネット検索機能を提供する beanbao 検索サービスを開始",
-      "url": "https://www.aibase.com/news/29952",
-      "primary_url": "https://www.aibase.com/news/29952",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3439b8a22f15e9a5ef4507a5bee52ca2b59efac3",
-          "title": "火山引擎上线豆包搜索服务，为AI Agent提供可信联网检索能力",
-          "title_zh": "火山引擎上线豆包搜索服务，为AI Agent提供可信联网检索能力",
-          "title_ja": "Volcano Engine が AI エージェントに信頼できるインターネット検索機能を提供する beanbao 検索サービスを開始",
-          "title_en": null,
-          "title_original": "火山引擎上线豆包搜索服务，为AI Agent提供可信联网检索能力",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29952",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-28T09:46:31.858861Z"
-        },
-        {
-          "id": "edff36dfd13787d530ca88a7f63dbb8952b3147c",
-          "title": "火山引擎上线豆包搜索服务，为AI Agent提供实时可信搜索能力",
-          "title_zh": "火山引擎上线豆包搜索服务，为AI Agent提供实时可信搜索能力",
-          "title_ja": "Volcano Engine が AI エージェントにリアルタイムの信頼できる検索機能を提供する beanbao 検索サービスを開始",
-          "title_en": null,
-          "title_original": "火山引擎上线豆包搜索服务，为AI Agent提供实时可信搜索能力",
-          "summary": "火山引擎正式上线豆包搜索服务，为AI Agent提供跨语言、多模态、多垂类联网信息查询，融合全域互联网信息、行业知识与字节跳动独家内容资源。该服务从网站站点和创作者维度建立权威分级体系，过滤低质信息，在SimpleQA、FreshQA、BrowseComp-ZH等评测中表现优异。豆包搜索支持API、Skill、MCP等多种接入形态，面向企业和开发者提供每月500次免费搜索额度。",
-          "summary_ja": "Volcano Engine は Doubao 検索サービスを正式に開始し、AI エージェントにクロス言語、マルチモーダル、マルチカテゴリのインターネット情報クエリを提供し、グローバルなインターネット情報、業界知識、ByteDance の独占的なコンテンツ リソースを統合しました。このサービスは、Web サイトとクリエイターの次元から権威あるグレーディング システムを確立し、低品質の情報をフィルタリングし、SimpleQA、FreshQA、BrowseComp-ZH およびその他の評価で優れたパフォーマンスを発揮します。 Doubao Search は、API、スキル、MCP などの複数のアクセス形式をサポートしており、企業や開発者に月あたり 500 件の無料検索を提供します。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s/1nZqQHYqclsIF6__WLscgA",
-          "source": "公众号：火山引擎",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T07:51:54Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "公众号：火山引擎"
-      ],
-      "items": [
-        {
-          "id": "3439b8a22f15e9a5ef4507a5bee52ca2b59efac3",
-          "title": "火山引擎上线豆包搜索服务，为AI Agent提供可信联网检索能力",
-          "title_zh": "火山引擎上线豆包搜索服务，为AI Agent提供可信联网检索能力",
-          "title_ja": "Volcano Engine が AI エージェントに信頼できるインターネット検索機能を提供する beanbao 検索サービスを開始",
-          "title_en": null,
-          "title_original": "火山引擎上线豆包搜索服务，为AI Agent提供可信联网检索能力",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29952",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-28T09:46:31.858861Z"
-        },
-        {
-          "id": "edff36dfd13787d530ca88a7f63dbb8952b3147c",
-          "title": "火山引擎上线豆包搜索服务，为AI Agent提供实时可信搜索能力",
-          "title_zh": "火山引擎上线豆包搜索服务，为AI Agent提供实时可信搜索能力",
-          "title_ja": "Volcano Engine が AI エージェントにリアルタイムの信頼できる検索機能を提供する beanbao 検索サービスを開始",
-          "title_en": null,
-          "title_original": "火山引擎上线豆包搜索服务，为AI Agent提供实时可信搜索能力",
-          "summary": "火山引擎正式上线豆包搜索服务，为AI Agent提供跨语言、多模态、多垂类联网信息查询，融合全域互联网信息、行业知识与字节跳动独家内容资源。该服务从网站站点和创作者维度建立权威分级体系，过滤低质信息，在SimpleQA、FreshQA、BrowseComp-ZH等评测中表现优异。豆包搜索支持API、Skill、MCP等多种接入形态，面向企业和开发者提供每月500次免费搜索额度。",
-          "summary_ja": "Volcano Engine は Doubao 検索サービスを正式に開始し、AI エージェントにクロス言語、マルチモーダル、マルチカテゴリのインターネット情報クエリを提供し、グローバルなインターネット情報、業界知識、ByteDance の独占的なコンテンツ リソースを統合しました。このサービスは、Web サイトとクリエイターの次元から権威あるグレーディング システムを確立し、低品質の情報をフィルタリングし、SimpleQA、FreshQA、BrowseComp-ZH およびその他の評価で優れたパフォーマンスを発揮します。 Doubao Search は、API、スキル、MCP などの複数のアクセス形式をサポートしており、企業や開発者に月あたり 500 件の無料検索を提供します。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s/1nZqQHYqclsIF6__WLscgA",
-          "source": "公众号：火山引擎",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T07:51:54Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7588,
-      "importance": 0.7588,
-      "importance_score": 0.7588,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8123,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-28T07:51:54Z",
-      "latest_at": "2026-07-28T09:46:31.858861Z",
-      "primary_item": {
-        "id": "3439b8a22f15e9a5ef4507a5bee52ca2b59efac3",
-        "title": "火山引擎上线豆包搜索服务，为AI Agent提供可信联网检索能力",
-        "title_zh": "火山引擎上线豆包搜索服务，为AI Agent提供可信联网检索能力",
-        "title_ja": "Volcano Engine が AI エージェントに信頼できるインターネット検索機能を提供する beanbao 検索サービスを開始",
-        "title_en": null,
-        "title_original": "火山引擎上线豆包搜索服务，为AI Agent提供可信联网检索能力",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/29952",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-29T00:11:31.973961Z"
-      }
-    },
-    {
-      "story_id": "story_06bd8c7601c9",
-      "title": "Kimi Linear：一种表现力强且高效的注意力架构",
-      "title_ja": "Kim Linear: 表現力豊かで効率的な注意アーキテクチャ",
-      "url": "https://arxiv.org/abs/2510.26692",
-      "primary_url": "https://arxiv.org/abs/2510.26692",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "38111d2f4a886a6aa3d805b0feecfab85dc5f869",
-          "title": "Kimi Linear：一种表现力强且高效的注意力架构",
-          "title_zh": "Kimi Linear：一种表现力强且高效的注意力架构",
-          "title_ja": "Kim Linear: 表現力豊かで効率的な注意アーキテクチャ",
-          "title_en": null,
-          "title_original": "Kimi Linear：一种表现力强且高效的注意力架构",
-          "summary": "月之暗面推出 Kimi Linear，一种混合线性注意力架构，首次在短上下文、长上下文和强化学习场景下全面超越全注意力机制。其 3B 激活参数模型在所有评估任务上显著优于全 MLA，同时将 KV cache 使用量降低最多 75%，并在 1M 上下文下实现最高 6 倍解码吞吐量。月之暗面已开源 KDA 内核、vLLM 实现及模型权重。",
-          "summary_ja": "Dark Side of the Moon は、ショート コンテキスト、ロング コンテキスト、強化学習シナリオにおいて初めて完全なアテンション メカニズムを包括的に超えるハイブリッド リニア アテンション アーキテクチャである キミ リニアを開始します。その 3B アクティベーション パラメータ モデルは、すべての評価タスクで完全な MLA を大幅に上回り、KV キャッシュの使用量を最大 75% 削減し、1M コンテキストで最大 6 倍のデコード スループットを達成します。 Dark Side of the Moon は、KDA カーネル、vLLM 実装、およびモデルの重みをオープンソース化しました。",
-          "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2510.26692",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T15:21:28.545000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "38111d2f4a886a6aa3d805b0feecfab85dc5f869",
-          "title": "Kimi Linear：一种表现力强且高效的注意力架构",
-          "title_zh": "Kimi Linear：一种表现力强且高效的注意力架构",
-          "title_ja": "Kim Linear: 表現力豊かで効率的な注意アーキテクチャ",
-          "title_en": null,
-          "title_original": "Kimi Linear：一种表现力强且高效的注意力架构",
-          "summary": "月之暗面推出 Kimi Linear，一种混合线性注意力架构，首次在短上下文、长上下文和强化学习场景下全面超越全注意力机制。其 3B 激活参数模型在所有评估任务上显著优于全 MLA，同时将 KV cache 使用量降低最多 75%，并在 1M 上下文下实现最高 6 倍解码吞吐量。月之暗面已开源 KDA 内核、vLLM 实现及模型权重。",
-          "summary_ja": "Dark Side of the Moon は、ショート コンテキスト、ロング コンテキスト、強化学習シナリオにおいて初めて完全なアテンション メカニズムを包括的に超えるハイブリッド リニア アテンション アーキテクチャである キミ リニアを開始します。その 3B アクティベーション パラメータ モデルは、すべての評価タスクで完全な MLA を大幅に上回り、KV キャッシュの使用量を最大 75% 削減し、1M コンテキストで最大 6 倍のデコード スループットを達成します。 Dark Side of the Moon は、KDA カーネル、vLLM 実装、およびモデルの重みをオープンソース化しました。",
-          "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2510.26692",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T15:21:28.545000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7581,
-      "importance": 0.7581,
-      "importance_score": 0.7581,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8805,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-28T15:21:28.545000Z",
-      "latest_at": "2026-07-28T15:21:28.545000Z",
-      "primary_item": {
-        "id": "38111d2f4a886a6aa3d805b0feecfab85dc5f869",
-        "title": "Kimi Linear：一种表现力强且高效的注意力架构",
-        "title_zh": "Kimi Linear：一种表现力强且高效的注意力架构",
-        "title_ja": "Kim Linear: 表現力豊かで効率的な注意アーキテクチャ",
-        "title_en": null,
-        "title_original": "Kimi Linear：一种表现力强且高效的注意力架构",
-        "summary": "月之暗面推出 Kimi Linear，一种混合线性注意力架构，首次在短上下文、长上下文和强化学习场景下全面超越全注意力机制。其 3B 激活参数模型在所有评估任务上显著优于全 MLA，同时将 KV cache 使用量降低最多 75%，并在 1M 上下文下实现最高 6 倍解码吞吐量。月之暗面已开源 KDA 内核、vLLM 实现及模型权重。",
-        "summary_ja": "Dark Side of the Moon は、ショート コンテキスト、ロング コンテキスト、強化学習シナリオにおいて初めて完全なアテンション メカニズムを包括的に超えるハイブリッド リニア アテンション アーキテクチャである キミ リニアを開始します。その 3B アクティベーション パラメータ モデルは、すべての評価タスクで完全な MLA を大幅に上回り、KV キャッシュの使用量を最大 75% 削減し、1M コンテキストで最大 6 倍のデコード スループットを達成します。 Dark Side of the Moon は、KDA カーネル、vLLM 実装、およびモデルの重みをオープンソース化しました。",
-        "recommend_reason_zh": null,
-        "url": "https://arxiv.org/abs/2510.26692",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-29T00:11:31.973961Z"
-      }
-    },
-    {
-      "story_id": "story_75d8461ce8af",
-      "title": "使用 Google 搜索举办终极晚宴的 5 种方法 / 5 ways to host the ultimate dinner party with Google Search",
-      "title_ja": "Google 検索を使って究極のディナー パーティーを主催する 5 つの方法",
-      "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips",
-      "primary_url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5820a57711751b38d3010a78d278919ede882183",
-          "title": "使用 Google 搜索举办终极晚宴的 5 种方法 / 5 ways to host the ultimate dinner party with Google Search",
-          "title_zh": "使用 Google 搜索举办终极晚宴的 5 种方法",
-          "title_ja": "Google 検索を使って究極のディナー パーティーを主催する 5 つの方法",
-          "title_en": "5 ways to host the ultimate dinner party with Google Search",
-          "title_original": "5 ways to host the ultimate dinner party with Google Search",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T13:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "5820a57711751b38d3010a78d278919ede882183",
-          "title": "使用 Google 搜索举办终极晚宴的 5 种方法 / 5 ways to host the ultimate dinner party with Google Search",
-          "title_zh": "使用 Google 搜索举办终极晚宴的 5 种方法",
-          "title_ja": "Google 検索を使って究極のディナー パーティーを主催する 5 つの方法",
-          "title_en": "5 ways to host the ultimate dinner party with Google Search",
-          "title_original": "5 ways to host the ultimate dinner party with Google Search",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T13:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8172,
-      "importance": 0.8172,
-      "importance_score": 0.8172,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.851,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-28T13:00:00Z",
-      "latest_at": "2026-07-28T13:00:00Z",
-      "primary_item": {
-        "id": "5820a57711751b38d3010a78d278919ede882183",
-        "title": "使用 Google 搜索举办终极晚宴的 5 种方法 / 5 ways to host the ultimate dinner party with Google Search",
-        "title_zh": "使用 Google 搜索举办终极晚宴的 5 种方法",
-        "title_ja": "Google 検索を使って究極のディナー パーティーを主催する 5 つの方法",
-        "title_en": "5 ways to host the ultimate dinner party with Google Search",
-        "title_original": "5 ways to host the ultimate dinner party with Google Search",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-29T00:11:31.973961Z"
+        "scored_at": "2026-07-29T03:38:00.656611Z"
       }
     }
   ]
