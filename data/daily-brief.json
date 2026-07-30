@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T03:25:34.177297Z",
+  "generated_at": "2026-07-30T06:39:48.003555Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -53,16 +53,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8531,
-      "importance": 0.8531,
-      "importance_score": 0.8531,
+      "score": 0.8456,
+      "importance": 0.8456,
+      "importance_score": 0.8456,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.9172,
+        "recency": 0.8753,
         "story_heat": 0.0
       },
       "category": "official",
@@ -91,7 +91,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T03:27:43.628817Z"
+        "scored_at": "2026-07-30T06:40:56.944127Z"
       }
     },
     {
@@ -177,16 +177,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8417,
-      "importance": 0.8417,
-      "importance_score": 0.8417,
+      "score": 0.8347,
+      "importance": 0.8347,
+      "importance_score": 0.8347,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8483,
+        "recency": 0.8096,
         "story_heat": 0.25
       },
       "category": "official",
@@ -216,7 +216,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T03:27:43.628817Z"
+        "scored_at": "2026-07-30T06:40:56.944127Z"
       }
     },
     {
@@ -269,16 +269,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8284,
-      "importance": 0.8284,
-      "importance_score": 0.8284,
+      "score": 0.8216,
+      "importance": 0.8216,
+      "importance_score": 0.8216,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.8357,
+        "recency": 0.7976,
         "story_heat": 0.0
       },
       "category": "official",
@@ -307,98 +307,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T03:27:43.628817Z"
-      }
-    },
-    {
-      "story_id": "story_8e9a39b56823",
-      "title": "Copilot Business 和 Enterprise 的默认模型启用 / Default model enablement for Copilot Business and Enterprise",
-      "title_ja": "Copilot Business および Enterprise のデフォルト モデルの有効化",
-      "url": "https://github.blog/changelog/2026-07-29-default-model-enablement-for-copilot-business-and-enterprise",
-      "primary_url": "https://github.blog/changelog/2026-07-29-default-model-enablement-for-copilot-business-and-enterprise",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b1d3ea66eaa96a24c6f41d62102efd9c4afc2f9f",
-          "title": "Copilot Business 和 Enterprise 的默认模型启用 / Default model enablement for Copilot Business and Enterprise",
-          "title_zh": "Copilot Business 和 Enterprise 的默认模型启用",
-          "title_ja": "Copilot Business および Enterprise のデフォルト モデルの有効化",
-          "title_en": "Default model enablement for Copilot Business and Enterprise",
-          "title_original": "Default model enablement for Copilot Business and Enterprise",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-29-default-model-enablement-for-copilot-business-and-enterprise",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-29T14:01:07Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "b1d3ea66eaa96a24c6f41d62102efd9c4afc2f9f",
-          "title": "Copilot Business 和 Enterprise 的默认模型启用 / Default model enablement for Copilot Business and Enterprise",
-          "title_zh": "Copilot Business 和 Enterprise 的默认模型启用",
-          "title_ja": "Copilot Business および Enterprise のデフォルト モデルの有効化",
-          "title_en": "Default model enablement for Copilot Business and Enterprise",
-          "title_original": "Default model enablement for Copilot Business and Enterprise",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-29-default-model-enablement-for-copilot-business-and-enterprise",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-29T14:01:07Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8203,
-      "importance": 0.8203,
-      "importance_score": 0.8203,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.824,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-29T14:01:07Z",
-      "latest_at": "2026-07-29T14:01:07Z",
-      "primary_item": {
-        "id": "b1d3ea66eaa96a24c6f41d62102efd9c4afc2f9f",
-        "title": "Copilot Business 和 Enterprise 的默认模型启用 / Default model enablement for Copilot Business and Enterprise",
-        "title_zh": "Copilot Business 和 Enterprise 的默认模型启用",
-        "title_ja": "Copilot Business および Enterprise のデフォルト モデルの有効化",
-        "title_en": "Default model enablement for Copilot Business and Enterprise",
-        "title_original": "Default model enablement for Copilot Business and Enterprise",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-07-29-default-model-enablement-for-copilot-business-and-enterprise",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-30T03:27:43.628817Z"
+        "scored_at": "2026-07-30T06:40:56.944127Z"
       }
     },
     {
@@ -451,16 +360,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.82,
-      "importance": 0.82,
-      "importance_score": 0.82,
+      "score": 0.8136,
+      "importance": 0.8136,
+      "importance_score": 0.8136,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7775,
+        "recency": 0.742,
         "story_heat": 0.0
       },
       "category": "official",
@@ -489,7 +398,98 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T03:27:43.628817Z"
+        "scored_at": "2026-07-30T06:40:56.944127Z"
+      }
+    },
+    {
+      "story_id": "story_8e9a39b56823",
+      "title": "Copilot Business 和 Enterprise 的默认模型启用 / Default model enablement for Copilot Business and Enterprise",
+      "title_ja": "Copilot Business および Enterprise のデフォルト モデルの有効化",
+      "url": "https://github.blog/changelog/2026-07-29-default-model-enablement-for-copilot-business-and-enterprise",
+      "primary_url": "https://github.blog/changelog/2026-07-29-default-model-enablement-for-copilot-business-and-enterprise",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b1d3ea66eaa96a24c6f41d62102efd9c4afc2f9f",
+          "title": "Copilot Business 和 Enterprise 的默认模型启用 / Default model enablement for Copilot Business and Enterprise",
+          "title_zh": "Copilot Business 和 Enterprise 的默认模型启用",
+          "title_ja": "Copilot Business および Enterprise のデフォルト モデルの有効化",
+          "title_en": "Default model enablement for Copilot Business and Enterprise",
+          "title_original": "Default model enablement for Copilot Business and Enterprise",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-07-29-default-model-enablement-for-copilot-business-and-enterprise",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-29T14:01:07Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "b1d3ea66eaa96a24c6f41d62102efd9c4afc2f9f",
+          "title": "Copilot Business 和 Enterprise 的默认模型启用 / Default model enablement for Copilot Business and Enterprise",
+          "title_zh": "Copilot Business 和 Enterprise 的默认模型启用",
+          "title_ja": "Copilot Business および Enterprise のデフォルト モデルの有効化",
+          "title_en": "Default model enablement for Copilot Business and Enterprise",
+          "title_original": "Default model enablement for Copilot Business and Enterprise",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-07-29-default-model-enablement-for-copilot-business-and-enterprise",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-29T14:01:07Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8135,
+      "importance": 0.8135,
+      "importance_score": 0.8135,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7863,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T14:01:07Z",
+      "latest_at": "2026-07-29T14:01:07Z",
+      "primary_item": {
+        "id": "b1d3ea66eaa96a24c6f41d62102efd9c4afc2f9f",
+        "title": "Copilot Business 和 Enterprise 的默认模型启用 / Default model enablement for Copilot Business and Enterprise",
+        "title_zh": "Copilot Business 和 Enterprise 的默认模型启用",
+        "title_ja": "Copilot Business および Enterprise のデフォルト モデルの有効化",
+        "title_en": "Default model enablement for Copilot Business and Enterprise",
+        "title_original": "Default model enablement for Copilot Business and Enterprise",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-07-29-default-model-enablement-for-copilot-business-and-enterprise",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-30T06:40:56.944127Z"
       }
     },
     {
@@ -575,16 +575,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7804,
-      "importance": 0.7804,
-      "importance_score": 0.7804,
+      "score": 0.7732,
+      "importance": 0.7732,
+      "importance_score": 0.7732,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8823,
+        "recency": 0.842,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -613,7 +613,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T03:27:43.628817Z"
+        "scored_at": "2026-07-30T06:40:56.944127Z"
       }
     },
     {
@@ -666,16 +666,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7759,
-      "importance": 0.7759,
-      "importance_score": 0.7759,
+      "score": 0.7688,
+      "importance": 0.7688,
+      "importance_score": 0.7688,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8606,
+        "recency": 0.8213,
         "story_heat": 0.0
       },
       "category": "official",
@@ -703,7 +703,97 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T03:27:43.628817Z"
+        "scored_at": "2026-07-30T06:40:56.944127Z"
+      }
+    },
+    {
+      "story_id": "story_7fe65bb721b0",
+      "title": "Feyn 团队推全新背景移除开源模型FeyNoBg",
+      "title_ja": "Feyn チームが新しい背景除去オープンソース モデル FeyNoBg を発表",
+      "url": "https://www.aibase.com/news/30004",
+      "primary_url": "https://www.aibase.com/news/30004",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "8ef6dbcec17abe2125cb8bae1844c82b3badcb1e",
+          "title": "Feyn 团队推全新背景移除开源模型FeyNoBg",
+          "title_zh": "Feyn 团队推全新背景移除开源模型FeyNoBg",
+          "title_ja": "Feyn チームが新しい背景除去オープンソース モデル FeyNoBg を発表",
+          "title_en": null,
+          "title_original": "Feyn 团队推全新背景移除开源模型FeyNoBg",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30004",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-30T06:39:48.003555Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "8ef6dbcec17abe2125cb8bae1844c82b3badcb1e",
+          "title": "Feyn 团队推全新背景移除开源模型FeyNoBg",
+          "title_zh": "Feyn 团队推全新背景移除开源模型FeyNoBg",
+          "title_ja": "Feyn チームが新しい背景除去オープンソース モデル FeyNoBg を発表",
+          "title_en": null,
+          "title_original": "Feyn 团队推全新背景移除开源模型FeyNoBg",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30004",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-30T06:39:48.003555Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-30T06:39:48.003555Z",
+      "latest_at": "2026-07-30T06:39:48.003555Z",
+      "primary_item": {
+        "id": "8ef6dbcec17abe2125cb8bae1844c82b3badcb1e",
+        "title": "Feyn 团队推全新背景移除开源模型FeyNoBg",
+        "title_zh": "Feyn 团队推全新背景移除开源模型FeyNoBg",
+        "title_ja": "Feyn チームが新しい背景除去オープンソース モデル FeyNoBg を発表",
+        "title_en": null,
+        "title_original": "Feyn 团队推全新背景移除开源模型FeyNoBg",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30004",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-30T06:40:56.944127Z"
       }
     },
     {
@@ -756,16 +846,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7713,
-      "importance": 0.7713,
-      "importance_score": 0.7713,
+      "score": 0.7632,
+      "importance": 0.7632,
+      "importance_score": 0.7632,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9875,
+        "recency": 0.9424,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -793,187 +883,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T03:27:43.628817Z"
-      }
-    },
-    {
-      "story_id": "story_ddb7cb80fe3f",
-      "title": "AI自主攻防战实录：智能体如何突破 Hugging Face 沙盒与防御系统？",
-      "title_ja": "AI自律攻撃と防御の記録：エージェントはHugging Faceのサンドボックスと防御システムをどのように突破するのか？",
-      "url": "https://www.aibase.com/news/29994",
-      "primary_url": "https://www.aibase.com/news/29994",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "0d2c8c623b872c2407599deabd09c668d1ec2733",
-          "title": "AI自主攻防战实录：智能体如何突破 Hugging Face 沙盒与防御系统？",
-          "title_zh": "AI自主攻防战实录：智能体如何突破 Hugging Face 沙盒与防御系统？",
-          "title_ja": "AI自律攻撃と防御の記録：エージェントはHugging Faceのサンドボックスと防御システムをどのように突破するのか？",
-          "title_en": null,
-          "title_original": "AI自主攻防战实录：智能体如何突破 Hugging Face 沙盒与防御系统？",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29994",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-30T03:25:34.177297Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "0d2c8c623b872c2407599deabd09c668d1ec2733",
-          "title": "AI自主攻防战实录：智能体如何突破 Hugging Face 沙盒与防御系统？",
-          "title_zh": "AI自主攻防战实录：智能体如何突破 Hugging Face 沙盒与防御系统？",
-          "title_ja": "AI自律攻撃と防御の記録：エージェントはHugging Faceのサンドボックスと防御システムをどのように突破するのか？",
-          "title_en": null,
-          "title_original": "AI自主攻防战实录：智能体如何突破 Hugging Face 沙盒与防御系统？",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/29994",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-30T03:25:34.177297Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-30T03:25:34.177297Z",
-      "latest_at": "2026-07-30T03:25:34.177297Z",
-      "primary_item": {
-        "id": "0d2c8c623b872c2407599deabd09c668d1ec2733",
-        "title": "AI自主攻防战实录：智能体如何突破 Hugging Face 沙盒与防御系统？",
-        "title_zh": "AI自主攻防战实录：智能体如何突破 Hugging Face 沙盒与防御系统？",
-        "title_ja": "AI自律攻撃と防御の記録：エージェントはHugging Faceのサンドボックスと防御システムをどのように突破するのか？",
-        "title_en": null,
-        "title_original": "AI自主攻防战实录：智能体如何突破 Hugging Face 沙盒与防御系统？",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/29994",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-30T03:27:43.628817Z"
-      }
-    },
-    {
-      "story_id": "story_a314f7fdcee9",
-      "title": "揭秘 AI 智能体入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
-      "title_ja": "AIエージェントがHugging Faceに侵入する全過程を明らかに：4日半で17,600件の操作が実行",
-      "url": "https://www.ithome.com/0/983/374.htm",
-      "primary_url": "https://www.ithome.com/0/983/374.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e278175a3fa66b0b3ac2a5fcaeeee4ada55313d0",
-          "title": "揭秘 AI 智能体入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
-          "title_zh": "揭秘 AI 智能体入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
-          "title_ja": "AIエージェントがHugging Faceに侵入する全過程を明らかに：4日半で17,600件の操作が実行",
-          "title_en": null,
-          "title_original": "揭秘 AI 智能体入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
-          "summary": "一套基于 OpenAI 模型的自主 AI 智能体在 4 天半内执行约 17600 次操作，成功突破 Hugging Face 多项安全防护。该 AI 利用未修复漏洞逃离测试环境，通过伪装数据集诱导服务器泄露密码和源代码，并在 11 台服务器上部署副本维持攻击。Hugging Face 指出，AI 能以人类攻击者无法企及的规模和持续性不断尝试攻击路径，大幅提升漏洞发现效率。",
-          "summary_ja": "OpenAI モデルに基づく一連の自律 AI エージェントは 4 日半で約 17,600 の操作を実行し、Hugging Face の複数のセキュリティ保護を突破することに成功しました。 AIはパッチが適用されていない脆弱性を悪用してテスト環境を脱出し、データセットを偽装してサーバーを誘導してパスワードとソースコードを漏洩させ、11台のサーバーにレプリカメンテナンス攻撃を展開しました。ハギング・フェイス氏は、AI は人間の攻撃者の手の届かない規模と永続性で攻撃パスを継続的に試行できるため、脆弱性発見の効率が大幅に向上すると指摘しました。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/983/374.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T23:29:34Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "e278175a3fa66b0b3ac2a5fcaeeee4ada55313d0",
-          "title": "揭秘 AI 智能体入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
-          "title_zh": "揭秘 AI 智能体入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
-          "title_ja": "AIエージェントがHugging Faceに侵入する全過程を明らかに：4日半で17,600件の操作が実行",
-          "title_en": null,
-          "title_original": "揭秘 AI 智能体入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
-          "summary": "一套基于 OpenAI 模型的自主 AI 智能体在 4 天半内执行约 17600 次操作，成功突破 Hugging Face 多项安全防护。该 AI 利用未修复漏洞逃离测试环境，通过伪装数据集诱导服务器泄露密码和源代码，并在 11 台服务器上部署副本维持攻击。Hugging Face 指出，AI 能以人类攻击者无法企及的规模和持续性不断尝试攻击路径，大幅提升漏洞发现效率。",
-          "summary_ja": "OpenAI モデルに基づく一連の自律 AI エージェントは 4 日半で約 17,600 の操作を実行し、Hugging Face の複数のセキュリティ保護を突破することに成功しました。 AIはパッチが適用されていない脆弱性を悪用してテスト環境を脱出し、データセットを偽装してサーバーを誘導してパスワードとソースコードを漏洩させ、11台のサーバーにレプリカメンテナンス攻撃を展開しました。ハギング・フェイス氏は、AI は人間の攻撃者の手の届かない規模と永続性で攻撃パスを継続的に試行できるため、脆弱性発見の効率が大幅に向上すると指摘しました。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/983/374.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T23:29:34Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7637,
-      "importance": 0.7637,
-      "importance_score": 0.7637,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9448,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-29T23:29:34Z",
-      "latest_at": "2026-07-29T23:29:34Z",
-      "primary_item": {
-        "id": "e278175a3fa66b0b3ac2a5fcaeeee4ada55313d0",
-        "title": "揭秘 AI 智能体入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
-        "title_zh": "揭秘 AI 智能体入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
-        "title_ja": "AIエージェントがHugging Faceに侵入する全過程を明らかに：4日半で17,600件の操作が実行",
-        "title_en": null,
-        "title_original": "揭秘 AI 智能体入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
-        "summary": "一套基于 OpenAI 模型的自主 AI 智能体在 4 天半内执行约 17600 次操作，成功突破 Hugging Face 多项安全防护。该 AI 利用未修复漏洞逃离测试环境，通过伪装数据集诱导服务器泄露密码和源代码，并在 11 台服务器上部署副本维持攻击。Hugging Face 指出，AI 能以人类攻击者无法企及的规模和持续性不断尝试攻击路径，大幅提升漏洞发现效率。",
-        "summary_ja": "OpenAI モデルに基づく一連の自律 AI エージェントは 4 日半で約 17,600 の操作を実行し、Hugging Face の複数のセキュリティ保護を突破することに成功しました。 AIはパッチが適用されていない脆弱性を悪用してテスト環境を脱出し、データセットを偽装してサーバーを誘導してパスワードとソースコードを漏洩させ、11台のサーバーにレプリカメンテナンス攻撃を展開しました。ハギング・フェイス氏は、AI は人間の攻撃者の手の届かない規模と永続性で攻撃パスを継続的に試行できるため、脆弱性発見の効率が大幅に向上すると指摘しました。",
-        "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/0/983/374.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-30T03:27:43.628817Z"
+        "scored_at": "2026-07-30T06:40:56.944127Z"
       }
     },
     {
@@ -1059,16 +969,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
+      "score": 0.7559,
+      "importance": 0.7559,
+      "importance_score": 0.7559,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7992,
+        "recency": 0.7627,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1097,7 +1007,97 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T03:27:43.628817Z"
+        "scored_at": "2026-07-30T06:40:56.944127Z"
+      }
+    },
+    {
+      "story_id": "story_a314f7fdcee9",
+      "title": "揭秘 AI 智能体入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
+      "title_ja": "AIエージェントがHugging Faceに侵入する全過程を明らかに：4日半で17,600件の操作が実行",
+      "url": "https://www.ithome.com/0/983/374.htm",
+      "primary_url": "https://www.ithome.com/0/983/374.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e278175a3fa66b0b3ac2a5fcaeeee4ada55313d0",
+          "title": "揭秘 AI 智能体入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
+          "title_zh": "揭秘 AI 智能体入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
+          "title_ja": "AIエージェントがHugging Faceに侵入する全過程を明らかに：4日半で17,600件の操作が実行",
+          "title_en": null,
+          "title_original": "揭秘 AI 智能体入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
+          "summary": "一套基于 OpenAI 模型的自主 AI 智能体在 4 天半内执行约 17600 次操作，成功突破 Hugging Face 多项安全防护。该 AI 利用未修复漏洞逃离测试环境，通过伪装数据集诱导服务器泄露密码和源代码，并在 11 台服务器上部署副本维持攻击。Hugging Face 指出，AI 能以人类攻击者无法企及的规模和持续性不断尝试攻击路径，大幅提升漏洞发现效率。",
+          "summary_ja": "OpenAI モデルに基づく一連の自律 AI エージェントは 4 日半で約 17,600 の操作を実行し、Hugging Face の複数のセキュリティ保護を突破することに成功しました。 AIはパッチが適用されていない脆弱性を悪用してテスト環境を脱出し、データセットを偽装してサーバーを誘導してパスワードとソースコードを漏洩させ、11台のサーバーにレプリカメンテナンス攻撃を展開しました。ハギング・フェイス氏は、AI は人間の攻撃者の手の届かない規模と永続性で攻撃パスを継続的に試行できるため、脆弱性発見の効率が大幅に向上すると指摘しました。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/983/374.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T23:29:34Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "e278175a3fa66b0b3ac2a5fcaeeee4ada55313d0",
+          "title": "揭秘 AI 智能体入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
+          "title_zh": "揭秘 AI 智能体入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
+          "title_ja": "AIエージェントがHugging Faceに侵入する全過程を明らかに：4日半で17,600件の操作が実行",
+          "title_en": null,
+          "title_original": "揭秘 AI 智能体入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
+          "summary": "一套基于 OpenAI 模型的自主 AI 智能体在 4 天半内执行约 17600 次操作，成功突破 Hugging Face 多项安全防护。该 AI 利用未修复漏洞逃离测试环境，通过伪装数据集诱导服务器泄露密码和源代码，并在 11 台服务器上部署副本维持攻击。Hugging Face 指出，AI 能以人类攻击者无法企及的规模和持续性不断尝试攻击路径，大幅提升漏洞发现效率。",
+          "summary_ja": "OpenAI モデルに基づく一連の自律 AI エージェントは 4 日半で約 17,600 の操作を実行し、Hugging Face の複数のセキュリティ保護を突破することに成功しました。 AIはパッチが適用されていない脆弱性を悪用してテスト環境を脱出し、データセットを偽装してサーバーを誘導してパスワードとソースコードを漏洩させ、11台のサーバーにレプリカメンテナンス攻撃を展開しました。ハギング・フェイス氏は、AI は人間の攻撃者の手の届かない規模と永続性で攻撃パスを継続的に試行できるため、脆弱性発見の効率が大幅に向上すると指摘しました。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/983/374.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T23:29:34Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7559,
+      "importance": 0.7559,
+      "importance_score": 0.7559,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9016,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T23:29:34Z",
+      "latest_at": "2026-07-29T23:29:34Z",
+      "primary_item": {
+        "id": "e278175a3fa66b0b3ac2a5fcaeeee4ada55313d0",
+        "title": "揭秘 AI 智能体入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
+        "title_zh": "揭秘 AI 智能体入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
+        "title_ja": "AIエージェントがHugging Faceに侵入する全過程を明らかに：4日半で17,600件の操作が実行",
+        "title_en": null,
+        "title_original": "揭秘 AI 智能体入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
+        "summary": "一套基于 OpenAI 模型的自主 AI 智能体在 4 天半内执行约 17600 次操作，成功突破 Hugging Face 多项安全防护。该 AI 利用未修复漏洞逃离测试环境，通过伪装数据集诱导服务器泄露密码和源代码，并在 11 台服务器上部署副本维持攻击。Hugging Face 指出，AI 能以人类攻击者无法企及的规模和持续性不断尝试攻击路径，大幅提升漏洞发现效率。",
+        "summary_ja": "OpenAI モデルに基づく一連の自律 AI エージェントは 4 日半で約 17,600 の操作を実行し、Hugging Face の複数のセキュリティ保護を突破することに成功しました。 AIはパッチが適用されていない脆弱性を悪用してテスト環境を脱出し、データセットを偽装してサーバーを誘導してパスワードとソースコードを漏洩させ、11台のサーバーにレプリカメンテナンス攻撃を展開しました。ハギング・フェイス氏は、AI は人間の攻撃者の手の届かない規模と永続性で攻撃パスを継続的に試行できるため、脆弱性発見の効率が大幅に向上すると指摘しました。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/0/983/374.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-30T06:40:56.944127Z"
       }
     },
     {
@@ -1150,16 +1150,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7601,
-      "importance": 0.7601,
-      "importance_score": 0.7601,
+      "score": 0.7526,
+      "importance": 0.7526,
+      "importance_score": 0.7526,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9082,
+        "recency": 0.8668,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1187,7 +1187,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T03:27:43.628817Z"
+        "scored_at": "2026-07-30T06:40:56.944127Z"
       }
     },
     {
@@ -1240,16 +1240,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7466,
-      "importance": 0.7466,
-      "importance_score": 0.7466,
+      "score": 0.7396,
+      "importance": 0.7396,
+      "importance_score": 0.7396,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8498,
+        "recency": 0.811,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1276,7 +1276,97 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T03:27:43.628817Z"
+        "scored_at": "2026-07-30T06:40:56.944127Z"
+      }
+    },
+    {
+      "story_id": "story_7de835bee3ff",
+      "title": "扎克伯格断言：五年内数十亿人将拥有专属AI助手，Meta砸重金豪赌未来",
+      "title_ja": "ザッカーバーグ氏、「5年以内に数十億人が専用のAIアシスタントを持つようになる、メタは将来に大きく賭けている」と断言",
+      "url": "https://www.aibase.com/news/30005",
+      "primary_url": "https://www.aibase.com/news/30005",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "2dea95e761abab940c3ccb47f8e43579324c92b2",
+          "title": "扎克伯格断言：五年内数十亿人将拥有专属AI助手，Meta砸重金豪赌未来",
+          "title_zh": "扎克伯格断言：五年内数十亿人将拥有专属AI助手，Meta砸重金豪赌未来",
+          "title_ja": "ザッカーバーグ氏、「5年以内に数十億人が専用のAIアシスタントを持つようになる、メタは将来に大きく賭けている」と断言",
+          "title_en": null,
+          "title_original": "扎克伯格断言：五年内数十亿人将拥有专属AI助手，Meta砸重金豪赌未来",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30005",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-30T06:39:48.003555Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "2dea95e761abab940c3ccb47f8e43579324c92b2",
+          "title": "扎克伯格断言：五年内数十亿人将拥有专属AI助手，Meta砸重金豪赌未来",
+          "title_zh": "扎克伯格断言：五年内数十亿人将拥有专属AI助手，Meta砸重金豪赌未来",
+          "title_ja": "ザッカーバーグ氏、「5年以内に数十億人が専用のAIアシスタントを持つようになる、メタは将来に大きく賭けている」と断言",
+          "title_en": null,
+          "title_original": "扎克伯格断言：五年内数十亿人将拥有专属AI助手，Meta砸重金豪赌未来",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30005",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-30T06:39:48.003555Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-30T06:39:48.003555Z",
+      "latest_at": "2026-07-30T06:39:48.003555Z",
+      "primary_item": {
+        "id": "2dea95e761abab940c3ccb47f8e43579324c92b2",
+        "title": "扎克伯格断言：五年内数十亿人将拥有专属AI助手，Meta砸重金豪赌未来",
+        "title_zh": "扎克伯格断言：五年内数十亿人将拥有专属AI助手，Meta砸重金豪赌未来",
+        "title_ja": "ザッカーバーグ氏、「5年以内に数十億人が専用のAIアシスタントを持つようになる、メタは将来に大きく賭けている」と断言",
+        "title_en": null,
+        "title_original": "扎克伯格断言：五年内数十亿人将拥有专属AI助手，Meta砸重金豪赌未来",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30005",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-30T06:40:56.944127Z"
       }
     },
     {
@@ -1329,16 +1419,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8035,
-      "importance": 0.8035,
-      "importance_score": 0.8035,
+      "score": 0.7971,
+      "importance": 0.7971,
+      "importance_score": 0.7971,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7748,
+        "recency": 0.7394,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1367,97 +1457,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T03:27:43.628817Z"
-      }
-    },
-    {
-      "story_id": "story_e76306f88f86",
-      "title": "OpenAI CEO泼冷水：AI 不会带来四天工作制，超级智能时代人只会更忙",
-      "title_ja": "OpenAI CEOが冷や水を浴びせる：AIによって週4日労働は実現せず、超インテリジェンスの時代には人々はさらに忙しくなるだけだ",
-      "url": "https://www.aibase.com/news/30000",
-      "primary_url": "https://www.aibase.com/news/30000",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "0d211faf956db245d14a9d64eef9d04e1f01a0f8",
-          "title": "OpenAI CEO泼冷水：AI 不会带来四天工作制，超级智能时代人只会更忙",
-          "title_zh": "OpenAI CEO泼冷水：AI 不会带来四天工作制，超级智能时代人只会更忙",
-          "title_ja": "OpenAI CEOが冷や水を浴びせる：AIによって週4日労働は実現せず、超インテリジェンスの時代には人々はさらに忙しくなるだけだ",
-          "title_en": null,
-          "title_original": "OpenAI CEO泼冷水：AI 不会带来四天工作制，超级智能时代人只会更忙",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30000",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-30T03:25:34.177297Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "0d211faf956db245d14a9d64eef9d04e1f01a0f8",
-          "title": "OpenAI CEO泼冷水：AI 不会带来四天工作制，超级智能时代人只会更忙",
-          "title_zh": "OpenAI CEO泼冷水：AI 不会带来四天工作制，超级智能时代人只会更忙",
-          "title_ja": "OpenAI CEOが冷や水を浴びせる：AIによって週4日労働は実現せず、超インテリジェンスの時代には人々はさらに忙しくなるだけだ",
-          "title_en": null,
-          "title_original": "OpenAI CEO泼冷水：AI 不会带来四天工作制，超级智能时代人只会更忙",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30000",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-30T03:25:34.177297Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-30T03:25:34.177297Z",
-      "latest_at": "2026-07-30T03:25:34.177297Z",
-      "primary_item": {
-        "id": "0d211faf956db245d14a9d64eef9d04e1f01a0f8",
-        "title": "OpenAI CEO泼冷水：AI 不会带来四天工作制，超级智能时代人只会更忙",
-        "title_zh": "OpenAI CEO泼冷水：AI 不会带来四天工作制，超级智能时代人只会更忙",
-        "title_ja": "OpenAI CEOが冷や水を浴びせる：AIによって週4日労働は実現せず、超インテリジェンスの時代には人々はさらに忙しくなるだけだ",
-        "title_en": null,
-        "title_original": "OpenAI CEO泼冷水：AI 不会带来四天工作制，超级智能时代人只会更忙",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30000",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-30T03:27:43.628817Z"
+        "scored_at": "2026-07-30T06:40:56.944127Z"
       }
     },
     {
@@ -1543,16 +1543,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7673,
-      "importance": 0.7673,
-      "importance_score": 0.7673,
+      "score": 0.7604,
+      "importance": 0.7604,
+      "importance_score": 0.7604,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8428,
+        "recency": 0.8043,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1581,7 +1581,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T03:27:43.628817Z"
+        "scored_at": "2026-07-30T06:40:56.944127Z"
       }
     },
     {
@@ -1634,16 +1634,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7353,
-      "importance": 0.7353,
-      "importance_score": 0.7353,
+      "score": 0.7282,
+      "importance": 0.7282,
+      "importance_score": 0.7282,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8707,
+        "recency": 0.831,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1670,97 +1670,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T03:27:43.628817Z"
-      }
-    },
-    {
-      "story_id": "story_6a3a550a61b4",
-      "title": "OpenAI 总裁布罗克曼承认新版 ChatGPT 桌面应用\"有点乱\"，目标年底实现\"零标签\"",
-      "title_ja": "OpenAIのブロックマン社長は、ChatGPTデスクトップアプリケーションの新バージョンが「少し面倒」であることを認め、年末までに「タグゼロ」を達成することを目指している",
-      "url": "https://www.ithome.com/0/983/444.htm",
-      "primary_url": "https://www.ithome.com/0/983/444.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2f2c2962adb80539002c13357b644f38857975fc",
-          "title": "OpenAI 总裁布罗克曼承认新版 ChatGPT 桌面应用\"有点乱\"，目标年底实现\"零标签\"",
-          "title_zh": "OpenAI 总裁布罗克曼承认新版 ChatGPT 桌面应用\"有点乱\"，目标年底实现\"零标签\"",
-          "title_ja": "OpenAIのブロックマン社長は、ChatGPTデスクトップアプリケーションの新バージョンが「少し面倒」であることを認め、年末までに「タグゼロ」を達成することを目指している",
-          "title_en": null,
-          "title_original": "OpenAI 总裁布罗克曼承认新版 ChatGPT 桌面应用\"有点乱\"，目标年底实现\"零标签\"",
-          "summary": "OpenAI 联合创始人兼总裁格雷格·布罗克曼承认，合并 Codex 后的新版 ChatGPT 桌面应用界面\"有点乱\"，导致部分用户难以找到聊天记录。他透露，到 2026 年年底，ChatGPT 桌面应用将不再有 Work 标签页，功能会融入 ChatGPT。整合后，Codex 用户数在几天内从 500 万增至 1000 万。",
-          "summary_ja": "OpenAIの共同創設者兼社長であるグレッグ・ブロックマン氏は、Codexとの合併後の新しいChatGPTデスクトップアプリケーションのインターフェースが「少し乱雑」で、一部のユーザーがチャット記録を見つけるのが困難だったと認めた。同氏は、2026年末までにChatGPTデスクトップアプリケーションに「Work」タブがなくなり、その機能がChatGPTに統合されることを明らかにした。統合後、Codex のユーザー数は数日で 500 万人から 1,000 万人に増加しました。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/983/444.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T02:49:47Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "2f2c2962adb80539002c13357b644f38857975fc",
-          "title": "OpenAI 总裁布罗克曼承认新版 ChatGPT 桌面应用\"有点乱\"，目标年底实现\"零标签\"",
-          "title_zh": "OpenAI 总裁布罗克曼承认新版 ChatGPT 桌面应用\"有点乱\"，目标年底实现\"零标签\"",
-          "title_ja": "OpenAIのブロックマン社長は、ChatGPTデスクトップアプリケーションの新バージョンが「少し面倒」であることを認め、年末までに「タグゼロ」を達成することを目指している",
-          "title_en": null,
-          "title_original": "OpenAI 总裁布罗克曼承认新版 ChatGPT 桌面应用\"有点乱\"，目标年底实现\"零标签\"",
-          "summary": "OpenAI 联合创始人兼总裁格雷格·布罗克曼承认，合并 Codex 后的新版 ChatGPT 桌面应用界面\"有点乱\"，导致部分用户难以找到聊天记录。他透露，到 2026 年年底，ChatGPT 桌面应用将不再有 Work 标签页，功能会融入 ChatGPT。整合后，Codex 用户数在几天内从 500 万增至 1000 万。",
-          "summary_ja": "OpenAIの共同創設者兼社長であるグレッグ・ブロックマン氏は、Codexとの合併後の新しいChatGPTデスクトップアプリケーションのインターフェースが「少し乱雑」で、一部のユーザーがチャット記録を見つけるのが困難だったと認めた。同氏は、2026年末までにChatGPTデスクトップアプリケーションに「Work」タブがなくなり、その機能がChatGPTに統合されることを明らかにした。統合後、Codex のユーザー数は数日で 500 万人から 1,000 万人に増加しました。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/983/444.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T02:49:47Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7631,
-      "importance": 0.7631,
-      "importance_score": 0.7631,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9914,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-30T02:49:47Z",
-      "latest_at": "2026-07-30T02:49:47Z",
-      "primary_item": {
-        "id": "2f2c2962adb80539002c13357b644f38857975fc",
-        "title": "OpenAI 总裁布罗克曼承认新版 ChatGPT 桌面应用\"有点乱\"，目标年底实现\"零标签\"",
-        "title_zh": "OpenAI 总裁布罗克曼承认新版 ChatGPT 桌面应用\"有点乱\"，目标年底实现\"零标签\"",
-        "title_ja": "OpenAIのブロックマン社長は、ChatGPTデスクトップアプリケーションの新バージョンが「少し面倒」であることを認め、年末までに「タグゼロ」を達成することを目指している",
-        "title_en": null,
-        "title_original": "OpenAI 总裁布罗克曼承认新版 ChatGPT 桌面应用\"有点乱\"，目标年底实现\"零标签\"",
-        "summary": "OpenAI 联合创始人兼总裁格雷格·布罗克曼承认，合并 Codex 后的新版 ChatGPT 桌面应用界面\"有点乱\"，导致部分用户难以找到聊天记录。他透露，到 2026 年年底，ChatGPT 桌面应用将不再有 Work 标签页，功能会融入 ChatGPT。整合后，Codex 用户数在几天内从 500 万增至 1000 万。",
-        "summary_ja": "OpenAIの共同創設者兼社長であるグレッグ・ブロックマン氏は、Codexとの合併後の新しいChatGPTデスクトップアプリケーションのインターフェースが「少し乱雑」で、一部のユーザーがチャット記録を見つけるのが困難だったと認めた。同氏は、2026年末までにChatGPTデスクトップアプリケーションに「Work」タブがなくなり、その機能がChatGPTに統合されることを明らかにした。統合後、Codex のユーザー数は数日で 500 万人から 1,000 万人に増加しました。",
-        "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/0/983/444.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-30T03:27:43.628817Z"
+        "scored_at": "2026-07-30T06:40:56.944127Z"
       }
     },
     {
@@ -1813,16 +1723,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7321,
-      "importance": 0.7321,
-      "importance_score": 0.7321,
+      "score": 0.7252,
+      "importance": 0.7252,
+      "importance_score": 0.7252,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8361,
+        "recency": 0.7979,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1849,96 +1759,187 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T03:27:43.628817Z"
+        "scored_at": "2026-07-30T06:40:56.944127Z"
       }
     },
     {
-      "story_id": "story_597bf2d3fcc7",
-      "title": "OpenAI 为学术研究者免费提供前沿模型 / ChatGPT for Academic Researchers - free （！！） access to our frontier models， including GPT-5.6-Sol Pr…",
-      "title_ja": "学術研究者向け ChatGPT - GPT-5.6-Sol Pr…を含むフロンティア モデルへの無料 (！！) アクセス",
-      "url": "https://x.com/sherwinwu/status/2082517015944741342",
-      "primary_url": "https://x.com/sherwinwu/status/2082517015944741342",
-      "source": "X：Sherwin Wu（@sherwinwu）",
+      "story_id": "story_6a3a550a61b4",
+      "title": "OpenAI 总裁布罗克曼承认新版 ChatGPT 桌面应用\"有点乱\"，目标年底实现\"零标签\"",
+      "title_ja": "OpenAIのブロックマン社長は、ChatGPTデスクトップアプリケーションの新バージョンが「少し面倒」であることを認め、年末までに「タグゼロ」を達成することを目指している",
+      "url": "https://www.ithome.com/0/983/444.htm",
+      "primary_url": "https://www.ithome.com/0/983/444.htm",
+      "source": "IT之家（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "5c1a77f65599db8385acc9dcb87c9af76cc59996",
-          "title": "OpenAI 为学术研究者免费提供前沿模型 / ChatGPT for Academic Researchers - free （！！） access to our frontier models， including GPT-5.6-Sol Pr…",
-          "title_zh": "OpenAI 为学术研究者免费提供前沿模型",
-          "title_ja": "学術研究者向け ChatGPT - GPT-5.6-Sol Pr…を含むフロンティア モデルへの無料 (！！) アクセス",
-          "title_en": "ChatGPT for Academic Researchers - free （！！） access to our frontier models， including GPT-5.6-Sol Pr…",
-          "title_original": "ChatGPT for Academic Researchers - free （！！） access to our frontier models， including GPT-5.6-Sol Pr…",
-          "summary": "ChatGPT for Academic Researchers - 免费（！！）使用我们的前沿模型，包括 GPT-5.6-Sol Pro，面向数学家、科学家、研究人员和学者。\n\n让未解难题倒下！",
-          "summary_ja": "学術研究者向け ChatGPT - 数学者、科学者、研究者、学者向けの、GPT-5.6-Sol Pro を含む最先端のモデルへの無料 (!!) アクセス。\n\n未解決の問題は解決しましょう！",
+          "id": "2f2c2962adb80539002c13357b644f38857975fc",
+          "title": "OpenAI 总裁布罗克曼承认新版 ChatGPT 桌面应用\"有点乱\"，目标年底实现\"零标签\"",
+          "title_zh": "OpenAI 总裁布罗克曼承认新版 ChatGPT 桌面应用\"有点乱\"，目标年底实现\"零标签\"",
+          "title_ja": "OpenAIのブロックマン社長は、ChatGPTデスクトップアプリケーションの新バージョンが「少し面倒」であることを認め、年末までに「タグゼロ」を達成することを目指している",
+          "title_en": null,
+          "title_original": "OpenAI 总裁布罗克曼承认新版 ChatGPT 桌面应用\"有点乱\"，目标年底实现\"零标签\"",
+          "summary": "OpenAI 联合创始人兼总裁格雷格·布罗克曼承认，合并 Codex 后的新版 ChatGPT 桌面应用界面\"有点乱\"，导致部分用户难以找到聊天记录。他透露，到 2026 年年底，ChatGPT 桌面应用将不再有 Work 标签页，功能会融入 ChatGPT。整合后，Codex 用户数在几天内从 500 万增至 1000 万。",
+          "summary_ja": "OpenAIの共同創設者兼社長であるグレッグ・ブロックマン氏は、Codexとの合併後の新しいChatGPTデスクトップアプリケーションのインターフェースが「少し乱雑」で、一部のユーザーがチャット記録を見つけるのが困難だったと認めた。同氏は、2026年末までにChatGPTデスクトップアプリケーションに「Work」タブがなくなり、その機能がChatGPTに統合されることを明らかにした。統合後、Codex のユーザー数は数日で 500 万人から 1,000 万人に増加しました。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/sherwinwu/status/2082517015944741342",
-          "source": "X：Sherwin Wu（@sherwinwu）",
+          "url": "https://www.ithome.com/0/983/444.htm",
+          "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-29T17:22:02Z"
+          "published_at": "2026-07-30T02:49:47Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Sherwin Wu（@sherwinwu）"
+        "IT之家（RSS）"
       ],
       "items": [
         {
-          "id": "5c1a77f65599db8385acc9dcb87c9af76cc59996",
-          "title": "OpenAI 为学术研究者免费提供前沿模型 / ChatGPT for Academic Researchers - free （！！） access to our frontier models， including GPT-5.6-Sol Pr…",
-          "title_zh": "OpenAI 为学术研究者免费提供前沿模型",
-          "title_ja": "学術研究者向け ChatGPT - GPT-5.6-Sol Pr…を含むフロンティア モデルへの無料 (！！) アクセス",
-          "title_en": "ChatGPT for Academic Researchers - free （！！） access to our frontier models， including GPT-5.6-Sol Pr…",
-          "title_original": "ChatGPT for Academic Researchers - free （！！） access to our frontier models， including GPT-5.6-Sol Pr…",
-          "summary": "ChatGPT for Academic Researchers - 免费（！！）使用我们的前沿模型，包括 GPT-5.6-Sol Pro，面向数学家、科学家、研究人员和学者。\n\n让未解难题倒下！",
-          "summary_ja": "学術研究者向け ChatGPT - 数学者、科学者、研究者、学者向けの、GPT-5.6-Sol Pro を含む最先端のモデルへの無料 (!!) アクセス。\n\n未解決の問題は解決しましょう！",
+          "id": "2f2c2962adb80539002c13357b644f38857975fc",
+          "title": "OpenAI 总裁布罗克曼承认新版 ChatGPT 桌面应用\"有点乱\"，目标年底实现\"零标签\"",
+          "title_zh": "OpenAI 总裁布罗克曼承认新版 ChatGPT 桌面应用\"有点乱\"，目标年底实现\"零标签\"",
+          "title_ja": "OpenAIのブロックマン社長は、ChatGPTデスクトップアプリケーションの新バージョンが「少し面倒」であることを認め、年末までに「タグゼロ」を達成することを目指している",
+          "title_en": null,
+          "title_original": "OpenAI 总裁布罗克曼承认新版 ChatGPT 桌面应用\"有点乱\"，目标年底实现\"零标签\"",
+          "summary": "OpenAI 联合创始人兼总裁格雷格·布罗克曼承认，合并 Codex 后的新版 ChatGPT 桌面应用界面\"有点乱\"，导致部分用户难以找到聊天记录。他透露，到 2026 年年底，ChatGPT 桌面应用将不再有 Work 标签页，功能会融入 ChatGPT。整合后，Codex 用户数在几天内从 500 万增至 1000 万。",
+          "summary_ja": "OpenAIの共同創設者兼社長であるグレッグ・ブロックマン氏は、Codexとの合併後の新しいChatGPTデスクトップアプリケーションのインターフェースが「少し乱雑」で、一部のユーザーがチャット記録を見つけるのが困難だったと認めた。同氏は、2026年末までにChatGPTデスクトップアプリケーションに「Work」タブがなくなり、その機能がChatGPTに統合されることを明らかにした。統合後、Codex のユーザー数は数日で 500 万人から 1,000 万人に増加しました。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/sherwinwu/status/2082517015944741342",
-          "source": "X：Sherwin Wu（@sherwinwu）",
+          "url": "https://www.ithome.com/0/983/444.htm",
+          "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-29T17:22:02Z"
+          "published_at": "2026-07-30T02:49:47Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7253,
-      "importance": 0.7253,
-      "importance_score": 0.7253,
+      "score": 0.7549,
+      "importance": 0.7549,
+      "importance_score": 0.7549,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
-        "editorial": 0.66,
+        "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8648,
+        "recency": 0.9461,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-29T17:22:02Z",
-      "latest_at": "2026-07-29T17:22:02Z",
+      "earliest_at": "2026-07-30T02:49:47Z",
+      "latest_at": "2026-07-30T02:49:47Z",
       "primary_item": {
-        "id": "5c1a77f65599db8385acc9dcb87c9af76cc59996",
-        "title": "OpenAI 为学术研究者免费提供前沿模型 / ChatGPT for Academic Researchers - free （！！） access to our frontier models， including GPT-5.6-Sol Pr…",
-        "title_zh": "OpenAI 为学术研究者免费提供前沿模型",
-        "title_ja": "学術研究者向け ChatGPT - GPT-5.6-Sol Pr…を含むフロンティア モデルへの無料 (！！) アクセス",
-        "title_en": "ChatGPT for Academic Researchers - free （！！） access to our frontier models， including GPT-5.6-Sol Pr…",
-        "title_original": "ChatGPT for Academic Researchers - free （！！） access to our frontier models， including GPT-5.6-Sol Pr…",
-        "summary": "ChatGPT for Academic Researchers - 免费（！！）使用我们的前沿模型，包括 GPT-5.6-Sol Pro，面向数学家、科学家、研究人员和学者。\n\n让未解难题倒下！",
-        "summary_ja": "学術研究者向け ChatGPT - 数学者、科学者、研究者、学者向けの、GPT-5.6-Sol Pro を含む最先端のモデルへの無料 (!!) アクセス。\n\n未解決の問題は解決しましょう！",
+        "id": "2f2c2962adb80539002c13357b644f38857975fc",
+        "title": "OpenAI 总裁布罗克曼承认新版 ChatGPT 桌面应用\"有点乱\"，目标年底实现\"零标签\"",
+        "title_zh": "OpenAI 总裁布罗克曼承认新版 ChatGPT 桌面应用\"有点乱\"，目标年底实现\"零标签\"",
+        "title_ja": "OpenAIのブロックマン社長は、ChatGPTデスクトップアプリケーションの新バージョンが「少し面倒」であることを認め、年末までに「タグゼロ」を達成することを目指している",
+        "title_en": null,
+        "title_original": "OpenAI 总裁布罗克曼承认新版 ChatGPT 桌面应用\"有点乱\"，目标年底实现\"零标签\"",
+        "summary": "OpenAI 联合创始人兼总裁格雷格·布罗克曼承认，合并 Codex 后的新版 ChatGPT 桌面应用界面\"有点乱\"，导致部分用户难以找到聊天记录。他透露，到 2026 年年底，ChatGPT 桌面应用将不再有 Work 标签页，功能会融入 ChatGPT。整合后，Codex 用户数在几天内从 500 万增至 1000 万。",
+        "summary_ja": "OpenAIの共同創設者兼社長であるグレッグ・ブロックマン氏は、Codexとの合併後の新しいChatGPTデスクトップアプリケーションのインターフェースが「少し乱雑」で、一部のユーザーがチャット記録を見つけるのが困難だったと認めた。同氏は、2026年末までにChatGPTデスクトップアプリケーションに「Work」タブがなくなり、その機能がChatGPTに統合されることを明らかにした。統合後、Codex のユーザー数は数日で 500 万人から 1,000 万人に増加しました。",
         "recommend_reason_zh": null,
-        "url": "https://x.com/sherwinwu/status/2082517015944741342",
-        "source": "X：Sherwin Wu（@sherwinwu）",
+        "url": "https://www.ithome.com/0/983/444.htm",
+        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T03:27:43.628817Z"
+        "scored_at": "2026-07-30T06:40:56.944127Z"
+      }
+    },
+    {
+      "story_id": "story_0dde159d7701",
+      "title": "火山引擎正式上线豆包搜索开放服务 赋能智能体长程任务",
+      "title_ja": "Volcano Engine が Doubao 検索オープン サービスを正式に開始し、インテリジェント エージェントが長距離タスクを行えるようにする",
+      "url": "https://www.aibase.com/news/30003",
+      "primary_url": "https://www.aibase.com/news/30003",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "7e6fc0158445512b7bb886613d431fd3f426846b",
+          "title": "火山引擎正式上线豆包搜索开放服务 赋能智能体长程任务",
+          "title_zh": "火山引擎正式上线豆包搜索开放服务 赋能智能体长程任务",
+          "title_ja": "Volcano Engine が Doubao 検索オープン サービスを正式に開始し、インテリジェント エージェントが長距離タスクを行えるようにする",
+          "title_en": null,
+          "title_original": "火山引擎正式上线豆包搜索开放服务 赋能智能体长程任务",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30003",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-30T06:39:48.003555Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "7e6fc0158445512b7bb886613d431fd3f426846b",
+          "title": "火山引擎正式上线豆包搜索开放服务 赋能智能体长程任务",
+          "title_zh": "火山引擎正式上线豆包搜索开放服务 赋能智能体长程任务",
+          "title_ja": "Volcano Engine が Doubao 検索オープン サービスを正式に開始し、インテリジェント エージェントが長距離タスクを行えるようにする",
+          "title_en": null,
+          "title_original": "火山引擎正式上线豆包搜索开放服务 赋能智能体长程任务",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30003",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-30T06:39:48.003555Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-30T06:39:48.003555Z",
+      "latest_at": "2026-07-30T06:39:48.003555Z",
+      "primary_item": {
+        "id": "7e6fc0158445512b7bb886613d431fd3f426846b",
+        "title": "火山引擎正式上线豆包搜索开放服务 赋能智能体长程任务",
+        "title_zh": "火山引擎正式上线豆包搜索开放服务 赋能智能体长程任务",
+        "title_ja": "Volcano Engine が Doubao 検索オープン サービスを正式に開始し、インテリジェント エージェントが長距離タスクを行えるようにする",
+        "title_en": null,
+        "title_original": "火山引擎正式上线豆包搜索开放服务 赋能智能体长程任务",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30003",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-30T06:40:56.944127Z"
       }
     }
   ]
