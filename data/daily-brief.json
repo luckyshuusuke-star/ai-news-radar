@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T06:39:48.003555Z",
+  "generated_at": "2026-07-30T09:39:47.007967Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -53,16 +53,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8456,
-      "importance": 0.8456,
-      "importance_score": 0.8456,
+      "score": 0.8389,
+      "importance": 0.8389,
+      "importance_score": 0.8389,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.8753,
+        "recency": 0.8382,
         "story_heat": 0.0
       },
       "category": "official",
@@ -91,7 +91,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T06:40:56.944127Z"
+        "scored_at": "2026-07-30T09:41:25.788403Z"
       }
     },
     {
@@ -177,16 +177,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8347,
-      "importance": 0.8347,
-      "importance_score": 0.8347,
+      "score": 0.8285,
+      "importance": 0.8285,
+      "importance_score": 0.8285,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8096,
+        "recency": 0.7753,
         "story_heat": 0.25
       },
       "category": "official",
@@ -216,7 +216,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T06:40:56.944127Z"
+        "scored_at": "2026-07-30T09:41:25.788403Z"
       }
     },
     {
@@ -269,16 +269,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8216,
-      "importance": 0.8216,
-      "importance_score": 0.8216,
+      "score": 0.8155,
+      "importance": 0.8155,
+      "importance_score": 0.8155,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.7976,
+        "recency": 0.7638,
         "story_heat": 0.0
       },
       "category": "official",
@@ -307,7 +307,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T06:40:56.944127Z"
+        "scored_at": "2026-07-30T09:41:25.788403Z"
       }
     },
     {
@@ -360,16 +360,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8136,
-      "importance": 0.8136,
-      "importance_score": 0.8136,
+      "score": 0.8079,
+      "importance": 0.8079,
+      "importance_score": 0.8079,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.742,
+        "recency": 0.7106,
         "story_heat": 0.0
       },
       "category": "official",
@@ -398,7 +398,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T06:40:56.944127Z"
+        "scored_at": "2026-07-30T09:41:25.788403Z"
       }
     },
     {
@@ -451,16 +451,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8135,
-      "importance": 0.8135,
-      "importance_score": 0.8135,
+      "score": 0.8075,
+      "importance": 0.8075,
+      "importance_score": 0.8075,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7863,
+        "recency": 0.753,
         "story_heat": 0.0
       },
       "category": "official",
@@ -489,7 +489,187 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T06:40:56.944127Z"
+        "scored_at": "2026-07-30T09:41:25.788403Z"
+      }
+    },
+    {
+      "story_id": "story_9845586b3e05",
+      "title": "Token Saver：用本地混合 RAG 将 Claude PDF token 消耗削减 92%-99% 的开源 MCP 扩展 / Meet Token Saver： An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%",
+      "title_ja": "トークン セーバーの紹介：ローカル ハイブリッド RAG を使用してクロード PDF トークンのコストを 90 ～ 99% 削減するオープンソースの MCP 拡張機能",
+      "url": "https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag",
+      "primary_url": "https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "faa3723bd4e32fd587c1d3a5b3732658213b4a85",
+          "title": "Token Saver：用本地混合 RAG 将 Claude PDF token 消耗削减 92%-99% 的开源 MCP 扩展 / Meet Token Saver： An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%",
+          "title_zh": "Token Saver：用本地混合 RAG 将 Claude PDF token 消耗削减 92%-99% 的开源 MCP 扩展",
+          "title_ja": "トークン セーバーの紹介：ローカル ハイブリッド RAG を使用してクロード PDF トークンのコストを 90 ～ 99% 削減するオープンソースの MCP 拡張機能",
+          "title_en": "Meet Token Saver： An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%",
+          "title_original": "Meet Token Saver： An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%",
+          "summary": "Marktechpost AI 团队发布 Token Saver，一款面向 Claude Desktop 的开源 MCP 扩展，通过本地混合 RAG 在设备端检索 PDF，无需上传文件。该工具将 token 消耗削减 92%-99%，并保证数据隐私，设置无需 Python 环境或终端配置。",
+          "summary_ja": "Marktechpost AI チームは、ファイルをアップロードせずにネイティブ ハイブリッド RAG 経由でデバイス上の PDF を取得する、Claude Desktop 用のオープンソース MCP 拡張機能である Token Saver をリリースします。このツールはトークンの消費を 92% ～ 99% 削減し、データのプライバシーを確​​保します。セットアップに Python 環境やターミナル設定は必要ありません。",
+          "recommend_reason_zh": null,
+          "url": "https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T07:43:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "faa3723bd4e32fd587c1d3a5b3732658213b4a85",
+          "title": "Token Saver：用本地混合 RAG 将 Claude PDF token 消耗削减 92%-99% 的开源 MCP 扩展 / Meet Token Saver： An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%",
+          "title_zh": "Token Saver：用本地混合 RAG 将 Claude PDF token 消耗削减 92%-99% 的开源 MCP 扩展",
+          "title_ja": "トークン セーバーの紹介：ローカル ハイブリッド RAG を使用してクロード PDF トークンのコストを 90 ～ 99% 削減するオープンソースの MCP 拡張機能",
+          "title_en": "Meet Token Saver： An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%",
+          "title_original": "Meet Token Saver： An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%",
+          "summary": "Marktechpost AI 团队发布 Token Saver，一款面向 Claude Desktop 的开源 MCP 扩展，通过本地混合 RAG 在设备端检索 PDF，无需上传文件。该工具将 token 消耗削减 92%-99%，并保证数据隐私，设置无需 Python 环境或终端配置。",
+          "summary_ja": "Marktechpost AI チームは、ファイルをアップロードせずにネイティブ ハイブリッド RAG 経由でデバイス上の PDF を取得する、Claude Desktop 用のオープンソース MCP 拡張機能である Token Saver をリリースします。このツールはトークンの消費を 92% ～ 99% 削減し、データのプライバシーを確​​保します。セットアップに Python 環境やターミナル設定は必要ありません。",
+          "recommend_reason_zh": null,
+          "url": "https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T07:43:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7686,
+      "importance": 0.7686,
+      "importance_score": 0.7686,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9724,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-30T07:43:29Z",
+      "latest_at": "2026-07-30T07:43:29Z",
+      "primary_item": {
+        "id": "faa3723bd4e32fd587c1d3a5b3732658213b4a85",
+        "title": "Token Saver：用本地混合 RAG 将 Claude PDF token 消耗削减 92%-99% 的开源 MCP 扩展 / Meet Token Saver： An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%",
+        "title_zh": "Token Saver：用本地混合 RAG 将 Claude PDF token 消耗削减 92%-99% 的开源 MCP 扩展",
+        "title_ja": "トークン セーバーの紹介：ローカル ハイブリッド RAG を使用してクロード PDF トークンのコストを 90 ～ 99% 削減するオープンソースの MCP 拡張機能",
+        "title_en": "Meet Token Saver： An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%",
+        "title_original": "Meet Token Saver： An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%",
+        "summary": "Marktechpost AI 团队发布 Token Saver，一款面向 Claude Desktop 的开源 MCP 扩展，通过本地混合 RAG 在设备端检索 PDF，无需上传文件。该工具将 token 消耗削减 92%-99%，并保证数据隐私，设置无需 Python 环境或终端配置。",
+        "summary_ja": "Marktechpost AI チームは、ファイルをアップロードせずにネイティブ ハイブリッド RAG 経由でデバイス上の PDF を取得する、Claude Desktop 用のオープンソース MCP 拡張機能である Token Saver をリリースします。このツールはトークンの消費を 92% ～ 99% 削減し、データのプライバシーを確​​保します。セットアップに Python 環境やターミナル設定は必要ありません。",
+        "recommend_reason_zh": null,
+        "url": "https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag",
+        "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-30T09:41:25.788403Z"
+      }
+    },
+    {
+      "story_id": "story_dcc00e44fb95",
+      "title": "MCP初创公司Runlayer指控Rippling涉嫌盗用其产品创意",
+      "title_ja": "MCPの新興企業Runlayer、製品アイデアを盗んだ疑いでリップリングを告発",
+      "url": "https://www.aibase.com/news/30011",
+      "primary_url": "https://www.aibase.com/news/30011",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "074ed43245cd4fd924faac5e646e3eeadfa9b7a2",
+          "title": "MCP初创公司Runlayer指控Rippling涉嫌盗用其产品创意",
+          "title_zh": "MCP初创公司Runlayer指控Rippling涉嫌盗用其产品创意",
+          "title_ja": "MCPの新興企業Runlayer、製品アイデアを盗んだ疑いでリップリングを告発",
+          "title_en": null,
+          "title_original": "MCP初创公司Runlayer指控Rippling涉嫌盗用其产品创意",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30011",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-30T09:39:47.007967Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "074ed43245cd4fd924faac5e646e3eeadfa9b7a2",
+          "title": "MCP初创公司Runlayer指控Rippling涉嫌盗用其产品创意",
+          "title_zh": "MCP初创公司Runlayer指控Rippling涉嫌盗用其产品创意",
+          "title_ja": "MCPの新興企業Runlayer、製品アイデアを盗んだ疑いでリップリングを告発",
+          "title_en": null,
+          "title_original": "MCP初创公司Runlayer指控Rippling涉嫌盗用其产品创意",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30011",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-30T09:39:47.007967Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-30T09:39:47.007967Z",
+      "latest_at": "2026-07-30T09:39:47.007967Z",
+      "primary_item": {
+        "id": "074ed43245cd4fd924faac5e646e3eeadfa9b7a2",
+        "title": "MCP初创公司Runlayer指控Rippling涉嫌盗用其产品创意",
+        "title_zh": "MCP初创公司Runlayer指控Rippling涉嫌盗用其产品创意",
+        "title_ja": "MCPの新興企業Runlayer、製品アイデアを盗んだ疑いでリップリングを告発",
+        "title_en": null,
+        "title_original": "MCP初创公司Runlayer指控Rippling涉嫌盗用其产品创意",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30011",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-30T09:41:25.788403Z"
       }
     },
     {
@@ -575,16 +755,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7732,
-      "importance": 0.7732,
-      "importance_score": 0.7732,
+      "score": 0.7667,
+      "importance": 0.7667,
+      "importance_score": 0.7667,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.842,
+        "recency": 0.8063,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -613,7 +793,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T06:40:56.944127Z"
+        "scored_at": "2026-07-30T09:41:25.788403Z"
       }
     },
     {
@@ -666,16 +846,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7688,
-      "importance": 0.7688,
-      "importance_score": 0.7688,
+      "score": 0.7626,
+      "importance": 0.7626,
+      "importance_score": 0.7626,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8213,
+        "recency": 0.7865,
         "story_heat": 0.0
       },
       "category": "official",
@@ -703,97 +883,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T06:40:56.944127Z"
-      }
-    },
-    {
-      "story_id": "story_7fe65bb721b0",
-      "title": "Feyn 团队推全新背景移除开源模型FeyNoBg",
-      "title_ja": "Feyn チームが新しい背景除去オープンソース モデル FeyNoBg を発表",
-      "url": "https://www.aibase.com/news/30004",
-      "primary_url": "https://www.aibase.com/news/30004",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "8ef6dbcec17abe2125cb8bae1844c82b3badcb1e",
-          "title": "Feyn 团队推全新背景移除开源模型FeyNoBg",
-          "title_zh": "Feyn 团队推全新背景移除开源模型FeyNoBg",
-          "title_ja": "Feyn チームが新しい背景除去オープンソース モデル FeyNoBg を発表",
-          "title_en": null,
-          "title_original": "Feyn 团队推全新背景移除开源模型FeyNoBg",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30004",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-30T06:39:48.003555Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "8ef6dbcec17abe2125cb8bae1844c82b3badcb1e",
-          "title": "Feyn 团队推全新背景移除开源模型FeyNoBg",
-          "title_zh": "Feyn 团队推全新背景移除开源模型FeyNoBg",
-          "title_ja": "Feyn チームが新しい背景除去オープンソース モデル FeyNoBg を発表",
-          "title_en": null,
-          "title_original": "Feyn 团队推全新背景移除开源模型FeyNoBg",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30004",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-30T06:39:48.003555Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-30T06:39:48.003555Z",
-      "latest_at": "2026-07-30T06:39:48.003555Z",
-      "primary_item": {
-        "id": "8ef6dbcec17abe2125cb8bae1844c82b3badcb1e",
-        "title": "Feyn 团队推全新背景移除开源模型FeyNoBg",
-        "title_zh": "Feyn 团队推全新背景移除开源模型FeyNoBg",
-        "title_ja": "Feyn チームが新しい背景除去オープンソース モデル FeyNoBg を発表",
-        "title_en": null,
-        "title_original": "Feyn 团队推全新背景移除开源模型FeyNoBg",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30004",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-30T06:40:56.944127Z"
+        "scored_at": "2026-07-30T09:41:25.788403Z"
       }
     },
     {
@@ -846,16 +936,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7632,
-      "importance": 0.7632,
-      "importance_score": 0.7632,
+      "score": 0.756,
+      "importance": 0.756,
+      "importance_score": 0.756,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9424,
+        "recency": 0.9024,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -883,7 +973,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T06:40:56.944127Z"
+        "scored_at": "2026-07-30T09:41:25.788403Z"
       }
     },
     {
@@ -969,16 +1059,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7559,
-      "importance": 0.7559,
-      "importance_score": 0.7559,
+      "score": 0.7501,
+      "importance": 0.7501,
+      "importance_score": 0.7501,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7627,
+        "recency": 0.7304,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1007,7 +1097,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T06:40:56.944127Z"
+        "scored_at": "2026-07-30T09:41:25.788403Z"
       }
     },
     {
@@ -1060,22 +1150,21 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7559,
-      "importance": 0.7559,
-      "importance_score": 0.7559,
+      "score": 0.749,
+      "importance": 0.749,
+      "importance_score": 0.749,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9016,
+        "recency": 0.8634,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-29T23:29:34Z",
       "latest_at": "2026-07-29T23:29:34Z",
@@ -1097,7 +1186,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T06:40:56.944127Z"
+        "scored_at": "2026-07-30T09:41:25.788403Z"
       }
     },
     {
@@ -1150,22 +1239,21 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7526,
-      "importance": 0.7526,
-      "importance_score": 0.7526,
+      "score": 0.746,
+      "importance": 0.746,
+      "importance_score": 0.746,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8668,
+        "recency": 0.83,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-29T20:45:42Z",
       "latest_at": "2026-07-29T20:45:42Z",
@@ -1187,7 +1275,97 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T06:40:56.944127Z"
+        "scored_at": "2026-07-30T09:41:25.788403Z"
+      }
+    },
+    {
+      "story_id": "story_9a2fc20fc216",
+      "title": "WorkBuddy上线「人机双写」:AI走出聊天框，坐进你的文档里一起干活",
+      "title_ja": "WorkBuddy が「人間と機械のデュアルライティング」を開始: AI がチャット ボックスから出てきて、ドキュメント内に座って共同作業します",
+      "url": "https://www.aibase.com/news/30007",
+      "primary_url": "https://www.aibase.com/news/30007",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "4a8c5e489f4be5d6ff45b58a9571b833b4b8a695",
+          "title": "WorkBuddy上线「人机双写」:AI走出聊天框，坐进你的文档里一起干活",
+          "title_zh": "WorkBuddy上线「人机双写」:AI走出聊天框，坐进你的文档里一起干活",
+          "title_ja": "WorkBuddy が「人間と機械のデュアルライティング」を開始: AI がチャット ボックスから出てきて、ドキュメント内に座って共同作業します",
+          "title_en": null,
+          "title_original": "WorkBuddy上线「人机双写」:AI走出聊天框，坐进你的文档里一起干活",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30007",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-30T09:39:47.007967Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "4a8c5e489f4be5d6ff45b58a9571b833b4b8a695",
+          "title": "WorkBuddy上线「人机双写」:AI走出聊天框，坐进你的文档里一起干活",
+          "title_zh": "WorkBuddy上线「人机双写」:AI走出聊天框，坐进你的文档里一起干活",
+          "title_ja": "WorkBuddy が「人間と機械のデュアルライティング」を開始: AI がチャット ボックスから出てきて、ドキュメント内に座って共同作業します",
+          "title_en": null,
+          "title_original": "WorkBuddy上线「人机双写」:AI走出聊天框，坐进你的文档里一起干活",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30007",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-30T09:39:47.007967Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-30T09:39:47.007967Z",
+      "latest_at": "2026-07-30T09:39:47.007967Z",
+      "primary_item": {
+        "id": "4a8c5e489f4be5d6ff45b58a9571b833b4b8a695",
+        "title": "WorkBuddy上线「人机双写」:AI走出聊天框，坐进你的文档里一起干活",
+        "title_zh": "WorkBuddy上线「人机双写」:AI走出聊天框，坐进你的文档里一起干活",
+        "title_ja": "WorkBuddy が「人間と機械のデュアルライティング」を開始: AI がチャット ボックスから出てきて、ドキュメント内に座って共同作業します",
+        "title_en": null,
+        "title_original": "WorkBuddy上线「人机双写」:AI走出聊天框，坐进你的文档里一起干活",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30007",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-30T09:41:25.788403Z"
       }
     },
     {
@@ -1240,16 +1418,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7396,
-      "importance": 0.7396,
-      "importance_score": 0.7396,
+      "score": 0.7334,
+      "importance": 0.7334,
+      "importance_score": 0.7334,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.811,
+        "recency": 0.7766,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1276,97 +1454,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T06:40:56.944127Z"
-      }
-    },
-    {
-      "story_id": "story_7de835bee3ff",
-      "title": "扎克伯格断言：五年内数十亿人将拥有专属AI助手，Meta砸重金豪赌未来",
-      "title_ja": "ザッカーバーグ氏、「5年以内に数十億人が専用のAIアシスタントを持つようになる、メタは将来に大きく賭けている」と断言",
-      "url": "https://www.aibase.com/news/30005",
-      "primary_url": "https://www.aibase.com/news/30005",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "2dea95e761abab940c3ccb47f8e43579324c92b2",
-          "title": "扎克伯格断言：五年内数十亿人将拥有专属AI助手，Meta砸重金豪赌未来",
-          "title_zh": "扎克伯格断言：五年内数十亿人将拥有专属AI助手，Meta砸重金豪赌未来",
-          "title_ja": "ザッカーバーグ氏、「5年以内に数十億人が専用のAIアシスタントを持つようになる、メタは将来に大きく賭けている」と断言",
-          "title_en": null,
-          "title_original": "扎克伯格断言：五年内数十亿人将拥有专属AI助手，Meta砸重金豪赌未来",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30005",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-30T06:39:48.003555Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "2dea95e761abab940c3ccb47f8e43579324c92b2",
-          "title": "扎克伯格断言：五年内数十亿人将拥有专属AI助手，Meta砸重金豪赌未来",
-          "title_zh": "扎克伯格断言：五年内数十亿人将拥有专属AI助手，Meta砸重金豪赌未来",
-          "title_ja": "ザッカーバーグ氏、「5年以内に数十億人が専用のAIアシスタントを持つようになる、メタは将来に大きく賭けている」と断言",
-          "title_en": null,
-          "title_original": "扎克伯格断言：五年内数十亿人将拥有专属AI助手，Meta砸重金豪赌未来",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30005",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-30T06:39:48.003555Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-30T06:39:48.003555Z",
-      "latest_at": "2026-07-30T06:39:48.003555Z",
-      "primary_item": {
-        "id": "2dea95e761abab940c3ccb47f8e43579324c92b2",
-        "title": "扎克伯格断言：五年内数十亿人将拥有专属AI助手，Meta砸重金豪赌未来",
-        "title_zh": "扎克伯格断言：五年内数十亿人将拥有专属AI助手，Meta砸重金豪赌未来",
-        "title_ja": "ザッカーバーグ氏、「5年以内に数十億人が専用のAIアシスタントを持つようになる、メタは将来に大きく賭けている」と断言",
-        "title_en": null,
-        "title_original": "扎克伯格断言：五年内数十亿人将拥有专属AI助手，Meta砸重金豪赌未来",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30005",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-30T06:40:56.944127Z"
+        "scored_at": "2026-07-30T09:41:25.788403Z"
       }
     },
     {
@@ -1419,16 +1507,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7971,
-      "importance": 0.7971,
-      "importance_score": 0.7971,
+      "score": 0.7914,
+      "importance": 0.7914,
+      "importance_score": 0.7914,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7394,
+        "recency": 0.708,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1457,7 +1545,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T06:40:56.944127Z"
+        "scored_at": "2026-07-30T09:41:25.788403Z"
       }
     },
     {
@@ -1543,16 +1631,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7604,
-      "importance": 0.7604,
-      "importance_score": 0.7604,
+      "score": 0.7542,
+      "importance": 0.7542,
+      "importance_score": 0.7542,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8043,
+        "recency": 0.7702,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1581,7 +1669,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T06:40:56.944127Z"
+        "scored_at": "2026-07-30T09:41:25.788403Z"
       }
     },
     {
@@ -1634,16 +1722,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7282,
-      "importance": 0.7282,
-      "importance_score": 0.7282,
+      "score": 0.7218,
+      "importance": 0.7218,
+      "importance_score": 0.7218,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.831,
+        "recency": 0.7958,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1670,96 +1758,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T06:40:56.944127Z"
-      }
-    },
-    {
-      "story_id": "story_bfae1ca34e04",
-      "title": "算力价格未来可能上涨 10 倍以上 / Why compute might get 10x+ more expensive in coming years",
-      "title_ja": "コンピューティングのコストが今後数年で 10 倍以上になる可能性がある理由",
-      "url": "https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive",
-      "primary_url": "https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive",
-      "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8af68ecb41be2657c155406128a9ebc2a83af488",
-          "title": "算力价格未来可能上涨 10 倍以上 / Why compute might get 10x+ more expensive in coming years",
-          "title_zh": "算力价格未来可能上涨 10 倍以上",
-          "title_ja": "コンピューティングのコストが今後数年で 10 倍以上になる可能性がある理由",
-          "title_en": "Why compute might get 10x+ more expensive in coming years",
-          "title_original": "Why compute might get 10x+ more expensive in coming years",
-          "summary": "AI 算力现货价格自 2 月低点已上涨 40% 以上，Google 和 Anthropic 从 SpaceX 租用 11 万块 GPU 的月租金达 9 亿美元，约为现货价格的 2 倍。若 AI 达到人类水平软件工程师能力，单块 H100 等效算力年租金可达 25 万美元，是当前现货价格的 15 倍。",
-          "summary_ja": "AIコンピューティング能力のスポット価格は2月の安値から40％以上上昇した。 Google と Anthropic は、SpaceX から 110,000 個の GPU を月額 9 億米ドルでレンタルしています。これは、スポット価格の約 2 倍です。 AI が人間レベルのソフトウェア エンジニアの能力に到達すると、1 台の H100 と同等のコンピューティング能力の年間レンタル料は、現在のスポット価格の 15 倍である 25 万米ドルに達する可能性があります。",
-          "recommend_reason_zh": null,
-          "url": "https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive",
-          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T15:01:35Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Dwarkesh Patel：Podcast & Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "8af68ecb41be2657c155406128a9ebc2a83af488",
-          "title": "算力价格未来可能上涨 10 倍以上 / Why compute might get 10x+ more expensive in coming years",
-          "title_zh": "算力价格未来可能上涨 10 倍以上",
-          "title_ja": "コンピューティングのコストが今後数年で 10 倍以上になる可能性がある理由",
-          "title_en": "Why compute might get 10x+ more expensive in coming years",
-          "title_original": "Why compute might get 10x+ more expensive in coming years",
-          "summary": "AI 算力现货价格自 2 月低点已上涨 40% 以上，Google 和 Anthropic 从 SpaceX 租用 11 万块 GPU 的月租金达 9 亿美元，约为现货价格的 2 倍。若 AI 达到人类水平软件工程师能力，单块 H100 等效算力年租金可达 25 万美元，是当前现货价格的 15 倍。",
-          "summary_ja": "AIコンピューティング能力のスポット価格は2月の安値から40％以上上昇した。 Google と Anthropic は、SpaceX から 110,000 個の GPU を月額 9 億米ドルでレンタルしています。これは、スポット価格の約 2 倍です。 AI が人間レベルのソフトウェア エンジニアの能力に到達すると、1 台の H100 と同等のコンピューティング能力の年間レンタル料は、現在のスポット価格の 15 倍である 25 万米ドルに達する可能性があります。",
-          "recommend_reason_zh": null,
-          "url": "https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive",
-          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T15:01:35Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7252,
-      "importance": 0.7252,
-      "importance_score": 0.7252,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7979,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-29T15:01:35Z",
-      "latest_at": "2026-07-29T15:01:35Z",
-      "primary_item": {
-        "id": "8af68ecb41be2657c155406128a9ebc2a83af488",
-        "title": "算力价格未来可能上涨 10 倍以上 / Why compute might get 10x+ more expensive in coming years",
-        "title_zh": "算力价格未来可能上涨 10 倍以上",
-        "title_ja": "コンピューティングのコストが今後数年で 10 倍以上になる可能性がある理由",
-        "title_en": "Why compute might get 10x+ more expensive in coming years",
-        "title_original": "Why compute might get 10x+ more expensive in coming years",
-        "summary": "AI 算力现货价格自 2 月低点已上涨 40% 以上，Google 和 Anthropic 从 SpaceX 租用 11 万块 GPU 的月租金达 9 亿美元，约为现货价格的 2 倍。若 AI 达到人类水平软件工程师能力，单块 H100 等效算力年租金可达 25 万美元，是当前现货价格的 15 倍。",
-        "summary_ja": "AIコンピューティング能力のスポット価格は2月の安値から40％以上上昇した。 Google と Anthropic は、SpaceX から 110,000 個の GPU を月額 9 億米ドルでレンタルしています。これは、スポット価格の約 2 倍です。 AI が人間レベルのソフトウェア エンジニアの能力に到達すると、1 台の H100 と同等のコンピューティング能力の年間レンタル料は、現在のスポット価格の 15 倍である 25 万米ドルに達する可能性があります。",
-        "recommend_reason_zh": null,
-        "url": "https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive",
-        "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-30T06:40:56.944127Z"
+        "scored_at": "2026-07-30T09:41:25.788403Z"
       }
     },
     {
@@ -1812,22 +1811,21 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7549,
-      "importance": 0.7549,
-      "importance_score": 0.7549,
+      "score": 0.7477,
+      "importance": 0.7477,
+      "importance_score": 0.7477,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9461,
+        "recency": 0.906,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-30T02:49:47Z",
       "latest_at": "2026-07-30T02:49:47Z",
@@ -1849,33 +1847,33 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T06:40:56.944127Z"
+        "scored_at": "2026-07-30T09:41:25.788403Z"
       }
     },
     {
-      "story_id": "story_0dde159d7701",
-      "title": "火山引擎正式上线豆包搜索开放服务 赋能智能体长程任务",
-      "title_ja": "Volcano Engine が Doubao 検索オープン サービスを正式に開始し、インテリジェント エージェントが長距離タスクを行えるようにする",
-      "url": "https://www.aibase.com/news/30003",
-      "primary_url": "https://www.aibase.com/news/30003",
+      "story_id": "story_ba2568b4b3aa",
+      "title": "WorkBuddy重大升级:「人机双写」上线，AI时代的Office来了!",
+      "title_ja": "WorkBuddy メジャーアップグレード：「人機二重書き込み」がオンライン化、AI時代のOfficeが登場！",
+      "url": "https://www.aibase.com/news/30014",
+      "primary_url": "https://www.aibase.com/news/30014",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "7e6fc0158445512b7bb886613d431fd3f426846b",
-          "title": "火山引擎正式上线豆包搜索开放服务 赋能智能体长程任务",
-          "title_zh": "火山引擎正式上线豆包搜索开放服务 赋能智能体长程任务",
-          "title_ja": "Volcano Engine が Doubao 検索オープン サービスを正式に開始し、インテリジェント エージェントが長距離タスクを行えるようにする",
+          "id": "bc6edf1c1cfdcac2dca84c3ec80b5f2c352806d1",
+          "title": "WorkBuddy重大升级:「人机双写」上线，AI时代的Office来了!",
+          "title_zh": "WorkBuddy重大升级:「人机双写」上线，AI时代的Office来了!",
+          "title_ja": "WorkBuddy メジャーアップグレード：「人機二重書き込み」がオンライン化、AI時代のOfficeが登場！",
           "title_en": null,
-          "title_original": "火山引擎正式上线豆包搜索开放服务 赋能智能体长程任务",
+          "title_original": "WorkBuddy重大升级:「人机双写」上线，AI时代的Office来了!",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30003",
+          "url": "https://www.aibase.com/news/30014",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-30T06:39:48.003555Z"
+          "published_at": "2026-07-30T09:39:47.007967Z"
         }
       ],
       "source_count": 1,
@@ -1884,20 +1882,20 @@
       ],
       "items": [
         {
-          "id": "7e6fc0158445512b7bb886613d431fd3f426846b",
-          "title": "火山引擎正式上线豆包搜索开放服务 赋能智能体长程任务",
-          "title_zh": "火山引擎正式上线豆包搜索开放服务 赋能智能体长程任务",
-          "title_ja": "Volcano Engine が Doubao 検索オープン サービスを正式に開始し、インテリジェント エージェントが長距離タスクを行えるようにする",
+          "id": "bc6edf1c1cfdcac2dca84c3ec80b5f2c352806d1",
+          "title": "WorkBuddy重大升级:「人机双写」上线，AI时代的Office来了!",
+          "title_zh": "WorkBuddy重大升级:「人机双写」上线，AI时代的Office来了!",
+          "title_ja": "WorkBuddy メジャーアップグレード：「人機二重書き込み」がオンライン化、AI時代のOfficeが登場！",
           "title_en": null,
-          "title_original": "火山引擎正式上线豆包搜索开放服务 赋能智能体长程任务",
+          "title_original": "WorkBuddy重大升级:「人机双写」上线，AI时代的Office来了!",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30003",
+          "url": "https://www.aibase.com/news/30014",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-30T06:39:48.003555Z"
+          "published_at": "2026-07-30T09:39:47.007967Z"
         }
       ],
       "item_count": 1,
@@ -1919,19 +1917,19 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-30T06:39:48.003555Z",
-      "latest_at": "2026-07-30T06:39:48.003555Z",
+      "earliest_at": "2026-07-30T09:39:47.007967Z",
+      "latest_at": "2026-07-30T09:39:47.007967Z",
       "primary_item": {
-        "id": "7e6fc0158445512b7bb886613d431fd3f426846b",
-        "title": "火山引擎正式上线豆包搜索开放服务 赋能智能体长程任务",
-        "title_zh": "火山引擎正式上线豆包搜索开放服务 赋能智能体长程任务",
-        "title_ja": "Volcano Engine が Doubao 検索オープン サービスを正式に開始し、インテリジェント エージェントが長距離タスクを行えるようにする",
+        "id": "bc6edf1c1cfdcac2dca84c3ec80b5f2c352806d1",
+        "title": "WorkBuddy重大升级:「人机双写」上线，AI时代的Office来了!",
+        "title_zh": "WorkBuddy重大升级:「人机双写」上线，AI时代的Office来了!",
+        "title_ja": "WorkBuddy メジャーアップグレード：「人機二重書き込み」がオンライン化、AI時代のOfficeが登場！",
         "title_en": null,
-        "title_original": "火山引擎正式上线豆包搜索开放服务 赋能智能体长程任务",
+        "title_original": "WorkBuddy重大升级:「人机双写」上线，AI时代的Office来了!",
         "summary": null,
         "summary_ja": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30003",
+        "url": "https://www.aibase.com/news/30014",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1939,7 +1937,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T06:40:56.944127Z"
+        "scored_at": "2026-07-30T09:41:25.788403Z"
       }
     }
   ]
