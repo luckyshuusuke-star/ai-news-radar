@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T20:33:26.556310Z",
+  "generated_at": "2026-07-30T22:17:34.811121Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -119,16 +119,16 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8845,
-      "importance": 0.8845,
-      "importance_score": 0.8845,
+      "score": 0.8807,
+      "importance": 0.8807,
+      "importance_score": 0.8807,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8586,
+        "recency": 0.8373,
         "story_heat": 0.5
       },
       "category": "official",
@@ -158,7 +158,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T20:34:59.347020Z"
+        "scored_at": "2026-07-30T22:18:55.520364Z"
       }
     },
     {
@@ -244,16 +244,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8752,
-      "importance": 0.8752,
-      "importance_score": 0.8752,
+      "score": 0.871,
+      "importance": 0.871,
+      "importance_score": 0.871,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.97,
-        "recency": 0.9231,
+        "recency": 0.9003,
         "story_heat": 0.25
       },
       "category": "official",
@@ -283,7 +283,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T20:34:59.347020Z"
+        "scored_at": "2026-07-30T22:18:55.520364Z"
       }
     },
     {
@@ -336,16 +336,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8525,
-      "importance": 0.8525,
-      "importance_score": 0.8525,
+      "score": 0.8484,
+      "importance": 0.8484,
+      "importance_score": 0.8484,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9249,
+        "recency": 0.902,
         "story_heat": 0.0
       },
       "category": "official",
@@ -374,7 +374,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T20:34:59.347020Z"
+        "scored_at": "2026-07-30T22:18:55.520364Z"
       }
     },
     {
@@ -427,16 +427,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8442,
-      "importance": 0.8442,
-      "importance_score": 0.8442,
+      "score": 0.84,
+      "importance": 0.84,
+      "importance_score": 0.84,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9569,
+        "recency": 0.9332,
         "story_heat": 0.0
       },
       "category": "official",
@@ -465,7 +465,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T20:34:59.347020Z"
+        "scored_at": "2026-07-30T22:18:55.520364Z"
       }
     },
     {
@@ -518,16 +518,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8406,
-      "importance": 0.8406,
-      "importance_score": 0.8406,
+      "score": 0.8362,
+      "importance": 0.8362,
+      "importance_score": 0.8362,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9811,
+        "recency": 0.9569,
         "story_heat": 0.0
       },
       "category": "official",
@@ -556,7 +556,98 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T20:34:59.347020Z"
+        "scored_at": "2026-07-30T22:18:55.520364Z"
+      }
+    },
+    {
+      "story_id": "story_6f833287598b",
+      "title": "浏览器升级、多代码仓库审查和图像编辑 26.727 / Browser upgrades, multi-repository review, and image editing 26.727",
+      "title_ja": "ブラウザのアップグレード、マルチリポジトリのレビュー、および画像編集 26.727",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "ac4db5b1e24a9568bea612ce663c836535244ceb",
+          "title": "浏览器升级、多代码仓库审查和图像编辑 26.727 / Browser upgrades, multi-repository review, and image editing 26.727",
+          "title_zh": "浏览器升级、多代码仓库审查和图像编辑 26.727",
+          "title_ja": "ブラウザのアップグレード、マルチリポジトリのレビュー、および画像編集 26.727",
+          "title_en": "Browser upgrades, multi-repository review, and image editing 26.727",
+          "title_original": "Browser upgrades, multi-repository review, and image editing 26.727",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-30T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "ac4db5b1e24a9568bea612ce663c836535244ceb",
+          "title": "浏览器升级、多代码仓库审查和图像编辑 26.727 / Browser upgrades, multi-repository review, and image editing 26.727",
+          "title_zh": "浏览器升级、多代码仓库审查和图像编辑 26.727",
+          "title_ja": "ブラウザのアップグレード、マルチリポジトリのレビュー、および画像編集 26.727",
+          "title_en": "Browser upgrades, multi-repository review, and image editing 26.727",
+          "title_original": "Browser upgrades, multi-repository review, and image editing 26.727",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-30T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8165,
+      "importance": 0.8165,
+      "importance_score": 0.8165,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.7248,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-30T00:00:00Z",
+      "latest_at": "2026-07-30T00:00:00Z",
+      "primary_item": {
+        "id": "ac4db5b1e24a9568bea612ce663c836535244ceb",
+        "title": "浏览器升级、多代码仓库审查和图像编辑 26.727 / Browser upgrades, multi-repository review, and image editing 26.727",
+        "title_zh": "浏览器升级、多代码仓库审查和图像编辑 26.727",
+        "title_ja": "ブラウザのアップグレード、マルチリポジトリのレビュー、および画像編集 26.727",
+        "title_en": "Browser upgrades, multi-repository review, and image editing 26.727",
+        "title_original": "Browser upgrades, multi-repository review, and image editing 26.727",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-30T22:18:55.520364Z"
       }
     },
     {
@@ -609,16 +700,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8382,
-      "importance": 0.8382,
-      "importance_score": 0.8382,
+      "score": 0.8341,
+      "importance": 0.8341,
+      "importance_score": 0.8341,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9233,
+        "recency": 0.9004,
         "story_heat": 0.0
       },
       "category": "official",
@@ -647,7 +738,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T20:34:59.347020Z"
+        "scored_at": "2026-07-30T22:18:55.520364Z"
       }
     },
     {
@@ -700,16 +791,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7992,
-      "importance": 0.7992,
-      "importance_score": 0.7992,
+      "score": 0.7951,
+      "importance": 0.7951,
+      "importance_score": 0.7951,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9233,
+        "recency": 0.9005,
         "story_heat": 0.0
       },
       "category": "official",
@@ -737,7 +828,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T20:34:59.347020Z"
+        "scored_at": "2026-07-30T22:18:55.520364Z"
       }
     },
     {
@@ -823,16 +914,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7953,
-      "importance": 0.7953,
-      "importance_score": 0.7953,
+      "score": 0.7909,
+      "importance": 0.7909,
+      "importance_score": 0.7909,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9984,
+        "recency": 0.9737,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -861,7 +952,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T20:34:59.347020Z"
+        "scored_at": "2026-07-30T22:18:55.520364Z"
       }
     },
     {
@@ -914,16 +1005,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8366,
-      "importance": 0.8366,
-      "importance_score": 0.8366,
+      "score": 0.8324,
+      "importance": 0.8324,
+      "importance_score": 0.8324,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9591,
+        "recency": 0.9353,
         "story_heat": 0.0
       },
       "category": "official",
@@ -952,7 +1043,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T20:34:59.347020Z"
+        "scored_at": "2026-07-30T22:18:55.520364Z"
       }
     },
     {
@@ -1038,16 +1129,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7682,
-      "importance": 0.7682,
-      "importance_score": 0.7682,
+      "score": 0.7645,
+      "importance": 0.7645,
+      "importance_score": 0.7645,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8308,
+        "recency": 0.8103,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1076,7 +1167,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T20:34:59.347020Z"
+        "scored_at": "2026-07-30T22:18:55.520364Z"
       }
     },
     {
@@ -1129,16 +1220,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7608,
-      "importance": 0.7608,
-      "importance_score": 0.7608,
+      "score": 0.7564,
+      "importance": 0.7564,
+      "importance_score": 0.7564,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9957,
+        "recency": 0.971,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1166,7 +1257,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T20:34:59.347020Z"
+        "scored_at": "2026-07-30T22:18:55.520364Z"
       }
     },
     {
@@ -1219,16 +1310,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7543,
-      "importance": 0.7543,
-      "importance_score": 0.7543,
+      "score": 0.75,
+      "importance": 0.75,
+      "importance_score": 0.75,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9762,
+        "recency": 0.952,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1256,7 +1347,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T20:34:59.347020Z"
+        "scored_at": "2026-07-30T22:18:55.520364Z"
       }
     },
     {
@@ -1309,22 +1400,21 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7539,
-      "importance": 0.7539,
-      "importance_score": 0.7539,
+      "score": 0.7497,
+      "importance": 0.7497,
+      "importance_score": 0.7497,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9575,
+        "recency": 0.9338,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-30T17:32:59Z",
       "latest_at": "2026-07-30T17:32:59Z",
@@ -1346,7 +1436,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T20:34:59.347020Z"
+        "scored_at": "2026-07-30T22:18:55.520364Z"
       }
     },
     {
@@ -1399,16 +1489,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7485,
-      "importance": 0.7485,
-      "importance_score": 0.7485,
+      "score": 0.7445,
+      "importance": 0.7445,
+      "importance_score": 0.7445,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.894,
+        "recency": 0.8718,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1435,7 +1525,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T20:34:59.347020Z"
+        "scored_at": "2026-07-30T22:18:55.520364Z"
       }
     },
     {
@@ -1488,16 +1578,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7464,
-      "importance": 0.7464,
-      "importance_score": 0.7464,
+      "score": 0.7421,
+      "importance": 0.7421,
+      "importance_score": 0.7421,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9487,
+        "recency": 0.9253,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1524,7 +1614,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T20:34:59.347020Z"
+        "scored_at": "2026-07-30T22:18:55.520364Z"
       }
     },
     {
@@ -1577,16 +1667,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8331,
-      "importance": 0.8331,
-      "importance_score": 0.8331,
+      "score": 0.8289,
+      "importance": 0.8289,
+      "importance_score": 0.8289,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9396,
+        "recency": 0.9163,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1615,7 +1705,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T20:34:59.347020Z"
+        "scored_at": "2026-07-30T22:18:55.520364Z"
       }
     },
     {
@@ -1668,16 +1758,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7414,
-      "importance": 0.7414,
-      "importance_score": 0.7414,
+      "score": 0.7376,
+      "importance": 0.7376,
+      "importance_score": 0.7376,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8544,
+        "recency": 0.8333,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1704,7 +1794,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T20:34:59.347020Z"
+        "scored_at": "2026-07-30T22:18:55.520364Z"
       }
     },
     {
@@ -1757,16 +1847,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7324,
-      "importance": 0.7324,
-      "importance_score": 0.7324,
+      "score": 0.729,
+      "importance": 0.729,
+      "importance_score": 0.729,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7711,
+        "recency": 0.752,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1793,7 +1883,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T20:34:59.347020Z"
+        "scored_at": "2026-07-30T22:18:55.520364Z"
       }
     },
     {
@@ -1846,16 +1936,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7264,
-      "importance": 0.7264,
-      "importance_score": 0.7264,
+      "score": 0.7231,
+      "importance": 0.7231,
+      "importance_score": 0.7231,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7377,
+        "recency": 0.7195,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1882,96 +1972,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T20:34:59.347020Z"
-      }
-    },
-    {
-      "story_id": "story_714eae7f3642",
-      "title": "Replit Design 发布：AI 赋能设计愿景 / You don't need to be a designer. You just need to know what you want to bring to life. The gap betw…",
-      "title_ja": "デザイナーである必要はありません。必要なのは、自分が何を実現したいのかを知ることだけです。間のギャップ…",
-      "url": "https://x.com/Replit/status/2082568269119062019",
-      "primary_url": "https://x.com/Replit/status/2082568269119062019",
-      "source": "X：Replit (@Replit)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1389b7666f2e91008307cadb590d1a85ddffee8a",
-          "title": "Replit Design 发布：AI 赋能设计愿景 / You don't need to be a designer. You just need to know what you want to bring to life. The gap betw…",
-          "title_zh": "Replit Design 发布：AI 赋能设计愿景",
-          "title_ja": "デザイナーである必要はありません。必要なのは、自分が何を実現したいのかを知ることだけです。間のギャップ…",
-          "title_en": "You don't need to be a designer. You just need to know what you want to bring to life. The gap betw…",
-          "title_original": "You don't need to be a designer. You just need to know what you want to bring to life. The gap betw…",
-          "summary": "你不需要成为设计师。你只需要知道你想把什么变为现实。\n\n你脑海中的想法与屏幕上的成果之间的差距刚刚消失了。\n\n这就是 Replit Design 背后的愿景。\n\n阅读我们构建它的原因以及我们认为 AI 驱动设计的未来方向：https://replit.com/blog/introducing-replit-design",
-          "summary_ja": "デザイナーである必要はありません。必要なのは、何を現実にしたいのかを知ることだけです。\n\n頭の中のアイデアと画面上の結果との間のギャップは消えます。\n\nこれがReplit Designの背後にあるビジョンです。\n\n私たちがそれを構築した理由と、AI 駆動設計の将来の方向性についてお読みください: https://replit.com/blog/introducing-replit-design",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/Replit/status/2082568269119062019",
-          "source": "X：Replit (@Replit)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T20:45:42Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Replit (@Replit)"
-      ],
-      "items": [
-        {
-          "id": "1389b7666f2e91008307cadb590d1a85ddffee8a",
-          "title": "Replit Design 发布：AI 赋能设计愿景 / You don't need to be a designer. You just need to know what you want to bring to life. The gap betw…",
-          "title_zh": "Replit Design 发布：AI 赋能设计愿景",
-          "title_ja": "デザイナーである必要はありません。必要なのは、自分が何を実現したいのかを知ることだけです。間のギャップ…",
-          "title_en": "You don't need to be a designer. You just need to know what you want to bring to life. The gap betw…",
-          "title_original": "You don't need to be a designer. You just need to know what you want to bring to life. The gap betw…",
-          "summary": "你不需要成为设计师。你只需要知道你想把什么变为现实。\n\n你脑海中的想法与屏幕上的成果之间的差距刚刚消失了。\n\n这就是 Replit Design 背后的愿景。\n\n阅读我们构建它的原因以及我们认为 AI 驱动设计的未来方向：https://replit.com/blog/introducing-replit-design",
-          "summary_ja": "デザイナーである必要はありません。必要なのは、何を現実にしたいのかを知ることだけです。\n\n頭の中のアイデアと画面上の結果との間のギャップは消えます。\n\nこれがReplit Designの背後にあるビジョンです。\n\n私たちがそれを構築した理由と、AI 駆動設計の将来の方向性についてお読みください: https://replit.com/blog/introducing-replit-design",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/Replit/status/2082568269119062019",
-          "source": "X：Replit (@Replit)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T20:45:42Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7243,
-      "importance": 0.7243,
-      "importance_score": 0.7243,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7092,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-29T20:45:42Z",
-      "latest_at": "2026-07-29T20:45:42Z",
-      "primary_item": {
-        "id": "1389b7666f2e91008307cadb590d1a85ddffee8a",
-        "title": "Replit Design 发布：AI 赋能设计愿景 / You don't need to be a designer. You just need to know what you want to bring to life. The gap betw…",
-        "title_zh": "Replit Design 发布：AI 赋能设计愿景",
-        "title_ja": "デザイナーである必要はありません。必要なのは、自分が何を実現したいのかを知ることだけです。間のギャップ…",
-        "title_en": "You don't need to be a designer. You just need to know what you want to bring to life. The gap betw…",
-        "title_original": "You don't need to be a designer. You just need to know what you want to bring to life. The gap betw…",
-        "summary": "你不需要成为设计师。你只需要知道你想把什么变为现实。\n\n你脑海中的想法与屏幕上的成果之间的差距刚刚消失了。\n\n这就是 Replit Design 背后的愿景。\n\n阅读我们构建它的原因以及我们认为 AI 驱动设计的未来方向：https://replit.com/blog/introducing-replit-design",
-        "summary_ja": "デザイナーである必要はありません。必要なのは、何を現実にしたいのかを知ることだけです。\n\n頭の中のアイデアと画面上の結果との間のギャップは消えます。\n\nこれがReplit Designの背後にあるビジョンです。\n\n私たちがそれを構築した理由と、AI 駆動設計の将来の方向性についてお読みください: https://replit.com/blog/introducing-replit-design",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/Replit/status/2082568269119062019",
-        "source": "X：Replit (@Replit)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-30T20:34:59.347020Z"
+        "scored_at": "2026-07-30T22:18:55.520364Z"
       }
     }
   ]
