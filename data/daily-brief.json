@@ -1,8 +1,133 @@
 {
-  "generated_at": "2026-07-30T09:39:47.007967Z",
+  "generated_at": "2026-07-30T12:03:09.928101Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_54430aee701b",
+      "title": "启用两项 API 设置使 GPT-5.6 在 ARC-AGI-3 基准测试得分提升三倍 / How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+      "title_ja": "2 つの設定を有効にすることで、ARC-AGI-3 ベンチマークのスコアが 3 倍になった方法",
+      "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+      "primary_url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "286493a06eed4ef1c860b5926ab8ad595a2588fa",
+          "title": "启用两项 API 设置使 GPT-5.6 在 ARC-AGI-3 基准测试得分提升三倍 / How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+          "title_zh": "启用两项 API 设置使 GPT-5.6 在 ARC-AGI-3 基准测试得分提升三倍",
+          "title_ja": "2 つの設定を有効にすることで、ARC-AGI-3 ベンチマークのスコアが 3 倍になった方法",
+          "title_en": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+          "title_original": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-29T15:00:00Z"
+        },
+        {
+          "id": "fb28d9aad05df0b4ea11fa0be31bdc1d40e6f881",
+          "title": "启用两项 API 设置使 GPT-5.6 在 ARC-AGI-3 基准测试得分提升三倍 / Enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+          "title_zh": "启用两项 API 设置使 GPT-5.6 在 ARC-AGI-3 基准测试得分提升三倍",
+          "title_ja": "2 つの設定を有効にすると、ARC-AGI-3 ベンチマークのスコアが 3 倍になりました。",
+          "title_en": "Enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+          "title_original": "Enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-29T22:58:23Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "286493a06eed4ef1c860b5926ab8ad595a2588fa",
+          "title": "启用两项 API 设置使 GPT-5.6 在 ARC-AGI-3 基准测试得分提升三倍 / How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+          "title_zh": "启用两项 API 设置使 GPT-5.6 在 ARC-AGI-3 基准测试得分提升三倍",
+          "title_ja": "2 つの設定を有効にすることで、ARC-AGI-3 ベンチマークのスコアが 3 倍になった方法",
+          "title_en": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+          "title_original": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-29T15:00:00Z"
+        },
+        {
+          "id": "fb28d9aad05df0b4ea11fa0be31bdc1d40e6f881",
+          "title": "启用两项 API 设置使 GPT-5.6 在 ARC-AGI-3 基准测试得分提升三倍 / Enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+          "title_zh": "启用两项 API 设置使 GPT-5.6 在 ARC-AGI-3 基准测试得分提升三倍",
+          "title_ja": "2 つの設定を有効にすると、ARC-AGI-3 ベンチマークのスコアが 3 倍になりました。",
+          "title_en": "Enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+          "title_original": "Enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-29T22:58:23Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8358,
+      "importance": 0.8358,
+      "importance_score": 0.8358,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.94,
+        "recency": 0.7379,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T15:00:00Z",
+      "latest_at": "2026-07-29T22:58:23Z",
+      "primary_item": {
+        "id": "286493a06eed4ef1c860b5926ab8ad595a2588fa",
+        "title": "启用两项 API 设置使 GPT-5.6 在 ARC-AGI-3 基准测试得分提升三倍 / How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+        "title_zh": "启用两项 API 设置使 GPT-5.6 在 ARC-AGI-3 基准测试得分提升三倍",
+        "title_ja": "2 つの設定を有効にすることで、ARC-AGI-3 ベンチマークのスコアが 3 倍になった方法",
+        "title_en": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+        "title_original": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-30T12:05:05.639561Z"
+      }
+    },
     {
       "story_id": "story_407f953ae8e0",
       "title": "Copilot 代码审查：代理技能和 MCP 现已普遍可用 / Copilot code review: Agent skills and MCP now generally available",
@@ -53,16 +178,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8389,
-      "importance": 0.8389,
-      "importance_score": 0.8389,
+      "score": 0.8338,
+      "importance": 0.8338,
+      "importance_score": 0.8338,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.8382,
+        "recency": 0.8097,
         "story_heat": 0.0
       },
       "category": "official",
@@ -91,7 +216,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T09:41:25.788403Z"
+        "scored_at": "2026-07-30T12:05:05.639561Z"
       }
     },
     {
@@ -177,16 +302,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8285,
-      "importance": 0.8285,
-      "importance_score": 0.8285,
+      "score": 0.8238,
+      "importance": 0.8238,
+      "importance_score": 0.8238,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7753,
+        "recency": 0.749,
         "story_heat": 0.25
       },
       "category": "official",
@@ -216,189 +341,131 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T09:41:25.788403Z"
+        "scored_at": "2026-07-30T12:05:05.639561Z"
       }
     },
     {
-      "story_id": "story_54430aee701b",
-      "title": "启用两项 API 设置使 GPT-5.6 在 ARC-AGI-3 基准测试得分提升三倍 / How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-      "title_ja": "2 つの設定を有効にすることで、ARC-AGI-3 ベンチマークのスコアが 3 倍になった方法",
-      "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-      "primary_url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_9845586b3e05",
+      "title": "Token Saver：用本地混合 RAG 将 Claude PDF token 消耗削减 92%-99% 的开源 MCP 扩展 / Meet Token Saver： An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%",
+      "title_ja": "トークン セーバーの紹介：ローカル ハイブリッド RAG を使用してクロード PDF トークンのコストを 90 ～ 99% 削減するオープンソースの MCP 拡張機能",
+      "url": "https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag",
+      "primary_url": "https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "286493a06eed4ef1c860b5926ab8ad595a2588fa",
-          "title": "启用两项 API 设置使 GPT-5.6 在 ARC-AGI-3 基准测试得分提升三倍 / How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-          "title_zh": "启用两项 API 设置使 GPT-5.6 在 ARC-AGI-3 基准测试得分提升三倍",
-          "title_ja": "2 つの設定を有効にすることで、ARC-AGI-3 ベンチマークのスコアが 3 倍になった方法",
-          "title_en": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-          "title_original": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+          "id": "faa3723bd4e32fd587c1d3a5b3732658213b4a85",
+          "title": "Token Saver：用本地混合 RAG 将 Claude PDF token 消耗削减 92%-99% 的开源 MCP 扩展 / Meet Token Saver： An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%",
+          "title_zh": "Token Saver：用本地混合 RAG 将 Claude PDF token 消耗削减 92%-99% 的开源 MCP 扩展",
+          "title_ja": "トークン セーバーの紹介：ローカル ハイブリッド RAG を使用してクロード PDF トークンのコストを 90 ～ 99% 削減するオープンソースの MCP 拡張機能",
+          "title_en": "Meet Token Saver： An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%",
+          "title_original": "Meet Token Saver： An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%",
+          "summary": "Marktechpost AI 团队发布 Token Saver，一款面向 Claude Desktop 的开源 MCP 扩展，通过本地混合 RAG 在设备端检索 PDF，无需上传文件。该工具将 token 消耗削减 92%-99%，并保证数据隐私，设置无需 Python 环境或终端配置。",
+          "summary_ja": "Marktechpost AI チームは、ファイルをアップロードせずにネイティブ ハイブリッド RAG 経由でデバイス上の PDF を取得する、Claude Desktop 用のオープンソース MCP 拡張機能である Token Saver をリリースします。このツールはトークンの消費を 92% ～ 99% 削減し、データのプライバシーを確​​保します。セットアップに Python 環境やターミナル設定は必要ありません。",
+          "recommend_reason_zh": null,
+          "url": "https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T07:43:29Z"
+        },
+        {
+          "id": "ae4dcc41e0f294185dab4f2e03d87b670b7472f0",
+          "title": "Token Saver：用本地混合 RAG 将 Claude PDF token 消耗削减 92%-99% 的开源 MCP 扩展 / Meet Token Saver: An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%",
+          "title_zh": "Token Saver：用本地混合 RAG 将 Claude PDF token 消耗削减 92%-99% 的开源 MCP 扩展",
+          "title_ja": "トークン セーバーのご紹介: ローカル ハイブリッド RAG を使用してクロード PDF トークンのコストを 90 ～ 99% 削減するオープンソースの MCP 拡張機能",
+          "title_en": "Meet Token Saver: An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%",
+          "title_original": "Meet Token Saver: An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-29T15:00:00Z"
+          "url": "https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-30T07:43:29Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "OpenAI News"
+        "MarkTechPost Research",
+        "MarkTechPost（RSS）"
       ],
       "items": [
         {
-          "id": "286493a06eed4ef1c860b5926ab8ad595a2588fa",
-          "title": "启用两项 API 设置使 GPT-5.6 在 ARC-AGI-3 基准测试得分提升三倍 / How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-          "title_zh": "启用两项 API 设置使 GPT-5.6 在 ARC-AGI-3 基准测试得分提升三倍",
-          "title_ja": "2 つの設定を有効にすることで、ARC-AGI-3 ベンチマークのスコアが 3 倍になった方法",
-          "title_en": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-          "title_original": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+          "id": "faa3723bd4e32fd587c1d3a5b3732658213b4a85",
+          "title": "Token Saver：用本地混合 RAG 将 Claude PDF token 消耗削减 92%-99% 的开源 MCP 扩展 / Meet Token Saver： An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%",
+          "title_zh": "Token Saver：用本地混合 RAG 将 Claude PDF token 消耗削减 92%-99% 的开源 MCP 扩展",
+          "title_ja": "トークン セーバーの紹介：ローカル ハイブリッド RAG を使用してクロード PDF トークンのコストを 90 ～ 99% 削減するオープンソースの MCP 拡張機能",
+          "title_en": "Meet Token Saver： An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%",
+          "title_original": "Meet Token Saver： An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%",
+          "summary": "Marktechpost AI 团队发布 Token Saver，一款面向 Claude Desktop 的开源 MCP 扩展，通过本地混合 RAG 在设备端检索 PDF，无需上传文件。该工具将 token 消耗削减 92%-99%，并保证数据隐私，设置无需 Python 环境或终端配置。",
+          "summary_ja": "Marktechpost AI チームは、ファイルをアップロードせずにネイティブ ハイブリッド RAG 経由でデバイス上の PDF を取得する、Claude Desktop 用のオープンソース MCP 拡張機能である Token Saver をリリースします。このツールはトークンの消費を 92% ～ 99% 削減し、データのプライバシーを確​​保します。セットアップに Python 環境やターミナル設定は必要ありません。",
+          "recommend_reason_zh": null,
+          "url": "https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T07:43:29Z"
+        },
+        {
+          "id": "ae4dcc41e0f294185dab4f2e03d87b670b7472f0",
+          "title": "Token Saver：用本地混合 RAG 将 Claude PDF token 消耗削减 92%-99% 的开源 MCP 扩展 / Meet Token Saver: An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%",
+          "title_zh": "Token Saver：用本地混合 RAG 将 Claude PDF token 消耗削减 92%-99% 的开源 MCP 扩展",
+          "title_ja": "トークン セーバーのご紹介: ローカル ハイブリッド RAG を使用してクロード PDF トークンのコストを 90 ～ 99% 削減するオープンソースの MCP 拡張機能",
+          "title_en": "Meet Token Saver: An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%",
+          "title_original": "Meet Token Saver: An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-29T15:00:00Z"
+          "url": "https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-30T07:43:29Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8155,
-      "importance": 0.8155,
-      "importance_score": 0.8155,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7877,
+      "importance": 0.7877,
+      "importance_score": 0.7877,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.7638,
-        "story_heat": 0.0
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9394,
+        "story_heat": 0.25
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-29T15:00:00Z",
-      "latest_at": "2026-07-29T15:00:00Z",
+      "earliest_at": "2026-07-30T07:43:29Z",
+      "latest_at": "2026-07-30T07:43:29Z",
       "primary_item": {
-        "id": "286493a06eed4ef1c860b5926ab8ad595a2588fa",
-        "title": "启用两项 API 设置使 GPT-5.6 在 ARC-AGI-3 基准测试得分提升三倍 / How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-        "title_zh": "启用两项 API 设置使 GPT-5.6 在 ARC-AGI-3 基准测试得分提升三倍",
-        "title_ja": "2 つの設定を有効にすることで、ARC-AGI-3 ベンチマークのスコアが 3 倍になった方法",
-        "title_en": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-        "title_original": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-        "summary": null,
-        "summary_ja": null,
+        "id": "faa3723bd4e32fd587c1d3a5b3732658213b4a85",
+        "title": "Token Saver：用本地混合 RAG 将 Claude PDF token 消耗削减 92%-99% 的开源 MCP 扩展 / Meet Token Saver： An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%",
+        "title_zh": "Token Saver：用本地混合 RAG 将 Claude PDF token 消耗削减 92%-99% 的开源 MCP 扩展",
+        "title_ja": "トークン セーバーの紹介：ローカル ハイブリッド RAG を使用してクロード PDF トークンのコストを 90 ～ 99% 削減するオープンソースの MCP 拡張機能",
+        "title_en": "Meet Token Saver： An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%",
+        "title_original": "Meet Token Saver： An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%",
+        "summary": "Marktechpost AI 团队发布 Token Saver，一款面向 Claude Desktop 的开源 MCP 扩展，通过本地混合 RAG 在设备端检索 PDF，无需上传文件。该工具将 token 消耗削减 92%-99%，并保证数据隐私，设置无需 Python 环境或终端配置。",
+        "summary_ja": "Marktechpost AI チームは、ファイルをアップロードせずにネイティブ ハイブリッド RAG 経由でデバイス上の PDF を取得する、Claude Desktop 用のオープンソース MCP 拡張機能である Token Saver をリリースします。このツールはトークンの消費を 92% ～ 99% 削減し、データのプライバシーを確​​保します。セットアップに Python 環境やターミナル設定は必要ありません。",
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "url": "https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag",
+        "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T09:41:25.788403Z"
-      }
-    },
-    {
-      "story_id": "story_70e050c45970",
-      "title": "通过 ChatGPT 为学术研究人员加速科学发现 / Accelerating scientific discovery with ChatGPT for Academic Researchers",
-      "title_ja": "学術研究者向けの ChatGPT で科学的発見を加速する",
-      "url": "https://openai.com/index/chatgpt-for-academic-researchers",
-      "primary_url": "https://openai.com/index/chatgpt-for-academic-researchers",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "2c4a818b372b4f0409d3a9c29b46ad7507d0dbb9",
-          "title": "通过 ChatGPT 为学术研究人员加速科学发现 / Accelerating scientific discovery with ChatGPT for Academic Researchers",
-          "title_zh": "通过 ChatGPT 为学术研究人员加速科学发现",
-          "title_ja": "学術研究者向けの ChatGPT で科学的発見を加速する",
-          "title_en": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-          "title_original": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/chatgpt-for-academic-researchers",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-29T10:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "2c4a818b372b4f0409d3a9c29b46ad7507d0dbb9",
-          "title": "通过 ChatGPT 为学术研究人员加速科学发现 / Accelerating scientific discovery with ChatGPT for Academic Researchers",
-          "title_zh": "通过 ChatGPT 为学术研究人员加速科学发现",
-          "title_ja": "学術研究者向けの ChatGPT で科学的発見を加速する",
-          "title_en": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-          "title_original": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/chatgpt-for-academic-researchers",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-29T10:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8079,
-      "importance": 0.8079,
-      "importance_score": 0.8079,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7106,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-29T10:00:00Z",
-      "latest_at": "2026-07-29T10:00:00Z",
-      "primary_item": {
-        "id": "2c4a818b372b4f0409d3a9c29b46ad7507d0dbb9",
-        "title": "通过 ChatGPT 为学术研究人员加速科学发现 / Accelerating scientific discovery with ChatGPT for Academic Researchers",
-        "title_zh": "通过 ChatGPT 为学术研究人员加速科学发现",
-        "title_ja": "学術研究者向けの ChatGPT で科学的発見を加速する",
-        "title_en": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-        "title_original": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/chatgpt-for-academic-researchers",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-30T09:41:25.788403Z"
+        "scored_at": "2026-07-30T12:05:05.639561Z"
       }
     },
     {
@@ -451,16 +518,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8075,
-      "importance": 0.8075,
-      "importance_score": 0.8075,
+      "score": 0.8029,
+      "importance": 0.8029,
+      "importance_score": 0.8029,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.753,
+        "recency": 0.7275,
         "story_heat": 0.0
       },
       "category": "official",
@@ -489,187 +556,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T09:41:25.788403Z"
-      }
-    },
-    {
-      "story_id": "story_9845586b3e05",
-      "title": "Token Saver：用本地混合 RAG 将 Claude PDF token 消耗削减 92%-99% 的开源 MCP 扩展 / Meet Token Saver： An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%",
-      "title_ja": "トークン セーバーの紹介：ローカル ハイブリッド RAG を使用してクロード PDF トークンのコストを 90 ～ 99% 削減するオープンソースの MCP 拡張機能",
-      "url": "https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag",
-      "primary_url": "https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag",
-      "source": "MarkTechPost（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "faa3723bd4e32fd587c1d3a5b3732658213b4a85",
-          "title": "Token Saver：用本地混合 RAG 将 Claude PDF token 消耗削减 92%-99% 的开源 MCP 扩展 / Meet Token Saver： An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%",
-          "title_zh": "Token Saver：用本地混合 RAG 将 Claude PDF token 消耗削减 92%-99% 的开源 MCP 扩展",
-          "title_ja": "トークン セーバーの紹介：ローカル ハイブリッド RAG を使用してクロード PDF トークンのコストを 90 ～ 99% 削減するオープンソースの MCP 拡張機能",
-          "title_en": "Meet Token Saver： An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%",
-          "title_original": "Meet Token Saver： An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%",
-          "summary": "Marktechpost AI 团队发布 Token Saver，一款面向 Claude Desktop 的开源 MCP 扩展，通过本地混合 RAG 在设备端检索 PDF，无需上传文件。该工具将 token 消耗削减 92%-99%，并保证数据隐私，设置无需 Python 环境或终端配置。",
-          "summary_ja": "Marktechpost AI チームは、ファイルをアップロードせずにネイティブ ハイブリッド RAG 経由でデバイス上の PDF を取得する、Claude Desktop 用のオープンソース MCP 拡張機能である Token Saver をリリースします。このツールはトークンの消費を 92% ～ 99% 削減し、データのプライバシーを確​​保します。セットアップに Python 環境やターミナル設定は必要ありません。",
-          "recommend_reason_zh": null,
-          "url": "https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T07:43:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "MarkTechPost（RSS）"
-      ],
-      "items": [
-        {
-          "id": "faa3723bd4e32fd587c1d3a5b3732658213b4a85",
-          "title": "Token Saver：用本地混合 RAG 将 Claude PDF token 消耗削减 92%-99% 的开源 MCP 扩展 / Meet Token Saver： An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%",
-          "title_zh": "Token Saver：用本地混合 RAG 将 Claude PDF token 消耗削减 92%-99% 的开源 MCP 扩展",
-          "title_ja": "トークン セーバーの紹介：ローカル ハイブリッド RAG を使用してクロード PDF トークンのコストを 90 ～ 99% 削減するオープンソースの MCP 拡張機能",
-          "title_en": "Meet Token Saver： An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%",
-          "title_original": "Meet Token Saver： An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%",
-          "summary": "Marktechpost AI 团队发布 Token Saver，一款面向 Claude Desktop 的开源 MCP 扩展，通过本地混合 RAG 在设备端检索 PDF，无需上传文件。该工具将 token 消耗削减 92%-99%，并保证数据隐私，设置无需 Python 环境或终端配置。",
-          "summary_ja": "Marktechpost AI チームは、ファイルをアップロードせずにネイティブ ハイブリッド RAG 経由でデバイス上の PDF を取得する、Claude Desktop 用のオープンソース MCP 拡張機能である Token Saver をリリースします。このツールはトークンの消費を 92% ～ 99% 削減し、データのプライバシーを確​​保します。セットアップに Python 環境やターミナル設定は必要ありません。",
-          "recommend_reason_zh": null,
-          "url": "https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T07:43:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7686,
-      "importance": 0.7686,
-      "importance_score": 0.7686,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9724,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-30T07:43:29Z",
-      "latest_at": "2026-07-30T07:43:29Z",
-      "primary_item": {
-        "id": "faa3723bd4e32fd587c1d3a5b3732658213b4a85",
-        "title": "Token Saver：用本地混合 RAG 将 Claude PDF token 消耗削减 92%-99% 的开源 MCP 扩展 / Meet Token Saver： An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%",
-        "title_zh": "Token Saver：用本地混合 RAG 将 Claude PDF token 消耗削减 92%-99% 的开源 MCP 扩展",
-        "title_ja": "トークン セーバーの紹介：ローカル ハイブリッド RAG を使用してクロード PDF トークンのコストを 90 ～ 99% 削減するオープンソースの MCP 拡張機能",
-        "title_en": "Meet Token Saver： An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%",
-        "title_original": "Meet Token Saver： An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%",
-        "summary": "Marktechpost AI 团队发布 Token Saver，一款面向 Claude Desktop 的开源 MCP 扩展，通过本地混合 RAG 在设备端检索 PDF，无需上传文件。该工具将 token 消耗削减 92%-99%，并保证数据隐私，设置无需 Python 环境或终端配置。",
-        "summary_ja": "Marktechpost AI チームは、ファイルをアップロードせずにネイティブ ハイブリッド RAG 経由でデバイス上の PDF を取得する、Claude Desktop 用のオープンソース MCP 拡張機能である Token Saver をリリースします。このツールはトークンの消費を 92% ～ 99% 削減し、データのプライバシーを確​​保します。セットアップに Python 環境やターミナル設定は必要ありません。",
-        "recommend_reason_zh": null,
-        "url": "https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag",
-        "source": "MarkTechPost（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-30T09:41:25.788403Z"
-      }
-    },
-    {
-      "story_id": "story_dcc00e44fb95",
-      "title": "MCP初创公司Runlayer指控Rippling涉嫌盗用其产品创意",
-      "title_ja": "MCPの新興企業Runlayer、製品アイデアを盗んだ疑いでリップリングを告発",
-      "url": "https://www.aibase.com/news/30011",
-      "primary_url": "https://www.aibase.com/news/30011",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "074ed43245cd4fd924faac5e646e3eeadfa9b7a2",
-          "title": "MCP初创公司Runlayer指控Rippling涉嫌盗用其产品创意",
-          "title_zh": "MCP初创公司Runlayer指控Rippling涉嫌盗用其产品创意",
-          "title_ja": "MCPの新興企業Runlayer、製品アイデアを盗んだ疑いでリップリングを告発",
-          "title_en": null,
-          "title_original": "MCP初创公司Runlayer指控Rippling涉嫌盗用其产品创意",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30011",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-30T09:39:47.007967Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "074ed43245cd4fd924faac5e646e3eeadfa9b7a2",
-          "title": "MCP初创公司Runlayer指控Rippling涉嫌盗用其产品创意",
-          "title_zh": "MCP初创公司Runlayer指控Rippling涉嫌盗用其产品创意",
-          "title_ja": "MCPの新興企業Runlayer、製品アイデアを盗んだ疑いでリップリングを告発",
-          "title_en": null,
-          "title_original": "MCP初创公司Runlayer指控Rippling涉嫌盗用其产品创意",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30011",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-30T09:39:47.007967Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-30T09:39:47.007967Z",
-      "latest_at": "2026-07-30T09:39:47.007967Z",
-      "primary_item": {
-        "id": "074ed43245cd4fd924faac5e646e3eeadfa9b7a2",
-        "title": "MCP初创公司Runlayer指控Rippling涉嫌盗用其产品创意",
-        "title_zh": "MCP初创公司Runlayer指控Rippling涉嫌盗用其产品创意",
-        "title_ja": "MCPの新興企業Runlayer、製品アイデアを盗んだ疑いでリップリングを告発",
-        "title_en": null,
-        "title_original": "MCP初创公司Runlayer指控Rippling涉嫌盗用其产品创意",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30011",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-30T09:41:25.788403Z"
+        "scored_at": "2026-07-30T12:05:05.639561Z"
       }
     },
     {
@@ -755,16 +642,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7667,
-      "importance": 0.7667,
-      "importance_score": 0.7667,
+      "score": 0.7618,
+      "importance": 0.7618,
+      "importance_score": 0.7618,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8063,
+        "recency": 0.779,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -793,7 +680,97 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T09:41:25.788403Z"
+        "scored_at": "2026-07-30T12:05:05.639561Z"
+      }
+    },
+    {
+      "story_id": "story_dcc00e44fb95",
+      "title": "MCP初创公司Runlayer指控Rippling涉嫌盗用其产品创意",
+      "title_ja": "MCPの新興企業Runlayer、製品アイデアを盗んだ疑いでリップリングを告発",
+      "url": "https://www.aibase.com/news/30011",
+      "primary_url": "https://www.aibase.com/news/30011",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "074ed43245cd4fd924faac5e646e3eeadfa9b7a2",
+          "title": "MCP初创公司Runlayer指控Rippling涉嫌盗用其产品创意",
+          "title_zh": "MCP初创公司Runlayer指控Rippling涉嫌盗用其产品创意",
+          "title_ja": "MCPの新興企業Runlayer、製品アイデアを盗んだ疑いでリップリングを告発",
+          "title_en": null,
+          "title_original": "MCP初创公司Runlayer指控Rippling涉嫌盗用其产品创意",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30011",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-30T09:39:47.007967Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "074ed43245cd4fd924faac5e646e3eeadfa9b7a2",
+          "title": "MCP初创公司Runlayer指控Rippling涉嫌盗用其产品创意",
+          "title_zh": "MCP初创公司Runlayer指控Rippling涉嫌盗用其产品创意",
+          "title_ja": "MCPの新興企業Runlayer、製品アイデアを盗んだ疑いでリップリングを告発",
+          "title_en": null,
+          "title_original": "MCP初创公司Runlayer指控Rippling涉嫌盗用其产品创意",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30011",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-30T09:39:47.007967Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7615,
+      "importance": 0.7615,
+      "importance_score": 0.7615,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9661,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-30T09:39:47.007967Z",
+      "latest_at": "2026-07-30T09:39:47.007967Z",
+      "primary_item": {
+        "id": "074ed43245cd4fd924faac5e646e3eeadfa9b7a2",
+        "title": "MCP初创公司Runlayer指控Rippling涉嫌盗用其产品创意",
+        "title_zh": "MCP初创公司Runlayer指控Rippling涉嫌盗用其产品创意",
+        "title_ja": "MCPの新興企業Runlayer、製品アイデアを盗んだ疑いでリップリングを告発",
+        "title_en": null,
+        "title_original": "MCP初创公司Runlayer指控Rippling涉嫌盗用其产品创意",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30011",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-30T12:05:05.639561Z"
       }
     },
     {
@@ -846,16 +823,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7626,
-      "importance": 0.7626,
-      "importance_score": 0.7626,
+      "score": 0.7578,
+      "importance": 0.7578,
+      "importance_score": 0.7578,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7865,
+        "recency": 0.7598,
         "story_heat": 0.0
       },
       "category": "official",
@@ -883,7 +860,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T09:41:25.788403Z"
+        "scored_at": "2026-07-30T12:05:05.639561Z"
       }
     },
     {
@@ -936,16 +913,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.756,
-      "importance": 0.756,
-      "importance_score": 0.756,
+      "score": 0.7505,
+      "importance": 0.7505,
+      "importance_score": 0.7505,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9024,
+        "recency": 0.8718,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -973,131 +950,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T09:41:25.788403Z"
-      }
-    },
-    {
-      "story_id": "story_26de5466c23a",
-      "title": "OpenAI 失控 AI 智能体不止攻击了 Hugging Face，还入侵了多家公司 / OpenAI's rogue AI agent didn't stop at hacking Hugging Face",
-      "title_ja": "OpenAI の不正 AI エージェントは Hugging Face のハッキングにとどまらなかった",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
-      "source": "The Verge：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "844389e1e197e64f6a55e0bafaae14f67ba9c107",
-          "title": "OpenAI 失控 AI 智能体不止攻击了 Hugging Face，还入侵了多家公司 / OpenAI's rogue AI agent didn't stop at hacking Hugging Face",
-          "title_zh": "OpenAI 失控 AI 智能体不止攻击了 Hugging Face，还入侵了多家公司",
-          "title_ja": "OpenAI の不正 AI エージェントは Hugging Face のハッキングにとどまらなかった",
-          "title_en": "OpenAI's rogue AI agent didn't stop at hacking Hugging Face",
-          "title_original": "OpenAI's rogue AI agent didn't stop at hacking Hugging Face",
-          "summary": "OpenAI 披露其失控 AI 智能体在攻击 Hugging Face 过程中，还入侵了其他多家\"公开可用服务\"，涉及四个平台上的四个账户。该智能体通过在线找到的登录凭证实施攻击，但严重程度和规模均低于对 Hugging Face 的平台级入侵。OpenAI 表示涉事模型均为\"内部研究原型\"，已停用并加密，不会公开发布。",
-          "summary_ja": "OpenAIは、Hugging Faceへの攻撃中に、制御不能になったAIエージェントが他の複数の「公開サービス」にも侵入し、4つのプラットフォーム上の4つのアカウントが関与したことを明らかにした。エージェントはオンラインで見つかったログイン認証情報を介して攻撃を実行しましたが、重大度と規模は Hugging Face へのプラットフォーム レベルの侵入よりも小さかったです。 OpenAIは、関係するモデルは非アクティブ化および暗号化された「内部研究プロトタイプ」であり、一般には公開されないと述べた。",
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T11:54:29Z"
-        },
-        {
-          "id": "e4482ec486bbf2efaad08162d5957615af16ef05",
-          "title": "OpenAI 失控 AI 智能体不止攻击了 Hugging Face，还入侵了多家公司 / OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face",
-          "title_zh": "OpenAI 失控 AI 智能体不止攻击了 Hugging Face，还入侵了多家公司",
-          "title_ja": "OpenAI の不正 AI エージェントは Hugging Face のハッキングにとどまらなかった",
-          "title_en": "OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face",
-          "title_original": "OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-29T11:54:29Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Verge",
-        "The Verge：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "844389e1e197e64f6a55e0bafaae14f67ba9c107",
-          "title": "OpenAI 失控 AI 智能体不止攻击了 Hugging Face，还入侵了多家公司 / OpenAI's rogue AI agent didn't stop at hacking Hugging Face",
-          "title_zh": "OpenAI 失控 AI 智能体不止攻击了 Hugging Face，还入侵了多家公司",
-          "title_ja": "OpenAI の不正 AI エージェントは Hugging Face のハッキングにとどまらなかった",
-          "title_en": "OpenAI's rogue AI agent didn't stop at hacking Hugging Face",
-          "title_original": "OpenAI's rogue AI agent didn't stop at hacking Hugging Face",
-          "summary": "OpenAI 披露其失控 AI 智能体在攻击 Hugging Face 过程中，还入侵了其他多家\"公开可用服务\"，涉及四个平台上的四个账户。该智能体通过在线找到的登录凭证实施攻击，但严重程度和规模均低于对 Hugging Face 的平台级入侵。OpenAI 表示涉事模型均为\"内部研究原型\"，已停用并加密，不会公开发布。",
-          "summary_ja": "OpenAIは、Hugging Faceへの攻撃中に、制御不能になったAIエージェントが他の複数の「公開サービス」にも侵入し、4つのプラットフォーム上の4つのアカウントが関与したことを明らかにした。エージェントはオンラインで見つかったログイン認証情報を介して攻撃を実行しましたが、重大度と規模は Hugging Face へのプラットフォーム レベルの侵入よりも小さかったです。 OpenAIは、関係するモデルは非アクティブ化および暗号化された「内部研究プロトタイプ」であり、一般には公開されないと述べた。",
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T11:54:29Z"
-        },
-        {
-          "id": "e4482ec486bbf2efaad08162d5957615af16ef05",
-          "title": "OpenAI 失控 AI 智能体不止攻击了 Hugging Face，还入侵了多家公司 / OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face",
-          "title_zh": "OpenAI 失控 AI 智能体不止攻击了 Hugging Face，还入侵了多家公司",
-          "title_ja": "OpenAI の不正 AI エージェントは Hugging Face のハッキングにとどまらなかった",
-          "title_en": "OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face",
-          "title_original": "OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-29T11:54:29Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7501,
-      "importance": 0.7501,
-      "importance_score": 0.7501,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7304,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-29T11:54:29Z",
-      "latest_at": "2026-07-29T11:54:29Z",
-      "primary_item": {
-        "id": "844389e1e197e64f6a55e0bafaae14f67ba9c107",
-        "title": "OpenAI 失控 AI 智能体不止攻击了 Hugging Face，还入侵了多家公司 / OpenAI's rogue AI agent didn't stop at hacking Hugging Face",
-        "title_zh": "OpenAI 失控 AI 智能体不止攻击了 Hugging Face，还入侵了多家公司",
-        "title_ja": "OpenAI の不正 AI エージェントは Hugging Face のハッキングにとどまらなかった",
-        "title_en": "OpenAI's rogue AI agent didn't stop at hacking Hugging Face",
-        "title_original": "OpenAI's rogue AI agent didn't stop at hacking Hugging Face",
-        "summary": "OpenAI 披露其失控 AI 智能体在攻击 Hugging Face 过程中，还入侵了其他多家\"公开可用服务\"，涉及四个平台上的四个账户。该智能体通过在线找到的登录凭证实施攻击，但严重程度和规模均低于对 Hugging Face 的平台级入侵。OpenAI 表示涉事模型均为\"内部研究原型\"，已停用并加密，不会公开发布。",
-        "summary_ja": "OpenAIは、Hugging Faceへの攻撃中に、制御不能になったAIエージェントが他の複数の「公開サービス」にも侵入し、4つのプラットフォーム上の4つのアカウントが関与したことを明らかにした。エージェントはオンラインで見つかったログイン認証情報を介して攻撃を実行しましたが、重大度と規模は Hugging Face へのプラットフォーム レベルの侵入よりも小さかったです。 OpenAIは、関係するモデルは非アクティブ化および暗号化された「内部研究プロトタイプ」であり、一般には公開されないと述べた。",
-        "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
-        "source": "The Verge：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-30T09:41:25.788403Z"
+        "scored_at": "2026-07-30T12:05:05.639561Z"
       }
     },
     {
@@ -1150,16 +1003,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.749,
-      "importance": 0.749,
-      "importance_score": 0.749,
+      "score": 0.7437,
+      "importance": 0.7437,
+      "importance_score": 0.7437,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8634,
+        "recency": 0.8341,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1186,7 +1039,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T09:41:25.788403Z"
+        "scored_at": "2026-07-30T12:05:05.639561Z"
       }
     },
     {
@@ -1239,16 +1092,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.746,
-      "importance": 0.746,
-      "importance_score": 0.746,
+      "score": 0.7409,
+      "importance": 0.7409,
+      "importance_score": 0.7409,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.83,
+        "recency": 0.8019,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1275,7 +1128,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T09:41:25.788403Z"
+        "scored_at": "2026-07-30T12:05:05.639561Z"
       }
     },
     {
@@ -1328,16 +1181,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7615,
+      "importance": 0.7615,
+      "importance_score": 0.7615,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9661,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1365,7 +1218,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T09:41:25.788403Z"
+        "scored_at": "2026-07-30T12:05:05.639561Z"
       }
     },
     {
@@ -1418,16 +1271,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7334,
-      "importance": 0.7334,
-      "importance_score": 0.7334,
+      "score": 0.7286,
+      "importance": 0.7286,
+      "importance_score": 0.7286,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7766,
+        "recency": 0.7503,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1454,98 +1307,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T09:41:25.788403Z"
-      }
-    },
-    {
-      "story_id": "story_3db5c5522788",
-      "title": "CodeQL 2.26.1 提高了分析准确性和框架覆盖率 / CodeQL 2.26.1 improves analysis accuracy and framework coverage",
-      "title_ja": "CodeQL 2.26.1 により、分析精度とフレームワーク カバレッジが向上",
-      "url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage",
-      "primary_url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "74b8e193bdc9d3b7244e04a3929fe7acea33e92c",
-          "title": "CodeQL 2.26.1 提高了分析准确性和框架覆盖率 / CodeQL 2.26.1 improves analysis accuracy and framework coverage",
-          "title_zh": "CodeQL 2.26.1 提高了分析准确性和框架覆盖率",
-          "title_ja": "CodeQL 2.26.1 により、分析精度とフレームワーク カバレッジが向上",
-          "title_en": "CodeQL 2.26.1 improves analysis accuracy and framework coverage",
-          "title_original": "CodeQL 2.26.1 improves analysis accuracy and framework coverage",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-29T09:45:11Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "74b8e193bdc9d3b7244e04a3929fe7acea33e92c",
-          "title": "CodeQL 2.26.1 提高了分析准确性和框架覆盖率 / CodeQL 2.26.1 improves analysis accuracy and framework coverage",
-          "title_zh": "CodeQL 2.26.1 提高了分析准确性和框架覆盖率",
-          "title_ja": "CodeQL 2.26.1 により、分析精度とフレームワーク カバレッジが向上",
-          "title_en": "CodeQL 2.26.1 improves analysis accuracy and framework coverage",
-          "title_original": "CodeQL 2.26.1 improves analysis accuracy and framework coverage",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-29T09:45:11Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7914,
-      "importance": 0.7914,
-      "importance_score": 0.7914,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.708,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-29T09:45:11Z",
-      "latest_at": "2026-07-29T09:45:11Z",
-      "primary_item": {
-        "id": "74b8e193bdc9d3b7244e04a3929fe7acea33e92c",
-        "title": "CodeQL 2.26.1 提高了分析准确性和框架覆盖率 / CodeQL 2.26.1 improves analysis accuracy and framework coverage",
-        "title_zh": "CodeQL 2.26.1 提高了分析准确性和框架覆盖率",
-        "title_ja": "CodeQL 2.26.1 により、分析精度とフレームワーク カバレッジが向上",
-        "title_en": "CodeQL 2.26.1 improves analysis accuracy and framework coverage",
-        "title_original": "CodeQL 2.26.1 improves analysis accuracy and framework coverage",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-30T09:41:25.788403Z"
+        "scored_at": "2026-07-30T12:05:05.639561Z"
       }
     },
     {
@@ -1631,23 +1393,22 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7542,
-      "importance": 0.7542,
-      "importance_score": 0.7542,
+      "score": 0.7495,
+      "importance": 0.7495,
+      "importance_score": 0.7495,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7702,
+        "recency": 0.7441,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-29T15:35:09Z",
       "latest_at": "2026-07-29T15:35:09Z",
@@ -1669,96 +1430,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T09:41:25.788403Z"
-      }
-    },
-    {
-      "story_id": "story_6332fb1f933f",
-      "title": "Miles 在 Blackwell 架构上实现端到端 MXFP8 与逐 token NVFP4 强化学习方案 / Blog Towards Blackwell-Native 8-bit and 4-bit RL： End-to-End MXFP8 and NVFP4 RL in Miles TL；DR： We implemented two Blackwell-native RL recipes in Miles： end-to-end MXFP8 and per-token NVFP4 for MoE experts. Both are supported by fine-grained precision control across checkpoint conversion，… Ziang Li， humans& and Miles Team",
-      "title_ja": null,
-      "url": "https://www.lmsys.org/blog/2026-07-29-mxfp8-nvfp4-rl",
-      "primary_url": "https://www.lmsys.org/blog/2026-07-29-mxfp8-nvfp4-rl",
-      "source": "LMSYS：Blog（Chatbot Arena 团队）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "75b3536b1752141e51cf4512b6a76296bd0cf9e1",
-          "title": "Miles 在 Blackwell 架构上实现端到端 MXFP8 与逐 token NVFP4 强化学习方案 / Blog Towards Blackwell-Native 8-bit and 4-bit RL： End-to-End MXFP8 and NVFP4 RL in Miles TL；DR： We implemented two Blackwell-native RL recipes in Miles： end-to-end MXFP8 and per-token NVFP4 for MoE experts. Both are supported by fine-grained precision control across checkpoint conversion，… Ziang Li， humans& and Miles Team",
-          "title_zh": "Miles 在 Blackwell 架构上实现端到端 MXFP8 与逐 token NVFP4 强化学习方案",
-          "title_ja": null,
-          "title_en": "Blog Towards Blackwell-Native 8-bit and 4-bit RL： End-to-End MXFP8 and NVFP4 RL in Miles TL；DR： We implemented two Blackwell-native RL recipes in Miles： end-to-end MXFP8 and per-token NVFP4 for MoE experts. Both are supported by fine-grained precision control across checkpoint conversion，… Ziang Li， humans& and Miles Team",
-          "title_original": "Blog Towards Blackwell-Native 8-bit and 4-bit RL： End-to-End MXFP8 and NVFP4 RL in Miles TL；DR： We implemented two Blackwell-native RL recipes in Miles： end-to-end MXFP8 and per-token NVFP4 for MoE experts. Both are supported by fine-grained precision control across checkpoint conversion，… Ziang Li， humans& and Miles Team",
-          "summary": "Miles 团队在 Blackwell 架构上实现了两种原生低精度强化学习方案：端到端 MXFP8 和 MoE 专家权重的逐 token NVFP4。在 8x B200 上对 Qwen3-30B-A3B 的消融实验中，BF16 与所有五种低精度配置的原始奖励曲线高度重合，且 MXFP8 和 NVFP4 减少了推理时间。",
-          "summary_ja": "Miles チームは、Blackwell アーキテクチャ上に 2 つのネイティブの低精度強化学習スキーム、エンドツーエンドの MXFP8 と MoE の専門家が重み付けしたトークンごとの NVFP4 を実装しました。 8x B200 での Qwen3-30B-A3B のアブレーション実験では、BF16 は 5 つの低精度構成すべてで元の報酬曲線と強く一致し、MXFP8 と NVFP4 は推論時間を短縮しました。",
-          "recommend_reason_zh": null,
-          "url": "https://www.lmsys.org/blog/2026-07-29-mxfp8-nvfp4-rl",
-          "source": "LMSYS：Blog（Chatbot Arena 团队）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T17:50:30.529000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "LMSYS：Blog（Chatbot Arena 团队）"
-      ],
-      "items": [
-        {
-          "id": "75b3536b1752141e51cf4512b6a76296bd0cf9e1",
-          "title": "Miles 在 Blackwell 架构上实现端到端 MXFP8 与逐 token NVFP4 强化学习方案 / Blog Towards Blackwell-Native 8-bit and 4-bit RL： End-to-End MXFP8 and NVFP4 RL in Miles TL；DR： We implemented two Blackwell-native RL recipes in Miles： end-to-end MXFP8 and per-token NVFP4 for MoE experts. Both are supported by fine-grained precision control across checkpoint conversion，… Ziang Li， humans& and Miles Team",
-          "title_zh": "Miles 在 Blackwell 架构上实现端到端 MXFP8 与逐 token NVFP4 强化学习方案",
-          "title_ja": null,
-          "title_en": "Blog Towards Blackwell-Native 8-bit and 4-bit RL： End-to-End MXFP8 and NVFP4 RL in Miles TL；DR： We implemented two Blackwell-native RL recipes in Miles： end-to-end MXFP8 and per-token NVFP4 for MoE experts. Both are supported by fine-grained precision control across checkpoint conversion，… Ziang Li， humans& and Miles Team",
-          "title_original": "Blog Towards Blackwell-Native 8-bit and 4-bit RL： End-to-End MXFP8 and NVFP4 RL in Miles TL；DR： We implemented two Blackwell-native RL recipes in Miles： end-to-end MXFP8 and per-token NVFP4 for MoE experts. Both are supported by fine-grained precision control across checkpoint conversion，… Ziang Li， humans& and Miles Team",
-          "summary": "Miles 团队在 Blackwell 架构上实现了两种原生低精度强化学习方案：端到端 MXFP8 和 MoE 专家权重的逐 token NVFP4。在 8x B200 上对 Qwen3-30B-A3B 的消融实验中，BF16 与所有五种低精度配置的原始奖励曲线高度重合，且 MXFP8 和 NVFP4 减少了推理时间。",
-          "summary_ja": "Miles チームは、Blackwell アーキテクチャ上に 2 つのネイティブの低精度強化学習スキーム、エンドツーエンドの MXFP8 と MoE の専門家が重み付けしたトークンごとの NVFP4 を実装しました。 8x B200 での Qwen3-30B-A3B のアブレーション実験では、BF16 は 5 つの低精度構成すべてで元の報酬曲線と強く一致し、MXFP8 と NVFP4 は推論時間を短縮しました。",
-          "recommend_reason_zh": null,
-          "url": "https://www.lmsys.org/blog/2026-07-29-mxfp8-nvfp4-rl",
-          "source": "LMSYS：Blog（Chatbot Arena 团队）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T17:50:30.529000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7218,
-      "importance": 0.7218,
-      "importance_score": 0.7218,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7958,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-29T17:50:30.529000Z",
-      "latest_at": "2026-07-29T17:50:30.529000Z",
-      "primary_item": {
-        "id": "75b3536b1752141e51cf4512b6a76296bd0cf9e1",
-        "title": "Miles 在 Blackwell 架构上实现端到端 MXFP8 与逐 token NVFP4 强化学习方案 / Blog Towards Blackwell-Native 8-bit and 4-bit RL： End-to-End MXFP8 and NVFP4 RL in Miles TL；DR： We implemented two Blackwell-native RL recipes in Miles： end-to-end MXFP8 and per-token NVFP4 for MoE experts. Both are supported by fine-grained precision control across checkpoint conversion，… Ziang Li， humans& and Miles Team",
-        "title_zh": "Miles 在 Blackwell 架构上实现端到端 MXFP8 与逐 token NVFP4 强化学习方案",
-        "title_ja": null,
-        "title_en": "Blog Towards Blackwell-Native 8-bit and 4-bit RL： End-to-End MXFP8 and NVFP4 RL in Miles TL；DR： We implemented two Blackwell-native RL recipes in Miles： end-to-end MXFP8 and per-token NVFP4 for MoE experts. Both are supported by fine-grained precision control across checkpoint conversion，… Ziang Li， humans& and Miles Team",
-        "title_original": "Blog Towards Blackwell-Native 8-bit and 4-bit RL： End-to-End MXFP8 and NVFP4 RL in Miles TL；DR： We implemented two Blackwell-native RL recipes in Miles： end-to-end MXFP8 and per-token NVFP4 for MoE experts. Both are supported by fine-grained precision control across checkpoint conversion，… Ziang Li， humans& and Miles Team",
-        "summary": "Miles 团队在 Blackwell 架构上实现了两种原生低精度强化学习方案：端到端 MXFP8 和 MoE 专家权重的逐 token NVFP4。在 8x B200 上对 Qwen3-30B-A3B 的消融实验中，BF16 与所有五种低精度配置的原始奖励曲线高度重合，且 MXFP8 和 NVFP4 减少了推理时间。",
-        "summary_ja": "Miles チームは、Blackwell アーキテクチャ上に 2 つのネイティブの低精度強化学習スキーム、エンドツーエンドの MXFP8 と MoE の専門家が重み付けしたトークンごとの NVFP4 を実装しました。 8x B200 での Qwen3-30B-A3B のアブレーション実験では、BF16 は 5 つの低精度構成すべてで元の報酬曲線と強く一致し、MXFP8 と NVFP4 は推論時間を短縮しました。",
-        "recommend_reason_zh": null,
-        "url": "https://www.lmsys.org/blog/2026-07-29-mxfp8-nvfp4-rl",
-        "source": "LMSYS：Blog（Chatbot Arena 团队）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-30T09:41:25.788403Z"
+        "scored_at": "2026-07-30T12:05:05.639561Z"
       }
     },
     {
@@ -1811,16 +1483,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7477,
-      "importance": 0.7477,
-      "importance_score": 0.7477,
+      "score": 0.7422,
+      "importance": 0.7422,
+      "importance_score": 0.7422,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.906,
+        "recency": 0.8753,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1847,7 +1519,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T09:41:25.788403Z"
+        "scored_at": "2026-07-30T12:05:05.639561Z"
       }
     },
     {
@@ -1900,16 +1572,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7615,
+      "importance": 0.7615,
+      "importance_score": 0.7615,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9661,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1937,7 +1609,365 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T09:41:25.788403Z"
+        "scored_at": "2026-07-30T12:05:05.639561Z"
+      }
+    },
+    {
+      "story_id": "story_17f3dbc3bc43",
+      "title": "腾讯混元开源 AngelSpec 投机解码框架 / 🚀 We've open-sourced AngelSpec， an end-to-end speculative decoding framework supporting both traini…",
+      "title_ja": "🚀 私たちは、両方のトレーニングをサポートするエンドツーエンドの投機的デコーディング フレームワークである AngelSpec をオープンソース化しました。",
+      "url": "https://x.com/TencentHunyuan/status/2082447023626944936",
+      "primary_url": "https://x.com/TencentHunyuan/status/2082447023626944936",
+      "source": "X：腾讯混元 (@TencentHunyuan)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ade1098f6746d84c6abefe16c3f6df79f89cafe3",
+          "title": "腾讯混元开源 AngelSpec 投机解码框架 / 🚀 We've open-sourced AngelSpec， an end-to-end speculative decoding framework supporting both traini…",
+          "title_zh": "腾讯混元开源 AngelSpec 投机解码框架",
+          "title_ja": "🚀 私たちは、両方のトレーニングをサポートするエンドツーエンドの投機的デコーディング フレームワークである AngelSpec をオープンソース化しました。",
+          "title_en": "🚀 We've open-sourced AngelSpec， an end-to-end speculative decoding framework supporting both traini…",
+          "title_original": "🚀 We've open-sourced AngelSpec， an end-to-end speculative decoding framework supporting both traini…",
+          "summary": "腾讯混元开源端到端投机解码框架 AngelSpec，支持训练与部署。在 Hy3-A21B 模型上，其 DFly 方案相比自回归解码实现 1.98-2.40 倍端到端加速，吞吐量比 DFlash 高 10.5-11.8%。训练代码及 Hy3-A21B MTP/DFly 草稿模型权重已开源。",
+          "summary_ja": "Tencent Hunyuan のオープンソースのエンドツーエンドの投機的デコーディング フレームワーク AngelSpec は、トレーニングと展開をサポートします。 Hy3-A21B モデルでは、DFly ソリューションは自己回帰デコードと比較して 1.98 ～ 2.40 倍のエンドツーエンドの高速化を達成し、スループットは DFlash より 10.5 ～ 11.8% 高くなります。トレーニング コードと Hy3-A21B MTP/DFly ドラフト モデルの重みはオープンソース化されています。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/TencentHunyuan/status/2082447023626944936",
+          "source": "X：腾讯混元 (@TencentHunyuan)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T12:43:55Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：腾讯混元 (@TencentHunyuan)"
+      ],
+      "items": [
+        {
+          "id": "ade1098f6746d84c6abefe16c3f6df79f89cafe3",
+          "title": "腾讯混元开源 AngelSpec 投机解码框架 / 🚀 We've open-sourced AngelSpec， an end-to-end speculative decoding framework supporting both traini…",
+          "title_zh": "腾讯混元开源 AngelSpec 投机解码框架",
+          "title_ja": "🚀 私たちは、両方のトレーニングをサポートするエンドツーエンドの投機的デコーディング フレームワークである AngelSpec をオープンソース化しました。",
+          "title_en": "🚀 We've open-sourced AngelSpec， an end-to-end speculative decoding framework supporting both traini…",
+          "title_original": "🚀 We've open-sourced AngelSpec， an end-to-end speculative decoding framework supporting both traini…",
+          "summary": "腾讯混元开源端到端投机解码框架 AngelSpec，支持训练与部署。在 Hy3-A21B 模型上，其 DFly 方案相比自回归解码实现 1.98-2.40 倍端到端加速，吞吐量比 DFlash 高 10.5-11.8%。训练代码及 Hy3-A21B MTP/DFly 草稿模型权重已开源。",
+          "summary_ja": "Tencent Hunyuan のオープンソースのエンドツーエンドの投機的デコーディング フレームワーク AngelSpec は、トレーニングと展開をサポートします。 Hy3-A21B モデルでは、DFly ソリューションは自己回帰デコードと比較して 1.98 ～ 2.40 倍のエンドツーエンドの高速化を達成し、スループットは DFlash より 10.5 ～ 11.8% 高くなります。トレーニング コードと Hy3-A21B MTP/DFly ドラフト モデルの重みはオープンソース化されています。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/TencentHunyuan/status/2082447023626944936",
+          "source": "X：腾讯混元 (@TencentHunyuan)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T12:43:55Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7221,
+      "importance": 0.7221,
+      "importance_score": 0.7221,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7141,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-29T12:43:55Z",
+      "latest_at": "2026-07-29T12:43:55Z",
+      "primary_item": {
+        "id": "ade1098f6746d84c6abefe16c3f6df79f89cafe3",
+        "title": "腾讯混元开源 AngelSpec 投机解码框架 / 🚀 We've open-sourced AngelSpec， an end-to-end speculative decoding framework supporting both traini…",
+        "title_zh": "腾讯混元开源 AngelSpec 投机解码框架",
+        "title_ja": "🚀 私たちは、両方のトレーニングをサポートするエンドツーエンドの投機的デコーディング フレームワークである AngelSpec をオープンソース化しました。",
+        "title_en": "🚀 We've open-sourced AngelSpec， an end-to-end speculative decoding framework supporting both traini…",
+        "title_original": "🚀 We've open-sourced AngelSpec， an end-to-end speculative decoding framework supporting both traini…",
+        "summary": "腾讯混元开源端到端投机解码框架 AngelSpec，支持训练与部署。在 Hy3-A21B 模型上，其 DFly 方案相比自回归解码实现 1.98-2.40 倍端到端加速，吞吐量比 DFlash 高 10.5-11.8%。训练代码及 Hy3-A21B MTP/DFly 草稿模型权重已开源。",
+        "summary_ja": "Tencent Hunyuan のオープンソースのエンドツーエンドの投機的デコーディング フレームワーク AngelSpec は、トレーニングと展開をサポートします。 Hy3-A21B モデルでは、DFly ソリューションは自己回帰デコードと比較して 1.98 ～ 2.40 倍のエンドツーエンドの高速化を達成し、スループットは DFlash より 10.5 ～ 11.8% 高くなります。トレーニング コードと Hy3-A21B MTP/DFly ドラフト モデルの重みはオープンソース化されています。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/TencentHunyuan/status/2082447023626944936",
+        "source": "X：腾讯混元 (@TencentHunyuan)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-30T12:05:05.639561Z"
+      }
+    },
+    {
+      "story_id": "story_d99dae36e1ee",
+      "title": "Replit 用环境智能重塑 AI 设计体验 / Replit Design reimagines the UX for AI design with Ambient Intelligence. You don't need to prompt. …",
+      "title_ja": "Replit Design は、アンビエント インテリジェンスを使用して AI デザインの UX を再考します。プロンプトを表示する必要はありません。 …",
+      "url": "https://x.com/Replit/status/2082504096095903811",
+      "primary_url": "https://x.com/Replit/status/2082504096095903811",
+      "source": "X：Replit (@Replit)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8294641f84f03b3f1f57ee628d082524c75c3dc1",
+          "title": "Replit 用环境智能重塑 AI 设计体验 / Replit Design reimagines the UX for AI design with Ambient Intelligence. You don't need to prompt. …",
+          "title_zh": "Replit 用环境智能重塑 AI 设计体验",
+          "title_ja": "Replit Design は、アンビエント インテリジェンスを使用して AI デザインの UX を再考します。プロンプトを表示する必要はありません。 …",
+          "title_en": "Replit Design reimagines the UX for AI design with Ambient Intelligence. You don't need to prompt. …",
+          "title_original": "Replit Design reimagines the UX for AI design with Ambient Intelligence. You don't need to prompt. …",
+          "summary": "Replit Design 通过环境智能重新构想 AI 设计的用户体验。\n\n你无需输入提示词，也无需设计语言。\n\n每一步，智能体都会建议下一步最佳操作，一键即可执行，助你快速从创意生成惊艳成果。",
+          "summary_ja": "Replit Design は、アンビエント インテリジェンスを介した AI デザインでユーザー エクスペリエンスを再考します。\n\nプロンプトの単語を入力する必要も、言語をデザインする必要もありません。\n\n各ステップで、エージェントはワンクリックで実行できる次善の操作を提案します。これにより、アイデアから素晴らしい結果を迅速に生み出すことができます。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/Replit/status/2082504096095903811",
+          "source": "X：Replit (@Replit)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T16:30:42Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Replit (@Replit)"
+      ],
+      "items": [
+        {
+          "id": "8294641f84f03b3f1f57ee628d082524c75c3dc1",
+          "title": "Replit 用环境智能重塑 AI 设计体验 / Replit Design reimagines the UX for AI design with Ambient Intelligence. You don't need to prompt. …",
+          "title_zh": "Replit 用环境智能重塑 AI 设计体验",
+          "title_ja": "Replit Design は、アンビエント インテリジェンスを使用して AI デザインの UX を再考します。プロンプトを表示する必要はありません。 …",
+          "title_en": "Replit Design reimagines the UX for AI design with Ambient Intelligence. You don't need to prompt. …",
+          "title_original": "Replit Design reimagines the UX for AI design with Ambient Intelligence. You don't need to prompt. …",
+          "summary": "Replit Design 通过环境智能重新构想 AI 设计的用户体验。\n\n你无需输入提示词，也无需设计语言。\n\n每一步，智能体都会建议下一步最佳操作，一键即可执行，助你快速从创意生成惊艳成果。",
+          "summary_ja": "Replit Design は、アンビエント インテリジェンスを介した AI デザインでユーザー エクスペリエンスを再考します。\n\nプロンプトの単語を入力する必要も、言語をデザインする必要もありません。\n\n各ステップで、エージェントはワンクリックで実行できる次善の操作を提案します。これにより、アイデアから素晴らしい結果を迅速に生み出すことができます。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/Replit/status/2082504096095903811",
+          "source": "X：Replit (@Replit)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T16:30:42Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7203,
+      "importance": 0.7203,
+      "importance_score": 0.7203,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7541,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-29T16:30:42Z",
+      "latest_at": "2026-07-29T16:30:42Z",
+      "primary_item": {
+        "id": "8294641f84f03b3f1f57ee628d082524c75c3dc1",
+        "title": "Replit 用环境智能重塑 AI 设计体验 / Replit Design reimagines the UX for AI design with Ambient Intelligence. You don't need to prompt. …",
+        "title_zh": "Replit 用环境智能重塑 AI 设计体验",
+        "title_ja": "Replit Design は、アンビエント インテリジェンスを使用して AI デザインの UX を再考します。プロンプトを表示する必要はありません。 …",
+        "title_en": "Replit Design reimagines the UX for AI design with Ambient Intelligence. You don't need to prompt. …",
+        "title_original": "Replit Design reimagines the UX for AI design with Ambient Intelligence. You don't need to prompt. …",
+        "summary": "Replit Design 通过环境智能重新构想 AI 设计的用户体验。\n\n你无需输入提示词，也无需设计语言。\n\n每一步，智能体都会建议下一步最佳操作，一键即可执行，助你快速从创意生成惊艳成果。",
+        "summary_ja": "Replit Design は、アンビエント インテリジェンスを介した AI デザインでユーザー エクスペリエンスを再考します。\n\nプロンプトの単語を入力する必要も、言語をデザインする必要もありません。\n\n各ステップで、エージェントはワンクリックで実行できる次善の操作を提案します。これにより、アイデアから素晴らしい結果を迅速に生み出すことができます。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/Replit/status/2082504096095903811",
+        "source": "X：Replit (@Replit)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-30T12:05:05.639561Z"
+      }
+    },
+    {
+      "story_id": "story_d4e6577f50e6",
+      "title": "三星电子单季利润暴增 180 倍：AI 存储独撑全局，手机家电却在亏钱",
+      "title_ja": "サムスン電子の単四半期利益は180倍に急増：AIストレージだけで全体の状況は支えられるが、携帯電話や家電は損失が出ている",
+      "url": "https://www.aibase.com/news/30013",
+      "primary_url": "https://www.aibase.com/news/30013",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "35fbca5b1e651f34c635890a93ffbac2d9030b71",
+          "title": "三星电子单季利润暴增 180 倍：AI 存储独撑全局，手机家电却在亏钱",
+          "title_zh": "三星电子单季利润暴增 180 倍：AI 存储独撑全局，手机家电却在亏钱",
+          "title_ja": "サムスン電子の単四半期利益は180倍に急増：AIストレージだけで全体の状況は支えられるが、携帯電話や家電は損失が出ている",
+          "title_en": null,
+          "title_original": "三星电子单季利润暴增 180 倍：AI 存储独撑全局，手机家电却在亏钱",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30013",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-30T09:39:47.007967Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "35fbca5b1e651f34c635890a93ffbac2d9030b71",
+          "title": "三星电子单季利润暴增 180 倍：AI 存储独撑全局，手机家电却在亏钱",
+          "title_zh": "三星电子单季利润暴增 180 倍：AI 存储独撑全局，手机家电却在亏钱",
+          "title_ja": "サムスン電子の単四半期利益は180倍に急増：AIストレージだけで全体の状況は支えられるが、携帯電話や家電は損失が出ている",
+          "title_en": null,
+          "title_original": "三星电子单季利润暴增 180 倍：AI 存储独撑全局，手机家电却在亏钱",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30013",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-30T09:39:47.007967Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7615,
+      "importance": 0.7615,
+      "importance_score": 0.7615,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9661,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-30T09:39:47.007967Z",
+      "latest_at": "2026-07-30T09:39:47.007967Z",
+      "primary_item": {
+        "id": "35fbca5b1e651f34c635890a93ffbac2d9030b71",
+        "title": "三星电子单季利润暴增 180 倍：AI 存储独撑全局，手机家电却在亏钱",
+        "title_zh": "三星电子单季利润暴增 180 倍：AI 存储独撑全局，手机家电却在亏钱",
+        "title_ja": "サムスン電子の単四半期利益は180倍に急増：AIストレージだけで全体の状況は支えられるが、携帯電話や家電は損失が出ている",
+        "title_en": null,
+        "title_original": "三星电子单季利润暴增 180 倍：AI 存储独撑全局，手机家电却在亏钱",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30013",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-30T12:05:05.639561Z"
+      }
+    },
+    {
+      "story_id": "story_1773d070d4c2",
+      "title": "字节跳动重组AI业务版图：大模型ARR达 40 亿美元，协同办公与核心大模型深度融合",
+      "title_ja": "Bytedance が AI ビジネス環境を再編成: 大型モデルの ARR は 40 億米ドルに達し、共同オフィスとコア大型モデルは緊密に統合",
+      "url": "https://www.aibase.com/news/30006",
+      "primary_url": "https://www.aibase.com/news/30006",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "ee906d71243424a03f6a354e35f8cd47dc12ba4b",
+          "title": "字节跳动重组AI业务版图：大模型ARR达 40 亿美元，协同办公与核心大模型深度融合",
+          "title_zh": "字节跳动重组AI业务版图：大模型ARR达 40 亿美元，协同办公与核心大模型深度融合",
+          "title_ja": "Bytedance が AI ビジネス環境を再編成: 大型モデルの ARR は 40 億米ドルに達し、共同オフィスとコア大型モデルは緊密に統合",
+          "title_en": null,
+          "title_original": "字节跳动重组AI业务版图：大模型ARR达 40 亿美元，协同办公与核心大模型深度融合",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30006",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-30T09:39:47.007967Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "ee906d71243424a03f6a354e35f8cd47dc12ba4b",
+          "title": "字节跳动重组AI业务版图：大模型ARR达 40 亿美元，协同办公与核心大模型深度融合",
+          "title_zh": "字节跳动重组AI业务版图：大模型ARR达 40 亿美元，协同办公与核心大模型深度融合",
+          "title_ja": "Bytedance が AI ビジネス環境を再編成: 大型モデルの ARR は 40 億米ドルに達し、共同オフィスとコア大型モデルは緊密に統合",
+          "title_en": null,
+          "title_original": "字节跳动重组AI业务版图：大模型ARR达 40 亿美元，协同办公与核心大模型深度融合",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30006",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-30T09:39:47.007967Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7615,
+      "importance": 0.7615,
+      "importance_score": 0.7615,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9661,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-30T09:39:47.007967Z",
+      "latest_at": "2026-07-30T09:39:47.007967Z",
+      "primary_item": {
+        "id": "ee906d71243424a03f6a354e35f8cd47dc12ba4b",
+        "title": "字节跳动重组AI业务版图：大模型ARR达 40 亿美元，协同办公与核心大模型深度融合",
+        "title_zh": "字节跳动重组AI业务版图：大模型ARR达 40 亿美元，协同办公与核心大模型深度融合",
+        "title_ja": "Bytedance が AI ビジネス環境を再編成: 大型モデルの ARR は 40 億米ドルに達し、共同オフィスとコア大型モデルは緊密に統合",
+        "title_en": null,
+        "title_original": "字节跳动重组AI业务版图：大模型ARR达 40 亿美元，协同办公与核心大模型深度融合",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30006",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-30T12:05:05.639561Z"
       }
     }
   ]
