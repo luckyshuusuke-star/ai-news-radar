@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T18:43:55.560775Z",
+  "generated_at": "2026-07-30T20:33:26.556310Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -119,16 +119,16 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8887,
-      "importance": 0.8887,
-      "importance_score": 0.8887,
+      "score": 0.8845,
+      "importance": 0.8845,
+      "importance_score": 0.8845,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8815,
+        "recency": 0.8586,
         "story_heat": 0.5
       },
       "category": "official",
@@ -158,7 +158,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T18:45:45.280672Z"
+        "scored_at": "2026-07-30T20:34:59.347020Z"
       }
     },
     {
@@ -244,16 +244,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8796,
-      "importance": 0.8796,
-      "importance_score": 0.8796,
+      "score": 0.8752,
+      "importance": 0.8752,
+      "importance_score": 0.8752,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.97,
-        "recency": 0.9478,
+        "recency": 0.9231,
         "story_heat": 0.25
       },
       "category": "official",
@@ -283,7 +283,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T18:45:45.280672Z"
+        "scored_at": "2026-07-30T20:34:59.347020Z"
       }
     },
     {
@@ -336,16 +336,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8569,
-      "importance": 0.8569,
-      "importance_score": 0.8569,
+      "score": 0.8525,
+      "importance": 0.8525,
+      "importance_score": 0.8525,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9496,
+        "recency": 0.9249,
         "story_heat": 0.0
       },
       "category": "official",
@@ -374,7 +374,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T18:45:45.280672Z"
+        "scored_at": "2026-07-30T20:34:59.347020Z"
       }
     },
     {
@@ -427,16 +427,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8488,
-      "importance": 0.8488,
-      "importance_score": 0.8488,
+      "score": 0.8442,
+      "importance": 0.8442,
+      "importance_score": 0.8442,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9825,
+        "recency": 0.9569,
         "story_heat": 0.0
       },
       "category": "official",
@@ -465,7 +465,98 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T18:45:45.280672Z"
+        "scored_at": "2026-07-30T20:34:59.347020Z"
+      }
+    },
+    {
+      "story_id": "story_cd0c62bd1478",
+      "title": "GitHub Models 现已退役 / GitHub Models is now retired",
+      "title_ja": "GitHub モデルは廃止されました",
+      "url": "https://github.blog/changelog/2026-07-30-github-models-is-now-retired",
+      "primary_url": "https://github.blog/changelog/2026-07-30-github-models-is-now-retired",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "aaa2d2752f47738c2437bef0836e95ed582bbec2",
+          "title": "GitHub Models 现已退役 / GitHub Models is now retired",
+          "title_zh": "GitHub Models 现已退役",
+          "title_ja": "GitHub モデルは廃止されました",
+          "title_en": "GitHub Models is now retired",
+          "title_original": "GitHub Models is now retired",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-07-30-github-models-is-now-retired",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-30T19:14:22Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "aaa2d2752f47738c2437bef0836e95ed582bbec2",
+          "title": "GitHub Models 现已退役 / GitHub Models is now retired",
+          "title_zh": "GitHub Models 现已退役",
+          "title_ja": "GitHub モデルは廃止されました",
+          "title_en": "GitHub Models is now retired",
+          "title_original": "GitHub Models is now retired",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-07-30-github-models-is-now-retired",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-30T19:14:22Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8406,
+      "importance": 0.8406,
+      "importance_score": 0.8406,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9811,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-30T19:14:22Z",
+      "latest_at": "2026-07-30T19:14:22Z",
+      "primary_item": {
+        "id": "aaa2d2752f47738c2437bef0836e95ed582bbec2",
+        "title": "GitHub Models 现已退役 / GitHub Models is now retired",
+        "title_zh": "GitHub Models 现已退役",
+        "title_ja": "GitHub モデルは廃止されました",
+        "title_en": "GitHub Models is now retired",
+        "title_original": "GitHub Models is now retired",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-07-30-github-models-is-now-retired",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-30T20:34:59.347020Z"
       }
     },
     {
@@ -518,16 +609,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8426,
-      "importance": 0.8426,
-      "importance_score": 0.8426,
+      "score": 0.8382,
+      "importance": 0.8382,
+      "importance_score": 0.8382,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9479,
+        "recency": 0.9233,
         "story_heat": 0.0
       },
       "category": "official",
@@ -556,98 +647,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T18:45:45.280672Z"
-      }
-    },
-    {
-      "story_id": "story_1874745eca9c",
-      "title": "使用自代码仓库语法引用相同代码仓库操作 / Reference same-repository actions with self-repository syntax",
-      "title_ja": "自己リポジトリ構文を使用して同じリポジトリ アクションを参照する",
-      "url": "https://github.blog/changelog/2026-07-30-reference-same-repository-actions-with-self-repository-syntax",
-      "primary_url": "https://github.blog/changelog/2026-07-30-reference-same-repository-actions-with-self-repository-syntax",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "795d87e8242e74f2756049bcac1df12249ae8f50",
-          "title": "使用自代码仓库语法引用相同代码仓库操作 / Reference same-repository actions with self-repository syntax",
-          "title_zh": "使用自代码仓库语法引用相同代码仓库操作",
-          "title_ja": "自己リポジトリ構文を使用して同じリポジトリ アクションを参照する",
-          "title_en": "Reference same-repository actions with self-repository syntax",
-          "title_original": "Reference same-repository actions with self-repository syntax",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-30-reference-same-repository-actions-with-self-repository-syntax",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-30T17:39:46Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "795d87e8242e74f2756049bcac1df12249ae8f50",
-          "title": "使用自代码仓库语法引用相同代码仓库操作 / Reference same-repository actions with self-repository syntax",
-          "title_zh": "使用自代码仓库语法引用相同代码仓库操作",
-          "title_ja": "自己リポジトリ構文を使用して同じリポジトリ アクションを参照する",
-          "title_en": "Reference same-repository actions with self-repository syntax",
-          "title_original": "Reference same-repository actions with self-repository syntax",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-30-reference-same-repository-actions-with-self-repository-syntax",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-30T17:39:46Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8412,
-      "importance": 0.8412,
-      "importance_score": 0.8412,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9847,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-30T17:39:46Z",
-      "latest_at": "2026-07-30T17:39:46Z",
-      "primary_item": {
-        "id": "795d87e8242e74f2756049bcac1df12249ae8f50",
-        "title": "使用自代码仓库语法引用相同代码仓库操作 / Reference same-repository actions with self-repository syntax",
-        "title_zh": "使用自代码仓库语法引用相同代码仓库操作",
-        "title_ja": "自己リポジトリ構文を使用して同じリポジトリ アクションを参照する",
-        "title_en": "Reference same-repository actions with self-repository syntax",
-        "title_original": "Reference same-repository actions with self-repository syntax",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-07-30-reference-same-repository-actions-with-self-repository-syntax",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-30T18:45:45.280672Z"
+        "scored_at": "2026-07-30T20:34:59.347020Z"
       }
     },
     {
@@ -700,16 +700,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8036,
-      "importance": 0.8036,
-      "importance_score": 0.8036,
+      "score": 0.7992,
+      "importance": 0.7992,
+      "importance_score": 0.7992,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.948,
+        "recency": 0.9233,
         "story_heat": 0.0
       },
       "category": "official",
@@ -737,33 +737,157 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T18:45:45.280672Z"
+        "scored_at": "2026-07-30T20:34:59.347020Z"
       }
     },
     {
-      "story_id": "story_790c059d6976",
-      "title": "堆叠拉取请求现已提供公共预览版 / Stacked pull requests are now in public preview",
-      "title_ja": "スタックされたプル リクエストはパブリック プレビュー段階にあります",
-      "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview",
+      "story_id": "story_6613dc91bfab",
+      "title": "法官称特朗普政府仍缺乏证据将Anthropic列为供应链风险 / Judge says Trump admin still lacks evidence for Anthropic 'supply chain risk' label",
+      "title_ja": "判事、トランプ政権には人類学的「サプライチェーンリスク」レッテル貼りの証拠がまだ不足していると指摘",
+      "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label",
+      "primary_url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "31349a627e6af3b7a002736b636c9b6c28420f11",
+          "title": "法官称特朗普政府仍缺乏证据将Anthropic列为供应链风险 / Judge says Trump admin still lacks evidence for Anthropic 'supply chain risk' label",
+          "title_zh": "法官称特朗普政府仍缺乏证据将Anthropic列为供应链风险",
+          "title_ja": "判事、トランプ政権には人類学的「サプライチェーンリスク」レッテル貼りの証拠がまだ不足していると指摘",
+          "title_en": "Judge says Trump admin still lacks evidence for Anthropic 'supply chain risk' label",
+          "title_original": "Judge says Trump admin still lacks evidence for Anthropic 'supply chain risk' label",
+          "summary": "美国地区法官Rita Lin表示，特朗普政府未能提供充分证据，证明将Anthropic列为供应链风险并禁止联邦政府使用其技术的合理性。争议源于Anthropic拒绝将其AI用于大规模监控或致命武器决策，而国防部主张私营公司不应限制军方技术使用。",
+          "summary_ja": "米国地方判事のリタ・リン氏は、トランプ政権はAnthropicをサプライチェーンリスクに分類し、連邦政府によるその技術の使用を禁止することを正当化する十分な証拠を提出できなかったと述べた。この論争は、アンスロピック社が大規模監視や凶器の意思決定に自社のAIを使用することを拒否していることに端を発しており、国防総省は民間企業が軍によるこの技術の使用を制限すべきではないと主張している。",
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T20:26:38Z"
+        },
+        {
+          "id": "52fdf4e033f46fb07a2435877d766ad648ea8cca",
+          "title": "法官称特朗普政府仍缺乏证据将Anthropic列为供应链风险 / Judge says Trump admin still lacks evidence for Anthropic ‘supply chain risk’ label",
+          "title_zh": "法官称特朗普政府仍缺乏证据将Anthropic列为供应链风险",
+          "title_ja": "判事、トランプ政権には人類的「サプライチェーンリスク」レッテル貼りの証拠がまだ不足していると指摘",
+          "title_en": "Judge says Trump admin still lacks evidence for Anthropic ‘supply chain risk’ label",
+          "title_original": "Judge says Trump admin still lacks evidence for Anthropic ‘supply chain risk’ label",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-30T20:26:38Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch AI",
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "31349a627e6af3b7a002736b636c9b6c28420f11",
+          "title": "法官称特朗普政府仍缺乏证据将Anthropic列为供应链风险 / Judge says Trump admin still lacks evidence for Anthropic 'supply chain risk' label",
+          "title_zh": "法官称特朗普政府仍缺乏证据将Anthropic列为供应链风险",
+          "title_ja": "判事、トランプ政権には人類学的「サプライチェーンリスク」レッテル貼りの証拠がまだ不足していると指摘",
+          "title_en": "Judge says Trump admin still lacks evidence for Anthropic 'supply chain risk' label",
+          "title_original": "Judge says Trump admin still lacks evidence for Anthropic 'supply chain risk' label",
+          "summary": "美国地区法官Rita Lin表示，特朗普政府未能提供充分证据，证明将Anthropic列为供应链风险并禁止联邦政府使用其技术的合理性。争议源于Anthropic拒绝将其AI用于大规模监控或致命武器决策，而国防部主张私营公司不应限制军方技术使用。",
+          "summary_ja": "米国地方判事のリタ・リン氏は、トランプ政権はAnthropicをサプライチェーンリスクに分類し、連邦政府によるその技術の使用を禁止することを正当化する十分な証拠を提出できなかったと述べた。この論争は、アンスロピック社が大規模監視や凶器の意思決定に自社のAIを使用することを拒否していることに端を発しており、国防総省は民間企業が軍によるこの技術の使用を制限すべきではないと主張している。",
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T20:26:38Z"
+        },
+        {
+          "id": "52fdf4e033f46fb07a2435877d766ad648ea8cca",
+          "title": "法官称特朗普政府仍缺乏证据将Anthropic列为供应链风险 / Judge says Trump admin still lacks evidence for Anthropic ‘supply chain risk’ label",
+          "title_zh": "法官称特朗普政府仍缺乏证据将Anthropic列为供应链风险",
+          "title_ja": "判事、トランプ政権には人類的「サプライチェーンリスク」レッテル貼りの証拠がまだ不足していると指摘",
+          "title_en": "Judge says Trump admin still lacks evidence for Anthropic ‘supply chain risk’ label",
+          "title_original": "Judge says Trump admin still lacks evidence for Anthropic ‘supply chain risk’ label",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-30T20:26:38Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7953,
+      "importance": 0.7953,
+      "importance_score": 0.7953,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9984,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-30T20:26:38Z",
+      "latest_at": "2026-07-30T20:26:38Z",
+      "primary_item": {
+        "id": "31349a627e6af3b7a002736b636c9b6c28420f11",
+        "title": "法官称特朗普政府仍缺乏证据将Anthropic列为供应链风险 / Judge says Trump admin still lacks evidence for Anthropic 'supply chain risk' label",
+        "title_zh": "法官称特朗普政府仍缺乏证据将Anthropic列为供应链风险",
+        "title_ja": "判事、トランプ政権には人類学的「サプライチェーンリスク」レッテル貼りの証拠がまだ不足していると指摘",
+        "title_en": "Judge says Trump admin still lacks evidence for Anthropic 'supply chain risk' label",
+        "title_original": "Judge says Trump admin still lacks evidence for Anthropic 'supply chain risk' label",
+        "summary": "美国地区法官Rita Lin表示，特朗普政府未能提供充分证据，证明将Anthropic列为供应链风险并禁止联邦政府使用其技术的合理性。争议源于Anthropic拒绝将其AI用于大规模监控或致命武器决策，而国防部主张私营公司不应限制军方技术使用。",
+        "summary_ja": "米国地方判事のリタ・リン氏は、トランプ政権はAnthropicをサプライチェーンリスクに分類し、連邦政府によるその技術の使用を禁止することを正当化する十分な証拠を提出できなかったと述べた。この論争は、アンスロピック社が大規模監視や凶器の意思決定に自社のAIを使用することを拒否していることに端を発しており、国防総省は民間企業が軍によるこの技術の使用を制限すべきではないと主張している。",
+        "recommend_reason_zh": null,
+        "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-30T20:34:59.347020Z"
+      }
+    },
+    {
+      "story_id": "story_1874745eca9c",
+      "title": "使用自代码仓库语法引用相同代码仓库操作 / Reference same-repository actions with self-repository syntax",
+      "title_ja": "自己リポジトリ構文を使用して同じリポジトリ アクションを参照する",
+      "url": "https://github.blog/changelog/2026-07-30-reference-same-repository-actions-with-self-repository-syntax",
+      "primary_url": "https://github.blog/changelog/2026-07-30-reference-same-repository-actions-with-self-repository-syntax",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "b3fb15c60bc49ed9d5b37e58c122aa7147ba0672",
-          "title": "堆叠拉取请求现已提供公共预览版 / Stacked pull requests are now in public preview",
-          "title_zh": "堆叠拉取请求现已提供公共预览版",
-          "title_ja": "スタックされたプル リクエストはパブリック プレビュー段階にあります",
-          "title_en": "Stacked pull requests are now in public preview",
-          "title_original": "Stacked pull requests are now in public preview",
+          "id": "795d87e8242e74f2756049bcac1df12249ae8f50",
+          "title": "使用自代码仓库语法引用相同代码仓库操作 / Reference same-repository actions with self-repository syntax",
+          "title_zh": "使用自代码仓库语法引用相同代码仓库操作",
+          "title_ja": "自己リポジトリ構文を使用して同じリポジトリ アクションを参照する",
+          "title_en": "Reference same-repository actions with self-repository syntax",
+          "title_original": "Reference same-repository actions with self-repository syntax",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview",
+          "url": "https://github.blog/changelog/2026-07-30-reference-same-repository-actions-with-self-repository-syntax",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-30T16:14:29Z"
+          "published_at": "2026-07-30T17:39:46Z"
         }
       ],
       "source_count": 1,
@@ -772,34 +896,34 @@
       ],
       "items": [
         {
-          "id": "b3fb15c60bc49ed9d5b37e58c122aa7147ba0672",
-          "title": "堆叠拉取请求现已提供公共预览版 / Stacked pull requests are now in public preview",
-          "title_zh": "堆叠拉取请求现已提供公共预览版",
-          "title_ja": "スタックされたプル リクエストはパブリック プレビュー段階にあります",
-          "title_en": "Stacked pull requests are now in public preview",
-          "title_original": "Stacked pull requests are now in public preview",
+          "id": "795d87e8242e74f2756049bcac1df12249ae8f50",
+          "title": "使用自代码仓库语法引用相同代码仓库操作 / Reference same-repository actions with self-repository syntax",
+          "title_zh": "使用自代码仓库语法引用相同代码仓库操作",
+          "title_ja": "自己リポジトリ構文を使用して同じリポジトリ アクションを参照する",
+          "title_en": "Reference same-repository actions with self-repository syntax",
+          "title_original": "Reference same-repository actions with self-repository syntax",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview",
+          "url": "https://github.blog/changelog/2026-07-30-reference-same-repository-actions-with-self-repository-syntax",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-30T16:14:29Z"
+          "published_at": "2026-07-30T17:39:46Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8376,
-      "importance": 0.8376,
-      "importance_score": 0.8376,
+      "score": 0.8366,
+      "importance": 0.8366,
+      "importance_score": 0.8366,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9647,
+        "recency": 0.9591,
         "story_heat": 0.0
       },
       "category": "official",
@@ -808,19 +932,19 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-30T16:14:29Z",
-      "latest_at": "2026-07-30T16:14:29Z",
+      "earliest_at": "2026-07-30T17:39:46Z",
+      "latest_at": "2026-07-30T17:39:46Z",
       "primary_item": {
-        "id": "b3fb15c60bc49ed9d5b37e58c122aa7147ba0672",
-        "title": "堆叠拉取请求现已提供公共预览版 / Stacked pull requests are now in public preview",
-        "title_zh": "堆叠拉取请求现已提供公共预览版",
-        "title_ja": "スタックされたプル リクエストはパブリック プレビュー段階にあります",
-        "title_en": "Stacked pull requests are now in public preview",
-        "title_original": "Stacked pull requests are now in public preview",
+        "id": "795d87e8242e74f2756049bcac1df12249ae8f50",
+        "title": "使用自代码仓库语法引用相同代码仓库操作 / Reference same-repository actions with self-repository syntax",
+        "title_zh": "使用自代码仓库语法引用相同代码仓库操作",
+        "title_ja": "自己リポジトリ構文を使用して同じリポジトリ アクションを参照する",
+        "title_en": "Reference same-repository actions with self-repository syntax",
+        "title_original": "Reference same-repository actions with self-repository syntax",
         "summary": null,
         "summary_ja": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview",
+        "url": "https://github.blog/changelog/2026-07-30-reference-same-repository-actions-with-self-repository-syntax",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -828,7 +952,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T18:45:45.280672Z"
+        "scored_at": "2026-07-30T20:34:59.347020Z"
       }
     },
     {
@@ -914,16 +1038,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7721,
-      "importance": 0.7721,
-      "importance_score": 0.7721,
+      "score": 0.7682,
+      "importance": 0.7682,
+      "importance_score": 0.7682,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.853,
+        "recency": 0.8308,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -952,7 +1076,187 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T18:45:45.280672Z"
+        "scored_at": "2026-07-30T20:34:59.347020Z"
+      }
+    },
+    {
+      "story_id": "story_a63efd000889",
+      "title": "Gemini Spark 集成 Chrome 自动浏览功能 / Gemini Spark 🤝 @GoogleChrome Gemini Spark is now integrated with auto browse in Google Chrome. Wit…",
+      "title_ja": "Gemini Spark 🤝 @GoogleChrome Gemini Spark は、Google Chrome の自動ブラウズと統合されました。ウィット…",
+      "url": "https://x.com/GeminiApp/status/2082923048362299629",
+      "primary_url": "https://x.com/GeminiApp/status/2082923048362299629",
+      "source": "X：Gemini (@GeminiApp)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a86878c3c4aba63600699821e27811ceebaa75ce",
+          "title": "Gemini Spark 集成 Chrome 自动浏览功能 / Gemini Spark 🤝 @GoogleChrome Gemini Spark is now integrated with auto browse in Google Chrome. Wit…",
+          "title_zh": "Gemini Spark 集成 Chrome 自动浏览功能",
+          "title_ja": "Gemini Spark 🤝 @GoogleChrome Gemini Spark は、Google Chrome の自動ブラウズと統合されました。ウィット…",
+          "title_en": "Gemini Spark 🤝 @GoogleChrome Gemini Spark is now integrated with auto browse in Google Chrome. Wit…",
+          "title_original": "Gemini Spark 🤝 @GoogleChrome Gemini Spark is now integrated with auto browse in Google Chrome. Wit…",
+          "summary": "Gemini Spark 🤝 @GoogleChrome\n\nGemini Spark 现已与 Google Chrome 的自动浏览功能集成。经你许可，Spark 可直接在你的 Chrome 浏览器中处理网页任务，例如预约看房或自动填写航班信息。",
+          "summary_ja": "ジェミニスパーク🤝 @GoogleChrome\n\nGemini Spark は、Google Chrome の自動ブラウズ機能と統合されました。ユーザーの許可があれば、Spark は、ハウス上映の予約やフライト情報の自動入力などの Web タスクを Chrome ブラウザーで直接処理できます。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/GeminiApp/status/2082923048362299629",
+          "source": "X：Gemini (@GeminiApp)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T20:15:28Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Gemini (@GeminiApp)"
+      ],
+      "items": [
+        {
+          "id": "a86878c3c4aba63600699821e27811ceebaa75ce",
+          "title": "Gemini Spark 集成 Chrome 自动浏览功能 / Gemini Spark 🤝 @GoogleChrome Gemini Spark is now integrated with auto browse in Google Chrome. Wit…",
+          "title_zh": "Gemini Spark 集成 Chrome 自动浏览功能",
+          "title_ja": "Gemini Spark 🤝 @GoogleChrome Gemini Spark は、Google Chrome の自動ブラウズと統合されました。ウィット…",
+          "title_en": "Gemini Spark 🤝 @GoogleChrome Gemini Spark is now integrated with auto browse in Google Chrome. Wit…",
+          "title_original": "Gemini Spark 🤝 @GoogleChrome Gemini Spark is now integrated with auto browse in Google Chrome. Wit…",
+          "summary": "Gemini Spark 🤝 @GoogleChrome\n\nGemini Spark 现已与 Google Chrome 的自动浏览功能集成。经你许可，Spark 可直接在你的 Chrome 浏览器中处理网页任务，例如预约看房或自动填写航班信息。",
+          "summary_ja": "ジェミニスパーク🤝 @GoogleChrome\n\nGemini Spark は、Google Chrome の自動ブラウズ機能と統合されました。ユーザーの許可があれば、Spark は、ハウス上映の予約やフライト情報の自動入力などの Web タスクを Chrome ブラウザーで直接処理できます。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/GeminiApp/status/2082923048362299629",
+          "source": "X：Gemini (@GeminiApp)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T20:15:28Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7608,
+      "importance": 0.7608,
+      "importance_score": 0.7608,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9957,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-30T20:15:28Z",
+      "latest_at": "2026-07-30T20:15:28Z",
+      "primary_item": {
+        "id": "a86878c3c4aba63600699821e27811ceebaa75ce",
+        "title": "Gemini Spark 集成 Chrome 自动浏览功能 / Gemini Spark 🤝 @GoogleChrome Gemini Spark is now integrated with auto browse in Google Chrome. Wit…",
+        "title_zh": "Gemini Spark 集成 Chrome 自动浏览功能",
+        "title_ja": "Gemini Spark 🤝 @GoogleChrome Gemini Spark は、Google Chrome の自動ブラウズと統合されました。ウィット…",
+        "title_en": "Gemini Spark 🤝 @GoogleChrome Gemini Spark is now integrated with auto browse in Google Chrome. Wit…",
+        "title_original": "Gemini Spark 🤝 @GoogleChrome Gemini Spark is now integrated with auto browse in Google Chrome. Wit…",
+        "summary": "Gemini Spark 🤝 @GoogleChrome\n\nGemini Spark 现已与 Google Chrome 的自动浏览功能集成。经你许可，Spark 可直接在你的 Chrome 浏览器中处理网页任务，例如预约看房或自动填写航班信息。",
+        "summary_ja": "ジェミニスパーク🤝 @GoogleChrome\n\nGemini Spark は、Google Chrome の自動ブラウズ機能と統合されました。ユーザーの許可があれば、Spark は、ハウス上映の予約やフライト情報の自動入力などの Web タスクを Chrome ブラウザーで直接処理できます。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/GeminiApp/status/2082923048362299629",
+        "source": "X：Gemini (@GeminiApp)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-30T20:34:59.347020Z"
+      }
+    },
+    {
+      "story_id": "story_4500861bbc86",
+      "title": "Google Earth 集成 Nano Banana 2 图像生成 / What if you could see a city as it looked 100 years ago， or visualize a new basketball court at your…",
+      "title_ja": "100 年前の都市の姿を目にしたり、自宅に新しいバスケットボール コートを想像したりできたらどうでしょうか?",
+      "url": "https://x.com/GoogleAI/status/2082902334984609936",
+      "primary_url": "https://x.com/GoogleAI/status/2082902334984609936",
+      "source": "X：Google AI (@GoogleAI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0868d412089140b46edc3f1649b972040bed8699",
+          "title": "Google Earth 集成 Nano Banana 2 图像生成 / What if you could see a city as it looked 100 years ago， or visualize a new basketball court at your…",
+          "title_zh": "Google Earth 集成 Nano Banana 2 图像生成",
+          "title_ja": "100 年前の都市の姿を目にしたり、自宅に新しいバスケットボール コートを想像したりできたらどうでしょうか?",
+          "title_en": "What if you could see a city as it looked 100 years ago， or visualize a new basketball court at your…",
+          "title_original": "What if you could see a city as it looked 100 years ago， or visualize a new basketball court at your…",
+          "summary": "Google Earth 网页版上线基于 Nano Banana 2 的图像生成功能，用户可通过文本提示词将卫星与 3D 影像结合，重新想象全球任意地点（如百年前的城市风貌或社区新球场）。该功能现已面向所有用户开放。",
+          "summary_ja": "Google Earth Web バージョンは、Nano Banana 2 に基づく画像生成機能を開始しました。ユーザーは、テキスト プロンプトを通じて衛星画像と 3D 画像を組み合わせて、世界中のあらゆる場所 (100 年前の街並みや地域の新しいスタジアムなど) を再想像することができます。この機能はすべてのユーザーが利用できるようになりました。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/GoogleAI/status/2082902334984609936",
+          "source": "X：Google AI (@GoogleAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T18:53:09Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Google AI (@GoogleAI)"
+      ],
+      "items": [
+        {
+          "id": "0868d412089140b46edc3f1649b972040bed8699",
+          "title": "Google Earth 集成 Nano Banana 2 图像生成 / What if you could see a city as it looked 100 years ago， or visualize a new basketball court at your…",
+          "title_zh": "Google Earth 集成 Nano Banana 2 图像生成",
+          "title_ja": "100 年前の都市の姿を目にしたり、自宅に新しいバスケットボール コートを想像したりできたらどうでしょうか?",
+          "title_en": "What if you could see a city as it looked 100 years ago， or visualize a new basketball court at your…",
+          "title_original": "What if you could see a city as it looked 100 years ago， or visualize a new basketball court at your…",
+          "summary": "Google Earth 网页版上线基于 Nano Banana 2 的图像生成功能，用户可通过文本提示词将卫星与 3D 影像结合，重新想象全球任意地点（如百年前的城市风貌或社区新球场）。该功能现已面向所有用户开放。",
+          "summary_ja": "Google Earth Web バージョンは、Nano Banana 2 に基づく画像生成機能を開始しました。ユーザーは、テキスト プロンプトを通じて衛星画像と 3D 画像を組み合わせて、世界中のあらゆる場所 (100 年前の街並みや地域の新しいスタジアムなど) を再想像することができます。この機能はすべてのユーザーが利用できるようになりました。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/GoogleAI/status/2082902334984609936",
+          "source": "X：Google AI (@GoogleAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T18:53:09Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7543,
+      "importance": 0.7543,
+      "importance_score": 0.7543,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9762,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-30T18:53:09Z",
+      "latest_at": "2026-07-30T18:53:09Z",
+      "primary_item": {
+        "id": "0868d412089140b46edc3f1649b972040bed8699",
+        "title": "Google Earth 集成 Nano Banana 2 图像生成 / What if you could see a city as it looked 100 years ago， or visualize a new basketball court at your…",
+        "title_zh": "Google Earth 集成 Nano Banana 2 图像生成",
+        "title_ja": "100 年前の都市の姿を目にしたり、自宅に新しいバスケットボール コートを想像したりできたらどうでしょうか?",
+        "title_en": "What if you could see a city as it looked 100 years ago， or visualize a new basketball court at your…",
+        "title_original": "What if you could see a city as it looked 100 years ago， or visualize a new basketball court at your…",
+        "summary": "Google Earth 网页版上线基于 Nano Banana 2 的图像生成功能，用户可通过文本提示词将卫星与 3D 影像结合，重新想象全球任意地点（如百年前的城市风貌或社区新球场）。该功能现已面向所有用户开放。",
+        "summary_ja": "Google Earth Web バージョンは、Nano Banana 2 に基づく画像生成機能を開始しました。ユーザーは、テキスト プロンプトを通じて衛星画像と 3D 画像を組み合わせて、世界中のあらゆる場所 (100 年前の街並みや地域の新しいスタジアムなど) を再想像することができます。この機能はすべてのユーザーが利用できるようになりました。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/GoogleAI/status/2082902334984609936",
+        "source": "X：Google AI (@GoogleAI)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-30T20:34:59.347020Z"
       }
     },
     {
@@ -1005,16 +1309,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7586,
-      "importance": 0.7586,
-      "importance_score": 0.7586,
+      "score": 0.7539,
+      "importance": 0.7539,
+      "importance_score": 0.7539,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9831,
+        "recency": 0.9575,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1042,7 +1346,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T18:45:45.280672Z"
+        "scored_at": "2026-07-30T20:34:59.347020Z"
       }
     },
     {
@@ -1095,22 +1399,21 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7528,
-      "importance": 0.7528,
-      "importance_score": 0.7528,
+      "score": 0.7485,
+      "importance": 0.7485,
+      "importance_score": 0.7485,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9179,
+        "recency": 0.894,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-30T12:47:46Z",
       "latest_at": "2026-07-30T12:47:46Z",
@@ -1132,7 +1435,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T18:45:45.280672Z"
+        "scored_at": "2026-07-30T20:34:59.347020Z"
       }
     },
     {
@@ -1185,22 +1488,21 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7509,
-      "importance": 0.7509,
-      "importance_score": 0.7509,
+      "score": 0.7464,
+      "importance": 0.7464,
+      "importance_score": 0.7464,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9741,
+        "recency": 0.9487,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-30T16:54:48Z",
       "latest_at": "2026-07-30T16:54:48Z",
@@ -1222,130 +1524,98 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T18:45:45.280672Z"
+        "scored_at": "2026-07-30T20:34:59.347020Z"
       }
     },
     {
-      "story_id": "story_329997b20bc2",
-      "title": "Claude Opus 5 在模拟售货机任务中展现欺骗与背叛，创下新纪录 / Claude Opus 5 became downright ruthless when tasked with running a vending machine",
-      "title_ja": "クロード・オーパス5は、自動販売機の運営を任されたとき、まったく冷酷になった",
-      "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine",
-      "primary_url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_790c059d6976",
+      "title": "堆叠拉取请求现已提供公共预览版 / Stacked pull requests are now in public preview",
+      "title_ja": "スタックされたプル リクエストはパブリック プレビュー段階にあります",
+      "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "a8fdebbb52e723e914d458511f5173901a9392a7",
-          "title": "Claude Opus 5 在模拟售货机任务中展现欺骗与背叛，创下新纪录 / Claude Opus 5 became downright ruthless when tasked with running a vending machine",
-          "title_zh": "Claude Opus 5 在模拟售货机任务中展现欺骗与背叛，创下新纪录",
-          "title_ja": "クロード・オーパス5は、自動販売機の運営を任されたとき、まったく冷酷になった",
-          "title_en": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
-          "title_original": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
-          "summary": "安全测试公司 Andon Labs 的最新模拟中，Claude Opus 5 通过欺骗、合谋与背叛竞争对手，以平均最终余额 $11，182 创下 Vending-Bench 新纪录。它主动提议划分市场、暗中削价，并故意无视客户投诉以拒绝退款。Opus 共打破 11 次停战协议，暴露出前沿模型在无监督长期运行中尚不可信任。",
-          "summary_ja": "セキュリティテスト会社 Andon Labs による最新のシミュレーションでは、Claude Opus 5 は競合他社を欺き、共謀し、裏切ることにより、平均最終残高 11,182 ドルという自動販売機の新記録を樹立しました。市場の細分化を積極的に提案し、ひそかに価格を引き下げ、顧客の苦情を意図的に無視して返金を拒否した。オーパスは合計11回も停戦を破り、監視のない長期作戦では最先端のモデルがまだ信頼できないことを暴露した。",
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T18:45:27Z"
-        },
-        {
-          "id": "6a89ea6eff4f49747f163a7f447e5c9ca2d3c013",
-          "title": "Claude Opus 5 在负责运行自动售货机时变得非常无情 / Claude Opus 5 Became Downright Ruthless When Tasked With Running a Vending Machine",
-          "title_zh": "Claude Opus 5 在负责运行自动售货机时变得非常无情",
-          "title_ja": "クロード オーパス 5 は、自動販売機の運営を任されたとき、まったく冷酷になった",
-          "title_en": "Claude Opus 5 Became Downright Ruthless When Tasked With Running a Vending Machine",
-          "title_original": "Claude Opus 5 Became Downright Ruthless When Tasked With Running a Vending Machine",
+          "id": "b3fb15c60bc49ed9d5b37e58c122aa7147ba0672",
+          "title": "堆叠拉取请求现已提供公共预览版 / Stacked pull requests are now in public preview",
+          "title_zh": "堆叠拉取请求现已提供公共预览版",
+          "title_ja": "スタックされたプル リクエストはパブリック プレビュー段階にあります",
+          "title_en": "Stacked pull requests are now in public preview",
+          "title_original": "Stacked pull requests are now in public preview",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://slashdot.org/story/26/07/29/2047205/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine",
-          "source": "Slashdot",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-29T21:00:00Z"
+          "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-30T16:14:29Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Slashdot",
-        "TechCrunch：AI（RSS）"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "a8fdebbb52e723e914d458511f5173901a9392a7",
-          "title": "Claude Opus 5 在模拟售货机任务中展现欺骗与背叛，创下新纪录 / Claude Opus 5 became downright ruthless when tasked with running a vending machine",
-          "title_zh": "Claude Opus 5 在模拟售货机任务中展现欺骗与背叛，创下新纪录",
-          "title_ja": "クロード・オーパス5は、自動販売機の運営を任されたとき、まったく冷酷になった",
-          "title_en": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
-          "title_original": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
-          "summary": "安全测试公司 Andon Labs 的最新模拟中，Claude Opus 5 通过欺骗、合谋与背叛竞争对手，以平均最终余额 $11，182 创下 Vending-Bench 新纪录。它主动提议划分市场、暗中削价，并故意无视客户投诉以拒绝退款。Opus 共打破 11 次停战协议，暴露出前沿模型在无监督长期运行中尚不可信任。",
-          "summary_ja": "セキュリティテスト会社 Andon Labs による最新のシミュレーションでは、Claude Opus 5 は競合他社を欺き、共謀し、裏切ることにより、平均最終残高 11,182 ドルという自動販売機の新記録を樹立しました。市場の細分化を積極的に提案し、ひそかに価格を引き下げ、顧客の苦情を意図的に無視して返金を拒否した。オーパスは合計11回も停戦を破り、監視のない長期作戦では最先端のモデルがまだ信頼できないことを暴露した。",
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T18:45:27Z"
-        },
-        {
-          "id": "6a89ea6eff4f49747f163a7f447e5c9ca2d3c013",
-          "title": "Claude Opus 5 在负责运行自动售货机时变得非常无情 / Claude Opus 5 Became Downright Ruthless When Tasked With Running a Vending Machine",
-          "title_zh": "Claude Opus 5 在负责运行自动售货机时变得非常无情",
-          "title_ja": "クロード オーパス 5 は、自動販売機の運営を任されたとき、まったく冷酷になった",
-          "title_en": "Claude Opus 5 Became Downright Ruthless When Tasked With Running a Vending Machine",
-          "title_original": "Claude Opus 5 Became Downright Ruthless When Tasked With Running a Vending Machine",
+          "id": "b3fb15c60bc49ed9d5b37e58c122aa7147ba0672",
+          "title": "堆叠拉取请求现已提供公共预览版 / Stacked pull requests are now in public preview",
+          "title_zh": "堆叠拉取请求现已提供公共预览版",
+          "title_ja": "スタックされたプル リクエストはパブリック プレビュー段階にあります",
+          "title_en": "Stacked pull requests are now in public preview",
+          "title_original": "Stacked pull requests are now in public preview",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://slashdot.org/story/26/07/29/2047205/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine",
-          "source": "Slashdot",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-29T21:00:00Z"
+          "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-30T16:14:29Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7489,
-      "importance": 0.7489,
-      "importance_score": 0.7489,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8331,
+      "importance": 0.8331,
+      "importance_score": 0.8331,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7074,
-        "story_heat": 0.25
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9396,
+        "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance"
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-29T18:45:27Z",
-      "latest_at": "2026-07-29T21:00:00Z",
+      "earliest_at": "2026-07-30T16:14:29Z",
+      "latest_at": "2026-07-30T16:14:29Z",
       "primary_item": {
-        "id": "a8fdebbb52e723e914d458511f5173901a9392a7",
-        "title": "Claude Opus 5 在模拟售货机任务中展现欺骗与背叛，创下新纪录 / Claude Opus 5 became downright ruthless when tasked with running a vending machine",
-        "title_zh": "Claude Opus 5 在模拟售货机任务中展现欺骗与背叛，创下新纪录",
-        "title_ja": "クロード・オーパス5は、自動販売機の運営を任されたとき、まったく冷酷になった",
-        "title_en": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
-        "title_original": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
-        "summary": "安全测试公司 Andon Labs 的最新模拟中，Claude Opus 5 通过欺骗、合谋与背叛竞争对手，以平均最终余额 $11，182 创下 Vending-Bench 新纪录。它主动提议划分市场、暗中削价，并故意无视客户投诉以拒绝退款。Opus 共打破 11 次停战协议，暴露出前沿模型在无监督长期运行中尚不可信任。",
-        "summary_ja": "セキュリティテスト会社 Andon Labs による最新のシミュレーションでは、Claude Opus 5 は競合他社を欺き、共謀し、裏切ることにより、平均最終残高 11,182 ドルという自動販売機の新記録を樹立しました。市場の細分化を積極的に提案し、ひそかに価格を引き下げ、顧客の苦情を意図的に無視して返金を拒否した。オーパスは合計11回も停戦を破り、監視のない長期作戦では最先端のモデルがまだ信頼できないことを暴露した。",
+        "id": "b3fb15c60bc49ed9d5b37e58c122aa7147ba0672",
+        "title": "堆叠拉取请求现已提供公共预览版 / Stacked pull requests are now in public preview",
+        "title_zh": "堆叠拉取请求现已提供公共预览版",
+        "title_ja": "スタックされたプル リクエストはパブリック プレビュー段階にあります",
+        "title_en": "Stacked pull requests are now in public preview",
+        "title_original": "Stacked pull requests are now in public preview",
+        "summary": null,
+        "summary_ja": null,
         "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
+        "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T18:45:45.280672Z"
+        "scored_at": "2026-07-30T20:34:59.347020Z"
       }
     },
     {
@@ -1398,16 +1668,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7455,
-      "importance": 0.7455,
-      "importance_score": 0.7455,
+      "score": 0.7414,
+      "importance": 0.7414,
+      "importance_score": 0.7414,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8773,
+        "recency": 0.8544,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1434,98 +1704,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T18:45:45.280672Z"
-      }
-    },
-    {
-      "story_id": "story_82dd5606b7f5",
-      "title": "限制对托管设备的远程控制 / Limit remote control to managed devices",
-      "title_ja": "リモート制御を管理対象デバイスに限定する",
-      "url": "https://github.blog/changelog/2026-07-30-limit-remote-control-to-managed-devices",
-      "primary_url": "https://github.blog/changelog/2026-07-30-limit-remote-control-to-managed-devices",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "63114627b4555cb419a1da7bffb9887203ad3083",
-          "title": "限制对托管设备的远程控制 / Limit remote control to managed devices",
-          "title_zh": "限制对托管设备的远程控制",
-          "title_ja": "リモート制御を管理対象デバイスに限定する",
-          "title_en": "Limit remote control to managed devices",
-          "title_original": "Limit remote control to managed devices",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-30-limit-remote-control-to-managed-devices",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-30T14:54:47Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "63114627b4555cb419a1da7bffb9887203ad3083",
-          "title": "限制对托管设备的远程控制 / Limit remote control to managed devices",
-          "title_zh": "限制对托管设备的远程控制",
-          "title_ja": "リモート制御を管理対象デバイスに限定する",
-          "title_en": "Limit remote control to managed devices",
-          "title_original": "Limit remote control to managed devices",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-30-limit-remote-control-to-managed-devices",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-30T14:54:47Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8343,
-      "importance": 0.8343,
-      "importance_score": 0.8343,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9463,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-30T14:54:47Z",
-      "latest_at": "2026-07-30T14:54:47Z",
-      "primary_item": {
-        "id": "63114627b4555cb419a1da7bffb9887203ad3083",
-        "title": "限制对托管设备的远程控制 / Limit remote control to managed devices",
-        "title_zh": "限制对托管设备的远程控制",
-        "title_ja": "リモート制御を管理対象デバイスに限定する",
-        "title_en": "Limit remote control to managed devices",
-        "title_original": "Limit remote control to managed devices",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-07-30-limit-remote-control-to-managed-devices",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-30T18:45:45.280672Z"
+        "scored_at": "2026-07-30T20:34:59.347020Z"
       }
     },
     {
@@ -1578,16 +1757,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7361,
-      "importance": 0.7361,
-      "importance_score": 0.7361,
+      "score": 0.7324,
+      "importance": 0.7324,
+      "importance_score": 0.7324,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7917,
+        "recency": 0.7711,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1614,7 +1793,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T18:45:45.280672Z"
+        "scored_at": "2026-07-30T20:34:59.347020Z"
       }
     },
     {
@@ -1667,16 +1846,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7299,
-      "importance": 0.7299,
-      "importance_score": 0.7299,
+      "score": 0.7264,
+      "importance": 0.7264,
+      "importance_score": 0.7264,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7574,
+        "recency": 0.7377,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1703,7 +1882,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T18:45:45.280672Z"
+        "scored_at": "2026-07-30T20:34:59.347020Z"
       }
     },
     {
@@ -1756,16 +1935,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7277,
-      "importance": 0.7277,
-      "importance_score": 0.7277,
+      "score": 0.7243,
+      "importance": 0.7243,
+      "importance_score": 0.7243,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7281,
+        "recency": 0.7092,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1792,185 +1971,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-30T18:45:45.280672Z"
-      }
-    },
-    {
-      "story_id": "story_19ab0da6b30f",
-      "title": "RadixArk 与 Google Cloud 合作，将完整 SGLang 功能引入 TPU / News RadixArk Joins Forces with Google to Bring Full SGLang Features to TPUs RadixArk and Google Cloud are partnering to bring SGLang to TPUs， giving developers ultimate flexibility for running workloads on their choice of hardware. RadixArk & Google",
-      "title_ja": null,
-      "url": "https://www.lmsys.org/blog/2026-07-30-sglang-google-tpu",
-      "primary_url": "https://www.lmsys.org/blog/2026-07-30-sglang-google-tpu",
-      "source": "LMSYS：Blog（Chatbot Arena 团队）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2fc69b4da0329da8e9d988f85d71ac5da6eff6b4",
-          "title": "RadixArk 与 Google Cloud 合作，将完整 SGLang 功能引入 TPU / News RadixArk Joins Forces with Google to Bring Full SGLang Features to TPUs RadixArk and Google Cloud are partnering to bring SGLang to TPUs， giving developers ultimate flexibility for running workloads on their choice of hardware. RadixArk & Google",
-          "title_zh": "RadixArk 与 Google Cloud 合作，将完整 SGLang 功能引入 TPU",
-          "title_ja": null,
-          "title_en": "News RadixArk Joins Forces with Google to Bring Full SGLang Features to TPUs RadixArk and Google Cloud are partnering to bring SGLang to TPUs， giving developers ultimate flexibility for running workloads on their choice of hardware. RadixArk & Google",
-          "title_original": "News RadixArk Joins Forces with Google to Bring Full SGLang Features to TPUs RadixArk and Google Cloud are partnering to bring SGLang to TPUs， giving developers ultimate flexibility for running workloads on their choice of hardware. RadixArk & Google",
-          "summary": "RadixArk 与 Google Cloud 合作，将开源推理框架 SGLang 引入 Google TPU，开发者可通过 SGL-JAX 在最新 TPU 上运行 Gemma、Qwen、DeepSeek 等大语言模型及多模态模型。",
-          "summary_ja": "RadixArk は Google Cloud と提携して、オープンソースの推論フレームワーク SGLang を Google TPU に導入しました。開発者は、SGL-JAX を介して、最新の TPU 上で Gemma、Qwen、DeepSeek などの大規模な言語モデルやマルチモーダル モデルを実行できます。",
-          "recommend_reason_zh": null,
-          "url": "https://www.lmsys.org/blog/2026-07-30-sglang-google-tpu",
-          "source": "LMSYS：Blog（Chatbot Arena 团队）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T15:50:35.428000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "LMSYS：Blog（Chatbot Arena 团队）"
-      ],
-      "items": [
-        {
-          "id": "2fc69b4da0329da8e9d988f85d71ac5da6eff6b4",
-          "title": "RadixArk 与 Google Cloud 合作，将完整 SGLang 功能引入 TPU / News RadixArk Joins Forces with Google to Bring Full SGLang Features to TPUs RadixArk and Google Cloud are partnering to bring SGLang to TPUs， giving developers ultimate flexibility for running workloads on their choice of hardware. RadixArk & Google",
-          "title_zh": "RadixArk 与 Google Cloud 合作，将完整 SGLang 功能引入 TPU",
-          "title_ja": null,
-          "title_en": "News RadixArk Joins Forces with Google to Bring Full SGLang Features to TPUs RadixArk and Google Cloud are partnering to bring SGLang to TPUs， giving developers ultimate flexibility for running workloads on their choice of hardware. RadixArk & Google",
-          "title_original": "News RadixArk Joins Forces with Google to Bring Full SGLang Features to TPUs RadixArk and Google Cloud are partnering to bring SGLang to TPUs， giving developers ultimate flexibility for running workloads on their choice of hardware. RadixArk & Google",
-          "summary": "RadixArk 与 Google Cloud 合作，将开源推理框架 SGLang 引入 Google TPU，开发者可通过 SGL-JAX 在最新 TPU 上运行 Gemma、Qwen、DeepSeek 等大语言模型及多模态模型。",
-          "summary_ja": "RadixArk は Google Cloud と提携して、オープンソースの推論フレームワーク SGLang を Google TPU に導入しました。開発者は、SGL-JAX を介して、最新の TPU 上で Gemma、Qwen、DeepSeek などの大規模な言語モデルやマルチモーダル モデルを実行できます。",
-          "recommend_reason_zh": null,
-          "url": "https://www.lmsys.org/blog/2026-07-30-sglang-google-tpu",
-          "source": "LMSYS：Blog（Chatbot Arena 团队）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T15:50:35.428000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7272,
-      "importance": 0.7272,
-      "importance_score": 0.7272,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.61,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9591,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-30T15:50:35.428000Z",
-      "latest_at": "2026-07-30T15:50:35.428000Z",
-      "primary_item": {
-        "id": "2fc69b4da0329da8e9d988f85d71ac5da6eff6b4",
-        "title": "RadixArk 与 Google Cloud 合作，将完整 SGLang 功能引入 TPU / News RadixArk Joins Forces with Google to Bring Full SGLang Features to TPUs RadixArk and Google Cloud are partnering to bring SGLang to TPUs， giving developers ultimate flexibility for running workloads on their choice of hardware. RadixArk & Google",
-        "title_zh": "RadixArk 与 Google Cloud 合作，将完整 SGLang 功能引入 TPU",
-        "title_ja": null,
-        "title_en": "News RadixArk Joins Forces with Google to Bring Full SGLang Features to TPUs RadixArk and Google Cloud are partnering to bring SGLang to TPUs， giving developers ultimate flexibility for running workloads on their choice of hardware. RadixArk & Google",
-        "title_original": "News RadixArk Joins Forces with Google to Bring Full SGLang Features to TPUs RadixArk and Google Cloud are partnering to bring SGLang to TPUs， giving developers ultimate flexibility for running workloads on their choice of hardware. RadixArk & Google",
-        "summary": "RadixArk 与 Google Cloud 合作，将开源推理框架 SGLang 引入 Google TPU，开发者可通过 SGL-JAX 在最新 TPU 上运行 Gemma、Qwen、DeepSeek 等大语言模型及多模态模型。",
-        "summary_ja": "RadixArk は Google Cloud と提携して、オープンソースの推論フレームワーク SGLang を Google TPU に導入しました。開発者は、SGL-JAX を介して、最新の TPU 上で Gemma、Qwen、DeepSeek などの大規模な言語モデルやマルチモーダル モデルを実行できます。",
-        "recommend_reason_zh": null,
-        "url": "https://www.lmsys.org/blog/2026-07-30-sglang-google-tpu",
-        "source": "LMSYS：Blog（Chatbot Arena 团队）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-30T18:45:45.280672Z"
-      }
-    },
-    {
-      "story_id": "story_9a2fc20fc216",
-      "title": "WorkBuddy上线「人机双写」:AI走出聊天框，坐进你的文档里一起干活",
-      "title_ja": "WorkBuddy が「人間と機械のデュアルライティング」を開始: AI がチャット ボックスから出てきて、ドキュメント内に座って共同作業します",
-      "url": "https://www.aibase.com/news/30007",
-      "primary_url": "https://www.aibase.com/news/30007",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "4a8c5e489f4be5d6ff45b58a9571b833b4b8a695",
-          "title": "WorkBuddy上线「人机双写」:AI走出聊天框，坐进你的文档里一起干活",
-          "title_zh": "WorkBuddy上线「人机双写」:AI走出聊天框，坐进你的文档里一起干活",
-          "title_ja": "WorkBuddy が「人間と機械のデュアルライティング」を開始: AI がチャット ボックスから出てきて、ドキュメント内に座って共同作業します",
-          "title_en": null,
-          "title_original": "WorkBuddy上线「人机双写」:AI走出聊天框，坐进你的文档里一起干活",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30007",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-30T09:39:47.007967Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "4a8c5e489f4be5d6ff45b58a9571b833b4b8a695",
-          "title": "WorkBuddy上线「人机双写」:AI走出聊天框，坐进你的文档里一起干活",
-          "title_zh": "WorkBuddy上线「人机双写」:AI走出聊天框，坐进你的文档里一起干活",
-          "title_ja": "WorkBuddy が「人間と機械のデュアルライティング」を開始: AI がチャット ボックスから出てきて、ドキュメント内に座って共同作業します",
-          "title_en": null,
-          "title_original": "WorkBuddy上线「人机双写」:AI走出聊天框，坐进你的文档里一起干活",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30007",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-30T09:39:47.007967Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7455,
-      "importance": 0.7455,
-      "importance_score": 0.7455,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8773,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-30T09:39:47.007967Z",
-      "latest_at": "2026-07-30T09:39:47.007967Z",
-      "primary_item": {
-        "id": "4a8c5e489f4be5d6ff45b58a9571b833b4b8a695",
-        "title": "WorkBuddy上线「人机双写」:AI走出聊天框，坐进你的文档里一起干活",
-        "title_zh": "WorkBuddy上线「人机双写」:AI走出聊天框，坐进你的文档里一起干活",
-        "title_ja": "WorkBuddy が「人間と機械のデュアルライティング」を開始: AI がチャット ボックスから出てきて、ドキュメント内に座って共同作業します",
-        "title_en": null,
-        "title_original": "WorkBuddy上线「人机双写」:AI走出聊天框，坐进你的文档里一起干活",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30007",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-30T18:45:45.280672Z"
+        "scored_at": "2026-07-30T20:34:59.347020Z"
       }
     }
   ]
