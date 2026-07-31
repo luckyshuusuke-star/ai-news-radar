@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T03:49:27.200275Z",
+  "generated_at": "2026-07-31T07:12:40.122425Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -45,7 +45,7 @@
           "published_at": "2026-07-30T18:01:26.158000Z"
         },
         {
-          "id": "af8f1b1d31789a420e865923da8400555fad0207",
+          "id": "b74b369c1be9830ab665025163066c81a864b3c2",
           "title": "GPT-5.6 如何推进性价比前沿 / Advancing the price-performance frontier with GPT‑5.6",
           "title_zh": "GPT-5.6 如何推进性价比前沿",
           "title_ja": "GPT‑5.6 で価格パフォーマンスの最前線を前進",
@@ -55,15 +55,15 @@
           "summary_ja": null,
           "recommend_reason_zh": null,
           "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-07-30T17:15:51Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "OpenAI News",
         "openai.com"
       ],
@@ -101,7 +101,7 @@
           "published_at": "2026-07-30T18:01:26.158000Z"
         },
         {
-          "id": "af8f1b1d31789a420e865923da8400555fad0207",
+          "id": "b74b369c1be9830ab665025163066c81a864b3c2",
           "title": "GPT-5.6 如何推进性价比前沿 / Advancing the price-performance frontier with GPT‑5.6",
           "title_zh": "GPT-5.6 如何推进性价比前沿",
           "title_ja": "GPT‑5.6 で価格パフォーマンスの最前線を前進",
@@ -111,24 +111,24 @@
           "summary_ja": null,
           "recommend_reason_zh": null,
           "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-07-30T17:15:51Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8692,
-      "importance": 0.8692,
-      "importance_score": 0.8692,
+      "score": 0.8625,
+      "importance": 0.8625,
+      "importance_score": 0.8625,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7731,
+        "recency": 0.7362,
         "story_heat": 0.5
       },
       "category": "official",
@@ -158,7 +158,197 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-31T03:51:12.096253Z"
+        "scored_at": "2026-07-31T07:14:10.463767Z"
+      }
+    },
+    {
+      "story_id": "story_c8fe6d7c36db",
+      "title": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
+      "title_ja": "Show HN: DeepSeek を GPT-OSS に統合しても検閲メカニズムは導入されません",
+      "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+      "primary_url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "30991f97bf0f8d90c3e956f81625ef377ba92bda",
+          "title": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
+          "title_zh": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
+          "title_ja": "Show HN: DeepSeek を GPT-OSS に統合しても検閲メカニズムは導入されません",
+          "title_en": null,
+          "title_original": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
+          "summary": "一项受控实验表明，用深度审查的中国模型 DeepSeek V4 Flash 的输出训练美国模型 GPT-OSS-120B，可显著提升其金融推理能力，但审查行为并未迁移。",
+          "summary_ja": "対照実験では、米国のモデル GPT-OSS-120B を、厳しく検閲された中国のモデル DeepSeek V4 Flash の出力でトレーニングすると、財務推論能力が大幅に向上しましたが、検閲の動作は移行しなかったことが示されました。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T04:57:18.494000Z"
+        },
+        {
+          "id": "d16a12a7d756f24b6b9333a4d75260566b0628d0",
+          "title": "Show HN: 将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制。试试看",
+          "title_zh": "Show HN: 将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制。试试看",
+          "title_ja": "Show HN: DeepSeek を GPT-OSS に統合しても、検閲メカニズムは導入されません。試してみてください",
+          "title_en": null,
+          "title_original": "Show HN: 将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制。试试看",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+          "source": "www.ctgt.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-31T04:57:18.494000Z"
+        },
+        {
+          "id": "55fb76fec5df85d31a652b9de8edd8996a0d724f",
+          "title": "Show HN：将 DeepSeek 提炼为 GPT-OSS 并不会转移审查制度。尝试一下 / Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
+          "title_zh": "Show HN：将 DeepSeek 提炼为 GPT-OSS 并不会转移审查制度。尝试一下",
+          "title_ja": "Show HN: DeepSeek を GPT-OSS に抽出しても検閲は移行しません。試してみてください",
+          "title_en": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
+          "title_original": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49113599",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-30T20:05:29.254000Z"
+        },
+        {
+          "id": "71301392f704d77d4d5d651f37acc4215aa2d0e6",
+          "title": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制 / Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
+          "title_zh": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
+          "title_ja": "Show HN: DeepSeek を GPT-OSS に抽出しても検閲は移行しません。試してみてください",
+          "title_en": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
+          "title_original": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-30T18:13:06Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "hackernews",
+        "www.ctgt.ai"
+      ],
+      "items": [
+        {
+          "id": "30991f97bf0f8d90c3e956f81625ef377ba92bda",
+          "title": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
+          "title_zh": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
+          "title_ja": "Show HN: DeepSeek を GPT-OSS に統合しても検閲メカニズムは導入されません",
+          "title_en": null,
+          "title_original": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
+          "summary": "一项受控实验表明，用深度审查的中国模型 DeepSeek V4 Flash 的输出训练美国模型 GPT-OSS-120B，可显著提升其金融推理能力，但审查行为并未迁移。",
+          "summary_ja": "対照実験では、米国のモデル GPT-OSS-120B を、厳しく検閲された中国のモデル DeepSeek V4 Flash の出力でトレーニングすると、財務推論能力が大幅に向上しましたが、検閲の動作は移行しなかったことが示されました。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T04:57:18.494000Z"
+        },
+        {
+          "id": "d16a12a7d756f24b6b9333a4d75260566b0628d0",
+          "title": "Show HN: 将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制。试试看",
+          "title_zh": "Show HN: 将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制。试试看",
+          "title_ja": "Show HN: DeepSeek を GPT-OSS に統合しても、検閲メカニズムは導入されません。試してみてください",
+          "title_en": null,
+          "title_original": "Show HN: 将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制。试试看",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+          "source": "www.ctgt.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-31T04:57:18.494000Z"
+        },
+        {
+          "id": "55fb76fec5df85d31a652b9de8edd8996a0d724f",
+          "title": "Show HN：将 DeepSeek 提炼为 GPT-OSS 并不会转移审查制度。尝试一下 / Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
+          "title_zh": "Show HN：将 DeepSeek 提炼为 GPT-OSS 并不会转移审查制度。尝试一下",
+          "title_ja": "Show HN: DeepSeek を GPT-OSS に抽出しても検閲は移行しません。試してみてください",
+          "title_en": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
+          "title_original": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49113599",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-30T20:05:29.254000Z"
+        },
+        {
+          "id": "71301392f704d77d4d5d651f37acc4215aa2d0e6",
+          "title": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制 / Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
+          "title_zh": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
+          "title_ja": "Show HN: DeepSeek を GPT-OSS に抽出しても検閲は移行しません。試してみてください",
+          "title_en": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
+          "title_original": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-30T18:13:06Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.8548,
+      "importance": 0.8548,
+      "importance_score": 0.8548,
+      "importance_label": "多源热议",
+      "importance_label_ja": "複数ソースで話題",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9679,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-30T18:13:06Z",
+      "latest_at": "2026-07-31T04:57:18.494000Z",
+      "primary_item": {
+        "id": "30991f97bf0f8d90c3e956f81625ef377ba92bda",
+        "title": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
+        "title_zh": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
+        "title_ja": "Show HN: DeepSeek を GPT-OSS に統合しても検閲メカニズムは導入されません",
+        "title_en": null,
+        "title_original": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
+        "summary": "一项受控实验表明，用深度审查的中国模型 DeepSeek V4 Flash 的输出训练美国模型 GPT-OSS-120B，可显著提升其金融推理能力，但审查行为并未迁移。",
+        "summary_ja": "対照実験では、米国のモデル GPT-OSS-120B を、厳しく検閲された中国のモデル DeepSeek V4 Flash の出力でトレーニングすると、財務推論能力が大幅に向上しましたが、検閲の動作は移行しなかったことが示されました。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-31T07:14:10.463767Z"
       }
     },
     {
@@ -244,16 +434,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8586,
-      "importance": 0.8586,
-      "importance_score": 0.8586,
+      "score": 0.8515,
+      "importance": 0.8515,
+      "importance_score": 0.8515,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.97,
-        "recency": 0.8311,
+        "recency": 0.7915,
         "story_heat": 0.25
       },
       "category": "official",
@@ -283,7 +473,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-31T03:51:12.096253Z"
+        "scored_at": "2026-07-31T07:14:10.463767Z"
       }
     },
     {
@@ -336,16 +526,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8359,
-      "importance": 0.8359,
-      "importance_score": 0.8359,
+      "score": 0.8287,
+      "importance": 0.8287,
+      "importance_score": 0.8287,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8328,
+        "recency": 0.793,
         "story_heat": 0.0
       },
       "category": "official",
@@ -374,7 +564,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-31T03:51:12.096253Z"
+        "scored_at": "2026-07-31T07:14:10.463767Z"
       }
     },
     {
@@ -427,16 +617,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8271,
-      "importance": 0.8271,
-      "importance_score": 0.8271,
+      "score": 0.8197,
+      "importance": 0.8197,
+      "importance_score": 0.8197,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8616,
+        "recency": 0.8205,
         "story_heat": 0.0
       },
       "category": "official",
@@ -465,7 +655,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-31T03:51:12.096253Z"
+        "scored_at": "2026-07-31T07:14:10.463767Z"
       }
     },
     {
@@ -518,16 +708,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.823,
-      "importance": 0.823,
-      "importance_score": 0.823,
+      "score": 0.8154,
+      "importance": 0.8154,
+      "importance_score": 0.8154,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8834,
+        "recency": 0.8412,
         "story_heat": 0.0
       },
       "category": "official",
@@ -556,7 +746,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-31T03:51:12.096253Z"
+        "scored_at": "2026-07-31T07:14:10.463767Z"
       }
     },
     {
@@ -609,16 +799,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8216,
-      "importance": 0.8216,
-      "importance_score": 0.8216,
+      "score": 0.8145,
+      "importance": 0.8145,
+      "importance_score": 0.8145,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8313,
+        "recency": 0.7916,
         "story_heat": 0.0
       },
       "category": "official",
@@ -647,7 +837,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-31T03:51:12.096253Z"
+        "scored_at": "2026-07-31T07:14:10.463767Z"
       }
     },
     {
@@ -700,16 +890,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7826,
-      "importance": 0.7826,
-      "importance_score": 0.7826,
+      "score": 0.7755,
+      "importance": 0.7755,
+      "importance_score": 0.7755,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8313,
+        "recency": 0.7917,
         "story_heat": 0.0
       },
       "category": "official",
@@ -737,7 +927,97 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-31T03:51:12.096253Z"
+        "scored_at": "2026-07-31T07:14:10.463767Z"
+      }
+    },
+    {
+      "story_id": "story_e921ef2eca88",
+      "title": "DeepSeek-V4-Flash 正式版 API 上线公测，Agent 能力基准测试远超 V4-Pro 预览版",
+      "title_ja": "DeepSeek-V4-Flash 正式版 API の公開テストが開始され、エージェント機能ベンチマーク テストが V4-Pro プレビュー版を大幅に上回る",
+      "url": "https://www.ithome.com/0/984/116.htm",
+      "primary_url": "https://www.ithome.com/0/984/116.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f3bfb890e7b8504fbb65058e06fed6aedd040717",
+          "title": "DeepSeek-V4-Flash 正式版 API 上线公测，Agent 能力基准测试远超 V4-Pro 预览版",
+          "title_zh": "DeepSeek-V4-Flash 正式版 API 上线公测，Agent 能力基准测试远超 V4-Pro 预览版",
+          "title_ja": "DeepSeek-V4-Flash 正式版 API の公開テストが開始され、エージェント機能ベンチマーク テストが V4-Pro プレビュー版を大幅に上回る",
+          "title_en": null,
+          "title_original": "DeepSeek-V4-Flash 正式版 API 上线公测，Agent 能力基准测试远超 V4-Pro 预览版",
+          "summary": "DeepSeek 今日宣布 DeepSeek-V4-Flash 正式版 API 上线公测，Agent 能力大幅增强，Terminal Bench 2.1 得分 82.7，NL2Repo 54.2，Cybergym 76.7，DeepSWE 54.4，Toolathlon verified 70.3，多项基准远超 V4-Pro-Preview。",
+          "summary_ja": "DeepSeek は本日、DeepSeek-V4-Flash API の正式版が公開テスト用に開始されたことを発表しました。エージェントの機能は大幅に強化されており、ターミナル ベンチ 2.1 スコアは 82.7、NL2Repo 54.2、Cyber​​gym 76.7、DeepSWE 54.4、Toolathlon 検証済み 70.3 となり、多くのベンチマークが V4-Pro-Preview をはるかに上回っています。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/984/116.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T06:02:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "f3bfb890e7b8504fbb65058e06fed6aedd040717",
+          "title": "DeepSeek-V4-Flash 正式版 API 上线公测，Agent 能力基准测试远超 V4-Pro 预览版",
+          "title_zh": "DeepSeek-V4-Flash 正式版 API 上线公测，Agent 能力基准测试远超 V4-Pro 预览版",
+          "title_ja": "DeepSeek-V4-Flash 正式版 API の公開テストが開始され、エージェント機能ベンチマーク テストが V4-Pro プレビュー版を大幅に上回る",
+          "title_en": null,
+          "title_original": "DeepSeek-V4-Flash 正式版 API 上线公测，Agent 能力基准测试远超 V4-Pro 预览版",
+          "summary": "DeepSeek 今日宣布 DeepSeek-V4-Flash 正式版 API 上线公测，Agent 能力大幅增强，Terminal Bench 2.1 得分 82.7，NL2Repo 54.2，Cybergym 76.7，DeepSWE 54.4，Toolathlon verified 70.3，多项基准远超 V4-Pro-Preview。",
+          "summary_ja": "DeepSeek は本日、DeepSeek-V4-Flash API の正式版が公開テスト用に開始されたことを発表しました。エージェントの機能は大幅に強化されており、ターミナル ベンチ 2.1 スコアは 82.7、NL2Repo 54.2、Cyber​​gym 76.7、DeepSWE 54.4、Toolathlon 検証済み 70.3 となり、多くのベンチマークが V4-Pro-Preview をはるかに上回っています。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/984/116.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T06:02:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7706,
+      "importance": 0.7706,
+      "importance_score": 0.7706,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9832,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-31T06:02:05Z",
+      "latest_at": "2026-07-31T06:02:05Z",
+      "primary_item": {
+        "id": "f3bfb890e7b8504fbb65058e06fed6aedd040717",
+        "title": "DeepSeek-V4-Flash 正式版 API 上线公测，Agent 能力基准测试远超 V4-Pro 预览版",
+        "title_zh": "DeepSeek-V4-Flash 正式版 API 上线公测，Agent 能力基准测试远超 V4-Pro 预览版",
+        "title_ja": "DeepSeek-V4-Flash 正式版 API の公開テストが開始され、エージェント機能ベンチマーク テストが V4-Pro プレビュー版を大幅に上回る",
+        "title_en": null,
+        "title_original": "DeepSeek-V4-Flash 正式版 API 上线公测，Agent 能力基准测试远超 V4-Pro 预览版",
+        "summary": "DeepSeek 今日宣布 DeepSeek-V4-Flash 正式版 API 上线公测，Agent 能力大幅增强，Terminal Bench 2.1 得分 82.7，NL2Repo 54.2，Cybergym 76.7，DeepSWE 54.4，Toolathlon verified 70.3，多项基准远超 V4-Pro-Preview。",
+        "summary_ja": "DeepSeek は本日、DeepSeek-V4-Flash API の正式版が公開テスト用に開始されたことを発表しました。エージェントの機能は大幅に強化されており、ターミナル ベンチ 2.1 スコアは 82.7、NL2Repo 54.2、Cyber​​gym 76.7、DeepSWE 54.4、Toolathlon 検証済み 70.3 となり、多くのベンチマークが V4-Pro-Preview をはるかに上回っています。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/0/984/116.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-31T07:14:10.463767Z"
       }
     },
     {
@@ -823,16 +1103,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7774,
-      "importance": 0.7774,
-      "importance_score": 0.7774,
+      "score": 0.7697,
+      "importance": 0.7697,
+      "importance_score": 0.7697,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8989,
+        "recency": 0.856,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -861,123 +1141,33 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-31T03:51:12.096253Z"
+        "scored_at": "2026-07-31T07:14:10.463767Z"
       }
     },
     {
-      "story_id": "story_274d1f8b0993",
-      "title": "国家发改委：将加快《人工智能法》立法进程",
-      "title_ja": "国家発展改革委員会：「人工知能法」の立法プロセスを加速する",
-      "url": "https://www.ithome.com/0/983/974.htm",
-      "primary_url": "https://www.ithome.com/0/983/974.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "96f8a210f6ec3e094fa97bbe422488013d4d710e",
-          "title": "国家发改委：将加快《人工智能法》立法进程",
-          "title_zh": "国家发改委：将加快《人工智能法》立法进程",
-          "title_ja": "国家発展改革委員会：「人工知能法」の立法プロセスを加速する",
-          "title_en": null,
-          "title_original": "国家发改委：将加快《人工智能法》立法进程",
-          "summary": "国家发展改革委在7月31日发布会上表示，上半年国产大模型全球下载量突破100亿次，深度求索、月之暗面等本土企业已发布参数规模达\"万亿\"级别的开源大模型。下一步将加快自主创新、推动应用中试基地布局，并加快《人工智能法》立法进程，强化风险监测防控体系。",
-          "summary_ja": "国家発展改革委員会は7月31日の記者会見で、今年上半期の国産大型モデルの全世界ダウンロード数が100億回を超え、ディープサーチやダークサイド・オブ・ザ・ムーンなどの国内企業がパラメータスケールが「兆」レベルに達するオープンソース大型モデルをリリースしていると述べた。次のステップは、独立したイノベーションを加速し、アプリケーションパイロットベースのレイアウトを促進し、人工知能法の立法プロセスをスピードアップし、リスク監視と予防システムを強化することです。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/983/974.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T02:48:12Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "96f8a210f6ec3e094fa97bbe422488013d4d710e",
-          "title": "国家发改委：将加快《人工智能法》立法进程",
-          "title_zh": "国家发改委：将加快《人工智能法》立法进程",
-          "title_ja": "国家発展改革委員会：「人工知能法」の立法プロセスを加速する",
-          "title_en": null,
-          "title_original": "国家发改委：将加快《人工智能法》立法进程",
-          "summary": "国家发展改革委在7月31日发布会上表示，上半年国产大模型全球下载量突破100亿次，深度求索、月之暗面等本土企业已发布参数规模达\"万亿\"级别的开源大模型。下一步将加快自主创新、推动应用中试基地布局，并加快《人工智能法》立法进程，强化风险监测防控体系。",
-          "summary_ja": "国家発展改革委員会は7月31日の記者会見で、今年上半期の国産大型モデルの全世界ダウンロード数が100億回を超え、ディープサーチやダークサイド・オブ・ザ・ムーンなどの国内企業がパラメータスケールが「兆」レベルに達するオープンソース大型モデルをリリースしていると述べた。次のステップは、独立したイノベーションを加速し、アプリケーションパイロットベースのレイアウトを促進し、人工知能法の立法プロセスをスピードアップし、リスク監視と予防システムを強化することです。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/983/974.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T02:48:12Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.774,
-      "importance": 0.774,
-      "importance_score": 0.774,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9854,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-31T02:48:12Z",
-      "latest_at": "2026-07-31T02:48:12Z",
-      "primary_item": {
-        "id": "96f8a210f6ec3e094fa97bbe422488013d4d710e",
-        "title": "国家发改委：将加快《人工智能法》立法进程",
-        "title_zh": "国家发改委：将加快《人工智能法》立法进程",
-        "title_ja": "国家発展改革委員会：「人工知能法」の立法プロセスを加速する",
-        "title_en": null,
-        "title_original": "国家发改委：将加快《人工智能法》立法进程",
-        "summary": "国家发展改革委在7月31日发布会上表示，上半年国产大模型全球下载量突破100亿次，深度求索、月之暗面等本土企业已发布参数规模达\"万亿\"级别的开源大模型。下一步将加快自主创新、推动应用中试基地布局，并加快《人工智能法》立法进程，强化风险监测防控体系。",
-        "summary_ja": "国家発展改革委員会は7月31日の記者会見で、今年上半期の国産大型モデルの全世界ダウンロード数が100億回を超え、ディープサーチやダークサイド・オブ・ザ・ムーンなどの国内企業がパラメータスケールが「兆」レベルに達するオープンソース大型モデルをリリースしていると述べた。次のステップは、独立したイノベーションを加速し、アプリケーションパイロットベースのレイアウトを促進し、人工知能法の立法プロセスをスピードアップし、リスク監視と予防システムを強化することです。",
-        "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/0/983/974.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-31T03:51:12.096253Z"
-      }
-    },
-    {
-      "story_id": "story_79215688a7fe",
-      "title": "AI 的真正威胁不是失业，而是让你的工资涨不动了",
-      "title_ja": "AIの本当の脅威は失業ではなく、給料が上がらなくなることだ。",
-      "url": "https://www.aibase.com/news/30016",
-      "primary_url": "https://www.aibase.com/news/30016",
+      "story_id": "story_5823adf4f214",
+      "title": "Claude“闯出”测试环境?Anthropic承认AI模型曾入侵三家机构系统",
+      "title_ja": "クロードはテスト環境から「脱出」しましたか? AnthropicはAIモデルが3つの機関のシステムに侵入したことを認めた",
+      "url": "https://www.aibase.com/news/30039",
+      "primary_url": "https://www.aibase.com/news/30039",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "610322e6b8850b28347e43f7621c4eea4e574497",
-          "title": "AI 的真正威胁不是失业，而是让你的工资涨不动了",
-          "title_zh": "AI 的真正威胁不是失业，而是让你的工资涨不动了",
-          "title_ja": "AIの本当の脅威は失業ではなく、給料が上がらなくなることだ。",
+          "id": "f8f0da172515497479d626826067a5fe65b4c5bb",
+          "title": "Claude“闯出”测试环境?Anthropic承认AI模型曾入侵三家机构系统",
+          "title_zh": "Claude“闯出”测试环境?Anthropic承认AI模型曾入侵三家机构系统",
+          "title_ja": "クロードはテスト環境から「脱出」しましたか? AnthropicはAIモデルが3つの機関のシステムに侵入したことを認めた",
           "title_en": null,
-          "title_original": "AI 的真正威胁不是失业，而是让你的工资涨不动了",
+          "title_original": "Claude“闯出”测试环境?Anthropic承认AI模型曾入侵三家机构系统",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30016",
+          "url": "https://www.aibase.com/news/30039",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-31T03:49:27.200275Z"
+          "published_at": "2026-07-31T07:12:40.122425Z"
         }
       ],
       "source_count": 1,
@@ -986,20 +1176,20 @@
       ],
       "items": [
         {
-          "id": "610322e6b8850b28347e43f7621c4eea4e574497",
-          "title": "AI 的真正威胁不是失业，而是让你的工资涨不动了",
-          "title_zh": "AI 的真正威胁不是失业，而是让你的工资涨不动了",
-          "title_ja": "AIの本当の脅威は失業ではなく、給料が上がらなくなることだ。",
+          "id": "f8f0da172515497479d626826067a5fe65b4c5bb",
+          "title": "Claude“闯出”测试环境?Anthropic承认AI模型曾入侵三家机构系统",
+          "title_zh": "Claude“闯出”测试环境?Anthropic承认AI模型曾入侵三家机构系统",
+          "title_ja": "クロードはテスト環境から「脱出」しましたか? AnthropicはAIモデルが3つの機関のシステムに侵入したことを認めた",
           "title_en": null,
-          "title_original": "AI 的真正威胁不是失业，而是让你的工资涨不动了",
+          "title_original": "Claude“闯出”测试环境?Anthropic承认AI模型曾入侵三家机构系统",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30016",
+          "url": "https://www.aibase.com/news/30039",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-31T03:49:27.200275Z"
+          "published_at": "2026-07-31T07:12:40.122425Z"
         }
       ],
       "item_count": 1,
@@ -1021,19 +1211,19 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-31T03:49:27.200275Z",
-      "latest_at": "2026-07-31T03:49:27.200275Z",
+      "earliest_at": "2026-07-31T07:12:40.122425Z",
+      "latest_at": "2026-07-31T07:12:40.122425Z",
       "primary_item": {
-        "id": "610322e6b8850b28347e43f7621c4eea4e574497",
-        "title": "AI 的真正威胁不是失业，而是让你的工资涨不动了",
-        "title_zh": "AI 的真正威胁不是失业，而是让你的工资涨不动了",
-        "title_ja": "AIの本当の脅威は失業ではなく、給料が上がらなくなることだ。",
+        "id": "f8f0da172515497479d626826067a5fe65b4c5bb",
+        "title": "Claude“闯出”测试环境?Anthropic承认AI模型曾入侵三家机构系统",
+        "title_zh": "Claude“闯出”测试环境?Anthropic承认AI模型曾入侵三家机构系统",
+        "title_ja": "クロードはテスト環境から「脱出」しましたか? AnthropicはAIモデルが3つの機関のシステムに侵入したことを認めた",
         "title_en": null,
-        "title_original": "AI 的真正威胁不是失业，而是让你的工资涨不动了",
+        "title_original": "Claude“闯出”测试环境?Anthropic承认AI模型曾入侵三家机构系统",
         "summary": null,
         "summary_ja": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30016",
+        "url": "https://www.aibase.com/news/30039",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1041,7 +1231,97 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-31T03:51:12.096253Z"
+        "scored_at": "2026-07-31T07:14:10.463767Z"
+      }
+    },
+    {
+      "story_id": "story_089bf3c63623",
+      "title": "字节发布 Seedance 2.5：单次生成 30 秒视频，支持多模态参考与精准编辑",
+      "title_ja": "Byte が Seedance 2.5 をリリース: マルチモーダル リファレンスと正確な編集をサポートする 30 秒ビデオの単一世代",
+      "url": "https://seed.bytedance.com/zh/blog/%E4%B8%80%E9%95%9C%E6%88%90%E7%89%87-%E9%9A%8F%E5%BF%83%E5%8F%82%E8%80%83-seedance-2-5-%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83",
+      "primary_url": "https://seed.bytedance.com/zh/blog/%E4%B8%80%E9%95%9C%E6%88%90%E7%89%87-%E9%9A%8F%E5%BF%83%E5%8F%82%E8%80%83-seedance-2-5-%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83",
+      "source": "字节 Seed：Research Feed（网页内嵌数据）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6d9b4c34043c6868841e634ff88d5579ce934753",
+          "title": "字节发布 Seedance 2.5：单次生成 30 秒视频，支持多模态参考与精准编辑",
+          "title_zh": "字节发布 Seedance 2.5：单次生成 30 秒视频，支持多模态参考与精准编辑",
+          "title_ja": "Byte が Seedance 2.5 をリリース: マルチモーダル リファレンスと正確な編集をサポートする 30 秒ビデオの単一世代",
+          "title_en": null,
+          "title_original": "字节发布 Seedance 2.5：单次生成 30 秒视频，支持多模态参考与精准编辑",
+          "summary": "字节跳动今日正式发布新一代视频创作模型 Seedance 2.5，单次视频生成时长从 15 秒提升至 30 秒，并支持多轮延长，可产出数分钟连贯内容。模型支持单次输入最多 30 张图片、10 段视频和 10 段音频作为参考素材，并升级白模参考、运动参考及绿幕编辑、时间戳精准编辑等能力。Seedance 2.5 已陆续上线即梦 AI、豆包专业版等平台，API 服务近期将上线火山方舟。",
+          "summary_ja": "ByteDance は本日、新世代のビデオ作成モデルである Seedance 2.5 を正式にリリースしました。これは、単一のビデオ生成の時間を 15 秒から 30 秒に延長し、複数ラウンドの拡張をサポートし、数分間の一貫したコンテンツを作成できます。このモデルは、参照素材として一度に最大 30 枚の写真、10 個のビデオ、10 個のオーディオ クリップの入力をサポートし、ホワイト モデル リファレンス、モーション リファレンス、グリーン スクリーン編集、正確なタイムスタンプ編集などの機能がアップグレードされています。 Seedance 2.5はJimeng AIやDoubao Professional Editionなどのプラットフォームでリリースされており、近い将来Volcano ArkでもAPIサービスが開始される予定です。",
+          "recommend_reason_zh": null,
+          "url": "https://seed.bytedance.com/zh/blog/%E4%B8%80%E9%95%9C%E6%88%90%E7%89%87-%E9%9A%8F%E5%BF%83%E5%8F%82%E8%80%83-seedance-2-5-%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83",
+          "source": "字节 Seed：Research Feed（网页内嵌数据）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "字节 Seed：Research Feed（网页内嵌数据）"
+      ],
+      "items": [
+        {
+          "id": "6d9b4c34043c6868841e634ff88d5579ce934753",
+          "title": "字节发布 Seedance 2.5：单次生成 30 秒视频，支持多模态参考与精准编辑",
+          "title_zh": "字节发布 Seedance 2.5：单次生成 30 秒视频，支持多模态参考与精准编辑",
+          "title_ja": "Byte が Seedance 2.5 をリリース: マルチモーダル リファレンスと正確な編集をサポートする 30 秒ビデオの単一世代",
+          "title_en": null,
+          "title_original": "字节发布 Seedance 2.5：单次生成 30 秒视频，支持多模态参考与精准编辑",
+          "summary": "字节跳动今日正式发布新一代视频创作模型 Seedance 2.5，单次视频生成时长从 15 秒提升至 30 秒，并支持多轮延长，可产出数分钟连贯内容。模型支持单次输入最多 30 张图片、10 段视频和 10 段音频作为参考素材，并升级白模参考、运动参考及绿幕编辑、时间戳精准编辑等能力。Seedance 2.5 已陆续上线即梦 AI、豆包专业版等平台，API 服务近期将上线火山方舟。",
+          "summary_ja": "ByteDance は本日、新世代のビデオ作成モデルである Seedance 2.5 を正式にリリースしました。これは、単一のビデオ生成の時間を 15 秒から 30 秒に延長し、複数ラウンドの拡張をサポートし、数分間の一貫したコンテンツを作成できます。このモデルは、参照素材として一度に最大 30 枚の写真、10 個のビデオ、10 個のオーディオ クリップの入力をサポートし、ホワイト モデル リファレンス、モーション リファレンス、グリーン スクリーン編集、正確なタイムスタンプ編集などの機能がアップグレードされています。 Seedance 2.5はJimeng AIやDoubao Professional Editionなどのプラットフォームでリリースされており、近い将来Volcano ArkでもAPIサービスが開始される予定です。",
+          "recommend_reason_zh": null,
+          "url": "https://seed.bytedance.com/zh/blog/%E4%B8%80%E9%95%9C%E6%88%90%E7%89%87-%E9%9A%8F%E5%BF%83%E5%8F%82%E8%80%83-seedance-2-5-%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83",
+          "source": "字节 Seed：Research Feed（网页内嵌数据）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7561,
+      "importance": 0.7561,
+      "importance_score": 0.7561,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.8,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8028,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-30T16:00:00Z",
+      "latest_at": "2026-07-30T16:00:00Z",
+      "primary_item": {
+        "id": "6d9b4c34043c6868841e634ff88d5579ce934753",
+        "title": "字节发布 Seedance 2.5：单次生成 30 秒视频，支持多模态参考与精准编辑",
+        "title_zh": "字节发布 Seedance 2.5：单次生成 30 秒视频，支持多模态参考与精准编辑",
+        "title_ja": "Byte が Seedance 2.5 をリリース: マルチモーダル リファレンスと正確な編集をサポートする 30 秒ビデオの単一世代",
+        "title_en": null,
+        "title_original": "字节发布 Seedance 2.5：单次生成 30 秒视频，支持多模态参考与精准编辑",
+        "summary": "字节跳动今日正式发布新一代视频创作模型 Seedance 2.5，单次视频生成时长从 15 秒提升至 30 秒，并支持多轮延长，可产出数分钟连贯内容。模型支持单次输入最多 30 张图片、10 段视频和 10 段音频作为参考素材，并升级白模参考、运动参考及绿幕编辑、时间戳精准编辑等能力。Seedance 2.5 已陆续上线即梦 AI、豆包专业版等平台，API 服务近期将上线火山方舟。",
+        "summary_ja": "ByteDance は本日、新世代のビデオ作成モデルである Seedance 2.5 を正式にリリースしました。これは、単一のビデオ生成の時間を 15 秒から 30 秒に延長し、複数ラウンドの拡張をサポートし、数分間の一貫したコンテンツを作成できます。このモデルは、参照素材として一度に最大 30 枚の写真、10 個のビデオ、10 個のオーディオ クリップの入力をサポートし、ホワイト モデル リファレンス、モーション リファレンス、グリーン スクリーン編集、正確なタイムスタンプ編集などの機能がアップグレードされています。 Seedance 2.5はJimeng AIやDoubao Professional Editionなどのプラットフォームでリリースされており、近い将来Volcano ArkでもAPIサービスが開始される予定です。",
+        "recommend_reason_zh": null,
+        "url": "https://seed.bytedance.com/zh/blog/%E4%B8%80%E9%95%9C%E6%88%90%E7%89%87-%E9%9A%8F%E5%BF%83%E5%8F%82%E8%80%83-seedance-2-5-%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83",
+        "source": "字节 Seed：Research Feed（网页内嵌数据）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-31T07:14:10.463767Z"
       }
     },
     {
@@ -1094,16 +1374,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8194,
-      "importance": 0.8194,
-      "importance_score": 0.8194,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8635,
+        "recency": 0.8223,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1132,7 +1412,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-31T03:51:12.096253Z"
+        "scored_at": "2026-07-31T07:14:10.463767Z"
       }
     },
     {
@@ -1218,23 +1498,22 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7533,
-      "importance": 0.7533,
-      "importance_score": 0.7533,
+      "score": 0.7468,
+      "importance": 0.7468,
+      "importance_score": 0.7468,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7481,
+        "recency": 0.7124,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-30T07:43:29Z",
       "latest_at": "2026-07-30T07:43:29Z",
@@ -1256,7 +1535,97 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-31T03:51:12.096253Z"
+        "scored_at": "2026-07-31T07:14:10.463767Z"
+      }
+    },
+    {
+      "story_id": "story_47a367770bd1",
+      "title": "国家发改委：人工智能相关行业保持 30% 以上高增长，全国智能算力规模达去年同期 2.8 倍",
+      "title_ja": "国家発展改革委員会：人工知能関連産業は30％以上の高成長を維持し、国家知能計算能力の規模は前年同期比2.8倍に達した",
+      "url": "https://www.ithome.com/0/984/130.htm",
+      "primary_url": "https://www.ithome.com/0/984/130.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c862842096f6825a1c5a6b60a9c5bf81d4181471",
+          "title": "国家发改委：人工智能相关行业保持 30% 以上高增长，全国智能算力规模达去年同期 2.8 倍",
+          "title_zh": "国家发改委：人工智能相关行业保持 30% 以上高增长，全国智能算力规模达去年同期 2.8 倍",
+          "title_ja": "国家発展改革委員会：人工知能関連産業は30％以上の高成長を維持し、国家知能計算能力の規模は前年同期比2.8倍に達した",
+          "title_en": null,
+          "title_original": "国家发改委：人工智能相关行业保持 30% 以上高增长，全国智能算力规模达去年同期 2.8 倍",
+          "summary": "国家发展改革委在 7 月新闻发布会上介绍，上半年人工智能自主创新加快，首个全国产 10 万卡人工智能超集群正式投用，截至 6 月底全国智能算力规模达去年同期 2.8 倍。深度求索、月之暗面等本土企业发布多个万亿级参数开源大模型，国产大模型全球总下载量突破 100 亿次。相关行业保持 30% 以上高增长，上半年规模以上工业企业集成电路产量同比增长 23.1%，出口额同比增长 88.7%。",
+          "summary_ja": "国家発展改革委員会は7月の記者会見で、今年上半期に人工知能の自主革新が加速し、初の国産10万枚カード人工知能スーパークラスターが正式に実用化されたと紹介した。 6月末までに、国家のインテリジェントコンピューティング能力の規模は前年同期の2.8倍に達した。 Deep Search や Dark Side of the Moon などの地元企業は、数兆のパラメータを備えたオープンソースの大規模モデルを複数リリースしており、国内の大規模モデルのダウンロード数は全世界で合計 100 億回を超えています。関連産業は30％を超える高い成長を維持した。今年上半期、指定規模以上の工業企業による集積回路の生産量は前年同期比23.1％増加し、輸出は前年同期比88.7％増加した。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/984/130.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T06:38:54Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "c862842096f6825a1c5a6b60a9c5bf81d4181471",
+          "title": "国家发改委：人工智能相关行业保持 30% 以上高增长，全国智能算力规模达去年同期 2.8 倍",
+          "title_zh": "国家发改委：人工智能相关行业保持 30% 以上高增长，全国智能算力规模达去年同期 2.8 倍",
+          "title_ja": "国家発展改革委員会：人工知能関連産業は30％以上の高成長を維持し、国家知能計算能力の規模は前年同期比2.8倍に達した",
+          "title_en": null,
+          "title_original": "国家发改委：人工智能相关行业保持 30% 以上高增长，全国智能算力规模达去年同期 2.8 倍",
+          "summary": "国家发展改革委在 7 月新闻发布会上介绍，上半年人工智能自主创新加快，首个全国产 10 万卡人工智能超集群正式投用，截至 6 月底全国智能算力规模达去年同期 2.8 倍。深度求索、月之暗面等本土企业发布多个万亿级参数开源大模型，国产大模型全球总下载量突破 100 亿次。相关行业保持 30% 以上高增长，上半年规模以上工业企业集成电路产量同比增长 23.1%，出口额同比增长 88.7%。",
+          "summary_ja": "国家発展改革委員会は7月の記者会見で、今年上半期に人工知能の自主革新が加速し、初の国産10万枚カード人工知能スーパークラスターが正式に実用化されたと紹介した。 6月末までに、国家のインテリジェントコンピューティング能力の規模は前年同期の2.8倍に達した。 Deep Search や Dark Side of the Moon などの地元企業は、数兆のパラメータを備えたオープンソースの大規模モデルを複数リリースしており、国内の大規模モデルのダウンロード数は全世界で合計 100 億回を超えています。関連産業は30％を超える高い成長を維持した。今年上半期、指定規模以上の工業企業による集積回路の生産量は前年同期比23.1％増加し、輸出は前年同期比88.7％増加した。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/984/130.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T06:38:54Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7691,
+      "importance": 0.7691,
+      "importance_score": 0.7691,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9919,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-31T06:38:54Z",
+      "latest_at": "2026-07-31T06:38:54Z",
+      "primary_item": {
+        "id": "c862842096f6825a1c5a6b60a9c5bf81d4181471",
+        "title": "国家发改委：人工智能相关行业保持 30% 以上高增长，全国智能算力规模达去年同期 2.8 倍",
+        "title_zh": "国家发改委：人工智能相关行业保持 30% 以上高增长，全国智能算力规模达去年同期 2.8 倍",
+        "title_ja": "国家発展改革委員会：人工知能関連産業は30％以上の高成長を維持し、国家知能計算能力の規模は前年同期比2.8倍に達した",
+        "title_en": null,
+        "title_original": "国家发改委：人工智能相关行业保持 30% 以上高增长，全国智能算力规模达去年同期 2.8 倍",
+        "summary": "国家发展改革委在 7 月新闻发布会上介绍，上半年人工智能自主创新加快，首个全国产 10 万卡人工智能超集群正式投用，截至 6 月底全国智能算力规模达去年同期 2.8 倍。深度求索、月之暗面等本土企业发布多个万亿级参数开源大模型，国产大模型全球总下载量突破 100 亿次。相关行业保持 30% 以上高增长，上半年规模以上工业企业集成电路产量同比增长 23.1%，出口额同比增长 88.7%。",
+        "summary_ja": "国家発展改革委員会は7月の記者会見で、今年上半期に人工知能の自主革新が加速し、初の国産10万枚カード人工知能スーパークラスターが正式に実用化されたと紹介した。 6月末までに、国家のインテリジェントコンピューティング能力の規模は前年同期の2.8倍に達した。 Deep Search や Dark Side of the Moon などの地元企業は、数兆のパラメータを備えたオープンソースの大規模モデルを複数リリースしており、国内の大規模モデルのダウンロード数は全世界で合計 100 億回を超えています。関連産業は30％を超える高い成長を維持した。今年上半期、指定規模以上の工業企業による集積回路の生産量は前年同期比23.1％増加し、輸出は前年同期比88.7％増加した。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/0/984/130.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-31T07:14:10.463767Z"
       }
     },
     {
@@ -1309,16 +1678,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7466,
-      "importance": 0.7466,
-      "importance_score": 0.7466,
+      "score": 0.7386,
+      "importance": 0.7386,
+      "importance_score": 0.7386,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9333,
+        "recency": 0.8887,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1345,7 +1714,97 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-31T03:51:12.096253Z"
+        "scored_at": "2026-07-31T07:14:10.463767Z"
+      }
+    },
+    {
+      "story_id": "story_1b2722dac73d",
+      "title": "Google Earth推出基于Nano Banana 2的全新图像生成功能  一键生成逼真AI场景与历史风貌",
+      "title_ja": "Google Earth、Nano Banana 2 をベースにした新しい画像生成機能を開始し、ワンクリックでリアルな AI シーンと歴史的特徴を生成",
+      "url": "https://www.aibase.com/news/30036",
+      "primary_url": "https://www.aibase.com/news/30036",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "ff00e81506a81108204980aee48393ae9dbd45ca",
+          "title": "Google Earth推出基于Nano Banana 2的全新图像生成功能  一键生成逼真AI场景与历史风貌",
+          "title_zh": "Google Earth推出基于Nano Banana 2的全新图像生成功能  一键生成逼真AI场景与历史风貌",
+          "title_ja": "Google Earth、Nano Banana 2 をベースにした新しい画像生成機能を開始し、ワンクリックでリアルな AI シーンと歴史的特徴を生成",
+          "title_en": null,
+          "title_original": "Google Earth推出基于Nano Banana 2的全新图像生成功能  一键生成逼真AI场景与历史风貌",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30036",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-31T07:12:40.122425Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "ff00e81506a81108204980aee48393ae9dbd45ca",
+          "title": "Google Earth推出基于Nano Banana 2的全新图像生成功能  一键生成逼真AI场景与历史风貌",
+          "title_zh": "Google Earth推出基于Nano Banana 2的全新图像生成功能  一键生成逼真AI场景与历史风貌",
+          "title_ja": "Google Earth、Nano Banana 2 をベースにした新しい画像生成機能を開始し、ワンクリックでリアルな AI シーンと歴史的特徴を生成",
+          "title_en": null,
+          "title_original": "Google Earth推出基于Nano Banana 2的全新图像生成功能  一键生成逼真AI场景与历史风貌",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30036",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-31T07:12:40.122425Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-31T07:12:40.122425Z",
+      "latest_at": "2026-07-31T07:12:40.122425Z",
+      "primary_item": {
+        "id": "ff00e81506a81108204980aee48393ae9dbd45ca",
+        "title": "Google Earth推出基于Nano Banana 2的全新图像生成功能  一键生成逼真AI场景与历史风貌",
+        "title_zh": "Google Earth推出基于Nano Banana 2的全新图像生成功能  一键生成逼真AI场景与历史风貌",
+        "title_ja": "Google Earth、Nano Banana 2 をベースにした新しい画像生成機能を開始し、ワンクリックでリアルな AI シーンと歴史的特徴を生成",
+        "title_en": null,
+        "title_original": "Google Earth推出基于Nano Banana 2的全新图像生成功能  一键生成逼真AI场景与历史风貌",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30036",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-07-31T07:14:10.463767Z"
       }
     },
     {
@@ -1398,16 +1857,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.743,
-      "importance": 0.743,
-      "importance_score": 0.743,
+      "score": 0.7353,
+      "importance": 0.7353,
+      "importance_score": 0.7353,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8965,
+        "recency": 0.8537,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1434,7 +1893,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-31T03:51:12.096253Z"
+        "scored_at": "2026-07-31T07:14:10.463767Z"
       }
     },
     {
@@ -1487,16 +1946,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7399,
-      "importance": 0.7399,
-      "importance_score": 0.7399,
+      "score": 0.7318,
+      "importance": 0.7318,
+      "importance_score": 0.7318,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9463,
+        "recency": 0.9011,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1523,7 +1982,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-31T03:51:12.096253Z"
+        "scored_at": "2026-07-31T07:14:10.463767Z"
       }
     },
     {
@@ -1576,16 +2035,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7387,
-      "importance": 0.7387,
-      "importance_score": 0.7387,
+      "score": 0.7315,
+      "importance": 0.7315,
+      "importance_score": 0.7315,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8396,
+        "recency": 0.7996,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1612,364 +2071,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-07-31T03:51:12.096253Z"
-      }
-    },
-    {
-      "story_id": "story_d42b908c4e75",
-      "title": "DeepMind发布Gemini Robotics ER 2，首次解锁多机协同",
-      "title_ja": "DeepMind が Gemini Robotics ER 2 をリリースし、複数マシンのコラボレーションを初めて実現",
-      "url": "https://www.aibase.com/news/30017",
-      "primary_url": "https://www.aibase.com/news/30017",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "40f3bc14fd6d871014cdbe094bfabfcc8ab04b27",
-          "title": "DeepMind发布Gemini Robotics ER 2，首次解锁多机协同",
-          "title_zh": "DeepMind发布Gemini Robotics ER 2，首次解锁多机协同",
-          "title_ja": "DeepMind が Gemini Robotics ER 2 をリリースし、複数マシンのコラボレーションを初めて実現",
-          "title_en": null,
-          "title_original": "DeepMind发布Gemini Robotics ER 2，首次解锁多机协同",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30017",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-31T03:49:27.200275Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "40f3bc14fd6d871014cdbe094bfabfcc8ab04b27",
-          "title": "DeepMind发布Gemini Robotics ER 2，首次解锁多机协同",
-          "title_zh": "DeepMind发布Gemini Robotics ER 2，首次解锁多机协同",
-          "title_ja": "DeepMind が Gemini Robotics ER 2 をリリースし、複数マシンのコラボレーションを初めて実現",
-          "title_en": null,
-          "title_original": "DeepMind发布Gemini Robotics ER 2，首次解锁多机协同",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30017",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-31T03:49:27.200275Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-31T03:49:27.200275Z",
-      "latest_at": "2026-07-31T03:49:27.200275Z",
-      "primary_item": {
-        "id": "40f3bc14fd6d871014cdbe094bfabfcc8ab04b27",
-        "title": "DeepMind发布Gemini Robotics ER 2，首次解锁多机协同",
-        "title_zh": "DeepMind发布Gemini Robotics ER 2，首次解锁多机协同",
-        "title_ja": "DeepMind が Gemini Robotics ER 2 をリリースし、複数マシンのコラボレーションを初めて実現",
-        "title_en": null,
-        "title_original": "DeepMind发布Gemini Robotics ER 2，首次解锁多机协同",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30017",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-31T03:51:12.096253Z"
-      }
-    },
-    {
-      "story_id": "story_4500861bbc86",
-      "title": "Google Earth 集成 Nano Banana 2 图像生成 / What if you could see a city as it looked 100 years ago， or visualize a new basketball court at your…",
-      "title_ja": "100 年前の都市の姿を目にしたり、自宅に新しいバスケットボール コートを想像したりできたらどうでしょうか?",
-      "url": "https://x.com/GoogleAI/status/2082902334984609936",
-      "primary_url": "https://x.com/GoogleAI/status/2082902334984609936",
-      "source": "X：Google AI (@GoogleAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0868d412089140b46edc3f1649b972040bed8699",
-          "title": "Google Earth 集成 Nano Banana 2 图像生成 / What if you could see a city as it looked 100 years ago， or visualize a new basketball court at your…",
-          "title_zh": "Google Earth 集成 Nano Banana 2 图像生成",
-          "title_ja": "100 年前の都市の姿を目にしたり、自宅に新しいバスケットボール コートを想像したりできたらどうでしょうか?",
-          "title_en": "What if you could see a city as it looked 100 years ago， or visualize a new basketball court at your…",
-          "title_original": "What if you could see a city as it looked 100 years ago， or visualize a new basketball court at your…",
-          "summary": "Google Earth 网页版上线基于 Nano Banana 2 的图像生成功能，用户可通过文本提示词将卫星与 3D 影像结合，重新想象全球任意地点（如百年前的城市风貌或社区新球场）。该功能现已面向所有用户开放。",
-          "summary_ja": "Google Earth Web バージョンは、Nano Banana 2 に基づく画像生成機能を開始しました。ユーザーは、テキスト プロンプトを通じて衛星画像と 3D 画像を組み合わせて、世界中のあらゆる場所 (100 年前の街並みや地域の新しいスタジアムなど) を再想像することができます。この機能はすべてのユーザーが利用できるようになりました。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/GoogleAI/status/2082902334984609936",
-          "source": "X：Google AI (@GoogleAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T18:53:09Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Google AI (@GoogleAI)"
-      ],
-      "items": [
-        {
-          "id": "0868d412089140b46edc3f1649b972040bed8699",
-          "title": "Google Earth 集成 Nano Banana 2 图像生成 / What if you could see a city as it looked 100 years ago， or visualize a new basketball court at your…",
-          "title_zh": "Google Earth 集成 Nano Banana 2 图像生成",
-          "title_ja": "100 年前の都市の姿を目にしたり、自宅に新しいバスケットボール コートを想像したりできたらどうでしょうか?",
-          "title_en": "What if you could see a city as it looked 100 years ago， or visualize a new basketball court at your…",
-          "title_original": "What if you could see a city as it looked 100 years ago， or visualize a new basketball court at your…",
-          "summary": "Google Earth 网页版上线基于 Nano Banana 2 的图像生成功能，用户可通过文本提示词将卫星与 3D 影像结合，重新想象全球任意地点（如百年前的城市风貌或社区新球场）。该功能现已面向所有用户开放。",
-          "summary_ja": "Google Earth Web バージョンは、Nano Banana 2 に基づく画像生成機能を開始しました。ユーザーは、テキスト プロンプトを通じて衛星画像と 3D 画像を組み合わせて、世界中のあらゆる場所 (100 年前の街並みや地域の新しいスタジアムなど) を再想像することができます。この機能はすべてのユーザーが利用できるようになりました。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/GoogleAI/status/2082902334984609936",
-          "source": "X：Google AI (@GoogleAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T18:53:09Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7368,
-      "importance": 0.7368,
-      "importance_score": 0.7368,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8789,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-30T18:53:09Z",
-      "latest_at": "2026-07-30T18:53:09Z",
-      "primary_item": {
-        "id": "0868d412089140b46edc3f1649b972040bed8699",
-        "title": "Google Earth 集成 Nano Banana 2 图像生成 / What if you could see a city as it looked 100 years ago， or visualize a new basketball court at your…",
-        "title_zh": "Google Earth 集成 Nano Banana 2 图像生成",
-        "title_ja": "100 年前の都市の姿を目にしたり、自宅に新しいバスケットボール コートを想像したりできたらどうでしょうか?",
-        "title_en": "What if you could see a city as it looked 100 years ago， or visualize a new basketball court at your…",
-        "title_original": "What if you could see a city as it looked 100 years ago， or visualize a new basketball court at your…",
-        "summary": "Google Earth 网页版上线基于 Nano Banana 2 的图像生成功能，用户可通过文本提示词将卫星与 3D 影像结合，重新想象全球任意地点（如百年前的城市风貌或社区新球场）。该功能现已面向所有用户开放。",
-        "summary_ja": "Google Earth Web バージョンは、Nano Banana 2 に基づく画像生成機能を開始しました。ユーザーは、テキスト プロンプトを通じて衛星画像と 3D 画像を組み合わせて、世界中のあらゆる場所 (100 年前の街並みや地域の新しいスタジアムなど) を再想像することができます。この機能はすべてのユーザーが利用できるようになりました。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/GoogleAI/status/2082902334984609936",
-        "source": "X：Google AI (@GoogleAI)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-31T03:51:12.096253Z"
-      }
-    },
-    {
-      "story_id": "story_cbb764ee9dd7",
-      "title": "OpenRouter 下调 GPT-5.6 Terra/Luna 价格 / GPT-5.6 Terra and Luna just got price cuts from @OpenAI. OpenRouter is cheaper still. Our 50% exclu…",
-      "title_ja": "GPT-5.6 Terra と Luna が @OpenAI から値下げされました。 OpenRouterはまだ安いです。当社の50％は除外されます…",
-      "url": "https://x.com/OpenRouter/status/2082882158574911564",
-      "primary_url": "https://x.com/OpenRouter/status/2082882158574911564",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d7be7168fbb415576642561539fb592c1ba3b13e",
-          "title": "OpenRouter 下调 GPT-5.6 Terra/Luna 价格 / GPT-5.6 Terra and Luna just got price cuts from @OpenAI. OpenRouter is cheaper still. Our 50% exclu…",
-          "title_zh": "OpenRouter 下调 GPT-5.6 Terra/Luna 价格",
-          "title_ja": "GPT-5.6 Terra と Luna が @OpenAI から値下げされました。 OpenRouterはまだ安いです。当社の50％は除外されます…",
-          "title_en": "GPT-5.6 Terra and Luna just got price cuts from @OpenAI. OpenRouter is cheaper still. Our 50% exclu…",
-          "title_original": "GPT-5.6 Terra and Luna just got price cuts from @OpenAI. OpenRouter is cheaper still. Our 50% exclu…",
-          "summary": "GPT-5.6 Terra 和 Luna 刚刚获得了 @OpenAI 的降价。\n\nOpenRouter 的价格仍然更低。我们的 50% 独家折扣在此基础上适用，使 Luna 输入降至 $0.1/M、输出降至 $0.6/M，Terra 输入降至 $1/M、输出降至 $6/M。\n\n使用 luna 扩展你的工作负载：https://openrouter.ai/openai/gpt-5.6-luna",
-          "summary_ja": "GPT-5.6 Terra と Luna が @OpenAI から値下げされました。\n\nOpenRouterはまだ安いです。これに弊社独自の 50% 割引が適用され、Luna の入力は $0.1/M、出力は $0.6/M、Terra の入力は $1/M、出力は $6/M になります。\n\nluna でワークロードをスケール: https://openrouter.ai/openai/gpt-5.6-luna",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/OpenRouter/status/2082882158574911564",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T17:32:59Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenRouter (@OpenRouter)"
-      ],
-      "items": [
-        {
-          "id": "d7be7168fbb415576642561539fb592c1ba3b13e",
-          "title": "OpenRouter 下调 GPT-5.6 Terra/Luna 价格 / GPT-5.6 Terra and Luna just got price cuts from @OpenAI. OpenRouter is cheaper still. Our 50% exclu…",
-          "title_zh": "OpenRouter 下调 GPT-5.6 Terra/Luna 价格",
-          "title_ja": "GPT-5.6 Terra と Luna が @OpenAI から値下げされました。 OpenRouterはまだ安いです。当社の50％は除外されます…",
-          "title_en": "GPT-5.6 Terra and Luna just got price cuts from @OpenAI. OpenRouter is cheaper still. Our 50% exclu…",
-          "title_original": "GPT-5.6 Terra and Luna just got price cuts from @OpenAI. OpenRouter is cheaper still. Our 50% exclu…",
-          "summary": "GPT-5.6 Terra 和 Luna 刚刚获得了 @OpenAI 的降价。\n\nOpenRouter 的价格仍然更低。我们的 50% 独家折扣在此基础上适用，使 Luna 输入降至 $0.1/M、输出降至 $0.6/M，Terra 输入降至 $1/M、输出降至 $6/M。\n\n使用 luna 扩展你的工作负载：https://openrouter.ai/openai/gpt-5.6-luna",
-          "summary_ja": "GPT-5.6 Terra と Luna が @OpenAI から値下げされました。\n\nOpenRouterはまだ安いです。これに弊社独自の 50% 割引が適用され、Luna の入力は $0.1/M、出力は $0.6/M、Terra の入力は $1/M、出力は $6/M になります。\n\nluna でワークロードをスケール: https://openrouter.ai/openai/gpt-5.6-luna",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/OpenRouter/status/2082882158574911564",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T17:32:59Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7368,
-      "importance": 0.7368,
-      "importance_score": 0.7368,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8621,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-30T17:32:59Z",
-      "latest_at": "2026-07-30T17:32:59Z",
-      "primary_item": {
-        "id": "d7be7168fbb415576642561539fb592c1ba3b13e",
-        "title": "OpenRouter 下调 GPT-5.6 Terra/Luna 价格 / GPT-5.6 Terra and Luna just got price cuts from @OpenAI. OpenRouter is cheaper still. Our 50% exclu…",
-        "title_zh": "OpenRouter 下调 GPT-5.6 Terra/Luna 价格",
-        "title_ja": "GPT-5.6 Terra と Luna が @OpenAI から値下げされました。 OpenRouterはまだ安いです。当社の50％は除外されます…",
-        "title_en": "GPT-5.6 Terra and Luna just got price cuts from @OpenAI. OpenRouter is cheaper still. Our 50% exclu…",
-        "title_original": "GPT-5.6 Terra and Luna just got price cuts from @OpenAI. OpenRouter is cheaper still. Our 50% exclu…",
-        "summary": "GPT-5.6 Terra 和 Luna 刚刚获得了 @OpenAI 的降价。\n\nOpenRouter 的价格仍然更低。我们的 50% 独家折扣在此基础上适用，使 Luna 输入降至 $0.1/M、输出降至 $0.6/M，Terra 输入降至 $1/M、输出降至 $6/M。\n\n使用 luna 扩展你的工作负载：https://openrouter.ai/openai/gpt-5.6-luna",
-        "summary_ja": "GPT-5.6 Terra と Luna が @OpenAI から値下げされました。\n\nOpenRouterはまだ安いです。これに弊社独自の 50% 割引が適用され、Luna の入力は $0.1/M、出力は $0.6/M、Terra の入力は $1/M、出力は $6/M になります。\n\nluna でワークロードをスケール: https://openrouter.ai/openai/gpt-5.6-luna",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/OpenRouter/status/2082882158574911564",
-        "source": "X：OpenRouter (@OpenRouter)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-31T03:51:12.096253Z"
-      }
-    },
-    {
-      "story_id": "story_4aa9103f23d7",
-      "title": "FCC 禁止进口中国新型机器人与联网逆变器 / FCC bans new Chinese robots and power inverters to protect US AI buildout from foreign threats",
-      "title_ja": "FCC、米国のAI構築を外国の脅威から守るため、新型の中国製ロボットとパワーインバーターを禁止",
-      "url": "https://the-decoder.com/fcc-bans-new-chinese-robots-and-power-inverters-to-protect-us-ai-buildout-from-foreign-threats",
-      "primary_url": "https://the-decoder.com/fcc-bans-new-chinese-robots-and-power-inverters-to-protect-us-ai-buildout-from-foreign-threats",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a8113028fa06783c59f2d39ef2decd2d3a97666d",
-          "title": "FCC 禁止进口中国新型机器人与联网逆变器 / FCC bans new Chinese robots and power inverters to protect US AI buildout from foreign threats",
-          "title_zh": "FCC 禁止进口中国新型机器人与联网逆变器",
-          "title_ja": "FCC、米国のAI構築を外国の脅威から守るため、新型の中国製ロボットとパワーインバーターを禁止",
-          "title_en": "FCC bans new Chinese robots and power inverters to protect US AI buildout from foreign threats",
-          "title_original": "FCC bans new Chinese robots and power inverters to protect US AI buildout from foreign threats",
-          "summary": "美国 FCC 自 7 月 28 日起禁止进口中国新型\"先进机器人设备\"和联网电源逆变器，理由包括防止供应链中断、数据窃取和网络攻击。禁令覆盖几乎所有重量超 2 公斤、具备无线连接和感知能力的软件控制地面机器人，但已上市型号不受影响。",
-          "summary_ja": "米国FCCは、サプライチェーンの混乱、データ盗難、サイバー攻撃の防止などを理由に、7月28日から新たな中国製の「先端ロボット機器」とネットワーク化されたパワーインバーターの輸入を禁止した。この禁止措置は、無線接続とセンシング機能を備えた、重量2キログラムを超えるソフトウェア制御の地上ロボットのほぼすべてを対象としているが、すでに市販されているモデルは影響を受けない。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/fcc-bans-new-chinese-robots-and-power-inverters-to-protect-us-ai-buildout-from-foreign-threats",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T12:47:46Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "a8113028fa06783c59f2d39ef2decd2d3a97666d",
-          "title": "FCC 禁止进口中国新型机器人与联网逆变器 / FCC bans new Chinese robots and power inverters to protect US AI buildout from foreign threats",
-          "title_zh": "FCC 禁止进口中国新型机器人与联网逆变器",
-          "title_ja": "FCC、米国のAI構築を外国の脅威から守るため、新型の中国製ロボットとパワーインバーターを禁止",
-          "title_en": "FCC bans new Chinese robots and power inverters to protect US AI buildout from foreign threats",
-          "title_original": "FCC bans new Chinese robots and power inverters to protect US AI buildout from foreign threats",
-          "summary": "美国 FCC 自 7 月 28 日起禁止进口中国新型\"先进机器人设备\"和联网电源逆变器，理由包括防止供应链中断、数据窃取和网络攻击。禁令覆盖几乎所有重量超 2 公斤、具备无线连接和感知能力的软件控制地面机器人，但已上市型号不受影响。",
-          "summary_ja": "米国FCCは、サプライチェーンの混乱、データ盗難、サイバー攻撃の防止などを理由に、7月28日から新たな中国製の「先端ロボット機器」とネットワーク化されたパワーインバーターの輸入を禁止した。この禁止措置は、無線接続とセンシング機能を備えた、重量2キログラムを超えるソフトウェア制御の地上ロボットのほぼすべてを対象としているが、すでに市販されているモデルは影響を受けない。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/fcc-bans-new-chinese-robots-and-power-inverters-to-protect-us-ai-buildout-from-foreign-threats",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T12:47:46Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7325,
-      "importance": 0.7325,
-      "importance_score": 0.7325,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8049,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-30T12:47:46Z",
-      "latest_at": "2026-07-30T12:47:46Z",
-      "primary_item": {
-        "id": "a8113028fa06783c59f2d39ef2decd2d3a97666d",
-        "title": "FCC 禁止进口中国新型机器人与联网逆变器 / FCC bans new Chinese robots and power inverters to protect US AI buildout from foreign threats",
-        "title_zh": "FCC 禁止进口中国新型机器人与联网逆变器",
-        "title_ja": "FCC、米国のAI構築を外国の脅威から守るため、新型の中国製ロボットとパワーインバーターを禁止",
-        "title_en": "FCC bans new Chinese robots and power inverters to protect US AI buildout from foreign threats",
-        "title_original": "FCC bans new Chinese robots and power inverters to protect US AI buildout from foreign threats",
-        "summary": "美国 FCC 自 7 月 28 日起禁止进口中国新型\"先进机器人设备\"和联网电源逆变器，理由包括防止供应链中断、数据窃取和网络攻击。禁令覆盖几乎所有重量超 2 公斤、具备无线连接和感知能力的软件控制地面机器人，但已上市型号不受影响。",
-        "summary_ja": "米国FCCは、サプライチェーンの混乱、データ盗難、サイバー攻撃の防止などを理由に、7月28日から新たな中国製の「先端ロボット機器」とネットワーク化されたパワーインバーターの輸入を禁止した。この禁止措置は、無線接続とセンシング機能を備えた、重量2キログラムを超えるソフトウェア制御の地上ロボットのほぼすべてを対象としているが、すでに市販されているモデルは影響を受けない。",
-        "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/fcc-bans-new-chinese-robots-and-power-inverters-to-protect-us-ai-buildout-from-foreign-threats",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-07-31T03:51:12.096253Z"
+        "scored_at": "2026-07-31T07:14:10.463767Z"
       }
     }
   ]
