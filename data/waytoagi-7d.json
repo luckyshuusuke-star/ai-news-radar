@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-01T16:14:29.372897Z",
+  "generated_at": "2026-08-01T17:14:18.303141Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-08-01",
-  "count_today": 2,
+  "count_today": 5,
   "updates_today": [
     {
       "date": "2026-08-01",
@@ -22,9 +22,33 @@
       "url": "https://waytoagi.feishu.cn/wiki/DH8NwekCxilBdbk1ilmc9zQynac?from=from_copylink",
       "title_ja": "ソフトウェア エンジニアリング、デザイン、PM はすべて変化しており、AI のチャンスは退屈な業界に隠されています丨シリコン バレー ガール",
       "summary_ja": "あなたも最近「AIがどんどん強くなっているけど、簡単に取り残されないように今何を学んでどこに行けばいいの？」と悩んでいるなら。この記事は一般の人が読むのに適しています。カーン アカデミーの創設者であるサル カーン氏は、オンライン配車サービス、エンジニア、学生の論文などの実例を用いて、AI が仕事をどのように変えていくのか、人々はどこに労力を費やすべきなのかについて語りました。"
+    },
+    {
+      "date": "2026-08-01",
+      "title": "YC开源了他们内部使用的多Agent协作框架：QM",
+      "summary": "如果你已经会让 AI 帮自己写代码、查资料，但一到团队协作就变乱：谁的记忆算谁的？文件和权限怎么隔离？AI 能不能在Slack里一起推进项目？这篇就很好理解。YC开源了他们内部使用的多Agent协作框架：QM。它让每个员工、每个频道、每个项目都有独立的记忆、文件、密钥权限、定时任务和沙箱环境；还能接入 Pi、OpenCode、Codex、Claude Code 等不同Agent框架，避免被单一模型或工具绑定。",
+      "url": "https://waytoagi.feishu.cn/wiki/UFOOwTTJmixn2akLI7ncbwTDnNe?from=from_copylink",
+      "title_ja": "YC が社内で使用しているマルチエージェント コラボレーション フレームワークをオープンソース化しました: QM",
+      "summary_ja": "すでに AI にコードを書かせたり、情報を調べさせたりしている場合、チームでのコラボレーションとなると、事態は混乱します。誰の記憶が重要でしょうか?ファイルと権限を分離するにはどうすればよいですか? AI は Slack で一緒にプロジェクトを進めることができるでしょうか?この記事はわかりやすいですね。 YC は、社内で使用しているマルチエージェント コラボレーション フレームワークである QM をオープンソース化しました。これにより、各従業員、各チャネル、および各プロジェクトが独立したメモリ、ファイル、主要な権限、スケジュールされたタスク、およびサンドボックス環境を持つことができます。また、単一のモデルやツールに束縛されることを避けるために、Pi、OpenCode、Codex、Claude Code などのさまざまなエージェント フレームワークに接続することもできます。"
+    },
+    {
+      "date": "2026-08-01",
+      "title": "Codex 进阶指南：作为 Multi-Agent 编排控制平面",
+      "summary": "大多数人用 Codex 的方式，是开一个会话、交代一件事、等它做完。这种用法只动用了它很小一部分能力。这篇文章把几个关键概念讲得很清楚：Task、Subagent、Worktree、SSH、Handoff、Automation。已经会用Codex、想处理复杂项目的人不容错过！",
+      "url": "https://waytoagi.feishu.cn/wiki/FFsDwOBJVisiPDkZOqlcVj8ZnNc?from=from_copylink",
+      "title_ja": "Codex の上級ガイド: マルチエージェントとしてのコントロール プレーンのオーケストレーション",
+      "summary_ja": "ほとんどの人が Codex を使用する方法は、セッションを開いて何かを伝え、それが完了するのを待つことです。この使用法では、その機能のほんの一部のみが使用されます。この記事では、タスク、サブエージェント、ワークツリー、SSH、ハンドオフ、自動化といったいくつかの重要な概念を明確に説明します。 Codex の使用方法をすでに知っていて、複雑なプロジェクトを処理したい人は見逃さないでください。"
+    },
+    {
+      "date": "2026-08-01",
+      "title": "Codex Micro体验与拆解看看 OpenAI 是怎么做 AI 硬件的",
+      "summary": "作者对Codex Micro，这个vibecoding 键盘做了配置体验和拆机。它没有本地AI、也没有内置麦克风，主要负责输入、灯光、通信和供电；同时也遇到了 USB 卡顿、HID 读取中断等稳定性问题。一起来看看230美元到底买到的是什么。",
+      "url": "https://waytoagi.feishu.cn/wiki/F3n3wqgJyiQIsRkiBN0cT7XQnTd?from=from_copylink",
+      "title_ja": "OpenAI が AI ハードウェアをどのように作成するかを確認するための Codex Micro の体験と解体",
+      "summary_ja": "筆者はこのバイブコーディングキーボードであるCodex Microの設定体験と分解を行いました。ローカル AI や内蔵マイクはありません。主に入力、照明、通信、電源を担当します。また、USB 遅延や HID 読み取り中断などの安定性の問題も発生しました。 230 ドルで何が得られるか見てみましょう。"
     }
   ],
-  "count_7d": 39,
+  "count_7d": 42,
   "updates_7d": [
     {
       "date": "2026-08-01",
@@ -41,6 +65,30 @@
       "url": "https://waytoagi.feishu.cn/wiki/DH8NwekCxilBdbk1ilmc9zQynac?from=from_copylink",
       "title_ja": "ソフトウェア エンジニアリング、デザイン、PM はすべて変化しており、AI のチャンスは退屈な業界に隠されています丨シリコン バレー ガール",
       "summary_ja": "あなたも最近「AIがどんどん強くなっているけど、簡単に取り残されないように今何を学んでどこに行けばいいの？」と悩んでいるなら。この記事は一般の人が読むのに適しています。カーン アカデミーの創設者であるサル カーン氏は、オンライン配車サービス、エンジニア、学生の論文などの実例を用いて、AI が仕事をどのように変えていくのか、人々はどこに労力を費やすべきなのかについて語りました。"
+    },
+    {
+      "date": "2026-08-01",
+      "title": "YC开源了他们内部使用的多Agent协作框架：QM",
+      "summary": "如果你已经会让 AI 帮自己写代码、查资料，但一到团队协作就变乱：谁的记忆算谁的？文件和权限怎么隔离？AI 能不能在Slack里一起推进项目？这篇就很好理解。YC开源了他们内部使用的多Agent协作框架：QM。它让每个员工、每个频道、每个项目都有独立的记忆、文件、密钥权限、定时任务和沙箱环境；还能接入 Pi、OpenCode、Codex、Claude Code 等不同Agent框架，避免被单一模型或工具绑定。",
+      "url": "https://waytoagi.feishu.cn/wiki/UFOOwTTJmixn2akLI7ncbwTDnNe?from=from_copylink",
+      "title_ja": "YC が社内で使用しているマルチエージェント コラボレーション フレームワークをオープンソース化しました: QM",
+      "summary_ja": "すでに AI にコードを書かせたり、情報を調べさせたりしている場合、チームでのコラボレーションとなると、事態は混乱します。誰の記憶が重要でしょうか?ファイルと権限を分離するにはどうすればよいですか? AI は Slack で一緒にプロジェクトを進めることができるでしょうか?この記事はわかりやすいですね。 YC は、社内で使用しているマルチエージェント コラボレーション フレームワークである QM をオープンソース化しました。これにより、各従業員、各チャネル、および各プロジェクトが独立したメモリ、ファイル、主要な権限、スケジュールされたタスク、およびサンドボックス環境を持つことができます。また、単一のモデルやツールに束縛されることを避けるために、Pi、OpenCode、Codex、Claude Code などのさまざまなエージェント フレームワークに接続することもできます。"
+    },
+    {
+      "date": "2026-08-01",
+      "title": "Codex 进阶指南：作为 Multi-Agent 编排控制平面",
+      "summary": "大多数人用 Codex 的方式，是开一个会话、交代一件事、等它做完。这种用法只动用了它很小一部分能力。这篇文章把几个关键概念讲得很清楚：Task、Subagent、Worktree、SSH、Handoff、Automation。已经会用Codex、想处理复杂项目的人不容错过！",
+      "url": "https://waytoagi.feishu.cn/wiki/FFsDwOBJVisiPDkZOqlcVj8ZnNc?from=from_copylink",
+      "title_ja": "Codex の上級ガイド: マルチエージェントとしてのコントロール プレーンのオーケストレーション",
+      "summary_ja": "ほとんどの人が Codex を使用する方法は、セッションを開いて何かを伝え、それが完了するのを待つことです。この使用法では、その機能のほんの一部のみが使用されます。この記事では、タスク、サブエージェント、ワークツリー、SSH、ハンドオフ、自動化といったいくつかの重要な概念を明確に説明します。 Codex の使用方法をすでに知っていて、複雑なプロジェクトを処理したい人は見逃さないでください。"
+    },
+    {
+      "date": "2026-08-01",
+      "title": "Codex Micro体验与拆解看看 OpenAI 是怎么做 AI 硬件的",
+      "summary": "作者对Codex Micro，这个vibecoding 键盘做了配置体验和拆机。它没有本地AI、也没有内置麦克风，主要负责输入、灯光、通信和供电；同时也遇到了 USB 卡顿、HID 读取中断等稳定性问题。一起来看看230美元到底买到的是什么。",
+      "url": "https://waytoagi.feishu.cn/wiki/F3n3wqgJyiQIsRkiBN0cT7XQnTd?from=from_copylink",
+      "title_ja": "OpenAI が AI ハードウェアをどのように作成するかを確認するための Codex Micro の体験と解体",
+      "summary_ja": "筆者はこのバイブコーディングキーボードであるCodex Microの設定体験と分解を行いました。ローカル AI や内蔵マイクはありません。主に入力、照明、通信、電源を担当します。また、USB 遅延や HID 読み取り中断などの安定性の問題も発生しました。 230 ドルで何が得られるか見てみましょう。"
     },
     {
       "date": "2026-07-31",
