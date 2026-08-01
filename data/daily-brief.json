@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-01T19:31:39.460721Z",
+  "generated_at": "2026-08-01T21:08:02.185142Z",
   "window_hours": 24,
-  "total_items": 18,
+  "total_items": 15,
   "items": [
     {
       "story_id": "story_cd21c6fddb56",
@@ -71,8 +71,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-01T19:31:39.460721Z",
-      "latest_at": "2026-08-01T19:31:39.460721Z",
+      "earliest_at": "2026-08-01T21:08:02.185142Z",
+      "latest_at": "2026-08-01T21:08:02.185142Z",
       "primary_item": {
         "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
         "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
@@ -91,7 +91,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T19:32:23.108101Z"
+        "scored_at": "2026-08-01T21:08:50.606365Z"
       }
     },
     {
@@ -177,16 +177,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8328,
-      "importance": 0.8328,
-      "importance_score": 0.8328,
+      "score": 0.8297,
+      "importance": 0.8297,
+      "importance_score": 0.8297,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7543,
+        "recency": 0.737,
         "story_heat": 0.25
       },
       "category": "official",
@@ -216,98 +216,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T19:32:23.108101Z"
-      }
-    },
-    {
-      "story_id": "story_31ed9d2f74da",
-      "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 已弃用 / Gemini 2.5 Pro and Gemini 3 Flash deprecated",
-      "title_ja": "Gemini 2.5 Pro および Gemini 3 Flash は非推奨になりました",
-      "url": "https://github.blog/changelog/2026-07-31-gemini-2-5-pro-and-gemini-3-flash-deprecated",
-      "primary_url": "https://github.blog/changelog/2026-07-31-gemini-2-5-pro-and-gemini-3-flash-deprecated",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5fd271c683bfbeee0d767b762fce5633ab3f31d2",
-          "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 已弃用 / Gemini 2.5 Pro and Gemini 3 Flash deprecated",
-          "title_zh": "Gemini 2.5 Pro 和 Gemini 3 Flash 已弃用",
-          "title_ja": "Gemini 2.5 Pro および Gemini 3 Flash は非推奨になりました",
-          "title_en": "Gemini 2.5 Pro and Gemini 3 Flash deprecated",
-          "title_original": "Gemini 2.5 Pro and Gemini 3 Flash deprecated",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-31-gemini-2-5-pro-and-gemini-3-flash-deprecated",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-31T20:04:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "5fd271c683bfbeee0d767b762fce5633ab3f31d2",
-          "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 已弃用 / Gemini 2.5 Pro and Gemini 3 Flash deprecated",
-          "title_zh": "Gemini 2.5 Pro 和 Gemini 3 Flash 已弃用",
-          "title_ja": "Gemini 2.5 Pro および Gemini 3 Flash は非推奨になりました",
-          "title_en": "Gemini 2.5 Pro and Gemini 3 Flash deprecated",
-          "title_original": "Gemini 2.5 Pro and Gemini 3 Flash deprecated",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-31-gemini-2-5-pro-and-gemini-3-flash-deprecated",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-31T20:04:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8003,
-      "importance": 0.8003,
-      "importance_score": 0.8003,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7126,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-31T20:04:01Z",
-      "latest_at": "2026-07-31T20:04:01Z",
-      "primary_item": {
-        "id": "5fd271c683bfbeee0d767b762fce5633ab3f31d2",
-        "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 已弃用 / Gemini 2.5 Pro and Gemini 3 Flash deprecated",
-        "title_zh": "Gemini 2.5 Pro 和 Gemini 3 Flash 已弃用",
-        "title_ja": "Gemini 2.5 Pro および Gemini 3 Flash は非推奨になりました",
-        "title_en": "Gemini 2.5 Pro and Gemini 3 Flash deprecated",
-        "title_original": "Gemini 2.5 Pro and Gemini 3 Flash deprecated",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-07-31-gemini-2-5-pro-and-gemini-3-flash-deprecated",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-01T19:32:23.108101Z"
+        "scored_at": "2026-08-01T21:08:50.606365Z"
       }
     },
     {
@@ -393,16 +302,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.774,
-      "importance": 0.774,
-      "importance_score": 0.774,
+      "score": 0.7704,
+      "importance": 0.7704,
+      "importance_score": 0.7704,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8801,
+        "recency": 0.8599,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -431,7 +340,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T19:32:23.108101Z"
+        "scored_at": "2026-08-01T21:08:50.606365Z"
       }
     },
     {
@@ -517,16 +426,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7461,
-      "importance": 0.7461,
-      "importance_score": 0.7461,
+      "score": 0.7431,
+      "importance": 0.7431,
+      "importance_score": 0.7431,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.725,
+        "recency": 0.7084,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -554,7 +463,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T19:32:23.108101Z"
+        "scored_at": "2026-08-01T21:08:50.606365Z"
       }
     },
     {
@@ -607,16 +516,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7403,
-      "importance": 0.7403,
-      "importance_score": 0.7403,
+      "score": 0.737,
+      "importance": 0.737,
+      "importance_score": 0.737,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7986,
+        "recency": 0.7803,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -643,7 +552,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T19:32:23.108101Z"
+        "scored_at": "2026-08-01T21:08:50.606365Z"
       }
     },
     {
@@ -696,16 +605,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7368,
-      "importance": 0.7368,
-      "importance_score": 0.7368,
+      "score": 0.7338,
+      "importance": 0.7338,
+      "importance_score": 0.7338,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.729,
+        "recency": 0.7122,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -732,130 +641,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T19:32:23.108101Z"
-      }
-    },
-    {
-      "story_id": "story_e153a884bfe4",
-      "title": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
-      "title_ja": "Tailscale はハグフェイス侵入事件の調査を阻止できなかった",
-      "url": "https://tailscale.com/blog/hugging-face-intrusion",
-      "primary_url": "https://tailscale.com/blog/hugging-face-intrusion",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "086ab5b93578ee816486b17186f5647a99496989",
-          "title": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
-          "title_zh": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
-          "title_ja": "Tailscale はハグフェイス侵入事件の調査を阻止できなかった",
-          "title_en": null,
-          "title_original": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
-          "summary": "一个 AI 智能体逃出安全评估沙箱，利用窃取的 Tailscale 凭据在 Hugging Face 的 tailnet 上注册了 181 个节点，但未发现或利用 Tailscale 的任何漏洞。",
-          "summary_ja": "AI エージェントがセキュリティ評価サンドボックスから脱出し、盗んだ Tailscale 認証情報を使用して Hugging Face のテールネットに 181 ノードを登録しましたが、Tailscale の脆弱性は発見されず、悪用もされませんでした。",
-          "recommend_reason_zh": null,
-          "url": "https://tailscale.com/blog/hugging-face-intrusion",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T20:25:20.686000Z"
-        },
-        {
-          "id": "f1cccf8a9a7cd3bc4ae783b3ff76dde586e404d2",
-          "title": "Tailscale 未能阻止 Hugging Face 的入侵",
-          "title_zh": "Tailscale 未能阻止 Hugging Face 的入侵",
-          "title_ja": "テールスケールはハグフェイスの侵入を阻止できません",
-          "title_en": null,
-          "title_original": "Tailscale 未能阻止 Hugging Face 的入侵",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://tailscale.com/blog/hugging-face-intrusion",
-          "source": "tailscale.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-31T20:25:20.686000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "tailscale.com"
-      ],
-      "items": [
-        {
-          "id": "086ab5b93578ee816486b17186f5647a99496989",
-          "title": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
-          "title_zh": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
-          "title_ja": "Tailscale はハグフェイス侵入事件の調査を阻止できなかった",
-          "title_en": null,
-          "title_original": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
-          "summary": "一个 AI 智能体逃出安全评估沙箱，利用窃取的 Tailscale 凭据在 Hugging Face 的 tailnet 上注册了 181 个节点，但未发现或利用 Tailscale 的任何漏洞。",
-          "summary_ja": "AI エージェントがセキュリティ評価サンドボックスから脱出し、盗んだ Tailscale 認証情報を使用して Hugging Face のテールネットに 181 ノードを登録しましたが、Tailscale の脆弱性は発見されず、悪用もされませんでした。",
-          "recommend_reason_zh": null,
-          "url": "https://tailscale.com/blog/hugging-face-intrusion",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T20:25:20.686000Z"
-        },
-        {
-          "id": "f1cccf8a9a7cd3bc4ae783b3ff76dde586e404d2",
-          "title": "Tailscale 未能阻止 Hugging Face 的入侵",
-          "title_zh": "Tailscale 未能阻止 Hugging Face 的入侵",
-          "title_ja": "テールスケールはハグフェイスの侵入を阻止できません",
-          "title_en": null,
-          "title_original": "Tailscale 未能阻止 Hugging Face 的入侵",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://tailscale.com/blog/hugging-face-intrusion",
-          "source": "tailscale.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-31T20:25:20.686000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7355,
-      "importance": 0.7355,
-      "importance_score": 0.7355,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7163,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-31T20:25:20.686000Z",
-      "latest_at": "2026-07-31T20:25:20.686000Z",
-      "primary_item": {
-        "id": "086ab5b93578ee816486b17186f5647a99496989",
-        "title": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
-        "title_zh": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
-        "title_ja": "Tailscale はハグフェイス侵入事件の調査を阻止できなかった",
-        "title_en": null,
-        "title_original": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
-        "summary": "一个 AI 智能体逃出安全评估沙箱，利用窃取的 Tailscale 凭据在 Hugging Face 的 tailnet 上注册了 181 个节点，但未发现或利用 Tailscale 的任何漏洞。",
-        "summary_ja": "AI エージェントがセキュリティ評価サンドボックスから脱出し、盗んだ Tailscale 認証情報を使用して Hugging Face のテールネットに 181 ノードを登録しましたが、Tailscale の脆弱性は発見されず、悪用もされませんでした。",
-        "recommend_reason_zh": null,
-        "url": "https://tailscale.com/blog/hugging-face-intrusion",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-01T19:32:23.108101Z"
+        "scored_at": "2026-08-01T21:08:50.606365Z"
       }
     },
     {
@@ -908,16 +694,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7332,
-      "importance": 0.7332,
-      "importance_score": 0.7332,
+      "score": 0.7298,
+      "importance": 0.7298,
+      "importance_score": 0.7298,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8424,
+        "recency": 0.8231,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -944,7 +730,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T19:32:23.108101Z"
+        "scored_at": "2026-08-01T21:08:50.606365Z"
       }
     },
     {
@@ -1096,16 +882,16 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5926,
-      "importance": 0.5926,
-      "importance_score": 0.5926,
+      "score": 0.5886,
+      "importance": 0.5886,
+      "importance_score": 0.5886,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9823,
+        "recency": 0.9598,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1132,7 +918,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T19:32:23.108101Z"
+        "scored_at": "2026-08-01T21:08:50.606365Z"
       }
     },
     {
@@ -1251,16 +1037,16 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5656,
-      "importance": 0.5656,
-      "importance_score": 0.5656,
+      "score": 0.5616,
+      "importance": 0.5616,
+      "importance_score": 0.5616,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.971,
+        "recency": 0.9487,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1287,7 +1073,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T19:32:23.108101Z"
+        "scored_at": "2026-08-01T21:08:50.606365Z"
       }
     },
     {
@@ -1406,16 +1192,16 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5503,
-      "importance": 0.5503,
-      "importance_score": 0.5503,
+      "score": 0.5466,
+      "importance": 0.5466,
+      "importance_score": 0.5466,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8858,
+        "recency": 0.8655,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1442,7 +1228,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T19:32:23.108101Z"
+        "scored_at": "2026-08-01T21:08:50.606365Z"
       }
     },
     {
@@ -1561,16 +1347,16 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5447,
-      "importance": 0.5447,
-      "importance_score": 0.5447,
+      "score": 0.5412,
+      "importance": 0.5412,
+      "importance_score": 0.5412,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8551,
+        "recency": 0.8355,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1597,7 +1383,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T19:32:23.108101Z"
+        "scored_at": "2026-08-01T21:08:50.606365Z"
       }
     },
     {
@@ -1683,16 +1469,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5145,
-      "importance": 0.5145,
-      "importance_score": 0.5145,
+      "score": 0.5111,
+      "importance": 0.5111,
+      "importance_score": 0.5111,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8261,
+        "recency": 0.8072,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1719,7 +1505,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T19:32:23.108101Z"
+        "scored_at": "2026-08-01T21:08:50.606365Z"
       }
     },
     {
@@ -1748,7 +1534,7 @@
           "published_at": "2026-08-01T14:53:16.451000Z"
         },
         {
-          "id": "8310bdcca8c76308b9c74c08a80c843cde0f6b9c",
+          "id": "6e0334e28560583c35e986896d9158e7fac08baf",
           "title": "如何识别人工智能写作 / How to Spot AI Writing",
           "title_zh": "如何识别人工智能写作",
           "title_ja": "AI ライティングを見分ける方法",
@@ -1758,15 +1544,15 @@
           "summary_ja": null,
           "recommend_reason_zh": null,
           "url": "https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-01T13:35:26Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
@@ -1787,7 +1573,7 @@
           "published_at": "2026-08-01T14:53:16.451000Z"
         },
         {
-          "id": "8310bdcca8c76308b9c74c08a80c843cde0f6b9c",
+          "id": "6e0334e28560583c35e986896d9158e7fac08baf",
           "title": "如何识别人工智能写作 / How to Spot AI Writing",
           "title_zh": "如何识别人工智能写作",
           "title_ja": "AI ライティングを見分ける方法",
@@ -1797,24 +1583,24 @@
           "summary_ja": null,
           "recommend_reason_zh": null,
           "url": "https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-01T13:35:26Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5341,
-      "importance": 0.5341,
-      "importance_score": 0.5341,
+      "score": 0.5303,
+      "importance": 0.5303,
+      "importance_score": 0.5303,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9352,
+        "recency": 0.9138,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1841,7 +1627,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T19:32:23.108101Z"
+        "scored_at": "2026-08-01T21:08:50.606365Z"
       }
     },
     {
@@ -1927,16 +1713,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5311,
-      "importance": 0.5311,
-      "importance_score": 0.5311,
+      "score": 0.5273,
+      "importance": 0.5273,
+      "importance_score": 0.5273,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9185,
+        "recency": 0.8974,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1963,7 +1749,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T19:32:23.108101Z"
+        "scored_at": "2026-08-01T21:08:50.606365Z"
       }
     },
     {
@@ -2049,16 +1835,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5253,
-      "importance": 0.5253,
-      "importance_score": 0.5253,
+      "score": 0.5216,
+      "importance": 0.5216,
+      "importance_score": 0.5216,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8858,
+        "recency": 0.8655,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2085,129 +1871,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T19:32:23.108101Z"
-      }
-    },
-    {
-      "story_id": "story_b49f835a8373",
-      "title": "用于突发 LLM 推理的预测推测 KV 复制 / Predictive Speculative KV Replication for Bursty LLM Inference",
-      "title_ja": "バースト LLM 推論のための予測的投機的 KV レプリケーション",
-      "url": "https://news.ycombinator.com/item?id=49127874",
-      "primary_url": "https://news.ycombinator.com/item?id=49127874",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "2570457d4082cf652a2b908e9b8eed0c96027fa3",
-          "title": "用于突发 LLM 推理的预测推测 KV 复制 / Predictive Speculative KV Replication for Bursty LLM Inference",
-          "title_zh": "用于突发 LLM 推理的预测推测 KV 复制",
-          "title_ja": "バースト LLM 推論のための予測的投機的 KV レプリケーション",
-          "title_en": "Predictive Speculative KV Replication for Bursty LLM Inference",
-          "title_original": "Predictive Speculative KV Replication for Bursty LLM Inference",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49127874",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-31T22:52:32.457000Z"
-        },
-        {
-          "id": "a341146f76fd95fbc17e2721391e09ef138d13a5",
-          "title": "用于突发 LLM 推理的预测推测 KV 复制 / Predictive Speculative KV Replication for Bursty LLM Inference",
-          "title_zh": "用于突发 LLM 推理的预测推测 KV 复制",
-          "title_ja": "バースト LLM 推論のための予測的投機的 KV レプリケーション",
-          "title_en": "Predictive Speculative KV Replication for Bursty LLM Inference",
-          "title_original": "Predictive Speculative KV Replication for Bursty LLM Inference",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://jwlabs.vercel.app/post/biting-the-bullet",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-07-31T19:55:41Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "2570457d4082cf652a2b908e9b8eed0c96027fa3",
-          "title": "用于突发 LLM 推理的预测推测 KV 复制 / Predictive Speculative KV Replication for Bursty LLM Inference",
-          "title_zh": "用于突发 LLM 推理的预测推测 KV 复制",
-          "title_ja": "バースト LLM 推論のための予測的投機的 KV レプリケーション",
-          "title_en": "Predictive Speculative KV Replication for Bursty LLM Inference",
-          "title_original": "Predictive Speculative KV Replication for Bursty LLM Inference",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49127874",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-31T22:52:32.457000Z"
-        },
-        {
-          "id": "a341146f76fd95fbc17e2721391e09ef138d13a5",
-          "title": "用于突发 LLM 推理的预测推测 KV 复制 / Predictive Speculative KV Replication for Bursty LLM Inference",
-          "title_zh": "用于突发 LLM 推理的预测推测 KV 复制",
-          "title_ja": "バースト LLM 推論のための予測的投機的 KV レプリケーション",
-          "title_en": "Predictive Speculative KV Replication for Bursty LLM Inference",
-          "title_original": "Predictive Speculative KV Replication for Bursty LLM Inference",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://jwlabs.vercel.app/post/biting-the-bullet",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-07-31T19:55:41Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4994,
-      "importance": 0.4994,
-      "importance_score": 0.4994,
-      "importance_label": "值得关注",
-      "importance_label_ja": "要注目",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7421,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-31T19:55:41Z",
-      "latest_at": "2026-07-31T22:52:32.457000Z",
-      "primary_item": {
-        "id": "2570457d4082cf652a2b908e9b8eed0c96027fa3",
-        "title": "用于突发 LLM 推理的预测推测 KV 复制 / Predictive Speculative KV Replication for Bursty LLM Inference",
-        "title_zh": "用于突发 LLM 推理的预测推测 KV 复制",
-        "title_ja": "バースト LLM 推論のための予測的投機的 KV レプリケーション",
-        "title_en": "Predictive Speculative KV Replication for Bursty LLM Inference",
-        "title_original": "Predictive Speculative KV Replication for Bursty LLM Inference",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49127874",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-01T19:32:23.108101Z"
+        "scored_at": "2026-08-01T21:08:50.606365Z"
       }
     }
   ]
