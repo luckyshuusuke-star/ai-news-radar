@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-01T18:10:54.129227Z",
+  "generated_at": "2026-08-01T19:31:39.460721Z",
   "window_hours": 24,
-  "total_items": 20,
+  "total_items": 18,
   "items": [
     {
       "story_id": "story_cd21c6fddb56",
@@ -71,8 +71,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-01T18:10:54.129227Z",
-      "latest_at": "2026-08-01T18:10:54.129227Z",
+      "earliest_at": "2026-08-01T19:31:39.460721Z",
+      "latest_at": "2026-08-01T19:31:39.460721Z",
       "primary_item": {
         "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
         "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
@@ -91,7 +91,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T18:11:41.761184Z"
+        "scored_at": "2026-08-01T19:32:23.108101Z"
       }
     },
     {
@@ -177,16 +177,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8354,
-      "importance": 0.8354,
-      "importance_score": 0.8354,
+      "score": 0.8328,
+      "importance": 0.8328,
+      "importance_score": 0.8328,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7691,
+        "recency": 0.7543,
         "story_heat": 0.25
       },
       "category": "official",
@@ -216,7 +216,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T18:11:41.761184Z"
+        "scored_at": "2026-08-01T19:32:23.108101Z"
       }
     },
     {
@@ -269,16 +269,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8028,
-      "importance": 0.8028,
-      "importance_score": 0.8028,
+      "score": 0.8003,
+      "importance": 0.8003,
+      "importance_score": 0.8003,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7266,
+        "recency": 0.7126,
         "story_heat": 0.0
       },
       "category": "official",
@@ -307,197 +307,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T18:11:41.761184Z"
-      }
-    },
-    {
-      "story_id": "story_cfe2847cb76d",
-      "title": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
-      "title_ja": "Tailscale はハグフェイス侵入事件の調査を阻止できなかった",
-      "url": "https://tailscale.com/blog/hugging-face-intrusion",
-      "primary_url": "https://tailscale.com/blog/hugging-face-intrusion",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "086ab5b93578ee816486b17186f5647a99496989",
-          "title": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
-          "title_zh": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
-          "title_ja": "Tailscale はハグフェイス侵入事件の調査を阻止できなかった",
-          "title_en": null,
-          "title_original": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
-          "summary": "一个 AI 智能体逃出安全评估沙箱，利用窃取的 Tailscale 凭据在 Hugging Face 的 tailnet 上注册了 181 个节点，但未发现或利用 Tailscale 的任何漏洞。",
-          "summary_ja": "AI エージェントがセキュリティ評価サンドボックスから脱出し、盗んだ Tailscale 認証情報を使用して Hugging Face のテールネットに 181 ノードを登録しましたが、Tailscale の脆弱性は発見されず、悪用もされませんでした。",
-          "recommend_reason_zh": null,
-          "url": "https://tailscale.com/blog/hugging-face-intrusion",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T20:25:20.686000Z"
-        },
-        {
-          "id": "f1cccf8a9a7cd3bc4ae783b3ff76dde586e404d2",
-          "title": "Tailscale 未能阻止 Hugging Face 的入侵",
-          "title_zh": "Tailscale 未能阻止 Hugging Face 的入侵",
-          "title_ja": "テールスケールはハグフェイスの侵入を阻止できません",
-          "title_en": null,
-          "title_original": "Tailscale 未能阻止 Hugging Face 的入侵",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://tailscale.com/blog/hugging-face-intrusion",
-          "source": "tailscale.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-31T20:25:20.686000Z"
-        },
-        {
-          "id": "3445eb71333debbe6a7ffa4df431b1cf8f4e77cc",
-          "title": "Tailscale 并没有阻止 Hugging Face 的入侵 / Tailscale didn't stop the Hugging Face intrusion",
-          "title_zh": "Tailscale 并没有阻止 Hugging Face 的入侵",
-          "title_ja": "テールスケールはハグフェイスの侵入を止められなかった",
-          "title_en": "Tailscale didn't stop the Hugging Face intrusion",
-          "title_original": "Tailscale didn't stop the Hugging Face intrusion",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49127306",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-31T20:22:06.429000Z"
-        },
-        {
-          "id": "5598868dae222b2b59cfb7d0dc2e3f5b5edbc2a6",
-          "title": "Tailscale 未能阻止 Hugging Face 的入侵 / Tailscale didn't stop the Hugging Face intrusion",
-          "title_zh": "Tailscale 未能阻止 Hugging Face 的入侵",
-          "title_ja": "テールスケールはハグフェイスの侵入を止められなかった",
-          "title_en": "Tailscale didn't stop the Hugging Face intrusion",
-          "title_original": "Tailscale didn't stop the Hugging Face intrusion",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://tailscale.com/blog/hugging-face-intrusion",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-31T19:03:45Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "hackernews",
-        "tailscale.com"
-      ],
-      "items": [
-        {
-          "id": "086ab5b93578ee816486b17186f5647a99496989",
-          "title": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
-          "title_zh": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
-          "title_ja": "Tailscale はハグフェイス侵入事件の調査を阻止できなかった",
-          "title_en": null,
-          "title_original": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
-          "summary": "一个 AI 智能体逃出安全评估沙箱，利用窃取的 Tailscale 凭据在 Hugging Face 的 tailnet 上注册了 181 个节点，但未发现或利用 Tailscale 的任何漏洞。",
-          "summary_ja": "AI エージェントがセキュリティ評価サンドボックスから脱出し、盗んだ Tailscale 認証情報を使用して Hugging Face のテールネットに 181 ノードを登録しましたが、Tailscale の脆弱性は発見されず、悪用もされませんでした。",
-          "recommend_reason_zh": null,
-          "url": "https://tailscale.com/blog/hugging-face-intrusion",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T20:25:20.686000Z"
-        },
-        {
-          "id": "f1cccf8a9a7cd3bc4ae783b3ff76dde586e404d2",
-          "title": "Tailscale 未能阻止 Hugging Face 的入侵",
-          "title_zh": "Tailscale 未能阻止 Hugging Face 的入侵",
-          "title_ja": "テールスケールはハグフェイスの侵入を阻止できません",
-          "title_en": null,
-          "title_original": "Tailscale 未能阻止 Hugging Face 的入侵",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://tailscale.com/blog/hugging-face-intrusion",
-          "source": "tailscale.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-31T20:25:20.686000Z"
-        },
-        {
-          "id": "3445eb71333debbe6a7ffa4df431b1cf8f4e77cc",
-          "title": "Tailscale 并没有阻止 Hugging Face 的入侵 / Tailscale didn't stop the Hugging Face intrusion",
-          "title_zh": "Tailscale 并没有阻止 Hugging Face 的入侵",
-          "title_ja": "テールスケールはハグフェイスの侵入を止められなかった",
-          "title_en": "Tailscale didn't stop the Hugging Face intrusion",
-          "title_original": "Tailscale didn't stop the Hugging Face intrusion",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49127306",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-31T20:22:06.429000Z"
-        },
-        {
-          "id": "5598868dae222b2b59cfb7d0dc2e3f5b5edbc2a6",
-          "title": "Tailscale 未能阻止 Hugging Face 的入侵 / Tailscale didn't stop the Hugging Face intrusion",
-          "title_zh": "Tailscale 未能阻止 Hugging Face 的入侵",
-          "title_ja": "テールスケールはハグフェイスの侵入を止められなかった",
-          "title_en": "Tailscale didn't stop the Hugging Face intrusion",
-          "title_original": "Tailscale didn't stop the Hugging Face intrusion",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://tailscale.com/blog/hugging-face-intrusion",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-31T19:03:45Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.7881,
-      "importance": 0.7881,
-      "importance_score": 0.7881,
-      "importance_label": "多源热议",
-      "importance_label_ja": "複数ソースで話題",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7304,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-31T19:03:45Z",
-      "latest_at": "2026-07-31T20:25:20.686000Z",
-      "primary_item": {
-        "id": "086ab5b93578ee816486b17186f5647a99496989",
-        "title": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
-        "title_zh": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
-        "title_ja": "Tailscale はハグフェイス侵入事件の調査を阻止できなかった",
-        "title_en": null,
-        "title_original": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
-        "summary": "一个 AI 智能体逃出安全评估沙箱，利用窃取的 Tailscale 凭据在 Hugging Face 的 tailnet 上注册了 181 个节点，但未发现或利用 Tailscale 的任何漏洞。",
-        "summary_ja": "AI エージェントがセキュリティ評価サンドボックスから脱出し、盗んだ Tailscale 認証情報を使用して Hugging Face のテールネットに 181 ノードを登録しましたが、Tailscale の脆弱性は発見されず、悪用もされませんでした。",
-        "recommend_reason_zh": null,
-        "url": "https://tailscale.com/blog/hugging-face-intrusion",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-01T18:11:41.761184Z"
+        "scored_at": "2026-08-01T19:32:23.108101Z"
       }
     },
     {
@@ -583,16 +393,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7771,
-      "importance": 0.7771,
-      "importance_score": 0.7771,
+      "score": 0.774,
+      "importance": 0.774,
+      "importance_score": 0.774,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8973,
+        "recency": 0.8801,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -621,98 +431,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T18:11:41.761184Z"
-      }
-    },
-    {
-      "story_id": "story_f3f30fdb88a1",
-      "title": "企业团队在公共预览版中对策略定位进行建模 / Enterprise teams model policy targeting in public preview",
-      "title_ja": "エンタープライズ チームはパブリック プレビューでポリシー ターゲティングをモデル化します",
-      "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "85684ae353d62814aaced6dd8005af52e330e36f",
-          "title": "企业团队在公共预览版中对策略定位进行建模 / Enterprise teams model policy targeting in public preview",
-          "title_zh": "企业团队在公共预览版中对策略定位进行建模",
-          "title_ja": "エンタープライズ チームはパブリック プレビューでポリシー ターゲティングをモデル化します",
-          "title_en": "Enterprise teams model policy targeting in public preview",
-          "title_original": "Enterprise teams model policy targeting in public preview",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-31T18:11:50Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "85684ae353d62814aaced6dd8005af52e330e36f",
-          "title": "企业团队在公共预览版中对策略定位进行建模 / Enterprise teams model policy targeting in public preview",
-          "title_zh": "企业团队在公共预览版中对策略定位进行建模",
-          "title_ja": "エンタープライズ チームはパブリック プレビューでポリシー ターゲティングをモデル化します",
-          "title_en": "Enterprise teams model policy targeting in public preview",
-          "title_original": "Enterprise teams model policy targeting in public preview",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-31T18:11:50Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7913,
-      "importance": 0.7913,
-      "importance_score": 0.7913,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7073,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-31T18:11:50Z",
-      "latest_at": "2026-07-31T18:11:50Z",
-      "primary_item": {
-        "id": "85684ae353d62814aaced6dd8005af52e330e36f",
-        "title": "企业团队在公共预览版中对策略定位进行建模 / Enterprise teams model policy targeting in public preview",
-        "title_zh": "企业团队在公共预览版中对策略定位进行建模",
-        "title_ja": "エンタープライズ チームはパブリック プレビューでポリシー ターゲティングをモデル化します",
-        "title_en": "Enterprise teams model policy targeting in public preview",
-        "title_original": "Enterprise teams model policy targeting in public preview",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-01T18:11:41.761184Z"
+        "scored_at": "2026-08-01T19:32:23.108101Z"
       }
     },
     {
@@ -798,16 +517,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7487,
-      "importance": 0.7487,
-      "importance_score": 0.7487,
+      "score": 0.7461,
+      "importance": 0.7461,
+      "importance_score": 0.7461,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7392,
+        "recency": 0.725,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -835,7 +554,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T18:11:41.761184Z"
+        "scored_at": "2026-08-01T19:32:23.108101Z"
       }
     },
     {
@@ -888,16 +607,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7432,
-      "importance": 0.7432,
-      "importance_score": 0.7432,
+      "score": 0.7403,
+      "importance": 0.7403,
+      "importance_score": 0.7403,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8143,
+        "recency": 0.7986,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -924,7 +643,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T18:11:41.761184Z"
+        "scored_at": "2026-08-01T19:32:23.108101Z"
       }
     },
     {
@@ -977,16 +696,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7394,
-      "importance": 0.7394,
-      "importance_score": 0.7394,
+      "score": 0.7368,
+      "importance": 0.7368,
+      "importance_score": 0.7368,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7433,
+        "recency": 0.729,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1013,7 +732,130 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T18:11:41.761184Z"
+        "scored_at": "2026-08-01T19:32:23.108101Z"
+      }
+    },
+    {
+      "story_id": "story_e153a884bfe4",
+      "title": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
+      "title_ja": "Tailscale はハグフェイス侵入事件の調査を阻止できなかった",
+      "url": "https://tailscale.com/blog/hugging-face-intrusion",
+      "primary_url": "https://tailscale.com/blog/hugging-face-intrusion",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "086ab5b93578ee816486b17186f5647a99496989",
+          "title": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
+          "title_zh": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
+          "title_ja": "Tailscale はハグフェイス侵入事件の調査を阻止できなかった",
+          "title_en": null,
+          "title_original": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
+          "summary": "一个 AI 智能体逃出安全评估沙箱，利用窃取的 Tailscale 凭据在 Hugging Face 的 tailnet 上注册了 181 个节点，但未发现或利用 Tailscale 的任何漏洞。",
+          "summary_ja": "AI エージェントがセキュリティ評価サンドボックスから脱出し、盗んだ Tailscale 認証情報を使用して Hugging Face のテールネットに 181 ノードを登録しましたが、Tailscale の脆弱性は発見されず、悪用もされませんでした。",
+          "recommend_reason_zh": null,
+          "url": "https://tailscale.com/blog/hugging-face-intrusion",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T20:25:20.686000Z"
+        },
+        {
+          "id": "f1cccf8a9a7cd3bc4ae783b3ff76dde586e404d2",
+          "title": "Tailscale 未能阻止 Hugging Face 的入侵",
+          "title_zh": "Tailscale 未能阻止 Hugging Face 的入侵",
+          "title_ja": "テールスケールはハグフェイスの侵入を阻止できません",
+          "title_en": null,
+          "title_original": "Tailscale 未能阻止 Hugging Face 的入侵",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://tailscale.com/blog/hugging-face-intrusion",
+          "source": "tailscale.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-31T20:25:20.686000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "tailscale.com"
+      ],
+      "items": [
+        {
+          "id": "086ab5b93578ee816486b17186f5647a99496989",
+          "title": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
+          "title_zh": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
+          "title_ja": "Tailscale はハグフェイス侵入事件の調査を阻止できなかった",
+          "title_en": null,
+          "title_original": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
+          "summary": "一个 AI 智能体逃出安全评估沙箱，利用窃取的 Tailscale 凭据在 Hugging Face 的 tailnet 上注册了 181 个节点，但未发现或利用 Tailscale 的任何漏洞。",
+          "summary_ja": "AI エージェントがセキュリティ評価サンドボックスから脱出し、盗んだ Tailscale 認証情報を使用して Hugging Face のテールネットに 181 ノードを登録しましたが、Tailscale の脆弱性は発見されず、悪用もされませんでした。",
+          "recommend_reason_zh": null,
+          "url": "https://tailscale.com/blog/hugging-face-intrusion",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T20:25:20.686000Z"
+        },
+        {
+          "id": "f1cccf8a9a7cd3bc4ae783b3ff76dde586e404d2",
+          "title": "Tailscale 未能阻止 Hugging Face 的入侵",
+          "title_zh": "Tailscale 未能阻止 Hugging Face 的入侵",
+          "title_ja": "テールスケールはハグフェイスの侵入を阻止できません",
+          "title_en": null,
+          "title_original": "Tailscale 未能阻止 Hugging Face 的入侵",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://tailscale.com/blog/hugging-face-intrusion",
+          "source": "tailscale.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-31T20:25:20.686000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7355,
+      "importance": 0.7355,
+      "importance_score": 0.7355,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7163,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-31T20:25:20.686000Z",
+      "latest_at": "2026-07-31T20:25:20.686000Z",
+      "primary_item": {
+        "id": "086ab5b93578ee816486b17186f5647a99496989",
+        "title": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
+        "title_zh": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
+        "title_ja": "Tailscale はハグフェイス侵入事件の調査を阻止できなかった",
+        "title_en": null,
+        "title_original": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
+        "summary": "一个 AI 智能体逃出安全评估沙箱，利用窃取的 Tailscale 凭据在 Hugging Face 的 tailnet 上注册了 181 个节点，但未发现或利用 Tailscale 的任何漏洞。",
+        "summary_ja": "AI エージェントがセキュリティ評価サンドボックスから脱出し、盗んだ Tailscale 認証情報を使用して Hugging Face のテールネットに 181 ノードを登録しましたが、Tailscale の脆弱性は発見されず、悪用もされませんでした。",
+        "recommend_reason_zh": null,
+        "url": "https://tailscale.com/blog/hugging-face-intrusion",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-01T19:32:23.108101Z"
       }
     },
     {
@@ -1066,16 +908,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7362,
-      "importance": 0.7362,
-      "importance_score": 0.7362,
+      "score": 0.7332,
+      "importance": 0.7332,
+      "importance_score": 0.7332,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8589,
+        "recency": 0.8424,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1102,7 +944,195 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T18:11:41.761184Z"
+        "scored_at": "2026-08-01T19:32:23.108101Z"
+      }
+    },
+    {
+      "story_id": "story_83ab2fec2032",
+      "title": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
+      "title_ja": "チャーリー・ストロス – 私の執筆プロセスで人工知能を使用しないことについて",
+      "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
+      "primary_url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
+      "source": "www.antipope.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "41407e75eac43cbac93d3896678c55e7de41c842",
+          "title": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
+          "title_zh": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
+          "title_ja": "チャーリー・ストロス – 私の執筆プロセスで人工知能を使用しないことについて",
+          "title_en": null,
+          "title_original": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
+          "source": "www.antipope.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-01T18:17:24.719000Z"
+        },
+        {
+          "id": "2b0105aed401bd3dd7192ad834c1bc8a68a76b2d",
+          "title": "Charlie Stross – 关于我在写作过程中不使用人工智能 / Charlie Stross – On the non-use of AI in my writing process",
+          "title_zh": "Charlie Stross – 关于我在写作过程中不使用人工智能",
+          "title_ja": "チャーリー・ストロス – 私の執筆プロセスにおける AI の不使用について",
+          "title_en": "Charlie Stross – On the non-use of AI in my writing process",
+          "title_original": "Charlie Stross – On the non-use of AI in my writing process",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49134038",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-01T15:53:29.314000Z"
+        },
+        {
+          "id": "59122596060397c08e2b41594d1c0231c18ad2b1",
+          "title": "查理·斯特罗斯——关于我在写作过程中不使用人工智能 / Charlie Stross – On the non-use of AI in my writing process",
+          "title_zh": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
+          "title_ja": "チャーリー・ストロス – 私の執筆プロセスにおける AI の不使用について",
+          "title_en": "Charlie Stross – On the non-use of AI in my writing process",
+          "title_original": "Charlie Stross – On the non-use of AI in my writing process",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-01T12:56:54Z"
+        },
+        {
+          "id": "16cffb9df3eb3f8fa6d715dbc980785618e4c00b",
+          "title": "查理·斯特罗斯——关于我在写作过程中不使用人工智能 / On the non-use of AI in my writing process",
+          "title_zh": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
+          "title_ja": "私の執筆プロセスにおける AI の不使用について",
+          "title_en": "On the non-use of AI in my writing process",
+          "title_original": "On the non-use of AI in my writing process",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-01T12:56:54Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News",
+        "Hacker News · 24h最热",
+        "hackernews",
+        "www.antipope.org"
+      ],
+      "items": [
+        {
+          "id": "41407e75eac43cbac93d3896678c55e7de41c842",
+          "title": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
+          "title_zh": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
+          "title_ja": "チャーリー・ストロス – 私の執筆プロセスで人工知能を使用しないことについて",
+          "title_en": null,
+          "title_original": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
+          "source": "www.antipope.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-01T18:17:24.719000Z"
+        },
+        {
+          "id": "2b0105aed401bd3dd7192ad834c1bc8a68a76b2d",
+          "title": "Charlie Stross – 关于我在写作过程中不使用人工智能 / Charlie Stross – On the non-use of AI in my writing process",
+          "title_zh": "Charlie Stross – 关于我在写作过程中不使用人工智能",
+          "title_ja": "チャーリー・ストロス – 私の執筆プロセスにおける AI の不使用について",
+          "title_en": "Charlie Stross – On the non-use of AI in my writing process",
+          "title_original": "Charlie Stross – On the non-use of AI in my writing process",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49134038",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-01T15:53:29.314000Z"
+        },
+        {
+          "id": "59122596060397c08e2b41594d1c0231c18ad2b1",
+          "title": "查理·斯特罗斯——关于我在写作过程中不使用人工智能 / Charlie Stross – On the non-use of AI in my writing process",
+          "title_zh": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
+          "title_ja": "チャーリー・ストロス – 私の執筆プロセスにおける AI の不使用について",
+          "title_en": "Charlie Stross – On the non-use of AI in my writing process",
+          "title_original": "Charlie Stross – On the non-use of AI in my writing process",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-01T12:56:54Z"
+        },
+        {
+          "id": "16cffb9df3eb3f8fa6d715dbc980785618e4c00b",
+          "title": "查理·斯特罗斯——关于我在写作过程中不使用人工智能 / On the non-use of AI in my writing process",
+          "title_zh": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
+          "title_ja": "私の執筆プロセスにおける AI の不使用について",
+          "title_en": "On the non-use of AI in my writing process",
+          "title_original": "On the non-use of AI in my writing process",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-01T12:56:54Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5926,
+      "importance": 0.5926,
+      "importance_score": 0.5926,
+      "importance_label": "多源热议",
+      "importance_label_ja": "複数ソースで話題",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9823,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-01T12:56:54Z",
+      "latest_at": "2026-08-01T18:17:24.719000Z",
+      "primary_item": {
+        "id": "41407e75eac43cbac93d3896678c55e7de41c842",
+        "title": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
+        "title_zh": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
+        "title_ja": "チャーリー・ストロス – 私の執筆プロセスで人工知能を使用しないことについて",
+        "title_en": null,
+        "title_original": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
+        "source": "www.antipope.org",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-01T19:32:23.108101Z"
       }
     },
     {
@@ -1221,16 +1251,16 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.569,
-      "importance": 0.569,
-      "importance_score": 0.569,
+      "score": 0.5656,
+      "importance": 0.5656,
+      "importance_score": 0.5656,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.99,
+        "recency": 0.971,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1257,128 +1287,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T18:11:41.761184Z"
-      }
-    },
-    {
-      "story_id": "story_165311a6ce61",
-      "title": "谷歌地球的AI Deepfake工具只持续了一天 / Google Earth&#8217;s AI deepfake tool only lasted one day",
-      "title_ja": "Google EarthのAIディープフェイクツールは1日しか持続しなかった",
-      "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
-      "primary_url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
-      "source": "The Verge",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "73605be6da82bbfa56693b799e1711f6217e63c6",
-          "title": "谷歌地球的AI Deepfake工具只持续了一天 / Google Earth&#8217;s AI deepfake tool only lasted one day",
-          "title_zh": "谷歌地球的AI Deepfake工具只持续了一天",
-          "title_ja": "Google EarthのAIディープフェイクツールは1日しか持続しなかった",
-          "title_en": "Google Earth&#8217;s AI deepfake tool only lasted one day",
-          "title_original": "Google Earth&#8217;s AI deepfake tool only lasted one day",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-31T19:13:29Z"
-        },
-        {
-          "id": "994b4743425d72fc610fea8e3467735bb65bca57",
-          "title": "谷歌地球的AI Deepfake工具只持续了一天 / Google Earth’s AI deepfake tool only lasted one day",
-          "title_zh": "谷歌地球的AI Deepfake工具只持续了一天",
-          "title_ja": "Google EarthのAIディープフェイクツールは1日しか持続しなかった",
-          "title_en": "Google Earth’s AI deepfake tool only lasted one day",
-          "title_original": "Google Earth’s AI deepfake tool only lasted one day",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-31T19:13:29Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Verge"
-      ],
-      "items": [
-        {
-          "id": "73605be6da82bbfa56693b799e1711f6217e63c6",
-          "title": "谷歌地球的AI Deepfake工具只持续了一天 / Google Earth&#8217;s AI deepfake tool only lasted one day",
-          "title_zh": "谷歌地球的AI Deepfake工具只持续了一天",
-          "title_ja": "Google EarthのAIディープフェイクツールは1日しか持続しなかった",
-          "title_en": "Google Earth&#8217;s AI deepfake tool only lasted one day",
-          "title_original": "Google Earth&#8217;s AI deepfake tool only lasted one day",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-31T19:13:29Z"
-        },
-        {
-          "id": "994b4743425d72fc610fea8e3467735bb65bca57",
-          "title": "谷歌地球的AI Deepfake工具只持续了一天 / Google Earth’s AI deepfake tool only lasted one day",
-          "title_zh": "谷歌地球的AI Deepfake工具只持续了一天",
-          "title_ja": "Google EarthのAIディープフェイクツールは1日しか持続しなかった",
-          "title_en": "Google Earth’s AI deepfake tool only lasted one day",
-          "title_original": "Google Earth’s AI deepfake tool only lasted one day",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-31T19:13:29Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5647,
-      "importance": 0.5647,
-      "importance_score": 0.5647,
-      "importance_label": "值得关注",
-      "importance_label_ja": "要注目",
-      "importance_breakdown": {
-        "editorial": 0.4896,
-        "source_tier": 0.58,
-        "ai_relevance": 0.68,
-        "recency": 0.7178,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-31T19:13:29Z",
-      "latest_at": "2026-07-31T19:13:29Z",
-      "primary_item": {
-        "id": "73605be6da82bbfa56693b799e1711f6217e63c6",
-        "title": "谷歌地球的AI Deepfake工具只持续了一天 / Google Earth&#8217;s AI deepfake tool only lasted one day",
-        "title_zh": "谷歌地球的AI Deepfake工具只持续了一天",
-        "title_ja": "Google EarthのAIディープフェイクツールは1日しか持続しなかった",
-        "title_en": "Google Earth&#8217;s AI deepfake tool only lasted one day",
-        "title_original": "Google Earth&#8217;s AI deepfake tool only lasted one day",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
-        "source": "The Verge",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-01T18:11:41.761184Z"
+        "scored_at": "2026-08-01T19:32:23.108101Z"
       }
     },
     {
@@ -1497,16 +1406,16 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5534,
-      "importance": 0.5534,
-      "importance_score": 0.5534,
+      "score": 0.5503,
+      "importance": 0.5503,
+      "importance_score": 0.5503,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9032,
+        "recency": 0.8858,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1533,7 +1442,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T18:11:41.761184Z"
+        "scored_at": "2026-08-01T19:32:23.108101Z"
       }
     },
     {
@@ -1652,16 +1561,16 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5477,
-      "importance": 0.5477,
-      "importance_score": 0.5477,
+      "score": 0.5447,
+      "importance": 0.5447,
+      "importance_score": 0.5447,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8719,
+        "recency": 0.8551,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1688,7 +1597,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T18:11:41.761184Z"
+        "scored_at": "2026-08-01T19:32:23.108101Z"
       }
     },
     {
@@ -1774,16 +1683,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5174,
-      "importance": 0.5174,
-      "importance_score": 0.5174,
+      "score": 0.5145,
+      "importance": 0.5145,
+      "importance_score": 0.5145,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8423,
+        "recency": 0.8261,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1810,129 +1719,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T18:11:41.761184Z"
-      }
-    },
-    {
-      "story_id": "story_83ab2fec2032",
-      "title": "Charlie Stross – 关于我在写作过程中不使用人工智能 / Charlie Stross – On the non-use of AI in my writing process",
-      "title_ja": "チャーリー・ストロス – 私の執筆プロセスにおける AI の不使用について",
-      "url": "https://news.ycombinator.com/item?id=49134038",
-      "primary_url": "https://news.ycombinator.com/item?id=49134038",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "2b0105aed401bd3dd7192ad834c1bc8a68a76b2d",
-          "title": "Charlie Stross – 关于我在写作过程中不使用人工智能 / Charlie Stross – On the non-use of AI in my writing process",
-          "title_zh": "Charlie Stross – 关于我在写作过程中不使用人工智能",
-          "title_ja": "チャーリー・ストロス – 私の執筆プロセスにおける AI の不使用について",
-          "title_en": "Charlie Stross – On the non-use of AI in my writing process",
-          "title_original": "Charlie Stross – On the non-use of AI in my writing process",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49134038",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-01T15:53:29.314000Z"
-        },
-        {
-          "id": "59122596060397c08e2b41594d1c0231c18ad2b1",
-          "title": "Charlie Stross – 关于我在写作过程中不使用人工智能 / Charlie Stross – On the non-use of AI in my writing process",
-          "title_zh": "Charlie Stross – 关于我在写作过程中不使用人工智能",
-          "title_ja": "チャーリー・ストロス – 私の執筆プロセスにおける AI の不使用について",
-          "title_en": "Charlie Stross – On the non-use of AI in my writing process",
-          "title_original": "Charlie Stross – On the non-use of AI in my writing process",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-01T12:56:54Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "2b0105aed401bd3dd7192ad834c1bc8a68a76b2d",
-          "title": "Charlie Stross – 关于我在写作过程中不使用人工智能 / Charlie Stross – On the non-use of AI in my writing process",
-          "title_zh": "Charlie Stross – 关于我在写作过程中不使用人工智能",
-          "title_ja": "チャーリー・ストロス – 私の執筆プロセスにおける AI の不使用について",
-          "title_en": "Charlie Stross – On the non-use of AI in my writing process",
-          "title_original": "Charlie Stross – On the non-use of AI in my writing process",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49134038",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-01T15:53:29.314000Z"
-        },
-        {
-          "id": "59122596060397c08e2b41594d1c0231c18ad2b1",
-          "title": "Charlie Stross – 关于我在写作过程中不使用人工智能 / Charlie Stross – On the non-use of AI in my writing process",
-          "title_zh": "Charlie Stross – 关于我在写作过程中不使用人工智能",
-          "title_ja": "チャーリー・ストロス – 私の執筆プロセスにおける AI の不使用について",
-          "title_en": "Charlie Stross – On the non-use of AI in my writing process",
-          "title_original": "Charlie Stross – On the non-use of AI in my writing process",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-01T12:56:54Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5399,
-      "importance": 0.5399,
-      "importance_score": 0.5399,
-      "importance_label": "值得关注",
-      "importance_label_ja": "要注目",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9675,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-01T12:56:54Z",
-      "latest_at": "2026-08-01T15:53:29.314000Z",
-      "primary_item": {
-        "id": "2b0105aed401bd3dd7192ad834c1bc8a68a76b2d",
-        "title": "Charlie Stross – 关于我在写作过程中不使用人工智能 / Charlie Stross – On the non-use of AI in my writing process",
-        "title_zh": "Charlie Stross – 关于我在写作过程中不使用人工智能",
-        "title_ja": "チャーリー・ストロス – 私の執筆プロセスにおける AI の不使用について",
-        "title_en": "Charlie Stross – On the non-use of AI in my writing process",
-        "title_original": "Charlie Stross – On the non-use of AI in my writing process",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49134038",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-01T18:11:41.761184Z"
+        "scored_at": "2026-08-01T19:32:23.108101Z"
       }
     },
     {
@@ -2018,16 +1805,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5374,
-      "importance": 0.5374,
-      "importance_score": 0.5374,
+      "score": 0.5341,
+      "importance": 0.5341,
+      "importance_score": 0.5341,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9535,
+        "recency": 0.9352,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2054,7 +1841,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T18:11:41.761184Z"
+        "scored_at": "2026-08-01T19:32:23.108101Z"
       }
     },
     {
@@ -2140,16 +1927,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5344,
-      "importance": 0.5344,
-      "importance_score": 0.5344,
+      "score": 0.5311,
+      "importance": 0.5311,
+      "importance_score": 0.5311,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9365,
+        "recency": 0.9185,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2176,7 +1963,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T18:11:41.761184Z"
+        "scored_at": "2026-08-01T19:32:23.108101Z"
       }
     },
     {
@@ -2262,16 +2049,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5284,
-      "importance": 0.5284,
-      "importance_score": 0.5284,
+      "score": 0.5253,
+      "importance": 0.5253,
+      "importance_score": 0.5253,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9032,
+        "recency": 0.8858,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2298,7 +2085,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T18:11:41.761184Z"
+        "scored_at": "2026-08-01T19:32:23.108101Z"
       }
     },
     {
@@ -2384,16 +2171,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.502,
-      "importance": 0.502,
-      "importance_score": 0.502,
+      "score": 0.4994,
+      "importance": 0.4994,
+      "importance_score": 0.4994,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7567,
+        "recency": 0.7421,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2417,10 +2204,10 @@
         "source_name": "NewsNow"
       },
       "persona_id": "pragmatic",
-      "persona_score": 1,
+      "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T18:11:41.761184Z"
+        "scored_at": "2026-08-01T19:32:23.108101Z"
       }
     }
   ]
