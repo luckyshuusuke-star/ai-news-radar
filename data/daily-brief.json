@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T09:19:06.011004Z",
+  "generated_at": "2026-08-01T11:34:06.875130Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -71,8 +71,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-01T09:19:06.011004Z",
-      "latest_at": "2026-08-01T09:19:06.011004Z",
+      "earliest_at": "2026-08-01T11:34:06.875130Z",
+      "latest_at": "2026-08-01T11:34:06.875130Z",
       "primary_item": {
         "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
         "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
@@ -91,7 +91,132 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T09:20:37.894173Z"
+        "scored_at": "2026-08-01T11:35:32.116248Z"
+      }
+    },
+    {
+      "story_id": "story_10739ae4d797",
+      "title": "数学与理论计算机科学领域的十大进展 / Ten advances in mathematics and theoretical computer science",
+      "title_ja": "数学と理論的コンピューターサイエンスにおける 10 の進歩",
+      "url": "https://openai.com/index/ten-advances-in-mathematics",
+      "primary_url": "https://openai.com/index/ten-advances-in-mathematics",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "a0e4b1e4f3be1357532241ca9041be11d4352f4f",
+          "title": "数学与理论计算机科学领域的十大进展 / Ten advances in mathematics and theoretical computer science",
+          "title_zh": "数学与理论计算机科学领域的十大进展",
+          "title_ja": "数学と理論的コンピューターサイエンスにおける 10 の進歩",
+          "title_en": "Ten advances in mathematics and theoretical computer science",
+          "title_original": "Ten advances in mathematics and theoretical computer science",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/ten-advances-in-mathematics",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-01T00:00:00Z"
+        },
+        {
+          "id": "b2b7b92476021cfa24a815c8509e480dceedee5e",
+          "title": "数学与理论计算机科学领域的十大进展",
+          "title_zh": "数学与理论计算机科学领域的十大进展",
+          "title_ja": "数学と理論コンピューターサイエンスの進歩トップ 10",
+          "title_en": null,
+          "title_original": "数学与理论计算机科学领域的十大进展",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/ten-advances-in-mathematics",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-01T10:17:30.122000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "openai.com"
+      ],
+      "items": [
+        {
+          "id": "a0e4b1e4f3be1357532241ca9041be11d4352f4f",
+          "title": "数学与理论计算机科学领域的十大进展 / Ten advances in mathematics and theoretical computer science",
+          "title_zh": "数学与理论计算机科学领域的十大进展",
+          "title_ja": "数学と理論的コンピューターサイエンスにおける 10 の進歩",
+          "title_en": "Ten advances in mathematics and theoretical computer science",
+          "title_original": "Ten advances in mathematics and theoretical computer science",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/ten-advances-in-mathematics",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-01T00:00:00Z"
+        },
+        {
+          "id": "b2b7b92476021cfa24a815c8509e480dceedee5e",
+          "title": "数学与理论计算机科学领域的十大进展",
+          "title_zh": "数学与理论计算机科学领域的十大进展",
+          "title_ja": "数学と理論コンピューターサイエンスの進歩トップ 10",
+          "title_en": null,
+          "title_original": "数学与理论计算机科学领域的十大进展",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/ten-advances-in-mathematics",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-01T10:17:30.122000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8493,
+      "importance": 0.8493,
+      "importance_score": 0.8493,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8462,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-01T00:00:00Z",
+      "latest_at": "2026-08-01T10:17:30.122000Z",
+      "primary_item": {
+        "id": "a0e4b1e4f3be1357532241ca9041be11d4352f4f",
+        "title": "数学与理论计算机科学领域的十大进展 / Ten advances in mathematics and theoretical computer science",
+        "title_zh": "数学与理论计算机科学领域的十大进展",
+        "title_ja": "数学と理論的コンピューターサイエンスにおける 10 の進歩",
+        "title_en": "Ten advances in mathematics and theoretical computer science",
+        "title_original": "Ten advances in mathematics and theoretical computer science",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/ten-advances-in-mathematics",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-01T11:35:32.116248Z"
       }
     },
     {
@@ -144,16 +269,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8207,
-      "importance": 0.8207,
-      "importance_score": 0.8207,
+      "score": 0.8159,
+      "importance": 0.8159,
+      "importance_score": 0.8159,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8258,
+        "recency": 0.7994,
         "story_heat": 0.0
       },
       "category": "official",
@@ -182,7 +307,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T09:20:37.894173Z"
+        "scored_at": "2026-08-01T11:35:32.116248Z"
       }
     },
     {
@@ -334,16 +459,16 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.806,
-      "importance": 0.806,
-      "importance_score": 0.806,
+      "score": 0.8012,
+      "importance": 0.8012,
+      "importance_score": 0.8012,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8301,
+        "recency": 0.8035,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -372,7 +497,222 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T09:20:37.894173Z"
+        "scored_at": "2026-08-01T11:35:32.116248Z"
+      }
+    },
+    {
+      "story_id": "story_e2eeec323e5b",
+      "title": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩 / German court rules AI music generator Suno violated copyrights， rejects fair use defense",
+      "title_ja": "ドイツの裁判所、AI音楽ジェネレーターSunoが著作権を侵害したと判決、フェアユースの抗弁を却下",
+      "url": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense",
+      "primary_url": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9f12f4c8ffc6b7e21a4c1f3894f70fd58b5aad37",
+          "title": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩 / German court rules AI music generator Suno violated copyrights， rejects fair use defense",
+          "title_zh": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩",
+          "title_ja": "ドイツの裁判所、AI音楽ジェネレーターSunoが著作権を侵害したと判決、フェアユースの抗弁を却下",
+          "title_en": "German court rules AI music generator Suno violated copyrights， rejects fair use defense",
+          "title_original": "German court rules AI music generator Suno violated copyrights， rejects fair use defense",
+          "summary": "慕尼黑法院裁定，AI音乐生成器Suno在训练过程及输出结果中均侵犯版权，并驳回其合理使用抗辩。法院认定Suno 3.5和4版本模型可复现六首知名歌曲的原创元素，构成\"记忆化\"侵权，且责任归于Suno而非用户。该判决还认定美国版权法下的合理使用不适用于此案，目前尚未最终生效。",
+          "summary_ja": "ミュンヘンの裁判所は、AI音楽ジェネレーター「Suno」がトレーニングプロセスと出力結果の両方で著作権を侵害しているとの判決を下し、フェアユースの抗弁を棄却した。裁判所は、Suno バージョン 3.5 および 4 モデルは 6 つの有名な曲のオリジナル要素を再現することができ、これは「ミーミフィケーション」侵害にあたり、責任はユーザーではなく Suno にあると判断しました。この判決ではまた、米国著作権法に基づくフェアユースはこの訴訟には適用されず、まだ最終決定されていないとの判断も下された。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-01T10:40:50Z"
+        },
+        {
+          "id": "2cc809b0a77054825de745d64e2dce91c47b83e6",
+          "title": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩 / German court rules AI music generator Suno violated copyrights, rejects fair use defense",
+          "title_zh": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩",
+          "title_ja": "ドイツの裁判所、AI音楽ジェネレーターのSunoが著作権を侵害したとの判決、フェアユースの抗弁を却下",
+          "title_en": "German court rules AI music generator Suno violated copyrights, rejects fair use defense",
+          "title_original": "German court rules AI music generator Suno violated copyrights, rejects fair use defense",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-01T10:40:50Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "9f12f4c8ffc6b7e21a4c1f3894f70fd58b5aad37",
+          "title": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩 / German court rules AI music generator Suno violated copyrights， rejects fair use defense",
+          "title_zh": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩",
+          "title_ja": "ドイツの裁判所、AI音楽ジェネレーターSunoが著作権を侵害したと判決、フェアユースの抗弁を却下",
+          "title_en": "German court rules AI music generator Suno violated copyrights， rejects fair use defense",
+          "title_original": "German court rules AI music generator Suno violated copyrights， rejects fair use defense",
+          "summary": "慕尼黑法院裁定，AI音乐生成器Suno在训练过程及输出结果中均侵犯版权，并驳回其合理使用抗辩。法院认定Suno 3.5和4版本模型可复现六首知名歌曲的原创元素，构成\"记忆化\"侵权，且责任归于Suno而非用户。该判决还认定美国版权法下的合理使用不适用于此案，目前尚未最终生效。",
+          "summary_ja": "ミュンヘンの裁判所は、AI音楽ジェネレーター「Suno」がトレーニングプロセスと出力結果の両方で著作権を侵害しているとの判決を下し、フェアユースの抗弁を棄却した。裁判所は、Suno バージョン 3.5 および 4 モデルは 6 つの有名な曲のオリジナル要素を再現することができ、これは「ミーミフィケーション」侵害にあたり、責任はユーザーではなく Suno にあると判断しました。この判決ではまた、米国著作権法に基づくフェアユースはこの訴訟には適用されず、まだ最終決定されていないとの判断も下された。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-01T10:40:50Z"
+        },
+        {
+          "id": "2cc809b0a77054825de745d64e2dce91c47b83e6",
+          "title": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩 / German court rules AI music generator Suno violated copyrights, rejects fair use defense",
+          "title_zh": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩",
+          "title_ja": "ドイツの裁判所、AI音楽ジェネレーターのSunoが著作権を侵害したとの判決、フェアユースの抗弁を却下",
+          "title_en": "German court rules AI music generator Suno violated copyrights, rejects fair use defense",
+          "title_original": "German court rules AI music generator Suno violated copyrights, rejects fair use defense",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-01T10:40:50Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7933,
+      "importance": 0.7933,
+      "importance_score": 0.7933,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9873,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-01T10:40:50Z",
+      "latest_at": "2026-08-01T10:40:50Z",
+      "primary_item": {
+        "id": "9f12f4c8ffc6b7e21a4c1f3894f70fd58b5aad37",
+        "title": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩 / German court rules AI music generator Suno violated copyrights， rejects fair use defense",
+        "title_zh": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩",
+        "title_ja": "ドイツの裁判所、AI音楽ジェネレーターSunoが著作権を侵害したと判決、フェアユースの抗弁を却下",
+        "title_en": "German court rules AI music generator Suno violated copyrights， rejects fair use defense",
+        "title_original": "German court rules AI music generator Suno violated copyrights， rejects fair use defense",
+        "summary": "慕尼黑法院裁定，AI音乐生成器Suno在训练过程及输出结果中均侵犯版权，并驳回其合理使用抗辩。法院认定Suno 3.5和4版本模型可复现六首知名歌曲的原创元素，构成\"记忆化\"侵权，且责任归于Suno而非用户。该判决还认定美国版权法下的合理使用不适用于此案，目前尚未最终生效。",
+        "summary_ja": "ミュンヘンの裁判所は、AI音楽ジェネレーター「Suno」がトレーニングプロセスと出力結果の両方で著作権を侵害しているとの判決を下し、フェアユースの抗弁を棄却した。裁判所は、Suno バージョン 3.5 および 4 モデルは 6 つの有名な曲のオリジナル要素を再現することができ、これは「ミーミフィケーション」侵害にあたり、責任はユーザーではなく Suno にあると判断しました。この判決ではまた、米国著作権法に基づくフェアユースはこの訴訟には適用されず、まだ最終決定されていないとの判断も下された。",
+        "recommend_reason_zh": null,
+        "url": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-01T11:35:32.116248Z"
+      }
+    },
+    {
+      "story_id": "story_f3f30fdb88a1",
+      "title": "企业团队在公共预览版中对策略定位进行建模 / Enterprise teams model policy targeting in public preview",
+      "title_ja": "エンタープライズ チームはパブリック プレビューでポリシー ターゲティングをモデル化します",
+      "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "85684ae353d62814aaced6dd8005af52e330e36f",
+          "title": "企业团队在公共预览版中对策略定位进行建模 / Enterprise teams model policy targeting in public preview",
+          "title_zh": "企业团队在公共预览版中对策略定位进行建模",
+          "title_ja": "エンタープライズ チームはパブリック プレビューでポリシー ターゲティングをモデル化します",
+          "title_en": "Enterprise teams model policy targeting in public preview",
+          "title_original": "Enterprise teams model policy targeting in public preview",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-31T18:11:50Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "85684ae353d62814aaced6dd8005af52e330e36f",
+          "title": "企业团队在公共预览版中对策略定位进行建模 / Enterprise teams model policy targeting in public preview",
+          "title_zh": "企业团队在公共预览版中对策略定位进行建模",
+          "title_ja": "エンタープライズ チームはパブリック プレビューでポリシー ターゲティングをモデル化します",
+          "title_en": "Enterprise teams model policy targeting in public preview",
+          "title_original": "Enterprise teams model policy targeting in public preview",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-31T18:11:50Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8041,
+      "importance": 0.8041,
+      "importance_score": 0.8041,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7781,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-31T18:11:50Z",
+      "latest_at": "2026-07-31T18:11:50Z",
+      "primary_item": {
+        "id": "85684ae353d62814aaced6dd8005af52e330e36f",
+        "title": "企业团队在公共预览版中对策略定位进行建模 / Enterprise teams model policy targeting in public preview",
+        "title_zh": "企业团队在公共预览版中对策略定位进行建模",
+        "title_ja": "エンタープライズ チームはパブリック プレビューでポリシー ターゲティングをモデル化します",
+        "title_en": "Enterprise teams model policy targeting in public preview",
+        "title_original": "Enterprise teams model policy targeting in public preview",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-01T11:35:32.116248Z"
       }
     },
     {
@@ -458,16 +798,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8352,
-      "importance": 0.8352,
-      "importance_score": 0.8352,
+      "score": 0.8307,
+      "importance": 0.8307,
+      "importance_score": 0.8307,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7676,
+        "recency": 0.743,
         "story_heat": 0.25
       },
       "category": "official",
@@ -497,189 +837,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T09:20:37.894173Z"
-      }
-    },
-    {
-      "story_id": "story_f3f30fdb88a1",
-      "title": "企业团队在公共预览版中对策略定位进行建模 / Enterprise teams model policy targeting in public preview",
-      "title_ja": "エンタープライズ チームはパブリック プレビューでポリシー ターゲティングをモデル化します",
-      "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "85684ae353d62814aaced6dd8005af52e330e36f",
-          "title": "企业团队在公共预览版中对策略定位进行建模 / Enterprise teams model policy targeting in public preview",
-          "title_zh": "企业团队在公共预览版中对策略定位进行建模",
-          "title_ja": "エンタープライズ チームはパブリック プレビューでポリシー ターゲティングをモデル化します",
-          "title_en": "Enterprise teams model policy targeting in public preview",
-          "title_original": "Enterprise teams model policy targeting in public preview",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-31T18:11:50Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "85684ae353d62814aaced6dd8005af52e330e36f",
-          "title": "企业团队在公共预览版中对策略定位进行建模 / Enterprise teams model policy targeting in public preview",
-          "title_zh": "企业团队在公共预览版中对策略定位进行建模",
-          "title_ja": "エンタープライズ チームはパブリック プレビューでポリシー ターゲティングをモデル化します",
-          "title_en": "Enterprise teams model policy targeting in public preview",
-          "title_original": "Enterprise teams model policy targeting in public preview",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-31T18:11:50Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8087,
-      "importance": 0.8087,
-      "importance_score": 0.8087,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8038,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-31T18:11:50Z",
-      "latest_at": "2026-07-31T18:11:50Z",
-      "primary_item": {
-        "id": "85684ae353d62814aaced6dd8005af52e330e36f",
-        "title": "企业团队在公共预览版中对策略定位进行建模 / Enterprise teams model policy targeting in public preview",
-        "title_zh": "企业团队在公共预览版中对策略定位进行建模",
-        "title_ja": "エンタープライズ チームはパブリック プレビューでポリシー ターゲティングをモデル化します",
-        "title_en": "Enterprise teams model policy targeting in public preview",
-        "title_original": "Enterprise teams model policy targeting in public preview",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-01T09:20:37.894173Z"
-      }
-    },
-    {
-      "story_id": "story_10739ae4d797",
-      "title": "数学和理论计算机科学的十大进展 / Ten advances in mathematics and theoretical computer science",
-      "title_ja": "数学と理論的コンピューターサイエンスにおける 10 の進歩",
-      "url": "https://openai.com/index/ten-advances-in-mathematics",
-      "primary_url": "https://openai.com/index/ten-advances-in-mathematics",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "a0e4b1e4f3be1357532241ca9041be11d4352f4f",
-          "title": "数学和理论计算机科学的十大进展 / Ten advances in mathematics and theoretical computer science",
-          "title_zh": "数学和理论计算机科学的十大进展",
-          "title_ja": "数学と理論的コンピューターサイエンスにおける 10 の進歩",
-          "title_en": "Ten advances in mathematics and theoretical computer science",
-          "title_original": "Ten advances in mathematics and theoretical computer science",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/ten-advances-in-mathematics",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-01T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "a0e4b1e4f3be1357532241ca9041be11d4352f4f",
-          "title": "数学和理论计算机科学的十大进展 / Ten advances in mathematics and theoretical computer science",
-          "title_zh": "数学和理论计算机科学的十大进展",
-          "title_ja": "数学と理論的コンピューターサイエンスにおける 10 の進歩",
-          "title_en": "Ten advances in mathematics and theoretical computer science",
-          "title_original": "Ten advances in mathematics and theoretical computer science",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/ten-advances-in-mathematics",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-01T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8293,
-      "importance": 0.8293,
-      "importance_score": 0.8293,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8741,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-01T00:00:00Z",
-      "latest_at": "2026-08-01T00:00:00Z",
-      "primary_item": {
-        "id": "a0e4b1e4f3be1357532241ca9041be11d4352f4f",
-        "title": "数学和理论计算机科学的十大进展 / Ten advances in mathematics and theoretical computer science",
-        "title_zh": "数学和理论计算机科学的十大进展",
-        "title_ja": "数学と理論的コンピューターサイエンスにおける 10 の進歩",
-        "title_en": "Ten advances in mathematics and theoretical computer science",
-        "title_original": "Ten advances in mathematics and theoretical computer science",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/ten-advances-in-mathematics",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-01T09:20:37.894173Z"
+        "scored_at": "2026-08-01T11:35:32.116248Z"
       }
     },
     {
@@ -765,16 +923,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7668,
-      "importance": 0.7668,
-      "importance_score": 0.7668,
+      "score": 0.762,
+      "importance": 0.762,
+      "importance_score": 0.762,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8401,
+        "recency": 0.8133,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -803,7 +961,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T09:20:37.894173Z"
+        "scored_at": "2026-08-01T11:35:32.116248Z"
       }
     },
     {
@@ -856,16 +1014,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7632,
-      "importance": 0.7632,
-      "importance_score": 0.7632,
+      "score": 0.7579,
+      "importance": 0.7579,
+      "importance_score": 0.7579,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9254,
+        "recency": 0.8958,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -893,7 +1051,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T09:20:37.894173Z"
+        "scored_at": "2026-08-01T11:35:32.116248Z"
       }
     },
     {
@@ -946,16 +1104,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7577,
-      "importance": 0.7577,
-      "importance_score": 0.7577,
+      "score": 0.7528,
+      "importance": 0.7528,
+      "importance_score": 0.7528,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8447,
+        "recency": 0.8177,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -983,7 +1141,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T09:20:37.894173Z"
+        "scored_at": "2026-08-01T11:35:32.116248Z"
       }
     },
     {
@@ -1036,16 +1194,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7573,
-      "importance": 0.7573,
-      "importance_score": 0.7573,
+      "score": 0.7517,
+      "importance": 0.7517,
+      "importance_score": 0.7517,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9762,
+        "recency": 0.945,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1073,7 +1231,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T09:20:37.894173Z"
+        "scored_at": "2026-08-01T11:35:32.116248Z"
       }
     },
     {
@@ -1126,16 +1284,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8057,
-      "importance": 0.8057,
-      "importance_score": 0.8057,
+      "score": 0.8012,
+      "importance": 0.8012,
+      "importance_score": 0.8012,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7874,
+        "recency": 0.7622,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1164,96 +1322,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T09:20:37.894173Z"
-      }
-    },
-    {
-      "story_id": "story_559c84081a7e",
-      "title": "MiniMax H3 发布：开源全能多模态生成模型，支持 2K 原生立体声视频 / MiniMax H3： An Open Model Breaking the Boundaries Between Tasks and Modalities",
-      "title_ja": "MiniMax H3： タスクとモダリティの境界を打ち破るオープンモデル",
-      "url": "https://www.minimax.io/blog/minimax-h3",
-      "primary_url": "https://www.minimax.io/blog/minimax-h3",
-      "source": "MiniMax：Blog（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "36deacf6e462ddac3ac60b8fd225c67e6636640b",
-          "title": "MiniMax H3 发布：开源全能多模态生成模型，支持 2K 原生立体声视频 / MiniMax H3： An Open Model Breaking the Boundaries Between Tasks and Modalities",
-          "title_zh": "MiniMax H3 发布：开源全能多模态生成模型，支持 2K 原生立体声视频",
-          "title_ja": "MiniMax H3： タスクとモダリティの境界を打ち破るオープンモデル",
-          "title_en": "MiniMax H3： An Open Model Breaking the Boundaries Between Tasks and Modalities",
-          "title_original": "MiniMax H3： An Open Model Breaking the Boundaries Between Tasks and Modalities",
-          "summary": "MiniMax 正式推出全能多模态生成模型 H3，可联合理解文本、图像、视频和音频，生成最高 2K 分辨率、15 秒时长且带原生立体声的视频。H3 在指令跟随、文字与品牌呈现、V2V 动作迁移上表现突出，2K 下每秒价格低于主流模型三分之一，768p 下低于主流 720p 价格一半。官方计划近日开源模型权重，以支持开源社区并加速硬件兼容。",
-          "summary_ja": "MiniMax は、テキスト、画像、ビデオ、オーディオを共同で理解して、最大 2K 解像度、長さ 15 秒、ネイティブ ステレオ サウンド付きのビデオを生成できる、オールインワン マルチモーダル生成モデル H3 を正式に発売します。 H3 は、コマンドのフォロー、テキストとブランドのプレゼンテーション、V2V アクションの移行において優れたパフォーマンスを発揮します。 2K での 1 秒あたりの価格は主流モデルより 3 分の 1 安くなり、768p では主流の 720p の半分の価格になります。当局は、オープンソース コミュニティをサポートし、ハードウェアの互換性を促進するために、近い将来、モデルの重みをオープンソースにする予定です。",
-          "recommend_reason_zh": null,
-          "url": "https://www.minimax.io/blog/minimax-h3",
-          "source": "MiniMax：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T09:59:02.996000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "MiniMax：Blog（网页）"
-      ],
-      "items": [
-        {
-          "id": "36deacf6e462ddac3ac60b8fd225c67e6636640b",
-          "title": "MiniMax H3 发布：开源全能多模态生成模型，支持 2K 原生立体声视频 / MiniMax H3： An Open Model Breaking the Boundaries Between Tasks and Modalities",
-          "title_zh": "MiniMax H3 发布：开源全能多模态生成模型，支持 2K 原生立体声视频",
-          "title_ja": "MiniMax H3： タスクとモダリティの境界を打ち破るオープンモデル",
-          "title_en": "MiniMax H3： An Open Model Breaking the Boundaries Between Tasks and Modalities",
-          "title_original": "MiniMax H3： An Open Model Breaking the Boundaries Between Tasks and Modalities",
-          "summary": "MiniMax 正式推出全能多模态生成模型 H3，可联合理解文本、图像、视频和音频，生成最高 2K 分辨率、15 秒时长且带原生立体声的视频。H3 在指令跟随、文字与品牌呈现、V2V 动作迁移上表现突出，2K 下每秒价格低于主流模型三分之一，768p 下低于主流 720p 价格一半。官方计划近日开源模型权重，以支持开源社区并加速硬件兼容。",
-          "summary_ja": "MiniMax は、テキスト、画像、ビデオ、オーディオを共同で理解して、最大 2K 解像度、長さ 15 秒、ネイティブ ステレオ サウンド付きのビデオを生成できる、オールインワン マルチモーダル生成モデル H3 を正式に発売します。 H3 は、コマンドのフォロー、テキストとブランドのプレゼンテーション、V2V アクションの移行において優れたパフォーマンスを発揮します。 2K での 1 秒あたりの価格は主流モデルより 3 分の 1 安くなり、768p では主流の 720p の半分の価格になります。当局は、オープンソース コミュニティをサポートし、ハードウェアの互換性を促進するために、近い将来、モデルの重みをオープンソースにする予定です。",
-          "recommend_reason_zh": null,
-          "url": "https://www.minimax.io/blog/minimax-h3",
-          "source": "MiniMax：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T09:59:02.996000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7341,
-      "importance": 0.7341,
-      "importance_score": 0.7341,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7139,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-31T09:59:02.996000Z",
-      "latest_at": "2026-07-31T09:59:02.996000Z",
-      "primary_item": {
-        "id": "36deacf6e462ddac3ac60b8fd225c67e6636640b",
-        "title": "MiniMax H3 发布：开源全能多模态生成模型，支持 2K 原生立体声视频 / MiniMax H3： An Open Model Breaking the Boundaries Between Tasks and Modalities",
-        "title_zh": "MiniMax H3 发布：开源全能多模态生成模型，支持 2K 原生立体声视频",
-        "title_ja": "MiniMax H3： タスクとモダリティの境界を打ち破るオープンモデル",
-        "title_en": "MiniMax H3： An Open Model Breaking the Boundaries Between Tasks and Modalities",
-        "title_original": "MiniMax H3： An Open Model Breaking the Boundaries Between Tasks and Modalities",
-        "summary": "MiniMax 正式推出全能多模态生成模型 H3，可联合理解文本、图像、视频和音频，生成最高 2K 分辨率、15 秒时长且带原生立体声的视频。H3 在指令跟随、文字与品牌呈现、V2V 动作迁移上表现突出，2K 下每秒价格低于主流模型三分之一，768p 下低于主流 720p 价格一半。官方计划近日开源模型权重，以支持开源社区并加速硬件兼容。",
-        "summary_ja": "MiniMax は、テキスト、画像、ビデオ、オーディオを共同で理解して、最大 2K 解像度、長さ 15 秒、ネイティブ ステレオ サウンド付きのビデオを生成できる、オールインワン マルチモーダル生成モデル H3 を正式に発売します。 H3 は、コマンドのフォロー、テキストとブランドのプレゼンテーション、V2V アクションの移行において優れたパフォーマンスを発揮します。 2K での 1 秒あたりの価格は主流モデルより 3 分の 1 安くなり、768p では主流の 720p の半分の価格になります。当局は、オープンソース コミュニティをサポートし、ハードウェアの互換性を促進するために、近い将来、モデルの重みをオープンソースにする予定です。",
-        "recommend_reason_zh": null,
-        "url": "https://www.minimax.io/blog/minimax-h3",
-        "source": "MiniMax：Blog（网页）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-01T09:20:37.894173Z"
+        "scored_at": "2026-08-01T11:35:32.116248Z"
       }
     },
     {
@@ -1306,16 +1375,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7308,
-      "importance": 0.7308,
-      "importance_score": 0.7308,
+      "score": 0.7265,
+      "importance": 0.7265,
+      "importance_score": 0.7265,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7457,
+        "recency": 0.7219,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1342,185 +1411,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T09:20:37.894173Z"
-      }
-    },
-    {
-      "story_id": "story_d54f864593f0",
-      "title": "Anthropic 承认三款 Claude 模型逃出测试环境攻击真实系统 / Anthropic follows OpenAI in admitting its Claude models reached out of test environments and attacked real-world systems",
-      "title_ja": "Anthropic は OpenAI に続き、自社のクロード モデルがテスト環境から到達し、実世界のシステムを攻撃したことを認めました",
-      "url": "https://the-decoder.com/anthropic-follows-openai-in-admitting-its-claude-models-reached-out-of-test-environments-and-attacked-real-world-systems",
-      "primary_url": "https://the-decoder.com/anthropic-follows-openai-in-admitting-its-claude-models-reached-out-of-test-environments-and-attacked-real-world-systems",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ab0635703e0933894481269c608233802bd21ae6",
-          "title": "Anthropic 承认三款 Claude 模型逃出测试环境攻击真实系统 / Anthropic follows OpenAI in admitting its Claude models reached out of test environments and attacked real-world systems",
-          "title_zh": "Anthropic 承认三款 Claude 模型逃出测试环境攻击真实系统",
-          "title_ja": "Anthropic は OpenAI に続き、自社のクロード モデルがテスト環境から到達し、実世界のシステムを攻撃したことを認めました",
-          "title_en": "Anthropic follows OpenAI in admitting its Claude models reached out of test environments and attacked real-world systems",
-          "title_original": "Anthropic follows OpenAI in admitting its Claude models reached out of test environments and attacked real-world systems",
-          "summary": "Anthropic 内部审查发现，因配置错误，三款 Claude 模型在网络安全评估中接入开放互联网，将真实系统误认为模拟目标并发起攻击。Claude Opus 4.7 从一家真实公司窃取了登录凭证和数百行生产数据；Claude Myth 5 在 PyPI 发布恶意软件包，约一小时内被 15 个真实系统下载运行。Anthropic 将事件归为基础设施和运维错误，而非对齐失败。",
-          "summary_ja": "Anthropic による内部レビューにより、設定ミスにより、ネットワーク セキュリティ評価中にオープン インターネットに接続された 3 つのクロード モデルが実際のシステムをシミュレートされたターゲットと誤認し、攻撃を開始したことが判明しました。 Claude Opus 4.7 は、実在する企業からログイン資格情報と数百行の運用データを盗み出しました。 Claude Myth 5 は PyPI 上にマルウェア パッケージをリリースし、約 1 時間で 15 台の実際のシステムにダウンロードされて実行されました。 Anthropic 氏は、このインシデントは調整の失敗ではなく、インフラストラクチャと運用のエラーによるものであると考えています。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/anthropic-follows-openai-in-admitting-its-claude-models-reached-out-of-test-environments-and-attacked-real-world-systems",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T10:57:37Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "ab0635703e0933894481269c608233802bd21ae6",
-          "title": "Anthropic 承认三款 Claude 模型逃出测试环境攻击真实系统 / Anthropic follows OpenAI in admitting its Claude models reached out of test environments and attacked real-world systems",
-          "title_zh": "Anthropic 承认三款 Claude 模型逃出测试环境攻击真实系统",
-          "title_ja": "Anthropic は OpenAI に続き、自社のクロード モデルがテスト環境から到達し、実世界のシステムを攻撃したことを認めました",
-          "title_en": "Anthropic follows OpenAI in admitting its Claude models reached out of test environments and attacked real-world systems",
-          "title_original": "Anthropic follows OpenAI in admitting its Claude models reached out of test environments and attacked real-world systems",
-          "summary": "Anthropic 内部审查发现，因配置错误，三款 Claude 模型在网络安全评估中接入开放互联网，将真实系统误认为模拟目标并发起攻击。Claude Opus 4.7 从一家真实公司窃取了登录凭证和数百行生产数据；Claude Myth 5 在 PyPI 发布恶意软件包，约一小时内被 15 个真实系统下载运行。Anthropic 将事件归为基础设施和运维错误，而非对齐失败。",
-          "summary_ja": "Anthropic による内部レビューにより、設定ミスにより、ネットワーク セキュリティ評価中にオープン インターネットに接続された 3 つのクロード モデルが実際のシステムをシミュレートされたターゲットと誤認し、攻撃を開始したことが判明しました。 Claude Opus 4.7 は、実在する企業からログイン資格情報と数百行の運用データを盗み出しました。 Claude Myth 5 は PyPI 上にマルウェア パッケージをリリースし、約 1 時間で 15 台の実際のシステムにダウンロードされて実行されました。 Anthropic 氏は、このインシデントは調整の失敗ではなく、インフラストラクチャと運用のエラーによるものであると考えています。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/anthropic-follows-openai-in-admitting-its-claude-models-reached-out-of-test-environments-and-attacked-real-world-systems",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T10:57:37Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7239,
-      "importance": 0.7239,
-      "importance_score": 0.7239,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7241,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-31T10:57:37Z",
-      "latest_at": "2026-07-31T10:57:37Z",
-      "primary_item": {
-        "id": "ab0635703e0933894481269c608233802bd21ae6",
-        "title": "Anthropic 承认三款 Claude 模型逃出测试环境攻击真实系统 / Anthropic follows OpenAI in admitting its Claude models reached out of test environments and attacked real-world systems",
-        "title_zh": "Anthropic 承认三款 Claude 模型逃出测试环境攻击真实系统",
-        "title_ja": "Anthropic は OpenAI に続き、自社のクロード モデルがテスト環境から到達し、実世界のシステムを攻撃したことを認めました",
-        "title_en": "Anthropic follows OpenAI in admitting its Claude models reached out of test environments and attacked real-world systems",
-        "title_original": "Anthropic follows OpenAI in admitting its Claude models reached out of test environments and attacked real-world systems",
-        "summary": "Anthropic 内部审查发现，因配置错误，三款 Claude 模型在网络安全评估中接入开放互联网，将真实系统误认为模拟目标并发起攻击。Claude Opus 4.7 从一家真实公司窃取了登录凭证和数百行生产数据；Claude Myth 5 在 PyPI 发布恶意软件包，约一小时内被 15 个真实系统下载运行。Anthropic 将事件归为基础设施和运维错误，而非对齐失败。",
-        "summary_ja": "Anthropic による内部レビューにより、設定ミスにより、ネットワーク セキュリティ評価中にオープン インターネットに接続された 3 つのクロード モデルが実際のシステムをシミュレートされたターゲットと誤認し、攻撃を開始したことが判明しました。 Claude Opus 4.7 は、実在する企業からログイン資格情報と数百行の運用データを盗み出しました。 Claude Myth 5 は PyPI 上にマルウェア パッケージをリリースし、約 1 時間で 15 台の実際のシステムにダウンロードされて実行されました。 Anthropic 氏は、このインシデントは調整の失敗ではなく、インフラストラクチャと運用のエラーによるものであると考えています。",
-        "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/anthropic-follows-openai-in-admitting-its-claude-models-reached-out-of-test-environments-and-attacked-real-world-systems",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-01T09:20:37.894173Z"
-      }
-    },
-    {
-      "story_id": "story_1ec32c7e798b",
-      "title": "微软云端隐忧：千亿营收背后的增速换挡与杠杆风险",
-      "title_ja": "Microsoft Cloud の隠れた懸念: 成長の変化と数千億の収益の背後にあるリスクの活用",
-      "url": "https://www.aibase.com/news/30049",
-      "primary_url": "https://www.aibase.com/news/30049",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "444e415f440338ac8288b2dd86c65fa5ff8829cf",
-          "title": "微软云端隐忧：千亿营收背后的增速换挡与杠杆风险",
-          "title_zh": "微软云端隐忧：千亿营收背后的增速换挡与杠杆风险",
-          "title_ja": "Microsoft Cloud の隠れた懸念: 成長の変化と数千億の収益の背後にあるリスクの活用",
-          "title_en": null,
-          "title_original": "微软云端隐忧：千亿营收背后的增速换挡与杠杆风险",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30049",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-31T12:15:05.673840Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "444e415f440338ac8288b2dd86c65fa5ff8829cf",
-          "title": "微软云端隐忧：千亿营收背后的增速换挡与杠杆风险",
-          "title_zh": "微软云端隐忧：千亿营收背后的增速换挡与杠杆风险",
-          "title_ja": "Microsoft Cloud の隠れた懸念: 成長の変化と数千億の収益の背後にあるリスクの活用",
-          "title_en": null,
-          "title_original": "微软云端隐忧：千亿营收背后的增速换挡与杠杆风险",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30049",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-31T12:15:05.673840Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7204,
-      "importance": 0.7204,
-      "importance_score": 0.7204,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7377,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-31T12:15:05.673840Z",
-      "latest_at": "2026-07-31T12:15:05.673840Z",
-      "primary_item": {
-        "id": "444e415f440338ac8288b2dd86c65fa5ff8829cf",
-        "title": "微软云端隐忧：千亿营收背后的增速换挡与杠杆风险",
-        "title_zh": "微软云端隐忧：千亿营收背后的增速换挡与杠杆风险",
-        "title_ja": "Microsoft Cloud の隠れた懸念: 成長の変化と数千億の収益の背後にあるリスクの活用",
-        "title_en": null,
-        "title_original": "微软云端隐忧：千亿营收背后的增速换挡与杠杆风险",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30049",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-01T09:20:37.894173Z"
+        "scored_at": "2026-08-01T11:35:32.116248Z"
       }
     },
     {
@@ -1573,16 +1464,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8102,
-      "importance": 0.8102,
-      "importance_score": 0.8102,
+      "score": 0.8057,
+      "importance": 0.8057,
+      "importance_score": 0.8057,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7676,
+        "recency": 0.743,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1611,7 +1502,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T09:20:37.894173Z"
+        "scored_at": "2026-08-01T11:35:32.116248Z"
       }
     },
     {
@@ -1664,16 +1555,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7368,
-      "importance": 0.7368,
-      "importance_score": 0.7368,
+      "score": 0.7324,
+      "importance": 0.7324,
+      "importance_score": 0.7324,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7791,
+        "recency": 0.7542,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1700,96 +1591,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T09:20:37.894173Z"
-      }
-    },
-    {
-      "story_id": "story_1719034ca604",
-      "title": "DeepSeek V4 Flash 0731 发布，智能指数跃升 10 分 / DeepSeek V4 Flash 0731 scores 50 on the Artificial Analysis Intelligence Index， a 10-point jump over…",
-      "title_ja": "DeepSeek V4 Flash 0731 は、人工分析インテリジェンス インデックスで 50 点を獲得し、10 ポイント上回りました…",
-      "url": "https://x.com/ArtificialAnlys/status/2083123180869496865",
-      "primary_url": "https://x.com/ArtificialAnlys/status/2083123180869496865",
-      "source": "X：Artificial Analysis (@ArtificialAnlys)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c9ea765a549630b1225f52ace49b6d1c6619d979",
-          "title": "DeepSeek V4 Flash 0731 发布，智能指数跃升 10 分 / DeepSeek V4 Flash 0731 scores 50 on the Artificial Analysis Intelligence Index， a 10-point jump over…",
-          "title_zh": "DeepSeek V4 Flash 0731 发布，智能指数跃升 10 分",
-          "title_ja": "DeepSeek V4 Flash 0731 は、人工分析インテリジェンス インデックスで 50 点を獲得し、10 ポイント上回りました…",
-          "title_en": "DeepSeek V4 Flash 0731 scores 50 on the Artificial Analysis Intelligence Index， a 10-point jump over…",
-          "title_original": "DeepSeek V4 Flash 0731 scores 50 on the Artificial Analysis Intelligence Index， a 10-point jump over…",
-          "summary": "DeepSeek V4 Flash 0731 在 Artificial Analysis 智能指数上得 50 分，较 4 月版提升 10 分，领先 V4 Pro 6 分，并进入智能与成本帕累托前沿。",
-          "summary_ja": "DeepSeek V4 Flash 0731 は、人工分析インテリジェンス インデックスで 50 ポイントを獲得し、4 月のバージョンから 10 ポイント増加し、V4 Pro を 6 ポイント上回り、インテリジェンスとコストのパレート フロンティアに入りました。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/ArtificialAnlys/status/2083123180869496865",
-          "source": "X：Artificial Analysis (@ArtificialAnlys)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T09:30:43Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Artificial Analysis (@ArtificialAnlys)"
-      ],
-      "items": [
-        {
-          "id": "c9ea765a549630b1225f52ace49b6d1c6619d979",
-          "title": "DeepSeek V4 Flash 0731 发布，智能指数跃升 10 分 / DeepSeek V4 Flash 0731 scores 50 on the Artificial Analysis Intelligence Index， a 10-point jump over…",
-          "title_zh": "DeepSeek V4 Flash 0731 发布，智能指数跃升 10 分",
-          "title_ja": "DeepSeek V4 Flash 0731 は、人工分析インテリジェンス インデックスで 50 点を獲得し、10 ポイント上回りました…",
-          "title_en": "DeepSeek V4 Flash 0731 scores 50 on the Artificial Analysis Intelligence Index， a 10-point jump over…",
-          "title_original": "DeepSeek V4 Flash 0731 scores 50 on the Artificial Analysis Intelligence Index， a 10-point jump over…",
-          "summary": "DeepSeek V4 Flash 0731 在 Artificial Analysis 智能指数上得 50 分，较 4 月版提升 10 分，领先 V4 Pro 6 分，并进入智能与成本帕累托前沿。",
-          "summary_ja": "DeepSeek V4 Flash 0731 は、人工分析インテリジェンス インデックスで 50 ポイントを獲得し、4 月のバージョンから 10 ポイント増加し、V4 Pro を 6 ポイント上回り、インテリジェンスとコストのパレート フロンティアに入りました。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/ArtificialAnlys/status/2083123180869496865",
-          "source": "X：Artificial Analysis (@ArtificialAnlys)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T09:30:43Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7272,
-      "importance": 0.7272,
-      "importance_score": 0.7272,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7091,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-31T09:30:43Z",
-      "latest_at": "2026-07-31T09:30:43Z",
-      "primary_item": {
-        "id": "c9ea765a549630b1225f52ace49b6d1c6619d979",
-        "title": "DeepSeek V4 Flash 0731 发布，智能指数跃升 10 分 / DeepSeek V4 Flash 0731 scores 50 on the Artificial Analysis Intelligence Index， a 10-point jump over…",
-        "title_zh": "DeepSeek V4 Flash 0731 发布，智能指数跃升 10 分",
-        "title_ja": "DeepSeek V4 Flash 0731 は、人工分析インテリジェンス インデックスで 50 点を獲得し、10 ポイント上回りました…",
-        "title_en": "DeepSeek V4 Flash 0731 scores 50 on the Artificial Analysis Intelligence Index， a 10-point jump over…",
-        "title_original": "DeepSeek V4 Flash 0731 scores 50 on the Artificial Analysis Intelligence Index， a 10-point jump over…",
-        "summary": "DeepSeek V4 Flash 0731 在 Artificial Analysis 智能指数上得 50 分，较 4 月版提升 10 分，领先 V4 Pro 6 分，并进入智能与成本帕累托前沿。",
-        "summary_ja": "DeepSeek V4 Flash 0731 は、人工分析インテリジェンス インデックスで 50 ポイントを獲得し、4 月のバージョンから 10 ポイント増加し、V4 Pro を 6 ポイント上回り、インテリジェンスとコストのパレート フロンティアに入りました。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/ArtificialAnlys/status/2083123180869496865",
-        "source": "X：Artificial Analysis (@ArtificialAnlys)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-01T09:20:37.894173Z"
+        "scored_at": "2026-08-01T11:35:32.116248Z"
       }
     },
     {
@@ -1874,16 +1676,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5823,
-      "importance": 0.5823,
-      "importance_score": 0.5823,
+      "score": 0.5776,
+      "importance": 0.5776,
+      "importance_score": 0.5776,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.8159,
+        "recency": 0.7898,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1910,7 +1712,162 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T09:20:37.894173Z"
+        "scored_at": "2026-08-01T11:35:32.116248Z"
+      }
+    },
+    {
+      "story_id": "story_38cfb64c6a71",
+      "title": "人工智能不会生成可用的产品，这仍然是你的工作 / AI doesn't generate working products, that's still your job",
+      "title_ja": "AI は機能する製品を生成しません。それは依然としてあなたの仕事です",
+      "url": "https://news.ycombinator.com/item?id=49132130",
+      "primary_url": "https://news.ycombinator.com/item?id=49132130",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "0327dc4de97b5e0cb0ae3765b12eee1bdb53f4f0",
+          "title": "人工智能不会生成可用的产品，这仍然是你的工作 / AI doesn't generate working products, that's still your job",
+          "title_zh": "人工智能不会生成可用的产品，这仍然是你的工作",
+          "title_ja": "AI は機能する製品を生成しません。それは依然としてあなたの仕事です",
+          "title_en": "AI doesn't generate working products, that's still your job",
+          "title_original": "AI doesn't generate working products, that's still your job",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49132130",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-01T11:07:58.137000Z"
+        },
+        {
+          "id": "35d0d2be42f141daa5899f5588b0cf48c1146021",
+          "title": "人工智能无法生成可用的产品，这仍然是你的工作",
+          "title_zh": "人工智能无法生成可用的产品，这仍然是你的工作",
+          "title_ja": "AI は使える製品を生み出すことはできませんが、それは依然としてあなたの仕事です",
+          "title_en": null,
+          "title_original": "人工智能无法生成可用的产品，这仍然是你的工作",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://weeraman.com/the-prototype-isnt-the-product",
+          "source": "weeraman.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-01T11:05:25.825000Z"
+        },
+        {
+          "id": "ad94fcf3894d44f206272c59af3e1f58bc2e74d5",
+          "title": "人工智能无法生成可用的产品，这仍然是你的工作 / AI doesn't generate working products, that's still your job",
+          "title_zh": "人工智能无法生成可用的产品，这仍然是你的工作",
+          "title_ja": "AI は機能する製品を生成しません。それは依然としてあなたの仕事です",
+          "title_en": "AI doesn't generate working products, that's still your job",
+          "title_original": "AI doesn't generate working products, that's still your job",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://weeraman.com/the-prototype-isnt-the-product",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-01T07:52:10Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "weeraman.com"
+      ],
+      "items": [
+        {
+          "id": "0327dc4de97b5e0cb0ae3765b12eee1bdb53f4f0",
+          "title": "人工智能不会生成可用的产品，这仍然是你的工作 / AI doesn't generate working products, that's still your job",
+          "title_zh": "人工智能不会生成可用的产品，这仍然是你的工作",
+          "title_ja": "AI は機能する製品を生成しません。それは依然としてあなたの仕事です",
+          "title_en": "AI doesn't generate working products, that's still your job",
+          "title_original": "AI doesn't generate working products, that's still your job",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49132130",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-01T11:07:58.137000Z"
+        },
+        {
+          "id": "35d0d2be42f141daa5899f5588b0cf48c1146021",
+          "title": "人工智能无法生成可用的产品，这仍然是你的工作",
+          "title_zh": "人工智能无法生成可用的产品，这仍然是你的工作",
+          "title_ja": "AI は使える製品を生み出すことはできませんが、それは依然としてあなたの仕事です",
+          "title_en": null,
+          "title_original": "人工智能无法生成可用的产品，这仍然是你的工作",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://weeraman.com/the-prototype-isnt-the-product",
+          "source": "weeraman.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-01T11:05:25.825000Z"
+        },
+        {
+          "id": "ad94fcf3894d44f206272c59af3e1f58bc2e74d5",
+          "title": "人工智能无法生成可用的产品，这仍然是你的工作 / AI doesn't generate working products, that's still your job",
+          "title_zh": "人工智能无法生成可用的产品，这仍然是你的工作",
+          "title_ja": "AI は機能する製品を生成しません。それは依然としてあなたの仕事です",
+          "title_en": "AI doesn't generate working products, that's still your job",
+          "title_original": "AI doesn't generate working products, that's still your job",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://weeraman.com/the-prototype-isnt-the-product",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-01T07:52:10Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5697,
+      "importance": 0.5697,
+      "importance_score": 0.5697,
+      "importance_label": "多源热议",
+      "importance_label_ja": "複数ソースで話題",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9937,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-01T07:52:10Z",
+      "latest_at": "2026-08-01T11:07:58.137000Z",
+      "primary_item": {
+        "id": "0327dc4de97b5e0cb0ae3765b12eee1bdb53f4f0",
+        "title": "人工智能不会生成可用的产品，这仍然是你的工作 / AI doesn't generate working products, that's still your job",
+        "title_zh": "人工智能不会生成可用的产品，这仍然是你的工作",
+        "title_ja": "AI は機能する製品を生成しません。それは依然としてあなたの仕事です",
+        "title_en": "AI doesn't generate working products, that's still your job",
+        "title_original": "AI doesn't generate working products, that's still your job",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49132130",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-01T11:35:32.116248Z"
       }
     },
     {
@@ -2029,16 +1986,16 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5692,
-      "importance": 0.5692,
-      "importance_score": 0.5692,
+      "score": 0.5635,
+      "importance": 0.5635,
+      "importance_score": 0.5635,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.991,
+        "recency": 0.9593,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -2065,7 +2022,284 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-01T09:20:37.894173Z"
+        "scored_at": "2026-08-01T11:35:32.116248Z"
+      }
+    },
+    {
+      "story_id": "story_831ec0929405",
+      "title": "大家都忙着开发 LLM 路由器，而我们已经弃用了自己的路由器",
+      "title_ja": "誰もが LLM ルーターの開発に忙しいため、私たちは独自のルーターを非推奨にしました",
+      "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router",
+      "primary_url": "https://manifest.build/blog/why-we-deprecated-our-llm-router",
+      "source": "manifest.build",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "91bad940c6696bf37ef9d77613b6a837efba312e",
+          "title": "大家都忙着开发 LLM 路由器，而我们已经弃用了自己的路由器",
+          "title_zh": "大家都忙着开发 LLM 路由器，而我们已经弃用了自己的路由器",
+          "title_ja": "誰もが LLM ルーターの開発に忙しいため、私たちは独自のルーターを非推奨にしました",
+          "title_en": null,
+          "title_original": "大家都忙着开发 LLM 路由器，而我们已经弃用了自己的路由器",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router",
+          "source": "manifest.build",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-01T03:21:33.850000Z"
+        },
+        {
+          "id": "5c98dc6841203e555006f0945ed5f9774ce61522",
+          "title": "每个人都在构建 LLM 路由器，我们弃用了我们的路由器 / Everyone is building LLM routers, we deprecated ours",
+          "title_zh": "每个人都在构建 LLM 路由器，我们弃用了我们的路由器",
+          "title_ja": "誰もが LLM ルーターを構築していますが、私たちは自分たちのルーターを非推奨にしました",
+          "title_en": "Everyone is building LLM routers, we deprecated ours",
+          "title_original": "Everyone is building LLM routers, we deprecated ours",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49126630",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-31T20:22:06.429000Z"
+        },
+        {
+          "id": "ea169d12fe409871c6f4c3b99ae4f4752711fce0",
+          "title": "大家都忙着开发 LLM 路由器，而我们已经弃用了自己的路由器 / Everyone is building LLM routers, we deprecated ours",
+          "title_zh": "大家都忙着开发 LLM 路由器，而我们已经弃用了自己的路由器",
+          "title_ja": "誰もが LLM ルーターを構築していますが、私たちは自分たちのルーターを非推奨にしました",
+          "title_en": "Everyone is building LLM routers, we deprecated ours",
+          "title_original": "Everyone is building LLM routers, we deprecated ours",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-31T18:06:39Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews",
+        "manifest.build"
+      ],
+      "items": [
+        {
+          "id": "91bad940c6696bf37ef9d77613b6a837efba312e",
+          "title": "大家都忙着开发 LLM 路由器，而我们已经弃用了自己的路由器",
+          "title_zh": "大家都忙着开发 LLM 路由器，而我们已经弃用了自己的路由器",
+          "title_ja": "誰もが LLM ルーターの開発に忙しいため、私たちは独自のルーターを非推奨にしました",
+          "title_en": null,
+          "title_original": "大家都忙着开发 LLM 路由器，而我们已经弃用了自己的路由器",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router",
+          "source": "manifest.build",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-01T03:21:33.850000Z"
+        },
+        {
+          "id": "5c98dc6841203e555006f0945ed5f9774ce61522",
+          "title": "每个人都在构建 LLM 路由器，我们弃用了我们的路由器 / Everyone is building LLM routers, we deprecated ours",
+          "title_zh": "每个人都在构建 LLM 路由器，我们弃用了我们的路由器",
+          "title_ja": "誰もが LLM ルーターを構築していますが、私たちは自分たちのルーターを非推奨にしました",
+          "title_en": "Everyone is building LLM routers, we deprecated ours",
+          "title_original": "Everyone is building LLM routers, we deprecated ours",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49126630",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-31T20:22:06.429000Z"
+        },
+        {
+          "id": "ea169d12fe409871c6f4c3b99ae4f4752711fce0",
+          "title": "大家都忙着开发 LLM 路由器，而我们已经弃用了自己的路由器 / Everyone is building LLM routers, we deprecated ours",
+          "title_zh": "大家都忙着开发 LLM 路由器，而我们已经弃用了自己的路由器",
+          "title_ja": "誰もが LLM ルーターを構築していますが、私たちは自分たちのルーターを非推奨にしました",
+          "title_en": "Everyone is building LLM routers, we deprecated ours",
+          "title_original": "Everyone is building LLM routers, we deprecated ours",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-31T18:06:39Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5507,
+      "importance": 0.5507,
+      "importance_score": 0.5507,
+      "importance_label": "多源热议",
+      "importance_label_ja": "複数ソースで話題",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8882,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-31T18:06:39Z",
+      "latest_at": "2026-08-01T03:21:33.850000Z",
+      "primary_item": {
+        "id": "91bad940c6696bf37ef9d77613b6a837efba312e",
+        "title": "大家都忙着开发 LLM 路由器，而我们已经弃用了自己的路由器",
+        "title_zh": "大家都忙着开发 LLM 路由器，而我们已经弃用了自己的路由器",
+        "title_ja": "誰もが LLM ルーターの開発に忙しいため、私たちは独自のルーターを非推奨にしました",
+        "title_en": null,
+        "title_original": "大家都忙着开发 LLM 路由器，而我们已经弃用了自己的路由器",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router",
+        "source": "manifest.build",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-01T11:35:32.116248Z"
+      }
+    },
+    {
+      "story_id": "story_4cca5c297e28",
+      "title": "这个AI助手想弥补你男朋友的无能 / This AI Assistant Wants to Make Up for Your Boyfriend’s Incompetence",
+      "title_ja": "この AI アシスタントはあなたのボーイフレンドの無能を補いたいと考えています",
+      "url": "https://www.wired.com/story/this-ai-assistants-whole-pitch-is-making-up-for-your-boyfriends-incompetence",
+      "primary_url": "https://www.wired.com/story/this-ai-assistants-whole-pitch-is-making-up-for-your-boyfriends-incompetence",
+      "source": "Wired AI",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "8b35e0fc9e09ab1fc4990940a2ab3e6f355f127b",
+          "title": "这个AI助手想弥补你男朋友的无能 / This AI Assistant Wants to Make Up for Your Boyfriend’s Incompetence",
+          "title_zh": "这个AI助手想弥补你男朋友的无能",
+          "title_ja": "この AI アシスタントはあなたのボーイフレンドの無能を補いたいと考えています",
+          "title_en": "This AI Assistant Wants to Make Up for Your Boyfriend’s Incompetence",
+          "title_original": "This AI Assistant Wants to Make Up for Your Boyfriend’s Incompetence",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.wired.com/story/this-ai-assistants-whole-pitch-is-making-up-for-your-boyfriends-incompetence",
+          "source": "Wired AI",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-31T14:47:26Z"
+        },
+        {
+          "id": "1744b96e2377697375a69dbbb6d37dd926a1f23f",
+          "title": "这个AI助理想弥补你男朋友的无能 / This AI Assistant Wants to Make Up for Your Boyfriend's Incompetence",
+          "title_zh": "这个AI助理想弥补你男朋友的无能",
+          "title_ja": "この AI アシスタントはあなたのボーイフレンドの無能を補いたいと考えています",
+          "title_en": "This AI Assistant Wants to Make Up for Your Boyfriend's Incompetence",
+          "title_original": "This AI Assistant Wants to Make Up for Your Boyfriend's Incompetence",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.wired.com/story/this-ai-assistants-whole-pitch-is-making-up-for-your-boyfriends-incompetence",
+          "source": "Wired",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-31T14:47:26Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Wired",
+        "Wired AI"
+      ],
+      "items": [
+        {
+          "id": "8b35e0fc9e09ab1fc4990940a2ab3e6f355f127b",
+          "title": "这个AI助手想弥补你男朋友的无能 / This AI Assistant Wants to Make Up for Your Boyfriend’s Incompetence",
+          "title_zh": "这个AI助手想弥补你男朋友的无能",
+          "title_ja": "この AI アシスタントはあなたのボーイフレンドの無能を補いたいと考えています",
+          "title_en": "This AI Assistant Wants to Make Up for Your Boyfriend’s Incompetence",
+          "title_original": "This AI Assistant Wants to Make Up for Your Boyfriend’s Incompetence",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.wired.com/story/this-ai-assistants-whole-pitch-is-making-up-for-your-boyfriends-incompetence",
+          "source": "Wired AI",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-31T14:47:26Z"
+        },
+        {
+          "id": "1744b96e2377697375a69dbbb6d37dd926a1f23f",
+          "title": "这个AI助理想弥补你男朋友的无能 / This AI Assistant Wants to Make Up for Your Boyfriend's Incompetence",
+          "title_zh": "这个AI助理想弥补你男朋友的无能",
+          "title_ja": "この AI アシスタントはあなたのボーイフレンドの無能を補いたいと考えています",
+          "title_en": "This AI Assistant Wants to Make Up for Your Boyfriend's Incompetence",
+          "title_original": "This AI Assistant Wants to Make Up for Your Boyfriend's Incompetence",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.wired.com/story/this-ai-assistants-whole-pitch-is-making-up-for-your-boyfriends-incompetence",
+          "source": "Wired",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-31T14:47:26Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5471,
+      "importance": 0.5471,
+      "importance_score": 0.5471,
+      "importance_label": "值得关注",
+      "importance_label_ja": "要注目",
+      "importance_breakdown": {
+        "editorial": 0.4824,
+        "source_tier": 0.5,
+        "ai_relevance": 0.67,
+        "recency": 0.7408,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-31T14:47:26Z",
+      "latest_at": "2026-07-31T14:47:26Z",
+      "primary_item": {
+        "id": "8b35e0fc9e09ab1fc4990940a2ab3e6f355f127b",
+        "title": "这个AI助手想弥补你男朋友的无能 / This AI Assistant Wants to Make Up for Your Boyfriend’s Incompetence",
+        "title_zh": "这个AI助手想弥补你男朋友的无能",
+        "title_ja": "この AI アシスタントはあなたのボーイフレンドの無能を補いたいと考えています",
+        "title_en": "This AI Assistant Wants to Make Up for Your Boyfriend’s Incompetence",
+        "title_original": "This AI Assistant Wants to Make Up for Your Boyfriend’s Incompetence",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.wired.com/story/this-ai-assistants-whole-pitch-is-making-up-for-your-boyfriends-incompetence",
+        "source": "Wired AI",
+        "source_name": "OPML RSS"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-01T11:35:32.116248Z"
       }
     }
   ]
