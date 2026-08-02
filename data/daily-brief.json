@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-02T18:10:22.866518Z",
+  "generated_at": "2026-08-02T19:32:17.082847Z",
   "window_hours": 24,
-  "total_items": 12,
+  "total_items": 11,
   "items": [
     {
       "story_id": "story_cd21c6fddb56",
@@ -71,8 +71,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-02T18:10:22.866518Z",
-      "latest_at": "2026-08-02T18:10:22.866518Z",
+      "earliest_at": "2026-08-02T19:32:17.082847Z",
+      "latest_at": "2026-08-02T19:32:17.082847Z",
       "primary_item": {
         "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
         "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
@@ -91,7 +91,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T18:11:16.544746Z"
+        "scored_at": "2026-08-02T19:33:10.182638Z"
       }
     },
     {
@@ -144,16 +144,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7584,
-      "importance": 0.7584,
-      "importance_score": 0.7584,
+      "score": 0.7552,
+      "importance": 0.7552,
+      "importance_score": 0.7552,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8989,
+        "recency": 0.8813,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -181,7 +181,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T18:11:16.544746Z"
+        "scored_at": "2026-08-02T19:33:10.182638Z"
       }
     },
     {
@@ -234,16 +234,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7395,
-      "importance": 0.7395,
-      "importance_score": 0.7395,
+      "score": 0.7365,
+      "importance": 0.7365,
+      "importance_score": 0.7365,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8436,
+        "recency": 0.8272,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -270,7 +270,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T18:11:16.544746Z"
+        "scored_at": "2026-08-02T19:33:10.182638Z"
       }
     },
     {
@@ -487,16 +487,16 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.5872,
-      "importance": 0.5872,
-      "importance_score": 0.5872,
+      "score": 0.5844,
+      "importance": 0.5844,
+      "importance_score": 0.5844,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8135,
+        "recency": 0.7977,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -523,7 +523,284 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T18:11:16.544746Z"
+        "scored_at": "2026-08-02T19:33:10.182638Z"
+      }
+    },
+    {
+      "story_id": "story_2686ce80dcaa",
+      "title": "人工智能：《Ars Notoria》与即时知识的承诺",
+      "title_ja": "人工知能: アルス ノトリアと即時知識の約束",
+      "url": "https://publicdomainreview.org/essay/ars-notoria",
+      "primary_url": "https://publicdomainreview.org/essay/ars-notoria",
+      "source": "publicdomainreview.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "9bd646e11821729d4ce7d7df6b6ee9bfc374e134",
+          "title": "人工智能：《Ars Notoria》与即时知识的承诺",
+          "title_zh": "人工智能：《Ars Notoria》与即时知识的承诺",
+          "title_ja": "人工知能: アルス ノトリアと即時知識の約束",
+          "title_en": null,
+          "title_original": "人工智能：《Ars Notoria》与即时知识的承诺",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://publicdomainreview.org/essay/ars-notoria",
+          "source": "publicdomainreview.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-02T19:20:48.057000Z"
+        },
+        {
+          "id": "f5caf82e06932eaf157b381a7a92ea25ab4c6357",
+          "title": "人工智能：Ars Notoria 和即时知识的承诺 / Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+          "title_zh": "人工智能：Ars Notoria 和即时知识的承诺",
+          "title_ja": "人工知能: アルス ノトリアと即時知識の約束",
+          "title_en": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+          "title_original": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49143001",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T11:23:25.394000Z"
+        },
+        {
+          "id": "0139bdc1a3ad559df6e57656bb2b5beece076bc1",
+          "title": "人工智能：《Ars Notoria》与即时知识的承诺 / Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+          "title_zh": "人工智能：《Ars Notoria》与即时知识的承诺",
+          "title_ja": "人工知能: アルス ノトリアと即時知識の約束",
+          "title_en": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+          "title_original": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://publicdomainreview.org/essay/ars-notoria",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-02T10:18:24Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "publicdomainreview.org"
+      ],
+      "items": [
+        {
+          "id": "9bd646e11821729d4ce7d7df6b6ee9bfc374e134",
+          "title": "人工智能：《Ars Notoria》与即时知识的承诺",
+          "title_zh": "人工智能：《Ars Notoria》与即时知识的承诺",
+          "title_ja": "人工知能: アルス ノトリアと即時知識の約束",
+          "title_en": null,
+          "title_original": "人工智能：《Ars Notoria》与即时知识的承诺",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://publicdomainreview.org/essay/ars-notoria",
+          "source": "publicdomainreview.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-02T19:20:48.057000Z"
+        },
+        {
+          "id": "f5caf82e06932eaf157b381a7a92ea25ab4c6357",
+          "title": "人工智能：Ars Notoria 和即时知识的承诺 / Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+          "title_zh": "人工智能：Ars Notoria 和即时知识的承诺",
+          "title_ja": "人工知能: アルス ノトリアと即時知識の約束",
+          "title_en": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+          "title_original": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49143001",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T11:23:25.394000Z"
+        },
+        {
+          "id": "0139bdc1a3ad559df6e57656bb2b5beece076bc1",
+          "title": "人工智能：《Ars Notoria》与即时知识的承诺 / Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+          "title_zh": "人工智能：《Ars Notoria》与即时知识的承诺",
+          "title_ja": "人工知能: アルス ノトリアと即時知識の約束",
+          "title_en": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+          "title_original": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://publicdomainreview.org/essay/ars-notoria",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-02T10:18:24Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5703,
+      "importance": 0.5703,
+      "importance_score": 0.5703,
+      "importance_label": "多源热议",
+      "importance_label_ja": "複数ソースで話題",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9972,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-02T10:18:24Z",
+      "latest_at": "2026-08-02T19:20:48.057000Z",
+      "primary_item": {
+        "id": "9bd646e11821729d4ce7d7df6b6ee9bfc374e134",
+        "title": "人工智能：《Ars Notoria》与即时知识的承诺",
+        "title_zh": "人工智能：《Ars Notoria》与即时知识的承诺",
+        "title_ja": "人工知能: アルス ノトリアと即時知識の約束",
+        "title_en": null,
+        "title_original": "人工智能：《Ars Notoria》与即时知识的承诺",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://publicdomainreview.org/essay/ars-notoria",
+        "source": "publicdomainreview.org",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-02T19:33:10.182638Z"
+      }
+    },
+    {
+      "story_id": "story_08068412d02f",
+      "title": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理",
+      "title_ja": "Show HN: Sprocket – ハードウェアおよびソフトウェア開発に最適な AI エージェント",
+      "url": "https://sprocket-demo.spikonado.com",
+      "primary_url": "https://sprocket-demo.spikonado.com",
+      "source": "sprocket-demo.spikonado.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "59dada4b0290f134c6813aa3084093f5f0b4f3b5",
+          "title": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理",
+          "title_zh": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理",
+          "title_ja": "Show HN: Sprocket – ハードウェアおよびソフトウェア開発に最適な AI エージェント",
+          "title_en": null,
+          "title_original": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://sprocket-demo.spikonado.com",
+          "source": "sprocket-demo.spikonado.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-02T19:04:45.454000Z"
+        },
+        {
+          "id": "fbc2fc17e6bdb4748a80a9bf092ef9610cd736f7",
+          "title": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理 / Show HN: Sprocket – The Best AI Agent for Hardware and Software Development",
+          "title_zh": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理",
+          "title_ja": "Show HN: Sprocket – ハードウェアおよびソフトウェア開発に最適な AI エージェント",
+          "title_en": "Show HN: Sprocket – The Best AI Agent for Hardware and Software Development",
+          "title_original": "Show HN: Sprocket – The Best AI Agent for Hardware and Software Development",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://sprocket-demo.spikonado.com",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-02T16:26:19Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "sprocket-demo.spikonado.com"
+      ],
+      "items": [
+        {
+          "id": "59dada4b0290f134c6813aa3084093f5f0b4f3b5",
+          "title": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理",
+          "title_zh": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理",
+          "title_ja": "Show HN: Sprocket – ハードウェアおよびソフトウェア開発に最適な AI エージェント",
+          "title_en": null,
+          "title_original": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://sprocket-demo.spikonado.com",
+          "source": "sprocket-demo.spikonado.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-02T19:04:45.454000Z"
+        },
+        {
+          "id": "fbc2fc17e6bdb4748a80a9bf092ef9610cd736f7",
+          "title": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理 / Show HN: Sprocket – The Best AI Agent for Hardware and Software Development",
+          "title_zh": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理",
+          "title_ja": "Show HN: Sprocket – ハードウェアおよびソフトウェア開発に最適な AI エージェント",
+          "title_en": "Show HN: Sprocket – The Best AI Agent for Hardware and Software Development",
+          "title_original": "Show HN: Sprocket – The Best AI Agent for Hardware and Software Development",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://sprocket-demo.spikonado.com",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-02T16:26:19Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5446,
+      "importance": 0.5446,
+      "importance_score": 0.5446,
+      "importance_label": "值得关注",
+      "importance_label_ja": "要注目",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9934,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-02T16:26:19Z",
+      "latest_at": "2026-08-02T19:04:45.454000Z",
+      "primary_item": {
+        "id": "59dada4b0290f134c6813aa3084093f5f0b4f3b5",
+        "title": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理",
+        "title_zh": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理",
+        "title_ja": "Show HN: Sprocket – ハードウェアおよびソフトウェア開発に最適な AI エージェント",
+        "title_en": null,
+        "title_original": "Show HN: Sprocket——硬件和软件开发领域的最佳人工智能代理",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://sprocket-demo.spikonado.com",
+        "source": "sprocket-demo.spikonado.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-02T19:33:10.182638Z"
       }
     },
     {
@@ -552,7 +829,7 @@
           "published_at": "2026-08-02T07:21:18.343000Z"
         },
         {
-          "id": "32875495637ba4a81f2a31fa16f5dc0f1b30a531",
+          "id": "d89d97419f20cd1b2221e3de57317710ce95278b",
           "title": "在 MI355X 上运行 Kimi K3，其性价比优于 B300 / Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
           "title_zh": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
           "title_ja": "B300 よりも優れた 1 ドルあたりのパフォーマンスで MI355X 上で Kimi K3 を実行",
@@ -562,15 +839,15 @@
           "summary_ja": null,
           "recommend_reason_zh": null,
           "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-02T04:21:14Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "www.wafer.ai"
       ],
       "items": [
@@ -591,7 +868,7 @@
           "published_at": "2026-08-02T07:21:18.343000Z"
         },
         {
-          "id": "32875495637ba4a81f2a31fa16f5dc0f1b30a531",
+          "id": "d89d97419f20cd1b2221e3de57317710ce95278b",
           "title": "在 MI355X 上运行 Kimi K3，其性价比优于 B300 / Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
           "title_zh": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
           "title_ja": "B300 よりも優れた 1 ドルあたりのパフォーマンスで MI355X 上で Kimi K3 を実行",
@@ -601,24 +878,24 @@
           "summary_ja": null,
           "recommend_reason_zh": null,
           "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-02T04:21:14Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5198,
-      "importance": 0.5198,
-      "importance_score": 0.5198,
+      "score": 0.5168,
+      "importance": 0.5168,
+      "importance_score": 0.5168,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8554,
+        "recency": 0.8387,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -645,7 +922,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T18:11:16.544746Z"
+        "scored_at": "2026-08-02T19:33:10.182638Z"
       }
     },
     {
@@ -731,16 +1008,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5338,
-      "importance": 0.5338,
-      "importance_score": 0.5338,
+      "score": 0.5305,
+      "importance": 0.5305,
+      "importance_score": 0.5305,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9333,
+        "recency": 0.9151,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -767,7 +1044,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T18:11:16.544746Z"
+        "scored_at": "2026-08-02T19:33:10.182638Z"
       }
     },
     {
@@ -853,16 +1130,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.502,
-      "importance": 0.502,
-      "importance_score": 0.502,
+      "score": 0.4993,
+      "importance": 0.4993,
+      "importance_score": 0.4993,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7564,
+        "recency": 0.7417,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -886,10 +1163,10 @@
         "source_name": "Info Flow"
       },
       "persona_id": "pragmatic",
-      "persona_score": 1,
+      "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T18:11:16.544746Z"
+        "scored_at": "2026-08-02T19:33:10.182638Z"
       }
     },
     {
@@ -975,16 +1252,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5338,
-      "importance": 0.5338,
-      "importance_score": 0.5338,
+      "score": 0.5305,
+      "importance": 0.5305,
+      "importance_score": 0.5305,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9333,
+        "recency": 0.9151,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1011,129 +1288,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T18:11:16.544746Z"
-      }
-    },
-    {
-      "story_id": "story_2686ce80dcaa",
-      "title": "人工智能：Ars Notoria 和即时知识的承诺 / Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
-      "title_ja": "人工知能: アルス ノトリアと即時知識の約束",
-      "url": "https://news.ycombinator.com/item?id=49143001",
-      "primary_url": "https://news.ycombinator.com/item?id=49143001",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "f5caf82e06932eaf157b381a7a92ea25ab4c6357",
-          "title": "人工智能：Ars Notoria 和即时知识的承诺 / Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
-          "title_zh": "人工智能：Ars Notoria 和即时知识的承诺",
-          "title_ja": "人工知能: アルス ノトリアと即時知識の約束",
-          "title_en": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
-          "title_original": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49143001",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-02T11:23:25.394000Z"
-        },
-        {
-          "id": "0139bdc1a3ad559df6e57656bb2b5beece076bc1",
-          "title": "人工智能：Ars Notoria 和即时知识的承诺 / Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
-          "title_zh": "人工智能：Ars Notoria 和即时知识的承诺",
-          "title_ja": "人工知能: アルス ノトリアと即時知識の約束",
-          "title_en": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
-          "title_original": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://publicdomainreview.org/essay/ars-notoria",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-02T10:18:24Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "f5caf82e06932eaf157b381a7a92ea25ab4c6357",
-          "title": "人工智能：Ars Notoria 和即时知识的承诺 / Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
-          "title_zh": "人工智能：Ars Notoria 和即时知识的承诺",
-          "title_ja": "人工知能: アルス ノトリアと即時知識の約束",
-          "title_en": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
-          "title_original": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49143001",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-02T11:23:25.394000Z"
-        },
-        {
-          "id": "0139bdc1a3ad559df6e57656bb2b5beece076bc1",
-          "title": "人工智能：Ars Notoria 和即时知识的承诺 / Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
-          "title_zh": "人工智能：Ars Notoria 和即时知识的承诺",
-          "title_ja": "人工知能: アルス ノトリアと即時知識の約束",
-          "title_en": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
-          "title_original": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://publicdomainreview.org/essay/ars-notoria",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-02T10:18:24Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.529,
-      "importance": 0.529,
-      "importance_score": 0.529,
-      "importance_label": "值得关注",
-      "importance_label_ja": "要注目",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9067,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-02T10:18:24Z",
-      "latest_at": "2026-08-02T11:23:25.394000Z",
-      "primary_item": {
-        "id": "f5caf82e06932eaf157b381a7a92ea25ab4c6357",
-        "title": "人工智能：Ars Notoria 和即时知识的承诺 / Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
-        "title_zh": "人工智能：Ars Notoria 和即时知识的承诺",
-        "title_ja": "人工知能: アルス ノトリアと即時知識の約束",
-        "title_en": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
-        "title_original": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49143001",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-02T18:11:16.544746Z"
+        "scored_at": "2026-08-02T19:33:10.182638Z"
       }
     },
     {
@@ -1219,16 +1374,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5122,
-      "importance": 0.5122,
-      "importance_score": 0.5122,
+      "score": 0.5094,
+      "importance": 0.5094,
+      "importance_score": 0.5094,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8135,
+        "recency": 0.7977,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1255,251 +1410,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T18:11:16.544746Z"
-      }
-    },
-    {
-      "story_id": "story_8c9e60cd6b83",
-      "title": "扫描 7.6 PB 的 HuggingFace 训练数据以寻找秘密 / Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
-      "title_ja": "7.6 ペタバイトの HuggingFace トレーニング データをスキャンして秘密を探す",
-      "url": "https://news.ycombinator.com/item?id=49136955",
-      "primary_url": "https://news.ycombinator.com/item?id=49136955",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "181cfb741ca46285ffcfbc5cff311c264bc98461",
-          "title": "扫描 7.6 PB 的 HuggingFace 训练数据以寻找秘密 / Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
-          "title_zh": "扫描 7.6 PB 的 HuggingFace 训练数据以寻找秘密",
-          "title_ja": "7.6 ペタバイトの HuggingFace トレーニング データをスキャンして秘密を探す",
-          "title_en": "Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
-          "title_original": "Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49136955",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-01T21:54:37.127000Z"
-        },
-        {
-          "id": "756a5475e823a48bea84a63db476efb531dcebf7",
-          "title": "扫描 7.6 PB 的 HuggingFace 训练数据以寻找秘密 / Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
-          "title_zh": "扫描 7.6 PB 的 HuggingFace 训练数据以寻找秘密",
-          "title_ja": "7.6 ペタバイトの HuggingFace トレーニング データをスキャンして秘密を探す",
-          "title_en": "Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
-          "title_original": "Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://trufflesecurity.com/blog/scanning-7-6-petabytes-of-ai-training-data-for-secrets",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-01T18:21:41Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "181cfb741ca46285ffcfbc5cff311c264bc98461",
-          "title": "扫描 7.6 PB 的 HuggingFace 训练数据以寻找秘密 / Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
-          "title_zh": "扫描 7.6 PB 的 HuggingFace 训练数据以寻找秘密",
-          "title_ja": "7.6 ペタバイトの HuggingFace トレーニング データをスキャンして秘密を探す",
-          "title_en": "Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
-          "title_original": "Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49136955",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-01T21:54:37.127000Z"
-        },
-        {
-          "id": "756a5475e823a48bea84a63db476efb531dcebf7",
-          "title": "扫描 7.6 PB 的 HuggingFace 训练数据以寻找秘密 / Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
-          "title_zh": "扫描 7.6 PB 的 HuggingFace 训练数据以寻找秘密",
-          "title_ja": "7.6 ペタバイトの HuggingFace トレーニング データをスキャンして秘密を探す",
-          "title_en": "Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
-          "title_original": "Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://trufflesecurity.com/blog/scanning-7-6-petabytes-of-ai-training-data-for-secrets",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-01T18:21:41Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5001,
-      "importance": 0.5001,
-      "importance_score": 0.5001,
-      "importance_label": "值得关注",
-      "importance_label_ja": "要注目",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7463,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-01T18:21:41Z",
-      "latest_at": "2026-08-01T21:54:37.127000Z",
-      "primary_item": {
-        "id": "181cfb741ca46285ffcfbc5cff311c264bc98461",
-        "title": "扫描 7.6 PB 的 HuggingFace 训练数据以寻找秘密 / Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
-        "title_zh": "扫描 7.6 PB 的 HuggingFace 训练数据以寻找秘密",
-        "title_ja": "7.6 ペタバイトの HuggingFace トレーニング データをスキャンして秘密を探す",
-        "title_en": "Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
-        "title_original": "Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49136955",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-02T18:11:16.544746Z"
-      }
-    },
-    {
-      "story_id": "story_58b173a4edb7",
-      "title": "显示 HN：Cockpit 为您提供 Rust 中的 Claude 代码代理 / Show HN: Cockpit for you Claude Code agents in Rust",
-      "title_ja": "HN を表示: Rust のクロード コード エージェントのためのコックピット",
-      "url": "https://news.ycombinator.com/item?id=49137410",
-      "primary_url": "https://news.ycombinator.com/item?id=49137410",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "43d35f4edf0b88c65a62f81d39c86973e8f283e2",
-          "title": "显示 HN：Cockpit 为您提供 Rust 中的 Claude 代码代理 / Show HN: Cockpit for you Claude Code agents in Rust",
-          "title_zh": "显示 HN：Cockpit 为您提供 Rust 中的 Claude 代码代理",
-          "title_ja": "HN を表示: Rust のクロード コード エージェントのためのコックピット",
-          "title_en": "Show HN: Cockpit for you Claude Code agents in Rust",
-          "title_original": "Show HN: Cockpit for you Claude Code agents in Rust",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49137410",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-01T20:54:25.475000Z"
-        },
-        {
-          "id": "1ab3cc039511cf55efbfdd3ef90b0b4f74153476",
-          "title": "显示 HN：Cockpit 为您提供 Rust 中的 Claude 代码代理 / Show HN: Cockpit for you Claude Code agents in Rust",
-          "title_zh": "显示 HN：Cockpit 为您提供 Rust 中的 Claude 代码代理",
-          "title_ja": "HN を表示: Rust のクロード コード エージェントのためのコックピット",
-          "title_en": "Show HN: Cockpit for you Claude Code agents in Rust",
-          "title_original": "Show HN: Cockpit for you Claude Code agents in Rust",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://episko.dev",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-01T19:09:15Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "43d35f4edf0b88c65a62f81d39c86973e8f283e2",
-          "title": "显示 HN：Cockpit 为您提供 Rust 中的 Claude 代码代理 / Show HN: Cockpit for you Claude Code agents in Rust",
-          "title_zh": "显示 HN：Cockpit 为您提供 Rust 中的 Claude 代码代理",
-          "title_ja": "HN を表示: Rust のクロード コード エージェントのためのコックピット",
-          "title_en": "Show HN: Cockpit for you Claude Code agents in Rust",
-          "title_original": "Show HN: Cockpit for you Claude Code agents in Rust",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49137410",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-01T20:54:25.475000Z"
-        },
-        {
-          "id": "1ab3cc039511cf55efbfdd3ef90b0b4f74153476",
-          "title": "显示 HN：Cockpit 为您提供 Rust 中的 Claude 代码代理 / Show HN: Cockpit for you Claude Code agents in Rust",
-          "title_zh": "显示 HN：Cockpit 为您提供 Rust 中的 Claude 代码代理",
-          "title_ja": "HN を表示: Rust のクロード コード エージェントのためのコックピット",
-          "title_en": "Show HN: Cockpit for you Claude Code agents in Rust",
-          "title_original": "Show HN: Cockpit for you Claude Code agents in Rust",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://episko.dev",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-01T19:09:15Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4982,
-      "importance": 0.4982,
-      "importance_score": 0.4982,
-      "importance_label": "值得关注",
-      "importance_label_ja": "要注目",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7356,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-01T19:09:15Z",
-      "latest_at": "2026-08-01T20:54:25.475000Z",
-      "primary_item": {
-        "id": "43d35f4edf0b88c65a62f81d39c86973e8f283e2",
-        "title": "显示 HN：Cockpit 为您提供 Rust 中的 Claude 代码代理 / Show HN: Cockpit for you Claude Code agents in Rust",
-        "title_zh": "显示 HN：Cockpit 为您提供 Rust 中的 Claude 代码代理",
-        "title_ja": "HN を表示: Rust のクロード コード エージェントのためのコックピット",
-        "title_en": "Show HN: Cockpit for you Claude Code agents in Rust",
-        "title_original": "Show HN: Cockpit for you Claude Code agents in Rust",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49137410",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-02T18:11:16.544746Z"
+        "scored_at": "2026-08-02T19:33:10.182638Z"
       }
     }
   ]
