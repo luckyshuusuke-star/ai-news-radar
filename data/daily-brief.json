@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-02T11:33:28.577494Z",
+  "generated_at": "2026-08-02T13:51:55.887256Z",
   "window_hours": 24,
-  "total_items": 14,
+  "total_items": 13,
   "items": [
     {
       "story_id": "story_cd21c6fddb56",
@@ -71,8 +71,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-02T11:33:28.577494Z",
-      "latest_at": "2026-08-02T11:33:28.577494Z",
+      "earliest_at": "2026-08-02T13:51:55.887256Z",
+      "latest_at": "2026-08-02T13:51:55.887256Z",
       "primary_item": {
         "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
         "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
@@ -91,7 +91,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T11:34:43.646733Z"
+        "scored_at": "2026-08-02T13:52:43.111915Z"
       }
     },
     {
@@ -144,16 +144,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7746,
-      "importance": 0.7746,
-      "importance_score": 0.7746,
+      "score": 0.7688,
+      "importance": 0.7688,
+      "importance_score": 0.7688,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.989,
+        "recency": 0.9566,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -181,7 +181,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T11:34:43.646733Z"
+        "scored_at": "2026-08-02T13:52:43.111915Z"
       }
     },
     {
@@ -234,22 +234,21 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7547,
-      "importance": 0.7547,
-      "importance_score": 0.7547,
+      "score": 0.7492,
+      "importance": 0.7492,
+      "importance_score": 0.7492,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9282,
+        "recency": 0.8978,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-02T06:23:54Z",
       "latest_at": "2026-08-02T06:23:54Z",
@@ -271,7 +270,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T11:34:43.646733Z"
+        "scored_at": "2026-08-02T13:52:43.111915Z"
       }
     },
     {
@@ -348,7 +347,7 @@
           "published_at": "2026-08-01T22:25:12Z"
         },
         {
-          "id": "b6b7111cd3c30b9939c52702f3f026caaaf55f1f",
+          "id": "c8fcd1088b8f52a80f5a02b568d41d87e6756a05",
           "title": "只要问对问题，AI提供的理财建议其实出乎意料地好 / AI financial advice is surprisingly good, especially if you ask right questions",
           "title_zh": "只要问对问题，AI提供的理财建议其实出乎意料地好",
           "title_ja": "AI の財務アドバイスは、特に適切な質問をした場合、驚くほど優れています",
@@ -358,9 +357,9 @@
           "summary_ja": null,
           "recommend_reason_zh": null,
           "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-01T22:25:12Z"
         },
         {
@@ -384,6 +383,7 @@
       "source_names": [
         "Hacker News",
         "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews",
         "mitsloan.mit.edu"
       ],
@@ -453,7 +453,7 @@
           "published_at": "2026-08-01T22:25:12Z"
         },
         {
-          "id": "b6b7111cd3c30b9939c52702f3f026caaaf55f1f",
+          "id": "c8fcd1088b8f52a80f5a02b568d41d87e6756a05",
           "title": "只要问对问题，AI提供的理财建议其实出乎意料地好 / AI financial advice is surprisingly good, especially if you ask right questions",
           "title_zh": "只要问对问题，AI提供的理财建议其实出乎意料地好",
           "title_ja": "AI の財務アドバイスは、特に適切な質問をした場合、驚くほど優れています",
@@ -463,9 +463,9 @@
           "summary_ja": null,
           "recommend_reason_zh": null,
           "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-01T22:25:12Z"
         },
         {
@@ -487,16 +487,16 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.6019,
-      "importance": 0.6019,
-      "importance_score": 0.6019,
+      "score": 0.5966,
+      "importance": 0.5966,
+      "importance_score": 0.5966,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8951,
+        "recency": 0.8657,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -523,195 +523,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T11:34:43.646733Z"
-      }
-    },
-    {
-      "story_id": "story_83ab2fec2032",
-      "title": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
-      "title_ja": "チャーリー・ストロス – 私の執筆プロセスで人工知能を使用しないことについて",
-      "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
-      "primary_url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
-      "source": "www.antipope.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "41407e75eac43cbac93d3896678c55e7de41c842",
-          "title": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
-          "title_zh": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
-          "title_ja": "チャーリー・ストロス – 私の執筆プロセスで人工知能を使用しないことについて",
-          "title_en": null,
-          "title_original": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
-          "source": "www.antipope.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-01T18:17:24.719000Z"
-        },
-        {
-          "id": "2b0105aed401bd3dd7192ad834c1bc8a68a76b2d",
-          "title": "Charlie Stross – 关于我在写作过程中不使用人工智能 / Charlie Stross – On the non-use of AI in my writing process",
-          "title_zh": "Charlie Stross – 关于我在写作过程中不使用人工智能",
-          "title_ja": "チャーリー・ストロス – 私の執筆プロセスにおける AI の不使用について",
-          "title_en": "Charlie Stross – On the non-use of AI in my writing process",
-          "title_original": "Charlie Stross – On the non-use of AI in my writing process",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49134038",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-01T15:53:29.314000Z"
-        },
-        {
-          "id": "59122596060397c08e2b41594d1c0231c18ad2b1",
-          "title": "查理·斯特罗斯——关于我在写作过程中不使用人工智能 / Charlie Stross – On the non-use of AI in my writing process",
-          "title_zh": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
-          "title_ja": "チャーリー・ストロス – 私の執筆プロセスにおける AI の不使用について",
-          "title_en": "Charlie Stross – On the non-use of AI in my writing process",
-          "title_original": "Charlie Stross – On the non-use of AI in my writing process",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-01T12:56:54Z"
-        },
-        {
-          "id": "16cffb9df3eb3f8fa6d715dbc980785618e4c00b",
-          "title": "查理·斯特罗斯——关于我在写作过程中不使用人工智能 / On the non-use of AI in my writing process",
-          "title_zh": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
-          "title_ja": "私の執筆プロセスにおける AI の不使用について",
-          "title_en": "On the non-use of AI in my writing process",
-          "title_original": "On the non-use of AI in my writing process",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-01T12:56:54Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News",
-        "Hacker News · 24h最热",
-        "hackernews",
-        "www.antipope.org"
-      ],
-      "items": [
-        {
-          "id": "41407e75eac43cbac93d3896678c55e7de41c842",
-          "title": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
-          "title_zh": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
-          "title_ja": "チャーリー・ストロス – 私の執筆プロセスで人工知能を使用しないことについて",
-          "title_en": null,
-          "title_original": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
-          "source": "www.antipope.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-01T18:17:24.719000Z"
-        },
-        {
-          "id": "2b0105aed401bd3dd7192ad834c1bc8a68a76b2d",
-          "title": "Charlie Stross – 关于我在写作过程中不使用人工智能 / Charlie Stross – On the non-use of AI in my writing process",
-          "title_zh": "Charlie Stross – 关于我在写作过程中不使用人工智能",
-          "title_ja": "チャーリー・ストロス – 私の執筆プロセスにおける AI の不使用について",
-          "title_en": "Charlie Stross – On the non-use of AI in my writing process",
-          "title_original": "Charlie Stross – On the non-use of AI in my writing process",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49134038",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-01T15:53:29.314000Z"
-        },
-        {
-          "id": "59122596060397c08e2b41594d1c0231c18ad2b1",
-          "title": "查理·斯特罗斯——关于我在写作过程中不使用人工智能 / Charlie Stross – On the non-use of AI in my writing process",
-          "title_zh": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
-          "title_ja": "チャーリー・ストロス – 私の執筆プロセスにおける AI の不使用について",
-          "title_en": "Charlie Stross – On the non-use of AI in my writing process",
-          "title_original": "Charlie Stross – On the non-use of AI in my writing process",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-01T12:56:54Z"
-        },
-        {
-          "id": "16cffb9df3eb3f8fa6d715dbc980785618e4c00b",
-          "title": "查理·斯特罗斯——关于我在写作过程中不使用人工智能 / On the non-use of AI in my writing process",
-          "title_zh": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
-          "title_ja": "私の執筆プロセスにおける AI の不使用について",
-          "title_en": "On the non-use of AI in my writing process",
-          "title_original": "On the non-use of AI in my writing process",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-01T12:56:54Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5561,
-      "importance": 0.5561,
-      "importance_score": 0.5561,
-      "importance_label": "多源热议",
-      "importance_label_ja": "複数ソースで話題",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7793,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-01T12:56:54Z",
-      "latest_at": "2026-08-01T18:17:24.719000Z",
-      "primary_item": {
-        "id": "41407e75eac43cbac93d3896678c55e7de41c842",
-        "title": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
-        "title_zh": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
-        "title_ja": "チャーリー・ストロス – 私の執筆プロセスで人工知能を使用しないことについて",
-        "title_en": null,
-        "title_original": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
-        "source": "www.antipope.org",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-02T11:34:43.646733Z"
+        "scored_at": "2026-08-02T13:52:43.111915Z"
       }
     },
     {
@@ -797,16 +609,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5352,
-      "importance": 0.5352,
-      "importance_score": 0.5352,
+      "score": 0.5296,
+      "importance": 0.5296,
+      "importance_score": 0.5296,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9411,
+        "recency": 0.9103,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -833,7 +645,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T11:34:43.646733Z"
+        "scored_at": "2026-08-02T13:52:43.111915Z"
       }
     },
     {
@@ -952,16 +764,16 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5295,
-      "importance": 0.5295,
-      "importance_score": 0.5295,
+      "score": 0.5249,
+      "importance": 0.5249,
+      "importance_score": 0.5249,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7703,
+        "recency": 0.7451,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -988,7 +800,129 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T11:34:43.646733Z"
+        "scored_at": "2026-08-02T13:52:43.111915Z"
+      }
+    },
+    {
+      "story_id": "story_f31142a07734",
+      "title": "内部 OpenAI Astra 模型解决了 10 个主要的开放数学和 CS 问题 / An internal OpenAI Astra model solved 10 major open math and CS problems",
+      "title_ja": "内部 OpenAI Astra モデルは、未解決の 10 の主要な数学および CS 問題を解決しました",
+      "url": "https://news.ycombinator.com/item?id=49143688",
+      "primary_url": "https://news.ycombinator.com/item?id=49143688",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "6e433cb300eda8530a7f8a2d54d2a70221e12c73",
+          "title": "内部 OpenAI Astra 模型解决了 10 个主要的开放数学和 CS 问题 / An internal OpenAI Astra model solved 10 major open math and CS problems",
+          "title_zh": "内部 OpenAI Astra 模型解决了 10 个主要的开放数学和 CS 问题",
+          "title_ja": "内部 OpenAI Astra モデルは、未解決の 10 の主要な数学および CS 問題を解決しました",
+          "title_en": "An internal OpenAI Astra model solved 10 major open math and CS problems",
+          "title_original": "An internal OpenAI Astra model solved 10 major open math and CS problems",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49143688",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T13:23:42.184000Z"
+        },
+        {
+          "id": "80d3d882734ea7c3f4a896eed950734dfba5e8a7",
+          "title": "内部 OpenAI Astra 模型解决了 10 个主要的开放数学和 CS 问题 / An internal OpenAI Astra model solved 10 major open math and CS problems",
+          "title_zh": "内部 OpenAI Astra 模型解决了 10 个主要的开放数学和 CS 问题",
+          "title_ja": "内部 OpenAI Astra モデルは、未解決の 10 の主要な数学および CS 問題を解決しました",
+          "title_en": "An internal OpenAI Astra model solved 10 major open math and CS problems",
+          "title_original": "An internal OpenAI Astra model solved 10 major open math and CS problems",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://twitter.com/polynoamial/status/2083467194663571701",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-02T12:01:37Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "6e433cb300eda8530a7f8a2d54d2a70221e12c73",
+          "title": "内部 OpenAI Astra 模型解决了 10 个主要的开放数学和 CS 问题 / An internal OpenAI Astra model solved 10 major open math and CS problems",
+          "title_zh": "内部 OpenAI Astra 模型解决了 10 个主要的开放数学和 CS 问题",
+          "title_ja": "内部 OpenAI Astra モデルは、未解決の 10 の主要な数学および CS 問題を解決しました",
+          "title_en": "An internal OpenAI Astra model solved 10 major open math and CS problems",
+          "title_original": "An internal OpenAI Astra model solved 10 major open math and CS problems",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49143688",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T13:23:42.184000Z"
+        },
+        {
+          "id": "80d3d882734ea7c3f4a896eed950734dfba5e8a7",
+          "title": "内部 OpenAI Astra 模型解决了 10 个主要的开放数学和 CS 问题 / An internal OpenAI Astra model solved 10 major open math and CS problems",
+          "title_zh": "内部 OpenAI Astra 模型解决了 10 个主要的开放数学和 CS 问题",
+          "title_ja": "内部 OpenAI Astra モデルは、未解決の 10 の主要な数学および CS 問題を解決しました",
+          "title_en": "An internal OpenAI Astra model solved 10 major open math and CS problems",
+          "title_original": "An internal OpenAI Astra model solved 10 major open math and CS problems",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://twitter.com/polynoamial/status/2083467194663571701",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-02T12:01:37Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5446,
+      "importance": 0.5446,
+      "importance_score": 0.5446,
+      "importance_label": "值得关注",
+      "importance_label_ja": "要注目",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9932,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-02T12:01:37Z",
+      "latest_at": "2026-08-02T13:23:42.184000Z",
+      "primary_item": {
+        "id": "6e433cb300eda8530a7f8a2d54d2a70221e12c73",
+        "title": "内部 OpenAI Astra 模型解决了 10 个主要的开放数学和 CS 问题 / An internal OpenAI Astra model solved 10 major open math and CS problems",
+        "title_zh": "内部 OpenAI Astra 模型解决了 10 个主要的开放数学和 CS 问题",
+        "title_ja": "内部 OpenAI Astra モデルは、未解決の 10 の主要な数学および CS 問題を解決しました",
+        "title_en": "An internal OpenAI Astra model solved 10 major open math and CS problems",
+        "title_original": "An internal OpenAI Astra model solved 10 major open math and CS problems",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49143688",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-02T13:52:43.111915Z"
       }
     },
     {
@@ -1074,16 +1008,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5156,
-      "importance": 0.5156,
-      "importance_score": 0.5156,
+      "score": 0.5107,
+      "importance": 0.5107,
+      "importance_score": 0.5107,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8322,
+        "recency": 0.805,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1110,7 +1044,129 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T11:34:43.646733Z"
+        "scored_at": "2026-08-02T13:52:43.111915Z"
+      }
+    },
+    {
+      "story_id": "story_955a957e1fa1",
+      "title": "只有 8.9% 的网站屏蔽 AI 爬虫，但 94.8% 的网站从未在 AI 答案中被引用 / Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
+      "title_ja": "AI クローラーをブロックしているサイトは 8.9% のみですが、94.8% は AI の回答に引用されていません",
+      "url": "https://news.ycombinator.com/item?id=49143630",
+      "primary_url": "https://news.ycombinator.com/item?id=49143630",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "a63a15362d3ef0ccf915f2ccd2b329d802b1b76b",
+          "title": "只有 8.9% 的网站屏蔽 AI 爬虫，但 94.8% 的网站从未在 AI 答案中被引用 / Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
+          "title_zh": "只有 8.9% 的网站屏蔽 AI 爬虫，但 94.8% 的网站从未在 AI 答案中被引用",
+          "title_ja": "AI クローラーをブロックしているサイトは 8.9% のみですが、94.8% は AI の回答に引用されていません",
+          "title_en": "Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
+          "title_original": "Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49143630",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T13:23:42.184000Z"
+        },
+        {
+          "id": "6074886730872e8fde64e44ed9a9f08f1327c2f3",
+          "title": "只有 8.9% 的网站屏蔽 AI 爬虫，但 94.8% 的网站从未在 AI 答案中被引用 / Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
+          "title_zh": "只有 8.9% 的网站屏蔽 AI 爬虫，但 94.8% 的网站从未在 AI 答案中被引用",
+          "title_ja": "AI クローラーをブロックしているサイトは 8.9% のみですが、94.8% は AI の回答に引用されていません",
+          "title_en": "Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
+          "title_original": "Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://website-auditor.io/ai-visibility-index",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-02T11:53:52Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "a63a15362d3ef0ccf915f2ccd2b329d802b1b76b",
+          "title": "只有 8.9% 的网站屏蔽 AI 爬虫，但 94.8% 的网站从未在 AI 答案中被引用 / Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
+          "title_zh": "只有 8.9% 的网站屏蔽 AI 爬虫，但 94.8% 的网站从未在 AI 答案中被引用",
+          "title_ja": "AI クローラーをブロックしているサイトは 8.9% のみですが、94.8% は AI の回答に引用されていません",
+          "title_en": "Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
+          "title_original": "Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49143630",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T13:23:42.184000Z"
+        },
+        {
+          "id": "6074886730872e8fde64e44ed9a9f08f1327c2f3",
+          "title": "只有 8.9% 的网站屏蔽 AI 爬虫，但 94.8% 的网站从未在 AI 答案中被引用 / Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
+          "title_zh": "只有 8.9% 的网站屏蔽 AI 爬虫，但 94.8% 的网站从未在 AI 答案中被引用",
+          "title_ja": "AI クローラーをブロックしているサイトは 8.9% のみですが、94.8% は AI の回答に引用されていません",
+          "title_en": "Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
+          "title_original": "Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://website-auditor.io/ai-visibility-index",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-02T11:53:52Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5446,
+      "importance": 0.5446,
+      "importance_score": 0.5446,
+      "importance_label": "值得关注",
+      "importance_label_ja": "要注目",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9932,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-02T11:53:52Z",
+      "latest_at": "2026-08-02T13:23:42.184000Z",
+      "primary_item": {
+        "id": "a63a15362d3ef0ccf915f2ccd2b329d802b1b76b",
+        "title": "只有 8.9% 的网站屏蔽 AI 爬虫，但 94.8% 的网站从未在 AI 答案中被引用 / Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
+        "title_zh": "只有 8.9% 的网站屏蔽 AI 爬虫，但 94.8% 的网站从未在 AI 答案中被引用",
+        "title_ja": "AI クローラーをブロックしているサイトは 8.9% のみですが、94.8% は AI の回答に引用されていません",
+        "title_en": "Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
+        "title_original": "Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49143630",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-02T13:52:43.111915Z"
       }
     },
     {
@@ -1196,16 +1252,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5454,
-      "importance": 0.5454,
-      "importance_score": 0.5454,
+      "score": 0.5395,
+      "importance": 0.5395,
+      "importance_score": 0.5395,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9976,
+        "recency": 0.9649,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1232,7 +1288,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T11:34:43.646733Z"
+        "scored_at": "2026-08-02T13:52:43.111915Z"
       }
     },
     {
@@ -1261,7 +1317,7 @@
           "published_at": "2026-08-02T03:52:55.329000Z"
         },
         {
-          "id": "e479f96c2299848e12f537f3352467eb3eaf1aed",
+          "id": "ea352b51ccf016520ecfc34b60e184a9ca79edde",
           "title": "Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器 / Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
           "title_zh": "Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器",
           "title_ja": "HN を表示: CostPerPrompt – ライブ AI API の価格設定と実際のワークロードのコスト計算ツール",
@@ -1271,15 +1327,15 @@
           "summary_ja": null,
           "recommend_reason_zh": null,
           "url": "https://costperprompt.com",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-02T01:56:44Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
@@ -1300,7 +1356,7 @@
           "published_at": "2026-08-02T03:52:55.329000Z"
         },
         {
-          "id": "e479f96c2299848e12f537f3352467eb3eaf1aed",
+          "id": "ea352b51ccf016520ecfc34b60e184a9ca79edde",
           "title": "Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器 / Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
           "title_zh": "Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器",
           "title_ja": "HN を表示: CostPerPrompt – ライブ AI API の価格設定と実際のワークロードのコスト計算ツール",
@@ -1310,24 +1366,24 @@
           "summary_ja": null,
           "recommend_reason_zh": null,
           "url": "https://costperprompt.com",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-02T01:56:44Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5269,
-      "importance": 0.5269,
-      "importance_score": 0.5269,
+      "score": 0.5216,
+      "importance": 0.5216,
+      "importance_score": 0.5216,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8951,
+        "recency": 0.8657,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1354,7 +1410,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T11:34:43.646733Z"
+        "scored_at": "2026-08-02T13:52:43.111915Z"
       }
     },
     {
@@ -1440,16 +1496,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5136,
-      "importance": 0.5136,
-      "importance_score": 0.5136,
+      "score": 0.5088,
+      "importance": 0.5088,
+      "importance_score": 0.5088,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8211,
+        "recency": 0.7942,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1476,7 +1532,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T11:34:43.646733Z"
+        "scored_at": "2026-08-02T13:52:43.111915Z"
       }
     },
     {
@@ -1562,16 +1618,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5115,
-      "importance": 0.5115,
-      "importance_score": 0.5115,
+      "score": 0.5067,
+      "importance": 0.5067,
+      "importance_score": 0.5067,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8093,
+        "recency": 0.7828,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1598,251 +1654,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T11:34:43.646733Z"
-      }
-    },
-    {
-      "story_id": "story_7077950cd350",
-      "title": "如何识别人工智能写作 / How to Spot AI Writing",
-      "title_ja": "AI ライティングを見分ける方法",
-      "url": "https://news.ycombinator.com/item?id=49134310",
-      "primary_url": "https://news.ycombinator.com/item?id=49134310",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "920953a0fc62a52f9810a4dd324c0c665f084f8e",
-          "title": "如何识别人工智能写作 / How to Spot AI Writing",
-          "title_zh": "如何识别人工智能写作",
-          "title_ja": "AI ライティングを見分ける方法",
-          "title_en": "How to Spot AI Writing",
-          "title_original": "How to Spot AI Writing",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49134310",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-01T14:53:16.451000Z"
-        },
-        {
-          "id": "6e0334e28560583c35e986896d9158e7fac08baf",
-          "title": "如何识别人工智能写作 / How to Spot AI Writing",
-          "title_zh": "如何识别人工智能写作",
-          "title_ja": "AI ライティングを見分ける方法",
-          "title_en": "How to Spot AI Writing",
-          "title_original": "How to Spot AI Writing",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-01T13:35:26Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "920953a0fc62a52f9810a4dd324c0c665f084f8e",
-          "title": "如何识别人工智能写作 / How to Spot AI Writing",
-          "title_zh": "如何识别人工智能写作",
-          "title_ja": "AI ライティングを見分ける方法",
-          "title_en": "How to Spot AI Writing",
-          "title_original": "How to Spot AI Writing",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49134310",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-01T14:53:16.451000Z"
-        },
-        {
-          "id": "6e0334e28560583c35e986896d9158e7fac08baf",
-          "title": "如何识别人工智能写作 / How to Spot AI Writing",
-          "title_zh": "如何识别人工智能写作",
-          "title_ja": "AI ライティングを見分ける方法",
-          "title_en": "How to Spot AI Writing",
-          "title_original": "How to Spot AI Writing",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-01T13:35:26Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4993,
-      "importance": 0.4993,
-      "importance_score": 0.4993,
-      "importance_label": "值得关注",
-      "importance_label_ja": "要注目",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7419,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-01T13:35:26Z",
-      "latest_at": "2026-08-01T14:53:16.451000Z",
-      "primary_item": {
-        "id": "920953a0fc62a52f9810a4dd324c0c665f084f8e",
-        "title": "如何识别人工智能写作 / How to Spot AI Writing",
-        "title_zh": "如何识别人工智能写作",
-        "title_ja": "AI ライティングを見分ける方法",
-        "title_en": "How to Spot AI Writing",
-        "title_original": "How to Spot AI Writing",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49134310",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-02T11:34:43.646733Z"
-      }
-    },
-    {
-      "story_id": "story_0878b3fd6fe1",
-      "title": "谷歌在一天后关闭了 Earth AI 生成器 / Google kills Earth AI generator after one day",
-      "title_ja": "Google、Earth AI ジェネレーターを 1 日後に終了",
-      "url": "https://news.ycombinator.com/item?id=49134079",
-      "primary_url": "https://news.ycombinator.com/item?id=49134079",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "3dbde5b49861cd720c9f79b94cd8548c953f11eb",
-          "title": "谷歌在一天后关闭了 Earth AI 生成器 / Google kills Earth AI generator after one day",
-          "title_zh": "谷歌在一天后关闭了 Earth AI 生成器",
-          "title_ja": "Google、Earth AI ジェネレーターを 1 日後に終了",
-          "title_en": "Google kills Earth AI generator after one day",
-          "title_original": "Google kills Earth AI generator after one day",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49134079",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-01T13:38:27.352000Z"
-        },
-        {
-          "id": "a4867a945f5aa13e1f9a04ff8d5ddb336cf903b9",
-          "title": "谷歌在一天后关闭了 Earth AI 生成器 / Google kills Earth AI generator after one day",
-          "title_zh": "谷歌在一天后关闭了 Earth AI 生成器",
-          "title_ja": "Google、Earth AI ジェネレーターを 1 日後に終了",
-          "title_en": "Google kills Earth AI generator after one day",
-          "title_original": "Google kills Earth AI generator after one day",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://twitter.com/newsfromgoogle/status/2083249962150760610",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-01T13:02:44Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "3dbde5b49861cd720c9f79b94cd8548c953f11eb",
-          "title": "谷歌在一天后关闭了 Earth AI 生成器 / Google kills Earth AI generator after one day",
-          "title_zh": "谷歌在一天后关闭了 Earth AI 生成器",
-          "title_ja": "Google、Earth AI ジェネレーターを 1 日後に終了",
-          "title_en": "Google kills Earth AI generator after one day",
-          "title_original": "Google kills Earth AI generator after one day",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49134079",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-01T13:38:27.352000Z"
-        },
-        {
-          "id": "a4867a945f5aa13e1f9a04ff8d5ddb336cf903b9",
-          "title": "谷歌在一天后关闭了 Earth AI 生成器 / Google kills Earth AI generator after one day",
-          "title_zh": "谷歌在一天后关闭了 Earth AI 生成器",
-          "title_ja": "Google、Earth AI ジェネレーターを 1 日後に終了",
-          "title_en": "Google kills Earth AI generator after one day",
-          "title_original": "Google kills Earth AI generator after one day",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://twitter.com/newsfromgoogle/status/2083249962150760610",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-01T13:02:44Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.497,
-      "importance": 0.497,
-      "importance_score": 0.497,
-      "importance_label": "值得关注",
-      "importance_label_ja": "要注目",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7287,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-01T13:02:44Z",
-      "latest_at": "2026-08-01T13:38:27.352000Z",
-      "primary_item": {
-        "id": "3dbde5b49861cd720c9f79b94cd8548c953f11eb",
-        "title": "谷歌在一天后关闭了 Earth AI 生成器 / Google kills Earth AI generator after one day",
-        "title_zh": "谷歌在一天后关闭了 Earth AI 生成器",
-        "title_ja": "Google、Earth AI ジェネレーターを 1 日後に終了",
-        "title_en": "Google kills Earth AI generator after one day",
-        "title_original": "Google kills Earth AI generator after one day",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49134079",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-02T11:34:43.646733Z"
+        "scored_at": "2026-08-02T13:52:43.111915Z"
       }
     }
   ]
