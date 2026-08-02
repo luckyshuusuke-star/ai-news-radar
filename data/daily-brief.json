@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-02T06:44:04.495636Z",
+  "generated_at": "2026-08-02T09:19:34.293371Z",
   "window_hours": 24,
-  "total_items": 15,
+  "total_items": 13,
   "items": [
     {
       "story_id": "story_cd21c6fddb56",
@@ -71,8 +71,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-02T06:44:04.495636Z",
-      "latest_at": "2026-08-02T06:44:04.495636Z",
+      "earliest_at": "2026-08-02T09:19:34.293371Z",
+      "latest_at": "2026-08-02T09:19:34.293371Z",
       "primary_item": {
         "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
         "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
@@ -91,7 +91,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T06:45:11.552392Z"
+        "scored_at": "2026-08-02T09:20:50.132939Z"
       }
     },
     {
@@ -144,16 +144,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7667,
-      "importance": 0.7667,
-      "importance_score": 0.7667,
+      "score": 0.7601,
+      "importance": 0.7601,
+      "importance_score": 0.7601,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9952,
+        "recency": 0.9586,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -181,7 +181,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T06:45:11.552392Z"
+        "scored_at": "2026-08-02T09:20:50.132939Z"
       }
     },
     {
@@ -267,23 +267,22 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
+      "score": 0.7454,
+      "importance": 0.7454,
+      "importance_score": 0.7454,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7486,
+        "recency": 0.7211,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-01T10:40:50Z",
       "latest_at": "2026-08-01T10:40:50Z",
@@ -305,7 +304,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T06:45:11.552392Z"
+        "scored_at": "2026-08-02T09:20:50.132939Z"
       }
     },
     {
@@ -521,16 +520,16 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.6135,
-      "importance": 0.6135,
-      "importance_score": 0.6135,
+      "score": 0.6072,
+      "importance": 0.6072,
+      "importance_score": 0.6072,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9596,
+        "recency": 0.9244,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -557,7 +556,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T06:45:11.552392Z"
+        "scored_at": "2026-08-02T09:20:50.132939Z"
       }
     },
     {
@@ -709,16 +708,16 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5662,
-      "importance": 0.5662,
-      "importance_score": 0.5662,
+      "score": 0.5607,
+      "importance": 0.5607,
+      "importance_score": 0.5607,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8355,
+        "recency": 0.8048,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -745,7 +744,129 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T06:45:11.552392Z"
+        "scored_at": "2026-08-02T09:20:50.132939Z"
+      }
+    },
+    {
+      "story_id": "story_e28f2fbd5da2",
+      "title": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
+      "title_ja": "MI355X 上で Kimi K3 を実行すると、B300 よりも優れた価格/パフォーマンスが得られます",
+      "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+      "primary_url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+      "source": "www.wafer.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "5dc5d5699a7685cee97651f148c279b16b74bf5a",
+          "title": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
+          "title_zh": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
+          "title_ja": "MI355X 上で Kimi K3 を実行すると、B300 よりも優れた価格/パフォーマンスが得られます",
+          "title_en": null,
+          "title_original": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+          "source": "www.wafer.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-02T07:21:18.343000Z"
+        },
+        {
+          "id": "95e23b427b192e05cc5a370652a74c10f28ab940",
+          "title": "在 MI355X 上运行 Kimi K3，其性价比优于 B300 / Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
+          "title_zh": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
+          "title_ja": "B300 よりも優れた 1 ドルあたりのパフォーマンスで MI355X 上で Kimi K3 を実行",
+          "title_en": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
+          "title_original": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-02T04:21:14Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "www.wafer.ai"
+      ],
+      "items": [
+        {
+          "id": "5dc5d5699a7685cee97651f148c279b16b74bf5a",
+          "title": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
+          "title_zh": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
+          "title_ja": "MI355X 上で Kimi K3 を実行すると、B300 よりも優れた価格/パフォーマンスが得られます",
+          "title_en": null,
+          "title_original": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+          "source": "www.wafer.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-02T07:21:18.343000Z"
+        },
+        {
+          "id": "95e23b427b192e05cc5a370652a74c10f28ab940",
+          "title": "在 MI355X 上运行 Kimi K3，其性价比优于 B300 / Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
+          "title_zh": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
+          "title_ja": "B300 よりも優れた 1 ドルあたりのパフォーマンスで MI355X 上で Kimi K3 を実行",
+          "title_en": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
+          "title_original": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-02T04:21:14Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5407,
+      "importance": 0.5407,
+      "importance_score": 0.5407,
+      "importance_label": "值得关注",
+      "importance_label_ja": "要注目",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9719,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-02T04:21:14Z",
+      "latest_at": "2026-08-02T07:21:18.343000Z",
+      "primary_item": {
+        "id": "5dc5d5699a7685cee97651f148c279b16b74bf5a",
+        "title": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
+        "title_zh": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
+        "title_ja": "MI355X 上で Kimi K3 を実行すると、B300 よりも優れた価格/パフォーマンスが得られます",
+        "title_en": null,
+        "title_original": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+        "source": "www.wafer.ai",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-02T09:20:50.132939Z"
       }
     },
     {
@@ -864,16 +985,16 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5395,
-      "importance": 0.5395,
-      "importance_score": 0.5395,
+      "score": 0.534,
+      "importance": 0.534,
+      "importance_score": 0.534,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8259,
+        "recency": 0.7956,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -900,7 +1021,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T06:45:11.552392Z"
+        "scored_at": "2026-08-02T09:20:50.132939Z"
       }
     },
     {
@@ -986,16 +1107,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5264,
-      "importance": 0.5264,
-      "importance_score": 0.5264,
+      "score": 0.5205,
+      "importance": 0.5205,
+      "importance_score": 0.5205,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8923,
+        "recency": 0.8595,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1022,7 +1143,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T06:45:11.552392Z"
+        "scored_at": "2026-08-02T09:20:50.132939Z"
       }
     },
     {
@@ -1108,16 +1229,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5385,
-      "importance": 0.5385,
-      "importance_score": 0.5385,
+      "score": 0.5322,
+      "importance": 0.5322,
+      "importance_score": 0.5322,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9596,
+        "recency": 0.9244,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1144,284 +1265,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T06:45:11.552392Z"
-      }
-    },
-    {
-      "story_id": "story_10739ae4d797",
-      "title": "数学与理论计算机科学领域的十大进展",
-      "title_ja": "数学と理論コンピューターサイエンスの進歩トップ 10",
-      "url": "https://openai.com/index/ten-advances-in-mathematics",
-      "primary_url": "https://openai.com/index/ten-advances-in-mathematics",
-      "source": "openai.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "b2b7b92476021cfa24a815c8509e480dceedee5e",
-          "title": "数学与理论计算机科学领域的十大进展",
-          "title_zh": "数学与理论计算机科学领域的十大进展",
-          "title_ja": "数学と理論コンピューターサイエンスの進歩トップ 10",
-          "title_en": null,
-          "title_original": "数学与理论计算机科学领域的十大进展",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/ten-advances-in-mathematics",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-01T10:17:30.122000Z"
-        },
-        {
-          "id": "e44665178ec4140c0f5a67877b906ac10188bcc3",
-          "title": "数学与理论计算机科学领域的十大进展 / Ten advances in mathematics and theoretical computer science",
-          "title_zh": "数学与理论计算机科学领域的十大进展",
-          "title_ja": "数学と理論的コンピューターサイエンスにおける 10 の進歩",
-          "title_en": "Ten advances in mathematics and theoretical computer science",
-          "title_original": "Ten advances in mathematics and theoretical computer science",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/ten-advances-in-mathematics",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-01T07:37:44Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "openai.com"
-      ],
-      "items": [
-        {
-          "id": "b2b7b92476021cfa24a815c8509e480dceedee5e",
-          "title": "数学与理论计算机科学领域的十大进展",
-          "title_zh": "数学与理论计算机科学领域的十大进展",
-          "title_ja": "数学と理論コンピューターサイエンスの進歩トップ 10",
-          "title_en": null,
-          "title_original": "数学与理论计算机科学领域的十大进展",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/ten-advances-in-mathematics",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-01T10:17:30.122000Z"
-        },
-        {
-          "id": "e44665178ec4140c0f5a67877b906ac10188bcc3",
-          "title": "数学与理论计算机科学领域的十大进展 / Ten advances in mathematics and theoretical computer science",
-          "title_zh": "数学与理论计算机科学领域的十大进展",
-          "title_ja": "数学と理論的コンピューターサイエンスにおける 10 の進歩",
-          "title_en": "Ten advances in mathematics and theoretical computer science",
-          "title_original": "Ten advances in mathematics and theoretical computer science",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/ten-advances-in-mathematics",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-01T07:37:44Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4998,
-      "importance": 0.4998,
-      "importance_score": 0.4998,
-      "importance_label": "值得关注",
-      "importance_label_ja": "要注目",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7444,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-01T07:37:44Z",
-      "latest_at": "2026-08-01T10:17:30.122000Z",
-      "primary_item": {
-        "id": "b2b7b92476021cfa24a815c8509e480dceedee5e",
-        "title": "数学与理论计算机科学领域的十大进展",
-        "title_zh": "数学与理论计算机科学领域的十大进展",
-        "title_ja": "数学と理論コンピューターサイエンスの進歩トップ 10",
-        "title_en": null,
-        "title_original": "数学与理论计算机科学领域的十大进展",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/ten-advances-in-mathematics",
-        "source": "openai.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-02T06:45:11.552392Z"
-      }
-    },
-    {
-      "story_id": "story_38cfb64c6a71",
-      "title": "人工智能不会生成可用的产品，这仍然是你的工作 / AI doesn't generate working products, that's still your job",
-      "title_ja": "AI は機能する製品を生成しません。それは依然としてあなたの仕事です",
-      "url": "https://news.ycombinator.com/item?id=49132130",
-      "primary_url": "https://news.ycombinator.com/item?id=49132130",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "0327dc4de97b5e0cb0ae3765b12eee1bdb53f4f0",
-          "title": "人工智能不会生成可用的产品，这仍然是你的工作 / AI doesn't generate working products, that's still your job",
-          "title_zh": "人工智能不会生成可用的产品，这仍然是你的工作",
-          "title_ja": "AI は機能する製品を生成しません。それは依然としてあなたの仕事です",
-          "title_en": "AI doesn't generate working products, that's still your job",
-          "title_original": "AI doesn't generate working products, that's still your job",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49132130",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-01T11:07:58.137000Z"
-        },
-        {
-          "id": "35d0d2be42f141daa5899f5588b0cf48c1146021",
-          "title": "人工智能无法生成可用的产品，这仍然是你的工作",
-          "title_zh": "人工智能无法生成可用的产品，这仍然是你的工作",
-          "title_ja": "AI は使える製品を生み出すことはできませんが、それは依然としてあなたの仕事です",
-          "title_en": null,
-          "title_original": "人工智能无法生成可用的产品，这仍然是你的工作",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://weeraman.com/the-prototype-isnt-the-product",
-          "source": "weeraman.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-01T11:05:25.825000Z"
-        },
-        {
-          "id": "234538b9d17e12b9fce41e961fc8cd7eb2050379",
-          "title": "人工智能无法生成可用的产品，这仍然是你的工作 / AI doesn't generate working products, that's still your job",
-          "title_zh": "人工智能无法生成可用的产品，这仍然是你的工作",
-          "title_ja": "AI は機能する製品を生成しません。それは依然としてあなたの仕事です",
-          "title_en": "AI doesn't generate working products, that's still your job",
-          "title_original": "AI doesn't generate working products, that's still your job",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://weeraman.com/the-prototype-isnt-the-product",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-01T07:52:10Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "weeraman.com"
-      ],
-      "items": [
-        {
-          "id": "0327dc4de97b5e0cb0ae3765b12eee1bdb53f4f0",
-          "title": "人工智能不会生成可用的产品，这仍然是你的工作 / AI doesn't generate working products, that's still your job",
-          "title_zh": "人工智能不会生成可用的产品，这仍然是你的工作",
-          "title_ja": "AI は機能する製品を生成しません。それは依然としてあなたの仕事です",
-          "title_en": "AI doesn't generate working products, that's still your job",
-          "title_original": "AI doesn't generate working products, that's still your job",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49132130",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-01T11:07:58.137000Z"
-        },
-        {
-          "id": "35d0d2be42f141daa5899f5588b0cf48c1146021",
-          "title": "人工智能无法生成可用的产品，这仍然是你的工作",
-          "title_zh": "人工智能无法生成可用的产品，这仍然是你的工作",
-          "title_ja": "AI は使える製品を生み出すことはできませんが、それは依然としてあなたの仕事です",
-          "title_en": null,
-          "title_original": "人工智能无法生成可用的产品，这仍然是你的工作",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://weeraman.com/the-prototype-isnt-the-product",
-          "source": "weeraman.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-01T11:05:25.825000Z"
-        },
-        {
-          "id": "234538b9d17e12b9fce41e961fc8cd7eb2050379",
-          "title": "人工智能无法生成可用的产品，这仍然是你的工作 / AI doesn't generate working products, that's still your job",
-          "title_zh": "人工智能无法生成可用的产品，这仍然是你的工作",
-          "title_ja": "AI は機能する製品を生成しません。それは依然としてあなたの仕事です",
-          "title_en": "AI doesn't generate working products, that's still your job",
-          "title_original": "AI doesn't generate working products, that's still your job",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://weeraman.com/the-prototype-isnt-the-product",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-01T07:52:10Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5264,
-      "importance": 0.5264,
-      "importance_score": 0.5264,
-      "importance_label": "多源热议",
-      "importance_label_ja": "複数ソースで話題",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7535,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-01T07:52:10Z",
-      "latest_at": "2026-08-01T11:07:58.137000Z",
-      "primary_item": {
-        "id": "0327dc4de97b5e0cb0ae3765b12eee1bdb53f4f0",
-        "title": "人工智能不会生成可用的产品，这仍然是你的工作 / AI doesn't generate working products, that's still your job",
-        "title_zh": "人工智能不会生成可用的产品，这仍然是你的工作",
-        "title_ja": "AI は機能する製品を生成しません。それは依然としてあなたの仕事です",
-        "title_en": "AI doesn't generate working products, that's still your job",
-        "title_original": "AI doesn't generate working products, that's still your job",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49132130",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-02T06:45:11.552392Z"
+        "scored_at": "2026-08-02T09:20:50.132939Z"
       }
     },
     {
@@ -1507,16 +1351,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5243,
-      "importance": 0.5243,
-      "importance_score": 0.5243,
+      "score": 0.5184,
+      "importance": 0.5184,
+      "importance_score": 0.5184,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8804,
+        "recency": 0.848,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1543,7 +1387,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T06:45:11.552392Z"
+        "scored_at": "2026-08-02T09:20:50.132939Z"
       }
     },
     {
@@ -1629,16 +1473,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.522,
-      "importance": 0.522,
-      "importance_score": 0.522,
+      "score": 0.5162,
+      "importance": 0.5162,
+      "importance_score": 0.5162,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8677,
+        "recency": 0.8358,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1665,7 +1509,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T06:45:11.552392Z"
+        "scored_at": "2026-08-02T09:20:50.132939Z"
       }
     },
     {
@@ -1751,16 +1595,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.509,
-      "importance": 0.509,
-      "importance_score": 0.509,
+      "score": 0.5037,
+      "importance": 0.5037,
+      "importance_score": 0.5037,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7955,
+        "recency": 0.7662,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1787,7 +1631,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T06:45:11.552392Z"
+        "scored_at": "2026-08-02T09:20:50.132939Z"
       }
     },
     {
@@ -1873,16 +1717,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5064,
-      "importance": 0.5064,
-      "importance_score": 0.5064,
+      "score": 0.5013,
+      "importance": 0.5013,
+      "importance_score": 0.5013,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7813,
+        "recency": 0.7526,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1909,129 +1753,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T06:45:11.552392Z"
-      }
-    },
-    {
-      "story_id": "story_cb70a765bd5d",
-      "title": "欧盟将从 8 月 2 日起强制在真实的人工智能内容上贴上标签 / EU will mandate labels on authentic-looking AI content starting August 2",
-      "title_ja": "EU、8月2日から本物に見えるAIコンテンツにラベルを付けることを義務付ける",
-      "url": "https://news.ycombinator.com/item?id=49132341",
-      "primary_url": "https://news.ycombinator.com/item?id=49132341",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "7486e821c90af531ddb5b3bd905bc7e2dd491eed",
-          "title": "欧盟将从 8 月 2 日起强制在真实的人工智能内容上贴上标签 / EU will mandate labels on authentic-looking AI content starting August 2",
-          "title_zh": "欧盟将从 8 月 2 日起强制在真实的人工智能内容上贴上标签",
-          "title_ja": "EU、8月2日から本物に見えるAIコンテンツにラベルを付けることを義務付ける",
-          "title_en": "EU will mandate labels on authentic-looking AI content starting August 2",
-          "title_original": "EU will mandate labels on authentic-looking AI content starting August 2",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49132341",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-01T11:07:58.137000Z"
-        },
-        {
-          "id": "202e2ee3bb16183ae87f4d80e594848b6635d4ee",
-          "title": "欧盟将从 8 月 2 日起强制在真实的人工智能内容上贴上标签 / EU will mandate labels on authentic-looking AI content starting August 2",
-          "title_zh": "欧盟将从 8 月 2 日起强制在真实的人工智能内容上贴上标签",
-          "title_ja": "EU、8月2日から本物に見えるAIコンテンツにラベルを付けることを義務付ける",
-          "title_en": "EU will mandate labels on authentic-looking AI content starting August 2",
-          "title_original": "EU will mandate labels on authentic-looking AI content starting August 2",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-01T08:26:55Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "7486e821c90af531ddb5b3bd905bc7e2dd491eed",
-          "title": "欧盟将从 8 月 2 日起强制在真实的人工智能内容上贴上标签 / EU will mandate labels on authentic-looking AI content starting August 2",
-          "title_zh": "欧盟将从 8 月 2 日起强制在真实的人工智能内容上贴上标签",
-          "title_ja": "EU、8月2日から本物に見えるAIコンテンツにラベルを付けることを義務付ける",
-          "title_en": "EU will mandate labels on authentic-looking AI content starting August 2",
-          "title_original": "EU will mandate labels on authentic-looking AI content starting August 2",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49132341",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-01T11:07:58.137000Z"
-        },
-        {
-          "id": "202e2ee3bb16183ae87f4d80e594848b6635d4ee",
-          "title": "欧盟将从 8 月 2 日起强制在真实的人工智能内容上贴上标签 / EU will mandate labels on authentic-looking AI content starting August 2",
-          "title_zh": "欧盟将从 8 月 2 日起强制在真实的人工智能内容上贴上标签",
-          "title_ja": "EU、8月2日から本物に見えるAIコンテンツにラベルを付けることを義務付ける",
-          "title_en": "EU will mandate labels on authentic-looking AI content starting August 2",
-          "title_original": "EU will mandate labels on authentic-looking AI content starting August 2",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-01T08:26:55Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5014,
-      "importance": 0.5014,
-      "importance_score": 0.5014,
-      "importance_label": "值得关注",
-      "importance_label_ja": "要注目",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7535,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-01T08:26:55Z",
-      "latest_at": "2026-08-01T11:07:58.137000Z",
-      "primary_item": {
-        "id": "7486e821c90af531ddb5b3bd905bc7e2dd491eed",
-        "title": "欧盟将从 8 月 2 日起强制在真实的人工智能内容上贴上标签 / EU will mandate labels on authentic-looking AI content starting August 2",
-        "title_zh": "欧盟将从 8 月 2 日起强制在真实的人工智能内容上贴上标签",
-        "title_ja": "EU、8月2日から本物に見えるAIコンテンツにラベルを付けることを義務付ける",
-        "title_en": "EU will mandate labels on authentic-looking AI content starting August 2",
-        "title_original": "EU will mandate labels on authentic-looking AI content starting August 2",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49132341",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-02T06:45:11.552392Z"
+        "scored_at": "2026-08-02T09:20:50.132939Z"
       }
     }
   ]
