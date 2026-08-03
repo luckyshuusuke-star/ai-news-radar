@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-02T23:09:30.969962Z",
+  "generated_at": "2026-08-03T00:10:45.636013Z",
   "window_hours": 24,
-  "total_items": 15,
+  "total_items": 16,
   "items": [
     {
       "story_id": "story_cd21c6fddb56",
@@ -71,8 +71,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-02T23:09:30.969962Z",
-      "latest_at": "2026-08-02T23:09:30.969962Z",
+      "earliest_at": "2026-08-03T00:10:45.636013Z",
+      "latest_at": "2026-08-03T00:10:45.636013Z",
       "primary_item": {
         "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
         "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
@@ -91,7 +91,131 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T23:10:09.678316Z"
+        "scored_at": "2026-08-03T00:11:30.070804Z"
+      }
+    },
+    {
+      "story_id": "story_053b3f462bd1",
+      "title": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧 / OpenAI's amazing - but vastly oversold - new model Astra",
+      "title_ja": "OpenAI の驚くべき - しかし非常に売られすぎている - 新しいモデル Astra",
+      "url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
+      "primary_url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
+      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "821d3bcc145b06cb4db88d240a92a0d71429725a",
+          "title": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧 / OpenAI's amazing - but vastly oversold - new model Astra",
+          "title_zh": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧",
+          "title_ja": "OpenAI の驚くべき - しかし非常に売られすぎている - 新しいモデル Astra",
+          "title_en": "OpenAI's amazing - but vastly oversold - new model Astra",
+          "title_original": "OpenAI's amazing - but vastly oversold - new model Astra",
+          "summary": "OpenAI 内部测试的新模型 Astra 在数学问题上表现惊艳，但 Gary Marcus 指出相关讨论犯了\"合成谬误\"：擅长某类数学不等于擅长所有数学、科学乃至一切认知任务。数学之所以成为突破口，是因为它便于用符号工具验证且能廉价生成海量合成数据，而开放世界问题无法如此模拟。此外，OpenAI 未公布方法细节，尚无法评估其真实意义。",
+          "summary_ja": "OpenAI が社内でテストした新しいモデル Astra は、数学的問題に対して驚くべきパフォーマンスを示しましたが、ゲイリー・マーカス氏は、関連する議論で「合成の誤謬」が犯されていると指摘しました。つまり、特定のタイプの数学が得意であるということは、すべての数学、科学、あるいはすべての認知タスクにさえ得意であることを意味するわけではありません。数学は、シンボリック ツールを使用して簡単に検証でき、大量の合成データを安価に生成できるため画期的です。一方、オープンワールドの問題はこの方法ではシミュレートできません。また、OpenAIはその手法の詳細を公開しておらず、その真の意義はまだ評価できていない。",
+          "recommend_reason_zh": null,
+          "url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
+          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-02T21:25:27Z"
+        },
+        {
+          "id": "b48d72733681376b03a9c7ce13b32178863ee488",
+          "title": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧 / OpenAI’s amazing — but vastly oversold — new model Astra",
+          "title_zh": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧",
+          "title_ja": "OpenAI の驚くべき – しかし非常に売られすぎている – 新しいモデル Astra",
+          "title_en": "OpenAI’s amazing — but vastly oversold — new model Astra",
+          "title_original": "OpenAI’s amazing — but vastly oversold — new model Astra",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-02T22:13:30Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Gary Marcus：The Road to AI We Can Trust（RSS）",
+        "HN Algolia · AI 24h"
+      ],
+      "items": [
+        {
+          "id": "821d3bcc145b06cb4db88d240a92a0d71429725a",
+          "title": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧 / OpenAI's amazing - but vastly oversold - new model Astra",
+          "title_zh": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧",
+          "title_ja": "OpenAI の驚くべき - しかし非常に売られすぎている - 新しいモデル Astra",
+          "title_en": "OpenAI's amazing - but vastly oversold - new model Astra",
+          "title_original": "OpenAI's amazing - but vastly oversold - new model Astra",
+          "summary": "OpenAI 内部测试的新模型 Astra 在数学问题上表现惊艳，但 Gary Marcus 指出相关讨论犯了\"合成谬误\"：擅长某类数学不等于擅长所有数学、科学乃至一切认知任务。数学之所以成为突破口，是因为它便于用符号工具验证且能廉价生成海量合成数据，而开放世界问题无法如此模拟。此外，OpenAI 未公布方法细节，尚无法评估其真实意义。",
+          "summary_ja": "OpenAI が社内でテストした新しいモデル Astra は、数学的問題に対して驚くべきパフォーマンスを示しましたが、ゲイリー・マーカス氏は、関連する議論で「合成の誤謬」が犯されていると指摘しました。つまり、特定のタイプの数学が得意であるということは、すべての数学、科学、あるいはすべての認知タスクにさえ得意であることを意味するわけではありません。数学は、シンボリック ツールを使用して簡単に検証でき、大量の合成データを安価に生成できるため画期的です。一方、オープンワールドの問題はこの方法ではシミュレートできません。また、OpenAIはその手法の詳細を公開しておらず、その真の意義はまだ評価できていない。",
+          "recommend_reason_zh": null,
+          "url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
+          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-02T21:25:27Z"
+        },
+        {
+          "id": "b48d72733681376b03a9c7ce13b32178863ee488",
+          "title": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧 / OpenAI’s amazing — but vastly oversold — new model Astra",
+          "title_zh": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧",
+          "title_ja": "OpenAI の驚くべき – しかし非常に売られすぎている – 新しいモデル Astra",
+          "title_en": "OpenAI’s amazing — but vastly oversold — new model Astra",
+          "title_original": "OpenAI’s amazing — but vastly oversold — new model Astra",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-02T22:13:30Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.961,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-02T21:25:27Z",
+      "latest_at": "2026-08-02T22:13:30Z",
+      "primary_item": {
+        "id": "821d3bcc145b06cb4db88d240a92a0d71429725a",
+        "title": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧 / OpenAI's amazing - but vastly oversold - new model Astra",
+        "title_zh": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧",
+        "title_ja": "OpenAI の驚くべき - しかし非常に売られすぎている - 新しいモデル Astra",
+        "title_en": "OpenAI's amazing - but vastly oversold - new model Astra",
+        "title_original": "OpenAI's amazing - but vastly oversold - new model Astra",
+        "summary": "OpenAI 内部测试的新模型 Astra 在数学问题上表现惊艳，但 Gary Marcus 指出相关讨论犯了\"合成谬误\"：擅长某类数学不等于擅长所有数学、科学乃至一切认知任务。数学之所以成为突破口，是因为它便于用符号工具验证且能廉价生成海量合成数据，而开放世界问题无法如此模拟。此外，OpenAI 未公布方法细节，尚无法评估其真实意义。",
+        "summary_ja": "OpenAI が社内でテストした新しいモデル Astra は、数学的問題に対して驚くべきパフォーマンスを示しましたが、ゲイリー・マーカス氏は、関連する議論で「合成の誤謬」が犯されていると指摘しました。つまり、特定のタイプの数学が得意であるということは、すべての数学、科学、あるいはすべての認知タスクにさえ得意であることを意味するわけではありません。数学は、シンボリック ツールを使用して簡単に検証でき、大量の合成データを安価に生成できるため画期的です。一方、オープンワールドの問題はこの方法ではシミュレートできません。また、OpenAIはその手法の詳細を公開しておらず、その真の意義はまだ評価できていない。",
+        "recommend_reason_zh": null,
+        "url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
+        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-03T00:11:30.070804Z"
       }
     },
     {
@@ -144,16 +268,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7472,
-      "importance": 0.7472,
-      "importance_score": 0.7472,
+      "score": 0.745,
+      "importance": 0.745,
+      "importance_score": 0.745,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8364,
+        "recency": 0.8242,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -180,96 +304,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T23:10:09.678316Z"
-      }
-    },
-    {
-      "story_id": "story_053b3f462bd1",
-      "title": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧 / OpenAI's amazing - but vastly oversold - new model Astra",
-      "title_ja": "OpenAI の驚くべき - しかし非常に売られすぎている - 新しいモデル Astra",
-      "url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
-      "primary_url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
-      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "821d3bcc145b06cb4db88d240a92a0d71429725a",
-          "title": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧 / OpenAI's amazing - but vastly oversold - new model Astra",
-          "title_zh": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧",
-          "title_ja": "OpenAI の驚くべき - しかし非常に売られすぎている - 新しいモデル Astra",
-          "title_en": "OpenAI's amazing - but vastly oversold - new model Astra",
-          "title_original": "OpenAI's amazing - but vastly oversold - new model Astra",
-          "summary": "OpenAI 内部测试的新模型 Astra 在数学问题上表现惊艳，但 Gary Marcus 指出相关讨论犯了\"合成谬误\"：擅长某类数学不等于擅长所有数学、科学乃至一切认知任务。数学之所以成为突破口，是因为它便于用符号工具验证且能廉价生成海量合成数据，而开放世界问题无法如此模拟。此外，OpenAI 未公布方法细节，尚无法评估其真实意义。",
-          "summary_ja": "OpenAI が社内でテストした新しいモデル Astra は、数学的問題に対して驚くべきパフォーマンスを示しましたが、ゲイリー・マーカス氏は、関連する議論で「合成の誤謬」が犯されていると指摘しました。つまり、特定のタイプの数学が得意であるということは、すべての数学、科学、あるいはすべての認知タスクにさえ得意であることを意味するわけではありません。数学は、シンボリック ツールを使用して簡単に検証でき、大量の合成データを安価に生成できるため画期的です。一方、オープンワールドの問題はこの方法ではシミュレートできません。また、OpenAIはその手法の詳細を公開しておらず、その真の意義はまだ評価できていない。",
-          "recommend_reason_zh": null,
-          "url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
-          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-02T21:25:27Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Gary Marcus：The Road to AI We Can Trust（RSS）"
-      ],
-      "items": [
-        {
-          "id": "821d3bcc145b06cb4db88d240a92a0d71429725a",
-          "title": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧 / OpenAI's amazing - but vastly oversold - new model Astra",
-          "title_zh": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧",
-          "title_ja": "OpenAI の驚くべき - しかし非常に売られすぎている - 新しいモデル Astra",
-          "title_en": "OpenAI's amazing - but vastly oversold - new model Astra",
-          "title_original": "OpenAI's amazing - but vastly oversold - new model Astra",
-          "summary": "OpenAI 内部测试的新模型 Astra 在数学问题上表现惊艳，但 Gary Marcus 指出相关讨论犯了\"合成谬误\"：擅长某类数学不等于擅长所有数学、科学乃至一切认知任务。数学之所以成为突破口，是因为它便于用符号工具验证且能廉价生成海量合成数据，而开放世界问题无法如此模拟。此外，OpenAI 未公布方法细节，尚无法评估其真实意义。",
-          "summary_ja": "OpenAI が社内でテストした新しいモデル Astra は、数学的問題に対して驚くべきパフォーマンスを示しましたが、ゲイリー・マーカス氏は、関連する議論で「合成の誤謬」が犯されていると指摘しました。つまり、特定のタイプの数学が得意であるということは、すべての数学、科学、あるいはすべての認知タスクにさえ得意であることを意味するわけではありません。数学は、シンボリック ツールを使用して簡単に検証でき、大量の合成データを安価に生成できるため画期的です。一方、オープンワールドの問題はこの方法ではシミュレートできません。また、OpenAIはその手法の詳細を公開しておらず、その真の意義はまだ評価できていない。",
-          "recommend_reason_zh": null,
-          "url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
-          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-02T21:25:27Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7451,
-      "importance": 0.7451,
-      "importance_score": 0.7451,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9753,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-02T21:25:27Z",
-      "latest_at": "2026-08-02T21:25:27Z",
-      "primary_item": {
-        "id": "821d3bcc145b06cb4db88d240a92a0d71429725a",
-        "title": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧 / OpenAI's amazing - but vastly oversold - new model Astra",
-        "title_zh": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧",
-        "title_ja": "OpenAI の驚くべき - しかし非常に売られすぎている - 新しいモデル Astra",
-        "title_en": "OpenAI's amazing - but vastly oversold - new model Astra",
-        "title_original": "OpenAI's amazing - but vastly oversold - new model Astra",
-        "summary": "OpenAI 内部测试的新模型 Astra 在数学问题上表现惊艳，但 Gary Marcus 指出相关讨论犯了\"合成谬误\"：擅长某类数学不等于擅长所有数学、科学乃至一切认知任务。数学之所以成为突破口，是因为它便于用符号工具验证且能廉价生成海量合成数据，而开放世界问题无法如此模拟。此外，OpenAI 未公布方法细节，尚无法评估其真实意义。",
-        "summary_ja": "OpenAI が社内でテストした新しいモデル Astra は、数学的問題に対して驚くべきパフォーマンスを示しましたが、ゲイリー・マーカス氏は、関連する議論で「合成の誤謬」が犯されていると指摘しました。つまり、特定のタイプの数学が得意であるということは、すべての数学、科学、あるいはすべての認知タスクにさえ得意であることを意味するわけではありません。数学は、シンボリック ツールを使用して簡単に検証でき、大量の合成データを安価に生成できるため画期的です。一方、オープンワールドの問題はこの方法ではシミュレートできません。また、OpenAIはその手法の詳細を公開しておらず、その真の意義はまだ評価できていない。",
-        "recommend_reason_zh": null,
-        "url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
-        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-02T23:10:09.678316Z"
+        "scored_at": "2026-08-03T00:11:30.070804Z"
       }
     },
     {
@@ -322,16 +357,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7289,
-      "importance": 0.7289,
-      "importance_score": 0.7289,
+      "score": 0.7268,
+      "importance": 0.7268,
+      "importance_score": 0.7268,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.785,
+        "recency": 0.7735,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -358,7 +393,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T23:10:09.678316Z"
+        "scored_at": "2026-08-03T00:11:30.070804Z"
       }
     },
     {
@@ -477,16 +512,16 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5612,
-      "importance": 0.5612,
-      "importance_score": 0.5612,
+      "score": 0.5587,
+      "importance": 0.5587,
+      "importance_score": 0.5587,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9464,
+        "recency": 0.9326,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -513,49 +548,49 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T23:10:09.678316Z"
+        "scored_at": "2026-08-03T00:11:30.070804Z"
       }
     },
     {
-      "story_id": "story_28846135b250",
-      "title": "Show HN：MicroCodex Coding Agent – 用 C++ 重新实现 OpenAI/codex <1MB 二进制文件 / Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
-      "title_ja": "HN を表示: MicroCodex コーディング エージェント – C++ で再実装された OpenAI/コーデックス <1MB バイナリ",
-      "url": "https://news.ycombinator.com/item?id=49147842",
-      "primary_url": "https://news.ycombinator.com/item?id=49147842",
+      "story_id": "story_5e37a2bfe3ac",
+      "title": "AI 海报赢得俄亥俄州博览会竞赛 / AI poster wins Ohio State Fair contest",
+      "title_ja": "AI ポスターがオハイオ ステート フェア コンテストで優勝",
+      "url": "https://news.ycombinator.com/item?id=49149188",
+      "primary_url": "https://news.ycombinator.com/item?id=49149188",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "b02401c080930792e17dc012904ecbea963e8d3c",
-          "title": "Show HN：MicroCodex Coding Agent – 用 C++ 重新实现 OpenAI/codex <1MB 二进制文件 / Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
-          "title_zh": "Show HN：MicroCodex Coding Agent – 用 C++ 重新实现 OpenAI/codex <1MB 二进制文件",
-          "title_ja": "HN を表示: MicroCodex コーディング エージェント – C++ で再実装された OpenAI/コーデックス <1MB バイナリ",
-          "title_en": "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
-          "title_original": "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+          "id": "85f7c3afff458c89cfe8fc57af7ede6675149a78",
+          "title": "AI 海报赢得俄亥俄州博览会竞赛 / AI poster wins Ohio State Fair contest",
+          "title_zh": "AI 海报赢得俄亥俄州博览会竞赛",
+          "title_ja": "AI ポスターがオハイオ ステート フェア コンテストで優勝",
+          "title_en": "AI poster wins Ohio State Fair contest",
+          "title_original": "AI poster wins Ohio State Fair contest",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49147842",
+          "url": "https://news.ycombinator.com/item?id=49149188",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-02T21:55:16.950000Z"
+          "published_at": "2026-08-02T23:55:32.998000Z"
         },
         {
-          "id": "1eafc6bd65713bf0ac88c09d44c540c13e9441dc",
-          "title": "Show HN：MicroCodex Coding Agent – 用 C++ 重新实现 OpenAI/codex <1MB 二进制文件 / Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
-          "title_zh": "Show HN：MicroCodex Coding Agent – 用 C++ 重新实现 OpenAI/codex <1MB 二进制文件",
-          "title_ja": "HN を表示: MicroCodex コーディング エージェント – C++ で再実装された OpenAI/コーデックス <1MB バイナリ",
-          "title_en": "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
-          "title_original": "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+          "id": "613f77e2cb5ae9e7cda7b80110eb47c9680a47d9",
+          "title": "AI 海报赢得俄亥俄州博览会竞赛 / AI poster wins Ohio State Fair contest",
+          "title_zh": "AI 海报赢得俄亥俄州博览会竞赛",
+          "title_ja": "AI ポスターがオハイオ ステート フェア コンテストで優勝",
+          "title_en": "AI poster wins Ohio State Fair contest",
+          "title_original": "AI poster wins Ohio State Fair contest",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/paoloanzn/microcodex",
+          "url": "https://www.ohiostatefair.com/p/get-involved/arts/poster-contest",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-02T20:11:35Z"
+          "published_at": "2026-08-02T22:43:47Z"
         }
       ],
       "source_count": 2,
@@ -565,69 +600,69 @@
       ],
       "items": [
         {
-          "id": "b02401c080930792e17dc012904ecbea963e8d3c",
-          "title": "Show HN：MicroCodex Coding Agent – 用 C++ 重新实现 OpenAI/codex <1MB 二进制文件 / Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
-          "title_zh": "Show HN：MicroCodex Coding Agent – 用 C++ 重新实现 OpenAI/codex <1MB 二进制文件",
-          "title_ja": "HN を表示: MicroCodex コーディング エージェント – C++ で再実装された OpenAI/コーデックス <1MB バイナリ",
-          "title_en": "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
-          "title_original": "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+          "id": "85f7c3afff458c89cfe8fc57af7ede6675149a78",
+          "title": "AI 海报赢得俄亥俄州博览会竞赛 / AI poster wins Ohio State Fair contest",
+          "title_zh": "AI 海报赢得俄亥俄州博览会竞赛",
+          "title_ja": "AI ポスターがオハイオ ステート フェア コンテストで優勝",
+          "title_en": "AI poster wins Ohio State Fair contest",
+          "title_original": "AI poster wins Ohio State Fair contest",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49147842",
+          "url": "https://news.ycombinator.com/item?id=49149188",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-02T21:55:16.950000Z"
+          "published_at": "2026-08-02T23:55:32.998000Z"
         },
         {
-          "id": "1eafc6bd65713bf0ac88c09d44c540c13e9441dc",
-          "title": "Show HN：MicroCodex Coding Agent – 用 C++ 重新实现 OpenAI/codex <1MB 二进制文件 / Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
-          "title_zh": "Show HN：MicroCodex Coding Agent – 用 C++ 重新实现 OpenAI/codex <1MB 二进制文件",
-          "title_ja": "HN を表示: MicroCodex コーディング エージェント – C++ で再実装された OpenAI/コーデックス <1MB バイナリ",
-          "title_en": "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
-          "title_original": "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+          "id": "613f77e2cb5ae9e7cda7b80110eb47c9680a47d9",
+          "title": "AI 海报赢得俄亥俄州博览会竞赛 / AI poster wins Ohio State Fair contest",
+          "title_zh": "AI 海报赢得俄亥俄州博览会竞赛",
+          "title_ja": "AI ポスターがオハイオ ステート フェア コンテストで優勝",
+          "title_en": "AI poster wins Ohio State Fair contest",
+          "title_original": "AI poster wins Ohio State Fair contest",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/paoloanzn/microcodex",
+          "url": "https://www.ohiostatefair.com/p/get-involved/arts/poster-contest",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-02T20:11:35Z"
+          "published_at": "2026-08-02T22:43:47Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5426,
-      "importance": 0.5426,
-      "importance_score": 0.5426,
+      "score": 0.5451,
+      "importance": 0.5451,
+      "importance_score": 0.5451,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9823,
+        "recency": 0.9963,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-02T20:11:35Z",
-      "latest_at": "2026-08-02T21:55:16.950000Z",
+      "earliest_at": "2026-08-02T22:43:47Z",
+      "latest_at": "2026-08-02T23:55:32.998000Z",
       "primary_item": {
-        "id": "b02401c080930792e17dc012904ecbea963e8d3c",
-        "title": "Show HN：MicroCodex Coding Agent – 用 C++ 重新实现 OpenAI/codex <1MB 二进制文件 / Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
-        "title_zh": "Show HN：MicroCodex Coding Agent – 用 C++ 重新实现 OpenAI/codex <1MB 二进制文件",
-        "title_ja": "HN を表示: MicroCodex コーディング エージェント – C++ で再実装された OpenAI/コーデックス <1MB バイナリ",
-        "title_en": "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
-        "title_original": "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+        "id": "85f7c3afff458c89cfe8fc57af7ede6675149a78",
+        "title": "AI 海报赢得俄亥俄州博览会竞赛 / AI poster wins Ohio State Fair contest",
+        "title_zh": "AI 海报赢得俄亥俄州博览会竞赛",
+        "title_ja": "AI ポスターがオハイオ ステート フェア コンテストで優勝",
+        "title_en": "AI poster wins Ohio State Fair contest",
+        "title_original": "AI poster wins Ohio State Fair contest",
         "summary": null,
         "summary_ja": null,
         "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49147842",
+        "url": "https://news.ycombinator.com/item?id=49149188",
         "source": "hackernews",
         "source_name": "NewsNow"
       },
@@ -635,7 +670,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T23:10:09.678316Z"
+        "scored_at": "2026-08-03T00:11:30.070804Z"
       }
     },
     {
@@ -721,16 +756,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5355,
-      "importance": 0.5355,
-      "importance_score": 0.5355,
+      "score": 0.533,
+      "importance": 0.533,
+      "importance_score": 0.533,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9428,
+        "recency": 0.929,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -757,49 +792,49 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T23:10:09.678316Z"
+        "scored_at": "2026-08-03T00:11:30.070804Z"
       }
     },
     {
-      "story_id": "story_86c71e140188",
-      "title": "人工智能狂热：从郁金香到代币 / AI Mania: From Tulips to Tokens",
-      "title_ja": "AI マニア: チューリップからトークンまで",
-      "url": "https://news.ycombinator.com/item?id=49148159",
-      "primary_url": "https://news.ycombinator.com/item?id=49148159",
+      "story_id": "story_249a7e6e5d49",
+      "title": "Show HN：Mu – 代理工具 / Show HN: Mu – Tools for Agents",
+      "title_ja": "Show HN: Mu – エージェント用ツール",
+      "url": "https://news.ycombinator.com/item?id=49148899",
+      "primary_url": "https://news.ycombinator.com/item?id=49148899",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "88dc85283bb17267354ebd5702c07e1fc7709030",
-          "title": "人工智能狂热：从郁金香到代币 / AI Mania: From Tulips to Tokens",
-          "title_zh": "人工智能狂热：从郁金香到代币",
-          "title_ja": "AI マニア: チューリップからトークンまで",
-          "title_en": "AI Mania: From Tulips to Tokens",
-          "title_original": "AI Mania: From Tulips to Tokens",
+          "id": "c39dd7eb7beab411fbaae390f595a7aac9539342",
+          "title": "Show HN：Mu – 代理工具 / Show HN: Mu – Tools for Agents",
+          "title_zh": "Show HN：Mu – 代理工具",
+          "title_ja": "Show HN: Mu – エージェント用ツール",
+          "title_en": "Show HN: Mu – Tools for Agents",
+          "title_original": "Show HN: Mu – Tools for Agents",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49148159",
+          "url": "https://news.ycombinator.com/item?id=49148899",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-02T21:55:16.950000Z"
+          "published_at": "2026-08-02T23:55:32.998000Z"
         },
         {
-          "id": "c99078445d20a0c205cf63fe673cac175a57b94e",
-          "title": "人工智能狂热：从郁金香到代币 / AI Mania: From Tulips to Tokens",
-          "title_zh": "人工智能狂热：从郁金香到代币",
-          "title_ja": "AI マニア: チューリップからトークンまで",
-          "title_en": "AI Mania: From Tulips to Tokens",
-          "title_original": "AI Mania: From Tulips to Tokens",
+          "id": "076d18bde4a6e998a1116699c4efdddd355f0115",
+          "title": "Show HN：Mu – 代理工具 / Show HN: Mu – Tools for Agents",
+          "title_zh": "Show HN：Mu – 代理工具",
+          "title_ja": "Show HN: Mu – エージェント用ツール",
+          "title_en": "Show HN: Mu – Tools for Agents",
+          "title_original": "Show HN: Mu – Tools for Agents",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://seanhelvey.com/tools-and-their-tools",
+          "url": "https://github.com/micro/mu",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-02T20:48:28Z"
+          "published_at": "2026-08-02T22:06:34Z"
         }
       ],
       "source_count": 2,
@@ -809,69 +844,69 @@
       ],
       "items": [
         {
-          "id": "88dc85283bb17267354ebd5702c07e1fc7709030",
-          "title": "人工智能狂热：从郁金香到代币 / AI Mania: From Tulips to Tokens",
-          "title_zh": "人工智能狂热：从郁金香到代币",
-          "title_ja": "AI マニア: チューリップからトークンまで",
-          "title_en": "AI Mania: From Tulips to Tokens",
-          "title_original": "AI Mania: From Tulips to Tokens",
+          "id": "c39dd7eb7beab411fbaae390f595a7aac9539342",
+          "title": "Show HN：Mu – 代理工具 / Show HN: Mu – Tools for Agents",
+          "title_zh": "Show HN：Mu – 代理工具",
+          "title_ja": "Show HN: Mu – エージェント用ツール",
+          "title_en": "Show HN: Mu – Tools for Agents",
+          "title_original": "Show HN: Mu – Tools for Agents",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49148159",
+          "url": "https://news.ycombinator.com/item?id=49148899",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-02T21:55:16.950000Z"
+          "published_at": "2026-08-02T23:55:32.998000Z"
         },
         {
-          "id": "c99078445d20a0c205cf63fe673cac175a57b94e",
-          "title": "人工智能狂热：从郁金香到代币 / AI Mania: From Tulips to Tokens",
-          "title_zh": "人工智能狂热：从郁金香到代币",
-          "title_ja": "AI マニア: チューリップからトークンまで",
-          "title_en": "AI Mania: From Tulips to Tokens",
-          "title_original": "AI Mania: From Tulips to Tokens",
+          "id": "076d18bde4a6e998a1116699c4efdddd355f0115",
+          "title": "Show HN：Mu – 代理工具 / Show HN: Mu – Tools for Agents",
+          "title_zh": "Show HN：Mu – 代理工具",
+          "title_ja": "Show HN: Mu – エージェント用ツール",
+          "title_en": "Show HN: Mu – Tools for Agents",
+          "title_original": "Show HN: Mu – Tools for Agents",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://seanhelvey.com/tools-and-their-tools",
+          "url": "https://github.com/micro/mu",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-02T20:48:28Z"
+          "published_at": "2026-08-02T22:06:34Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5426,
-      "importance": 0.5426,
-      "importance_score": 0.5426,
+      "score": 0.5451,
+      "importance": 0.5451,
+      "importance_score": 0.5451,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9823,
+        "recency": 0.9963,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-02T20:48:28Z",
-      "latest_at": "2026-08-02T21:55:16.950000Z",
+      "earliest_at": "2026-08-02T22:06:34Z",
+      "latest_at": "2026-08-02T23:55:32.998000Z",
       "primary_item": {
-        "id": "88dc85283bb17267354ebd5702c07e1fc7709030",
-        "title": "人工智能狂热：从郁金香到代币 / AI Mania: From Tulips to Tokens",
-        "title_zh": "人工智能狂热：从郁金香到代币",
-        "title_ja": "AI マニア: チューリップからトークンまで",
-        "title_en": "AI Mania: From Tulips to Tokens",
-        "title_original": "AI Mania: From Tulips to Tokens",
+        "id": "c39dd7eb7beab411fbaae390f595a7aac9539342",
+        "title": "Show HN：Mu – 代理工具 / Show HN: Mu – Tools for Agents",
+        "title_zh": "Show HN：Mu – 代理工具",
+        "title_ja": "Show HN: Mu – エージェント用ツール",
+        "title_en": "Show HN: Mu – Tools for Agents",
+        "title_original": "Show HN: Mu – Tools for Agents",
         "summary": null,
         "summary_ja": null,
         "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49148159",
+        "url": "https://news.ycombinator.com/item?id=49148899",
         "source": "hackernews",
         "source_name": "NewsNow"
       },
@@ -879,7 +914,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T23:10:09.678316Z"
+        "scored_at": "2026-08-03T00:11:30.070804Z"
       }
     },
     {
@@ -965,16 +1000,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5091,
-      "importance": 0.5091,
-      "importance_score": 0.5091,
+      "score": 0.507,
+      "importance": 0.507,
+      "importance_score": 0.507,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.796,
+        "recency": 0.7843,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1001,7 +1036,251 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T23:10:09.678316Z"
+        "scored_at": "2026-08-03T00:11:30.070804Z"
+      }
+    },
+    {
+      "story_id": "story_28846135b250",
+      "title": "Show HN：MicroCodex Coding Agent – 用 C++ 重新实现 OpenAI/codex <1MB 二进制文件 / Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+      "title_ja": "HN を表示: MicroCodex コーディング エージェント – C++ で再実装された OpenAI/コーデックス <1MB バイナリ",
+      "url": "https://news.ycombinator.com/item?id=49147842",
+      "primary_url": "https://news.ycombinator.com/item?id=49147842",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "b02401c080930792e17dc012904ecbea963e8d3c",
+          "title": "Show HN：MicroCodex Coding Agent – 用 C++ 重新实现 OpenAI/codex <1MB 二进制文件 / Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+          "title_zh": "Show HN：MicroCodex Coding Agent – 用 C++ 重新实现 OpenAI/codex <1MB 二进制文件",
+          "title_ja": "HN を表示: MicroCodex コーディング エージェント – C++ で再実装された OpenAI/コーデックス <1MB バイナリ",
+          "title_en": "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+          "title_original": "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49147842",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T21:55:16.950000Z"
+        },
+        {
+          "id": "1eafc6bd65713bf0ac88c09d44c540c13e9441dc",
+          "title": "Show HN：MicroCodex Coding Agent – 用 C++ 重新实现 OpenAI/codex <1MB 二进制文件 / Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+          "title_zh": "Show HN：MicroCodex Coding Agent – 用 C++ 重新实现 OpenAI/codex <1MB 二进制文件",
+          "title_ja": "HN を表示: MicroCodex コーディング エージェント – C++ で再実装された OpenAI/コーデックス <1MB バイナリ",
+          "title_en": "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+          "title_original": "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/paoloanzn/microcodex",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-02T20:11:35Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "b02401c080930792e17dc012904ecbea963e8d3c",
+          "title": "Show HN：MicroCodex Coding Agent – 用 C++ 重新实现 OpenAI/codex <1MB 二进制文件 / Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+          "title_zh": "Show HN：MicroCodex Coding Agent – 用 C++ 重新实现 OpenAI/codex <1MB 二进制文件",
+          "title_ja": "HN を表示: MicroCodex コーディング エージェント – C++ で再実装された OpenAI/コーデックス <1MB バイナリ",
+          "title_en": "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+          "title_original": "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49147842",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T21:55:16.950000Z"
+        },
+        {
+          "id": "1eafc6bd65713bf0ac88c09d44c540c13e9441dc",
+          "title": "Show HN：MicroCodex Coding Agent – 用 C++ 重新实现 OpenAI/codex <1MB 二进制文件 / Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+          "title_zh": "Show HN：MicroCodex Coding Agent – 用 C++ 重新实现 OpenAI/codex <1MB 二进制文件",
+          "title_ja": "HN を表示: MicroCodex コーディング エージェント – C++ で再実装された OpenAI/コーデックス <1MB バイナリ",
+          "title_en": "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+          "title_original": "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/paoloanzn/microcodex",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-02T20:11:35Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.54,
+      "importance": 0.54,
+      "importance_score": 0.54,
+      "importance_label": "值得关注",
+      "importance_label_ja": "要注目",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9679,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-02T20:11:35Z",
+      "latest_at": "2026-08-02T21:55:16.950000Z",
+      "primary_item": {
+        "id": "b02401c080930792e17dc012904ecbea963e8d3c",
+        "title": "Show HN：MicroCodex Coding Agent – 用 C++ 重新实现 OpenAI/codex <1MB 二进制文件 / Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+        "title_zh": "Show HN：MicroCodex Coding Agent – 用 C++ 重新实现 OpenAI/codex <1MB 二进制文件",
+        "title_ja": "HN を表示: MicroCodex コーディング エージェント – C++ で再実装された OpenAI/コーデックス <1MB バイナリ",
+        "title_en": "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+        "title_original": "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49147842",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-03T00:11:30.070804Z"
+      }
+    },
+    {
+      "story_id": "story_86c71e140188",
+      "title": "人工智能狂热：从郁金香到代币 / AI Mania: From Tulips to Tokens",
+      "title_ja": "AI マニア: チューリップからトークンまで",
+      "url": "https://news.ycombinator.com/item?id=49148159",
+      "primary_url": "https://news.ycombinator.com/item?id=49148159",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "88dc85283bb17267354ebd5702c07e1fc7709030",
+          "title": "人工智能狂热：从郁金香到代币 / AI Mania: From Tulips to Tokens",
+          "title_zh": "人工智能狂热：从郁金香到代币",
+          "title_ja": "AI マニア: チューリップからトークンまで",
+          "title_en": "AI Mania: From Tulips to Tokens",
+          "title_original": "AI Mania: From Tulips to Tokens",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49148159",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T21:55:16.950000Z"
+        },
+        {
+          "id": "c99078445d20a0c205cf63fe673cac175a57b94e",
+          "title": "人工智能狂热：从郁金香到代币 / AI Mania: From Tulips to Tokens",
+          "title_zh": "人工智能狂热：从郁金香到代币",
+          "title_ja": "AI マニア: チューリップからトークンまで",
+          "title_en": "AI Mania: From Tulips to Tokens",
+          "title_original": "AI Mania: From Tulips to Tokens",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://seanhelvey.com/tools-and-their-tools",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-02T20:48:28Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "88dc85283bb17267354ebd5702c07e1fc7709030",
+          "title": "人工智能狂热：从郁金香到代币 / AI Mania: From Tulips to Tokens",
+          "title_zh": "人工智能狂热：从郁金香到代币",
+          "title_ja": "AI マニア: チューリップからトークンまで",
+          "title_en": "AI Mania: From Tulips to Tokens",
+          "title_original": "AI Mania: From Tulips to Tokens",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49148159",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T21:55:16.950000Z"
+        },
+        {
+          "id": "c99078445d20a0c205cf63fe673cac175a57b94e",
+          "title": "人工智能狂热：从郁金香到代币 / AI Mania: From Tulips to Tokens",
+          "title_zh": "人工智能狂热：从郁金香到代币",
+          "title_ja": "AI マニア: チューリップからトークンまで",
+          "title_en": "AI Mania: From Tulips to Tokens",
+          "title_original": "AI Mania: From Tulips to Tokens",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://seanhelvey.com/tools-and-their-tools",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-02T20:48:28Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.54,
+      "importance": 0.54,
+      "importance_score": 0.54,
+      "importance_label": "值得关注",
+      "importance_label_ja": "要注目",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9679,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-02T20:48:28Z",
+      "latest_at": "2026-08-02T21:55:16.950000Z",
+      "primary_item": {
+        "id": "88dc85283bb17267354ebd5702c07e1fc7709030",
+        "title": "人工智能狂热：从郁金香到代币 / AI Mania: From Tulips to Tokens",
+        "title_zh": "人工智能狂热：从郁金香到代币",
+        "title_ja": "AI マニア: チューリップからトークンまで",
+        "title_en": "AI Mania: From Tulips to Tokens",
+        "title_original": "AI Mania: From Tulips to Tokens",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49148159",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-03T00:11:30.070804Z"
       }
     },
     {
@@ -1087,16 +1366,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5401,
-      "importance": 0.5401,
-      "importance_score": 0.5401,
+      "score": 0.5375,
+      "importance": 0.5375,
+      "importance_score": 0.5375,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9682,
+        "recency": 0.954,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1123,7 +1402,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T23:10:09.678316Z"
+        "scored_at": "2026-08-03T00:11:30.070804Z"
       }
     },
     {
@@ -1209,16 +1488,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5401,
-      "importance": 0.5401,
-      "importance_score": 0.5401,
+      "score": 0.5375,
+      "importance": 0.5375,
+      "importance_score": 0.5375,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9682,
+        "recency": 0.954,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1245,7 +1524,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T23:10:09.678316Z"
+        "scored_at": "2026-08-03T00:11:30.070804Z"
       }
     },
     {
@@ -1331,16 +1610,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5221,
-      "importance": 0.5221,
-      "importance_score": 0.5221,
+      "score": 0.5198,
+      "importance": 0.5198,
+      "importance_score": 0.5198,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8685,
+        "recency": 0.8558,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1367,7 +1646,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T23:10:09.678316Z"
+        "scored_at": "2026-08-03T00:11:30.070804Z"
       }
     },
     {
@@ -1453,16 +1732,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5221,
-      "importance": 0.5221,
-      "importance_score": 0.5221,
+      "score": 0.5198,
+      "importance": 0.5198,
+      "importance_score": 0.5198,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8685,
+        "recency": 0.8558,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1489,7 +1768,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T23:10:09.678316Z"
+        "scored_at": "2026-08-03T00:11:30.070804Z"
       }
     },
     {
@@ -1575,16 +1854,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5021,
-      "importance": 0.5021,
-      "importance_score": 0.5021,
+      "score": 0.5001,
+      "importance": 0.5001,
+      "importance_score": 0.5001,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.757,
+        "recency": 0.7459,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1611,128 +1890,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T23:10:09.678316Z"
-      }
-    },
-    {
-      "story_id": "story_8982a531b4b5",
-      "title": "人工智能的财务建议出奇地好，特别是如果你提出正确的问题 / AI financial advice is surprisingly good, especially if you ask right questions",
-      "title_ja": "AI の財務アドバイスは、特に適切な質問をした場合、驚くほど優れています",
-      "url": "https://news.ycombinator.com/item?id=49139102",
-      "primary_url": "https://news.ycombinator.com/item?id=49139102",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "a37f6d0f91a128324e51feaa4161dd48cdcb38f4",
-          "title": "人工智能的财务建议出奇地好，特别是如果你提出正确的问题 / AI financial advice is surprisingly good, especially if you ask right questions",
-          "title_zh": "人工智能的财务建议出奇地好，特别是如果你提出正确的问题",
-          "title_ja": "AI の財務アドバイスは、特に適切な質問をした場合、驚くほど優れています",
-          "title_en": "AI financial advice is surprisingly good, especially if you ask right questions",
-          "title_original": "AI financial advice is surprisingly good, especially if you ask right questions",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49139102",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-02T03:52:55.329000Z"
-        },
-        {
-          "id": "64426728f85233c960229c6a3e5579917579a7e7",
-          "title": "如果你提出正确的问题，人工智能的财务建议会出奇地好 / AI financial advice is surprisingly good if you ask the right questions",
-          "title_zh": "如果你提出正确的问题，人工智能的财务建议会出奇地好",
-          "title_ja": "AI による財務アドバイスは、適切な質問をすれば驚くほど効果的です",
-          "title_en": "AI financial advice is surprisingly good if you ask the right questions",
-          "title_original": "AI financial advice is surprisingly good if you ask the right questions",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49139102",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-01T23:54:50.574000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "a37f6d0f91a128324e51feaa4161dd48cdcb38f4",
-          "title": "人工智能的财务建议出奇地好，特别是如果你提出正确的问题 / AI financial advice is surprisingly good, especially if you ask right questions",
-          "title_zh": "人工智能的财务建议出奇地好，特别是如果你提出正确的问题",
-          "title_ja": "AI の財務アドバイスは、特に適切な質問をした場合、驚くほど優れています",
-          "title_en": "AI financial advice is surprisingly good, especially if you ask right questions",
-          "title_original": "AI financial advice is surprisingly good, especially if you ask right questions",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49139102",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-02T03:52:55.329000Z"
-        },
-        {
-          "id": "64426728f85233c960229c6a3e5579917579a7e7",
-          "title": "如果你提出正确的问题，人工智能的财务建议会出奇地好 / AI financial advice is surprisingly good if you ask the right questions",
-          "title_zh": "如果你提出正确的问题，人工智能的财务建议会出奇地好",
-          "title_ja": "AI による財務アドバイスは、適切な質問をすれば驚くほど効果的です",
-          "title_en": "AI financial advice is surprisingly good if you ask the right questions",
-          "title_original": "AI financial advice is surprisingly good if you ask the right questions",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49139102",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-01T23:54:50.574000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5021,
-      "importance": 0.5021,
-      "importance_score": 0.5021,
-      "importance_label": "值得关注",
-      "importance_label_ja": "要注目",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.757,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-01T23:54:50.574000Z",
-      "latest_at": "2026-08-02T03:52:55.329000Z",
-      "primary_item": {
-        "id": "a37f6d0f91a128324e51feaa4161dd48cdcb38f4",
-        "title": "人工智能的财务建议出奇地好，特别是如果你提出正确的问题 / AI financial advice is surprisingly good, especially if you ask right questions",
-        "title_zh": "人工智能的财务建议出奇地好，特别是如果你提出正确的问题",
-        "title_ja": "AI の財務アドバイスは、特に適切な質問をした場合、驚くほど優れています",
-        "title_en": "AI financial advice is surprisingly good, especially if you ask right questions",
-        "title_original": "AI financial advice is surprisingly good, especially if you ask right questions",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49139102",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-02T23:10:09.678316Z"
+        "scored_at": "2026-08-03T00:11:30.070804Z"
       }
     }
   ]
