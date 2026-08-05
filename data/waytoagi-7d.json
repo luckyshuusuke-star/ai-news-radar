@@ -1,14 +1,22 @@
 {
-  "generated_at": "2026-08-05T16:51:23.743483Z",
+  "generated_at": "2026-08-05T18:48:00.908072Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-08-05",
-  "count_today": 4,
+  "count_today": 6,
   "updates_today": [
     {
       "date": "2026-08-05",
+      "title": "烧了5亿token后，这是我给codex和claude做Skill上下文瘦身的新技巧！",
+      "summary": "很多人给Agent一路加 Skill，以为能力会越多越强。但卡尔烧了5亿token后发现，300多个Skill每次启动都会先占掉一大截上下文，模型还没干活就被塞满了。他给出一套Skill瘦身方法：按高频、项目级、触发级和少用但关键来分层，把低频能力从全局暴露降到动态加载，适合Codex、Claude重度用户参考。",
+      "url": "https://waytoagi.feishu.cn/wiki/K2CZwSYS4ibVevkvK2icxaftnIe?from=from_copylink",
+      "title_ja": "5 億トークンを燃やした後、これがコーデックスとクロードのスキル コンテキストをスリム化するための私の新しいテクニックです。",
+      "summary_ja": "多くの人は、能力が多ければ多いほど強くなると考えて、エージェントにスキルを追加します。しかし、カールが 5 億トークンを燃やした後、300 を超えるスキルが開始されるたびに大量のコンテキストを占有し、機能し始める前にモデルが埋まってしまうことに気づきました。彼は、スキルをスリム化するための一連の方法を示しました。つまり、高頻度、プロジェクト レベル、トリガー レベル、めったに使用されないが重要なレベルごとにスキルを階層化し、グローバルなエクスポージャから動的負荷まで低頻度の機能を削減します。 Codex や Claude のヘビーユーザーが参照するのに適しています。"
+    },
+    {
+      "date": "2026-08-05",
       "title": "抖音/TikTok 剧情短视频创作 Skill",
       "summary": "市面上的通用写作Agent能写故事，但真正落到抖音剧情时，会出现各种问题：开头不够抓人、节奏太慢、反转生硬、台词不像真人说话，也缺少对达人剧情结构的理解。作者把自己整理的剧情创作机制、检索程序和授权参考库，做成了一套纯本地运行的 Skill。",
       "url": "https://waytoagi.feishu.cn/wiki/CfsewaSgKixW8WkMBiJcpF5Knfb?from=from_copylink",
@@ -38,12 +46,28 @@
       "url": "https://waytoagi.feishu.cn/wiki/NhfOwiWdSiGd23kgTQccLIsinvw?from=from_copylink",
       "title_ja": "Vibe コーディング ビジュアル ディクショナリ (パート 2): スクロール アクション、プロンプト ローディング、ビジュアル スタイル、高度な効果",
       "summary_ja": "前回の記事では、Web ページのレイアウト、構造、ナビゲーション、コンポーネントについて明確に説明しました。この記事では、スクロール、パララックス、プログレスバー、遅延読み込み、スケルトン画面から空の状態、エラー再試行、ミニマリスト/雑誌スタイル/ガラス模倣/ダークモード、さらには 3D、トランジション、パフォーマンス、アクセシビリティまで、「Web ページがどのように動くか、フィードバックを与える方法、より完全に見えるようにする方法」を引き続き説明します。これを読むと、「Web ページをより高度なものにする」ことを、具体的で実行可能で AI が理解できる設計要件に分解する方法がよくわかります。"
+    },
+    {
+      "date": "2026-08-05",
+      "title": "Higgsfield 开源了他们95分钟的AI长片《 Hell Grind》所有提示词及相关资料",
+      "summary": "这部作品制作成本为50万美元，曾在戛纳电影市场展映，并获得《华尔街日报》、Variety及BBC新闻的报道。一起来看看他们的制作流程！",
+      "url": "https://waytoagi.feishu.cn/wiki/OQfOwfLWOiiglCk080QchgpCnGC?from=from_copylink",
+      "title_ja": "ヒッグスフィールドは、95 分の AI 長編映画「Hell Grind」のすべてのプロンプト ワードと関連情報をオープンソース化しました。",
+      "summary_ja": "製作費50万ドルのこの作品はカンヌ・フィルム・マーケットで上映され、ウォール・ストリート・ジャーナル、バラエティ、BBCニュースの取材を受けた。では、その制作過程を覗いてみましょう！"
     }
   ],
-  "count_7d": 37,
+  "count_7d": 39,
   "updates_7d": [
     {
       "date": "2026-08-05",
+      "title": "烧了5亿token后，这是我给codex和claude做Skill上下文瘦身的新技巧！",
+      "summary": "很多人给Agent一路加 Skill，以为能力会越多越强。但卡尔烧了5亿token后发现，300多个Skill每次启动都会先占掉一大截上下文，模型还没干活就被塞满了。他给出一套Skill瘦身方法：按高频、项目级、触发级和少用但关键来分层，把低频能力从全局暴露降到动态加载，适合Codex、Claude重度用户参考。",
+      "url": "https://waytoagi.feishu.cn/wiki/K2CZwSYS4ibVevkvK2icxaftnIe?from=from_copylink",
+      "title_ja": "5 億トークンを燃やした後、これがコーデックスとクロードのスキル コンテキストをスリム化するための私の新しいテクニックです。",
+      "summary_ja": "多くの人は、能力が多ければ多いほど強くなると考えて、エージェントにスキルを追加します。しかし、カールが 5 億トークンを燃やした後、300 を超えるスキルが開始されるたびに大量のコンテキストを占有し、機能し始める前にモデルが埋まってしまうことに気づきました。彼は、スキルをスリム化するための一連の方法を示しました。つまり、高頻度、プロジェクト レベル、トリガー レベル、めったに使用されないが重要なレベルごとにスキルを階層化し、グローバルなエクスポージャから動的負荷まで低頻度の機能を削減します。 Codex や Claude のヘビーユーザーが参照するのに適しています。"
+    },
+    {
+      "date": "2026-08-05",
       "title": "抖音/TikTok 剧情短视频创作 Skill",
       "summary": "市面上的通用写作Agent能写故事，但真正落到抖音剧情时，会出现各种问题：开头不够抓人、节奏太慢、反转生硬、台词不像真人说话，也缺少对达人剧情结构的理解。作者把自己整理的剧情创作机制、检索程序和授权参考库，做成了一套纯本地运行的 Skill。",
       "url": "https://waytoagi.feishu.cn/wiki/CfsewaSgKixW8WkMBiJcpF5Knfb?from=from_copylink",
@@ -73,6 +97,14 @@
       "url": "https://waytoagi.feishu.cn/wiki/NhfOwiWdSiGd23kgTQccLIsinvw?from=from_copylink",
       "title_ja": "Vibe コーディング ビジュアル ディクショナリ (パート 2): スクロール アクション、プロンプト ローディング、ビジュアル スタイル、高度な効果",
       "summary_ja": "前回の記事では、Web ページのレイアウト、構造、ナビゲーション、コンポーネントについて明確に説明しました。この記事では、スクロール、パララックス、プログレスバー、遅延読み込み、スケルトン画面から空の状態、エラー再試行、ミニマリスト/雑誌スタイル/ガラス模倣/ダークモード、さらには 3D、トランジション、パフォーマンス、アクセシビリティまで、「Web ページがどのように動くか、フィードバックを与える方法、より完全に見えるようにする方法」を引き続き説明します。これを読むと、「Web ページをより高度なものにする」ことを、具体的で実行可能で AI が理解できる設計要件に分解する方法がよくわかります。"
+    },
+    {
+      "date": "2026-08-05",
+      "title": "Higgsfield 开源了他们95分钟的AI长片《 Hell Grind》所有提示词及相关资料",
+      "summary": "这部作品制作成本为50万美元，曾在戛纳电影市场展映，并获得《华尔街日报》、Variety及BBC新闻的报道。一起来看看他们的制作流程！",
+      "url": "https://waytoagi.feishu.cn/wiki/OQfOwfLWOiiglCk080QchgpCnGC?from=from_copylink",
+      "title_ja": "ヒッグスフィールドは、95 分の AI 長編映画「Hell Grind」のすべてのプロンプト ワードと関連情報をオープンソース化しました。",
+      "summary_ja": "製作費50万ドルのこの作品はカンヌ・フィルム・マーケットで上映され、ウォール・ストリート・ジャーナル、バラエティ、BBCニュースの取材を受けた。では、その制作過程を覗いてみましょう！"
     },
     {
       "date": "2026-08-04",
