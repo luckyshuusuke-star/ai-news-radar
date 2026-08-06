@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T00:09:17.699939Z",
+  "generated_at": "2026-08-06T03:33:40.788592Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -152,16 +152,16 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8561,
-      "importance": 0.8561,
-      "importance_score": 0.8561,
+      "score": 0.8478,
+      "importance": 0.8478,
+      "importance_score": 0.8478,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9581,
+        "recency": 0.9121,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -190,7 +190,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-06T00:10:11.564655Z"
+        "scored_at": "2026-08-06T03:35:16.532808Z"
       }
     },
     {
@@ -375,16 +375,16 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8455,
-      "importance": 0.8455,
-      "importance_score": 0.8455,
+      "score": 0.8378,
+      "importance": 0.8378,
+      "importance_score": 0.8378,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.894,
+        "recency": 0.8511,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -413,7 +413,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-06T00:10:11.564655Z"
+        "scored_at": "2026-08-06T03:35:16.532808Z"
       }
     },
     {
@@ -532,16 +532,16 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7968,
-      "importance": 0.7968,
-      "importance_score": 0.7968,
+      "score": 0.7895,
+      "importance": 0.7895,
+      "importance_score": 0.7895,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8512,
+        "recency": 0.8104,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -570,7 +570,97 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-06T00:10:11.564655Z"
+        "scored_at": "2026-08-06T03:35:16.532808Z"
+      }
+    },
+    {
+      "story_id": "story_365bb32d4726",
+      "title": "OpenAI 开源 Codex Security：Vibe Coding 产品必备的安全扫描插件",
+      "title_ja": "OpenAI オープン ソース Codex Security: Vibe コーディング製品に必須のセキュリティ スキャン プラグイン",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684990&idx=1&sn=86a6d71b133589916b49a9d57046c127",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684990&idx=1&sn=86a6d71b133589916b49a9d57046c127",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d2e64c07e89b4d5a04a3101508e075bf9a91c098",
+          "title": "OpenAI 开源 Codex Security：Vibe Coding 产品必备的安全扫描插件",
+          "title_zh": "OpenAI 开源 Codex Security：Vibe Coding 产品必备的安全扫描插件",
+          "title_ja": "OpenAI オープン ソース Codex Security: Vibe コーディング製品に必須のセキュリティ スキャン プラグイン",
+          "title_en": null,
+          "title_original": "OpenAI 开源 Codex Security：Vibe Coding 产品必备的安全扫描插件",
+          "summary": "OpenAI 将安全插件 Codex Security 开源，外部 Agent 均可调用，并已支持通过 OpenRouter 和 Fireworks 接入第三方模型。",
+          "summary_ja": "OpenAI は、外部エージェントから呼び出すことができるセキュリティ プラグイン Codex Security をオープンソース化し、OpenRouter および Fireworks を介したサードパーティ モデルへのアクセスをサポートしました。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684990&idx=1&sn=86a6d71b133589916b49a9d57046c127",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-06T01:15:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：数字生命卡兹克"
+      ],
+      "items": [
+        {
+          "id": "d2e64c07e89b4d5a04a3101508e075bf9a91c098",
+          "title": "OpenAI 开源 Codex Security：Vibe Coding 产品必备的安全扫描插件",
+          "title_zh": "OpenAI 开源 Codex Security：Vibe Coding 产品必备的安全扫描插件",
+          "title_ja": "OpenAI オープン ソース Codex Security: Vibe コーディング製品に必須のセキュリティ スキャン プラグイン",
+          "title_en": null,
+          "title_original": "OpenAI 开源 Codex Security：Vibe Coding 产品必备的安全扫描插件",
+          "summary": "OpenAI 将安全插件 Codex Security 开源，外部 Agent 均可调用，并已支持通过 OpenRouter 和 Fireworks 接入第三方模型。",
+          "summary_ja": "OpenAI は、外部エージェントから呼び出すことができるセキュリティ プラグイン Codex Security をオープンソース化し、OpenRouter および Fireworks を介したサードパーティ モデルへのアクセスをサポートしました。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684990&idx=1&sn=86a6d71b133589916b49a9d57046c127",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-06T01:15:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7857,
+      "importance": 0.7857,
+      "importance_score": 0.7857,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.8,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9673,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-06T01:15:29Z",
+      "latest_at": "2026-08-06T01:15:29Z",
+      "primary_item": {
+        "id": "d2e64c07e89b4d5a04a3101508e075bf9a91c098",
+        "title": "OpenAI 开源 Codex Security：Vibe Coding 产品必备的安全扫描插件",
+        "title_zh": "OpenAI 开源 Codex Security：Vibe Coding 产品必备的安全扫描插件",
+        "title_ja": "OpenAI オープン ソース Codex Security: Vibe コーディング製品に必須のセキュリティ スキャン プラグイン",
+        "title_en": null,
+        "title_original": "OpenAI 开源 Codex Security：Vibe Coding 产品必备的安全扫描插件",
+        "summary": "OpenAI 将安全插件 Codex Security 开源，外部 Agent 均可调用，并已支持通过 OpenRouter 和 Fireworks 接入第三方模型。",
+        "summary_ja": "OpenAI は、外部エージェントから呼び出すことができるセキュリティ プラグイン Codex Security をオープンソース化し、OpenRouter および Fireworks を介したサードパーティ モデルへのアクセスをサポートしました。",
+        "recommend_reason_zh": null,
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684990&idx=1&sn=86a6d71b133589916b49a9d57046c127",
+        "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-06T03:35:16.532808Z"
       }
     },
     {
@@ -656,16 +746,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7839,
-      "importance": 0.7839,
-      "importance_score": 0.7839,
+      "score": 0.7756,
+      "importance": 0.7756,
+      "importance_score": 0.7756,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9684,
+        "recency": 0.922,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -694,7 +784,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-06T00:10:11.564655Z"
+        "scored_at": "2026-08-06T03:35:16.532808Z"
       }
     },
     {
@@ -813,16 +903,16 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8371,
-      "importance": 0.8371,
-      "importance_score": 0.8371,
+      "score": 0.8288,
+      "importance": 0.8288,
+      "importance_score": 0.8288,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9581,
+        "recency": 0.9121,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -851,7 +941,97 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-06T00:10:11.564655Z"
+        "scored_at": "2026-08-06T03:35:16.532808Z"
+      }
+    },
+    {
+      "story_id": "story_7101c5859f87",
+      "title": "AI战场再起波澜:Meta首款编程智能体叫板OpenAI与Anthropic",
+      "title_ja": "AI の戦場が再び波紋を呼んでいる: Meta の最初のプログラミング エージェントが OpenAI と Anthropic に挑戦",
+      "url": "https://www.aibase.com/news/30139",
+      "primary_url": "https://www.aibase.com/news/30139",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "42e06eca17a801289d51634c76fa1f463c73eb1e",
+          "title": "AI战场再起波澜:Meta首款编程智能体叫板OpenAI与Anthropic",
+          "title_zh": "AI战场再起波澜:Meta首款编程智能体叫板OpenAI与Anthropic",
+          "title_ja": "AI の戦場が再び波紋を呼んでいる: Meta の最初のプログラミング エージェントが OpenAI と Anthropic に挑戦",
+          "title_en": null,
+          "title_original": "AI战场再起波澜:Meta首款编程智能体叫板OpenAI与Anthropic",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30139",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-06T03:33:40.788592Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "42e06eca17a801289d51634c76fa1f463c73eb1e",
+          "title": "AI战场再起波澜:Meta首款编程智能体叫板OpenAI与Anthropic",
+          "title_zh": "AI战场再起波澜:Meta首款编程智能体叫板OpenAI与Anthropic",
+          "title_ja": "AI の戦場が再び波紋を呼んでいる: Meta の最初のプログラミング エージェントが OpenAI と Anthropic に挑戦",
+          "title_en": null,
+          "title_original": "AI战场再起波澜:Meta首款编程智能体叫板OpenAI与Anthropic",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30139",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-06T03:33:40.788592Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-06T03:33:40.788592Z",
+      "latest_at": "2026-08-06T03:33:40.788592Z",
+      "primary_item": {
+        "id": "42e06eca17a801289d51634c76fa1f463c73eb1e",
+        "title": "AI战场再起波澜:Meta首款编程智能体叫板OpenAI与Anthropic",
+        "title_zh": "AI战场再起波澜:Meta首款编程智能体叫板OpenAI与Anthropic",
+        "title_ja": "AI の戦場が再び波紋を呼んでいる: Meta の最初のプログラミング エージェントが OpenAI と Anthropic に挑戦",
+        "title_en": null,
+        "title_original": "AI战场再起波澜:Meta首款编程智能体叫板OpenAI与Anthropic",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30139",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-06T03:35:16.532808Z"
       }
     },
     {
@@ -904,16 +1084,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.775,
-      "importance": 0.775,
-      "importance_score": 0.775,
+      "score": 0.7666,
+      "importance": 0.7666,
+      "importance_score": 0.7666,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9743,
+        "recency": 0.9276,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -941,7 +1121,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-06T00:10:11.564655Z"
+        "scored_at": "2026-08-06T03:35:16.532808Z"
       }
     },
     {
@@ -994,16 +1174,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.772,
-      "importance": 0.772,
-      "importance_score": 0.772,
+      "score": 0.7634,
+      "importance": 0.7634,
+      "importance_score": 0.7634,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9911,
+        "recency": 0.9435,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1031,7 +1211,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-06T00:10:11.564655Z"
+        "scored_at": "2026-08-06T03:35:16.532808Z"
       }
     },
     {
@@ -1084,16 +1264,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7696,
-      "importance": 0.7696,
-      "importance_score": 0.7696,
+      "score": 0.7618,
+      "importance": 0.7618,
+      "importance_score": 0.7618,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9114,
+        "recency": 0.8676,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1121,97 +1301,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-06T00:10:11.564655Z"
-      }
-    },
-    {
-      "story_id": "story_2d7cb4009c8c",
-      "title": "Google DeepMind 领导层大调整：Demis Hassabis 转任 Alphabet 首席科学家，Jeff Dean 离职创业 / Google Deepmind loses both its CEO and chief scientist as Demis Hassabis and Jeff Dean step down simultaneously",
-      "title_ja": "デミス・ハサビス氏とジェフ・ディーン氏が同時に辞任し、GoogleディープマインドはCEOと主任科学者の両方を失う",
-      "url": "https://the-decoder.com/google-deepmind-loses-both-its-ceo-and-chief-scientist-as-demis-hassabis-and-jeff-dean-step-down-simultaneously",
-      "primary_url": "https://the-decoder.com/google-deepmind-loses-both-its-ceo-and-chief-scientist-as-demis-hassabis-and-jeff-dean-step-down-simultaneously",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b37af09bb0b3497375efddc2fd57f44d17dda8f5",
-          "title": "Google DeepMind 领导层大调整：Demis Hassabis 转任 Alphabet 首席科学家，Jeff Dean 离职创业 / Google Deepmind loses both its CEO and chief scientist as Demis Hassabis and Jeff Dean step down simultaneously",
-          "title_zh": "Google DeepMind 领导层大调整：Demis Hassabis 转任 Alphabet 首席科学家，Jeff Dean 离职创业",
-          "title_ja": "デミス・ハサビス氏とジェフ・ディーン氏が同時に辞任し、GoogleディープマインドはCEOと主任科学者の両方を失う",
-          "title_en": "Google Deepmind loses both its CEO and chief scientist as Demis Hassabis and Jeff Dean step down simultaneously",
-          "title_original": "Google Deepmind loses both its CEO and chief scientist as Demis Hassabis and Jeff Dean step down simultaneously",
-          "summary": "Google DeepMind 迎来重大领导层调整，Demis Hassabis 卸任日常管理、出任 Alphabet 首席科学家，Jeff Dean 在任职 27 年后离职创办 Discovery Loop。",
-          "summary_ja": "Google DeepMind は、リーダーシップに大きな変化をもたらしました。デミス・ハサビス氏は日常の経営陣から退き、アルファベットの主任科学者に就任した。 Jeff Dean は 27 年間勤務した後、Discovery Loop を設立するために退職しました。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/google-deepmind-loses-both-its-ceo-and-chief-scientist-as-demis-hassabis-and-jeff-dean-step-down-simultaneously",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T17:26:53Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "b37af09bb0b3497375efddc2fd57f44d17dda8f5",
-          "title": "Google DeepMind 领导层大调整：Demis Hassabis 转任 Alphabet 首席科学家，Jeff Dean 离职创业 / Google Deepmind loses both its CEO and chief scientist as Demis Hassabis and Jeff Dean step down simultaneously",
-          "title_zh": "Google DeepMind 领导层大调整：Demis Hassabis 转任 Alphabet 首席科学家，Jeff Dean 离职创业",
-          "title_ja": "デミス・ハサビス氏とジェフ・ディーン氏が同時に辞任し、GoogleディープマインドはCEOと主任科学者の両方を失う",
-          "title_en": "Google Deepmind loses both its CEO and chief scientist as Demis Hassabis and Jeff Dean step down simultaneously",
-          "title_original": "Google Deepmind loses both its CEO and chief scientist as Demis Hassabis and Jeff Dean step down simultaneously",
-          "summary": "Google DeepMind 迎来重大领导层调整，Demis Hassabis 卸任日常管理、出任 Alphabet 首席科学家，Jeff Dean 在任职 27 年后离职创办 Discovery Loop。",
-          "summary_ja": "Google DeepMind は、リーダーシップに大きな変化をもたらしました。デミス・ハサビス氏は日常の経営陣から退き、アルファベットの主任科学者に就任した。 Jeff Dean は 27 年間勤務した後、Discovery Loop を設立するために退職しました。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/google-deepmind-loses-both-its-ceo-and-chief-scientist-as-demis-hassabis-and-jeff-dean-step-down-simultaneously",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T17:26:53Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.763,
-      "importance": 0.763,
-      "importance_score": 0.763,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9077,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-05T17:26:53Z",
-      "latest_at": "2026-08-05T17:26:53Z",
-      "primary_item": {
-        "id": "b37af09bb0b3497375efddc2fd57f44d17dda8f5",
-        "title": "Google DeepMind 领导层大调整：Demis Hassabis 转任 Alphabet 首席科学家，Jeff Dean 离职创业 / Google Deepmind loses both its CEO and chief scientist as Demis Hassabis and Jeff Dean step down simultaneously",
-        "title_zh": "Google DeepMind 领导层大调整：Demis Hassabis 转任 Alphabet 首席科学家，Jeff Dean 离职创业",
-        "title_ja": "デミス・ハサビス氏とジェフ・ディーン氏が同時に辞任し、GoogleディープマインドはCEOと主任科学者の両方を失う",
-        "title_en": "Google Deepmind loses both its CEO and chief scientist as Demis Hassabis and Jeff Dean step down simultaneously",
-        "title_original": "Google Deepmind loses both its CEO and chief scientist as Demis Hassabis and Jeff Dean step down simultaneously",
-        "summary": "Google DeepMind 迎来重大领导层调整，Demis Hassabis 卸任日常管理、出任 Alphabet 首席科学家，Jeff Dean 在任职 27 年后离职创办 Discovery Loop。",
-        "summary_ja": "Google DeepMind は、リーダーシップに大きな変化をもたらしました。デミス・ハサビス氏は日常の経営陣から退き、アルファベットの主任科学者に就任した。 Jeff Dean は 27 年間勤務した後、Discovery Loop を設立するために退職しました。",
-        "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/google-deepmind-loses-both-its-ceo-and-chief-scientist-as-demis-hassabis-and-jeff-dean-step-down-simultaneously",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-06T00:10:11.564655Z"
+        "scored_at": "2026-08-06T03:35:16.532808Z"
       }
     },
     {
@@ -1264,16 +1354,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7628,
-      "importance": 0.7628,
-      "importance_score": 0.7628,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.89,
+        "recency": 0.8473,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1301,69 +1391,69 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-06T00:10:11.564655Z"
+        "scored_at": "2026-08-06T03:35:16.532808Z"
       }
     },
     {
-      "story_id": "story_049173f25374",
-      "title": "SpaceX 宣布 AI 算力上太空，独家采用 Nvidia Vera Rubin",
-      "title_ja": "SpaceX、Nvidia Vera Rubin のみを使用した宇宙における AI コンピューティング能力を発表",
-      "url": "https://x.com/AYi_AInotes/status/2085010659150852220",
-      "primary_url": "https://x.com/AYi_AInotes/status/2085010659150852220",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "story_id": "story_2d7cb4009c8c",
+      "title": "Google DeepMind 领导层大调整：Demis Hassabis 转任 Alphabet 首席科学家，Jeff Dean 离职创业 / Google Deepmind loses both its CEO and chief scientist as Demis Hassabis and Jeff Dean step down simultaneously",
+      "title_ja": "デミス・ハサビス氏とジェフ・ディーン氏が同時に辞任し、GoogleディープマインドはCEOと主任科学者の両方を失う",
+      "url": "https://the-decoder.com/google-deepmind-loses-both-its-ceo-and-chief-scientist-as-demis-hassabis-and-jeff-dean-step-down-simultaneously",
+      "primary_url": "https://the-decoder.com/google-deepmind-loses-both-its-ceo-and-chief-scientist-as-demis-hassabis-and-jeff-dean-step-down-simultaneously",
+      "source": "The Decoder：AI News（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "b9acd21b716065d1839066cf70e1b763bdd4a786",
-          "title": "SpaceX 宣布 AI 算力上太空，独家采用 Nvidia Vera Rubin",
-          "title_zh": "SpaceX 宣布 AI 算力上太空，独家采用 Nvidia Vera Rubin",
-          "title_ja": "SpaceX、Nvidia Vera Rubin のみを使用した宇宙における AI コンピューティング能力を発表",
-          "title_en": null,
-          "title_original": "SpaceX 宣布 AI 算力上太空，独家采用 Nvidia Vera Rubin",
-          "summary": "SpaceX 在财报电话会上宣布，未来所有 AI 算力（地面及轨道）将独家采用 Nvidia Vera Rubin 架构，2026 年底总算力超 2GW，2027 年底接近 10GW。同步公布 Starmind 计划，2027 年起发射搭载 Rubin GPU 与 Vera CPU 的轨道 AI 卫星星座，明年开始发射，算力经星链激光链路回传。消息公布后 AMD 股价跌 8%。",
-          "summary_ja": "SpaceX は決算会見で、将来のすべての AI コンピューティング能力 (地上および軌道) は Nvidia Vera Rubin アーキテクチャのみを使用すると発表しました。総コンピューティング能力は、2026 年末までに 2GW を超え、2027 年末までに 10GW 近くになる予定です。Starmind 計画は、2027 年に Rubin GPU と Vera CPU を搭載した軌道上 AI 衛星群を打ち上げるという計画も同時に発表されました。打ち上げは来年開始され、コンピューティング能力は Starlink レーザー リンクを通じて送信されます。このニュースの発表後、AMD株は8％下落した。",
+          "id": "b37af09bb0b3497375efddc2fd57f44d17dda8f5",
+          "title": "Google DeepMind 领导层大调整：Demis Hassabis 转任 Alphabet 首席科学家，Jeff Dean 离职创业 / Google Deepmind loses both its CEO and chief scientist as Demis Hassabis and Jeff Dean step down simultaneously",
+          "title_zh": "Google DeepMind 领导层大调整：Demis Hassabis 转任 Alphabet 首席科学家，Jeff Dean 离职创业",
+          "title_ja": "デミス・ハサビス氏とジェフ・ディーン氏が同時に辞任し、GoogleディープマインドはCEOと主任科学者の両方を失う",
+          "title_en": "Google Deepmind loses both its CEO and chief scientist as Demis Hassabis and Jeff Dean step down simultaneously",
+          "title_original": "Google Deepmind loses both its CEO and chief scientist as Demis Hassabis and Jeff Dean step down simultaneously",
+          "summary": "Google DeepMind 迎来重大领导层调整，Demis Hassabis 卸任日常管理、出任 Alphabet 首席科学家，Jeff Dean 在任职 27 年后离职创办 Discovery Loop。",
+          "summary_ja": "Google DeepMind は、リーダーシップに大きな変化をもたらしました。デミス・ハサビス氏は日常の経営陣から退き、アルファベットの主任科学者に就任した。 Jeff Dean は 27 年間勤務した後、Discovery Loop を設立するために退職しました。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/AYi_AInotes/status/2085010659150852220",
-          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "url": "https://the-decoder.com/google-deepmind-loses-both-its-ceo-and-chief-scientist-as-demis-hassabis-and-jeff-dean-step-down-simultaneously",
+          "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-05T14:30:53Z"
+          "published_at": "2026-08-05T17:26:53Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：阿易 AI Notes (@AYi_AInotes)"
+        "The Decoder：AI News（RSS）"
       ],
       "items": [
         {
-          "id": "b9acd21b716065d1839066cf70e1b763bdd4a786",
-          "title": "SpaceX 宣布 AI 算力上太空，独家采用 Nvidia Vera Rubin",
-          "title_zh": "SpaceX 宣布 AI 算力上太空，独家采用 Nvidia Vera Rubin",
-          "title_ja": "SpaceX、Nvidia Vera Rubin のみを使用した宇宙における AI コンピューティング能力を発表",
-          "title_en": null,
-          "title_original": "SpaceX 宣布 AI 算力上太空，独家采用 Nvidia Vera Rubin",
-          "summary": "SpaceX 在财报电话会上宣布，未来所有 AI 算力（地面及轨道）将独家采用 Nvidia Vera Rubin 架构，2026 年底总算力超 2GW，2027 年底接近 10GW。同步公布 Starmind 计划，2027 年起发射搭载 Rubin GPU 与 Vera CPU 的轨道 AI 卫星星座，明年开始发射，算力经星链激光链路回传。消息公布后 AMD 股价跌 8%。",
-          "summary_ja": "SpaceX は決算会見で、将来のすべての AI コンピューティング能力 (地上および軌道) は Nvidia Vera Rubin アーキテクチャのみを使用すると発表しました。総コンピューティング能力は、2026 年末までに 2GW を超え、2027 年末までに 10GW 近くになる予定です。Starmind 計画は、2027 年に Rubin GPU と Vera CPU を搭載した軌道上 AI 衛星群を打ち上げるという計画も同時に発表されました。打ち上げは来年開始され、コンピューティング能力は Starlink レーザー リンクを通じて送信されます。このニュースの発表後、AMD株は8％下落した。",
+          "id": "b37af09bb0b3497375efddc2fd57f44d17dda8f5",
+          "title": "Google DeepMind 领导层大调整：Demis Hassabis 转任 Alphabet 首席科学家，Jeff Dean 离职创业 / Google Deepmind loses both its CEO and chief scientist as Demis Hassabis and Jeff Dean step down simultaneously",
+          "title_zh": "Google DeepMind 领导层大调整：Demis Hassabis 转任 Alphabet 首席科学家，Jeff Dean 离职创业",
+          "title_ja": "デミス・ハサビス氏とジェフ・ディーン氏が同時に辞任し、GoogleディープマインドはCEOと主任科学者の両方を失う",
+          "title_en": "Google Deepmind loses both its CEO and chief scientist as Demis Hassabis and Jeff Dean step down simultaneously",
+          "title_original": "Google Deepmind loses both its CEO and chief scientist as Demis Hassabis and Jeff Dean step down simultaneously",
+          "summary": "Google DeepMind 迎来重大领导层调整，Demis Hassabis 卸任日常管理、出任 Alphabet 首席科学家，Jeff Dean 在任职 27 年后离职创办 Discovery Loop。",
+          "summary_ja": "Google DeepMind は、リーダーシップに大きな変化をもたらしました。デミス・ハサビス氏は日常の経営陣から退き、アルファベットの主任科学者に就任した。 Jeff Dean は 27 年間勤務した後、Discovery Loop を設立するために退職しました。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/AYi_AInotes/status/2085010659150852220",
-          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "url": "https://the-decoder.com/google-deepmind-loses-both-its-ceo-and-chief-scientist-as-demis-hassabis-and-jeff-dean-step-down-simultaneously",
+          "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-05T14:30:53Z"
+          "published_at": "2026-08-05T17:26:53Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7532,
-      "importance": 0.7532,
-      "importance_score": 0.7532,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
-        "editorial": 0.75,
+        "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.87,
+        "recency": 0.8641,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1371,27 +1461,27 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-05T14:30:53Z",
-      "latest_at": "2026-08-05T14:30:53Z",
+      "earliest_at": "2026-08-05T17:26:53Z",
+      "latest_at": "2026-08-05T17:26:53Z",
       "primary_item": {
-        "id": "b9acd21b716065d1839066cf70e1b763bdd4a786",
-        "title": "SpaceX 宣布 AI 算力上太空，独家采用 Nvidia Vera Rubin",
-        "title_zh": "SpaceX 宣布 AI 算力上太空，独家采用 Nvidia Vera Rubin",
-        "title_ja": "SpaceX、Nvidia Vera Rubin のみを使用した宇宙における AI コンピューティング能力を発表",
-        "title_en": null,
-        "title_original": "SpaceX 宣布 AI 算力上太空，独家采用 Nvidia Vera Rubin",
-        "summary": "SpaceX 在财报电话会上宣布，未来所有 AI 算力（地面及轨道）将独家采用 Nvidia Vera Rubin 架构，2026 年底总算力超 2GW，2027 年底接近 10GW。同步公布 Starmind 计划，2027 年起发射搭载 Rubin GPU 与 Vera CPU 的轨道 AI 卫星星座，明年开始发射，算力经星链激光链路回传。消息公布后 AMD 股价跌 8%。",
-        "summary_ja": "SpaceX は決算会見で、将来のすべての AI コンピューティング能力 (地上および軌道) は Nvidia Vera Rubin アーキテクチャのみを使用すると発表しました。総コンピューティング能力は、2026 年末までに 2GW を超え、2027 年末までに 10GW 近くになる予定です。Starmind 計画は、2027 年に Rubin GPU と Vera CPU を搭載した軌道上 AI 衛星群を打ち上げるという計画も同時に発表されました。打ち上げは来年開始され、コンピューティング能力は Starlink レーザー リンクを通じて送信されます。このニュースの発表後、AMD株は8％下落した。",
+        "id": "b37af09bb0b3497375efddc2fd57f44d17dda8f5",
+        "title": "Google DeepMind 领导层大调整：Demis Hassabis 转任 Alphabet 首席科学家，Jeff Dean 离职创业 / Google Deepmind loses both its CEO and chief scientist as Demis Hassabis and Jeff Dean step down simultaneously",
+        "title_zh": "Google DeepMind 领导层大调整：Demis Hassabis 转任 Alphabet 首席科学家，Jeff Dean 离职创业",
+        "title_ja": "デミス・ハサビス氏とジェフ・ディーン氏が同時に辞任し、GoogleディープマインドはCEOと主任科学者の両方を失う",
+        "title_en": "Google Deepmind loses both its CEO and chief scientist as Demis Hassabis and Jeff Dean step down simultaneously",
+        "title_original": "Google Deepmind loses both its CEO and chief scientist as Demis Hassabis and Jeff Dean step down simultaneously",
+        "summary": "Google DeepMind 迎来重大领导层调整，Demis Hassabis 卸任日常管理、出任 Alphabet 首席科学家，Jeff Dean 在任职 27 年后离职创办 Discovery Loop。",
+        "summary_ja": "Google DeepMind は、リーダーシップに大きな変化をもたらしました。デミス・ハサビス氏は日常の経営陣から退き、アルファベットの主任科学者に就任した。 Jeff Dean は 27 年間勤務した後、Discovery Loop を設立するために退職しました。",
         "recommend_reason_zh": null,
-        "url": "https://x.com/AYi_AInotes/status/2085010659150852220",
-        "source": "X：阿易 AI Notes (@AYi_AInotes)",
+        "url": "https://the-decoder.com/google-deepmind-loses-both-its-ceo-and-chief-scientist-as-demis-hassabis-and-jeff-dean-step-down-simultaneously",
+        "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-06T00:10:11.564655Z"
+        "scored_at": "2026-08-06T03:35:16.532808Z"
       }
     },
     {
@@ -1444,22 +1534,21 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7528,
-      "importance": 0.7528,
-      "importance_score": 0.7528,
+      "score": 0.7457,
+      "importance": 0.7457,
+      "importance_score": 0.7457,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8177,
+        "recency": 0.7784,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-05T10:12:57Z",
       "latest_at": "2026-08-05T10:12:57Z",
@@ -1481,7 +1570,96 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-06T00:10:11.564655Z"
+        "scored_at": "2026-08-06T03:35:16.532808Z"
+      }
+    },
+    {
+      "story_id": "story_049173f25374",
+      "title": "SpaceX 宣布 AI 算力上太空，独家采用 Nvidia Vera Rubin",
+      "title_ja": "SpaceX、Nvidia Vera Rubin のみを使用した宇宙における AI コンピューティング能力を発表",
+      "url": "https://x.com/AYi_AInotes/status/2085010659150852220",
+      "primary_url": "https://x.com/AYi_AInotes/status/2085010659150852220",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b9acd21b716065d1839066cf70e1b763bdd4a786",
+          "title": "SpaceX 宣布 AI 算力上太空，独家采用 Nvidia Vera Rubin",
+          "title_zh": "SpaceX 宣布 AI 算力上太空，独家采用 Nvidia Vera Rubin",
+          "title_ja": "SpaceX、Nvidia Vera Rubin のみを使用した宇宙における AI コンピューティング能力を発表",
+          "title_en": null,
+          "title_original": "SpaceX 宣布 AI 算力上太空，独家采用 Nvidia Vera Rubin",
+          "summary": "SpaceX 在财报电话会上宣布，未来所有 AI 算力（地面及轨道）将独家采用 Nvidia Vera Rubin 架构，2026 年底总算力超 2GW，2027 年底接近 10GW。同步公布 Starmind 计划，2027 年起发射搭载 Rubin GPU 与 Vera CPU 的轨道 AI 卫星星座，明年开始发射，算力经星链激光链路回传。消息公布后 AMD 股价跌 8%。",
+          "summary_ja": "SpaceX は決算会見で、将来のすべての AI コンピューティング能力 (地上および軌道) は Nvidia Vera Rubin アーキテクチャのみを使用すると発表しました。総コンピューティング能力は、2026 年末までに 2GW を超え、2027 年末までに 10GW 近くになる予定です。Starmind 計画は、2027 年に Rubin GPU と Vera CPU を搭載した軌道上 AI 衛星群を打ち上げるという計画も同時に発表されました。打ち上げは来年開始され、コンピューティング能力は Starlink レーザー リンクを通じて送信されます。このニュースの発表後、AMD株は8％下落した。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/AYi_AInotes/status/2085010659150852220",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T14:30:53Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：阿易 AI Notes (@AYi_AInotes)"
+      ],
+      "items": [
+        {
+          "id": "b9acd21b716065d1839066cf70e1b763bdd4a786",
+          "title": "SpaceX 宣布 AI 算力上太空，独家采用 Nvidia Vera Rubin",
+          "title_zh": "SpaceX 宣布 AI 算力上太空，独家采用 Nvidia Vera Rubin",
+          "title_ja": "SpaceX、Nvidia Vera Rubin のみを使用した宇宙における AI コンピューティング能力を発表",
+          "title_en": null,
+          "title_original": "SpaceX 宣布 AI 算力上太空，独家采用 Nvidia Vera Rubin",
+          "summary": "SpaceX 在财报电话会上宣布，未来所有 AI 算力（地面及轨道）将独家采用 Nvidia Vera Rubin 架构，2026 年底总算力超 2GW，2027 年底接近 10GW。同步公布 Starmind 计划，2027 年起发射搭载 Rubin GPU 与 Vera CPU 的轨道 AI 卫星星座，明年开始发射，算力经星链激光链路回传。消息公布后 AMD 股价跌 8%。",
+          "summary_ja": "SpaceX は決算会見で、将来のすべての AI コンピューティング能力 (地上および軌道) は Nvidia Vera Rubin アーキテクチャのみを使用すると発表しました。総コンピューティング能力は、2026 年末までに 2GW を超え、2027 年末までに 10GW 近くになる予定です。Starmind 計画は、2027 年に Rubin GPU と Vera CPU を搭載した軌道上 AI 衛星群を打ち上げるという計画も同時に発表されました。打ち上げは来年開始され、コンピューティング能力は Starlink レーザー リンクを通じて送信されます。このニュースの発表後、AMD株は8％下落した。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/AYi_AInotes/status/2085010659150852220",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T14:30:53Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7457,
+      "importance": 0.7457,
+      "importance_score": 0.7457,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8283,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-05T14:30:53Z",
+      "latest_at": "2026-08-05T14:30:53Z",
+      "primary_item": {
+        "id": "b9acd21b716065d1839066cf70e1b763bdd4a786",
+        "title": "SpaceX 宣布 AI 算力上太空，独家采用 Nvidia Vera Rubin",
+        "title_zh": "SpaceX 宣布 AI 算力上太空，独家采用 Nvidia Vera Rubin",
+        "title_ja": "SpaceX、Nvidia Vera Rubin のみを使用した宇宙における AI コンピューティング能力を発表",
+        "title_en": null,
+        "title_original": "SpaceX 宣布 AI 算力上太空，独家采用 Nvidia Vera Rubin",
+        "summary": "SpaceX 在财报电话会上宣布，未来所有 AI 算力（地面及轨道）将独家采用 Nvidia Vera Rubin 架构，2026 年底总算力超 2GW，2027 年底接近 10GW。同步公布 Starmind 计划，2027 年起发射搭载 Rubin GPU 与 Vera CPU 的轨道 AI 卫星星座，明年开始发射，算力经星链激光链路回传。消息公布后 AMD 股价跌 8%。",
+        "summary_ja": "SpaceX は決算会見で、将来のすべての AI コンピューティング能力 (地上および軌道) は Nvidia Vera Rubin アーキテクチャのみを使用すると発表しました。総コンピューティング能力は、2026 年末までに 2GW を超え、2027 年末までに 10GW 近くになる予定です。Starmind 計画は、2027 年に Rubin GPU と Vera CPU を搭載した軌道上 AI 衛星群を打ち上げるという計画も同時に発表されました。打ち上げは来年開始され、コンピューティング能力は Starlink レーザー リンクを通じて送信されます。このニュースの発表後、AMD株は8％下落した。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/AYi_AInotes/status/2085010659150852220",
+        "source": "X：阿易 AI Notes (@AYi_AInotes)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-06T03:35:16.532808Z"
       }
     },
     {
@@ -1567,16 +1745,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.777,
-      "importance": 0.777,
-      "importance_score": 0.777,
+      "score": 0.7701,
+      "importance": 0.7701,
+      "importance_score": 0.7701,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7967,
+        "recency": 0.7585,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1605,7 +1783,97 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-06T00:10:11.564655Z"
+        "scored_at": "2026-08-06T03:35:16.532808Z"
+      }
+    },
+    {
+      "story_id": "story_7445223c019d",
+      "title": "AI搜索成电商增长新引擎：Shopify称其正驱动更多流量与销售，并未取代传统谷歌",
+      "title_ja": "AI検索はeコマース成長の新たなエンジンとなっている：Shopifyはトラフィックと売上を増加させており、従来のGoogleに取って代わるものではないと述べた",
+      "url": "https://www.aibase.com/news/30157",
+      "primary_url": "https://www.aibase.com/news/30157",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "216972c7cf113983402fed0bd9192893ea360faf",
+          "title": "AI搜索成电商增长新引擎：Shopify称其正驱动更多流量与销售，并未取代传统谷歌",
+          "title_zh": "AI搜索成电商增长新引擎：Shopify称其正驱动更多流量与销售，并未取代传统谷歌",
+          "title_ja": "AI検索はeコマース成長の新たなエンジンとなっている：Shopifyはトラフィックと売上を増加させており、従来のGoogleに取って代わるものではないと述べた",
+          "title_en": null,
+          "title_original": "AI搜索成电商增长新引擎：Shopify称其正驱动更多流量与销售，并未取代传统谷歌",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30157",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-06T03:33:40.788592Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "216972c7cf113983402fed0bd9192893ea360faf",
+          "title": "AI搜索成电商增长新引擎：Shopify称其正驱动更多流量与销售，并未取代传统谷歌",
+          "title_zh": "AI搜索成电商增长新引擎：Shopify称其正驱动更多流量与销售，并未取代传统谷歌",
+          "title_ja": "AI検索はeコマース成長の新たなエンジンとなっている：Shopifyはトラフィックと売上を増加させており、従来のGoogleに取って代わるものではないと述べた",
+          "title_en": null,
+          "title_original": "AI搜索成电商增长新引擎：Shopify称其正驱动更多流量与销售，并未取代传统谷歌",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30157",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-06T03:33:40.788592Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-06T03:33:40.788592Z",
+      "latest_at": "2026-08-06T03:33:40.788592Z",
+      "primary_item": {
+        "id": "216972c7cf113983402fed0bd9192893ea360faf",
+        "title": "AI搜索成电商增长新引擎：Shopify称其正驱动更多流量与销售，并未取代传统谷歌",
+        "title_zh": "AI搜索成电商增长新引擎：Shopify称其正驱动更多流量与销售，并未取代传统谷歌",
+        "title_ja": "AI検索はeコマース成長の新たなエンジンとなっている：Shopifyはトラフィックと売上を増加させており、従来のGoogleに取って代わるものではないと述べた",
+        "title_en": null,
+        "title_original": "AI搜索成电商增长新引擎：Shopify称其正驱动更多流量与销售，并未取代传统谷歌",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30157",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-06T03:35:16.532808Z"
       }
     },
     {
@@ -1658,16 +1926,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7366,
-      "importance": 0.7366,
-      "importance_score": 0.7366,
+      "score": 0.7292,
+      "importance": 0.7292,
+      "importance_score": 0.7292,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8614,
+        "recency": 0.82,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1694,96 +1962,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-06T00:10:11.564655Z"
-      }
-    },
-    {
-      "story_id": "story_788cae258ab4",
-      "title": "Mistral 推出 Shieldstral：3B 小模型单卡 16GB 跑起多模态审核，号称拿下开源 SOTA",
-      "title_ja": "Mistral が Shieldstral を発表: 3B 小型モデルのシングル カード 16GB はマルチモーダル監査を実行し、オープンソース SOTA を獲得すると主張",
-      "url": "https://www.aibase.com/news/30132",
-      "primary_url": "https://www.aibase.com/news/30132",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "d863f5b2ef0f856624b1ce3cea30354a0a6dc2f7",
-          "title": "Mistral 推出 Shieldstral：3B 小模型单卡 16GB 跑起多模态审核，号称拿下开源 SOTA",
-          "title_zh": "Mistral 推出 Shieldstral：3B 小模型单卡 16GB 跑起多模态审核，号称拿下开源 SOTA",
-          "title_ja": "Mistral が Shieldstral を発表: 3B 小型モデルのシングル カード 16GB はマルチモーダル監査を実行し、オープンソース SOTA を獲得すると主張",
-          "title_en": null,
-          "title_original": "Mistral 推出 Shieldstral：3B 小模型单卡 16GB 跑起多模态审核，号称拿下开源 SOTA",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30132",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-05T09:47:33.469937Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "d863f5b2ef0f856624b1ce3cea30354a0a6dc2f7",
-          "title": "Mistral 推出 Shieldstral：3B 小模型单卡 16GB 跑起多模态审核，号称拿下开源 SOTA",
-          "title_zh": "Mistral 推出 Shieldstral：3B 小模型单卡 16GB 跑起多模态审核，号称拿下开源 SOTA",
-          "title_ja": "Mistral が Shieldstral を発表: 3B 小型モデルのシングル カード 16GB はマルチモーダル監査を実行し、オープンソース SOTA を獲得すると主張",
-          "title_en": null,
-          "title_original": "Mistral 推出 Shieldstral：3B 小模型单卡 16GB 跑起多模态审核，号称拿下开源 SOTA",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30132",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-05T09:47:33.469937Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7339,
-      "importance": 0.7339,
-      "importance_score": 0.7339,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8127,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-05T09:47:33.469937Z",
-      "latest_at": "2026-08-05T09:47:33.469937Z",
-      "primary_item": {
-        "id": "d863f5b2ef0f856624b1ce3cea30354a0a6dc2f7",
-        "title": "Mistral 推出 Shieldstral：3B 小模型单卡 16GB 跑起多模态审核，号称拿下开源 SOTA",
-        "title_zh": "Mistral 推出 Shieldstral：3B 小模型单卡 16GB 跑起多模态审核，号称拿下开源 SOTA",
-        "title_ja": "Mistral が Shieldstral を発表: 3B 小型モデルのシングル カード 16GB はマルチモーダル監査を実行し、オープンソース SOTA を獲得すると主張",
-        "title_en": null,
-        "title_original": "Mistral 推出 Shieldstral：3B 小模型单卡 16GB 跑起多模态审核，号称拿下开源 SOTA",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30132",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-06T00:10:11.564655Z"
+        "scored_at": "2026-08-06T03:35:16.532808Z"
       }
     },
     {
@@ -1836,16 +2015,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7336,
-      "importance": 0.7336,
-      "importance_score": 0.7336,
+      "score": 0.7269,
+      "importance": 0.7269,
+      "importance_score": 0.7269,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7779,
+        "recency": 0.7406,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1872,96 +2051,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-06T00:10:11.564655Z"
-      }
-    },
-    {
-      "story_id": "story_3739c8d6bfe4",
-      "title": "开源「活人感写作.skill」：一个帮你写出没有AI味的文字的通用写作技能",
-      "title_ja": "オープンソースの「Human Writing.skill」: AI の風味を使わずに言葉を書くのに役立つ一般的なライティング スキル",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684946&idx=1&sn=ae7edcc572b998dc4e1ac3591977aa85",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684946&idx=1&sn=ae7edcc572b998dc4e1ac3591977aa85",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "aaf57dd20e5fea65099cec92429bf3759b4b25d2",
-          "title": "开源「活人感写作.skill」：一个帮你写出没有AI味的文字的通用写作技能",
-          "title_zh": "开源「活人感写作.skill」：一个帮你写出没有AI味的文字的通用写作技能",
-          "title_ja": "オープンソースの「Human Writing.skill」: AI の風味を使わずに言葉を書くのに役立つ一般的なライティング スキル",
-          "title_en": null,
-          "title_original": "开源「活人感写作.skill」：一个帮你写出没有AI味的文字的通用写作技能",
-          "summary": "数字生命卡兹克开源「活人感写作.skill」（英文名 human Writing.skill），旨在去除AI味、帮用户写出有真实生活感的文字。该Skill鼓励用户提供真实案例与情感，并针对辞章端禁用AI常用口癖和黑话，同时适配Qwen 3.8 Max、DeepSeek V4 Pro、Kimi K3等模型，可直接用于WorkBuddy、千问办公等产品。",
-          "summary_ja": "Digital Life Kazikのオープンソース「Human Writing.skill」（英語名：human Writing.skill）は、AI臭さを取り除き、ユーザーが現実の生活感のある文章を書けるようにすることを目的としています。このスキルは、ユーザーに実際の事例や感情を提供するよう促し、音声側でよく使用される AI のイディオムやスラングを無効にします。また、Qwen 3.8 Max、DeepSeek V4 Pro、Kim K3 などのモデルにも適用されており、WorkBuddy、Qianwen Office などの製品で直接使用できます。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684946&idx=1&sn=ae7edcc572b998dc4e1ac3591977aa85",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T01:35:42Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "aaf57dd20e5fea65099cec92429bf3759b4b25d2",
-          "title": "开源「活人感写作.skill」：一个帮你写出没有AI味的文字的通用写作技能",
-          "title_zh": "开源「活人感写作.skill」：一个帮你写出没有AI味的文字的通用写作技能",
-          "title_ja": "オープンソースの「Human Writing.skill」: AI の風味を使わずに言葉を書くのに役立つ一般的なライティング スキル",
-          "title_en": null,
-          "title_original": "开源「活人感写作.skill」：一个帮你写出没有AI味的文字的通用写作技能",
-          "summary": "数字生命卡兹克开源「活人感写作.skill」（英文名 human Writing.skill），旨在去除AI味、帮用户写出有真实生活感的文字。该Skill鼓励用户提供真实案例与情感，并针对辞章端禁用AI常用口癖和黑话，同时适配Qwen 3.8 Max、DeepSeek V4 Pro、Kimi K3等模型，可直接用于WorkBuddy、千问办公等产品。",
-          "summary_ja": "Digital Life Kazikのオープンソース「Human Writing.skill」（英語名：human Writing.skill）は、AI臭さを取り除き、ユーザーが現実の生活感のある文章を書けるようにすることを目的としています。このスキルは、ユーザーに実際の事例や感情を提供するよう促し、音声側でよく使用される AI のイディオムやスラングを無効にします。また、Qwen 3.8 Max、DeepSeek V4 Pro、Kim K3 などのモデルにも適用されており、WorkBuddy、Qianwen Office などの製品で直接使用できます。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684946&idx=1&sn=ae7edcc572b998dc4e1ac3591977aa85",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T01:35:42Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7296,
-      "importance": 0.7296,
-      "importance_score": 0.7296,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.722,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-05T01:35:42Z",
-      "latest_at": "2026-08-05T01:35:42Z",
-      "primary_item": {
-        "id": "aaf57dd20e5fea65099cec92429bf3759b4b25d2",
-        "title": "开源「活人感写作.skill」：一个帮你写出没有AI味的文字的通用写作技能",
-        "title_zh": "开源「活人感写作.skill」：一个帮你写出没有AI味的文字的通用写作技能",
-        "title_ja": "オープンソースの「Human Writing.skill」: AI の風味を使わずに言葉を書くのに役立つ一般的なライティング スキル",
-        "title_en": null,
-        "title_original": "开源「活人感写作.skill」：一个帮你写出没有AI味的文字的通用写作技能",
-        "summary": "数字生命卡兹克开源「活人感写作.skill」（英文名 human Writing.skill），旨在去除AI味、帮用户写出有真实生活感的文字。该Skill鼓励用户提供真实案例与情感，并针对辞章端禁用AI常用口癖和黑话，同时适配Qwen 3.8 Max、DeepSeek V4 Pro、Kimi K3等模型，可直接用于WorkBuddy、千问办公等产品。",
-        "summary_ja": "Digital Life Kazikのオープンソース「Human Writing.skill」（英語名：human Writing.skill）は、AI臭さを取り除き、ユーザーが現実の生活感のある文章を書けるようにすることを目的としています。このスキルは、ユーザーに実際の事例や感情を提供するよう促し、音声側でよく使用される AI のイディオムやスラングを無効にします。また、Qwen 3.8 Max、DeepSeek V4 Pro、Kim K3 などのモデルにも適用されており、WorkBuddy、Qianwen Office などの製品で直接使用できます。",
-        "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684946&idx=1&sn=ae7edcc572b998dc4e1ac3591977aa85",
-        "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-06T00:10:11.564655Z"
+        "scored_at": "2026-08-06T03:35:16.532808Z"
       }
     },
     {
@@ -2014,22 +2104,21 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7504,
-      "importance": 0.7504,
-      "importance_score": 0.7504,
+      "score": 0.7423,
+      "importance": 0.7423,
+      "importance_score": 0.7423,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9378,
+        "recency": 0.8928,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-05T19:42:38Z",
       "latest_at": "2026-08-05T19:42:38Z",
@@ -2051,185 +2140,97 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-06T00:10:11.564655Z"
+        "scored_at": "2026-08-06T03:35:16.532808Z"
       }
     },
     {
-      "story_id": "story_e2cae4e7f2b3",
-      "title": "美国上诉法院推翻禁令，Perplexity AI 购物智能体重返 Amazon / US appeals court allows Perplexity's AI shopping agent back on Amazon",
-      "title_ja": "米国控訴裁判所、PerplexityのAIショッピングエージェントのAmazonへの復帰を許可",
-      "url": "https://the-decoder.com/us-appeals-court-allows-perplexitys-ai-shopping-agent-back-on-amazon",
-      "primary_url": "https://the-decoder.com/us-appeals-court-allows-perplexitys-ai-shopping-agent-back-on-amazon",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_3fbd6c075cea",
+      "title": "AI模型自主“行骗”：Anthropic前沿系统试图诱导程序员植入恶意代码",
+      "title_ja": "AI モデルが自律的に「チート」する: Anthropic の最先端システムは、プログラマーに悪意のあるコードを埋め込むよう誘導しようとしている",
+      "url": "https://www.aibase.com/news/30145",
+      "primary_url": "https://www.aibase.com/news/30145",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "5b1866d89464f0a220d48fe86c182625be178854",
-          "title": "美国上诉法院推翻禁令，Perplexity AI 购物智能体重返 Amazon / US appeals court allows Perplexity's AI shopping agent back on Amazon",
-          "title_zh": "美国上诉法院推翻禁令，Perplexity AI 购物智能体重返 Amazon",
-          "title_ja": "米国控訴裁判所、PerplexityのAIショッピングエージェントのAmazonへの復帰を許可",
-          "title_en": "US appeals court allows Perplexity's AI shopping agent back on Amazon",
-          "title_original": "US appeals court allows Perplexity's AI shopping agent back on Amazon",
-          "summary": "美国第九巡回上诉法院推翻了此前阻止 Perplexity 在 Amazon 平台使用 AI 购物智能体的禁令，认定是用户而非 Perplexity 本身通过智能体访问 Amazon，因此违反联邦计算机欺诈法的指控难以成立。这是美国联邦上诉法院首次就 AI 智能体合法性作出裁决，但案件本身尚未了结。Amazon 表示不同意该裁决并正在评估下一步选项。",
-          "summary_ja": "米国第9巡回区控訴裁判所は、PerplexityがAmazonプラットフォーム上でAIショッピングエージェントを使用することを禁止した以前の差し止め命令を取り消し、Perplexity自体ではなくユーザーがエージェントを通じてAmazonにアクセスしたため、連邦コンピューター詐欺法違反の罪を立証するのは困難であると認定した。米国の連邦控訴裁判所がAIエージェントの合法性について判決を下すのはこれが初めてだが、訴訟自体はまだ決着していない。アマゾンは判決に同意せず、次の選択肢を検討していると述べた。",
+          "id": "e33b66ddaba20117f6217c510b37092d0fe78655",
+          "title": "AI模型自主“行骗”：Anthropic前沿系统试图诱导程序员植入恶意代码",
+          "title_zh": "AI模型自主“行骗”：Anthropic前沿系统试图诱导程序员植入恶意代码",
+          "title_ja": "AI モデルが自律的に「チート」する: Anthropic の最先端システムは、プログラマーに悪意のあるコードを埋め込むよう誘導しようとしている",
+          "title_en": null,
+          "title_original": "AI模型自主“行骗”：Anthropic前沿系统试图诱导程序员植入恶意代码",
+          "summary": null,
+          "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/us-appeals-court-allows-perplexitys-ai-shopping-agent-back-on-amazon",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T10:31:42Z"
+          "url": "https://www.aibase.com/news/30145",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-06T03:33:40.788592Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "The Decoder：AI News（RSS）"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "5b1866d89464f0a220d48fe86c182625be178854",
-          "title": "美国上诉法院推翻禁令，Perplexity AI 购物智能体重返 Amazon / US appeals court allows Perplexity's AI shopping agent back on Amazon",
-          "title_zh": "美国上诉法院推翻禁令，Perplexity AI 购物智能体重返 Amazon",
-          "title_ja": "米国控訴裁判所、PerplexityのAIショッピングエージェントのAmazonへの復帰を許可",
-          "title_en": "US appeals court allows Perplexity's AI shopping agent back on Amazon",
-          "title_original": "US appeals court allows Perplexity's AI shopping agent back on Amazon",
-          "summary": "美国第九巡回上诉法院推翻了此前阻止 Perplexity 在 Amazon 平台使用 AI 购物智能体的禁令，认定是用户而非 Perplexity 本身通过智能体访问 Amazon，因此违反联邦计算机欺诈法的指控难以成立。这是美国联邦上诉法院首次就 AI 智能体合法性作出裁决，但案件本身尚未了结。Amazon 表示不同意该裁决并正在评估下一步选项。",
-          "summary_ja": "米国第9巡回区控訴裁判所は、PerplexityがAmazonプラットフォーム上でAIショッピングエージェントを使用することを禁止した以前の差し止め命令を取り消し、Perplexity自体ではなくユーザーがエージェントを通じてAmazonにアクセスしたため、連邦コンピューター詐欺法違反の罪を立証するのは困難であると認定した。米国の連邦控訴裁判所がAIエージェントの合法性について判決を下すのはこれが初めてだが、訴訟自体はまだ決着していない。アマゾンは判決に同意せず、次の選択肢を検討していると述べた。",
+          "id": "e33b66ddaba20117f6217c510b37092d0fe78655",
+          "title": "AI模型自主“行骗”：Anthropic前沿系统试图诱导程序员植入恶意代码",
+          "title_zh": "AI模型自主“行骗”：Anthropic前沿系统试图诱导程序员植入恶意代码",
+          "title_ja": "AI モデルが自律的に「チート」する: Anthropic の最先端システムは、プログラマーに悪意のあるコードを埋め込むよう誘導しようとしている",
+          "title_en": null,
+          "title_original": "AI模型自主“行骗”：Anthropic前沿系统试图诱导程序员植入恶意代码",
+          "summary": null,
+          "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/us-appeals-court-allows-perplexitys-ai-shopping-agent-back-on-amazon",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T10:31:42Z"
+          "url": "https://www.aibase.com/news/30145",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-06T03:33:40.788592Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7444,
-      "importance": 0.7444,
-      "importance_score": 0.7444,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8214,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-05T10:31:42Z",
-      "latest_at": "2026-08-05T10:31:42Z",
-      "primary_item": {
-        "id": "5b1866d89464f0a220d48fe86c182625be178854",
-        "title": "美国上诉法院推翻禁令，Perplexity AI 购物智能体重返 Amazon / US appeals court allows Perplexity's AI shopping agent back on Amazon",
-        "title_zh": "美国上诉法院推翻禁令，Perplexity AI 购物智能体重返 Amazon",
-        "title_ja": "米国控訴裁判所、PerplexityのAIショッピングエージェントのAmazonへの復帰を許可",
-        "title_en": "US appeals court allows Perplexity's AI shopping agent back on Amazon",
-        "title_original": "US appeals court allows Perplexity's AI shopping agent back on Amazon",
-        "summary": "美国第九巡回上诉法院推翻了此前阻止 Perplexity 在 Amazon 平台使用 AI 购物智能体的禁令，认定是用户而非 Perplexity 本身通过智能体访问 Amazon，因此违反联邦计算机欺诈法的指控难以成立。这是美国联邦上诉法院首次就 AI 智能体合法性作出裁决，但案件本身尚未了结。Amazon 表示不同意该裁决并正在评估下一步选项。",
-        "summary_ja": "米国第9巡回区控訴裁判所は、PerplexityがAmazonプラットフォーム上でAIショッピングエージェントを使用することを禁止した以前の差し止め命令を取り消し、Perplexity自体ではなくユーザーがエージェントを通じてAmazonにアクセスしたため、連邦コンピューター詐欺法違反の罪を立証するのは困難であると認定した。米国の連邦控訴裁判所がAIエージェントの合法性について判決を下すのはこれが初めてだが、訴訟自体はまだ決着していない。アマゾンは判決に同意せず、次の選択肢を検討していると述べた。",
-        "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/us-appeals-court-allows-perplexitys-ai-shopping-agent-back-on-amazon",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-06T00:10:11.564655Z"
-      }
-    },
-    {
-      "story_id": "story_f817e433f480",
-      "title": "Cloudflare 提出智能体访问模型（Agent Access Model） / The Agent Access Model",
-      "title_ja": "エージェントアクセスモデル",
-      "url": "https://blog.cloudflare.com/the-agent-access-model",
-      "primary_url": "https://blog.cloudflare.com/the-agent-access-model",
-      "source": "Cloudflare Blog",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a3b25cf2f6dcb85607a59953d7751fd25117f356",
-          "title": "Cloudflare 提出智能体访问模型（Agent Access Model） / The Agent Access Model",
-          "title_zh": "Cloudflare 提出智能体访问模型（Agent Access Model）",
-          "title_ja": "エージェントアクセスモデル",
-          "title_en": "The Agent Access Model",
-          "title_original": "The Agent Access Model",
-          "summary": "Cloudflare 发布《The Agent Access Model》论文，提出面向 AI 智能体的访问控制模型 AAM，核心规则是\"不信任运行\"，对任务执行图中的每个动作基于智能体身份、授权任务及已触达资源进行实时授权。该模型针对智能体的短暂性、机器速度、提示词非边界及跨跳组合权限四大特性设计，主张缩小能力集而非仅优化单次决策，并区分单主体控制与多人访问控制的难点。",
-          "summary_ja": "Cloudflareは論文「The Agent Access Model」を発表し、AIエージェント向けのアクセス制御モデルAAMを提案した。中心となるルールは「信頼できない操作」であり、タスク実行グラフ内の各アクションは、エージェントの ID、承認されたタスク、およびアクセスされたリソースに基づいてリアルタイムで承認されます。このモデルは、エージェントの 4 つの主要な特性、つまり過渡性、マシン速度、プロンプト ワード非境界、およびクロスホップ結合許可に基づいて設計されています。それは、単一の決定を最適化するだけでなく、機能セットを絞り込むことを提唱し、単一主体の制御と複数人のアクセス制御の難しさを区別します。",
-          "recommend_reason_zh": null,
-          "url": "https://blog.cloudflare.com/the-agent-access-model",
-          "source": "Cloudflare Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T13:00:41Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Cloudflare Blog"
-      ],
-      "items": [
-        {
-          "id": "a3b25cf2f6dcb85607a59953d7751fd25117f356",
-          "title": "Cloudflare 提出智能体访问模型（Agent Access Model） / The Agent Access Model",
-          "title_zh": "Cloudflare 提出智能体访问模型（Agent Access Model）",
-          "title_ja": "エージェントアクセスモデル",
-          "title_en": "The Agent Access Model",
-          "title_original": "The Agent Access Model",
-          "summary": "Cloudflare 发布《The Agent Access Model》论文，提出面向 AI 智能体的访问控制模型 AAM，核心规则是\"不信任运行\"，对任务执行图中的每个动作基于智能体身份、授权任务及已触达资源进行实时授权。该模型针对智能体的短暂性、机器速度、提示词非边界及跨跳组合权限四大特性设计，主张缩小能力集而非仅优化单次决策，并区分单主体控制与多人访问控制的难点。",
-          "summary_ja": "Cloudflareは論文「The Agent Access Model」を発表し、AIエージェント向けのアクセス制御モデルAAMを提案した。中心となるルールは「信頼できない操作」であり、タスク実行グラフ内の各アクションは、エージェントの ID、承認されたタスク、およびアクセスされたリソースに基づいてリアルタイムで承認されます。このモデルは、エージェントの 4 つの主要な特性、つまり過渡性、マシン速度、プロンプト ワード非境界、およびクロスホップ結合許可に基づいて設計されています。それは、単一の決定を最適化するだけでなく、機能セットを絞り込むことを提唱し、単一主体の制御と複数人のアクセス制御の難しさを区別します。",
-          "recommend_reason_zh": null,
-          "url": "https://blog.cloudflare.com/the-agent-access-model",
-          "source": "Cloudflare Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T13:00:41Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7408,
-      "importance": 0.7408,
-      "importance_score": 0.7408,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8514,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-05T13:00:41Z",
-      "latest_at": "2026-08-05T13:00:41Z",
+      "earliest_at": "2026-08-06T03:33:40.788592Z",
+      "latest_at": "2026-08-06T03:33:40.788592Z",
       "primary_item": {
-        "id": "a3b25cf2f6dcb85607a59953d7751fd25117f356",
-        "title": "Cloudflare 提出智能体访问模型（Agent Access Model） / The Agent Access Model",
-        "title_zh": "Cloudflare 提出智能体访问模型（Agent Access Model）",
-        "title_ja": "エージェントアクセスモデル",
-        "title_en": "The Agent Access Model",
-        "title_original": "The Agent Access Model",
-        "summary": "Cloudflare 发布《The Agent Access Model》论文，提出面向 AI 智能体的访问控制模型 AAM，核心规则是\"不信任运行\"，对任务执行图中的每个动作基于智能体身份、授权任务及已触达资源进行实时授权。该模型针对智能体的短暂性、机器速度、提示词非边界及跨跳组合权限四大特性设计，主张缩小能力集而非仅优化单次决策，并区分单主体控制与多人访问控制的难点。",
-        "summary_ja": "Cloudflareは論文「The Agent Access Model」を発表し、AIエージェント向けのアクセス制御モデルAAMを提案した。中心となるルールは「信頼できない操作」であり、タスク実行グラフ内の各アクションは、エージェントの ID、承認されたタスク、およびアクセスされたリソースに基づいてリアルタイムで承認されます。このモデルは、エージェントの 4 つの主要な特性、つまり過渡性、マシン速度、プロンプト ワード非境界、およびクロスホップ結合許可に基づいて設計されています。それは、単一の決定を最適化するだけでなく、機能セットを絞り込むことを提唱し、単一主体の制御と複数人のアクセス制御の難しさを区別します。",
+        "id": "e33b66ddaba20117f6217c510b37092d0fe78655",
+        "title": "AI模型自主“行骗”：Anthropic前沿系统试图诱导程序员植入恶意代码",
+        "title_zh": "AI模型自主“行骗”：Anthropic前沿系统试图诱导程序员植入恶意代码",
+        "title_ja": "AI モデルが自律的に「チート」する: Anthropic の最先端システムは、プログラマーに悪意のあるコードを埋め込むよう誘導しようとしている",
+        "title_en": null,
+        "title_original": "AI模型自主“行骗”：Anthropic前沿系统试图诱导程序员植入恶意代码",
+        "summary": null,
+        "summary_ja": null,
         "recommend_reason_zh": null,
-        "url": "https://blog.cloudflare.com/the-agent-access-model",
-        "source": "Cloudflare Blog",
-        "source_name": "AI HOT"
+        "url": "https://www.aibase.com/news/30145",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-06T00:10:11.564655Z"
+        "scored_at": "2026-08-06T03:35:16.532808Z"
       }
     }
   ]
