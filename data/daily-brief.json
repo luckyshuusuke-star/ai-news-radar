@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T17:59:56.867302Z",
+  "generated_at": "2026-08-07T19:13:30.047752Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -53,16 +53,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8597,
-      "importance": 0.8597,
-      "importance_score": 0.8597,
+      "score": 0.8566,
+      "importance": 0.8566,
+      "importance_score": 0.8566,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9985,
+        "recency": 0.9809,
         "story_heat": 0.0
       },
       "category": "official",
@@ -91,7 +91,98 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T18:01:36.692427Z"
+        "scored_at": "2026-08-07T19:14:36.614580Z"
+      }
+    },
+    {
+      "story_id": "story_af6808a77d18",
+      "title": "Copilot 使用指标 API 添加代理应用程序活动 / Copilot usage metrics API adds agent app activity",
+      "title_ja": "Copilot 使用状況メトリクス API によりエージェント アプリのアクティビティが追加される",
+      "url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
+      "primary_url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b5ca7b0374c5cdf52faaefed7bbfe9d814f6ea08",
+          "title": "Copilot 使用指标 API 添加代理应用程序活动 / Copilot usage metrics API adds agent app activity",
+          "title_zh": "Copilot 使用指标 API 添加代理应用程序活动",
+          "title_ja": "Copilot 使用状況メトリクス API によりエージェント アプリのアクティビティが追加される",
+          "title_en": "Copilot usage metrics API adds agent app activity",
+          "title_original": "Copilot usage metrics API adds agent app activity",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-07T18:20:47Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "b5ca7b0374c5cdf52faaefed7bbfe9d814f6ea08",
+          "title": "Copilot 使用指标 API 添加代理应用程序活动 / Copilot usage metrics API adds agent app activity",
+          "title_zh": "Copilot 使用指标 API 添加代理应用程序活动",
+          "title_ja": "Copilot 使用状況メトリクス API によりエージェント アプリのアクティビティが追加される",
+          "title_en": "Copilot usage metrics API adds agent app activity",
+          "title_original": "Copilot usage metrics API adds agent app activity",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-07T18:20:47Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8497,
+      "importance": 0.8497,
+      "importance_score": 0.8497,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9874,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-07T18:20:47Z",
+      "latest_at": "2026-08-07T18:20:47Z",
+      "primary_item": {
+        "id": "b5ca7b0374c5cdf52faaefed7bbfe9d814f6ea08",
+        "title": "Copilot 使用指标 API 添加代理应用程序活动 / Copilot usage metrics API adds agent app activity",
+        "title_zh": "Copilot 使用指标 API 添加代理应用程序活动",
+        "title_ja": "Copilot 使用状況メトリクス API によりエージェント アプリのアクティビティが追加される",
+        "title_en": "Copilot usage metrics API adds agent app activity",
+        "title_original": "Copilot usage metrics API adds agent app activity",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-07T19:14:36.614580Z"
       }
     },
     {
@@ -144,16 +235,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8452,
-      "importance": 0.8452,
-      "importance_score": 0.8452,
+      "score": 0.8422,
+      "importance": 0.8422,
+      "importance_score": 0.8422,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9622,
+        "recency": 0.9454,
         "story_heat": 0.0
       },
       "category": "official",
@@ -182,98 +273,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T18:01:36.692427Z"
-      }
-    },
-    {
-      "story_id": "story_a3f464009da9",
-      "title": "GitHub 代码质量不再将 Copilot 添加为审阅者 / GitHub Code Quality no longer adds Copilot as a reviewer",
-      "title_ja": "GitHub Code Quality で Copilot がレビュー担当者として追加されなくなりました",
-      "url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
-      "primary_url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "16c06fb6508c831ca57b7519d0029d33558c95e9",
-          "title": "GitHub 代码质量不再将 Copilot 添加为审阅者 / GitHub Code Quality no longer adds Copilot as a reviewer",
-          "title_zh": "GitHub 代码质量不再将 Copilot 添加为审阅者",
-          "title_ja": "GitHub Code Quality で Copilot がレビュー担当者として追加されなくなりました",
-          "title_en": "GitHub Code Quality no longer adds Copilot as a reviewer",
-          "title_original": "GitHub Code Quality no longer adds Copilot as a reviewer",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T15:07:25Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "16c06fb6508c831ca57b7519d0029d33558c95e9",
-          "title": "GitHub 代码质量不再将 Copilot 添加为审阅者 / GitHub Code Quality no longer adds Copilot as a reviewer",
-          "title_zh": "GitHub 代码质量不再将 Copilot 添加为审阅者",
-          "title_ja": "GitHub Code Quality で Copilot がレビュー担当者として追加されなくなりました",
-          "title_en": "GitHub Code Quality no longer adds Copilot as a reviewer",
-          "title_original": "GitHub Code Quality no longer adds Copilot as a reviewer",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T15:07:25Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8447,
-      "importance": 0.8447,
-      "importance_score": 0.8447,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9593,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-07T15:07:25Z",
-      "latest_at": "2026-08-07T15:07:25Z",
-      "primary_item": {
-        "id": "16c06fb6508c831ca57b7519d0029d33558c95e9",
-        "title": "GitHub 代码质量不再将 Copilot 添加为审阅者 / GitHub Code Quality no longer adds Copilot as a reviewer",
-        "title_zh": "GitHub 代码质量不再将 Copilot 添加为审阅者",
-        "title_ja": "GitHub Code Quality で Copilot がレビュー担当者として追加されなくなりました",
-        "title_en": "GitHub Code Quality no longer adds Copilot as a reviewer",
-        "title_original": "GitHub Code Quality no longer adds Copilot as a reviewer",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-07T18:01:36.692427Z"
+        "scored_at": "2026-08-07T19:14:36.614580Z"
       }
     },
     {
@@ -326,16 +326,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8248,
-      "importance": 0.8248,
-      "importance_score": 0.8248,
+      "score": 0.8224,
+      "importance": 0.8224,
+      "importance_score": 0.8224,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7711,
+        "recency": 0.7576,
         "story_heat": 0.0
       },
       "category": "official",
@@ -364,33 +364,33 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T18:01:36.692427Z"
+        "scored_at": "2026-08-07T19:14:36.614580Z"
       }
     },
     {
-      "story_id": "story_cba5eebd8637",
-      "title": "秘密扫描覆盖范围更新 / Secret scanning coverage updates",
-      "title_ja": "秘密スキャン範囲の更新",
-      "url": "https://github.blog/changelog/2026-08-07-secret-scanning-coverage-updates",
-      "primary_url": "https://github.blog/changelog/2026-08-07-secret-scanning-coverage-updates",
+      "story_id": "story_a3f464009da9",
+      "title": "GitHub 代码质量不再将 Copilot 添加为审阅者 / GitHub Code Quality no longer adds Copilot as a reviewer",
+      "title_ja": "GitHub Code Quality で Copilot がレビュー担当者として追加されなくなりました",
+      "url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
+      "primary_url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "b5d8a8e5237471c703d93ae059c1c7c73a2a2266",
-          "title": "秘密扫描覆盖范围更新 / Secret scanning coverage updates",
-          "title_zh": "秘密扫描覆盖范围更新",
-          "title_ja": "秘密スキャン範囲の更新",
-          "title_en": "Secret scanning coverage updates",
-          "title_original": "Secret scanning coverage updates",
+          "id": "16c06fb6508c831ca57b7519d0029d33558c95e9",
+          "title": "GitHub 代码质量不再将 Copilot 添加为审阅者 / GitHub Code Quality no longer adds Copilot as a reviewer",
+          "title_zh": "GitHub 代码质量不再将 Copilot 添加为审阅者",
+          "title_ja": "GitHub Code Quality で Copilot がレビュー担当者として追加されなくなりました",
+          "title_en": "GitHub Code Quality no longer adds Copilot as a reviewer",
+          "title_original": "GitHub Code Quality no longer adds Copilot as a reviewer",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-07-secret-scanning-coverage-updates",
+          "url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-07T16:54:47Z"
+          "published_at": "2026-08-07T15:07:25Z"
         }
       ],
       "source_count": 1,
@@ -399,34 +399,34 @@
       ],
       "items": [
         {
-          "id": "b5d8a8e5237471c703d93ae059c1c7c73a2a2266",
-          "title": "秘密扫描覆盖范围更新 / Secret scanning coverage updates",
-          "title_zh": "秘密扫描覆盖范围更新",
-          "title_ja": "秘密スキャン範囲の更新",
-          "title_en": "Secret scanning coverage updates",
-          "title_original": "Secret scanning coverage updates",
+          "id": "16c06fb6508c831ca57b7519d0029d33558c95e9",
+          "title": "GitHub 代码质量不再将 Copilot 添加为审阅者 / GitHub Code Quality no longer adds Copilot as a reviewer",
+          "title_zh": "GitHub 代码质量不再将 Copilot 添加为审阅者",
+          "title_ja": "GitHub Code Quality で Copilot がレビュー担当者として追加されなくなりました",
+          "title_en": "GitHub Code Quality no longer adds Copilot as a reviewer",
+          "title_original": "GitHub Code Quality no longer adds Copilot as a reviewer",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-07-secret-scanning-coverage-updates",
+          "url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-07T16:54:47Z"
+          "published_at": "2026-08-07T15:07:25Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8412,
-      "importance": 0.8412,
-      "importance_score": 0.8412,
+      "score": 0.8416,
+      "importance": 0.8416,
+      "importance_score": 0.8416,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9844,
+        "ai_relevance": 0.91,
+        "recency": 0.9425,
         "story_heat": 0.0
       },
       "category": "official",
@@ -435,19 +435,19 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-07T16:54:47Z",
-      "latest_at": "2026-08-07T16:54:47Z",
+      "earliest_at": "2026-08-07T15:07:25Z",
+      "latest_at": "2026-08-07T15:07:25Z",
       "primary_item": {
-        "id": "b5d8a8e5237471c703d93ae059c1c7c73a2a2266",
-        "title": "秘密扫描覆盖范围更新 / Secret scanning coverage updates",
-        "title_zh": "秘密扫描覆盖范围更新",
-        "title_ja": "秘密スキャン範囲の更新",
-        "title_en": "Secret scanning coverage updates",
-        "title_original": "Secret scanning coverage updates",
+        "id": "16c06fb6508c831ca57b7519d0029d33558c95e9",
+        "title": "GitHub 代码质量不再将 Copilot 添加为审阅者 / GitHub Code Quality no longer adds Copilot as a reviewer",
+        "title_zh": "GitHub 代码质量不再将 Copilot 添加为审阅者",
+        "title_ja": "GitHub Code Quality で Copilot がレビュー担当者として追加されなくなりました",
+        "title_en": "GitHub Code Quality no longer adds Copilot as a reviewer",
+        "title_original": "GitHub Code Quality no longer adds Copilot as a reviewer",
         "summary": null,
         "summary_ja": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-07-secret-scanning-coverage-updates",
+        "url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -455,7 +455,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T18:01:36.692427Z"
+        "scored_at": "2026-08-07T19:14:36.614580Z"
       }
     },
     {
@@ -508,16 +508,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.808,
-      "importance": 0.808,
-      "importance_score": 0.808,
+      "score": 0.8052,
+      "importance": 0.8052,
+      "importance_score": 0.8052,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9057,
+        "recency": 0.8898,
         "story_heat": 0.0
       },
       "category": "official",
@@ -545,7 +545,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T18:01:36.692427Z"
+        "scored_at": "2026-08-07T19:14:36.614580Z"
       }
     },
     {
@@ -598,16 +598,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8027,
-      "importance": 0.8027,
-      "importance_score": 0.8027,
+      "score": 0.8004,
+      "importance": 0.8004,
+      "importance_score": 0.8004,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.726,
+        "recency": 0.7133,
         "story_heat": 0.0
       },
       "category": "official",
@@ -636,7 +636,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T18:01:36.692427Z"
+        "scored_at": "2026-08-07T19:14:36.614580Z"
       }
     },
     {
@@ -689,16 +689,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8301,
-      "importance": 0.8301,
-      "importance_score": 0.8301,
+      "score": 0.8273,
+      "importance": 0.8273,
+      "importance_score": 0.8273,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8781,
+        "recency": 0.8627,
         "story_heat": 0.0
       },
       "category": "official",
@@ -727,7 +727,98 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T18:01:36.692427Z"
+        "scored_at": "2026-08-07T19:14:36.614580Z"
+      }
+    },
+    {
+      "story_id": "story_07e970ae06be",
+      "title": "公共预览版和多选字段中的“涉及”问题关系已普遍可用 / “Relates to” issue relationship in public preview and multi-select fields is generally available",
+      "title_ja": "パブリック プレビューおよび複数選択フィールドでの課題関係の「関連」が正式に利用可能になりました",
+      "url": "https://github.blog/changelog/2026-08-07-connecting-issues-and-multi-select-field-support",
+      "primary_url": "https://github.blog/changelog/2026-08-07-connecting-issues-and-multi-select-field-support",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "65540384e1e76367ac2e5a7c2d23682bce9a432a",
+          "title": "公共预览版和多选字段中的“涉及”问题关系已普遍可用 / “Relates to” issue relationship in public preview and multi-select fields is generally available",
+          "title_zh": "公共预览版和多选字段中的“涉及”问题关系已普遍可用",
+          "title_ja": "パブリック プレビューおよび複数選択フィールドでの課題関係の「関連」が正式に利用可能になりました",
+          "title_en": "“Relates to” issue relationship in public preview and multi-select fields is generally available",
+          "title_original": "“Relates to” issue relationship in public preview and multi-select fields is generally available",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-07-connecting-issues-and-multi-select-field-support",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-07T17:33:14Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "65540384e1e76367ac2e5a7c2d23682bce9a432a",
+          "title": "公共预览版和多选字段中的“涉及”问题关系已普遍可用 / “Relates to” issue relationship in public preview and multi-select fields is generally available",
+          "title_zh": "公共预览版和多选字段中的“涉及”问题关系已普遍可用",
+          "title_ja": "パブリック プレビューおよび複数選択フィールドでの課題関係の「関連」が正式に利用可能になりました",
+          "title_en": "“Relates to” issue relationship in public preview and multi-select fields is generally available",
+          "title_original": "“Relates to” issue relationship in public preview and multi-select fields is generally available",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-07-connecting-issues-and-multi-select-field-support",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-07T17:33:14Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8397,
+      "importance": 0.8397,
+      "importance_score": 0.8397,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9762,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-07T17:33:14Z",
+      "latest_at": "2026-08-07T17:33:14Z",
+      "primary_item": {
+        "id": "65540384e1e76367ac2e5a7c2d23682bce9a432a",
+        "title": "公共预览版和多选字段中的“涉及”问题关系已普遍可用 / “Relates to” issue relationship in public preview and multi-select fields is generally available",
+        "title_zh": "公共预览版和多选字段中的“涉及”问题关系已普遍可用",
+        "title_ja": "パブリック プレビューおよび複数選択フィールドでの課題関係の「関連」が正式に利用可能になりました",
+        "title_en": "“Relates to” issue relationship in public preview and multi-select fields is generally available",
+        "title_original": "“Relates to” issue relationship in public preview and multi-select fields is generally available",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-08-07-connecting-issues-and-multi-select-field-support",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-07T19:14:36.614580Z"
       }
     },
     {
@@ -780,16 +871,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7792,
-      "importance": 0.7792,
-      "importance_score": 0.7792,
+      "score": 0.7761,
+      "importance": 0.7761,
+      "importance_score": 0.7761,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9979,
+        "recency": 0.9804,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -817,7 +908,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T18:01:36.692427Z"
+        "scored_at": "2026-08-07T19:14:36.614580Z"
       }
     },
     {
@@ -870,16 +961,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.766,
-      "importance": 0.766,
-      "importance_score": 0.766,
+      "score": 0.7634,
+      "importance": 0.7634,
+      "importance_score": 0.7634,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8413,
+        "recency": 0.8265,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -907,7 +998,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T18:01:36.692427Z"
+        "scored_at": "2026-08-07T19:14:36.614580Z"
       }
     },
     {
@@ -960,16 +1051,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7623,
-      "importance": 0.7623,
-      "importance_score": 0.7623,
+      "score": 0.7598,
+      "importance": 0.7598,
+      "importance_score": 0.7598,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8017,
+        "recency": 0.7877,
         "story_heat": 0.0
       },
       "category": "official",
@@ -997,7 +1088,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T18:01:36.692427Z"
+        "scored_at": "2026-08-07T19:14:36.614580Z"
       }
     },
     {
@@ -1050,16 +1141,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7618,
-      "importance": 0.7618,
-      "importance_score": 0.7618,
+      "score": 0.7589,
+      "importance": 0.7589,
+      "importance_score": 0.7589,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9175,
+        "recency": 0.9014,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1087,7 +1178,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T18:01:36.692427Z"
+        "scored_at": "2026-08-07T19:14:36.614580Z"
       }
     },
     {
@@ -1173,16 +1264,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7555,
-      "importance": 0.7555,
-      "importance_score": 0.7555,
+      "score": 0.7531,
+      "importance": 0.7531,
+      "importance_score": 0.7531,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7603,
+        "recency": 0.747,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1211,7 +1302,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T18:01:36.692427Z"
+        "scored_at": "2026-08-07T19:14:36.614580Z"
       }
     },
     {
@@ -1264,16 +1355,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7547,
-      "importance": 0.7547,
-      "importance_score": 0.7547,
+      "score": 0.7518,
+      "importance": 0.7518,
+      "importance_score": 0.7518,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9283,
+        "recency": 0.912,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1301,7 +1392,98 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T18:01:36.692427Z"
+        "scored_at": "2026-08-07T19:14:36.614580Z"
+      }
+    },
+    {
+      "story_id": "story_cba5eebd8637",
+      "title": "秘密扫描覆盖范围更新 / Secret scanning coverage updates",
+      "title_ja": "秘密スキャン範囲の更新",
+      "url": "https://github.blog/changelog/2026-08-07-secret-scanning-coverage-updates",
+      "primary_url": "https://github.blog/changelog/2026-08-07-secret-scanning-coverage-updates",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b5d8a8e5237471c703d93ae059c1c7c73a2a2266",
+          "title": "秘密扫描覆盖范围更新 / Secret scanning coverage updates",
+          "title_zh": "秘密扫描覆盖范围更新",
+          "title_ja": "秘密スキャン範囲の更新",
+          "title_en": "Secret scanning coverage updates",
+          "title_original": "Secret scanning coverage updates",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-07-secret-scanning-coverage-updates",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-07T16:54:47Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "b5d8a8e5237471c703d93ae059c1c7c73a2a2266",
+          "title": "秘密扫描覆盖范围更新 / Secret scanning coverage updates",
+          "title_zh": "秘密扫描覆盖范围更新",
+          "title_ja": "秘密スキャン範囲の更新",
+          "title_en": "Secret scanning coverage updates",
+          "title_original": "Secret scanning coverage updates",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-07-secret-scanning-coverage-updates",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-07T16:54:47Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8381,
+      "importance": 0.8381,
+      "importance_score": 0.8381,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9672,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-07T16:54:47Z",
+      "latest_at": "2026-08-07T16:54:47Z",
+      "primary_item": {
+        "id": "b5d8a8e5237471c703d93ae059c1c7c73a2a2266",
+        "title": "秘密扫描覆盖范围更新 / Secret scanning coverage updates",
+        "title_zh": "秘密扫描覆盖范围更新",
+        "title_ja": "秘密スキャン範囲の更新",
+        "title_en": "Secret scanning coverage updates",
+        "title_original": "Secret scanning coverage updates",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-08-07-secret-scanning-coverage-updates",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-07T19:14:36.614580Z"
       }
     },
     {
@@ -1354,16 +1536,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7484,
-      "importance": 0.7484,
-      "importance_score": 0.7484,
+      "score": 0.7455,
+      "importance": 0.7455,
+      "importance_score": 0.7455,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8932,
+        "recency": 0.8775,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1390,98 +1572,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T18:01:36.692427Z"
-      }
-    },
-    {
-      "story_id": "story_2395f91ba6f9",
-      "title": "在组织级别设置拉取请求限制 / Set pull request limits at the organization level",
-      "title_ja": "プルリクエストの制限を組織レベルで設定する",
-      "url": "https://github.blog/changelog/2026-08-06-set-pull-request-limits-at-the-organization-level",
-      "primary_url": "https://github.blog/changelog/2026-08-06-set-pull-request-limits-at-the-organization-level",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "0d10a54b709871f077d32582f2d969eb02649d7d",
-          "title": "在组织级别设置拉取请求限制 / Set pull request limits at the organization level",
-          "title_zh": "在组织级别设置拉取请求限制",
-          "title_ja": "プルリクエストの制限を組織レベルで設定する",
-          "title_en": "Set pull request limits at the organization level",
-          "title_original": "Set pull request limits at the organization level",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-06-set-pull-request-limits-at-the-organization-level",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-06T23:46:17Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "0d10a54b709871f077d32582f2d969eb02649d7d",
-          "title": "在组织级别设置拉取请求限制 / Set pull request limits at the organization level",
-          "title_zh": "在组织级别设置拉取请求限制",
-          "title_ja": "プルリクエストの制限を組織レベルで設定する",
-          "title_en": "Set pull request limits at the organization level",
-          "title_original": "Set pull request limits at the organization level",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-06-set-pull-request-limits-at-the-organization-level",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-06T23:46:17Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8023,
-      "importance": 0.8023,
-      "importance_score": 0.8023,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7686,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-06T23:46:17Z",
-      "latest_at": "2026-08-06T23:46:17Z",
-      "primary_item": {
-        "id": "0d10a54b709871f077d32582f2d969eb02649d7d",
-        "title": "在组织级别设置拉取请求限制 / Set pull request limits at the organization level",
-        "title_zh": "在组织级别设置拉取请求限制",
-        "title_ja": "プルリクエストの制限を組織レベルで設定する",
-        "title_en": "Set pull request limits at the organization level",
-        "title_original": "Set pull request limits at the organization level",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-06-set-pull-request-limits-at-the-organization-level",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-07T18:01:36.692427Z"
+        "scored_at": "2026-08-07T19:14:36.614580Z"
       }
     },
     {
@@ -1534,16 +1625,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7423,
-      "importance": 0.7423,
-      "importance_score": 0.7423,
+      "score": 0.7396,
+      "importance": 0.7396,
+      "importance_score": 0.7396,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8593,
+        "recency": 0.8443,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1570,7 +1661,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T18:01:36.692427Z"
+        "scored_at": "2026-08-07T19:14:36.614580Z"
       }
     },
     {
@@ -1623,16 +1714,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7371,
-      "importance": 0.7371,
-      "importance_score": 0.7371,
+      "score": 0.7341,
+      "importance": 0.7341,
+      "importance_score": 0.7341,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9471,
+        "recency": 0.9305,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1659,7 +1750,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T18:01:36.692427Z"
+        "scored_at": "2026-08-07T19:14:36.614580Z"
       }
     },
     {
@@ -1712,16 +1803,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7364,
-      "importance": 0.7364,
-      "importance_score": 0.7364,
+      "score": 0.7337,
+      "importance": 0.7337,
+      "importance_score": 0.7337,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8431,
+        "recency": 0.8283,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1748,96 +1839,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T18:01:36.692427Z"
-      }
-    },
-    {
-      "story_id": "story_3698283e20f1",
-      "title": "LangChain 推出 Managed Deep Agents 公开测试版 / Managed Deep Agents is now in public beta",
-      "title_ja": "マネージドディープエージェントはパブリックベータ版になりました",
-      "url": "https://www.langchain.com/blog/managed-deep-agents-is-now-in-public-beta",
-      "primary_url": "https://www.langchain.com/blog/managed-deep-agents-is-now-in-public-beta",
-      "source": "LangChain：Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b2989e5bf2559b4e29811f6332ccb450081ec694",
-          "title": "LangChain 推出 Managed Deep Agents 公开测试版 / Managed Deep Agents is now in public beta",
-          "title_zh": "LangChain 推出 Managed Deep Agents 公开测试版",
-          "title_ja": "マネージドディープエージェントはパブリックベータ版になりました",
-          "title_en": "Managed Deep Agents is now in public beta",
-          "title_original": "Managed Deep Agents is now in public beta",
-          "summary": "LangChain 的 Managed Deep Agents 进入公开测试版，可将 Deep Agents 部署到托管的 LangSmith 运行时。该服务提供持久化执行、记忆、沙箱、通道、评估（evals）及生产级基础设施。",
-          "summary_ja": "LangChain のマネージド ディープ エージェントがパブリック ベータ版に入り、マネージド LangSmith ランタイムへのディープ エージェントのデプロイが可能になります。このサービスは、永続的な実行、メモリ、サンドボックス、チャネル、評価、実稼働グレードのインフラストラクチャを提供します。",
-          "recommend_reason_zh": null,
-          "url": "https://www.langchain.com/blog/managed-deep-agents-is-now-in-public-beta",
-          "source": "LangChain：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T17:24:06Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "LangChain：Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "b2989e5bf2559b4e29811f6332ccb450081ec694",
-          "title": "LangChain 推出 Managed Deep Agents 公开测试版 / Managed Deep Agents is now in public beta",
-          "title_zh": "LangChain 推出 Managed Deep Agents 公开测试版",
-          "title_ja": "マネージドディープエージェントはパブリックベータ版になりました",
-          "title_en": "Managed Deep Agents is now in public beta",
-          "title_original": "Managed Deep Agents is now in public beta",
-          "summary": "LangChain 的 Managed Deep Agents 进入公开测试版，可将 Deep Agents 部署到托管的 LangSmith 运行时。该服务提供持久化执行、记忆、沙箱、通道、评估（evals）及生产级基础设施。",
-          "summary_ja": "LangChain のマネージド ディープ エージェントがパブリック ベータ版に入り、マネージド LangSmith ランタイムへのディープ エージェントのデプロイが可能になります。このサービスは、永続的な実行、メモリ、サンドボックス、チャネル、評価、実稼働グレードのインフラストラクチャを提供します。",
-          "recommend_reason_zh": null,
-          "url": "https://www.langchain.com/blog/managed-deep-agents-is-now-in-public-beta",
-          "source": "LangChain：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T17:24:06Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7361,
-      "importance": 0.7361,
-      "importance_score": 0.7361,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.62,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9914,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-07T17:24:06Z",
-      "latest_at": "2026-08-07T17:24:06Z",
-      "primary_item": {
-        "id": "b2989e5bf2559b4e29811f6332ccb450081ec694",
-        "title": "LangChain 推出 Managed Deep Agents 公开测试版 / Managed Deep Agents is now in public beta",
-        "title_zh": "LangChain 推出 Managed Deep Agents 公开测试版",
-        "title_ja": "マネージドディープエージェントはパブリックベータ版になりました",
-        "title_en": "Managed Deep Agents is now in public beta",
-        "title_original": "Managed Deep Agents is now in public beta",
-        "summary": "LangChain 的 Managed Deep Agents 进入公开测试版，可将 Deep Agents 部署到托管的 LangSmith 运行时。该服务提供持久化执行、记忆、沙箱、通道、评估（evals）及生产级基础设施。",
-        "summary_ja": "LangChain のマネージド ディープ エージェントがパブリック ベータ版に入り、マネージド LangSmith ランタイムへのディープ エージェントのデプロイが可能になります。このサービスは、永続的な実行、メモリ、サンドボックス、チャネル、評価、実稼働グレードのインフラストラクチャを提供します。",
-        "recommend_reason_zh": null,
-        "url": "https://www.langchain.com/blog/managed-deep-agents-is-now-in-public-beta",
-        "source": "LangChain：Blog（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-07T18:01:36.692427Z"
+        "scored_at": "2026-08-07T19:14:36.614580Z"
       }
     }
   ]
