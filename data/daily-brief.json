@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T21:53:49.274862Z",
+  "generated_at": "2026-08-07T22:54:27.320104Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -86,16 +86,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8607,
-      "importance": 0.8607,
-      "importance_score": 0.8607,
+      "score": 0.8584,
+      "importance": 0.8584,
+      "importance_score": 0.8584,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9096,
+        "recency": 0.8964,
         "story_heat": 0.25
       },
       "category": "official",
@@ -125,7 +125,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T21:54:46.327864Z"
+        "scored_at": "2026-08-07T22:55:20.547300Z"
       }
     },
     {
@@ -178,16 +178,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8499,
-      "importance": 0.8499,
-      "importance_score": 0.8499,
+      "score": 0.8474,
+      "importance": 0.8474,
+      "importance_score": 0.8474,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9438,
+        "recency": 0.9301,
         "story_heat": 0.0
       },
       "category": "official",
@@ -216,7 +216,98 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T21:54:46.327864Z"
+        "scored_at": "2026-08-07T22:55:20.547300Z"
+      }
+    },
+    {
+      "story_id": "story_2252b2f8dcb5",
+      "title": "Copilot影响仪表板添加了投资回报部分 / Copilot impact dashboard adds a return on investment section",
+      "title_ja": "Copilot Impact ダッシュボードに投資収益率セクションが追加されました",
+      "url": "https://github.blog/changelog/2026-08-07-copilot-impact-dashboard-adds-a-return-on-investment-section",
+      "primary_url": "https://github.blog/changelog/2026-08-07-copilot-impact-dashboard-adds-a-return-on-investment-section",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "cdfa89f56debfbcfa3d975dcc56be6da85f460ea",
+          "title": "Copilot影响仪表板添加了投资回报部分 / Copilot impact dashboard adds a return on investment section",
+          "title_zh": "Copilot影响仪表板添加了投资回报部分",
+          "title_ja": "Copilot Impact ダッシュボードに投資収益率セクションが追加されました",
+          "title_en": "Copilot impact dashboard adds a return on investment section",
+          "title_original": "Copilot impact dashboard adds a return on investment section",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-07-copilot-impact-dashboard-adds-a-return-on-investment-section",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-07T21:05:37Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "cdfa89f56debfbcfa3d975dcc56be6da85f460ea",
+          "title": "Copilot影响仪表板添加了投资回报部分 / Copilot impact dashboard adds a return on investment section",
+          "title_zh": "Copilot影响仪表板添加了投资回报部分",
+          "title_ja": "Copilot Impact ダッシュボードに投資収益率セクションが追加されました",
+          "title_en": "Copilot impact dashboard adds a return on investment section",
+          "title_original": "Copilot impact dashboard adds a return on investment section",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-07-copilot-impact-dashboard-adds-a-return-on-investment-section",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-07T21:05:37Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8473,
+      "importance": 0.8473,
+      "importance_score": 0.8473,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9741,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-07T21:05:37Z",
+      "latest_at": "2026-08-07T21:05:37Z",
+      "primary_item": {
+        "id": "cdfa89f56debfbcfa3d975dcc56be6da85f460ea",
+        "title": "Copilot影响仪表板添加了投资回报部分 / Copilot impact dashboard adds a return on investment section",
+        "title_zh": "Copilot影响仪表板添加了投资回报部分",
+        "title_ja": "Copilot Impact ダッシュボードに投資収益率セクションが追加されました",
+        "title_en": "Copilot impact dashboard adds a return on investment section",
+        "title_original": "Copilot impact dashboard adds a return on investment section",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-08-07-copilot-impact-dashboard-adds-a-return-on-investment-section",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-07T22:55:20.547300Z"
       }
     },
     {
@@ -269,16 +360,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8492,
-      "importance": 0.8492,
-      "importance_score": 0.8492,
+      "score": 0.8467,
+      "importance": 0.8467,
+      "importance_score": 0.8467,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9846,
+        "recency": 0.9704,
         "story_heat": 0.0
       },
       "category": "official",
@@ -307,7 +398,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T21:54:46.327864Z"
+        "scored_at": "2026-08-07T22:55:20.547300Z"
       }
     },
     {
@@ -360,16 +451,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8172,
-      "importance": 0.8172,
-      "importance_score": 0.8172,
+      "score": 0.8153,
+      "importance": 0.8153,
+      "importance_score": 0.8153,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7289,
+        "recency": 0.7183,
         "story_heat": 0.0
       },
       "category": "official",
@@ -398,7 +489,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T21:54:46.327864Z"
+        "scored_at": "2026-08-07T22:55:20.547300Z"
       }
     },
     {
@@ -451,16 +542,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8139,
-      "importance": 0.8139,
-      "importance_score": 0.8139,
+      "score": 0.8114,
+      "importance": 0.8114,
+      "importance_score": 0.8114,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9719,
+        "recency": 0.9578,
         "story_heat": 0.0
       },
       "category": "official",
@@ -488,98 +579,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T21:54:46.327864Z"
-      }
-    },
-    {
-      "story_id": "story_af6808a77d18",
-      "title": "Copilot 使用指标 API 添加代理应用程序活动 / Copilot usage metrics API adds agent app activity",
-      "title_ja": "Copilot 使用状況メトリクス API によりエージェント アプリのアクティビティが追加される",
-      "url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
-      "primary_url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b5ca7b0374c5cdf52faaefed7bbfe9d814f6ea08",
-          "title": "Copilot 使用指标 API 添加代理应用程序活动 / Copilot usage metrics API adds agent app activity",
-          "title_zh": "Copilot 使用指标 API 添加代理应用程序活动",
-          "title_ja": "Copilot 使用状況メトリクス API によりエージェント アプリのアクティビティが追加される",
-          "title_en": "Copilot usage metrics API adds agent app activity",
-          "title_original": "Copilot usage metrics API adds agent app activity",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T18:20:47Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "b5ca7b0374c5cdf52faaefed7bbfe9d814f6ea08",
-          "title": "Copilot 使用指标 API 添加代理应用程序活动 / Copilot usage metrics API adds agent app activity",
-          "title_zh": "Copilot 使用指标 API 添加代理应用程序活动",
-          "title_ja": "Copilot 使用状況メトリクス API によりエージェント アプリのアクティビティが追加される",
-          "title_en": "Copilot usage metrics API adds agent app activity",
-          "title_original": "Copilot usage metrics API adds agent app activity",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T18:20:47Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.843,
-      "importance": 0.843,
-      "importance_score": 0.843,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.95,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-07T18:20:47Z",
-      "latest_at": "2026-08-07T18:20:47Z",
-      "primary_item": {
-        "id": "b5ca7b0374c5cdf52faaefed7bbfe9d814f6ea08",
-        "title": "Copilot 使用指标 API 添加代理应用程序活动 / Copilot usage metrics API adds agent app activity",
-        "title_zh": "Copilot 使用指标 API 添加代理应用程序活动",
-        "title_ja": "Copilot 使用状況メトリクス API によりエージェント アプリのアクティビティが追加される",
-        "title_en": "Copilot usage metrics API adds agent app activity",
-        "title_original": "Copilot usage metrics API adds agent app activity",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-07T21:54:46.327864Z"
+        "scored_at": "2026-08-07T22:55:20.547300Z"
       }
     },
     {
@@ -665,16 +665,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8,
-      "importance": 0.8,
-      "importance_score": 0.8,
+      "score": 0.7975,
+      "importance": 0.7975,
+      "importance_score": 0.7975,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9578,
+        "recency": 0.9439,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -703,7 +703,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T21:54:46.327864Z"
+        "scored_at": "2026-08-07T22:55:20.547300Z"
       }
     },
     {
@@ -756,16 +756,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7991,
-      "importance": 0.7991,
-      "importance_score": 0.7991,
+      "score": 0.7969,
+      "importance": 0.7969,
+      "importance_score": 0.7969,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8561,
+        "recency": 0.8437,
         "story_heat": 0.0
       },
       "category": "official",
@@ -793,7 +793,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T21:54:46.327864Z"
+        "scored_at": "2026-08-07T22:55:20.547300Z"
       }
     },
     {
@@ -846,16 +846,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8214,
-      "importance": 0.8214,
-      "importance_score": 0.8214,
+      "score": 0.8192,
+      "importance": 0.8192,
+      "importance_score": 0.8192,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8301,
+        "recency": 0.818,
         "story_heat": 0.0
       },
       "category": "official",
@@ -884,33 +884,33 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T21:54:46.327864Z"
+        "scored_at": "2026-08-07T22:55:20.547300Z"
       }
     },
     {
-      "story_id": "story_a3f464009da9",
-      "title": "GitHub 代码质量不再将 Copilot 添加为审阅者 / GitHub Code Quality no longer adds Copilot as a reviewer",
-      "title_ja": "GitHub Code Quality で Copilot がレビュー担当者として追加されなくなりました",
-      "url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
-      "primary_url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
+      "story_id": "story_af6808a77d18",
+      "title": "Copilot 使用指标 API 添加代理应用程序活动 / Copilot usage metrics API adds agent app activity",
+      "title_ja": "Copilot 使用状況メトリクス API によりエージェント アプリのアクティビティが追加される",
+      "url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
+      "primary_url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "16c06fb6508c831ca57b7519d0029d33558c95e9",
-          "title": "GitHub 代码质量不再将 Copilot 添加为审阅者 / GitHub Code Quality no longer adds Copilot as a reviewer",
-          "title_zh": "GitHub 代码质量不再将 Copilot 添加为审阅者",
-          "title_ja": "GitHub Code Quality で Copilot がレビュー担当者として追加されなくなりました",
-          "title_en": "GitHub Code Quality no longer adds Copilot as a reviewer",
-          "title_original": "GitHub Code Quality no longer adds Copilot as a reviewer",
+          "id": "b5ca7b0374c5cdf52faaefed7bbfe9d814f6ea08",
+          "title": "Copilot 使用指标 API 添加代理应用程序活动 / Copilot usage metrics API adds agent app activity",
+          "title_zh": "Copilot 使用指标 API 添加代理应用程序活动",
+          "title_ja": "Copilot 使用状況メトリクス API によりエージェント アプリのアクティビティが追加される",
+          "title_en": "Copilot usage metrics API adds agent app activity",
+          "title_original": "Copilot usage metrics API adds agent app activity",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
+          "url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-07T15:07:25Z"
+          "published_at": "2026-08-07T18:20:47Z"
         }
       ],
       "source_count": 1,
@@ -919,34 +919,34 @@
       ],
       "items": [
         {
-          "id": "16c06fb6508c831ca57b7519d0029d33558c95e9",
-          "title": "GitHub 代码质量不再将 Copilot 添加为审阅者 / GitHub Code Quality no longer adds Copilot as a reviewer",
-          "title_zh": "GitHub 代码质量不再将 Copilot 添加为审阅者",
-          "title_ja": "GitHub Code Quality で Copilot がレビュー担当者として追加されなくなりました",
-          "title_en": "GitHub Code Quality no longer adds Copilot as a reviewer",
-          "title_original": "GitHub Code Quality no longer adds Copilot as a reviewer",
+          "id": "b5ca7b0374c5cdf52faaefed7bbfe9d814f6ea08",
+          "title": "Copilot 使用指标 API 添加代理应用程序活动 / Copilot usage metrics API adds agent app activity",
+          "title_zh": "Copilot 使用指标 API 添加代理应用程序活动",
+          "title_ja": "Copilot 使用状況メトリクス API によりエージェント アプリのアクティビティが追加される",
+          "title_en": "Copilot usage metrics API adds agent app activity",
+          "title_original": "Copilot usage metrics API adds agent app activity",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
+          "url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-07T15:07:25Z"
+          "published_at": "2026-08-07T18:20:47Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8352,
-      "importance": 0.8352,
-      "importance_score": 0.8352,
+      "score": 0.8405,
+      "importance": 0.8405,
+      "importance_score": 0.8405,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9068,
+        "recency": 0.9363,
         "story_heat": 0.0
       },
       "category": "official",
@@ -955,19 +955,19 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-07T15:07:25Z",
-      "latest_at": "2026-08-07T15:07:25Z",
+      "earliest_at": "2026-08-07T18:20:47Z",
+      "latest_at": "2026-08-07T18:20:47Z",
       "primary_item": {
-        "id": "16c06fb6508c831ca57b7519d0029d33558c95e9",
-        "title": "GitHub 代码质量不再将 Copilot 添加为审阅者 / GitHub Code Quality no longer adds Copilot as a reviewer",
-        "title_zh": "GitHub 代码质量不再将 Copilot 添加为审阅者",
-        "title_ja": "GitHub Code Quality で Copilot がレビュー担当者として追加されなくなりました",
-        "title_en": "GitHub Code Quality no longer adds Copilot as a reviewer",
-        "title_original": "GitHub Code Quality no longer adds Copilot as a reviewer",
+        "id": "b5ca7b0374c5cdf52faaefed7bbfe9d814f6ea08",
+        "title": "Copilot 使用指标 API 添加代理应用程序活动 / Copilot usage metrics API adds agent app activity",
+        "title_zh": "Copilot 使用指标 API 添加代理应用程序活动",
+        "title_ja": "Copilot 使用状況メトリクス API によりエージェント アプリのアクティビティが追加される",
+        "title_en": "Copilot usage metrics API adds agent app activity",
+        "title_original": "Copilot usage metrics API adds agent app activity",
         "summary": null,
         "summary_ja": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
+        "url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -975,7 +975,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T21:54:46.327864Z"
+        "scored_at": "2026-08-07T22:55:20.547300Z"
       }
     },
     {
@@ -1028,16 +1028,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7694,
-      "importance": 0.7694,
-      "importance_score": 0.7694,
+      "score": 0.7669,
+      "importance": 0.7669,
+      "importance_score": 0.7669,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9433,
+        "recency": 0.9297,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1065,7 +1065,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T21:54:46.327864Z"
+        "scored_at": "2026-08-07T22:55:20.547300Z"
       }
     },
     {
@@ -1118,16 +1118,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7599,
-      "importance": 0.7599,
-      "importance_score": 0.7599,
+      "score": 0.7574,
+      "importance": 0.7574,
+      "importance_score": 0.7574,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9574,
+        "recency": 0.9435,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1155,7 +1155,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T21:54:46.327864Z"
+        "scored_at": "2026-08-07T22:55:20.547300Z"
       }
     },
     {
@@ -1208,16 +1208,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7577,
-      "importance": 0.7577,
-      "importance_score": 0.7577,
+      "score": 0.7557,
+      "importance": 0.7557,
+      "importance_score": 0.7557,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7952,
+        "recency": 0.7837,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1245,7 +1245,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T21:54:46.327864Z"
+        "scored_at": "2026-08-07T22:55:20.547300Z"
       }
     },
     {
@@ -1298,16 +1298,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7544,
-      "importance": 0.7544,
-      "importance_score": 0.7544,
+      "score": 0.7524,
+      "importance": 0.7524,
+      "importance_score": 0.7524,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7579,
+        "recency": 0.7469,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1335,7 +1335,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T21:54:46.327864Z"
+        "scored_at": "2026-08-07T22:55:20.547300Z"
       }
     },
     {
@@ -1388,16 +1388,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
+      "score": 0.7505,
+      "importance": 0.7505,
+      "importance_score": 0.7505,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8673,
+        "recency": 0.8547,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1425,7 +1425,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T21:54:46.327864Z"
+        "scored_at": "2026-08-07T22:55:20.547300Z"
       }
     },
     {
@@ -1478,16 +1478,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7456,
-      "importance": 0.7456,
-      "importance_score": 0.7456,
+      "score": 0.7433,
+      "importance": 0.7433,
+      "importance_score": 0.7433,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8775,
+        "recency": 0.8648,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1514,33 +1514,33 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T21:54:46.327864Z"
+        "scored_at": "2026-08-07T22:55:20.547300Z"
       }
     },
     {
-      "story_id": "story_07e970ae06be",
-      "title": "公共预览版和多选字段中的“涉及”问题关系已普遍可用 / “Relates to” issue relationship in public preview and multi-select fields is generally available",
-      "title_ja": "パブリック プレビューおよび複数選択フィールドでの課題関係の「関連」が正式に利用可能になりました",
-      "url": "https://github.blog/changelog/2026-08-07-connecting-issues-and-multi-select-field-support",
-      "primary_url": "https://github.blog/changelog/2026-08-07-connecting-issues-and-multi-select-field-support",
+      "story_id": "story_a3f464009da9",
+      "title": "GitHub 代码质量不再将 Copilot 添加为审阅者 / GitHub Code Quality no longer adds Copilot as a reviewer",
+      "title_ja": "GitHub Code Quality で Copilot がレビュー担当者として追加されなくなりました",
+      "url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
+      "primary_url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "65540384e1e76367ac2e5a7c2d23682bce9a432a",
-          "title": "公共预览版和多选字段中的“涉及”问题关系已普遍可用 / “Relates to” issue relationship in public preview and multi-select fields is generally available",
-          "title_zh": "公共预览版和多选字段中的“涉及”问题关系已普遍可用",
-          "title_ja": "パブリック プレビューおよび複数選択フィールドでの課題関係の「関連」が正式に利用可能になりました",
-          "title_en": "“Relates to” issue relationship in public preview and multi-select fields is generally available",
-          "title_original": "“Relates to” issue relationship in public preview and multi-select fields is generally available",
+          "id": "16c06fb6508c831ca57b7519d0029d33558c95e9",
+          "title": "GitHub 代码质量不再将 Copilot 添加为审阅者 / GitHub Code Quality no longer adds Copilot as a reviewer",
+          "title_zh": "GitHub 代码质量不再将 Copilot 添加为审阅者",
+          "title_ja": "GitHub Code Quality で Copilot がレビュー担当者として追加されなくなりました",
+          "title_en": "GitHub Code Quality no longer adds Copilot as a reviewer",
+          "title_original": "GitHub Code Quality no longer adds Copilot as a reviewer",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-07-connecting-issues-and-multi-select-field-support",
+          "url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-07T17:33:14Z"
+          "published_at": "2026-08-07T15:07:25Z"
         }
       ],
       "source_count": 1,
@@ -1549,34 +1549,34 @@
       ],
       "items": [
         {
-          "id": "65540384e1e76367ac2e5a7c2d23682bce9a432a",
-          "title": "公共预览版和多选字段中的“涉及”问题关系已普遍可用 / “Relates to” issue relationship in public preview and multi-select fields is generally available",
-          "title_zh": "公共预览版和多选字段中的“涉及”问题关系已普遍可用",
-          "title_ja": "パブリック プレビューおよび複数選択フィールドでの課題関係の「関連」が正式に利用可能になりました",
-          "title_en": "“Relates to” issue relationship in public preview and multi-select fields is generally available",
-          "title_original": "“Relates to” issue relationship in public preview and multi-select fields is generally available",
+          "id": "16c06fb6508c831ca57b7519d0029d33558c95e9",
+          "title": "GitHub 代码质量不再将 Copilot 添加为审阅者 / GitHub Code Quality no longer adds Copilot as a reviewer",
+          "title_zh": "GitHub 代码质量不再将 Copilot 添加为审阅者",
+          "title_ja": "GitHub Code Quality で Copilot がレビュー担当者として追加されなくなりました",
+          "title_en": "GitHub Code Quality no longer adds Copilot as a reviewer",
+          "title_original": "GitHub Code Quality no longer adds Copilot as a reviewer",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-07-connecting-issues-and-multi-select-field-support",
+          "url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-07T17:33:14Z"
+          "published_at": "2026-08-07T15:07:25Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8331,
-      "importance": 0.8331,
-      "importance_score": 0.8331,
+      "score": 0.8329,
+      "importance": 0.8329,
+      "importance_score": 0.8329,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9392,
+        "ai_relevance": 0.91,
+        "recency": 0.8937,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1585,19 +1585,19 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-07T17:33:14Z",
-      "latest_at": "2026-08-07T17:33:14Z",
+      "earliest_at": "2026-08-07T15:07:25Z",
+      "latest_at": "2026-08-07T15:07:25Z",
       "primary_item": {
-        "id": "65540384e1e76367ac2e5a7c2d23682bce9a432a",
-        "title": "公共预览版和多选字段中的“涉及”问题关系已普遍可用 / “Relates to” issue relationship in public preview and multi-select fields is generally available",
-        "title_zh": "公共预览版和多选字段中的“涉及”问题关系已普遍可用",
-        "title_ja": "パブリック プレビューおよび複数選択フィールドでの課題関係の「関連」が正式に利用可能になりました",
-        "title_en": "“Relates to” issue relationship in public preview and multi-select fields is generally available",
-        "title_original": "“Relates to” issue relationship in public preview and multi-select fields is generally available",
+        "id": "16c06fb6508c831ca57b7519d0029d33558c95e9",
+        "title": "GitHub 代码质量不再将 Copilot 添加为审阅者 / GitHub Code Quality no longer adds Copilot as a reviewer",
+        "title_zh": "GitHub 代码质量不再将 Copilot 添加为审阅者",
+        "title_ja": "GitHub Code Quality で Copilot がレビュー担当者として追加されなくなりました",
+        "title_en": "GitHub Code Quality no longer adds Copilot as a reviewer",
+        "title_original": "GitHub Code Quality no longer adds Copilot as a reviewer",
         "summary": null,
         "summary_ja": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-07-connecting-issues-and-multi-select-field-support",
+        "url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -1605,7 +1605,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T21:54:46.327864Z"
+        "scored_at": "2026-08-07T22:55:20.547300Z"
       }
     },
     {
@@ -1658,16 +1658,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7396,
-      "importance": 0.7396,
-      "importance_score": 0.7396,
+      "score": 0.7374,
+      "importance": 0.7374,
+      "importance_score": 0.7374,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8443,
+        "recency": 0.832,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1694,7 +1694,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T21:54:46.327864Z"
+        "scored_at": "2026-08-07T22:55:20.547300Z"
       }
     },
     {
@@ -1747,16 +1747,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7338,
-      "importance": 0.7338,
-      "importance_score": 0.7338,
+      "score": 0.7317,
+      "importance": 0.7317,
+      "importance_score": 0.7317,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8123,
+        "recency": 0.8005,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1783,7 +1783,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T21:54:46.327864Z"
+        "scored_at": "2026-08-07T22:55:20.547300Z"
       }
     },
     {
@@ -1836,16 +1836,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7281,
-      "importance": 0.7281,
-      "importance_score": 0.7281,
+      "score": 0.726,
+      "importance": 0.726,
+      "importance_score": 0.726,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.797,
+        "recency": 0.7854,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1872,7 +1872,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-07T21:54:46.327864Z"
+        "scored_at": "2026-08-07T22:55:20.547300Z"
       }
     }
   ]
