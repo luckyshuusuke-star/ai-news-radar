@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T19:43:00.382221Z",
+  "generated_at": "2026-08-08T20:46:29.114897Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-08-08",
-  "count_today": 2,
+  "count_today": 4,
   "updates_today": [
     {
       "date": "2026-08-08",
@@ -22,9 +22,25 @@
       "url": "https://waytoagi.feishu.cn/wiki/PCj7wTswPigE9ukBveicR3Frnzh?from=from_copylink",
       "title_ja": "メモリ エンジニアになる方法: スタンフォード、マイクロソフト、Anthropic、NVIDIA からの視点",
       "summary_ja": "エージェントが本当に長期記憶を持っている場合、その最も危険な能力は「思い出す」ことではなく、「何を忘れるべきかわからない」ことかもしれません。この記事では、エージェントが情報を選択的に保持、圧縮、変更、および忘れることを可能にするという、記憶工学の中核について説明します。すべての会話ログと推論プロセスをシステムに詰め込むことはお勧めできませんが、重要な事実、ユーザーの好み、再利用可能なスキルを抽出し、競合、期限切れ、機密記憶の制御メカニズムを確立することをお勧めします。"
+    },
+    {
+      "date": "2026-08-08",
+      "title": "为什么托管式智能体会成为智能体构建的下一个重要方向",
+      "summary": "Langchain发布了Managed Deep Agents。这是构建、运行和部署生产级智能体最简单的方式。这篇文章分享了他们团队一路走到这里的过程，以及为什么会如此期待智能体构建的下一个阶段。",
+      "url": "https://waytoagi.feishu.cn/wiki/PHrZwoc6GijA2IkXryccO06KnFh?from=from_copylink",
+      "title_ja": "マネージド エージェントがエージェント構築の次の重要な方向になる理由",
+      "summary_ja": "Langchain はマネージド ディープ エージェントをリリースします。これは、運用グレードのエージェントを構築、実行、展開する最も簡単な方法です。この記事では、チームがどのようにしてここにたどり着いたのか、そしてなぜチームがエージェント構築の次の段階にそれほど興奮しているのかについて説明します。"
+    },
+    {
+      "date": "2026-08-08",
+      "title": "Graph Engineering：来自Anthropic 的真实落地实践",
+      "summary": "这篇文章用Anthropic的百万行代码迁移和Python转TypeScript案例，分享了图工程的完整实操方案：先写判定器，再沉淀规则手册，把状态放到磁盘队列里，用独立审查者、确定性检查、串行化昂贵操作和分角色模型来控制流程。",
+      "url": "https://waytoagi.feishu.cn/wiki/RrslwsTiJitt1GkJvF3ckf0Nnvn?from=from_copylink",
+      "title_ja": "グラフ エンジニアリング: Anthropic による実際の実践",
+      "summary_ja": "この記事では、Anthropic の数百万行のコード移行と Python から TypeScript へのケースを使用して、グラフ エンジニアリングの完全な実践的な計画を共有します。まず決定子を作成し、次にルール ブックを作成し、状態をディスク キューに入れ、独立したレビュー担当者、決定論的チェック、高価な操作のシリアル化、プロセスを制御するロール モデルを使用します。"
     }
   ],
-  "count_7d": 32,
+  "count_7d": 34,
   "updates_7d": [
     {
       "date": "2026-08-08",
@@ -41,6 +57,22 @@
       "url": "https://waytoagi.feishu.cn/wiki/PCj7wTswPigE9ukBveicR3Frnzh?from=from_copylink",
       "title_ja": "メモリ エンジニアになる方法: スタンフォード、マイクロソフト、Anthropic、NVIDIA からの視点",
       "summary_ja": "エージェントが本当に長期記憶を持っている場合、その最も危険な能力は「思い出す」ことではなく、「何を忘れるべきかわからない」ことかもしれません。この記事では、エージェントが情報を選択的に保持、圧縮、変更、および忘れることを可能にするという、記憶工学の中核について説明します。すべての会話ログと推論プロセスをシステムに詰め込むことはお勧めできませんが、重要な事実、ユーザーの好み、再利用可能なスキルを抽出し、競合、期限切れ、機密記憶の制御メカニズムを確立することをお勧めします。"
+    },
+    {
+      "date": "2026-08-08",
+      "title": "为什么托管式智能体会成为智能体构建的下一个重要方向",
+      "summary": "Langchain发布了Managed Deep Agents。这是构建、运行和部署生产级智能体最简单的方式。这篇文章分享了他们团队一路走到这里的过程，以及为什么会如此期待智能体构建的下一个阶段。",
+      "url": "https://waytoagi.feishu.cn/wiki/PHrZwoc6GijA2IkXryccO06KnFh?from=from_copylink",
+      "title_ja": "マネージド エージェントがエージェント構築の次の重要な方向になる理由",
+      "summary_ja": "Langchain はマネージド ディープ エージェントをリリースします。これは、運用グレードのエージェントを構築、実行、展開する最も簡単な方法です。この記事では、チームがどのようにしてここにたどり着いたのか、そしてなぜチームがエージェント構築の次の段階にそれほど興奮しているのかについて説明します。"
+    },
+    {
+      "date": "2026-08-08",
+      "title": "Graph Engineering：来自Anthropic 的真实落地实践",
+      "summary": "这篇文章用Anthropic的百万行代码迁移和Python转TypeScript案例，分享了图工程的完整实操方案：先写判定器，再沉淀规则手册，把状态放到磁盘队列里，用独立审查者、确定性检查、串行化昂贵操作和分角色模型来控制流程。",
+      "url": "https://waytoagi.feishu.cn/wiki/RrslwsTiJitt1GkJvF3ckf0Nnvn?from=from_copylink",
+      "title_ja": "グラフ エンジニアリング: Anthropic による実際の実践",
+      "summary_ja": "この記事では、Anthropic の数百万行のコード移行と Python から TypeScript へのケースを使用して、グラフ エンジニアリングの完全な実践的な計画を共有します。まず決定子を作成し、次にルール ブックを作成し、状態をディスク キューに入れ、独立したレビュー担当者、決定論的チェック、高価な操作のシリアル化、プロセスを制御するロール モデルを使用します。"
     },
     {
       "date": "2026-08-07",

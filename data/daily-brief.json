@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-08T19:43:00.382221Z",
+  "generated_at": "2026-08-08T20:46:29.114897Z",
   "window_hours": 24,
-  "total_items": 16,
+  "total_items": 15,
   "items": [
     {
       "story_id": "story_adfff91a73dc",
@@ -152,16 +152,16 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8629,
-      "importance": 0.8629,
-      "importance_score": 0.8629,
+      "score": 0.8604,
+      "importance": 0.8604,
+      "importance_score": 0.8604,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9294,
+        "recency": 0.9153,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -190,7 +190,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T19:43:42.798058Z"
+        "scored_at": "2026-08-08T20:47:20.029997Z"
       }
     },
     {
@@ -243,16 +243,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.806,
-      "importance": 0.806,
-      "importance_score": 0.806,
+      "score": 0.8039,
+      "importance": 0.8039,
+      "importance_score": 0.8039,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7443,
+        "recency": 0.733,
         "story_heat": 0.0
       },
       "category": "official",
@@ -281,7 +281,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T19:43:42.798058Z"
+        "scored_at": "2026-08-08T20:47:20.029997Z"
       }
     },
     {
@@ -334,16 +334,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8018,
-      "importance": 0.8018,
-      "importance_score": 0.8018,
+      "score": 0.7999,
+      "importance": 0.7999,
+      "importance_score": 0.7999,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7213,
+        "recency": 0.7104,
         "story_heat": 0.0
       },
       "category": "official",
@@ -372,187 +372,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T19:43:42.798058Z"
-      }
-    },
-    {
-      "story_id": "story_2b97640ff5a6",
-      "title": "Claude Code 会话间可互发消息 / New in Claude Code： your sessions can now message each other. Instead of having to re-explain yours…",
-      "title_ja": "Claude Code の新機能: セッションが相互にメッセージを送信できるようになりました。改めて説明する代わりに…",
-      "url": "https://x.com/ClaudeDevs/status/2085817074816070014",
-      "primary_url": "https://x.com/ClaudeDevs/status/2085817074816070014",
-      "source": "X：Claude Devs (@ClaudeDevs)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5cd73e6648ab0011ce4a2c20cda11a7b62663b44",
-          "title": "Claude Code 会话间可互发消息 / New in Claude Code： your sessions can now message each other. Instead of having to re-explain yours…",
-          "title_zh": "Claude Code 会话间可互发消息",
-          "title_ja": "Claude Code の新機能: セッションが相互にメッセージを送信できるようになりました。改めて説明する代わりに…",
-          "title_en": "New in Claude Code： your sessions can now message each other. Instead of having to re-explain yours…",
-          "title_original": "New in Claude Code： your sessions can now message each other. Instead of having to re-explain yours…",
-          "summary": "Claude Code 新功能：你的会话现在可以互相发送消息了。\n\n无需在另一个会话中重新解释自己，你现在可以让 Claude 代为传达。它会发送一份摘要（而非你的历史记录或文件），另一个会话会在任务进行中接收该摘要。",
-          "summary_ja": "Claude Code の新機能: 会話で相互にメッセージを送信できるようになりました。\n\n別のセッションで自分自身を再度説明する代わりに、クロードに話してもらうことができます。タスクの進行中に他のセッションが受信する概要 (履歴やファイルではありません) を送信します。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/ClaudeDevs/status/2085817074816070014",
-          "source": "X：Claude Devs (@ClaudeDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T19:55:17Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Claude Devs (@ClaudeDevs)"
-      ],
-      "items": [
-        {
-          "id": "5cd73e6648ab0011ce4a2c20cda11a7b62663b44",
-          "title": "Claude Code 会话间可互发消息 / New in Claude Code： your sessions can now message each other. Instead of having to re-explain yours…",
-          "title_zh": "Claude Code 会话间可互发消息",
-          "title_ja": "Claude Code の新機能: セッションが相互にメッセージを送信できるようになりました。改めて説明する代わりに…",
-          "title_en": "New in Claude Code： your sessions can now message each other. Instead of having to re-explain yours…",
-          "title_original": "New in Claude Code： your sessions can now message each other. Instead of having to re-explain yours…",
-          "summary": "Claude Code 新功能：你的会话现在可以互相发送消息了。\n\n无需在另一个会话中重新解释自己，你现在可以让 Claude 代为传达。它会发送一份摘要（而非你的历史记录或文件），另一个会话会在任务进行中接收该摘要。",
-          "summary_ja": "Claude Code の新機能: 会話で相互にメッセージを送信できるようになりました。\n\n別のセッションで自分自身を再度説明する代わりに、クロードに話してもらうことができます。タスクの進行中に他のセッションが受信する概要 (履歴やファイルではありません) を送信します。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/ClaudeDevs/status/2085817074816070014",
-          "source": "X：Claude Devs (@ClaudeDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T19:55:17Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7667,
-      "importance": 0.7667,
-      "importance_score": 0.7667,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7092,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-07T19:55:17Z",
-      "latest_at": "2026-08-07T19:55:17Z",
-      "primary_item": {
-        "id": "5cd73e6648ab0011ce4a2c20cda11a7b62663b44",
-        "title": "Claude Code 会话间可互发消息 / New in Claude Code： your sessions can now message each other. Instead of having to re-explain yours…",
-        "title_zh": "Claude Code 会话间可互发消息",
-        "title_ja": "Claude Code の新機能: セッションが相互にメッセージを送信できるようになりました。改めて説明する代わりに…",
-        "title_en": "New in Claude Code： your sessions can now message each other. Instead of having to re-explain yours…",
-        "title_original": "New in Claude Code： your sessions can now message each other. Instead of having to re-explain yours…",
-        "summary": "Claude Code 新功能：你的会话现在可以互相发送消息了。\n\n无需在另一个会话中重新解释自己，你现在可以让 Claude 代为传达。它会发送一份摘要（而非你的历史记录或文件），另一个会话会在任务进行中接收该摘要。",
-        "summary_ja": "Claude Code の新機能: 会話で相互にメッセージを送信できるようになりました。\n\n別のセッションで自分自身を再度説明する代わりに、クロードに話してもらうことができます。タスクの進行中に他のセッションが受信する概要 (履歴やファイルではありません) を送信します。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/ClaudeDevs/status/2085817074816070014",
-        "source": "X：Claude Devs (@ClaudeDevs)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-08T19:43:42.798058Z"
-      }
-    },
-    {
-      "story_id": "story_90b3cceba55e",
-      "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
-      "title_ja": "Cloudflare: AI ロボットのトラフィックが人間を上回りました。人間と機械のトラフィック比率は 5 年後には 1:1000 に達すると予測されていますが、これはほぼ「誤差」です",
-      "url": "https://www.ithome.com/0/987/438.htm",
-      "primary_url": "https://www.ithome.com/0/987/438.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f5bc497562dfe1981697b7003a50e2b6c4c44767",
-          "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
-          "title_zh": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
-          "title_ja": "Cloudflare: AI ロボットのトラフィックが人間を上回りました。人間と機械のトラフィック比率は 5 年後には 1:1000 に達すると予測されていますが、これはほぼ「誤差」です",
-          "title_en": null,
-          "title_original": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
-          "summary": "Cloudflare 在 2026 年第二季度财报电话会议上披露，AI 机器人等非人类流量已于 2026 年 5 月正式超过人类流量，比 CEO 此前预测的 2027 年底大幅提前。公司预测若趋势延续，五年后非人类流量将达人类流量的 1000 倍，人类在互联网上的存在将变得微不足道。该季度营收 6.96 亿美元，同比增长 36%，净亏损 2.057 亿美元。",
-          "summary_ja": "Cloudflareは2026年の第2四半期の決算発表で、AIボットなどの人間以外のトラフィックが2026年5月に正式に人間のトラフィックを上回ったと明らかにしたが、これはCEOが事前に予測していた2027年末よりも大幅に早かった。同社は、この傾向が続けば、人間以外のトラフィックは 5 年以内に人間のトラフィックの 1,000 倍に達し、インターネット上の人間の存在は重要ではなくなると予測しています。同四半期の収益は6億9,600万ドルで、前年同期比36%増加し、純損失は2億570万ドルでした。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/987/438.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-08T13:38:40Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "f5bc497562dfe1981697b7003a50e2b6c4c44767",
-          "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
-          "title_zh": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
-          "title_ja": "Cloudflare: AI ロボットのトラフィックが人間を上回りました。人間と機械のトラフィック比率は 5 年後には 1:1000 に達すると予測されていますが、これはほぼ「誤差」です",
-          "title_en": null,
-          "title_original": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
-          "summary": "Cloudflare 在 2026 年第二季度财报电话会议上披露，AI 机器人等非人类流量已于 2026 年 5 月正式超过人类流量，比 CEO 此前预测的 2027 年底大幅提前。公司预测若趋势延续，五年后非人类流量将达人类流量的 1000 倍，人类在互联网上的存在将变得微不足道。该季度营收 6.96 亿美元，同比增长 36%，净亏损 2.057 亿美元。",
-          "summary_ja": "Cloudflareは2026年の第2四半期の決算発表で、AIボットなどの人間以外のトラフィックが2026年5月に正式に人間のトラフィックを上回ったと明らかにしたが、これはCEOが事前に予測していた2027年末よりも大幅に早かった。同社は、この傾向が続けば、人間以外のトラフィックは 5 年以内に人間のトラフィックの 1,000 倍に達し、インターネット上の人間の存在は重要ではなくなると予測しています。同四半期の収益は6億9,600万ドルで、前年同期比36%増加し、純損失は2億570万ドルでした。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/987/438.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-08T13:38:40Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7615,
-      "importance": 0.7615,
-      "importance_score": 0.7615,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.916,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-08T13:38:40Z",
-      "latest_at": "2026-08-08T13:38:40Z",
-      "primary_item": {
-        "id": "f5bc497562dfe1981697b7003a50e2b6c4c44767",
-        "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
-        "title_zh": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
-        "title_ja": "Cloudflare: AI ロボットのトラフィックが人間を上回りました。人間と機械のトラフィック比率は 5 年後には 1:1000 に達すると予測されていますが、これはほぼ「誤差」です",
-        "title_en": null,
-        "title_original": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
-        "summary": "Cloudflare 在 2026 年第二季度财报电话会议上披露，AI 机器人等非人类流量已于 2026 年 5 月正式超过人类流量，比 CEO 此前预测的 2027 年底大幅提前。公司预测若趋势延续，五年后非人类流量将达人类流量的 1000 倍，人类在互联网上的存在将变得微不足道。该季度营收 6.96 亿美元，同比增长 36%，净亏损 2.057 亿美元。",
-        "summary_ja": "Cloudflareは2026年の第2四半期の決算発表で、AIボットなどの人間以外のトラフィックが2026年5月に正式に人間のトラフィックを上回ったと明らかにしたが、これはCEOが事前に予測していた2027年末よりも大幅に早かった。同社は、この傾向が続けば、人間以外のトラフィックは 5 年以内に人間のトラフィックの 1,000 倍に達し、インターネット上の人間の存在は重要ではなくなると予測しています。同四半期の収益は6億9,600万ドルで、前年同期比36%増加し、純損失は2億570万ドルでした。",
-        "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/0/987/438.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-08T19:43:42.798058Z"
+        "scored_at": "2026-08-08T20:47:20.029997Z"
       }
     },
     {
@@ -605,16 +425,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7615,
-      "importance": 0.7615,
-      "importance_score": 0.7615,
+      "score": 0.7591,
+      "importance": 0.7591,
+      "importance_score": 0.7591,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.883,
+        "recency": 0.8696,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -642,7 +462,97 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T19:43:42.798058Z"
+        "scored_at": "2026-08-08T20:47:20.029997Z"
+      }
+    },
+    {
+      "story_id": "story_90b3cceba55e",
+      "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+      "title_ja": "Cloudflare: AI ロボットのトラフィックが人間を上回りました。人間と機械のトラフィック比率は 5 年後には 1:1000 に達すると予測されていますが、これはほぼ「誤差」です",
+      "url": "https://www.ithome.com/0/987/438.htm",
+      "primary_url": "https://www.ithome.com/0/987/438.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f5bc497562dfe1981697b7003a50e2b6c4c44767",
+          "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+          "title_zh": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+          "title_ja": "Cloudflare: AI ロボットのトラフィックが人間を上回りました。人間と機械のトラフィック比率は 5 年後には 1:1000 に達すると予測されていますが、これはほぼ「誤差」です",
+          "title_en": null,
+          "title_original": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+          "summary": "Cloudflare 在 2026 年第二季度财报电话会议上披露，AI 机器人等非人类流量已于 2026 年 5 月正式超过人类流量，比 CEO 此前预测的 2027 年底大幅提前。公司预测若趋势延续，五年后非人类流量将达人类流量的 1000 倍，人类在互联网上的存在将变得微不足道。该季度营收 6.96 亿美元，同比增长 36%，净亏损 2.057 亿美元。",
+          "summary_ja": "Cloudflareは2026年の第2四半期の決算発表で、AIボットなどの人間以外のトラフィックが2026年5月に正式に人間のトラフィックを上回ったと明らかにしたが、これはCEOが事前に予測していた2027年末よりも大幅に早かった。同社は、この傾向が続けば、人間以外のトラフィックは 5 年以内に人間のトラフィックの 1,000 倍に達し、インターネット上の人間の存在は重要ではなくなると予測しています。同四半期の収益は6億9,600万ドルで、前年同期比36%増加し、純損失は2億570万ドルでした。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/987/438.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-08T13:38:40Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "f5bc497562dfe1981697b7003a50e2b6c4c44767",
+          "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+          "title_zh": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+          "title_ja": "Cloudflare: AI ロボットのトラフィックが人間を上回りました。人間と機械のトラフィック比率は 5 年後には 1:1000 に達すると予測されていますが、これはほぼ「誤差」です",
+          "title_en": null,
+          "title_original": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+          "summary": "Cloudflare 在 2026 年第二季度财报电话会议上披露，AI 机器人等非人类流量已于 2026 年 5 月正式超过人类流量，比 CEO 此前预测的 2027 年底大幅提前。公司预测若趋势延续，五年后非人类流量将达人类流量的 1000 倍，人类在互联网上的存在将变得微不足道。该季度营收 6.96 亿美元，同比增长 36%，净亏损 2.057 亿美元。",
+          "summary_ja": "Cloudflareは2026年の第2四半期の決算発表で、AIボットなどの人間以外のトラフィックが2026年5月に正式に人間のトラフィックを上回ったと明らかにしたが、これはCEOが事前に予測していた2027年末よりも大幅に早かった。同社は、この傾向が続けば、人間以外のトラフィックは 5 年以内に人間のトラフィックの 1,000 倍に達し、インターネット上の人間の存在は重要ではなくなると予測しています。同四半期の収益は6億9,600万ドルで、前年同期比36%増加し、純損失は2億570万ドルでした。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/987/438.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-08T13:38:40Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.759,
+      "importance": 0.759,
+      "importance_score": 0.759,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9022,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-08T13:38:40Z",
+      "latest_at": "2026-08-08T13:38:40Z",
+      "primary_item": {
+        "id": "f5bc497562dfe1981697b7003a50e2b6c4c44767",
+        "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+        "title_zh": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+        "title_ja": "Cloudflare: AI ロボットのトラフィックが人間を上回りました。人間と機械のトラフィック比率は 5 年後には 1:1000 に達すると予測されていますが、これはほぼ「誤差」です",
+        "title_en": null,
+        "title_original": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+        "summary": "Cloudflare 在 2026 年第二季度财报电话会议上披露，AI 机器人等非人类流量已于 2026 年 5 月正式超过人类流量，比 CEO 此前预测的 2027 年底大幅提前。公司预测若趋势延续，五年后非人类流量将达人类流量的 1000 倍，人类在互联网上的存在将变得微不足道。该季度营收 6.96 亿美元，同比增长 36%，净亏损 2.057 亿美元。",
+        "summary_ja": "Cloudflareは2026年の第2四半期の決算発表で、AIボットなどの人間以外のトラフィックが2026年5月に正式に人間のトラフィックを上回ったと明らかにしたが、これはCEOが事前に予測していた2027年末よりも大幅に早かった。同社は、この傾向が続けば、人間以外のトラフィックは 5 年以内に人間のトラフィックの 1,000 倍に達し、インターネット上の人間の存在は重要ではなくなると予測しています。同四半期の収益は6億9,600万ドルで、前年同期比36%増加し、純損失は2億570万ドルでした。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/0/987/438.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-08T20:47:20.029997Z"
       }
     },
     {
@@ -695,16 +605,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8013,
-      "importance": 0.8013,
-      "importance_score": 0.8013,
+      "score": 0.7994,
+      "importance": 0.7994,
+      "importance_score": 0.7994,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7185,
+        "recency": 0.7076,
         "story_heat": 0.0
       },
       "category": "official",
@@ -733,7 +643,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T19:43:42.798058Z"
+        "scored_at": "2026-08-08T20:47:20.029997Z"
       }
     },
     {
@@ -786,16 +696,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7413,
-      "importance": 0.7413,
-      "importance_score": 0.7413,
+      "score": 0.7387,
+      "importance": 0.7387,
+      "importance_score": 0.7387,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9541,
+        "recency": 0.9396,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -822,7 +732,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T19:43:42.798058Z"
+        "scored_at": "2026-08-08T20:47:20.029997Z"
       }
     },
     {
@@ -875,16 +785,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7525,
-      "importance": 0.7525,
-      "importance_score": 0.7525,
+      "score": 0.7502,
+      "importance": 0.7502,
+      "importance_score": 0.7502,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8495,
+        "recency": 0.8366,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -912,7 +822,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T19:43:42.798058Z"
+        "scored_at": "2026-08-08T20:47:20.029997Z"
       }
     },
     {
@@ -965,16 +875,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7949,
-      "importance": 0.7949,
-      "importance_score": 0.7949,
+      "score": 0.7929,
+      "importance": 0.7929,
+      "importance_score": 0.7929,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7273,
+        "recency": 0.7163,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1003,7 +913,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T19:43:42.798058Z"
+        "scored_at": "2026-08-08T20:47:20.029997Z"
       }
     },
     {
@@ -1056,16 +966,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7393,
-      "importance": 0.7393,
-      "importance_score": 0.7393,
+      "score": 0.7373,
+      "importance": 0.7373,
+      "importance_score": 0.7373,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.743,
+        "recency": 0.7318,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1092,7 +1002,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T19:43:42.798058Z"
+        "scored_at": "2026-08-08T20:47:20.029997Z"
       }
     },
     {
@@ -1210,16 +1120,16 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.638,
-      "importance": 0.638,
-      "importance_score": 0.638,
+      "score": 0.6355,
+      "importance": 0.6355,
+      "importance_score": 0.6355,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.5,
         "ai_relevance": 0.75,
-        "recency": 0.9222,
+        "recency": 0.9083,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1246,7 +1156,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T19:43:42.798058Z"
+        "scored_at": "2026-08-08T20:47:20.029997Z"
       }
     },
     {
@@ -1365,16 +1275,16 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5701,
-      "importance": 0.5701,
-      "importance_score": 0.5701,
+      "score": 0.5674,
+      "importance": 0.5674,
+      "importance_score": 0.5674,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9961,
+        "recency": 0.981,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1401,7 +1311,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T19:43:42.798058Z"
+        "scored_at": "2026-08-08T20:47:20.029997Z"
       }
     },
     {
@@ -1520,16 +1430,16 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5667,
-      "importance": 0.5667,
-      "importance_score": 0.5667,
+      "score": 0.564,
+      "importance": 0.564,
+      "importance_score": 0.564,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9771,
+        "recency": 0.9623,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1556,7 +1466,129 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T19:43:42.798058Z"
+        "scored_at": "2026-08-08T20:47:20.029997Z"
+      }
+    },
+    {
+      "story_id": "story_56cf4cefef8c",
+      "title": "向您的其他 Claude Code 会议发送消息 / Message your other Claude Code sessions",
+      "title_ja": "他のクロード コード セッションにメッセージを送信する",
+      "url": "https://news.ycombinator.com/item?id=49222824",
+      "primary_url": "https://news.ycombinator.com/item?id=49222824",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "8fb803b09e0a647245cdd06d46008e918a3052df",
+          "title": "向您的其他 Claude Code 会议发送消息 / Message your other Claude Code sessions",
+          "title_zh": "向您的其他 Claude Code 会议发送消息",
+          "title_ja": "他のクロード コード セッションにメッセージを送信する",
+          "title_en": "Message your other Claude Code sessions",
+          "title_original": "Message your other Claude Code sessions",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49222824",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-08T20:17:29.087000Z"
+        },
+        {
+          "id": "791785f6eb5df43737e935bb32ce700080603158",
+          "title": "向您的其他 Claude Code 会议发送消息 / Message your other Claude Code sessions",
+          "title_zh": "向您的其他 Claude Code 会议发送消息",
+          "title_ja": "他のクロード コード セッションにメッセージを送信する",
+          "title_en": "Message your other Claude Code sessions",
+          "title_original": "Message your other Claude Code sessions",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://code.claude.com/docs/en/cross-session-messaging",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-08T15:34:49Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "8fb803b09e0a647245cdd06d46008e918a3052df",
+          "title": "向您的其他 Claude Code 会议发送消息 / Message your other Claude Code sessions",
+          "title_zh": "向您的其他 Claude Code 会议发送消息",
+          "title_ja": "他のクロード コード セッションにメッセージを送信する",
+          "title_en": "Message your other Claude Code sessions",
+          "title_original": "Message your other Claude Code sessions",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49222824",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-08T20:17:29.087000Z"
+        },
+        {
+          "id": "791785f6eb5df43737e935bb32ce700080603158",
+          "title": "向您的其他 Claude Code 会议发送消息 / Message your other Claude Code sessions",
+          "title_zh": "向您的其他 Claude Code 会议发送消息",
+          "title_ja": "他のクロード コード セッションにメッセージを送信する",
+          "title_en": "Message your other Claude Code sessions",
+          "title_original": "Message your other Claude Code sessions",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://code.claude.com/docs/en/cross-session-messaging",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-08T15:34:49Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5445,
+      "importance": 0.5445,
+      "importance_score": 0.5445,
+      "importance_label": "值得关注",
+      "importance_label_ja": "要注目",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.993,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-08T15:34:49Z",
+      "latest_at": "2026-08-08T20:17:29.087000Z",
+      "primary_item": {
+        "id": "8fb803b09e0a647245cdd06d46008e918a3052df",
+        "title": "向您的其他 Claude Code 会议发送消息 / Message your other Claude Code sessions",
+        "title_zh": "向您的其他 Claude Code 会议发送消息",
+        "title_ja": "他のクロード コード セッションにメッセージを送信する",
+        "title_en": "Message your other Claude Code sessions",
+        "title_original": "Message your other Claude Code sessions",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49222824",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-08T20:47:20.029997Z"
       }
     },
     {
@@ -1642,16 +1674,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5288,
-      "importance": 0.5288,
-      "importance_score": 0.5288,
+      "score": 0.5263,
+      "importance": 0.5263,
+      "importance_score": 0.5263,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9055,
+        "recency": 0.8918,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1678,129 +1710,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T19:43:42.798058Z"
-      }
-    },
-    {
-      "story_id": "story_0a07367e7420",
-      "title": "我的手机在办公室丢了。Claude建议跟踪蓝牙信号强度 / Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
-      "title_ja": "オフィスで携帯電話を紛失しました。クロードは Bluetooth 信号強度を追跡することを提案しました",
-      "url": "https://news.ycombinator.com/item?id=49215786",
-      "primary_url": "https://news.ycombinator.com/item?id=49215786",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "bf1c65cc89430e279d3f9d693afb7b50b23ef1e2",
-          "title": "我的手机在办公室丢了。Claude建议跟踪蓝牙信号强度 / Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
-          "title_zh": "我的手机在办公室丢了。Claude建议跟踪蓝牙信号强度",
-          "title_ja": "オフィスで携帯電話を紛失しました。クロードは Bluetooth 信号強度を追跡することを提案しました",
-          "title_en": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
-          "title_original": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49215786",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-07T23:30:17.250000Z"
-        },
-        {
-          "id": "d40cded2ab916f1d2037fb7e9959ee271c12514f",
-          "title": "我的手机在办公室丢了。Claude建议跟踪蓝牙信号强度 / Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
-          "title_zh": "我的手机在办公室丢了。Claude建议跟踪蓝牙信号强度",
-          "title_ja": "オフィスで携帯電話を紛失しました。クロードは Bluetooth 信号強度を追跡することを提案しました",
-          "title_en": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
-          "title_original": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-07T20:25:04Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "bf1c65cc89430e279d3f9d693afb7b50b23ef1e2",
-          "title": "我的手机在办公室丢了。Claude建议跟踪蓝牙信号强度 / Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
-          "title_zh": "我的手机在办公室丢了。Claude建议跟踪蓝牙信号强度",
-          "title_ja": "オフィスで携帯電話を紛失しました。クロードは Bluetooth 信号強度を追跡することを提案しました",
-          "title_en": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
-          "title_original": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49215786",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-07T23:30:17.250000Z"
-        },
-        {
-          "id": "d40cded2ab916f1d2037fb7e9959ee271c12514f",
-          "title": "我的手机在办公室丢了。Claude建议跟踪蓝牙信号强度 / Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
-          "title_zh": "我的手机在办公室丢了。Claude建议跟踪蓝牙信号强度",
-          "title_ja": "オフィスで携帯電話を紛失しました。クロードは Bluetooth 信号強度を追跡することを提案しました",
-          "title_en": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
-          "title_original": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-07T20:25:04Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5002,
-      "importance": 0.5002,
-      "importance_score": 0.5002,
-      "importance_label": "值得关注",
-      "importance_label_ja": "要注目",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7469,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-07T20:25:04Z",
-      "latest_at": "2026-08-07T23:30:17.250000Z",
-      "primary_item": {
-        "id": "bf1c65cc89430e279d3f9d693afb7b50b23ef1e2",
-        "title": "我的手机在办公室丢了。Claude建议跟踪蓝牙信号强度 / Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
-        "title_zh": "我的手机在办公室丢了。Claude建议跟踪蓝牙信号强度",
-        "title_ja": "オフィスで携帯電話を紛失しました。クロードは Bluetooth 信号強度を追跡することを提案しました",
-        "title_en": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
-        "title_original": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49215786",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-08T19:43:42.798058Z"
+        "scored_at": "2026-08-08T20:47:20.029997Z"
       }
     }
   ]
