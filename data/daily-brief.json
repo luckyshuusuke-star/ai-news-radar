@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-08T22:45:09.946077Z",
+  "generated_at": "2026-08-08T23:42:37.273764Z",
   "window_hours": 24,
-  "total_items": 12,
+  "total_items": 11,
   "items": [
     {
       "story_id": "story_adfff91a73dc",
@@ -152,16 +152,16 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8557,
-      "importance": 0.8557,
-      "importance_score": 0.8557,
+      "score": 0.8535,
+      "importance": 0.8535,
+      "importance_score": 0.8535,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8895,
+        "recency": 0.8773,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -190,98 +190,97 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T22:47:16.459578Z"
+        "scored_at": "2026-08-08T23:44:42.426567Z"
       }
     },
     {
-      "story_id": "story_5a089134551b",
-      "title": "GitHub Copilot 每周发布 — 8 月 3 日 / GitHub Copilot weekly releases — August 3",
-      "title_ja": "GitHub Copilot の毎週のリリース — 8 月 3 日",
-      "url": "https://github.blog/changelog/2026-08-07-github-copilot-weekly-releases-august-3",
-      "primary_url": "https://github.blog/changelog/2026-08-07-github-copilot-weekly-releases-august-3",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_7bfb99629928",
+      "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+      "title_ja": "OpenAI デスクトップ ChatGPT が音声対話機能を開始、音声でコンピュータを制御して複数のステップのタスクを実行できる",
+      "url": "https://www.ithome.com/0/987/452.htm",
+      "primary_url": "https://www.ithome.com/0/987/452.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "cd9e9649a324d072f3aad152dc6e75c564295c1f",
-          "title": "GitHub Copilot 每周发布 — 8 月 3 日 / GitHub Copilot weekly releases — August 3",
-          "title_zh": "GitHub Copilot 每周发布 — 8 月 3 日",
-          "title_ja": "GitHub Copilot の毎週のリリース — 8 月 3 日",
-          "title_en": "GitHub Copilot weekly releases — August 3",
-          "title_original": "GitHub Copilot weekly releases — August 3",
-          "summary": null,
-          "summary_ja": null,
+          "id": "8f35700fff3c90895fb96bc9bd15729e93a80efc",
+          "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+          "title_zh": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+          "title_ja": "OpenAI デスクトップ ChatGPT が音声対話機能を開始、音声でコンピュータを制御して複数のステップのタスクを実行できる",
+          "title_en": null,
+          "title_original": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+          "summary": "OpenAI 更新 ChatGPT 桌面应用，新增对 ChatGPT Voice 的支持，用户可直接通过语音对话控制 AI 智能体并让其在电脑上执行任务。该功能基于全新语音模型系列 ChatGPT-Live，支持 ChatGPT Work 和 Codex，在 macOS 上还可借助 Appshots 访问屏幕内容。",
+          "summary_ja": "OpenAI は、ChatGPT デスクトップ アプリケーションを更新して、ChatGPT Voice のサポートを追加します。ユーザーは音声会話を通じて AI エージェントを直接制御し、コンピューター上でタスクを実行させることができます。この機能は、新しい音声モデル シリーズ ChatGPT-Live に基づいており、ChatGPT Work および Codex をサポートし、Appshots を使用して macOS 上の画面コンテンツにアクセスすることもできます。",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-07-github-copilot-weekly-releases-august-3",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T23:16:02Z"
+          "url": "https://www.ithome.com/0/987/452.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-08T22:46:14Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "IT之家（RSS）"
       ],
       "items": [
         {
-          "id": "cd9e9649a324d072f3aad152dc6e75c564295c1f",
-          "title": "GitHub Copilot 每周发布 — 8 月 3 日 / GitHub Copilot weekly releases — August 3",
-          "title_zh": "GitHub Copilot 每周发布 — 8 月 3 日",
-          "title_ja": "GitHub Copilot の毎週のリリース — 8 月 3 日",
-          "title_en": "GitHub Copilot weekly releases — August 3",
-          "title_original": "GitHub Copilot weekly releases — August 3",
-          "summary": null,
-          "summary_ja": null,
+          "id": "8f35700fff3c90895fb96bc9bd15729e93a80efc",
+          "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+          "title_zh": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+          "title_ja": "OpenAI デスクトップ ChatGPT が音声対話機能を開始、音声でコンピュータを制御して複数のステップのタスクを実行できる",
+          "title_en": null,
+          "title_original": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+          "summary": "OpenAI 更新 ChatGPT 桌面应用，新增对 ChatGPT Voice 的支持，用户可直接通过语音对话控制 AI 智能体并让其在电脑上执行任务。该功能基于全新语音模型系列 ChatGPT-Live，支持 ChatGPT Work 和 Codex，在 macOS 上还可借助 Appshots 访问屏幕内容。",
+          "summary_ja": "OpenAI は、ChatGPT デスクトップ アプリケーションを更新して、ChatGPT Voice のサポートを追加します。ユーザーは音声会話を通じて AI エージェントを直接制御し、コンピューター上でタスクを実行させることができます。この機能は、新しい音声モデル シリーズ ChatGPT-Live に基づいており、ChatGPT Work および Codex をサポートし、Appshots を使用して macOS 上の画面コンテンツにアクセスすることもできます。",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-07-github-copilot-weekly-releases-august-3",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T23:16:02Z"
+          "url": "https://www.ithome.com/0/987/452.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-08T22:46:14Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8002,
-      "importance": 0.8002,
-      "importance_score": 0.8002,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
+      "score": 0.7652,
+      "importance": 0.7652,
+      "importance_score": 0.7652,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7124,
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9865,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-07T23:16:02Z",
-      "latest_at": "2026-08-07T23:16:02Z",
+      "earliest_at": "2026-08-08T22:46:14Z",
+      "latest_at": "2026-08-08T22:46:14Z",
       "primary_item": {
-        "id": "cd9e9649a324d072f3aad152dc6e75c564295c1f",
-        "title": "GitHub Copilot 每周发布 — 8 月 3 日 / GitHub Copilot weekly releases — August 3",
-        "title_zh": "GitHub Copilot 每周发布 — 8 月 3 日",
-        "title_ja": "GitHub Copilot の毎週のリリース — 8 月 3 日",
-        "title_en": "GitHub Copilot weekly releases — August 3",
-        "title_original": "GitHub Copilot weekly releases — August 3",
-        "summary": null,
-        "summary_ja": null,
+        "id": "8f35700fff3c90895fb96bc9bd15729e93a80efc",
+        "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+        "title_zh": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+        "title_ja": "OpenAI デスクトップ ChatGPT が音声対話機能を開始、音声でコンピュータを制御して複数のステップのタスクを実行できる",
+        "title_en": null,
+        "title_original": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+        "summary": "OpenAI 更新 ChatGPT 桌面应用，新增对 ChatGPT Voice 的支持，用户可直接通过语音对话控制 AI 智能体并让其在电脑上执行任务。该功能基于全新语音模型系列 ChatGPT-Live，支持 ChatGPT Work 和 Codex，在 macOS 上还可借助 Appshots 访问屏幕内容。",
+        "summary_ja": "OpenAI は、ChatGPT デスクトップ アプリケーションを更新して、ChatGPT Voice のサポートを追加します。ユーザーは音声会話を通じて AI エージェントを直接制御し、コンピューター上でタスクを実行させることができます。この機能は、新しい音声モデル シリーズ ChatGPT-Live に基づいており、ChatGPT Work および Codex をサポートし、Appshots を使用して macOS 上の画面コンテンツにアクセスすることもできます。",
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-07-github-copilot-weekly-releases-august-3",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "url": "https://www.ithome.com/0/987/452.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T22:47:16.459578Z"
+        "scored_at": "2026-08-08T23:44:42.426567Z"
       }
     },
     {
@@ -334,16 +333,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7547,
-      "importance": 0.7547,
-      "importance_score": 0.7547,
+      "score": 0.7526,
+      "importance": 0.7526,
+      "importance_score": 0.7526,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8451,
+        "recency": 0.8335,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -371,97 +370,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T22:47:16.459578Z"
-      }
-    },
-    {
-      "story_id": "story_90b3cceba55e",
-      "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
-      "title_ja": "Cloudflare: AI ロボットのトラフィックが人間を上回りました。人間と機械のトラフィック比率は 5 年後には 1:1000 に達すると予測されていますが、これはほぼ「誤差」です",
-      "url": "https://www.ithome.com/0/987/438.htm",
-      "primary_url": "https://www.ithome.com/0/987/438.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f5bc497562dfe1981697b7003a50e2b6c4c44767",
-          "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
-          "title_zh": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
-          "title_ja": "Cloudflare: AI ロボットのトラフィックが人間を上回りました。人間と機械のトラフィック比率は 5 年後には 1:1000 に達すると予測されていますが、これはほぼ「誤差」です",
-          "title_en": null,
-          "title_original": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
-          "summary": "Cloudflare 在 2026 年第二季度财报电话会议上披露，AI 机器人等非人类流量已于 2026 年 5 月正式超过人类流量，比 CEO 此前预测的 2027 年底大幅提前。公司预测若趋势延续，五年后非人类流量将达人类流量的 1000 倍，人类在互联网上的存在将变得微不足道。该季度营收 6.96 亿美元，同比增长 36%，净亏损 2.057 亿美元。",
-          "summary_ja": "Cloudflareは2026年の第2四半期の決算発表で、AIボットなどの人間以外のトラフィックが2026年5月に正式に人間のトラフィックを上回ったと明らかにしたが、これはCEOが事前に予測していた2027年末よりも大幅に早かった。同社は、この傾向が続けば、人間以外のトラフィックは 5 年以内に人間のトラフィックの 1,000 倍に達し、インターネット上の人間の存在は重要ではなくなると予測しています。同四半期の収益は6億9,600万ドルで、前年同期比36%増加し、純損失は2億570万ドルでした。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/987/438.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-08T13:38:40Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "f5bc497562dfe1981697b7003a50e2b6c4c44767",
-          "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
-          "title_zh": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
-          "title_ja": "Cloudflare: AI ロボットのトラフィックが人間を上回りました。人間と機械のトラフィック比率は 5 年後には 1:1000 に達すると予測されていますが、これはほぼ「誤差」です",
-          "title_en": null,
-          "title_original": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
-          "summary": "Cloudflare 在 2026 年第二季度财报电话会议上披露，AI 机器人等非人类流量已于 2026 年 5 月正式超过人类流量，比 CEO 此前预测的 2027 年底大幅提前。公司预测若趋势延续，五年后非人类流量将达人类流量的 1000 倍，人类在互联网上的存在将变得微不足道。该季度营收 6.96 亿美元，同比增长 36%，净亏损 2.057 亿美元。",
-          "summary_ja": "Cloudflareは2026年の第2四半期の決算発表で、AIボットなどの人間以外のトラフィックが2026年5月に正式に人間のトラフィックを上回ったと明らかにしたが、これはCEOが事前に予測していた2027年末よりも大幅に早かった。同社は、この傾向が続けば、人間以外のトラフィックは 5 年以内に人間のトラフィックの 1,000 倍に達し、インターネット上の人間の存在は重要ではなくなると予測しています。同四半期の収益は6億9,600万ドルで、前年同期比36%増加し、純損失は2億570万ドルでした。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/987/438.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-08T13:38:40Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7544,
-      "importance": 0.7544,
-      "importance_score": 0.7544,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8768,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-08T13:38:40Z",
-      "latest_at": "2026-08-08T13:38:40Z",
-      "primary_item": {
-        "id": "f5bc497562dfe1981697b7003a50e2b6c4c44767",
-        "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
-        "title_zh": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
-        "title_ja": "Cloudflare: AI ロボットのトラフィックが人間を上回りました。人間と機械のトラフィック比率は 5 年後には 1:1000 に達すると予測されていますが、これはほぼ「誤差」です",
-        "title_en": null,
-        "title_original": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
-        "summary": "Cloudflare 在 2026 年第二季度财报电话会议上披露，AI 机器人等非人类流量已于 2026 年 5 月正式超过人类流量，比 CEO 此前预测的 2027 年底大幅提前。公司预测若趋势延续，五年后非人类流量将达人类流量的 1000 倍，人类在互联网上的存在将变得微不足道。该季度营收 6.96 亿美元，同比增长 36%，净亏损 2.057 亿美元。",
-        "summary_ja": "Cloudflareは2026年の第2四半期の決算発表で、AIボットなどの人間以外のトラフィックが2026年5月に正式に人間のトラフィックを上回ったと明らかにしたが、これはCEOが事前に予測していた2027年末よりも大幅に早かった。同社は、この傾向が続けば、人間以外のトラフィックは 5 年以内に人間のトラフィックの 1,000 倍に達し、インターネット上の人間の存在は重要ではなくなると予測しています。同四半期の収益は6億9,600万ドルで、前年同期比36%増加し、純損失は2億570万ドルでした。",
-        "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/0/987/438.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-08T22:47:16.459578Z"
+        "scored_at": "2026-08-08T23:44:42.426567Z"
       }
     },
     {
@@ -514,16 +423,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.734,
-      "importance": 0.734,
-      "importance_score": 0.734,
+      "score": 0.7317,
+      "importance": 0.7317,
+      "importance_score": 0.7317,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9132,
+        "recency": 0.9006,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -550,7 +459,97 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T22:47:16.459578Z"
+        "scored_at": "2026-08-08T23:44:42.426567Z"
+      }
+    },
+    {
+      "story_id": "story_90b3cceba55e",
+      "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+      "title_ja": "Cloudflare: AI ロボットのトラフィックが人間を上回りました。人間と機械のトラフィック比率は 5 年後には 1:1000 に達すると予測されていますが、これはほぼ「誤差」です",
+      "url": "https://www.ithome.com/0/987/438.htm",
+      "primary_url": "https://www.ithome.com/0/987/438.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f5bc497562dfe1981697b7003a50e2b6c4c44767",
+          "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+          "title_zh": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+          "title_ja": "Cloudflare: AI ロボットのトラフィックが人間を上回りました。人間と機械のトラフィック比率は 5 年後には 1:1000 に達すると予測されていますが、これはほぼ「誤差」です",
+          "title_en": null,
+          "title_original": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+          "summary": "Cloudflare 在 2026 年第二季度财报电话会议上披露，AI 机器人等非人类流量已于 2026 年 5 月正式超过人类流量，比 CEO 此前预测的 2027 年底大幅提前。公司预测若趋势延续，五年后非人类流量将达人类流量的 1000 倍，人类在互联网上的存在将变得微不足道。该季度营收 6.96 亿美元，同比增长 36%，净亏损 2.057 亿美元。",
+          "summary_ja": "Cloudflareは2026年の第2四半期の決算発表で、AIボットなどの人間以外のトラフィックが2026年5月に正式に人間のトラフィックを上回ったと明らかにしたが、これはCEOが事前に予測していた2027年末よりも大幅に早かった。同社は、この傾向が続けば、人間以外のトラフィックは 5 年以内に人間のトラフィックの 1,000 倍に達し、インターネット上の人間の存在は重要ではなくなると予測しています。同四半期の収益は6億9,600万ドルで、前年同期比36%増加し、純損失は2億570万ドルでした。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/987/438.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-08T13:38:40Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "f5bc497562dfe1981697b7003a50e2b6c4c44767",
+          "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+          "title_zh": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+          "title_ja": "Cloudflare: AI ロボットのトラフィックが人間を上回りました。人間と機械のトラフィック比率は 5 年後には 1:1000 に達すると予測されていますが、これはほぼ「誤差」です",
+          "title_en": null,
+          "title_original": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+          "summary": "Cloudflare 在 2026 年第二季度财报电话会议上披露，AI 机器人等非人类流量已于 2026 年 5 月正式超过人类流量，比 CEO 此前预测的 2027 年底大幅提前。公司预测若趋势延续，五年后非人类流量将达人类流量的 1000 倍，人类在互联网上的存在将变得微不足道。该季度营收 6.96 亿美元，同比增长 36%，净亏损 2.057 亿美元。",
+          "summary_ja": "Cloudflareは2026年の第2四半期の決算発表で、AIボットなどの人間以外のトラフィックが2026年5月に正式に人間のトラフィックを上回ったと明らかにしたが、これはCEOが事前に予測していた2027年末よりも大幅に早かった。同社は、この傾向が続けば、人間以外のトラフィックは 5 年以内に人間のトラフィックの 1,000 倍に達し、インターネット上の人間の存在は重要ではなくなると予測しています。同四半期の収益は6億9,600万ドルで、前年同期比36%増加し、純損失は2億570万ドルでした。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/987/438.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-08T13:38:40Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7522,
+      "importance": 0.7522,
+      "importance_score": 0.7522,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8647,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-08T13:38:40Z",
+      "latest_at": "2026-08-08T13:38:40Z",
+      "primary_item": {
+        "id": "f5bc497562dfe1981697b7003a50e2b6c4c44767",
+        "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+        "title_zh": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+        "title_ja": "Cloudflare: AI ロボットのトラフィックが人間を上回りました。人間と機械のトラフィック比率は 5 年後には 1:1000 に達すると予測されていますが、これはほぼ「誤差」です",
+        "title_en": null,
+        "title_original": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+        "summary": "Cloudflare 在 2026 年第二季度财报电话会议上披露，AI 机器人等非人类流量已于 2026 年 5 月正式超过人类流量，比 CEO 此前预测的 2027 年底大幅提前。公司预测若趋势延续，五年后非人类流量将达人类流量的 1000 倍，人类在互联网上的存在将变得微不足道。该季度营收 6.96 亿美元，同比增长 36%，净亏损 2.057 亿美元。",
+        "summary_ja": "Cloudflareは2026年の第2四半期の決算発表で、AIボットなどの人間以外のトラフィックが2026年5月に正式に人間のトラフィックを上回ったと明らかにしたが、これはCEOが事前に予測していた2027年末よりも大幅に早かった。同社は、この傾向が続けば、人間以外のトラフィックは 5 年以内に人間のトラフィックの 1,000 倍に達し、インターネット上の人間の存在は重要ではなくなると予測しています。同四半期の収益は6億9,600万ドルで、前年同期比36%増加し、純損失は2億570万ドルでした。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/0/987/438.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-08T23:44:42.426567Z"
       }
     },
     {
@@ -603,16 +602,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7459,
-      "importance": 0.7459,
-      "importance_score": 0.7459,
+      "score": 0.7439,
+      "importance": 0.7439,
+      "importance_score": 0.7439,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.813,
+        "recency": 0.8019,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -639,96 +638,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T22:47:16.459578Z"
-      }
-    },
-    {
-      "story_id": "story_b477bfd27d42",
-      "title": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
-      "title_ja": "OpenAI: サイバーセキュリティリスクのため、Astra モデルのリリースを延期",
-      "url": "https://www.ithome.com/0/987/221.htm",
-      "primary_url": "https://www.ithome.com/0/987/221.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b4ef25eaf694b13f89234f0e30c24c87f44820cc",
-          "title": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
-          "title_zh": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
-          "title_ja": "OpenAI: サイバーセキュリティリスクのため、Astra モデルのリリースを延期",
-          "title_en": null,
-          "title_original": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
-          "summary": "OpenAI 因内部与专家评估显示 Astra 在智能体编程和网络安全领域取得重大突破，依据《准备框架》将其列为旗下首个网络安全风险达\"关键\"级别的模型，决定延缓发布。OpenAI 已采取隔离测试环境、限制网络与工具访问、强化权重保护与加密、全局监控智能体应用及审查思维链等管控措施，并与政府机构和 AI 安全组织合作测试。CEO 萨姆·奥尔特曼表示 Astra 性能强劲，正全力推进公开发布。",
-          "summary_ja": "OpenAIは、内部および専門家の評価により、Astraがエージェントプログラミングとネットワークセキュリティの分野で大きな進歩を遂げたことが示され、「Readiness Framework」に従ってネットワークセキュリティリスクが「重大」レベルの最初のモデルとしてリストされたため、リリースを延期することを決定しました。 OpenAIは、テスト環境の隔離、ネットワークとツールへのアクセスの制限、重量保護と暗号化の強化、エージェントアプリケーションのグローバル監視、思考連鎖の見直しなどの管理措置を採用し、テストに関して政府機関やAI安全組織と協力している。 CEOのサム・アルトマン氏は、アストラの業績は好調で、一般公開を進めていると述べた。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/987/221.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T23:08:56Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "b4ef25eaf694b13f89234f0e30c24c87f44820cc",
-          "title": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
-          "title_zh": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
-          "title_ja": "OpenAI: サイバーセキュリティリスクのため、Astra モデルのリリースを延期",
-          "title_en": null,
-          "title_original": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
-          "summary": "OpenAI 因内部与专家评估显示 Astra 在智能体编程和网络安全领域取得重大突破，依据《准备框架》将其列为旗下首个网络安全风险达\"关键\"级别的模型，决定延缓发布。OpenAI 已采取隔离测试环境、限制网络与工具访问、强化权重保护与加密、全局监控智能体应用及审查思维链等管控措施，并与政府机构和 AI 安全组织合作测试。CEO 萨姆·奥尔特曼表示 Astra 性能强劲，正全力推进公开发布。",
-          "summary_ja": "OpenAIは、内部および専門家の評価により、Astraがエージェントプログラミングとネットワークセキュリティの分野で大きな進歩を遂げたことが示され、「Readiness Framework」に従ってネットワークセキュリティリスクが「重大」レベルの最初のモデルとしてリストされたため、リリースを延期することを決定しました。 OpenAIは、テスト環境の隔離、ネットワークとツールへのアクセスの制限、重量保護と暗号化の強化、エージェントアプリケーションのグローバル監視、思考連鎖の見直しなどの管理措置を採用し、テストに関して政府機関やAI安全組織と協力している。 CEOのサム・アルトマン氏は、アストラの業績は好調で、一般公開を進めていると述べた。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/987/221.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T23:08:56Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7336,
-      "importance": 0.7336,
-      "importance_score": 0.7336,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7112,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-07T23:08:56Z",
-      "latest_at": "2026-08-07T23:08:56Z",
-      "primary_item": {
-        "id": "b4ef25eaf694b13f89234f0e30c24c87f44820cc",
-        "title": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
-        "title_zh": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
-        "title_ja": "OpenAI: サイバーセキュリティリスクのため、Astra モデルのリリースを延期",
-        "title_en": null,
-        "title_original": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
-        "summary": "OpenAI 因内部与专家评估显示 Astra 在智能体编程和网络安全领域取得重大突破，依据《准备框架》将其列为旗下首个网络安全风险达\"关键\"级别的模型，决定延缓发布。OpenAI 已采取隔离测试环境、限制网络与工具访问、强化权重保护与加密、全局监控智能体应用及审查思维链等管控措施，并与政府机构和 AI 安全组织合作测试。CEO 萨姆·奥尔特曼表示 Astra 性能强劲，正全力推进公开发布。",
-        "summary_ja": "OpenAIは、内部および専門家の評価により、Astraがエージェントプログラミングとネットワークセキュリティの分野で大きな進歩を遂げたことが示され、「Readiness Framework」に従ってネットワークセキュリティリスクが「重大」レベルの最初のモデルとしてリストされたため、リリースを延期することを決定しました。 OpenAIは、テスト環境の隔離、ネットワークとツールへのアクセスの制限、重量保護と暗号化の強化、エージェントアプリケーションのグローバル監視、思考連鎖の見直しなどの管理措置を採用し、テストに関して政府機関やAI安全組織と協力している。 CEOのサム・アルトマン氏は、アストラの業績は好調で、一般公開を進めていると述べた。",
-        "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/0/987/221.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-08T22:47:16.459578Z"
+        "scored_at": "2026-08-08T23:44:42.426567Z"
       }
     },
     {
@@ -846,16 +756,16 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6309,
-      "importance": 0.6309,
-      "importance_score": 0.6309,
+      "score": 0.6287,
+      "importance": 0.6287,
+      "importance_score": 0.6287,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.5,
         "ai_relevance": 0.75,
-        "recency": 0.8827,
+        "recency": 0.8706,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -882,7 +792,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T22:47:16.459578Z"
+        "scored_at": "2026-08-08T23:44:42.426567Z"
       }
     },
     {
@@ -1001,16 +911,16 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5624,
-      "importance": 0.5624,
-      "importance_score": 0.5624,
+      "score": 0.5601,
+      "importance": 0.5601,
+      "importance_score": 0.5601,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9534,
+        "recency": 0.9403,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1037,7 +947,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T22:47:16.459578Z"
+        "scored_at": "2026-08-08T23:44:42.426567Z"
       }
     },
     {
@@ -1156,16 +1066,16 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5591,
-      "importance": 0.5591,
-      "importance_score": 0.5591,
+      "score": 0.5568,
+      "importance": 0.5568,
+      "importance_score": 0.5568,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9352,
+        "recency": 0.9224,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1192,7 +1102,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T22:47:16.459578Z"
+        "scored_at": "2026-08-08T23:44:42.426567Z"
       }
     },
     {
@@ -1278,16 +1188,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5395,
-      "importance": 0.5395,
-      "importance_score": 0.5395,
+      "score": 0.5371,
+      "importance": 0.5371,
+      "importance_score": 0.5371,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9651,
+        "recency": 0.9518,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1314,7 +1224,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T22:47:16.459578Z"
+        "scored_at": "2026-08-08T23:44:42.426567Z"
       }
     },
     {
@@ -1400,16 +1310,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5218,
-      "importance": 0.5218,
-      "importance_score": 0.5218,
+      "score": 0.5197,
+      "importance": 0.5197,
+      "importance_score": 0.5197,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8666,
+        "recency": 0.8547,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1436,7 +1346,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T22:47:16.459578Z"
+        "scored_at": "2026-08-08T23:44:42.426567Z"
       }
     }
   ]
