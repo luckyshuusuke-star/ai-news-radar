@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T13:55:12.109615Z",
+  "generated_at": "2026-08-08T14:48:35.093424Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -86,16 +86,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8269,
-      "importance": 0.8269,
-      "importance_score": 0.8269,
+      "score": 0.8252,
+      "importance": 0.8252,
+      "importance_score": 0.8252,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7217,
+        "recency": 0.7125,
         "story_heat": 0.25
       },
       "category": "official",
@@ -125,7 +125,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T13:57:17.530422Z"
+        "scored_at": "2026-08-08T14:49:25.827761Z"
       }
     },
     {
@@ -178,16 +178,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8177,
-      "importance": 0.8177,
-      "importance_score": 0.8177,
+      "score": 0.8158,
+      "importance": 0.8158,
+      "importance_score": 0.8158,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8093,
+        "recency": 0.799,
         "story_heat": 0.0
       },
       "category": "official",
@@ -216,7 +216,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T13:57:17.530422Z"
+        "scored_at": "2026-08-08T14:49:25.827761Z"
       }
     },
     {
@@ -269,16 +269,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8148,
-      "importance": 0.8148,
-      "importance_score": 0.8148,
+      "score": 0.8131,
+      "importance": 0.8131,
+      "importance_score": 0.8131,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7489,
+        "recency": 0.7393,
         "story_heat": 0.0
       },
       "category": "official",
@@ -307,7 +307,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T13:57:17.530422Z"
+        "scored_at": "2026-08-08T14:49:25.827761Z"
       }
     },
     {
@@ -360,16 +360,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8132,
-      "importance": 0.8132,
-      "importance_score": 0.8132,
+      "score": 0.8114,
+      "importance": 0.8114,
+      "importance_score": 0.8114,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7843,
+        "recency": 0.7743,
         "story_heat": 0.0
       },
       "category": "official",
@@ -398,7 +398,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T13:57:17.530422Z"
+        "scored_at": "2026-08-08T14:49:25.827761Z"
       }
     },
     {
@@ -451,16 +451,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7778,
-      "importance": 0.7778,
-      "importance_score": 0.7778,
+      "score": 0.776,
+      "importance": 0.776,
+      "importance_score": 0.776,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7711,
+        "recency": 0.7613,
         "story_heat": 0.0
       },
       "category": "official",
@@ -488,7 +488,97 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T13:57:17.530422Z"
+        "scored_at": "2026-08-08T14:49:25.827761Z"
+      }
+    },
+    {
+      "story_id": "story_90b3cceba55e",
+      "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+      "title_ja": "Cloudflare: AI ロボットのトラフィックが人間を上回りました。人間と機械のトラフィック比率は 5 年後には 1:1000 に達すると予測されていますが、これはほぼ「誤差」です",
+      "url": "https://www.ithome.com/0/987/438.htm",
+      "primary_url": "https://www.ithome.com/0/987/438.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f5bc497562dfe1981697b7003a50e2b6c4c44767",
+          "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+          "title_zh": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+          "title_ja": "Cloudflare: AI ロボットのトラフィックが人間を上回りました。人間と機械のトラフィック比率は 5 年後には 1:1000 に達すると予測されていますが、これはほぼ「誤差」です",
+          "title_en": null,
+          "title_original": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+          "summary": "Cloudflare 在 2026 年第二季度财报电话会议上披露，AI 机器人等非人类流量已于 2026 年 5 月正式超过人类流量，比 CEO 此前预测的 2027 年底大幅提前。公司预测若趋势延续，五年后非人类流量将达人类流量的 1000 倍，人类在互联网上的存在将变得微不足道。该季度营收 6.96 亿美元，同比增长 36%，净亏损 2.057 亿美元。",
+          "summary_ja": "Cloudflareは2026年の第2四半期の決算発表で、AIボットなどの人間以外のトラフィックが2026年5月に正式に人間のトラフィックを上回ったと明らかにしたが、これはCEOが事前に予測していた2027年末よりも大幅に早かった。同社は、この傾向が続けば、人間以外のトラフィックは 5 年以内に人間のトラフィックの 1,000 倍に達し、インターネット上の人間の存在は重要ではなくなると予測しています。同四半期の収益は6億9,600万ドルで、前年同期比36%増加し、純損失は2億570万ドルでした。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/987/438.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-08T13:38:40Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "f5bc497562dfe1981697b7003a50e2b6c4c44767",
+          "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+          "title_zh": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+          "title_ja": "Cloudflare: AI ロボットのトラフィックが人間を上回りました。人間と機械のトラフィック比率は 5 年後には 1:1000 に達すると予測されていますが、これはほぼ「誤差」です",
+          "title_en": null,
+          "title_original": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+          "summary": "Cloudflare 在 2026 年第二季度财报电话会议上披露，AI 机器人等非人类流量已于 2026 年 5 月正式超过人类流量，比 CEO 此前预测的 2027 年底大幅提前。公司预测若趋势延续，五年后非人类流量将达人类流量的 1000 倍，人类在互联网上的存在将变得微不足道。该季度营收 6.96 亿美元，同比增长 36%，净亏损 2.057 亿美元。",
+          "summary_ja": "Cloudflareは2026年の第2四半期の決算発表で、AIボットなどの人間以外のトラフィックが2026年5月に正式に人間のトラフィックを上回ったと明らかにしたが、これはCEOが事前に予測していた2027年末よりも大幅に早かった。同社は、この傾向が続けば、人間以外のトラフィックは 5 年以内に人間のトラフィックの 1,000 倍に達し、インターネット上の人間の存在は重要ではなくなると予測しています。同四半期の収益は6億9,600万ドルで、前年同期比36%増加し、純損失は2億570万ドルでした。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/987/438.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-08T13:38:40Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7736,
+      "importance": 0.7736,
+      "importance_score": 0.7736,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9833,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-08T13:38:40Z",
+      "latest_at": "2026-08-08T13:38:40Z",
+      "primary_item": {
+        "id": "f5bc497562dfe1981697b7003a50e2b6c4c44767",
+        "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+        "title_zh": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+        "title_ja": "Cloudflare: AI ロボットのトラフィックが人間を上回りました。人間と機械のトラフィック比率は 5 年後には 1:1000 に達すると予測されていますが、これはほぼ「誤差」です",
+        "title_en": null,
+        "title_original": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+        "summary": "Cloudflare 在 2026 年第二季度财报电话会议上披露，AI 机器人等非人类流量已于 2026 年 5 月正式超过人类流量，比 CEO 此前预测的 2027 年底大幅提前。公司预测若趋势延续，五年后非人类流量将达人类流量的 1000 倍，人类在互联网上的存在将变得微不足道。该季度营收 6.96 亿美元，同比增长 36%，净亏损 2.057 亿美元。",
+        "summary_ja": "Cloudflareは2026年の第2四半期の決算発表で、AIボットなどの人間以外のトラフィックが2026年5月に正式に人間のトラフィックを上回ったと明らかにしたが、これはCEOが事前に予測していた2027年末よりも大幅に早かった。同社は、この傾向が続けば、人間以外のトラフィックは 5 年以内に人間のトラフィックの 1,000 倍に達し、インターネット上の人間の存在は重要ではなくなると予測しています。同四半期の収益は6億9,600万ドルで、前年同期比36%増加し、純損失は2億570万ドルでした。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/0/987/438.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-08T14:49:25.827761Z"
       }
     },
     {
@@ -541,16 +631,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7754,
-      "importance": 0.7754,
-      "importance_score": 0.7754,
+      "score": 0.7732,
+      "importance": 0.7732,
+      "importance_score": 0.7732,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9601,
+        "recency": 0.9478,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -578,97 +668,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T13:57:17.530422Z"
-      }
-    },
-    {
-      "story_id": "story_e1fa47f5bc52",
-      "title": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
-      "title_ja": "Apple Mac 簡体字中国語サポート ドキュメントが更新され、「Apple Smart」Alibaba Qianwen 拡張機能が登場",
-      "url": "https://www.ithome.com/0/987/366.htm",
-      "primary_url": "https://www.ithome.com/0/987/366.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "39ae011c786ec99da87b989825c3aba421ec9838",
-          "title": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
-          "title_zh": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
-          "title_ja": "Apple Mac 簡体字中国語サポート ドキュメントが更新され、「Apple Smart」Alibaba Qianwen 拡張機能が登場",
-          "title_en": null,
-          "title_original": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
-          "summary": "苹果官网 Mac 简体中文使用手册新增《在 Mac 上配合 Apple 智能使用千问》支持文档，明确 Apple 智能可配合阿里巴巴千问模型工作。千问扩展适用于 macOS 26.6 或更高版本，需中国大陆 Apple 账户及机型，支持写作工具与 Siri，用户需登录千问账户使用。",
-          "summary_ja": "Apple の公式 Web サイトの Mac 用簡体字中国語ユーザーマニュアルに、新しいサポート文書「Mac で Apple Smart で Qianwen を使用する」が追加され、Apple Smart が Alibaba Qianwen モデルで動作できることが明確になりました。 Qianwen 拡張機能は macOS 26.6 以降に適用され、中国本土の Apple アカウントとモデルが必要で、書き込みツールと Siri をサポートしており、ユーザーが使用するには Qianwen アカウントにログインする必要があります。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/987/366.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-08T08:25:11Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "39ae011c786ec99da87b989825c3aba421ec9838",
-          "title": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
-          "title_zh": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
-          "title_ja": "Apple Mac 簡体字中国語サポート ドキュメントが更新され、「Apple Smart」Alibaba Qianwen 拡張機能が登場",
-          "title_en": null,
-          "title_original": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
-          "summary": "苹果官网 Mac 简体中文使用手册新增《在 Mac 上配合 Apple 智能使用千问》支持文档，明确 Apple 智能可配合阿里巴巴千问模型工作。千问扩展适用于 macOS 26.6 或更高版本，需中国大陆 Apple 账户及机型，支持写作工具与 Siri，用户需登录千问账户使用。",
-          "summary_ja": "Apple の公式 Web サイトの Mac 用簡体字中国語ユーザーマニュアルに、新しいサポート文書「Mac で Apple Smart で Qianwen を使用する」が追加され、Apple Smart が Alibaba Qianwen モデルで動作できることが明確になりました。 Qianwen 拡張機能は macOS 26.6 以降に適用され、中国本土の Apple アカウントとモデルが必要で、書き込みツールと Siri をサポートしており、ユーザーが使用するには Qianwen アカウントにログインする必要があります。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/987/366.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-08T08:25:11Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7659,
-      "importance": 0.7659,
-      "importance_score": 0.7659,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9236,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-08T08:25:11Z",
-      "latest_at": "2026-08-08T08:25:11Z",
-      "primary_item": {
-        "id": "39ae011c786ec99da87b989825c3aba421ec9838",
-        "title": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
-        "title_zh": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
-        "title_ja": "Apple Mac 簡体字中国語サポート ドキュメントが更新され、「Apple Smart」Alibaba Qianwen 拡張機能が登場",
-        "title_en": null,
-        "title_original": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
-        "summary": "苹果官网 Mac 简体中文使用手册新增《在 Mac 上配合 Apple 智能使用千问》支持文档，明确 Apple 智能可配合阿里巴巴千问模型工作。千问扩展适用于 macOS 26.6 或更高版本，需中国大陆 Apple 账户及机型，支持写作工具与 Siri，用户需登录千问账户使用。",
-        "summary_ja": "Apple の公式 Web サイトの Mac 用簡体字中国語ユーザーマニュアルに、新しいサポート文書「Mac で Apple Smart で Qianwen を使用する」が追加され、Apple Smart が Alibaba Qianwen モデルで動作できることが明確になりました。 Qianwen 拡張機能は macOS 26.6 以降に適用され、中国本土の Apple アカウントとモデルが必要で、書き込みツールと Siri をサポートしており、ユーザーが使用するには Qianwen アカウントにログインする必要があります。",
-        "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/0/987/366.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-08T13:57:17.530422Z"
+        "scored_at": "2026-08-08T14:49:25.827761Z"
       }
     },
     {
@@ -721,16 +721,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8126,
-      "importance": 0.8126,
-      "importance_score": 0.8126,
+      "score": 0.8108,
+      "importance": 0.8108,
+      "importance_score": 0.8108,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7812,
+        "recency": 0.7713,
         "story_heat": 0.0
       },
       "category": "official",
@@ -759,7 +759,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T13:57:17.530422Z"
+        "scored_at": "2026-08-08T14:49:25.827761Z"
       }
     },
     {
@@ -812,16 +812,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7394,
-      "importance": 0.7394,
-      "importance_score": 0.7394,
+      "score": 0.7376,
+      "importance": 0.7376,
+      "importance_score": 0.7376,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7599,
+        "recency": 0.7502,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -848,7 +848,97 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T13:57:17.530422Z"
+        "scored_at": "2026-08-08T14:49:25.827761Z"
+      }
+    },
+    {
+      "story_id": "story_e1fa47f5bc52",
+      "title": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
+      "title_ja": "Apple Mac 簡体字中国語サポート ドキュメントが更新され、「Apple Smart」Alibaba Qianwen 拡張機能が登場",
+      "url": "https://www.ithome.com/0/987/366.htm",
+      "primary_url": "https://www.ithome.com/0/987/366.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "39ae011c786ec99da87b989825c3aba421ec9838",
+          "title": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
+          "title_zh": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
+          "title_ja": "Apple Mac 簡体字中国語サポート ドキュメントが更新され、「Apple Smart」Alibaba Qianwen 拡張機能が登場",
+          "title_en": null,
+          "title_original": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
+          "summary": "苹果官网 Mac 简体中文使用手册新增《在 Mac 上配合 Apple 智能使用千问》支持文档，明确 Apple 智能可配合阿里巴巴千问模型工作。千问扩展适用于 macOS 26.6 或更高版本，需中国大陆 Apple 账户及机型，支持写作工具与 Siri，用户需登录千问账户使用。",
+          "summary_ja": "Apple の公式 Web サイトの Mac 用簡体字中国語ユーザーマニュアルに、新しいサポート文書「Mac で Apple Smart で Qianwen を使用する」が追加され、Apple Smart が Alibaba Qianwen モデルで動作できることが明確になりました。 Qianwen 拡張機能は macOS 26.6 以降に適用され、中国本土の Apple アカウントとモデルが必要で、書き込みツールと Siri をサポートしており、ユーザーが使用するには Qianwen アカウントにログインする必要があります。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/987/366.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-08T08:25:11Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "39ae011c786ec99da87b989825c3aba421ec9838",
+          "title": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
+          "title_zh": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
+          "title_ja": "Apple Mac 簡体字中国語サポート ドキュメントが更新され、「Apple Smart」Alibaba Qianwen 拡張機能が登場",
+          "title_en": null,
+          "title_original": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
+          "summary": "苹果官网 Mac 简体中文使用手册新增《在 Mac 上配合 Apple 智能使用千问》支持文档，明确 Apple 智能可配合阿里巴巴千问模型工作。千问扩展适用于 macOS 26.6 或更高版本，需中国大陆 Apple 账户及机型，支持写作工具与 Siri，用户需登录千问账户使用。",
+          "summary_ja": "Apple の公式 Web サイトの Mac 用簡体字中国語ユーザーマニュアルに、新しいサポート文書「Mac で Apple Smart で Qianwen を使用する」が追加され、Apple Smart が Alibaba Qianwen モデルで動作できることが明確になりました。 Qianwen 拡張機能は macOS 26.6 以降に適用され、中国本土の Apple アカウントとモデルが必要で、書き込みツールと Siri をサポートしており、ユーザーが使用するには Qianwen アカウントにログインする必要があります。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/987/366.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-08T08:25:11Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7637,
+      "importance": 0.7637,
+      "importance_score": 0.7637,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9119,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-08T08:25:11Z",
+      "latest_at": "2026-08-08T08:25:11Z",
+      "primary_item": {
+        "id": "39ae011c786ec99da87b989825c3aba421ec9838",
+        "title": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
+        "title_zh": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
+        "title_ja": "Apple Mac 簡体字中国語サポート ドキュメントが更新され、「Apple Smart」Alibaba Qianwen 拡張機能が登場",
+        "title_en": null,
+        "title_original": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
+        "summary": "苹果官网 Mac 简体中文使用手册新增《在 Mac 上配合 Apple 智能使用千问》支持文档，明确 Apple 智能可配合阿里巴巴千问模型工作。千问扩展适用于 macOS 26.6 或更高版本，需中国大陆 Apple 账户及机型，支持写作工具与 Siri，用户需登录千问账户使用。",
+        "summary_ja": "Apple の公式 Web サイトの Mac 用簡体字中国語ユーザーマニュアルに、新しいサポート文書「Mac で Apple Smart で Qianwen を使用する」が追加され、Apple Smart が Alibaba Qianwen モデルで動作できることが明確になりました。 Qianwen 拡張機能は macOS 26.6 以降に適用され、中国本土の Apple アカウントとモデルが必要で、書き込みツールと Siri をサポートしており、ユーザーが使用するには Qianwen アカウントにログインする必要があります。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/0/987/366.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-08T14:49:25.827761Z"
       }
     },
     {
@@ -901,16 +991,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7343,
-      "importance": 0.7343,
-      "importance_score": 0.7343,
+      "score": 0.7326,
+      "importance": 0.7326,
+      "importance_score": 0.7326,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7485,
+        "recency": 0.7389,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -937,7 +1027,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T13:57:17.530422Z"
+        "scored_at": "2026-08-08T14:49:25.827761Z"
       }
     },
     {
@@ -990,16 +1080,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7243,
-      "importance": 0.7243,
-      "importance_score": 0.7243,
+      "score": 0.7226,
+      "importance": 0.7226,
+      "importance_score": 0.7226,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7596,
+        "recency": 0.7499,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1026,97 +1116,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T13:57:17.530422Z"
-      }
-    },
-    {
-      "story_id": "story_b477bfd27d42",
-      "title": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
-      "title_ja": "OpenAI: サイバーセキュリティリスクのため、Astra モデルのリリースを延期",
-      "url": "https://www.ithome.com/0/987/221.htm",
-      "primary_url": "https://www.ithome.com/0/987/221.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b4ef25eaf694b13f89234f0e30c24c87f44820cc",
-          "title": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
-          "title_zh": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
-          "title_ja": "OpenAI: サイバーセキュリティリスクのため、Astra モデルのリリースを延期",
-          "title_en": null,
-          "title_original": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
-          "summary": "OpenAI 因内部与专家评估显示 Astra 在智能体编程和网络安全领域取得重大突破，依据《准备框架》将其列为旗下首个网络安全风险达\"关键\"级别的模型，决定延缓发布。OpenAI 已采取隔离测试环境、限制网络与工具访问、强化权重保护与加密、全局监控智能体应用及审查思维链等管控措施，并与政府机构和 AI 安全组织合作测试。CEO 萨姆·奥尔特曼表示 Astra 性能强劲，正全力推进公开发布。",
-          "summary_ja": "OpenAIは、内部および専門家の評価により、Astraがエージェントプログラミングとネットワークセキュリティの分野で大きな進歩を遂げたことが示され、「Readiness Framework」に従ってネットワークセキュリティリスクが「重大」レベルの最初のモデルとしてリストされたため、リリースを延期することを決定しました。 OpenAIは、テスト環境の隔離、ネットワークとツールへのアクセスの制限、重量保護と暗号化の強化、エージェントアプリケーションのグローバル監視、思考連鎖の見直しなどの管理措置を採用し、テストに関して政府機関やAI安全組織と協力している。 CEOのサム・アルトマン氏は、アストラの業績は好調で、一般公開を進めていると述べた。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/987/221.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T23:08:56Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "b4ef25eaf694b13f89234f0e30c24c87f44820cc",
-          "title": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
-          "title_zh": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
-          "title_ja": "OpenAI: サイバーセキュリティリスクのため、Astra モデルのリリースを延期",
-          "title_en": null,
-          "title_original": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
-          "summary": "OpenAI 因内部与专家评估显示 Astra 在智能体编程和网络安全领域取得重大突破，依据《准备框架》将其列为旗下首个网络安全风险达\"关键\"级别的模型，决定延缓发布。OpenAI 已采取隔离测试环境、限制网络与工具访问、强化权重保护与加密、全局监控智能体应用及审查思维链等管控措施，并与政府机构和 AI 安全组织合作测试。CEO 萨姆·奥尔特曼表示 Astra 性能强劲，正全力推进公开发布。",
-          "summary_ja": "OpenAIは、内部および専門家の評価により、Astraがエージェントプログラミングとネットワークセキュリティの分野で大きな進歩を遂げたことが示され、「Readiness Framework」に従ってネットワークセキュリティリスクが「重大」レベルの最初のモデルとしてリストされたため、リリースを延期することを決定しました。 OpenAIは、テスト環境の隔離、ネットワークとツールへのアクセスの制限、重量保護と暗号化の強化、エージェントアプリケーションのグローバル監視、思考連鎖の見直しなどの管理措置を採用し、テストに関して政府機関やAI安全組織と協力している。 CEOのサム・アルトマン氏は、アストラの業績は好調で、一般公開を進めていると述べた。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/987/221.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T23:08:56Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.751,
-      "importance": 0.751,
-      "importance_score": 0.751,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8079,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-07T23:08:56Z",
-      "latest_at": "2026-08-07T23:08:56Z",
-      "primary_item": {
-        "id": "b4ef25eaf694b13f89234f0e30c24c87f44820cc",
-        "title": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
-        "title_zh": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
-        "title_ja": "OpenAI: サイバーセキュリティリスクのため、Astra モデルのリリースを延期",
-        "title_en": null,
-        "title_original": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
-        "summary": "OpenAI 因内部与专家评估显示 Astra 在智能体编程和网络安全领域取得重大突破，依据《准备框架》将其列为旗下首个网络安全风险达\"关键\"级别的模型，决定延缓发布。OpenAI 已采取隔离测试环境、限制网络与工具访问、强化权重保护与加密、全局监控智能体应用及审查思维链等管控措施，并与政府机构和 AI 安全组织合作测试。CEO 萨姆·奥尔特曼表示 Astra 性能强劲，正全力推进公开发布。",
-        "summary_ja": "OpenAIは、内部および専門家の評価により、Astraがエージェントプログラミングとネットワークセキュリティの分野で大きな進歩を遂げたことが示され、「Readiness Framework」に従ってネットワークセキュリティリスクが「重大」レベルの最初のモデルとしてリストされたため、リリースを延期することを決定しました。 OpenAIは、テスト環境の隔離、ネットワークとツールへのアクセスの制限、重量保護と暗号化の強化、エージェントアプリケーションのグローバル監視、思考連鎖の見直しなどの管理措置を採用し、テストに関して政府機関やAI安全組織と協力している。 CEOのサム・アルトマン氏は、アストラの業績は好調で、一般公開を進めていると述べた。",
-        "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/0/987/221.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-08T13:57:17.530422Z"
+        "scored_at": "2026-08-08T14:49:25.827761Z"
       }
     },
     {
@@ -1169,16 +1169,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8077,
-      "importance": 0.8077,
-      "importance_score": 0.8077,
+      "score": 0.8059,
+      "importance": 0.8059,
+      "importance_score": 0.8059,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7538,
+        "recency": 0.7442,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1207,7 +1207,96 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T13:57:17.530422Z"
+        "scored_at": "2026-08-08T14:49:25.827761Z"
+      }
+    },
+    {
+      "story_id": "story_b477bfd27d42",
+      "title": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
+      "title_ja": "OpenAI: サイバーセキュリティリスクのため、Astra モデルのリリースを延期",
+      "url": "https://www.ithome.com/0/987/221.htm",
+      "primary_url": "https://www.ithome.com/0/987/221.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b4ef25eaf694b13f89234f0e30c24c87f44820cc",
+          "title": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
+          "title_zh": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
+          "title_ja": "OpenAI: サイバーセキュリティリスクのため、Astra モデルのリリースを延期",
+          "title_en": null,
+          "title_original": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
+          "summary": "OpenAI 因内部与专家评估显示 Astra 在智能体编程和网络安全领域取得重大突破，依据《准备框架》将其列为旗下首个网络安全风险达\"关键\"级别的模型，决定延缓发布。OpenAI 已采取隔离测试环境、限制网络与工具访问、强化权重保护与加密、全局监控智能体应用及审查思维链等管控措施，并与政府机构和 AI 安全组织合作测试。CEO 萨姆·奥尔特曼表示 Astra 性能强劲，正全力推进公开发布。",
+          "summary_ja": "OpenAIは、内部および専門家の評価により、Astraがエージェントプログラミングとネットワークセキュリティの分野で大きな進歩を遂げたことが示され、「Readiness Framework」に従ってネットワークセキュリティリスクが「重大」レベルの最初のモデルとしてリストされたため、リリースを延期することを決定しました。 OpenAIは、テスト環境の隔離、ネットワークとツールへのアクセスの制限、重量保護と暗号化の強化、エージェントアプリケーションのグローバル監視、思考連鎖の見直しなどの管理措置を採用し、テストに関して政府機関やAI安全組織と協力している。 CEOのサム・アルトマン氏は、アストラの業績は好調で、一般公開を進めていると述べた。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/987/221.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T23:08:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "b4ef25eaf694b13f89234f0e30c24c87f44820cc",
+          "title": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
+          "title_zh": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
+          "title_ja": "OpenAI: サイバーセキュリティリスクのため、Astra モデルのリリースを延期",
+          "title_en": null,
+          "title_original": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
+          "summary": "OpenAI 因内部与专家评估显示 Astra 在智能体编程和网络安全领域取得重大突破，依据《准备框架》将其列为旗下首个网络安全风险达\"关键\"级别的模型，决定延缓发布。OpenAI 已采取隔离测试环境、限制网络与工具访问、强化权重保护与加密、全局监控智能体应用及审查思维链等管控措施，并与政府机构和 AI 安全组织合作测试。CEO 萨姆·奥尔特曼表示 Astra 性能强劲，正全力推进公开发布。",
+          "summary_ja": "OpenAIは、内部および専門家の評価により、Astraがエージェントプログラミングとネットワークセキュリティの分野で大きな進歩を遂げたことが示され、「Readiness Framework」に従ってネットワークセキュリティリスクが「重大」レベルの最初のモデルとしてリストされたため、リリースを延期することを決定しました。 OpenAIは、テスト環境の隔離、ネットワークとツールへのアクセスの制限、重量保護と暗号化の強化、エージェントアプリケーションのグローバル監視、思考連鎖の見直しなどの管理措置を採用し、テストに関して政府機関やAI安全組織と協力している。 CEOのサム・アルトマン氏は、アストラの業績は好調で、一般公開を進めていると述べた。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/987/221.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T23:08:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7492,
+      "importance": 0.7492,
+      "importance_score": 0.7492,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7976,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-07T23:08:56Z",
+      "latest_at": "2026-08-07T23:08:56Z",
+      "primary_item": {
+        "id": "b4ef25eaf694b13f89234f0e30c24c87f44820cc",
+        "title": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
+        "title_zh": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
+        "title_ja": "OpenAI: サイバーセキュリティリスクのため、Astra モデルのリリースを延期",
+        "title_en": null,
+        "title_original": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
+        "summary": "OpenAI 因内部与专家评估显示 Astra 在智能体编程和网络安全领域取得重大突破，依据《准备框架》将其列为旗下首个网络安全风险达\"关键\"级别的模型，决定延缓发布。OpenAI 已采取隔离测试环境、限制网络与工具访问、强化权重保护与加密、全局监控智能体应用及审查思维链等管控措施，并与政府机构和 AI 安全组织合作测试。CEO 萨姆·奥尔特曼表示 Astra 性能强劲，正全力推进公开发布。",
+        "summary_ja": "OpenAIは、内部および専門家の評価により、Astraがエージェントプログラミングとネットワークセキュリティの分野で大きな進歩を遂げたことが示され、「Readiness Framework」に従ってネットワークセキュリティリスクが「重大」レベルの最初のモデルとしてリストされたため、リリースを延期することを決定しました。 OpenAIは、テスト環境の隔離、ネットワークとツールへのアクセスの制限、重量保護と暗号化の強化、エージェントアプリケーションのグローバル監視、思考連鎖の見直しなどの管理措置を採用し、テストに関して政府機関やAI安全組織と協力している。 CEOのサム・アルトマン氏は、アストラの業績は好調で、一般公開を進めていると述べた。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/0/987/221.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-08T14:49:25.827761Z"
       }
     },
     {
@@ -1260,16 +1349,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8063,
-      "importance": 0.8063,
-      "importance_score": 0.8063,
+      "score": 0.8045,
+      "importance": 0.8045,
+      "importance_score": 0.8045,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7908,
+        "recency": 0.7807,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1298,7 +1387,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T13:57:17.530422Z"
+        "scored_at": "2026-08-08T14:49:25.827761Z"
       }
     },
     {
@@ -1351,16 +1440,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8015,
-      "importance": 0.8015,
-      "importance_score": 0.8015,
+      "score": 0.7999,
+      "importance": 0.7999,
+      "importance_score": 0.7999,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7195,
+        "recency": 0.7103,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1389,7 +1478,129 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T13:57:17.530422Z"
+        "scored_at": "2026-08-08T14:49:25.827761Z"
+      }
+    },
+    {
+      "story_id": "story_9e59e9a2b788",
+      "title": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表 / Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+      "title_ja": "これで、Hugging Face に対する OpenAI の偶発的攻撃のタイムラインができました。",
+      "url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h",
+      "primary_url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h",
+      "source": "Simon Willison",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "bc60dfc47cca456c2dafc164f87626edfbc7b050",
+          "title": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表 / Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+          "title_zh": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表",
+          "title_ja": "これで、Hugging Face に対する OpenAI の偶発的攻撃のタイムラインができました。",
+          "title_en": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+          "title_original": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h",
+          "source": "Simon Willison",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-08T14:06:41Z"
+        },
+        {
+          "id": "4d15169b132bea5df501427ef44496c13ad48c19",
+          "title": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表 / Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+          "title_zh": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表",
+          "title_ja": "これで、Hugging Face に対する OpenAI の偶発的攻撃のタイムラインができました。",
+          "title_en": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+          "title_original": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49220609",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-08T12:50:28.307000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Simon Willison",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "bc60dfc47cca456c2dafc164f87626edfbc7b050",
+          "title": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表 / Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+          "title_zh": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表",
+          "title_ja": "これで、Hugging Face に対する OpenAI の偶発的攻撃のタイムラインができました。",
+          "title_en": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+          "title_original": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h",
+          "source": "Simon Willison",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-08T14:06:41Z"
+        },
+        {
+          "id": "4d15169b132bea5df501427ef44496c13ad48c19",
+          "title": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表 / Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+          "title_zh": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表",
+          "title_ja": "これで、Hugging Face に対する OpenAI の偶発的攻撃のタイムラインができました。",
+          "title_en": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+          "title_original": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49220609",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-08T12:50:28.307000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6252,
+      "importance": 0.6252,
+      "importance_score": 0.6252,
+      "importance_label": "值得关注",
+      "importance_label_ja": "要注目",
+      "importance_breakdown": {
+        "editorial": 0.54,
+        "source_tier": 0.5,
+        "ai_relevance": 0.75,
+        "recency": 0.99,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-08T12:50:28.307000Z",
+      "latest_at": "2026-08-08T14:06:41Z",
+      "primary_item": {
+        "id": "bc60dfc47cca456c2dafc164f87626edfbc7b050",
+        "title": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表 / Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+        "title_zh": "现在我们有了 OpenAI 对 Hugging Face 意外攻击的时间表",
+        "title_ja": "これで、Hugging Face に対する OpenAI の偶発的攻撃のタイムラインができました。",
+        "title_en": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+        "title_original": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h",
+        "source": "Simon Willison",
+        "source_name": "OPML RSS"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-08T14:49:25.827761Z"
       }
     },
     {
@@ -1442,16 +1653,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7981,
-      "importance": 0.7981,
-      "importance_score": 0.7981,
+      "score": 0.7964,
+      "importance": 0.7964,
+      "importance_score": 0.7964,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7452,
+        "recency": 0.7357,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1480,7 +1691,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T13:57:17.530422Z"
+        "scored_at": "2026-08-08T14:49:25.827761Z"
       }
     },
     {
@@ -1664,16 +1875,16 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5923,
-      "importance": 0.5923,
-      "importance_score": 0.5923,
+      "score": 0.5904,
+      "importance": 0.5904,
+      "importance_score": 0.5904,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8417,
+        "recency": 0.831,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1700,7 +1911,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T13:57:17.530422Z"
+        "scored_at": "2026-08-08T14:49:25.827761Z"
       }
     },
     {
@@ -1753,16 +1964,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7969,
-      "importance": 0.7969,
-      "importance_score": 0.7969,
+      "score": 0.7952,
+      "importance": 0.7952,
+      "importance_score": 0.7952,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7383,
+        "recency": 0.7289,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1791,250 +2002,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T13:57:17.530422Z"
-      }
-    },
-    {
-      "story_id": "story_619c631f8dd4",
-      "title": "OpenAI 对新模型踩刹车，因为它被认为太强大了 / OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
-      "title_ja": "OpenAI、新モデルが強力すぎるとしてブレーキをかける",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
-      "source": "The Verge",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "b155f569133e42dbe18da9d39c1d621e3ff71a00",
-          "title": "OpenAI 对新模型踩刹车，因为它被认为太强大了 / OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
-          "title_zh": "OpenAI 对新模型踩刹车，因为它被认为太强大了",
-          "title_ja": "OpenAI、新モデルが強力すぎるとしてブレーキをかける",
-          "title_en": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
-          "title_original": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-07T18:40:34Z"
-        },
-        {
-          "id": "f11ba5ec225d341c8d4856109d2806c7968aa821",
-          "title": "OpenAI 对新模型踩刹车，因为它被认为太强大了 / OpenAI puts the brakes on a new model because it’s supposedly too powerful",
-          "title_zh": "OpenAI 对新模型踩刹车，因为它被认为太强大了",
-          "title_ja": "OpenAI、新モデルが強力すぎるとしてブレーキをかける",
-          "title_en": "OpenAI puts the brakes on a new model because it’s supposedly too powerful",
-          "title_original": "OpenAI puts the brakes on a new model because it’s supposedly too powerful",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-07T18:40:34Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Verge"
-      ],
-      "items": [
-        {
-          "id": "b155f569133e42dbe18da9d39c1d621e3ff71a00",
-          "title": "OpenAI 对新模型踩刹车，因为它被认为太强大了 / OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
-          "title_zh": "OpenAI 对新模型踩刹车，因为它被认为太强大了",
-          "title_ja": "OpenAI、新モデルが強力すぎるとしてブレーキをかける",
-          "title_en": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
-          "title_original": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-07T18:40:34Z"
-        },
-        {
-          "id": "f11ba5ec225d341c8d4856109d2806c7968aa821",
-          "title": "OpenAI 对新模型踩刹车，因为它被认为太强大了 / OpenAI puts the brakes on a new model because it’s supposedly too powerful",
-          "title_zh": "OpenAI 对新模型踩刹车，因为它被认为太强大了",
-          "title_ja": "OpenAI、新モデルが強力すぎるとしてブレーキをかける",
-          "title_en": "OpenAI puts the brakes on a new model because it’s supposedly too powerful",
-          "title_original": "OpenAI puts the brakes on a new model because it’s supposedly too powerful",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-07T18:40:34Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5843,
-      "importance": 0.5843,
-      "importance_score": 0.5843,
-      "importance_label": "值得关注",
-      "importance_label_ja": "要注目",
-      "importance_breakdown": {
-        "editorial": 0.5112,
-        "source_tier": 0.58,
-        "ai_relevance": 0.71,
-        "recency": 0.7574,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-07T18:40:34Z",
-      "latest_at": "2026-08-07T18:40:34Z",
-      "primary_item": {
-        "id": "b155f569133e42dbe18da9d39c1d621e3ff71a00",
-        "title": "OpenAI 对新模型踩刹车，因为它被认为太强大了 / OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
-        "title_zh": "OpenAI 对新模型踩刹车，因为它被认为太强大了",
-        "title_ja": "OpenAI、新モデルが強力すぎるとしてブレーキをかける",
-        "title_en": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
-        "title_original": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
-        "source": "The Verge",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-08T13:57:17.530422Z"
-      }
-    },
-    {
-      "story_id": "story_125df7bc2ccc",
-      "title": "代币末日已经到来：公司正争先恐后地停止在人工智能上投入大量资金 / The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI",
-      "title_ja": "トークンポカリプスが到来：企業はAIへの多額の支出をやめようと躍起になっている",
-      "url": "https://simonwillison.net/2026/Aug/7/pdfs-are-terrible",
-      "primary_url": "https://simonwillison.net/2026/Aug/7/pdfs-are-terrible",
-      "source": "Simon Willison",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "493091e546bed10624845f6b4cfa832fea66a6d1",
-          "title": "代币末日已经到来：公司正争先恐后地停止在人工智能上投入大量资金 / The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI",
-          "title_zh": "代币末日已经到来：公司正争先恐后地停止在人工智能上投入大量资金",
-          "title_ja": "トークンポカリプスが到来：企業はAIへの多額の支出をやめようと躍起になっている",
-          "title_en": "The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI",
-          "title_original": "The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://simonwillison.net/2026/Aug/7/pdfs-are-terrible",
-          "source": "Simon Willison",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-07T16:18:51Z"
-        },
-        {
-          "id": "113b6c32b19ac0dca19a1228cf556fbebf5e97e4",
-          "title": "Tokenpocalypse 已经到来：公司正争先恐后地停止在人工智能上的支出 / The Tokenpocalypse Is Here: Companies Are Scrambling to Stop Spending on AI",
-          "title_zh": "Tokenpocalypse 已经到来：公司正争先恐后地停止在人工智能上的支出",
-          "title_ja": "トークンポカリプスの到来: 企業は AI への支出をやめようと躍起になっている",
-          "title_en": "The Tokenpocalypse Is Here: Companies Are Scrambling to Stop Spending on AI",
-          "title_original": "The Tokenpocalypse Is Here: Companies Are Scrambling to Stop Spending on AI",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.404media.co/the-tokenpocalypse-is-here-companies-are-scrambling-to-stop-spending-so-much-on-ai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-07T16:38:57Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Simon Willison"
-      ],
-      "items": [
-        {
-          "id": "493091e546bed10624845f6b4cfa832fea66a6d1",
-          "title": "代币末日已经到来：公司正争先恐后地停止在人工智能上投入大量资金 / The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI",
-          "title_zh": "代币末日已经到来：公司正争先恐后地停止在人工智能上投入大量资金",
-          "title_ja": "トークンポカリプスが到来：企業はAIへの多額の支出をやめようと躍起になっている",
-          "title_en": "The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI",
-          "title_original": "The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://simonwillison.net/2026/Aug/7/pdfs-are-terrible",
-          "source": "Simon Willison",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-08-07T16:18:51Z"
-        },
-        {
-          "id": "113b6c32b19ac0dca19a1228cf556fbebf5e97e4",
-          "title": "Tokenpocalypse 已经到来：公司正争先恐后地停止在人工智能上的支出 / The Tokenpocalypse Is Here: Companies Are Scrambling to Stop Spending on AI",
-          "title_zh": "Tokenpocalypse 已经到来：公司正争先恐后地停止在人工智能上的支出",
-          "title_ja": "トークンポカリプスの到来: 企業は AI への支出をやめようと躍起になっている",
-          "title_en": "The Tokenpocalypse Is Here: Companies Are Scrambling to Stop Spending on AI",
-          "title_original": "The Tokenpocalypse Is Here: Companies Are Scrambling to Stop Spending on AI",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.404media.co/the-tokenpocalypse-is-here-companies-are-scrambling-to-stop-spending-so-much-on-ai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-07T16:38:57Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5455,
-      "importance": 0.5455,
-      "importance_score": 0.5455,
-      "importance_label": "值得关注",
-      "importance_label_ja": "要注目",
-      "importance_breakdown": {
-        "editorial": 0.4824,
-        "source_tier": 0.5,
-        "ai_relevance": 0.67,
-        "recency": 0.732,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-07T16:18:51Z",
-      "latest_at": "2026-08-07T16:38:57Z",
-      "primary_item": {
-        "id": "493091e546bed10624845f6b4cfa832fea66a6d1",
-        "title": "代币末日已经到来：公司正争先恐后地停止在人工智能上投入大量资金 / The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI",
-        "title_zh": "代币末日已经到来：公司正争先恐后地停止在人工智能上投入大量资金",
-        "title_ja": "トークンポカリプスが到来：企業はAIへの多額の支出をやめようと躍起になっている",
-        "title_en": "The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI",
-        "title_original": "The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://simonwillison.net/2026/Aug/7/pdfs-are-terrible",
-        "source": "Simon Willison",
-        "source_name": "OPML RSS"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-08T13:57:17.530422Z"
+        "scored_at": "2026-08-08T14:49:25.827761Z"
       }
     }
   ]
