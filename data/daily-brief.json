@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-08T20:46:29.114897Z",
+  "generated_at": "2026-08-08T21:44:23.245387Z",
   "window_hours": 24,
-  "total_items": 15,
+  "total_items": 12,
   "items": [
     {
       "story_id": "story_adfff91a73dc",
@@ -152,16 +152,16 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8604,
-      "importance": 0.8604,
-      "importance_score": 0.8604,
+      "score": 0.8581,
+      "importance": 0.8581,
+      "importance_score": 0.8581,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9153,
+        "recency": 0.9026,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -190,7 +190,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T20:47:20.029997Z"
+        "scored_at": "2026-08-08T21:45:04.899848Z"
       }
     },
     {
@@ -243,16 +243,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8039,
-      "importance": 0.8039,
-      "importance_score": 0.8039,
+      "score": 0.8021,
+      "importance": 0.8021,
+      "importance_score": 0.8021,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.733,
+        "recency": 0.7229,
         "story_heat": 0.0
       },
       "category": "official",
@@ -281,98 +281,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T20:47:20.029997Z"
-      }
-    },
-    {
-      "story_id": "story_2252b2f8dcb5",
-      "title": "Copilot影响仪表板添加了投资回报部分 / Copilot impact dashboard adds a return on investment section",
-      "title_ja": "Copilot Impact ダッシュボードに投資収益率セクションが追加されました",
-      "url": "https://github.blog/changelog/2026-08-07-copilot-impact-dashboard-adds-a-return-on-investment-section",
-      "primary_url": "https://github.blog/changelog/2026-08-07-copilot-impact-dashboard-adds-a-return-on-investment-section",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "cdfa89f56debfbcfa3d975dcc56be6da85f460ea",
-          "title": "Copilot影响仪表板添加了投资回报部分 / Copilot impact dashboard adds a return on investment section",
-          "title_zh": "Copilot影响仪表板添加了投资回报部分",
-          "title_ja": "Copilot Impact ダッシュボードに投資収益率セクションが追加されました",
-          "title_en": "Copilot impact dashboard adds a return on investment section",
-          "title_original": "Copilot impact dashboard adds a return on investment section",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-07-copilot-impact-dashboard-adds-a-return-on-investment-section",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T21:05:37Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "cdfa89f56debfbcfa3d975dcc56be6da85f460ea",
-          "title": "Copilot影响仪表板添加了投资回报部分 / Copilot impact dashboard adds a return on investment section",
-          "title_zh": "Copilot影响仪表板添加了投资回报部分",
-          "title_ja": "Copilot Impact ダッシュボードに投資収益率セクションが追加されました",
-          "title_en": "Copilot impact dashboard adds a return on investment section",
-          "title_original": "Copilot impact dashboard adds a return on investment section",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-07-copilot-impact-dashboard-adds-a-return-on-investment-section",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T21:05:37Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7999,
-      "importance": 0.7999,
-      "importance_score": 0.7999,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7104,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-07T21:05:37Z",
-      "latest_at": "2026-08-07T21:05:37Z",
-      "primary_item": {
-        "id": "cdfa89f56debfbcfa3d975dcc56be6da85f460ea",
-        "title": "Copilot影响仪表板添加了投资回报部分 / Copilot impact dashboard adds a return on investment section",
-        "title_zh": "Copilot影响仪表板添加了投资回报部分",
-        "title_ja": "Copilot Impact ダッシュボードに投資収益率セクションが追加されました",
-        "title_en": "Copilot impact dashboard adds a return on investment section",
-        "title_original": "Copilot impact dashboard adds a return on investment section",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-07-copilot-impact-dashboard-adds-a-return-on-investment-section",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-08T20:47:20.029997Z"
+        "scored_at": "2026-08-08T21:45:04.899848Z"
       }
     },
     {
@@ -425,16 +334,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7591,
-      "importance": 0.7591,
-      "importance_score": 0.7591,
+      "score": 0.757,
+      "importance": 0.757,
+      "importance_score": 0.757,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8696,
+        "recency": 0.8575,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -462,7 +371,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T20:47:20.029997Z"
+        "scored_at": "2026-08-08T21:45:04.899848Z"
       }
     },
     {
@@ -515,16 +424,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.759,
-      "importance": 0.759,
-      "importance_score": 0.759,
+      "score": 0.7567,
+      "importance": 0.7567,
+      "importance_score": 0.7567,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9022,
+        "recency": 0.8897,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -552,98 +461,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T20:47:20.029997Z"
-      }
-    },
-    {
-      "story_id": "story_06de520f313d",
-      "title": "Copilot代码审查工作水平通常可用 / Copilot code review effort levels are generally available",
-      "title_ja": "Copilot コードレビュー作業レベルの一般提供が開始されました",
-      "url": "https://github.blog/changelog/2026-08-07-copilot-code-review-effort-levels-are-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-08-07-copilot-code-review-effort-levels-are-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "024339c5a1f2ab6b5c19f1748f4619f9ae332f7a",
-          "title": "Copilot代码审查工作水平通常可用 / Copilot code review effort levels are generally available",
-          "title_zh": "Copilot代码审查工作水平通常可用",
-          "title_ja": "Copilot コードレビュー作業レベルの一般提供が開始されました",
-          "title_en": "Copilot code review effort levels are generally available",
-          "title_original": "Copilot code review effort levels are generally available",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-07-copilot-code-review-effort-levels-are-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T20:49:26Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "024339c5a1f2ab6b5c19f1748f4619f9ae332f7a",
-          "title": "Copilot代码审查工作水平通常可用 / Copilot code review effort levels are generally available",
-          "title_zh": "Copilot代码审查工作水平通常可用",
-          "title_ja": "Copilot コードレビュー作業レベルの一般提供が開始されました",
-          "title_en": "Copilot code review effort levels are generally available",
-          "title_original": "Copilot code review effort levels are generally available",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-07-copilot-code-review-effort-levels-are-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T20:49:26Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7994,
-      "importance": 0.7994,
-      "importance_score": 0.7994,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7076,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-07T20:49:26Z",
-      "latest_at": "2026-08-07T20:49:26Z",
-      "primary_item": {
-        "id": "024339c5a1f2ab6b5c19f1748f4619f9ae332f7a",
-        "title": "Copilot代码审查工作水平通常可用 / Copilot code review effort levels are generally available",
-        "title_zh": "Copilot代码审查工作水平通常可用",
-        "title_ja": "Copilot コードレビュー作業レベルの一般提供が開始されました",
-        "title_en": "Copilot code review effort levels are generally available",
-        "title_original": "Copilot code review effort levels are generally available",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-07-copilot-code-review-effort-levels-are-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-08T20:47:20.029997Z"
+        "scored_at": "2026-08-08T21:45:04.899848Z"
       }
     },
     {
@@ -696,16 +514,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7387,
-      "importance": 0.7387,
-      "importance_score": 0.7387,
+      "score": 0.7364,
+      "importance": 0.7364,
+      "importance_score": 0.7364,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9396,
+        "recency": 0.9266,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -732,7 +550,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T20:47:20.029997Z"
+        "scored_at": "2026-08-08T21:45:04.899848Z"
       }
     },
     {
@@ -785,22 +603,21 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7502,
-      "importance": 0.7502,
-      "importance_score": 0.7502,
+      "score": 0.7481,
+      "importance": 0.7481,
+      "importance_score": 0.7481,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8366,
+        "recency": 0.825,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-08T08:25:11Z",
       "latest_at": "2026-08-08T08:25:11Z",
@@ -822,98 +639,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T20:47:20.029997Z"
-      }
-    },
-    {
-      "story_id": "story_1f7d8d6cb096",
-      "title": "企业现在可以安装第三方 GitHub 应用程序 / Enterprises can now install third-party GitHub Apps",
-      "title_ja": "企業はサードパーティの GitHub アプリをインストールできるようになりました",
-      "url": "https://github.blog/changelog/2026-08-07-enterprises-can-now-install-third-party-github-apps",
-      "primary_url": "https://github.blog/changelog/2026-08-07-enterprises-can-now-install-third-party-github-apps",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "7bc118bdf0a3018dcfa206e173dd4cda67b95246",
-          "title": "企业现在可以安装第三方 GitHub 应用程序 / Enterprises can now install third-party GitHub Apps",
-          "title_zh": "企业现在可以安装第三方 GitHub 应用程序",
-          "title_ja": "企業はサードパーティの GitHub アプリをインストールできるようになりました",
-          "title_en": "Enterprises can now install third-party GitHub Apps",
-          "title_original": "Enterprises can now install third-party GitHub Apps",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-07-enterprises-can-now-install-third-party-github-apps",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T21:40:03Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "7bc118bdf0a3018dcfa206e173dd4cda67b95246",
-          "title": "企业现在可以安装第三方 GitHub 应用程序 / Enterprises can now install third-party GitHub Apps",
-          "title_zh": "企业现在可以安装第三方 GitHub 应用程序",
-          "title_ja": "企業はサードパーティの GitHub アプリをインストールできるようになりました",
-          "title_en": "Enterprises can now install third-party GitHub Apps",
-          "title_original": "Enterprises can now install third-party GitHub Apps",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-07-enterprises-can-now-install-third-party-github-apps",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T21:40:03Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7929,
-      "importance": 0.7929,
-      "importance_score": 0.7929,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7163,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-07T21:40:03Z",
-      "latest_at": "2026-08-07T21:40:03Z",
-      "primary_item": {
-        "id": "7bc118bdf0a3018dcfa206e173dd4cda67b95246",
-        "title": "企业现在可以安装第三方 GitHub 应用程序 / Enterprises can now install third-party GitHub Apps",
-        "title_zh": "企业现在可以安装第三方 GitHub 应用程序",
-        "title_ja": "企業はサードパーティの GitHub アプリをインストールできるようになりました",
-        "title_en": "Enterprises can now install third-party GitHub Apps",
-        "title_original": "Enterprises can now install third-party GitHub Apps",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-07-enterprises-can-now-install-third-party-github-apps",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-08T20:47:20.029997Z"
+        "scored_at": "2026-08-08T21:45:04.899848Z"
       }
     },
     {
@@ -966,16 +692,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7373,
-      "importance": 0.7373,
-      "importance_score": 0.7373,
+      "score": 0.7355,
+      "importance": 0.7355,
+      "importance_score": 0.7355,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7318,
+        "recency": 0.7216,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1002,7 +728,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T20:47:20.029997Z"
+        "scored_at": "2026-08-08T21:45:04.899848Z"
       }
     },
     {
@@ -1120,16 +846,16 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6355,
-      "importance": 0.6355,
-      "importance_score": 0.6355,
+      "score": 0.6332,
+      "importance": 0.6332,
+      "importance_score": 0.6332,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.5,
         "ai_relevance": 0.75,
-        "recency": 0.9083,
+        "recency": 0.8957,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1156,7 +882,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T20:47:20.029997Z"
+        "scored_at": "2026-08-08T21:45:04.899848Z"
       }
     },
     {
@@ -1275,16 +1001,16 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5674,
-      "importance": 0.5674,
-      "importance_score": 0.5674,
+      "score": 0.5649,
+      "importance": 0.5649,
+      "importance_score": 0.5649,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.981,
+        "recency": 0.9674,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1311,7 +1037,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T20:47:20.029997Z"
+        "scored_at": "2026-08-08T21:45:04.899848Z"
       }
     },
     {
@@ -1430,16 +1156,16 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.564,
-      "importance": 0.564,
-      "importance_score": 0.564,
+      "score": 0.5616,
+      "importance": 0.5616,
+      "importance_score": 0.5616,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9623,
+        "recency": 0.949,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1466,7 +1192,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T20:47:20.029997Z"
+        "scored_at": "2026-08-08T21:45:04.899848Z"
       }
     },
     {
@@ -1552,16 +1278,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5445,
-      "importance": 0.5445,
-      "importance_score": 0.5445,
+      "score": 0.5421,
+      "importance": 0.5421,
+      "importance_score": 0.5421,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.993,
+        "recency": 0.9793,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1588,7 +1314,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T20:47:20.029997Z"
+        "scored_at": "2026-08-08T21:45:04.899848Z"
       }
     },
     {
@@ -1674,16 +1400,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5263,
-      "importance": 0.5263,
-      "importance_score": 0.5263,
+      "score": 0.5241,
+      "importance": 0.5241,
+      "importance_score": 0.5241,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8918,
+        "recency": 0.8794,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1710,7 +1436,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-08T20:47:20.029997Z"
+        "scored_at": "2026-08-08T21:45:04.899848Z"
       }
     }
   ]
