@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-09T07:14:14.149085Z",
+  "generated_at": "2026-08-09T08:01:04.058612Z",
   "window_hours": 24,
-  "total_items": 13,
+  "total_items": 14,
   "items": [
     {
       "story_id": "story_adfff91a73dc",
@@ -94,8 +94,8 @@
         },
         {
           "id": "29407e5727109cce76c77d1f73cb883e658a308f",
-          "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉 / Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-          "title_zh": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
+          "title": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线 / Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+          "title_zh": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线",
           "title_ja": "これで、Hugging Face に対する OpenAI の偶発的攻撃のタイムラインができました。",
           "title_en": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
           "title_original": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
@@ -110,8 +110,8 @@
         },
         {
           "id": "5f517648bf2c7bf6013bdff103610531a35b52c5",
-          "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉 / Timeline of the OpenAI accidental attack against Hugging Face",
-          "title_zh": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
+          "title": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线 / Timeline of the OpenAI accidental attack against Hugging Face",
+          "title_zh": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线",
           "title_ja": "Hugging Face に対する OpenAI の偶発的攻撃のタイムライン",
           "title_en": "Timeline of the OpenAI accidental attack against Hugging Face",
           "title_original": "Timeline of the OpenAI accidental attack against Hugging Face",
@@ -217,8 +217,8 @@
         },
         {
           "id": "29407e5727109cce76c77d1f73cb883e658a308f",
-          "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉 / Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-          "title_zh": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
+          "title": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线 / Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+          "title_zh": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线",
           "title_ja": "これで、Hugging Face に対する OpenAI の偶発的攻撃のタイムラインができました。",
           "title_en": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
           "title_original": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
@@ -233,8 +233,8 @@
         },
         {
           "id": "5f517648bf2c7bf6013bdff103610531a35b52c5",
-          "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉 / Timeline of the OpenAI accidental attack against Hugging Face",
-          "title_zh": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
+          "title": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线 / Timeline of the OpenAI accidental attack against Hugging Face",
+          "title_zh": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线",
           "title_ja": "Hugging Face に対する OpenAI の偶発的攻撃のタイムライン",
           "title_en": "Timeline of the OpenAI accidental attack against Hugging Face",
           "title_original": "Timeline of the OpenAI accidental attack against Hugging Face",
@@ -250,16 +250,16 @@
       ],
       "item_count": 7,
       "duplicate_count": 7,
-      "score": 0.8622,
-      "importance": 0.8622,
-      "importance_score": 0.8622,
+      "score": 0.8607,
+      "importance": 0.8607,
+      "importance_score": 0.8607,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7869,
+        "recency": 0.7781,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -288,7 +288,97 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T07:15:43.737464Z"
+        "scored_at": "2026-08-09T08:02:05.376390Z"
+      }
+    },
+    {
+      "story_id": "story_5da542bcba7e",
+      "title": "用DistilBERT LoRA与TF-IDF基线做IMDb情感分析：校准、可解释性与半监督学习 / IMDb Sentiment Analysis with DistilBERT LoRA， TF-IDF Baselines， Calibration， Interpretability， Robustness Testing， and Semi-Supervised Learning",
+      "title_ja": "DistilBERT LoRA、TF-IDF ベースライン、キャリブレーション、解釈可能性、ロバストネス テスト、および半教師あり学習を使用した IMDb 感情分析",
+      "url": "https://www.marktechpost.com/2026/08/09/imdb-sentiment-analysis-with-distilbert-lora-tf-idf-baselines-calibration-interpretability-robustness-testing-and-semi-supervised-learning",
+      "primary_url": "https://www.marktechpost.com/2026/08/09/imdb-sentiment-analysis-with-distilbert-lora-tf-idf-baselines-calibration-interpretability-robustness-testing-and-semi-supervised-learning",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9d0376059a540cf55332476d773f52e93dce002c",
+          "title": "用DistilBERT LoRA与TF-IDF基线做IMDb情感分析：校准、可解释性与半监督学习 / IMDb Sentiment Analysis with DistilBERT LoRA， TF-IDF Baselines， Calibration， Interpretability， Robustness Testing， and Semi-Supervised Learning",
+          "title_zh": "用DistilBERT LoRA与TF-IDF基线做IMDb情感分析：校准、可解释性与半监督学习",
+          "title_ja": "DistilBERT LoRA、TF-IDF ベースライン、キャリブレーション、解釈可能性、ロバストネス テスト、および半教師あり学習を使用した IMDb 感情分析",
+          "title_en": "IMDb Sentiment Analysis with DistilBERT LoRA， TF-IDF Baselines， Calibration， Interpretability， Robustness Testing， and Semi-Supervised Learning",
+          "title_original": "IMDb Sentiment Analysis with DistilBERT LoRA， TF-IDF Baselines， Calibration， Interpretability， Robustness Testing， and Semi-Supervised Learning",
+          "summary": "本教程基于Stanford IMDb数据集构建端到端情感分析流程，对比TF-IDF逻辑回归基线与LoRA微调的DistilBERT。模型评估涵盖准确率、macro-F1、ROC-AUC及期望校准误差，并分析置信错误、长度影响与词级遮挡显著性。最后利用未标注IMDb数据做置信度伪标注，比较半监督模型与基线，保存合并后的Transformer用于推理。",
+          "summary_ja": "このチュートリアルでは、スタンフォード IMDb データセットに基づいてエンドツーエンドのセンチメント分析プロセスを構築し、TF-IDF ロジスティック回帰ベースラインを LoRA で微調整された DistilBERT と比較します。モデルの評価では、精度、マクロ F1、ROC-AUC、予想されるキャリブレーション エラーが対象となり、信頼性エラー、長さの影響、単語レベルのオクルージョン顕著性が分析されます。最後に、ラベルのない IMDb データが信頼度擬似アノテーションに使用され、半教師ありモデルがベースラインと比較され、マージされた Transformer が推論用に保存されます。",
+          "recommend_reason_zh": null,
+          "url": "https://www.marktechpost.com/2026/08/09/imdb-sentiment-analysis-with-distilbert-lora-tf-idf-baselines-calibration-interpretability-robustness-testing-and-semi-supervised-learning",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-09T07:17:35Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "9d0376059a540cf55332476d773f52e93dce002c",
+          "title": "用DistilBERT LoRA与TF-IDF基线做IMDb情感分析：校准、可解释性与半监督学习 / IMDb Sentiment Analysis with DistilBERT LoRA， TF-IDF Baselines， Calibration， Interpretability， Robustness Testing， and Semi-Supervised Learning",
+          "title_zh": "用DistilBERT LoRA与TF-IDF基线做IMDb情感分析：校准、可解释性与半监督学习",
+          "title_ja": "DistilBERT LoRA、TF-IDF ベースライン、キャリブレーション、解釈可能性、ロバストネス テスト、および半教師あり学習を使用した IMDb 感情分析",
+          "title_en": "IMDb Sentiment Analysis with DistilBERT LoRA， TF-IDF Baselines， Calibration， Interpretability， Robustness Testing， and Semi-Supervised Learning",
+          "title_original": "IMDb Sentiment Analysis with DistilBERT LoRA， TF-IDF Baselines， Calibration， Interpretability， Robustness Testing， and Semi-Supervised Learning",
+          "summary": "本教程基于Stanford IMDb数据集构建端到端情感分析流程，对比TF-IDF逻辑回归基线与LoRA微调的DistilBERT。模型评估涵盖准确率、macro-F1、ROC-AUC及期望校准误差，并分析置信错误、长度影响与词级遮挡显著性。最后利用未标注IMDb数据做置信度伪标注，比较半监督模型与基线，保存合并后的Transformer用于推理。",
+          "summary_ja": "このチュートリアルでは、スタンフォード IMDb データセットに基づいてエンドツーエンドのセンチメント分析プロセスを構築し、TF-IDF ロジスティック回帰ベースラインを LoRA で微調整された DistilBERT と比較します。モデルの評価では、精度、マクロ F1、ROC-AUC、予想されるキャリブレーション エラーが対象となり、信頼性エラー、長さの影響、単語レベルのオクルージョン顕著性が分析されます。最後に、ラベルのない IMDb データが信頼度擬似アノテーションに使用され、半教師ありモデルがベースラインと比較され、マージされた Transformer が推論用に保存されます。",
+          "recommend_reason_zh": null,
+          "url": "https://www.marktechpost.com/2026/08/09/imdb-sentiment-analysis-with-distilbert-lora-tf-idf-baselines-calibration-interpretability-robustness-testing-and-semi-supervised-learning",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-09T07:17:35Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7597,
+      "importance": 0.7597,
+      "importance_score": 0.7597,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9896,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-09T07:17:35Z",
+      "latest_at": "2026-08-09T07:17:35Z",
+      "primary_item": {
+        "id": "9d0376059a540cf55332476d773f52e93dce002c",
+        "title": "用DistilBERT LoRA与TF-IDF基线做IMDb情感分析：校准、可解释性与半监督学习 / IMDb Sentiment Analysis with DistilBERT LoRA， TF-IDF Baselines， Calibration， Interpretability， Robustness Testing， and Semi-Supervised Learning",
+        "title_zh": "用DistilBERT LoRA与TF-IDF基线做IMDb情感分析：校准、可解释性与半监督学习",
+        "title_ja": "DistilBERT LoRA、TF-IDF ベースライン、キャリブレーション、解釈可能性、ロバストネス テスト、および半教師あり学習を使用した IMDb 感情分析",
+        "title_en": "IMDb Sentiment Analysis with DistilBERT LoRA， TF-IDF Baselines， Calibration， Interpretability， Robustness Testing， and Semi-Supervised Learning",
+        "title_original": "IMDb Sentiment Analysis with DistilBERT LoRA， TF-IDF Baselines， Calibration， Interpretability， Robustness Testing， and Semi-Supervised Learning",
+        "summary": "本教程基于Stanford IMDb数据集构建端到端情感分析流程，对比TF-IDF逻辑回归基线与LoRA微调的DistilBERT。模型评估涵盖准确率、macro-F1、ROC-AUC及期望校准误差，并分析置信错误、长度影响与词级遮挡显著性。最后利用未标注IMDb数据做置信度伪标注，比较半监督模型与基线，保存合并后的Transformer用于推理。",
+        "summary_ja": "このチュートリアルでは、スタンフォード IMDb データセットに基づいてエンドツーエンドのセンチメント分析プロセスを構築し、TF-IDF ロジスティック回帰ベースラインを LoRA で微調整された DistilBERT と比較します。モデルの評価では、精度、マクロ F1、ROC-AUC、予想されるキャリブレーション エラーが対象となり、信頼性エラー、長さの影響、単語レベルのオクルージョン顕著性が分析されます。最後に、ラベルのない IMDb データが信頼度擬似アノテーションに使用され、半教師ありモデルがベースラインと比較され、マージされた Transformer が推論用に保存されます。",
+        "recommend_reason_zh": null,
+        "url": "https://www.marktechpost.com/2026/08/09/imdb-sentiment-analysis-with-distilbert-lora-tf-idf-baselines-calibration-interpretability-robustness-testing-and-semi-supervised-learning",
+        "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-09T08:02:05.376390Z"
       }
     },
     {
@@ -341,16 +431,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7582,
-      "importance": 0.7582,
-      "importance_score": 0.7582,
+      "score": 0.7563,
+      "importance": 0.7563,
+      "importance_score": 0.7563,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9476,
+        "recency": 0.937,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -378,7 +468,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T07:15:43.737464Z"
+        "scored_at": "2026-08-09T08:02:05.376390Z"
       }
     },
     {
@@ -431,16 +521,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7469,
-      "importance": 0.7469,
-      "importance_score": 0.7469,
+      "score": 0.7451,
+      "importance": 0.7451,
+      "importance_score": 0.7451,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8849,
+        "recency": 0.875,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -467,7 +557,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T07:15:43.737464Z"
+        "scored_at": "2026-08-09T08:02:05.376390Z"
       }
     },
     {
@@ -520,16 +610,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7372,
-      "importance": 0.7372,
-      "importance_score": 0.7372,
+      "score": 0.7357,
+      "importance": 0.7357,
+      "importance_score": 0.7357,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7476,
+        "recency": 0.7393,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -556,7 +646,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T07:15:43.737464Z"
+        "scored_at": "2026-08-09T08:02:05.376390Z"
       }
     },
     {
@@ -609,16 +699,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7579,
-      "importance": 0.7579,
-      "importance_score": 0.7579,
+      "score": 0.756,
+      "importance": 0.756,
+      "importance_score": 0.756,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9463,
+        "recency": 0.9357,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -646,7 +736,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T07:15:43.737464Z"
+        "scored_at": "2026-08-09T08:02:05.376390Z"
       }
     },
     {
@@ -699,16 +789,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7362,
-      "importance": 0.7362,
-      "importance_score": 0.7362,
+      "score": 0.7347,
+      "importance": 0.7347,
+      "importance_score": 0.7347,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7757,
+        "recency": 0.767,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -735,7 +825,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T07:15:43.737464Z"
+        "scored_at": "2026-08-09T08:02:05.376390Z"
       }
     },
     {
@@ -788,16 +878,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7291,
-      "importance": 0.7291,
-      "importance_score": 0.7291,
+      "score": 0.7276,
+      "importance": 0.7276,
+      "importance_score": 0.7276,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7193,
+        "recency": 0.7112,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -824,7 +914,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T07:15:43.737464Z"
+        "scored_at": "2026-08-09T08:02:05.376390Z"
       }
     },
     {
@@ -943,16 +1033,16 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5686,
-      "importance": 0.5686,
-      "importance_score": 0.5686,
+      "score": 0.5666,
+      "importance": 0.5666,
+      "importance_score": 0.5666,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9877,
+        "recency": 0.9766,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -979,7 +1069,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T07:15:43.737464Z"
+        "scored_at": "2026-08-09T08:02:05.376390Z"
       }
     },
     {
@@ -1098,16 +1188,16 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5426,
-      "importance": 0.5426,
-      "importance_score": 0.5426,
+      "score": 0.5409,
+      "importance": 0.5409,
+      "importance_score": 0.5409,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8434,
+        "recency": 0.834,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1134,7 +1224,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T07:15:43.737464Z"
+        "scored_at": "2026-08-09T08:02:05.376390Z"
       }
     },
     {
@@ -1220,16 +1310,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5416,
-      "importance": 0.5416,
-      "importance_score": 0.5416,
+      "score": 0.5396,
+      "importance": 0.5396,
+      "importance_score": 0.5396,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9766,
+        "recency": 0.9657,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1256,7 +1346,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T07:15:43.737464Z"
+        "scored_at": "2026-08-09T08:02:05.376390Z"
       }
     },
     {
@@ -1375,16 +1465,16 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5397,
-      "importance": 0.5397,
-      "importance_score": 0.5397,
+      "score": 0.5381,
+      "importance": 0.5381,
+      "importance_score": 0.5381,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8274,
+        "recency": 0.8181,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1411,7 +1501,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T07:15:43.737464Z"
+        "scored_at": "2026-08-09T08:02:05.376390Z"
       }
     },
     {
@@ -1497,16 +1587,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5391,
-      "importance": 0.5391,
-      "importance_score": 0.5391,
+      "score": 0.5372,
+      "importance": 0.5372,
+      "importance_score": 0.5372,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9628,
+        "recency": 0.952,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1533,7 +1623,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T07:15:43.737464Z"
+        "scored_at": "2026-08-09T08:02:05.376390Z"
       }
     },
     {
@@ -1619,16 +1709,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5038,
-      "importance": 0.5038,
-      "importance_score": 0.5038,
+      "score": 0.5023,
+      "importance": 0.5023,
+      "importance_score": 0.5023,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7667,
+        "recency": 0.7581,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1655,7 +1745,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T07:15:43.737464Z"
+        "scored_at": "2026-08-09T08:02:05.376390Z"
       }
     }
   ]
