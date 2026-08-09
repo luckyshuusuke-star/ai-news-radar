@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-09T17:46:02.795287Z",
+  "generated_at": "2026-08-09T18:59:03.001346Z",
   "window_hours": 24,
-  "total_items": 17,
+  "total_items": 18,
   "items": [
     {
       "story_id": "story_ed474c29d378",
@@ -53,16 +53,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7803,
-      "importance": 0.7803,
-      "importance_score": 0.7803,
+      "score": 0.7773,
+      "importance": 0.7773,
+      "importance_score": 0.7773,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9539,
+        "recency": 0.9373,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -90,7 +90,97 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T17:46:44.732648Z"
+        "scored_at": "2026-08-09T18:59:45.460823Z"
+      }
+    },
+    {
+      "story_id": "story_fe7d41da32c5",
+      "title": "Anthropic 称已基本解决提示注入攻击 / Prompt injection is the most common way that scammers attack people and agents： your agent visits ht…",
+      "title_ja": "即時注入は、詐欺師が人々やエージェントを攻撃する最も一般的な方法です。エージェントが次のサイトにアクセスします。",
+      "url": "https://x.com/bcherny/status/2086520950259118464",
+      "primary_url": "https://x.com/bcherny/status/2086520950259118464",
+      "source": "X：Boris Cherny (@bcherny)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5cedf1ddb5710f2162752589c9ba468802ecd56a",
+          "title": "Anthropic 称已基本解决提示注入攻击 / Prompt injection is the most common way that scammers attack people and agents： your agent visits ht…",
+          "title_zh": "Anthropic 称已基本解决提示注入攻击",
+          "title_ja": "即時注入は、詐欺師が人々やエージェントを攻撃する最も一般的な方法です。エージェントが次のサイトにアクセスします。",
+          "title_en": "Prompt injection is the most common way that scammers attack people and agents： your agent visits ht…",
+          "title_original": "Prompt injection is the most common way that scammers attack people and agents： your agent visits ht…",
+          "summary": "Anthropic 的 Boris Cherny 表示，通过模型训练已基本解决 Claude 模型在实际使用中的提示注入威胁。独立研究者的基准测试显示，叠加模型训练、输入探测和意图分类器等多层防御后，未见过的间接提示注入攻击成功率可降至约 0。Claude Code 的 auto 模式将于下周默认开启。",
+          "summary_ja": "Anthropic の Boris Cherny 氏は、クロードのモデルを実際に使用する際のヒント挿入の脅威は、モデルのトレーニングによって大幅に解決されたと述べました。独立した研究者によるベンチマーク テストでは、モデル トレーニング、入力検出、意図分類器などの複数の防御層を積み重ねることにより、目に見えない間接ヒント インジェクション攻撃の成功率をほぼ 0 に下げることができることが示されています。Claude Code の自動モードは来週デフォルトで有効になります。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/bcherny/status/2086520950259118464",
+          "source": "X：Boris Cherny (@bcherny)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-09T18:32:14Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Boris Cherny (@bcherny)"
+      ],
+      "items": [
+        {
+          "id": "5cedf1ddb5710f2162752589c9ba468802ecd56a",
+          "title": "Anthropic 称已基本解决提示注入攻击 / Prompt injection is the most common way that scammers attack people and agents： your agent visits ht…",
+          "title_zh": "Anthropic 称已基本解决提示注入攻击",
+          "title_ja": "即時注入は、詐欺師が人々やエージェントを攻撃する最も一般的な方法です。エージェントが次のサイトにアクセスします。",
+          "title_en": "Prompt injection is the most common way that scammers attack people and agents： your agent visits ht…",
+          "title_original": "Prompt injection is the most common way that scammers attack people and agents： your agent visits ht…",
+          "summary": "Anthropic 的 Boris Cherny 表示，通过模型训练已基本解决 Claude 模型在实际使用中的提示注入威胁。独立研究者的基准测试显示，叠加模型训练、输入探测和意图分类器等多层防御后，未见过的间接提示注入攻击成功率可降至约 0。Claude Code 的 auto 模式将于下周默认开启。",
+          "summary_ja": "Anthropic の Boris Cherny 氏は、クロードのモデルを実際に使用する際のヒント挿入の脅威は、モデルのトレーニングによって大幅に解決されたと述べました。独立した研究者によるベンチマーク テストでは、モデル トレーニング、入力検出、意図分類器などの複数の防御層を積み重ねることにより、目に見えない間接ヒント インジェクション攻撃の成功率をほぼ 0 に下げることができることが示されています。Claude Code の自動モードは来週デフォルトで有効になります。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/bcherny/status/2086520950259118464",
+          "source": "X：Boris Cherny (@bcherny)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-09T18:32:14Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7604,
+      "importance": 0.7604,
+      "importance_score": 0.7604,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9936,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-09T18:32:14Z",
+      "latest_at": "2026-08-09T18:32:14Z",
+      "primary_item": {
+        "id": "5cedf1ddb5710f2162752589c9ba468802ecd56a",
+        "title": "Anthropic 称已基本解决提示注入攻击 / Prompt injection is the most common way that scammers attack people and agents： your agent visits ht…",
+        "title_zh": "Anthropic 称已基本解决提示注入攻击",
+        "title_ja": "即時注入は、詐欺師が人々やエージェントを攻撃する最も一般的な方法です。エージェントが次のサイトにアクセスします。",
+        "title_en": "Prompt injection is the most common way that scammers attack people and agents： your agent visits ht…",
+        "title_original": "Prompt injection is the most common way that scammers attack people and agents： your agent visits ht…",
+        "summary": "Anthropic 的 Boris Cherny 表示，通过模型训练已基本解决 Claude 模型在实际使用中的提示注入威胁。独立研究者的基准测试显示，叠加模型训练、输入探测和意图分类器等多层防御后，未见过的间接提示注入攻击成功率可降至约 0。Claude Code 的 auto 模式将于下周默认开启。",
+        "summary_ja": "Anthropic の Boris Cherny 氏は、クロードのモデルを実際に使用する際のヒント挿入の脅威は、モデルのトレーニングによって大幅に解決されたと述べました。独立した研究者によるベンチマーク テストでは、モデル トレーニング、入力検出、意図分類器などの複数の防御層を積み重ねることにより、目に見えない間接ヒント インジェクション攻撃の成功率をほぼ 0 に下げることができることが示されています。Claude Code の自動モードは来週デフォルトで有効になります。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/bcherny/status/2086520950259118464",
+        "source": "X：Boris Cherny (@bcherny)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-09T18:59:45.460823Z"
       }
     },
     {
@@ -143,16 +233,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7382,
-      "importance": 0.7382,
-      "importance_score": 0.7382,
+      "score": 0.7356,
+      "importance": 0.7356,
+      "importance_score": 0.7356,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8367,
+        "recency": 0.8221,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -179,7 +269,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T17:46:44.732648Z"
+        "scored_at": "2026-08-09T18:59:45.460823Z"
       }
     },
     {
@@ -232,16 +322,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7363,
-      "importance": 0.7363,
-      "importance_score": 0.7363,
+      "score": 0.7336,
+      "importance": 0.7336,
+      "importance_score": 0.7336,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8596,
+        "recency": 0.8447,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -268,7 +358,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T17:46:44.732648Z"
+        "scored_at": "2026-08-09T18:59:45.460823Z"
       }
     },
     {
@@ -321,16 +411,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7341,
-      "importance": 0.7341,
-      "importance_score": 0.7341,
+      "score": 0.7316,
+      "importance": 0.7316,
+      "importance_score": 0.7316,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8139,
+        "recency": 0.7997,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -357,7 +447,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T17:46:44.732648Z"
+        "scored_at": "2026-08-09T18:59:45.460823Z"
       }
     },
     {
@@ -410,16 +500,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7244,
-      "importance": 0.7244,
-      "importance_score": 0.7244,
+      "score": 0.722,
+      "importance": 0.722,
+      "importance_score": 0.722,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7601,
+        "recency": 0.7468,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -446,7 +536,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T17:46:44.732648Z"
+        "scored_at": "2026-08-09T18:59:45.460823Z"
       }
     },
     {
@@ -499,16 +589,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7244,
-      "importance": 0.7244,
-      "importance_score": 0.7244,
+      "score": 0.7214,
+      "importance": 0.7214,
+      "importance_score": 0.7214,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.6,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9602,
+        "recency": 0.9435,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -535,7 +625,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T17:46:44.732648Z"
+        "scored_at": "2026-08-09T18:59:45.460823Z"
       }
     },
     {
@@ -588,16 +678,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7339,
-      "importance": 0.7339,
-      "importance_score": 0.7339,
+      "score": 0.7314,
+      "importance": 0.7314,
+      "importance_score": 0.7314,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8128,
+        "recency": 0.7986,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -624,7 +714,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T17:46:44.732648Z"
+        "scored_at": "2026-08-09T18:59:45.460823Z"
       }
     },
     {
@@ -743,16 +833,16 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5693,
-      "importance": 0.5693,
-      "importance_score": 0.5693,
+      "score": 0.5662,
+      "importance": 0.5662,
+      "importance_score": 0.5662,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9915,
+        "recency": 0.9742,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -779,7 +869,129 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T17:46:44.732648Z"
+        "scored_at": "2026-08-09T18:59:45.460823Z"
+      }
+    },
+    {
+      "story_id": "story_4503613082a3",
+      "title": "一位 OpenAI 策略师表示人工智能实验室应该与政府权力抗衡 / An OpenAI Strategist Says AI Labs Should Rival Government Power",
+      "title_ja": "OpenAIのストラテジスト、AI研究所は政府権力に対抗すべきだと語る",
+      "url": "https://news.ycombinator.com/item?id=49232778",
+      "primary_url": "https://news.ycombinator.com/item?id=49232778",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "67e5d1c393262bf02ec860a788ad1b7739d58e51",
+          "title": "一位 OpenAI 策略师表示人工智能实验室应该与政府权力抗衡 / An OpenAI Strategist Says AI Labs Should Rival Government Power",
+          "title_zh": "一位 OpenAI 策略师表示人工智能实验室应该与政府权力抗衡",
+          "title_ja": "OpenAIのストラテジスト、AI研究所は政府権力に対抗すべきだと語る",
+          "title_en": "An OpenAI Strategist Says AI Labs Should Rival Government Power",
+          "title_original": "An OpenAI Strategist Says AI Labs Should Rival Government Power",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49232778",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-09T18:37:41.870000Z"
+        },
+        {
+          "id": "58251da80060803a75a41e5d4fd0d6cd30d642d3",
+          "title": "一位 OpenAI 策略师表示人工智能实验室应该与政府权力抗衡 / An OpenAI Strategist Says AI Labs Should Rival Government Power",
+          "title_zh": "一位 OpenAI 策略师表示人工智能实验室应该与政府权力抗衡",
+          "title_ja": "OpenAIのストラテジスト、AI研究所は政府権力に対抗すべきだと語る",
+          "title_en": "An OpenAI Strategist Says AI Labs Should Rival Government Power",
+          "title_original": "An OpenAI Strategist Says AI Labs Should Rival Government Power",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://ai-updates.net/an-openai-strategist-says-ai-labs-should-rival-government-power",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-09T16:18:39Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "67e5d1c393262bf02ec860a788ad1b7739d58e51",
+          "title": "一位 OpenAI 策略师表示人工智能实验室应该与政府权力抗衡 / An OpenAI Strategist Says AI Labs Should Rival Government Power",
+          "title_zh": "一位 OpenAI 策略师表示人工智能实验室应该与政府权力抗衡",
+          "title_ja": "OpenAIのストラテジスト、AI研究所は政府権力に対抗すべきだと語る",
+          "title_en": "An OpenAI Strategist Says AI Labs Should Rival Government Power",
+          "title_original": "An OpenAI Strategist Says AI Labs Should Rival Government Power",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49232778",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-09T18:37:41.870000Z"
+        },
+        {
+          "id": "58251da80060803a75a41e5d4fd0d6cd30d642d3",
+          "title": "一位 OpenAI 策略师表示人工智能实验室应该与政府权力抗衡 / An OpenAI Strategist Says AI Labs Should Rival Government Power",
+          "title_zh": "一位 OpenAI 策略师表示人工智能实验室应该与政府权力抗衡",
+          "title_ja": "OpenAIのストラテジスト、AI研究所は政府権力に対抗すべきだと語る",
+          "title_en": "An OpenAI Strategist Says AI Labs Should Rival Government Power",
+          "title_original": "An OpenAI Strategist Says AI Labs Should Rival Government Power",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://ai-updates.net/an-openai-strategist-says-ai-labs-should-rival-government-power",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-09T16:18:39Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5449,
+      "importance": 0.5449,
+      "importance_score": 0.5449,
+      "importance_label": "值得关注",
+      "importance_label_ja": "要注目",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9949,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-09T16:18:39Z",
+      "latest_at": "2026-08-09T18:37:41.870000Z",
+      "primary_item": {
+        "id": "67e5d1c393262bf02ec860a788ad1b7739d58e51",
+        "title": "一位 OpenAI 策略师表示人工智能实验室应该与政府权力抗衡 / An OpenAI Strategist Says AI Labs Should Rival Government Power",
+        "title_zh": "一位 OpenAI 策略师表示人工智能实验室应该与政府权力抗衡",
+        "title_ja": "OpenAIのストラテジスト、AI研究所は政府権力に対抗すべきだと語る",
+        "title_en": "An OpenAI Strategist Says AI Labs Should Rival Government Power",
+        "title_original": "An OpenAI Strategist Says AI Labs Should Rival Government Power",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49232778",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-09T18:59:45.460823Z"
       }
     },
     {
@@ -865,16 +1077,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5427,
+      "importance": 0.5427,
+      "importance_score": 0.5427,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9827,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -901,162 +1113,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T17:46:44.732648Z"
-      }
-    },
-    {
-      "story_id": "story_32ec53e91d06",
-      "title": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊",
-      "title_ja": "デンマークはAIの不正行為を防ぐため、学生に書面による課題を口頭で弁護するよう義務付けている",
-      "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral",
-      "primary_url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral",
-      "source": "mezha.net",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "9cfc0e88493e8116425906cabfdab68557feb54e",
-          "title": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊",
-          "title_zh": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊",
-          "title_ja": "デンマークはAIの不正行為を防ぐため、学生に書面による課題を口頭で弁護するよう義務付けている",
-          "title_en": null,
-          "title_original": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral",
-          "source": "mezha.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-08T19:26:49.887000Z"
-        },
-        {
-          "id": "415c5d98e638ad6b96353f679325f05e221f3479",
-          "title": "丹麦要求学生进行书面作业答辩以打击人工智能作弊 / Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
-          "title_zh": "丹麦要求学生进行书面作业答辩以打击人工智能作弊",
-          "title_ja": "デンマーク、AI不正行為に対抗するため学生の著作物に口頭弁護を義務付ける",
-          "title_en": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
-          "title_original": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49224294",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-08T18:57:02.580000Z"
-        },
-        {
-          "id": "386039a07181e711dea9170a3855a19db52f6cb9",
-          "title": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊 / Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
-          "title_zh": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊",
-          "title_ja": "デンマーク、AI不正行為に対抗するため学生の著作物に口頭弁護を義務付ける",
-          "title_en": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
-          "title_original": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-08T18:09:31Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "hackernews",
-        "mezha.net"
-      ],
-      "items": [
-        {
-          "id": "9cfc0e88493e8116425906cabfdab68557feb54e",
-          "title": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊",
-          "title_zh": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊",
-          "title_ja": "デンマークはAIの不正行為を防ぐため、学生に書面による課題を口頭で弁護するよう義務付けている",
-          "title_en": null,
-          "title_original": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral",
-          "source": "mezha.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-08T19:26:49.887000Z"
-        },
-        {
-          "id": "415c5d98e638ad6b96353f679325f05e221f3479",
-          "title": "丹麦要求学生进行书面作业答辩以打击人工智能作弊 / Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
-          "title_zh": "丹麦要求学生进行书面作业答辩以打击人工智能作弊",
-          "title_ja": "デンマーク、AI不正行為に対抗するため学生の著作物に口頭弁護を義務付ける",
-          "title_en": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
-          "title_original": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49224294",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-08T18:57:02.580000Z"
-        },
-        {
-          "id": "386039a07181e711dea9170a3855a19db52f6cb9",
-          "title": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊 / Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
-          "title_zh": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊",
-          "title_ja": "デンマーク、AI不正行為に対抗するため学生の著作物に口頭弁護を義務付ける",
-          "title_en": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
-          "title_original": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-08T18:09:31Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5212,
-      "importance": 0.5212,
-      "importance_score": 0.5212,
-      "importance_label": "多源热议",
-      "importance_label_ja": "複数ソースで話題",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7245,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-08T18:09:31Z",
-      "latest_at": "2026-08-08T19:26:49.887000Z",
-      "primary_item": {
-        "id": "9cfc0e88493e8116425906cabfdab68557feb54e",
-        "title": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊",
-        "title_zh": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊",
-        "title_ja": "デンマークはAIの不正行為を防ぐため、学生に書面による課題を口頭で弁護するよう義務付けている",
-        "title_en": null,
-        "title_original": "丹麦要求学生对书面作业进行口头答辩，以防范人工智能作弊",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral",
-        "source": "mezha.net",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-09T17:46:44.732648Z"
+        "scored_at": "2026-08-09T18:59:45.460823Z"
       }
     },
     {
@@ -1142,16 +1199,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5428,
-      "importance": 0.5428,
-      "importance_score": 0.5428,
+      "score": 0.5398,
+      "importance": 0.5398,
+      "importance_score": 0.5398,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9836,
+        "recency": 0.9665,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1178,7 +1235,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T17:46:44.732648Z"
+        "scored_at": "2026-08-09T18:59:45.460823Z"
       }
     },
     {
@@ -1207,7 +1264,7 @@
           "published_at": "2026-08-09T13:37:00.708000Z"
         },
         {
-          "id": "dbfb363117a0b3e166b457f365f07b3744e95b42",
+          "id": "b05da0cc7affb1c4cbe4b31c2553f0618b5e16bc",
           "title": "以色列初创公司与 OpenAI、Anthropic 和 Meta 的流氓人工智能黑客事件有关 / Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
           "title_zh": "以色列初创公司与 OpenAI、Anthropic 和 Meta 的流氓人工智能黑客事件有关",
           "title_ja": "イスラエルの新興企業が OpenAI、Anthropic、Meta で不正な AI ハッキングに関連していた",
@@ -1217,15 +1274,15 @@
           "summary_ja": null,
           "recommend_reason_zh": null,
           "url": "https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-09T13:03:49Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
@@ -1246,7 +1303,7 @@
           "published_at": "2026-08-09T13:37:00.708000Z"
         },
         {
-          "id": "dbfb363117a0b3e166b457f365f07b3744e95b42",
+          "id": "b05da0cc7affb1c4cbe4b31c2553f0618b5e16bc",
           "title": "以色列初创公司与 OpenAI、Anthropic 和 Meta 的流氓人工智能黑客事件有关 / Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
           "title_zh": "以色列初创公司与 OpenAI、Anthropic 和 Meta 的流氓人工智能黑客事件有关",
           "title_ja": "イスラエルの新興企業が OpenAI、Anthropic、Meta で不正な AI ハッキングに関連していた",
@@ -1256,24 +1313,24 @@
           "summary_ja": null,
           "recommend_reason_zh": null,
           "url": "https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-09T13:03:49Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5353,
-      "importance": 0.5353,
-      "importance_score": 0.5353,
+      "score": 0.5324,
+      "importance": 0.5324,
+      "importance_score": 0.5324,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9418,
+        "recency": 0.9254,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1300,7 +1357,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T17:46:44.732648Z"
+        "scored_at": "2026-08-09T18:59:45.460823Z"
       }
     },
     {
@@ -1386,16 +1443,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5344,
-      "importance": 0.5344,
-      "importance_score": 0.5344,
+      "score": 0.5315,
+      "importance": 0.5315,
+      "importance_score": 0.5315,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9367,
+        "recency": 0.9204,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1422,7 +1479,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T17:46:44.732648Z"
+        "scored_at": "2026-08-09T18:59:45.460823Z"
       }
     },
     {
@@ -1451,7 +1508,7 @@
           "published_at": "2026-08-09T13:14:21.723000Z"
         },
         {
-          "id": "68ae9da5130b1e52849eac846b71f4eb94dd8044",
+          "id": "e92172beddcb1912109ace63adf377086e39d234",
           "title": "亚马逊规避吉尔罗伊社区对人工智能数据中心的投票 / Amazon circumvents Gilroy community vote for AI data center",
           "title_zh": "亚马逊规避吉尔罗伊社区对人工智能数据中心的投票",
           "title_ja": "Amazon、AIデータセンターに対するギルロイコミュニティの投票を回避",
@@ -1461,15 +1518,15 @@
           "summary_ja": null,
           "recommend_reason_zh": null,
           "url": "https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-09T12:52:10Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
@@ -1490,7 +1547,7 @@
           "published_at": "2026-08-09T13:14:21.723000Z"
         },
         {
-          "id": "68ae9da5130b1e52849eac846b71f4eb94dd8044",
+          "id": "e92172beddcb1912109ace63adf377086e39d234",
           "title": "亚马逊规避吉尔罗伊社区对人工智能数据中心的投票 / Amazon circumvents Gilroy community vote for AI data center",
           "title_zh": "亚马逊规避吉尔罗伊社区对人工智能数据中心的投票",
           "title_ja": "Amazon、AIデータセンターに対するギルロイコミュニティの投票を回避",
@@ -1500,24 +1557,24 @@
           "summary_ja": null,
           "recommend_reason_zh": null,
           "url": "https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-09T12:52:10Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5344,
-      "importance": 0.5344,
-      "importance_score": 0.5344,
+      "score": 0.5315,
+      "importance": 0.5315,
+      "importance_score": 0.5315,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9367,
+        "recency": 0.9204,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1544,7 +1601,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T17:46:44.732648Z"
+        "scored_at": "2026-08-09T18:59:45.460823Z"
       }
     },
     {
@@ -1630,16 +1687,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5281,
-      "importance": 0.5281,
-      "importance_score": 0.5281,
+      "score": 0.5253,
+      "importance": 0.5253,
+      "importance_score": 0.5253,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9018,
+        "recency": 0.8861,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1666,7 +1723,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T17:46:44.732648Z"
+        "scored_at": "2026-08-09T18:59:45.460823Z"
       }
     },
     {
@@ -1752,16 +1809,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5168,
-      "importance": 0.5168,
-      "importance_score": 0.5168,
+      "score": 0.5142,
+      "importance": 0.5142,
+      "importance_score": 0.5142,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8389,
+        "recency": 0.8243,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1788,7 +1845,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T17:46:44.732648Z"
+        "scored_at": "2026-08-09T18:59:45.460823Z"
       }
     },
     {
@@ -1874,16 +1931,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5147,
-      "importance": 0.5147,
-      "importance_score": 0.5147,
+      "score": 0.5121,
+      "importance": 0.5121,
+      "importance_score": 0.5121,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.827,
+        "recency": 0.8126,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1910,7 +1967,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-09T17:46:44.732648Z"
+        "scored_at": "2026-08-09T18:59:45.460823Z"
       }
     }
   ]
