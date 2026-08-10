@@ -1,63 +1,127 @@
 {
-  "generated_at": "2026-08-10T18:01:37.427342Z",
+  "generated_at": "2026-08-10T19:14:43.669496Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-08-09",
-  "count_today": 6,
+  "latest_date": "2026-08-10",
+  "count_today": 7,
   "updates_today": [
     {
-      "date": "2026-08-09",
-      "title": "🥇 8.3—8.9｜本周 AI 论文精选",
-      "summary": "本周AI论文合集聚焦智能体工程落地的现实痛点。十篇研究基于大量实测与对照实验，厘清了模型与harness的故障划分，验证零大模型调用记忆栈的降本效果，推翻自我反思类方案的增益认知。同时还覆盖harness学习优化、提示词带来的隐性成本、技能库实际收益、长周期仿真基准、分词加速等方向。",
-      "url": "https://waytoagi.feishu.cn/wiki/S3ykwZoTsi34w0kk0x0cCvTKnxf?from=from_copylink",
-      "title_ja": "🥇 8.3—8.9｜今週の厳選された AI 論文",
-      "summary_ja": "今週の AI 論文コレクションは、インテリジェント エージェント エンジニアリングの実装における実際の問題点に焦点を当てています。多数の実測と対照実験に基づいた 10 件の研究により、モデルとハーネス間の障害区分が明確になり、ゼロラージ モデル呼び出しメモリ スタックのコスト削減効果が検証され、自己反映ソリューションの認知的向上が覆されました。また、ハーネス学習の最適化、プロンプト単語によってもたらされる隠れたコスト、スキル ライブラリの実際の利点、長期シミュレーション ベンチマーク、単語セグメンテーションの高速化、その他の方向性についても取り上げます。"
+      "date": "2026-08-10",
+      "title": "贵57.1倍的Claude Opus 4.8五项全输，赢它的不是模型，是Harness",
+      "summary": "Floatboat Harness公开的基准评测，印证了Harness执行底座对Agent能力的巨大加成。锁定同一低成本模型，仅更换运行底座，长程复杂任务性能大幅提升，甚至全面超越价格高出数十倍的旗舰模型。",
+      "url": "https://waytoagi.feishu.cn/wiki/N0iMwkm7EiFb6ukn9HycJcw2nKe?from=from_copylink",
+      "title_ja": "57.1 倍高価なクロード オーパス 4.8 は、5 つのカテゴリーすべてで負けています。勝つのはモデルではなくハーネスです。",
+      "summary_ja": "Floatboat Harness の公開ベンチマーク評価により、Harness 実行ベースがエージェントの機能に大幅に追加されたことが確認されています。同じ低価格モデルを固定し、ランニングベースのみを交換することで、長距離の複雑なタスクのパフォーマンスが大幅に向上し、数十倍高価なフラッグシップモデルをも上回ります。"
     },
     {
-      "date": "2026-08-09",
-      "title": "阿里Wan3.0来了，我立马测了5大类场景，丢文档、网页居然也能生视频",
-      "summary": "阿里正式发布视频模型 Wan3.0，它把“参考素材”往前推进了一步：网页链接、Excel、Word、说明书、图片组都能直接丢进去，自动生成科普、数据汇报、产品演示和门店宣传视频。想做“文件转视频”或产品展示的人可以重点看看小歪这组测试。",
-      "url": "https://waytoagi.feishu.cn/wiki/YlhUwEou1ix71LkWs9ycHf6znqd?from=from_copylink",
-      "title_ja": "アリババワン 3.0 が登場しました。早速、5つの主要なシナリオをテストしてみました。ドキュメントや Web ページが失われた場合でもビデオを生成できます。",
-      "summary_ja": "アリババはビデオ モデル Wan3.0 を正式にリリースしました。これは、「参考資料」をさらに一歩進めたものです。Web リンク、Excel、Word、説明書、画像グループを直接投入して、ポピュラー サイエンス、データ レポート、製品デモンストレーション、店舗プロモーション ビデオを自動的に生成できます。 「ファイルをビデオに変換」したい人や製品のデモンストレーションをしたい人は、Xiaowai の一連のテストに集中できます。"
+      "date": "2026-08-10",
+      "title": "工作没有着落的时候，先让自己动起来",
+      "summary": "身边越来越多人遇到降薪、调岗、离职、毕业求职卡住，明知道该学AI、做自媒体、换方向，却总被“我还没想清楚”“我看不懂”挡在原地。小鱿鱼这篇文章很适合待业、转岗、毕业迷茫，或者想学AI却迟迟开不了头的人读。",
+      "url": "https://waytoagi.feishu.cn/wiki/W3p1w2qr0icHtBkgaeLcqdSHnTu?from=from_copylink",
+      "title_ja": "仕事で行き詰まったら、まずは体を動かしましょう",
+      "summary_ja": "私の周囲でも、減給や異動、退職、卒業後の就職活動に行き詰まる人が増えています。 AIを学ぶべきだ、セルフメディアをすべきだ、方向転換すべきだということはわかっているのですが、いつも「まだわかっていない」「理解できない」という言葉に阻まれます。 Little Squid のこの記事は、失業者、転職者、卒業後に迷っている人、AI を学びたいけど始められない人に最適です。"
     },
     {
-      "date": "2026-08-09",
-      "title": "开源 4天就被“速通”？MiniMax H3这场 Reddit AMA到底聊了啥？",
-      "summary": "MiniMax H3开源4天就有人做出 4–8 步蒸馏 LoRA，Reddit AMA里大家也开始追问 2K、VAE、长视频续写、显存、LoRA 和 ComfyUI 接入这些硬问题。尽管显存、细节损失等难题仍待解决，但开源释放的社区活力，让这套视频模型的想象空间真正打开。",
-      "url": "https://waytoagi.feishu.cn/wiki/G2pKwarimieXh3kMbQBcVUx1n1g?from=from_copylink",
-      "title_ja": "オープンソースは4日で「スピード合格」した？ MiniMax H3 に関するこの Reddit AMA では、具体的に何が議論されましたか?",
-      "summary_ja": "MiniMax H3 がオープンソースになってから 4 日後、誰かが LoRA の 4 ～ 8 段階の蒸留を行いました。 Reddit AMA では、2K、VAE、長時間のビデオ継続、ビデオ メモリ、LoRA、ComfyUI アクセスなどの難しい質問もされ始めました。ビデオ メモリや詳細の損失などの問題はまだ解決する必要がありますが、オープン ソースによって解放されたコミュニティの活力により、このビデオ モデルの想像力が真に開かれました。"
+      "date": "2026-08-10",
+      "title": "WaytoAGI成都新据点开园！8月14日白鹭湾见",
+      "summary": "8月14日，WaytoAGI 成都科梦 OPC 社区要开园了！这是WaytoAGI和成都传媒产业集团旗下红星传媒一起做的 OPC 社区，也是 WaytoAGI 继北京亦庄之后的第二个线下 OPC 社区。欢迎大家报名，来现场一起参与见证 WaytoAGI 成都科梦 OPC 社区的落地。",
+      "url": "https://waytoagi.feishu.cn/wiki/E0sxwDQ3Ai9fxhkKHbQcjLaFn8f?from=from_copylink",
+      "title_ja": "WaytoAGI が成都に新拠点を開設! 8月14日にイーグレットベイでお会いしましょう",
+      "summary_ja": "8 月 14 日、WaytoAGI 成都科孟 OPC コミュニティがオープンします。これは、WaytoAGI と成都メディア産業グループの子会社である Red Star Media によって開発された OPC コミュニティです。 WaytoAGI にとって、Beijing Yizhuang に次ぐ 2 番目のオフライン OPC コミュニティでもあります。どなたでもサインアップしてサイトに来て、WaytoAGI 成都科孟 OPC コミュニティの実装に参加し、その実装を目撃してください。"
     },
     {
-      "date": "2026-08-09",
-      "title": "从零训练到真板运行：我们怎样把中文模型放进 ESP32",
-      "summary": "一块只有 8 MB PSRAM、16 MB Flash 的 ESP32-S3，能不能离线运行一个真正会逐词生成答案的中文模型？我们用一套从随机参数开始训练的 783 万参数模型，完成了从产品知识、训练、量化到真板运行的整条链路。",
-      "url": "https://waytoagi.feishu.cn/wiki/EBtDwo1RniC5o7kzF5EcYwRKngb?from=from_copylink",
-      "title_ja": "ゼロトレーニングから実際のランニングまで: 中国モデルを ESP32 にどのように組み込むか",
-      "summary_ja": "わずか 8 MB PSRAM と 16 MB フラッシュを備えた ESP32-S3 は、本当に単語ごとに答えを生成できる中国語モデルをオフラインで実行できますか?ランダムなパラメーターからトレーニングされた 783 万個のパラメーター モデルのセットを使用して、製品知識、トレーニング、定量化から実際の基板の操作に至るまでのリンク全体を完成させました。"
+      "date": "2026-08-10",
+      "title": "Cursor人力负责人：如何组建顶尖的AI团队丨Lenny's Podcast",
+      "summary": "Adam Ward 是Cursor的人力主管。他在业内拥有超过20年的经验，擅长打造精英人才团队，被公认为科技界最高效、最具创意的招聘人员之一。一起来看看他是如何组建顶尖的AI团队。",
+      "url": "https://waytoagi.feishu.cn/wiki/OD1vw2LBNirzwKkxmOVcJzB1nlh?from=from_copylink",
+      "title_ja": "カーソル人事リーダー: トップ AI チームの作り方丨Lenny のポッドキャスト",
+      "summary_ja": "Adam Ward は Cursor の部門責任者です。業界で 20 年以上の経験を持つ彼は、エリート人材チームの構築を専門とし、テクノロジー業界で最も効率的で創造的な採用担当者の 1 人として認められています。彼がどのようにしてトップの AI チームを構築したかを見てみましょう。"
     },
     {
-      "date": "2026-08-09",
-      "title": "一晚两场，H3 技术团队和全球开发者聊了什么？",
-      "summary": "MiniMax H3 开源的第一周，很多国内外开发社区里的开发者、创作者已经有了量化、硬件适配和工作流的丰富探索，也提出了一些关于模型机制和后续计划的问题。技术团队参加了 Reddit 社区 AMA 问答交流和 ComfyUI Live 直播，和来自不同地区的开发者、创作者聊了聊：模型架构是怎么做的？长视频能不能续写？目前还有哪些技术局限，后续的开源策略是什么。",
-      "url": "https://waytoagi.feishu.cn/wiki/Qz83wOcduiq22IkrwEkcvTdgnNb?from=from_copylink",
-      "title_ja": "一晩で 2 つのゲーム、H3 技術チームと世界の開発者は何を話しましたか?",
-      "summary_ja": "MiniMax H3 のオープンソースの最初の 1 週間で、国内外の開発コミュニティの多くの開発者やクリエイターがすでに定量化、ハードウェア適応、ワークフローについて豊富な調査を行っており、モデルのメカニズムやフォローアップ計画についてもいくつかの疑問を提起しています。技術チームは Reddit コミュニティの AMA Q&A 交換や ComfyUI ライブ ブロードキャストに参加し、さまざまな地域の開発者やクリエイターとチャットしました。モデル アーキテクチャはどのように作られているのか?長時間の動画は続けられますか？現在の技術的な制限とその後のオープンソース戦略は何ですか。"
+      "date": "2026-08-10",
+      "title": "AI音乐周刊 W.A 040",
+      "summary": "这周AI音乐领域的变化，已经从“生成一首歌”延伸到实体收藏、移动端声线和版权商业化：Suno准备推出AI歌曲黑胶定制，Voices声音克隆也上线 iOS/Android。行业规则也开始变清楚：Spotify联合Merlin做授权翻唱/重混，华纳预计AI授权将在2027年带来收入，Suno也在加强提示词审查、音频水印、下载限制和社区治理。",
+      "url": "https://waytoagi.feishu.cn/wiki/IruywTu30iCRxWksOgicnyRonic?from=from_copylink",
+      "title_ja": "AI ミュージック ウィークリー W.A 040",
+      "summary_ja": "今週の AI 音楽分野の変化は、「曲の生成」から物理的なコレクション、モバイル音声、著作権の商品化にまで及びました。Suno は AI 曲のビニールのカスタマイズを開始する準備をしており、Voices サウンドのクローン作成も iOS/Android で利用できます。業界のルールも明らかになり始めている。Spotifyはマーリンと提携してカバー/リミックスのライセンスを取得し、ワーナーはAIライセンスが2027年に収益をもたらすと予測し、Sunoも即時ワード検閲、音声透かし、ダウンロード制限、コミュニティガバナンスを強化している。"
     },
     {
-      "date": "2026-08-09",
-      "title": "95分钟AI电影，把每个镜头的提示词都公开了（附电影级提示词Skill）",
-      "summary": "很多人做 AI 视频，真正卡住的往往是“镜头到底该怎么写”：人物怎么站、镜头怎么动、光从哪边来，前后画面怎么别突然跳戏。小歪拿《Hell Grind》这个开源项目做样本，把每个镜头公开的提示词、参考图、参数、11 万多条生成记录，以及官方 CINEDANCE 电影级提示词 Skill 都拆开讲清楚。照着“找相似画面→拆运镜/动作/灯光→替换成自己的内容”这条路抄作业，会比盲目堆提示词稳很多。",
-      "url": "https://waytoagi.feishu.cn/wiki/Gv1GwMWUjiBtw7kXoiXcyondnRe?from=from_copylink",
-      "title_ja": "95分間のAIムービーでは、各ショットのプロンプトワードが公開されます（映画レベルのプロンプトワード「スキル」付き）",
-      "summary_ja": "AI動画を作る人は多いですが、本当につまづくのは「ショットの書き方」、つまりキャラクターの立ち方、カメラの動かし方、光の当たり方、前後のシーンの急激なジャンプをどう避けるか、ということが多いです。 Xiaowai 氏は、オープンソース プロジェクト「Hell Grind」をサンプルとして取り上げ、公開プロンプト、参考画像、パラメータ、各ショットの 110,000 を超える生成レコード、および CINEDANCE の映画レベルの公式プロンプト スキルを分析しました。 「類似のシーンを見つける→ミラー/アクション/ライトを削除→独自のコンテンツに置き換える」という道をたどるほうが、やみくもにプロンプ​​トの言葉を積み重ねるよりもはるかに安全です。"
+      "date": "2026-08-10",
+      "title": "AI时代需要补的网络基础知识",
+      "summary": "学习AI有很多需要用到网络底层基础知识的地方。作者用这篇文章，以最通俗易懂的方式让你了解清楚去解决这些现实问题，所需要具备的最基础的网络名词概念。",
+      "url": "https://waytoagi.feishu.cn/wiki/Fl8Lwh33viAMNUkihG3ccUZJnJI?from=from_copylink",
+      "title_ja": "AI時代に補充すべきネットワークの基礎知識",
+      "summary_ja": "AI を学習するには、基盤となるネットワークの基本的な知識が必要になる場所が多くあります。著者はこの記事を使用して、これらの実際的な問題を最もわかりやすい方法で解決するために必要なネットワーク用語の最も基本的な概念を理解できるようにします。"
+    },
+    {
+      "date": "2026-08-10",
+      "title": "AI 名词小白入门白皮书",
+      "summary": "很多人学AI一上来就被一堆英文缩写劝退：GPT、Token、RAG、MCP、Agent、Loop、Graph单独都能查，放在一起就分不清谁是模型、谁是产品、谁负责资料、谁负责执行。这份白皮书适合刚入门的小白。",
+      "url": "https://waytoagi.feishu.cn/wiki/Enmdwp5OQivcWOk7pQOco4oSnAd?from=from_copylink",
+      "title_ja": null,
+      "summary_ja": "AI の学習を始めるとすぐに、多くの人が英語の略語の数々にうんざりします。GPT、トークン、RAG、MCP、エージェント、ループ、グラフは個別に調べることができますが、これらをまとめると、誰がモデルで、誰が製品で、誰がデータの責任者で、誰が実行の責任者であるかを区別するのが困難です。このホワイトペーパーは、始めたばかりの初心者に適しています。"
     }
   ],
-  "count_7d": 27,
+  "count_7d": 34,
   "updates_7d": [
+    {
+      "date": "2026-08-10",
+      "title": "贵57.1倍的Claude Opus 4.8五项全输，赢它的不是模型，是Harness",
+      "summary": "Floatboat Harness公开的基准评测，印证了Harness执行底座对Agent能力的巨大加成。锁定同一低成本模型，仅更换运行底座，长程复杂任务性能大幅提升，甚至全面超越价格高出数十倍的旗舰模型。",
+      "url": "https://waytoagi.feishu.cn/wiki/N0iMwkm7EiFb6ukn9HycJcw2nKe?from=from_copylink",
+      "title_ja": "57.1 倍高価なクロード オーパス 4.8 は、5 つのカテゴリーすべてで負けています。勝つのはモデルではなくハーネスです。",
+      "summary_ja": "Floatboat Harness の公開ベンチマーク評価により、Harness 実行ベースがエージェントの機能に大幅に追加されたことが確認されています。同じ低価格モデルを固定し、ランニングベースのみを交換することで、長距離の複雑なタスクのパフォーマンスが大幅に向上し、数十倍高価なフラッグシップモデルをも上回ります。"
+    },
+    {
+      "date": "2026-08-10",
+      "title": "工作没有着落的时候，先让自己动起来",
+      "summary": "身边越来越多人遇到降薪、调岗、离职、毕业求职卡住，明知道该学AI、做自媒体、换方向，却总被“我还没想清楚”“我看不懂”挡在原地。小鱿鱼这篇文章很适合待业、转岗、毕业迷茫，或者想学AI却迟迟开不了头的人读。",
+      "url": "https://waytoagi.feishu.cn/wiki/W3p1w2qr0icHtBkgaeLcqdSHnTu?from=from_copylink",
+      "title_ja": "仕事で行き詰まったら、まずは体を動かしましょう",
+      "summary_ja": "私の周囲でも、減給や異動、退職、卒業後の就職活動に行き詰まる人が増えています。 AIを学ぶべきだ、セルフメディアをすべきだ、方向転換すべきだということはわかっているのですが、いつも「まだわかっていない」「理解できない」という言葉に阻まれます。 Little Squid のこの記事は、失業者、転職者、卒業後に迷っている人、AI を学びたいけど始められない人に最適です。"
+    },
+    {
+      "date": "2026-08-10",
+      "title": "WaytoAGI成都新据点开园！8月14日白鹭湾见",
+      "summary": "8月14日，WaytoAGI 成都科梦 OPC 社区要开园了！这是WaytoAGI和成都传媒产业集团旗下红星传媒一起做的 OPC 社区，也是 WaytoAGI 继北京亦庄之后的第二个线下 OPC 社区。欢迎大家报名，来现场一起参与见证 WaytoAGI 成都科梦 OPC 社区的落地。",
+      "url": "https://waytoagi.feishu.cn/wiki/E0sxwDQ3Ai9fxhkKHbQcjLaFn8f?from=from_copylink",
+      "title_ja": "WaytoAGI が成都に新拠点を開設! 8月14日にイーグレットベイでお会いしましょう",
+      "summary_ja": "8 月 14 日、WaytoAGI 成都科孟 OPC コミュニティがオープンします。これは、WaytoAGI と成都メディア産業グループの子会社である Red Star Media によって開発された OPC コミュニティです。 WaytoAGI にとって、Beijing Yizhuang に次ぐ 2 番目のオフライン OPC コミュニティでもあります。どなたでもサインアップしてサイトに来て、WaytoAGI 成都科孟 OPC コミュニティの実装に参加し、その実装を目撃してください。"
+    },
+    {
+      "date": "2026-08-10",
+      "title": "Cursor人力负责人：如何组建顶尖的AI团队丨Lenny's Podcast",
+      "summary": "Adam Ward 是Cursor的人力主管。他在业内拥有超过20年的经验，擅长打造精英人才团队，被公认为科技界最高效、最具创意的招聘人员之一。一起来看看他是如何组建顶尖的AI团队。",
+      "url": "https://waytoagi.feishu.cn/wiki/OD1vw2LBNirzwKkxmOVcJzB1nlh?from=from_copylink",
+      "title_ja": "カーソル人事リーダー: トップ AI チームの作り方丨Lenny のポッドキャスト",
+      "summary_ja": "Adam Ward は Cursor の部門責任者です。業界で 20 年以上の経験を持つ彼は、エリート人材チームの構築を専門とし、テクノロジー業界で最も効率的で創造的な採用担当者の 1 人として認められています。彼がどのようにしてトップの AI チームを構築したかを見てみましょう。"
+    },
+    {
+      "date": "2026-08-10",
+      "title": "AI音乐周刊 W.A 040",
+      "summary": "这周AI音乐领域的变化，已经从“生成一首歌”延伸到实体收藏、移动端声线和版权商业化：Suno准备推出AI歌曲黑胶定制，Voices声音克隆也上线 iOS/Android。行业规则也开始变清楚：Spotify联合Merlin做授权翻唱/重混，华纳预计AI授权将在2027年带来收入，Suno也在加强提示词审查、音频水印、下载限制和社区治理。",
+      "url": "https://waytoagi.feishu.cn/wiki/IruywTu30iCRxWksOgicnyRonic?from=from_copylink",
+      "title_ja": "AI ミュージック ウィークリー W.A 040",
+      "summary_ja": "今週の AI 音楽分野の変化は、「曲の生成」から物理的なコレクション、モバイル音声、著作権の商品化にまで及びました。Suno は AI 曲のビニールのカスタマイズを開始する準備をしており、Voices サウンドのクローン作成も iOS/Android で利用できます。業界のルールも明らかになり始めている。Spotifyはマーリンと提携してカバー/リミックスのライセンスを取得し、ワーナーはAIライセンスが2027年に収益をもたらすと予測し、Sunoも即時ワード検閲、音声透かし、ダウンロード制限、コミュニティガバナンスを強化している。"
+    },
+    {
+      "date": "2026-08-10",
+      "title": "AI时代需要补的网络基础知识",
+      "summary": "学习AI有很多需要用到网络底层基础知识的地方。作者用这篇文章，以最通俗易懂的方式让你了解清楚去解决这些现实问题，所需要具备的最基础的网络名词概念。",
+      "url": "https://waytoagi.feishu.cn/wiki/Fl8Lwh33viAMNUkihG3ccUZJnJI?from=from_copylink",
+      "title_ja": "AI時代に補充すべきネットワークの基礎知識",
+      "summary_ja": "AI を学習するには、基盤となるネットワークの基本的な知識が必要になる場所が多くあります。著者はこの記事を使用して、これらの実際的な問題を最もわかりやすい方法で解決するために必要なネットワーク用語の最も基本的な概念を理解できるようにします。"
+    },
+    {
+      "date": "2026-08-10",
+      "title": "AI 名词小白入门白皮书",
+      "summary": "很多人学AI一上来就被一堆英文缩写劝退：GPT、Token、RAG、MCP、Agent、Loop、Graph单独都能查，放在一起就分不清谁是模型、谁是产品、谁负责资料、谁负责执行。这份白皮书适合刚入门的小白。",
+      "url": "https://waytoagi.feishu.cn/wiki/Enmdwp5OQivcWOk7pQOco4oSnAd?from=from_copylink",
+      "title_ja": null,
+      "summary_ja": "AI の学習を始めるとすぐに、多くの人が英語の略語の数々にうんざりします。GPT、トークン、RAG、MCP、エージェント、ループ、グラフは個別に調べることができますが、これらをまとめると、誰がモデルで、誰が製品で、誰がデータの責任者で、誰が実行の責任者であるかを区別するのが困難です。このホワイトペーパーは、始めたばかりの初心者に適しています。"
+    },
     {
       "date": "2026-08-09",
       "title": "🥇 8.3—8.9｜本周 AI 论文精选",
