@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T15:15:08.259277Z",
+  "generated_at": "2026-08-10T16:09:16.534188Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
@@ -56,7 +56,7 @@
       "summary_ja": "AI動画を作る人は多いですが、本当につまづくのは「ショットの書き方」、つまりキャラクターの立ち方、カメラの動かし方、光の当たり方、前後のシーンの急激なジャンプをどう避けるか、ということが多いです。 Xiaowai 氏は、オープンソース プロジェクト「Hell Grind」をサンプルとして取り上げ、公開プロンプト、参考画像、パラメータ、各ショットの 110,000 を超える生成レコード、および CINEDANCE の映画レベルの公式プロンプト スキルを分析しました。 「類似のシーンを見つける→ミラー/アクション/ライトを削除→独自のコンテンツに置き換える」という道をたどるほうが、やみくもにプロンプ​​トの言葉を積み重ねるよりもはるかに安全です。"
     }
   ],
-  "count_7d": 33,
+  "count_7d": 27,
   "updates_7d": [
     {
       "date": "2026-08-09",
@@ -273,54 +273,6 @@
       "url": "https://waytoagi.feishu.cn/wiki/OQfOwfLWOiiglCk080QchgpCnGC?from=from_copylink",
       "title_ja": "ヒッグスフィールドは、95 分の AI 長編映画「Hell Grind」のすべてのプロンプト ワードと関連情報をオープンソース化しました。",
       "summary_ja": "製作費50万ドルのこの作品はカンヌ・フィルム・マーケットで上映され、ウォール・ストリート・ジャーナル、バラエティ、BBCニュースの取材を受けた。では、その制作過程を覗いてみましょう！"
-    },
-    {
-      "date": "2026-08-04",
-      "title": "详解 Claude 的循环工程",
-      "summary": "本文会介绍这个循环工程的来源、Claude Code中的四类循环、如何按顺序构建第一个循环，以及循环会在你睡觉时以哪四种方式产生账单。",
-      "url": "https://waytoagi.feishu.cn/wiki/EANXwfCqzilM2xkTZEQc6Yp0nWd?from=from_copylink",
-      "title_ja": "クロードのサイクル工学を詳しく解説",
-      "summary_ja": "この記事では、このループ プロジェクトの由来、クロード コードの 4 種類のループ、最初のループを順番に構築する方法、およびループが寝ている間に請求書を生成する 4 つの方法を紹介します。"
-    },
-    {
-      "date": "2026-08-04",
-      "title": "评测工程：如何构建让智能体无需人工审核即可合并变更的闸门",
-      "summary": "AI Agent 能自动改代码、提 PR，但真正难的是：我们怎么判断它这次改动“真的可以合并”？这篇文章讲的就是“评测工程”这道闸门怎么搭建，适合做Agent产品、AI编程工具、自动化流程的人看。",
-      "url": "https://waytoagi.feishu.cn/wiki/ROu8wXtkYi3hjEkyNJCcAHX7npg?from=from_copylink",
-      "title_ja": "評価プロジェクト: エージェントが人間のレビューなしで変更をマージできるゲートを構築する方法",
-      "summary_ja": "AI エージェントは自動的にコードを変更して PR を送信できますが、本当の難しさは、その変更が本当にマージできるかどうかをどのように判断するかということです。この記事では、「評価プロジェクト」ゲートの構築方法について説明します。エージェント製品、AI プログラミング ツール、自動プロセスを作成する人に適しています。"
-    },
-    {
-      "date": "2026-08-04",
-      "title": "海螺 MiniMax H3 开源，我用它做了7条广告、9段大片和4场戏（附提示词）",
-      "summary": "海螺 MiniMax H3 正式开源，小歪跑了一大批案例，测试了产品广告、饮品广告、越野车、探店、美妆带货、餐饮广告，也试了文字渲染、多视角同步、灾难片、二次元变身、情感短剧、动作片、魔法特效、打斗和国风演唱。还给出了完整的提示词，快来一起试试效果如何！",
-      "url": "https://waytoagi.feishu.cn/wiki/P1YkwgeQGi6KMekyl3Fc2dbGnee?from=from_copylink",
-      "title_ja": "Conch MiniMax H3 はオープンソースです。これを使用して 7 つの広告、9 つの大ヒット作、4 つのシーン (プロンプト ワード付き) を作成しました。",
-      "summary_ja": "Conch MiniMax H3 は正式にオープンソースです。 Xiaowai は多数のケースを実行し、製品広告、飲料広告、オフロード車、来店、美容製品、ケータリング広告、テキスト レンダリング、マルチビュー同期、災害ムービー、二次元変換、感情的な寸劇、アクション映画、魔法の特殊効果、格闘、中国風の歌唱をテストしました。完全なプロンプトの単語も表示されます。ぜひ一緒に試して、それがどのように機能するかを確認してください。"
-    },
-    {
-      "date": "2026-08-04",
-      "title": "前端开发与UI设计师必备的Skill",
-      "summary": "这是一个面向设计师与前端工程师的技能库。它们来自作者在Vercel、Linear等公司的多年工作经验。对于持续学习Vibe Coding、产品设计的用户来说，都非常有价值。",
-      "url": "https://waytoagi.feishu.cn/wiki/Ik51wQZrCixtPeky8ZrcTPIAnCd?from=from_copylink",
-      "title_ja": "フロントエンド開発およびUIデザイナーに必須のスキル",
-      "summary_ja": "デザイナー、フロントエンドエンジニア向けのスキルライブラリです。これらは、Vercel や Linear などの企業での著者の長年の勤務経験に基づいています。これは、Vibe コーディングと製品デザインを学び続けるユーザーにとって非常に価値があります。"
-    },
-    {
-      "date": "2026-08-04",
-      "title": "乔木开源了一个元Skill：可以一句话生成可发布的 Skill",
-      "summary": "乔木开源的这个 元Skill 可以让你一句话生成真正能被发现、能稳定触发、能通过验证、还能一键开源的Skill。你把提示词、SOP、聊天记录、旧Skill或者一个模糊想法交给它，它会自动完成需求收敛、同类检索、取舍设计、触发评测、格式校验、README、密钥泄露检查、PR、Release和npx安装验证。快来试试看！",
-      "url": "https://waytoagi.feishu.cn/wiki/NkzEw5Fo9igpZhk9W89c0dzynTg?from=from_copylink",
-      "title_ja": "Qiaomu がメタスキルをオープンソース化: リリース可能なスキルを 1 文で生成可能",
-      "summary_ja": "Qiaomu Open Source によって開発されたこのメタスキルを使用すると、本当に発見可能で、安定してトリガーでき、検証に合格でき、ワンクリックでオープンソース化できるスキルを生成できます。プロンプトの言葉、SOP、チャット記録、古いスキルや漠然としたアイデアを入力すると、デマンド コンバージェンス、類似検索、トレードオフ設計、トリガー評価、フォーマット検証、README、キー漏洩チェック、PR、リリース、npx インストール検証が自動的に完了します。ぜひ試してみてください！"
-    },
-    {
-      "date": "2026-08-04",
-      "title": "Vibe Coding 视觉词典（上篇）：布局、页面结构、导航与常用组件",
-      "summary": "这篇Vibe Coding 新手视觉宝典，把网页拆成四层：布局、页面结构、导航和组件。针对 卡片、瀑布流、Bento、分屏、CSS Grid/Flexbox、Hero、Landing Page、Sticky Navbar、Drawer、Tabs、Modal、Toast、表单、Command Palette都讲了各自的适用场景，还配了对应的提示词。如果你想用AI搭个人网站、作品集、产品页，可以参考一下。",
-      "url": "https://waytoagi.feishu.cn/wiki/XBlhwhR6RimU4ukhIzfcJb4OnTh?from=from_copylink",
-      "title_ja": "Vibe コーディング ビジュアル ディクショナリ (パート 1): レイアウト、ページ構造、ナビゲーション、および共通コンポーネント",
-      "summary_ja": "Vibe コーディングの初心者向けのこのビジュアル ガイドは、Web ページをレイアウト、ページ構造、ナビゲーション、コンポーネントの 4 つのレイヤーに分けています。カード、ウォーターフォール フロー、Bento、分割画面、CSS グリッド/フレックスボックス、ヒーロー、ランディング ページ、スティッキー ナビゲーションバー、ドロワー、タブ、モーダル、トースト、フォーム、コマンド パレットについて、それぞれ適用可能なシナリオについて説明し、対応するプロンプトも提供します。 AIを使って個人のWebサイトやポートフォリオ、商品ページを構築したい方は参考にしてみてください。"
     }
   ],
   "warning": null,
