@@ -1,71 +1,111 @@
 {
-  "generated_at": "2026-08-11T18:05:27.935560Z",
+  "generated_at": "2026-08-11T19:17:41.142553Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-08-10",
-  "count_today": 7,
+  "latest_date": "2026-08-11",
+  "count_today": 6,
   "updates_today": [
     {
-      "date": "2026-08-10",
-      "title": "贵57.1倍的Claude Opus 4.8五项全输，赢它的不是模型，是Harness",
-      "summary": "Floatboat Harness公开的基准评测，印证了Harness执行底座对Agent能力的巨大加成。锁定同一低成本模型，仅更换运行底座，长程复杂任务性能大幅提升，甚至全面超越价格高出数十倍的旗舰模型。",
-      "url": "https://waytoagi.feishu.cn/wiki/N0iMwkm7EiFb6ukn9HycJcw2nKe?from=from_copylink",
-      "title_ja": "57.1 倍高価なクロード オーパス 4.8 は、5 つのカテゴリーすべてで負けています。勝つのはモデルではなくハーネスです。",
-      "summary_ja": "Floatboat Harness の公開ベンチマーク評価により、Harness 実行ベースがエージェントの機能に大幅に追加されたことが確認されています。同じ低価格モデルを固定し、ランニングベースのみを交換することで、長距離の複雑なタスクのパフォーマンスが大幅に向上し、数十倍高価なフラッグシップモデルをも上回ります。"
+      "date": "2026-08-11",
+      "title": "硅谷观察日记｜AI恐慌退潮，分享我走访多所大学后的四点观察",
+      "summary": "作者在走访纽约大学、卡内基梅隆、南加大、UCLA、ACCD后发现，美国高校的 AI 恐慌正在退潮，老师们更关心一项作业里哪些步骤能交给 AI，哪些必须学生亲手完成。AI 让答案变便宜了，人的判断、过程和责任反而更值钱。",
+      "url": "https://waytoagi.feishu.cn/wiki/FR2WwcGY2iJ0qRkbldLcGokOnxf?from=from_copylink",
+      "title_ja": "シリコンバレー観察日記｜AIパニックは沈静化、多くの大学を訪問して観察した4つのことを共有",
+      "summary_ja": "ニューヨーク大学、カーネギーメロン大学、南カリフォルニア大学、UCLA、ACCDを訪問した著者は、アメリカの大学におけるAIパニックが後退していることを発見した。教師は、課題のどのステップを AI に引き渡すことができ、どのステップを生徒自身が完了する必要があるかについてより懸念しています。 AI により回答は安価になり、人間の判断、プロセス、責任の価値が高まります。"
     },
     {
-      "date": "2026-08-10",
-      "title": "工作没有着落的时候，先让自己动起来",
-      "summary": "身边越来越多人遇到降薪、调岗、离职、毕业求职卡住，明知道该学AI、做自媒体、换方向，却总被“我还没想清楚”“我看不懂”挡在原地。小鱿鱼这篇文章很适合待业、转岗、毕业迷茫，或者想学AI却迟迟开不了头的人读。",
-      "url": "https://waytoagi.feishu.cn/wiki/W3p1w2qr0icHtBkgaeLcqdSHnTu?from=from_copylink",
-      "title_ja": "仕事で行き詰まったら、まずは体を動かしましょう",
-      "summary_ja": "私の周囲でも、減給や異動、退職、卒業後の就職活動に行き詰まる人が増えています。 AIを学ぶべきだ、セルフメディアをすべきだ、方向転換すべきだということはわかっているのですが、いつも「まだわかっていない」「理解できない」という言葉に阻まれます。 Little Squid のこの記事は、失業者、転職者、卒業後に迷っている人、AI を学びたいけど始められない人に最適です。"
+      "date": "2026-08-11",
+      "title": "从 RAG 到上下文图：9 步路线图",
+      "summary": "这篇文章把从RAG到上下文图的路线拆成 9 步：先找一个RAG答不好的多跳问题，再抽实体和关系、做实体规范化、建正反向边、给边加权并保留来源，最后按路径检索并带引用生成答案。适合做企业知识库、GraphRAG、Agent上下文工程的人看。",
+      "url": "https://waytoagi.feishu.cn/wiki/XZvOwM99nivQSAkHzsJc261xnhh?from=from_copylink",
+      "title_ja": "RAG からコンテキスト グラフへ: 9 ステップのロードマップ",
+      "summary_ja": "この記事では、RAG からコンテキスト グラフへのルートを 9 つのステップに分けています。まず、RAG で回答できないマルチホップの質問を見つけます。次に、エンティティと関係を抽出し、エンティティを正規化し、順方向エッジと逆方向エッジを構築し、エッジに重みを付けてソースを保持し、最後にパスで検索し、参照を含む回答を生成します。エンタープライズナレッジベース、GraphRAG、およびエージェントコンテキストエンジニアリングに従事する人々に適しています。"
     },
     {
-      "date": "2026-08-10",
-      "title": "WaytoAGI成都新据点开园！8月14日白鹭湾见",
-      "summary": "8月14日，WaytoAGI 成都科梦 OPC 社区要开园了！这是WaytoAGI和成都传媒产业集团旗下红星传媒一起做的 OPC 社区，也是 WaytoAGI 继北京亦庄之后的第二个线下 OPC 社区。欢迎大家报名，来现场一起参与见证 WaytoAGI 成都科梦 OPC 社区的落地。",
-      "url": "https://waytoagi.feishu.cn/wiki/E0sxwDQ3Ai9fxhkKHbQcjLaFn8f?from=from_copylink",
-      "title_ja": "WaytoAGI が成都に新拠点を開設! 8月14日にイーグレットベイでお会いしましょう",
-      "summary_ja": "8 月 14 日、WaytoAGI 成都科孟 OPC コミュニティがオープンします。これは、WaytoAGI と成都メディア産業グループの子会社である Red Star Media によって開発された OPC コミュニティです。 WaytoAGI にとって、Beijing Yizhuang に次ぐ 2 番目のオフライン OPC コミュニティでもあります。どなたでもサインアップしてサイトに来て、WaytoAGI 成都科孟 OPC コミュニティの実装に参加し、その実装を目撃してください。"
+      "date": "2026-08-11",
+      "title": "Codex Security，开源了！",
+      "summary": "现在用 AI 半天搓个产品上线，已经不稀奇了，但最容易被忽略的往往是安全：权限没收紧、数据库没校验、接口没防护，前期看不出问题，真有流量后就可能变成事故。OpenAI 开源的Codex Security可以直接装成npm包，在项目里扫描漏洞，还会先验证风险、给出位置和修复建议，支持日常检查和深度扫描，也能对比修复前后的结果。产品上线前用它跑一遍，至少能少踩几个安全坑。",
+      "url": "https://waytoagi.feishu.cn/wiki/Kgu3wTyD3inmRwkmbufcaLzWnWd?from=from_copylink",
+      "title_ja": "Codex Security、オープンソース!",
+      "summary_ja": "現在では、AI を使用して半日で製品をリリースすることは珍しくありませんが、最も見落とされやすい側面はセキュリティです。権限が強化されておらず、データベースが検証されておらず、インターフェイスが保護されていません。初期段階では問題は見られませんが、実際に渋滞が発生すると事故になる可能性があります。 OpenAI のオープン ソース Codex Security は、npm パッケージとして直接インストールして、プロジェクト内の脆弱性をスキャンできます。また、最初にリスクを検証し、場所と修理の提案を提供し、日常の検査と詳細なスキャンをサポートし、修理の前後の結果を比較します。オンラインになる前にこれを使用して製品を実行すれば、少なくともいくつかの安全上の落とし穴を回避できます。"
     },
     {
-      "date": "2026-08-10",
-      "title": "Cursor人力负责人：如何组建顶尖的AI团队丨Lenny's Podcast",
-      "summary": "Adam Ward 是Cursor的人力主管。他在业内拥有超过20年的经验，擅长打造精英人才团队，被公认为科技界最高效、最具创意的招聘人员之一。一起来看看他是如何组建顶尖的AI团队。",
-      "url": "https://waytoagi.feishu.cn/wiki/OD1vw2LBNirzwKkxmOVcJzB1nlh?from=from_copylink",
-      "title_ja": "カーソル人事リーダー: トップ AI チームの作り方丨Lenny のポッドキャスト",
-      "summary_ja": "Adam Ward は Cursor の部門責任者です。業界で 20 年以上の経験を持つ彼は、エリート人材チームの構築を専門とし、テクノロジー業界で最も効率的で創造的な採用担当者の 1 人として認められています。彼がどのようにしてトップの AI チームを構築したかを見てみましょう。"
+      "date": "2026-08-11",
+      "title": "Claude/Codex能跨会话传消息，我重构工作流",
+      "summary": "很多人用Claude/Codex来vibe coding，都会遇到一个很烦的问题。上下文一乱，新想法塞进当前对话会带偏主线，重开一条又要补充背景、重复解释踩过的坑。Claude/Codex能跨会话传消息后，就可以探索所有可行路径还不丢上下文。Codex适合用会话ID精确寻址，Claude Code则更适合按项目、日期、主题搜索历史会话。快来试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/AoMvwYVlpiaBtPkm55HcGvxjn2d?from=from_copylink",
+      "title_ja": "Claude/Codex はセッション間でメッセージを送信できるため、ワークフローを再構築しました",
+      "summary_ja": "バイブコーディングに Claude/Codex を使用する多くの人は、非常に迷惑な問題に遭遇するでしょう。文脈がめちゃくちゃで、現在の会話に新しいアイデアを挿入すると本筋から逸脱してしまいます。新しいものを始めるときは、背景を追加し、踏んだ落とし穴を繰り返す必要があります。 Claude/Codex がセッション間でメッセージを渡すことができると、コンテキストを失うことなく、実行可能なすべてのパスを探索できます。 Codex はセッション ID を使用した正確なアドレス指定に適していますが、Claude Code はプロジェクト、日付、トピックによる履歴セッションの検索に適しています。ぜひ試してみてください！"
     },
     {
-      "date": "2026-08-10",
-      "title": "AI音乐周刊 W.A 040",
-      "summary": "这周AI音乐领域的变化，已经从“生成一首歌”延伸到实体收藏、移动端声线和版权商业化：Suno准备推出AI歌曲黑胶定制，Voices声音克隆也上线 iOS/Android。行业规则也开始变清楚：Spotify联合Merlin做授权翻唱/重混，华纳预计AI授权将在2027年带来收入，Suno也在加强提示词审查、音频水印、下载限制和社区治理。",
-      "url": "https://waytoagi.feishu.cn/wiki/IruywTu30iCRxWksOgicnyRonic?from=from_copylink",
-      "title_ja": "AI ミュージック ウィークリー W.A 040",
-      "summary_ja": "今週の AI 音楽分野の変化は、「曲の生成」から物理的なコレクション、モバイル音声、著作権の商品化にまで及びました。Suno は AI 曲のビニールのカスタマイズを開始する準備をしており、Voices サウンドのクローン作成も iOS/Android で利用できます。業界のルールも明らかになり始めている。Spotifyはマーリンと提携してカバー/リミックスのライセンスを取得し、ワーナーはAIライセンスが2027年に収益をもたらすと予測し、Sunoも即時ワード検閲、音声透かし、ダウンロード制限、コミュニティガバナンスを強化している。"
+      "date": "2026-08-11",
+      "title": "Claude Tag 可能会是下一个现象级 AI 产品。",
+      "summary": "一个月前，Anthropic 在Slack里上线了Claude Tag。阿颖这篇文章把Claude Tag和Claude Code、Codex、OpenClaw放在一起进行了对比，发现Claude Tag或许会是下一个现象级 AI 产品。",
+      "url": "https://waytoagi.feishu.cn/wiki/OF3IwAy1rip2BKkNGnQcUmITnwf?from=from_copylink",
+      "title_ja": "Claude Tag は、次の驚異的な AI 製品になる可能性があります。",
+      "summary_ja": "1 か月前、Anthropic は Slack 上で Claude Tag を開始しました。 Aying の記事では、Claude Tag を Claude Code、Codex、OpenClaw と比較し、Claude Tag が次の驚異的な AI 製品になる可能性があることを発見しました。"
     },
     {
-      "date": "2026-08-10",
-      "title": "AI时代需要补的网络基础知识",
-      "summary": "学习AI有很多需要用到网络底层基础知识的地方。作者用这篇文章，以最通俗易懂的方式让你了解清楚去解决这些现实问题，所需要具备的最基础的网络名词概念。",
-      "url": "https://waytoagi.feishu.cn/wiki/Fl8Lwh33viAMNUkihG3ccUZJnJI?from=from_copylink",
-      "title_ja": "AI時代に補充すべきネットワークの基礎知識",
-      "summary_ja": "AI を学習するには、基盤となるネットワークの基本的な知識が必要になる場所が多くあります。著者はこの記事を使用して、これらの実際的な問題を最もわかりやすい方法で解決するために必要なネットワーク用語の最も基本的な概念を理解できるようにします。"
-    },
-    {
-      "date": "2026-08-10",
-      "title": "AI 名词小白入门白皮书",
-      "summary": "很多人学AI一上来就被一堆英文缩写劝退：GPT、Token、RAG、MCP、Agent、Loop、Graph单独都能查，放在一起就分不清谁是模型、谁是产品、谁负责资料、谁负责执行。这份白皮书适合刚入门的小白。",
-      "url": "https://waytoagi.feishu.cn/wiki/Enmdwp5OQivcWOk7pQOco4oSnAd?from=from_copylink",
-      "title_ja": null,
-      "summary_ja": "AI の学習を始めるとすぐに、多くの人が英語の略語の数々にうんざりします。GPT、トークン、RAG、MCP、エージェント、ループ、グラフは個別に調べることができますが、これらをまとめると、誰がモデルで、誰が製品で、誰がデータの責任者で、誰が実行の責任者であるかを区別するのが困難です。このホワイトペーパーは、始めたばかりの初心者に適しています。"
+      "date": "2026-08-11",
+      "title": "AI 工程师必备的 7 条自改进智能体循环规则",
+      "summary": "智能体会自己写代码、自己改提示词、自己跑循环，看起来越来越聪明；但如果你没先定义什么叫“好”，它很可能只是把分数刷漂亮，真实效果反而变差。来一起看看Google官方的自改进智能体循环是如何避免这一问题的！",
+      "url": "https://waytoagi.feishu.cn/wiki/ENInwjmnViH3I4knMO2cmO1PnVg?from=from_copylink",
+      "title_ja": "AI エンジニアがエージェント ループを自己改善するための 7 つの必須ルール",
+      "summary_ja": "エージェントは独自のコードを記述し、独自のプロンプトの単語を変更し、独自のループを実行できます。ますますスマートに見えます。しかし、最初に「良い」とは何かを定義しないと、スコアが向上するだけで、実際の効果はさらに悪くなる可能性があります。 Google の公式自己改善エージェント ループがこの問題をどのように回避するかを見てみましょう。"
     }
   ],
-  "count_7d": 28,
+  "count_7d": 34,
   "updates_7d": [
+    {
+      "date": "2026-08-11",
+      "title": "硅谷观察日记｜AI恐慌退潮，分享我走访多所大学后的四点观察",
+      "summary": "作者在走访纽约大学、卡内基梅隆、南加大、UCLA、ACCD后发现，美国高校的 AI 恐慌正在退潮，老师们更关心一项作业里哪些步骤能交给 AI，哪些必须学生亲手完成。AI 让答案变便宜了，人的判断、过程和责任反而更值钱。",
+      "url": "https://waytoagi.feishu.cn/wiki/FR2WwcGY2iJ0qRkbldLcGokOnxf?from=from_copylink",
+      "title_ja": "シリコンバレー観察日記｜AIパニックは沈静化、多くの大学を訪問して観察した4つのことを共有",
+      "summary_ja": "ニューヨーク大学、カーネギーメロン大学、南カリフォルニア大学、UCLA、ACCDを訪問した著者は、アメリカの大学におけるAIパニックが後退していることを発見した。教師は、課題のどのステップを AI に引き渡すことができ、どのステップを生徒自身が完了する必要があるかについてより懸念しています。 AI により回答は安価になり、人間の判断、プロセス、責任の価値が高まります。"
+    },
+    {
+      "date": "2026-08-11",
+      "title": "从 RAG 到上下文图：9 步路线图",
+      "summary": "这篇文章把从RAG到上下文图的路线拆成 9 步：先找一个RAG答不好的多跳问题，再抽实体和关系、做实体规范化、建正反向边、给边加权并保留来源，最后按路径检索并带引用生成答案。适合做企业知识库、GraphRAG、Agent上下文工程的人看。",
+      "url": "https://waytoagi.feishu.cn/wiki/XZvOwM99nivQSAkHzsJc261xnhh?from=from_copylink",
+      "title_ja": "RAG からコンテキスト グラフへ: 9 ステップのロードマップ",
+      "summary_ja": "この記事では、RAG からコンテキスト グラフへのルートを 9 つのステップに分けています。まず、RAG で回答できないマルチホップの質問を見つけます。次に、エンティティと関係を抽出し、エンティティを正規化し、順方向エッジと逆方向エッジを構築し、エッジに重みを付けてソースを保持し、最後にパスで検索し、参照を含む回答を生成します。エンタープライズナレッジベース、GraphRAG、およびエージェントコンテキストエンジニアリングに従事する人々に適しています。"
+    },
+    {
+      "date": "2026-08-11",
+      "title": "Codex Security，开源了！",
+      "summary": "现在用 AI 半天搓个产品上线，已经不稀奇了，但最容易被忽略的往往是安全：权限没收紧、数据库没校验、接口没防护，前期看不出问题，真有流量后就可能变成事故。OpenAI 开源的Codex Security可以直接装成npm包，在项目里扫描漏洞，还会先验证风险、给出位置和修复建议，支持日常检查和深度扫描，也能对比修复前后的结果。产品上线前用它跑一遍，至少能少踩几个安全坑。",
+      "url": "https://waytoagi.feishu.cn/wiki/Kgu3wTyD3inmRwkmbufcaLzWnWd?from=from_copylink",
+      "title_ja": "Codex Security、オープンソース!",
+      "summary_ja": "現在では、AI を使用して半日で製品をリリースすることは珍しくありませんが、最も見落とされやすい側面はセキュリティです。権限が強化されておらず、データベースが検証されておらず、インターフェイスが保護されていません。初期段階では問題は見られませんが、実際に渋滞が発生すると事故になる可能性があります。 OpenAI のオープン ソース Codex Security は、npm パッケージとして直接インストールして、プロジェクト内の脆弱性をスキャンできます。また、最初にリスクを検証し、場所と修理の提案を提供し、日常の検査と詳細なスキャンをサポートし、修理の前後の結果を比較します。オンラインになる前にこれを使用して製品を実行すれば、少なくともいくつかの安全上の落とし穴を回避できます。"
+    },
+    {
+      "date": "2026-08-11",
+      "title": "Claude/Codex能跨会话传消息，我重构工作流",
+      "summary": "很多人用Claude/Codex来vibe coding，都会遇到一个很烦的问题。上下文一乱，新想法塞进当前对话会带偏主线，重开一条又要补充背景、重复解释踩过的坑。Claude/Codex能跨会话传消息后，就可以探索所有可行路径还不丢上下文。Codex适合用会话ID精确寻址，Claude Code则更适合按项目、日期、主题搜索历史会话。快来试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/AoMvwYVlpiaBtPkm55HcGvxjn2d?from=from_copylink",
+      "title_ja": "Claude/Codex はセッション間でメッセージを送信できるため、ワークフローを再構築しました",
+      "summary_ja": "バイブコーディングに Claude/Codex を使用する多くの人は、非常に迷惑な問題に遭遇するでしょう。文脈がめちゃくちゃで、現在の会話に新しいアイデアを挿入すると本筋から逸脱してしまいます。新しいものを始めるときは、背景を追加し、踏んだ落とし穴を繰り返す必要があります。 Claude/Codex がセッション間でメッセージを渡すことができると、コンテキストを失うことなく、実行可能なすべてのパスを探索できます。 Codex はセッション ID を使用した正確なアドレス指定に適していますが、Claude Code はプロジェクト、日付、トピックによる履歴セッションの検索に適しています。ぜひ試してみてください！"
+    },
+    {
+      "date": "2026-08-11",
+      "title": "Claude Tag 可能会是下一个现象级 AI 产品。",
+      "summary": "一个月前，Anthropic 在Slack里上线了Claude Tag。阿颖这篇文章把Claude Tag和Claude Code、Codex、OpenClaw放在一起进行了对比，发现Claude Tag或许会是下一个现象级 AI 产品。",
+      "url": "https://waytoagi.feishu.cn/wiki/OF3IwAy1rip2BKkNGnQcUmITnwf?from=from_copylink",
+      "title_ja": "Claude Tag は、次の驚異的な AI 製品になる可能性があります。",
+      "summary_ja": "1 か月前、Anthropic は Slack 上で Claude Tag を開始しました。 Aying の記事では、Claude Tag を Claude Code、Codex、OpenClaw と比較し、Claude Tag が次の驚異的な AI 製品になる可能性があることを発見しました。"
+    },
+    {
+      "date": "2026-08-11",
+      "title": "AI 工程师必备的 7 条自改进智能体循环规则",
+      "summary": "智能体会自己写代码、自己改提示词、自己跑循环，看起来越来越聪明；但如果你没先定义什么叫“好”，它很可能只是把分数刷漂亮，真实效果反而变差。来一起看看Google官方的自改进智能体循环是如何避免这一问题的！",
+      "url": "https://waytoagi.feishu.cn/wiki/ENInwjmnViH3I4knMO2cmO1PnVg?from=from_copylink",
+      "title_ja": "AI エンジニアがエージェント ループを自己改善するための 7 つの必須ルール",
+      "summary_ja": "エージェントは独自のコードを記述し、独自のプロンプトの単語を変更し、独自のループを実行できます。ますますスマートに見えます。しかし、最初に「良い」とは何かを定義しないと、スコアが向上するだけで、実際の効果はさらに悪くなる可能性があります。 Google の公式自己改善エージェント ループがこの問題をどのように回避するかを見てみましょう。"
+    },
     {
       "date": "2026-08-10",
       "title": "贵57.1倍的Claude Opus 4.8五项全输，赢它的不是模型，是Harness",

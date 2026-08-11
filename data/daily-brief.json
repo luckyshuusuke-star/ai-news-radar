@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T18:05:27.935560Z",
+  "generated_at": "2026-08-11T19:17:41.142553Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -86,16 +86,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8662,
-      "importance": 0.8662,
-      "importance_score": 0.8662,
+      "score": 0.8631,
+      "importance": 0.8631,
+      "importance_score": 0.8631,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9844,
+        "recency": 0.9674,
         "story_heat": 0.25
       },
       "category": "official",
@@ -125,7 +125,98 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T18:08:06.069304Z"
+        "scored_at": "2026-08-11T19:19:14.670006Z"
+      }
+    },
+    {
+      "story_id": "story_c246dedc40ae",
+      "title": "MAI-Code-1.1-Flash 可在 GitHub Copilot 中使用 / MAI-Code-1.1-Flash available in GitHub Copilot",
+      "title_ja": "MAI-Code-1.1-Flash が GitHub Copilot で利用可能",
+      "url": "https://github.blog/changelog/2026-08-11-mai-code-1-1-flash-available-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-08-11-mai-code-1-1-flash-available-in-github-copilot",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "20b4d04d7ca16e68614fdf21c759a417df28eacb",
+          "title": "MAI-Code-1.1-Flash 可在 GitHub Copilot 中使用 / MAI-Code-1.1-Flash available in GitHub Copilot",
+          "title_zh": "MAI-Code-1.1-Flash 可在 GitHub Copilot 中使用",
+          "title_ja": "MAI-Code-1.1-Flash が GitHub Copilot で利用可能",
+          "title_en": "MAI-Code-1.1-Flash available in GitHub Copilot",
+          "title_original": "MAI-Code-1.1-Flash available in GitHub Copilot",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-11-mai-code-1-1-flash-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-11T18:13:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "20b4d04d7ca16e68614fdf21c759a417df28eacb",
+          "title": "MAI-Code-1.1-Flash 可在 GitHub Copilot 中使用 / MAI-Code-1.1-Flash available in GitHub Copilot",
+          "title_zh": "MAI-Code-1.1-Flash 可在 GitHub Copilot 中使用",
+          "title_ja": "MAI-Code-1.1-Flash が GitHub Copilot で利用可能",
+          "title_en": "MAI-Code-1.1-Flash available in GitHub Copilot",
+          "title_original": "MAI-Code-1.1-Flash available in GitHub Copilot",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-11-mai-code-1-1-flash-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-11T18:13:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8493,
+      "importance": 0.8493,
+      "importance_score": 0.8493,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9848,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-11T18:13:56Z",
+      "latest_at": "2026-08-11T18:13:56Z",
+      "primary_item": {
+        "id": "20b4d04d7ca16e68614fdf21c759a417df28eacb",
+        "title": "MAI-Code-1.1-Flash 可在 GitHub Copilot 中使用 / MAI-Code-1.1-Flash available in GitHub Copilot",
+        "title_zh": "MAI-Code-1.1-Flash 可在 GitHub Copilot 中使用",
+        "title_ja": "MAI-Code-1.1-Flash が GitHub Copilot で利用可能",
+        "title_en": "MAI-Code-1.1-Flash available in GitHub Copilot",
+        "title_original": "MAI-Code-1.1-Flash available in GitHub Copilot",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-08-11-mai-code-1-1-flash-available-in-github-copilot",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-11T19:19:14.670006Z"
       }
     },
     {
@@ -178,16 +269,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8487,
-      "importance": 0.8487,
-      "importance_score": 0.8487,
+      "score": 0.8458,
+      "importance": 0.8458,
+      "importance_score": 0.8458,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9375,
+        "recency": 0.9213,
         "story_heat": 0.0
       },
       "category": "official",
@@ -216,7 +307,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T18:08:06.069304Z"
+        "scored_at": "2026-08-11T19:19:14.670006Z"
       }
     },
     {
@@ -368,16 +459,16 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.842,
-      "importance": 0.842,
-      "importance_score": 0.842,
+      "score": 0.839,
+      "importance": 0.839,
+      "importance_score": 0.839,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9799,
+        "recency": 0.9631,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -406,7 +497,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T18:08:06.069304Z"
+        "scored_at": "2026-08-11T19:19:14.670006Z"
       }
     },
     {
@@ -459,16 +550,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8402,
-      "importance": 0.8402,
-      "importance_score": 0.8402,
+      "score": 0.8374,
+      "importance": 0.8374,
+      "importance_score": 0.8374,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8897,
+        "recency": 0.8744,
         "story_heat": 0.0
       },
       "category": "official",
@@ -497,7 +588,131 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T18:08:06.069304Z"
+        "scored_at": "2026-08-11T19:19:14.670006Z"
+      }
+    },
+    {
+      "story_id": "story_8777ad676036",
+      "title": "Google Gemini 应用月活用户突破 10 亿 / Google's Gemini app surges to one billion users",
+      "title_ja": "GoogleのGeminiアプリのユーザー数が10億人に急増",
+      "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users",
+      "primary_url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "3887d9b9f270176e8e4a5f6640ec4b14071497cd",
+          "title": "Google Gemini 应用月活用户突破 10 亿 / Google's Gemini app surges to one billion users",
+          "title_zh": "Google Gemini 应用月活用户突破 10 亿",
+          "title_ja": "GoogleのGeminiアプリのユーザー数が10億人に急増",
+          "title_en": "Google's Gemini app surges to one billion users",
+          "title_original": "Google's Gemini app surges to one billion users",
+          "summary": "Google CEO Sundar Pichai 宣布，Gemini 应用月活跃用户已突破 10 亿，成为公司增长最快的产品之一，也是第 14 个达到该里程碑的 Google 产品。这一速度与 6 月达成 10 亿月活的 ChatGPT 持平。其中 63% 的用户使用语音功能，Gemini 每日生成超 1.5 亿张图片，iOS 端活跃用户超 1 亿。",
+          "summary_ja": "Google CEOのSundar Pichai氏は、Geminiアプリが月間アクティブユーザー数10億人を超え、同社で最も急速に成長している製品の1つとなり、このマイルストーンに到達した14番目のGoogle製品となったと発表した。このペースは、6月に月間アクティブユーザー数が10億人に達したChatGPTと同等だ。ユーザーの 63% が音声機能を使用しています。 Gemini は毎日 1 億 5,000 万枚以上の写真を生成し、iOS には 1 億人以上のアクティブ ユーザーがいます。",
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T18:49:12Z"
+        },
+        {
+          "id": "9d438f752ff1c7e70b7c97d60522118d41552be2",
+          "title": "Google Gemini 应用月活用户突破 10 亿 / Google’s Gemini app surges to one billion users",
+          "title_zh": "Google Gemini 应用月活用户突破 10 亿",
+          "title_ja": "GoogleのGeminiアプリのユーザー数が10億人に急増",
+          "title_en": "Google’s Gemini app surges to one billion users",
+          "title_original": "Google’s Gemini app surges to one billion users",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-11T18:49:12Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch AI",
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "3887d9b9f270176e8e4a5f6640ec4b14071497cd",
+          "title": "Google Gemini 应用月活用户突破 10 亿 / Google's Gemini app surges to one billion users",
+          "title_zh": "Google Gemini 应用月活用户突破 10 亿",
+          "title_ja": "GoogleのGeminiアプリのユーザー数が10億人に急増",
+          "title_en": "Google's Gemini app surges to one billion users",
+          "title_original": "Google's Gemini app surges to one billion users",
+          "summary": "Google CEO Sundar Pichai 宣布，Gemini 应用月活跃用户已突破 10 亿，成为公司增长最快的产品之一，也是第 14 个达到该里程碑的 Google 产品。这一速度与 6 月达成 10 亿月活的 ChatGPT 持平。其中 63% 的用户使用语音功能，Gemini 每日生成超 1.5 亿张图片，iOS 端活跃用户超 1 亿。",
+          "summary_ja": "Google CEOのSundar Pichai氏は、Geminiアプリが月間アクティブユーザー数10億人を超え、同社で最も急速に成長している製品の1つとなり、このマイルストーンに到達した14番目のGoogle製品となったと発表した。このペースは、6月に月間アクティブユーザー数が10億人に達したChatGPTと同等だ。ユーザーの 63% が音声機能を使用しています。 Gemini は毎日 1 億 5,000 万枚以上の写真を生成し、iOS には 1 億人以上のアクティブ ユーザーがいます。",
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T18:49:12Z"
+        },
+        {
+          "id": "9d438f752ff1c7e70b7c97d60522118d41552be2",
+          "title": "Google Gemini 应用月活用户突破 10 亿 / Google’s Gemini app surges to one billion users",
+          "title_zh": "Google Gemini 应用月活用户突破 10 亿",
+          "title_ja": "GoogleのGeminiアプリのユーザー数が10億人に急増",
+          "title_en": "Google’s Gemini app surges to one billion users",
+          "title_original": "Google’s Gemini app surges to one billion users",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-11T18:49:12Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8124,
+      "importance": 0.8124,
+      "importance_score": 0.8124,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9932,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-11T18:49:12Z",
+      "latest_at": "2026-08-11T18:49:12Z",
+      "primary_item": {
+        "id": "3887d9b9f270176e8e4a5f6640ec4b14071497cd",
+        "title": "Google Gemini 应用月活用户突破 10 亿 / Google's Gemini app surges to one billion users",
+        "title_zh": "Google Gemini 应用月活用户突破 10 亿",
+        "title_ja": "GoogleのGeminiアプリのユーザー数が10億人に急増",
+        "title_en": "Google's Gemini app surges to one billion users",
+        "title_original": "Google's Gemini app surges to one billion users",
+        "summary": "Google CEO Sundar Pichai 宣布，Gemini 应用月活跃用户已突破 10 亿，成为公司增长最快的产品之一，也是第 14 个达到该里程碑的 Google 产品。这一速度与 6 月达成 10 亿月活的 ChatGPT 持平。其中 63% 的用户使用语音功能，Gemini 每日生成超 1.5 亿张图片，iOS 端活跃用户超 1 亿。",
+        "summary_ja": "Google CEOのSundar Pichai氏は、Geminiアプリが月間アクティブユーザー数10億人を超え、同社で最も急速に成長している製品の1つとなり、このマイルストーンに到達した14番目のGoogle製品となったと発表した。このペースは、6月に月間アクティブユーザー数が10億人に達したChatGPTと同等だ。ユーザーの 63% が音声機能を使用しています。 Gemini は毎日 1 億 5,000 万枚以上の写真を生成し、iOS には 1 億人以上のアクティブ ユーザーがいます。",
+        "recommend_reason_zh": null,
+        "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-11T19:19:14.670006Z"
       }
     },
     {
@@ -550,16 +765,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8354,
-      "importance": 0.8354,
-      "importance_score": 0.8354,
+      "score": 0.8324,
+      "importance": 0.8324,
+      "importance_score": 0.8324,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9522,
+        "recency": 0.9358,
         "story_heat": 0.0
       },
       "category": "official",
@@ -588,7 +803,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T18:08:06.069304Z"
+        "scored_at": "2026-08-11T19:19:14.670006Z"
       }
     },
     {
@@ -641,16 +856,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8019,
-      "importance": 0.8019,
-      "importance_score": 0.8019,
+      "score": 0.7997,
+      "importance": 0.7997,
+      "importance_score": 0.7997,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7216,
+        "recency": 0.7092,
         "story_heat": 0.0
       },
       "category": "official",
@@ -679,7 +894,97 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T18:08:06.069304Z"
+        "scored_at": "2026-08-11T19:19:14.670006Z"
+      }
+    },
+    {
+      "story_id": "story_7799176b7000",
+      "title": "ChatGPT 桌面端支持导入其他智能体工作数据 / You can now keep your work from other agents in sync with ChatGPT Work and Codex. Import projects， …",
+      "title_ja": "他のエージェントからの作業を ChatGPT Work および Codex と同期して維持できるようになりました。プロジェクトのインポート、…",
+      "url": "https://x.com/OpenAIDevs/status/2087242829076791392",
+      "primary_url": "https://x.com/OpenAIDevs/status/2087242829076791392",
+      "source": "X：OpenAI Developers (@OpenAIDevs)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9024af61e406cc4fb1c6876b8f915e9d9f24896d",
+          "title": "ChatGPT 桌面端支持导入其他智能体工作数据 / You can now keep your work from other agents in sync with ChatGPT Work and Codex. Import projects， …",
+          "title_zh": "ChatGPT 桌面端支持导入其他智能体工作数据",
+          "title_ja": "他のエージェントからの作業を ChatGPT Work および Codex と同期して維持できるようになりました。プロジェクトのインポート、…",
+          "title_en": "You can now keep your work from other agents in sync with ChatGPT Work and Codex. Import projects， …",
+          "title_original": "You can now keep your work from other agents in sync with ChatGPT Work and Codex. Import projects， …",
+          "summary": "你现在可以将其他智能体的工作内容与 ChatGPT Work 和 Codex 保持同步。\n\n可导入项目、聊天记录、技能和插件，查看导入历史，并可在设置中选择开启自动更新。\n\n现已在 ChatGPT 桌面应用中提供。",
+          "summary_ja": "他のエージェントの作業を ChatGPT Work および Codex と同期できるようになりました。\n\nプロジェクト、チャット記録、スキル、プラグインをインポートし、インポート履歴を表示し、設定で自動更新をオンにすることを選択できます。\n\nChatGPT デスクトップ アプリで利用できるようになりました。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/OpenAIDevs/status/2087242829076791392",
+          "source": "X：OpenAI Developers (@OpenAIDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T18:20:44Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：OpenAI Developers (@OpenAIDevs)"
+      ],
+      "items": [
+        {
+          "id": "9024af61e406cc4fb1c6876b8f915e9d9f24896d",
+          "title": "ChatGPT 桌面端支持导入其他智能体工作数据 / You can now keep your work from other agents in sync with ChatGPT Work and Codex. Import projects， …",
+          "title_zh": "ChatGPT 桌面端支持导入其他智能体工作数据",
+          "title_ja": "他のエージェントからの作業を ChatGPT Work および Codex と同期して維持できるようになりました。プロジェクトのインポート、…",
+          "title_en": "You can now keep your work from other agents in sync with ChatGPT Work and Codex. Import projects， …",
+          "title_original": "You can now keep your work from other agents in sync with ChatGPT Work and Codex. Import projects， …",
+          "summary": "你现在可以将其他智能体的工作内容与 ChatGPT Work 和 Codex 保持同步。\n\n可导入项目、聊天记录、技能和插件，查看导入历史，并可在设置中选择开启自动更新。\n\n现已在 ChatGPT 桌面应用中提供。",
+          "summary_ja": "他のエージェントの作業を ChatGPT Work および Codex と同期できるようになりました。\n\nプロジェクト、チャット記録、スキル、プラグインをインポートし、インポート履歴を表示し、設定で自動更新をオンにすることを選択できます。\n\nChatGPT デスクトップ アプリで利用できるようになりました。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/OpenAIDevs/status/2087242829076791392",
+          "source": "X：OpenAI Developers (@OpenAIDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T18:20:44Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7985,
+      "importance": 0.7985,
+      "importance_score": 0.7985,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
+      "importance_breakdown": {
+        "editorial": 0.67,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.9864,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-11T18:20:44Z",
+      "latest_at": "2026-08-11T18:20:44Z",
+      "primary_item": {
+        "id": "9024af61e406cc4fb1c6876b8f915e9d9f24896d",
+        "title": "ChatGPT 桌面端支持导入其他智能体工作数据 / You can now keep your work from other agents in sync with ChatGPT Work and Codex. Import projects， …",
+        "title_zh": "ChatGPT 桌面端支持导入其他智能体工作数据",
+        "title_ja": "他のエージェントからの作業を ChatGPT Work および Codex と同期して維持できるようになりました。プロジェクトのインポート、…",
+        "title_en": "You can now keep your work from other agents in sync with ChatGPT Work and Codex. Import projects， …",
+        "title_original": "You can now keep your work from other agents in sync with ChatGPT Work and Codex. Import projects， …",
+        "summary": "你现在可以将其他智能体的工作内容与 ChatGPT Work 和 Codex 保持同步。\n\n可导入项目、聊天记录、技能和插件，查看导入历史，并可在设置中选择开启自动更新。\n\n现已在 ChatGPT 桌面应用中提供。",
+        "summary_ja": "他のエージェントの作業を ChatGPT Work および Codex と同期できるようになりました。\n\nプロジェクト、チャット記録、スキル、プラグインをインポートし、インポート履歴を表示し、設定で自動更新をオンにすることを選択できます。\n\nChatGPT デスクトップ アプリで利用できるようになりました。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/OpenAIDevs/status/2087242829076791392",
+        "source": "X：OpenAI Developers (@OpenAIDevs)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-11T19:19:14.670006Z"
       }
     },
     {
@@ -732,16 +1037,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7904,
-      "importance": 0.7904,
-      "importance_score": 0.7904,
+      "score": 0.7874,
+      "importance": 0.7874,
+      "importance_score": 0.7874,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9936,
+        "recency": 0.9765,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -769,7 +1074,164 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T18:08:06.069304Z"
+        "scored_at": "2026-08-11T19:19:14.670006Z"
+      }
+    },
+    {
+      "story_id": "story_cdfccbf00748",
+      "title": "将 GitHub Copilot 置于中间人（MitM）代理之后后，我学到了什么",
+      "title_ja": "GitHub Copilot を中間者 (MitM) プロキシの背後に配置してから学んだこと",
+      "url": "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm",
+      "primary_url": "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "cc776b821336542078cbf9449ac8c69e3bc8dcb8",
+          "title": "将 GitHub Copilot 置于中间人（MitM）代理之后后，我学到了什么",
+          "title_zh": "将 GitHub Copilot 置于中间人（MitM）代理之后后，我学到了什么",
+          "title_ja": "GitHub Copilot を中間者 (MitM) プロキシの背後に配置してから学んだこと",
+          "title_en": null,
+          "title_original": "将 GitHub Copilot 置于中间人（MitM）代理之后后，我学到了什么",
+          "summary": "作者通过 mitmproxy 对 VS Code 中的 GitHub Copilot 进行中间人代理拦截，逆向分析其网络流量与内部架构。文章指出这些 AI 应用普遍基于 Electron 构建，共享相似的网络栈，因此探测结果可迁移至其他同类应用。作者借此揭示了 Copilot 的运行时行为，并分享了配置代理的具体步骤。",
+          "summary_ja": "著者は、mitmproxy を使用して、VS Code で GitHub Copilot の中間者プロキシを傍受し、そのネットワーク トラフィックと内部構造を逆に分析します。記事では、これらの AI アプリケーションは通常 Electron 上に構築されており、同様のネットワーク スタックを共有しているため、検出結果を他の同様のアプリケーションに転送できると指摘しています。著者は、Copilot の実行時の動作を明らかにし、エージェントを構成するための具体的な手順を共有します。",
+          "recommend_reason_zh": null,
+          "url": "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T18:32:57.961000Z"
+        },
+        {
+          "id": "2d9b62395143cb97064bac915efe75dc0dee4ce8",
+          "title": "我通过将 GitHub Copilot 置于 MitM 代理后面学到了什么 / What I learned by putting GitHub Copilot behind a MitM proxy",
+          "title_zh": "我通过将 GitHub Copilot 置于 MitM 代理后面学到了什么",
+          "title_ja": "GitHub Copilot を MitM プロキシの背後に配置して学んだこと",
+          "title_en": "What I learned by putting GitHub Copilot behind a MitM proxy",
+          "title_original": "What I learned by putting GitHub Copilot behind a MitM proxy",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49256057",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-11T13:22:55.785000Z"
+        },
+        {
+          "id": "d805d5aba535b64c3a9a729f36afbf788b7bb72f",
+          "title": "将 GitHub Copilot 置于中间人（MitM）代理之后后，我学到了什么 / What I learned by putting GitHub Copilot behind a MitM proxy",
+          "title_zh": "将 GitHub Copilot 置于中间人（MitM）代理之后后，我学到了什么",
+          "title_ja": "GitHub Copilot を MitM プロキシの背後に配置して学んだこと",
+          "title_en": "What I learned by putting GitHub Copilot behind a MitM proxy",
+          "title_original": "What I learned by putting GitHub Copilot behind a MitM proxy",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-11T10:40:47Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "cc776b821336542078cbf9449ac8c69e3bc8dcb8",
+          "title": "将 GitHub Copilot 置于中间人（MitM）代理之后后，我学到了什么",
+          "title_zh": "将 GitHub Copilot 置于中间人（MitM）代理之后后，我学到了什么",
+          "title_ja": "GitHub Copilot を中間者 (MitM) プロキシの背後に配置してから学んだこと",
+          "title_en": null,
+          "title_original": "将 GitHub Copilot 置于中间人（MitM）代理之后后，我学到了什么",
+          "summary": "作者通过 mitmproxy 对 VS Code 中的 GitHub Copilot 进行中间人代理拦截，逆向分析其网络流量与内部架构。文章指出这些 AI 应用普遍基于 Electron 构建，共享相似的网络栈，因此探测结果可迁移至其他同类应用。作者借此揭示了 Copilot 的运行时行为，并分享了配置代理的具体步骤。",
+          "summary_ja": "著者は、mitmproxy を使用して、VS Code で GitHub Copilot の中間者プロキシを傍受し、そのネットワーク トラフィックと内部構造を逆に分析します。記事では、これらの AI アプリケーションは通常 Electron 上に構築されており、同様のネットワーク スタックを共有しているため、検出結果を他の同様のアプリケーションに転送できると指摘しています。著者は、Copilot の実行時の動作を明らかにし、エージェントを構成するための具体的な手順を共有します。",
+          "recommend_reason_zh": null,
+          "url": "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T18:32:57.961000Z"
+        },
+        {
+          "id": "2d9b62395143cb97064bac915efe75dc0dee4ce8",
+          "title": "我通过将 GitHub Copilot 置于 MitM 代理后面学到了什么 / What I learned by putting GitHub Copilot behind a MitM proxy",
+          "title_zh": "我通过将 GitHub Copilot 置于 MitM 代理后面学到了什么",
+          "title_ja": "GitHub Copilot を MitM プロキシの背後に配置して学んだこと",
+          "title_en": "What I learned by putting GitHub Copilot behind a MitM proxy",
+          "title_original": "What I learned by putting GitHub Copilot behind a MitM proxy",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49256057",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-11T13:22:55.785000Z"
+        },
+        {
+          "id": "d805d5aba535b64c3a9a729f36afbf788b7bb72f",
+          "title": "将 GitHub Copilot 置于中间人（MitM）代理之后后，我学到了什么 / What I learned by putting GitHub Copilot behind a MitM proxy",
+          "title_zh": "将 GitHub Copilot 置于中间人（MitM）代理之后后，我学到了什么",
+          "title_ja": "GitHub Copilot を MitM プロキシの背後に配置して学んだこと",
+          "title_en": "What I learned by putting GitHub Copilot behind a MitM proxy",
+          "title_original": "What I learned by putting GitHub Copilot behind a MitM proxy",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-11T10:40:47Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8127,
+      "importance": 0.8127,
+      "importance_score": 0.8127,
+      "importance_label": "多源热议",
+      "importance_label_ja": "複数ソースで話題",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9893,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-11T10:40:47Z",
+      "latest_at": "2026-08-11T18:32:57.961000Z",
+      "primary_item": {
+        "id": "cc776b821336542078cbf9449ac8c69e3bc8dcb8",
+        "title": "将 GitHub Copilot 置于中间人（MitM）代理之后后，我学到了什么",
+        "title_zh": "将 GitHub Copilot 置于中间人（MitM）代理之后后，我学到了什么",
+        "title_ja": "GitHub Copilot を中間者 (MitM) プロキシの背後に配置してから学んだこと",
+        "title_en": null,
+        "title_original": "将 GitHub Copilot 置于中间人（MitM）代理之后后，我学到了什么",
+        "summary": "作者通过 mitmproxy 对 VS Code 中的 GitHub Copilot 进行中间人代理拦截，逆向分析其网络流量与内部架构。文章指出这些 AI 应用普遍基于 Electron 构建，共享相似的网络栈，因此探测结果可迁移至其他同类应用。作者借此揭示了 Copilot 的运行时行为，并分享了配置代理的具体步骤。",
+        "summary_ja": "著者は、mitmproxy を使用して、VS Code で GitHub Copilot の中間者プロキシを傍受し、そのネットワーク トラフィックと内部構造を逆に分析します。記事では、これらの AI アプリケーションは通常 Electron 上に構築されており、同様のネットワーク スタックを共有しているため、検出結果を他の同様のアプリケーションに転送できると指摘しています。著者は、Copilot の実行時の動作を明らかにし、エージェントを構成するための具体的な手順を共有します。",
+        "recommend_reason_zh": null,
+        "url": "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-11T19:19:14.670006Z"
       }
     },
     {
@@ -822,16 +1284,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7798,
-      "importance": 0.7798,
-      "importance_score": 0.7798,
+      "score": 0.7768,
+      "importance": 0.7768,
+      "importance_score": 0.7768,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9845,
+        "recency": 0.9675,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -859,7 +1321,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T18:08:06.069304Z"
+        "scored_at": "2026-08-11T19:19:14.670006Z"
       }
     },
     {
@@ -912,16 +1374,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7685,
-      "importance": 0.7685,
-      "importance_score": 0.7685,
+      "score": 0.7655,
+      "importance": 0.7655,
+      "importance_score": 0.7655,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.955,
+        "recency": 0.9386,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -949,7 +1411,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T18:08:06.069304Z"
+        "scored_at": "2026-08-11T19:19:14.670006Z"
       }
     },
     {
@@ -1002,16 +1464,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7669,
-      "importance": 0.7669,
-      "importance_score": 0.7669,
+      "score": 0.764,
+      "importance": 0.764,
+      "importance_score": 0.764,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9292,
+        "recency": 0.9132,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1039,7 +1501,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T18:08:06.069304Z"
+        "scored_at": "2026-08-11T19:19:14.670006Z"
       }
     },
     {
@@ -1092,16 +1554,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7629,
-      "importance": 0.7629,
-      "importance_score": 0.7629,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9408,
+        "recency": 0.9246,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1129,7 +1591,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T18:08:06.069304Z"
+        "scored_at": "2026-08-11T19:19:14.670006Z"
       }
     },
     {
@@ -1182,16 +1644,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7622,
-      "importance": 0.7622,
-      "importance_score": 0.7622,
+      "score": 0.7592,
+      "importance": 0.7592,
+      "importance_score": 0.7592,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9703,
+        "recency": 0.9535,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1219,7 +1681,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T18:08:06.069304Z"
+        "scored_at": "2026-08-11T19:19:14.670006Z"
       }
     },
     {
@@ -1272,16 +1734,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7591,
-      "importance": 0.7591,
-      "importance_score": 0.7591,
+      "score": 0.7563,
+      "importance": 0.7563,
+      "importance_score": 0.7563,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9027,
+        "recency": 0.8871,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1309,7 +1771,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T18:08:06.069304Z"
+        "scored_at": "2026-08-11T19:19:14.670006Z"
       }
     },
     {
@@ -1362,16 +1824,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7462,
-      "importance": 0.7462,
-      "importance_score": 0.7462,
+      "score": 0.7435,
+      "importance": 0.7435,
+      "importance_score": 0.7435,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8812,
+        "recency": 0.866,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1398,7 +1860,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T18:08:06.069304Z"
+        "scored_at": "2026-08-11T19:19:14.670006Z"
       }
     },
     {
@@ -1451,16 +1913,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7459,
-      "importance": 0.7459,
-      "importance_score": 0.7459,
+      "score": 0.7432,
+      "importance": 0.7432,
+      "importance_score": 0.7432,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8796,
+        "recency": 0.8645,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1487,7 +1949,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T18:08:06.069304Z"
+        "scored_at": "2026-08-11T19:19:14.670006Z"
       }
     },
     {
@@ -1540,16 +2002,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7432,
-      "importance": 0.7432,
-      "importance_score": 0.7432,
+      "score": 0.7408,
+      "importance": 0.7408,
+      "importance_score": 0.7408,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7475,
+        "recency": 0.7346,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1576,364 +2038,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T18:08:06.069304Z"
-      }
-    },
-    {
-      "story_id": "story_1d745777aa0d",
-      "title": "用 ComfyUI API 实现 MiniMax-H3 多模态视频与音频生成流水线 / Implementing a MiniMax-H3 Multimodal Video and Audio Generation Pipeline with ComfyUI APIs",
-      "title_ja": "ComfyUI API を使用した MiniMax-H3 マルチモーダル ビデオおよびオーディオ生成パイプラインの実装",
-      "url": "https://www.marktechpost.com/2026/08/10/implementing-a-minimax-h3-multimodal-video-and-audio-generation-pipeline-with-comfyui-apis",
-      "primary_url": "https://www.marktechpost.com/2026/08/10/implementing-a-minimax-h3-multimodal-video-and-audio-generation-pipeline-with-comfyui-apis",
-      "source": "MarkTechPost（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5af023feb5917b0420ac99ebd023db76d69db035",
-          "title": "用 ComfyUI API 实现 MiniMax-H3 多模态视频与音频生成流水线 / Implementing a MiniMax-H3 Multimodal Video and Audio Generation Pipeline with ComfyUI APIs",
-          "title_zh": "用 ComfyUI API 实现 MiniMax-H3 多模态视频与音频生成流水线",
-          "title_ja": "ComfyUI API を使用した MiniMax-H3 マルチモーダル ビデオおよびオーディオ生成パイプラインの実装",
-          "title_en": "Implementing a MiniMax-H3 Multimodal Video and Audio Generation Pipeline with ComfyUI APIs",
-          "title_original": "Implementing a MiniMax-H3 Multimodal Video and Audio Generation Pipeline with ComfyUI APIs",
-          "summary": "本教程演示如何以 ComfyUI 为无头推理后端，构建端到端的 MiniMax-H3 视频生成工作流。通过 Python 直接构建执行图，支持文生视频、首尾帧条件生成和参考图像条件生成，并自动根据 GPU 显存选择 quality、balanced、squeeze 三种权重配置。流水线涵盖模型自动下载、节点模式校验、音视频联合解码与进度监控，无需图形界面即可复现实验。",
-          "summary_ja": "このチュートリアルでは、ヘッドレス推論バックエンドとして ComfyUI を使用して、エンドツーエンドの MiniMax-H3 ビデオ生成ワークフローを構築する方法を示します。実行グラフは Python を通じて直接構築され、Vincent ビデオ、最初と最後のフレーム条件生成、参照画像条件生成をサポートし、GPU メモリに応じて品質、バランス、スクイーズの 3 つの重み設定を自動的に選択します。このパイプラインは、モデルの自動ダウンロード、ノード モードの検証、音声とビデオの共同デコード、進行状況の監視をカバーしており、実験はグラフィカル インターフェイスなしで再現できます。",
-          "recommend_reason_zh": null,
-          "url": "https://www.marktechpost.com/2026/08/10/implementing-a-minimax-h3-multimodal-video-and-audio-generation-pipeline-with-comfyui-apis",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T05:44:38Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "MarkTechPost（RSS）"
-      ],
-      "items": [
-        {
-          "id": "5af023feb5917b0420ac99ebd023db76d69db035",
-          "title": "用 ComfyUI API 实现 MiniMax-H3 多模态视频与音频生成流水线 / Implementing a MiniMax-H3 Multimodal Video and Audio Generation Pipeline with ComfyUI APIs",
-          "title_zh": "用 ComfyUI API 实现 MiniMax-H3 多模态视频与音频生成流水线",
-          "title_ja": "ComfyUI API を使用した MiniMax-H3 マルチモーダル ビデオおよびオーディオ生成パイプラインの実装",
-          "title_en": "Implementing a MiniMax-H3 Multimodal Video and Audio Generation Pipeline with ComfyUI APIs",
-          "title_original": "Implementing a MiniMax-H3 Multimodal Video and Audio Generation Pipeline with ComfyUI APIs",
-          "summary": "本教程演示如何以 ComfyUI 为无头推理后端，构建端到端的 MiniMax-H3 视频生成工作流。通过 Python 直接构建执行图，支持文生视频、首尾帧条件生成和参考图像条件生成，并自动根据 GPU 显存选择 quality、balanced、squeeze 三种权重配置。流水线涵盖模型自动下载、节点模式校验、音视频联合解码与进度监控，无需图形界面即可复现实验。",
-          "summary_ja": "このチュートリアルでは、ヘッドレス推論バックエンドとして ComfyUI を使用して、エンドツーエンドの MiniMax-H3 ビデオ生成ワークフローを構築する方法を示します。実行グラフは Python を通じて直接構築され、Vincent ビデオ、最初と最後のフレーム条件生成、参照画像条件生成をサポートし、GPU メモリに応じて品質、バランス、スクイーズの 3 つの重み設定を自動的に選択します。このパイプラインは、モデルの自動ダウンロード、ノード モードの検証、音声とビデオの共同デコード、進行状況の監視をカバーしており、実験はグラフィカル インターフェイスなしで再現できます。",
-          "recommend_reason_zh": null,
-          "url": "https://www.marktechpost.com/2026/08/10/implementing-a-minimax-h3-multimodal-video-and-audio-generation-pipeline-with-comfyui-apis",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T05:44:38Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7382,
-      "importance": 0.7382,
-      "importance_score": 0.7382,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8367,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-11T05:44:38Z",
-      "latest_at": "2026-08-11T05:44:38Z",
-      "primary_item": {
-        "id": "5af023feb5917b0420ac99ebd023db76d69db035",
-        "title": "用 ComfyUI API 实现 MiniMax-H3 多模态视频与音频生成流水线 / Implementing a MiniMax-H3 Multimodal Video and Audio Generation Pipeline with ComfyUI APIs",
-        "title_zh": "用 ComfyUI API 实现 MiniMax-H3 多模态视频与音频生成流水线",
-        "title_ja": "ComfyUI API を使用した MiniMax-H3 マルチモーダル ビデオおよびオーディオ生成パイプラインの実装",
-        "title_en": "Implementing a MiniMax-H3 Multimodal Video and Audio Generation Pipeline with ComfyUI APIs",
-        "title_original": "Implementing a MiniMax-H3 Multimodal Video and Audio Generation Pipeline with ComfyUI APIs",
-        "summary": "本教程演示如何以 ComfyUI 为无头推理后端，构建端到端的 MiniMax-H3 视频生成工作流。通过 Python 直接构建执行图，支持文生视频、首尾帧条件生成和参考图像条件生成，并自动根据 GPU 显存选择 quality、balanced、squeeze 三种权重配置。流水线涵盖模型自动下载、节点模式校验、音视频联合解码与进度监控，无需图形界面即可复现实验。",
-        "summary_ja": "このチュートリアルでは、ヘッドレス推論バックエンドとして ComfyUI を使用して、エンドツーエンドの MiniMax-H3 ビデオ生成ワークフローを構築する方法を示します。実行グラフは Python を通じて直接構築され、Vincent ビデオ、最初と最後のフレーム条件生成、参照画像条件生成をサポートし、GPU メモリに応じて品質、バランス、スクイーズの 3 つの重み設定を自動的に選択します。このパイプラインは、モデルの自動ダウンロード、ノード モードの検証、音声とビデオの共同デコード、進行状況の監視をカバーしており、実験はグラフィカル インターフェイスなしで再現できます。",
-        "recommend_reason_zh": null,
-        "url": "https://www.marktechpost.com/2026/08/10/implementing-a-minimax-h3-multimodal-video-and-audio-generation-pipeline-with-comfyui-apis",
-        "source": "MarkTechPost（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-11T18:08:06.069304Z"
-      }
-    },
-    {
-      "story_id": "story_1afc977519d1",
-      "title": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
-      "title_ja": "ZCode が完全にアップグレードされました。ゴール、サブエージェント、リモート コントロール、レジャー タスクの 4 つの主要な機能がオンラインになりました。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494052&idx=1&sn=ee3ab3d0f4550e9120927c53a27522c9",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494052&idx=1&sn=ee3ab3d0f4550e9120927c53a27522c9",
-      "source": "公众号：智谱（GLM）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "fcc1f787a8f50694d563e839c3a5df0f5b260040",
-          "title": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
-          "title_zh": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
-          "title_ja": "ZCode が完全にアップグレードされました。ゴール、サブエージェント、リモート コントロール、レジャー タスクの 4 つの主要な機能がオンラインになりました。",
-          "title_en": null,
-          "title_original": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
-          "summary": "ZCode针对GLM深度优化，今日上线Goal、Subagents、Remote Control与闲时任务四大功能。在Z.ai Code Bench测试中，GLM-5.2搭配ZCode较搭配Claude Code任务整体通过率高2.39%；ZCode缓存命中率超98%，叠加1.5倍限时额度加成后，GLM Coding Plan整体使用量接近常规额度的1.8倍。",
-          "summary_ja": "ZCode は GLM 向けに徹底的に最適化されており、本日、ゴール、サブエージェント、リモート コントロール、アイドル タスクという 4 つの主要な機能を開始しました。 Z.ai Code Bench テストでは、ZCode と組み合わせた GLM-5.2 の全体的な合格率は、Claude Code より 2.39% 高かった。 ZCode キャッシュ ヒット率は 98% を超えました。期間限定のクォータ ボーナスの 1.5 倍を追加すると、GLM コーディング プランの全体的な使用量は通常のクォータの 1.8 倍近くになりました。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494052&idx=1&sn=ee3ab3d0f4550e9120927c53a27522c9",
-          "source": "公众号：智谱（GLM）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T05:52:25Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：智谱（GLM）"
-      ],
-      "items": [
-        {
-          "id": "fcc1f787a8f50694d563e839c3a5df0f5b260040",
-          "title": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
-          "title_zh": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
-          "title_ja": "ZCode が完全にアップグレードされました。ゴール、サブエージェント、リモート コントロール、レジャー タスクの 4 つの主要な機能がオンラインになりました。",
-          "title_en": null,
-          "title_original": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
-          "summary": "ZCode针对GLM深度优化，今日上线Goal、Subagents、Remote Control与闲时任务四大功能。在Z.ai Code Bench测试中，GLM-5.2搭配ZCode较搭配Claude Code任务整体通过率高2.39%；ZCode缓存命中率超98%，叠加1.5倍限时额度加成后，GLM Coding Plan整体使用量接近常规额度的1.8倍。",
-          "summary_ja": "ZCode は GLM 向けに徹底的に最適化されており、本日、ゴール、サブエージェント、リモート コントロール、アイドル タスクという 4 つの主要な機能を開始しました。 Z.ai Code Bench テストでは、ZCode と組み合わせた GLM-5.2 の全体的な合格率は、Claude Code より 2.39% 高かった。 ZCode キャッシュ ヒット率は 98% を超えました。期間限定のクォータ ボーナスの 1.5 倍を追加すると、GLM コーディング プランの全体的な使用量は通常のクォータの 1.8 倍近くになりました。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494052&idx=1&sn=ee3ab3d0f4550e9120927c53a27522c9",
-          "source": "公众号：智谱（GLM）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T05:52:25Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7355,
-      "importance": 0.7355,
-      "importance_score": 0.7355,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8383,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-11T05:52:25Z",
-      "latest_at": "2026-08-11T05:52:25Z",
-      "primary_item": {
-        "id": "fcc1f787a8f50694d563e839c3a5df0f5b260040",
-        "title": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
-        "title_zh": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
-        "title_ja": "ZCode が完全にアップグレードされました。ゴール、サブエージェント、リモート コントロール、レジャー タスクの 4 つの主要な機能がオンラインになりました。",
-        "title_en": null,
-        "title_original": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
-        "summary": "ZCode针对GLM深度优化，今日上线Goal、Subagents、Remote Control与闲时任务四大功能。在Z.ai Code Bench测试中，GLM-5.2搭配ZCode较搭配Claude Code任务整体通过率高2.39%；ZCode缓存命中率超98%，叠加1.5倍限时额度加成后，GLM Coding Plan整体使用量接近常规额度的1.8倍。",
-        "summary_ja": "ZCode は GLM 向けに徹底的に最適化されており、本日、ゴール、サブエージェント、リモート コントロール、アイドル タスクという 4 つの主要な機能を開始しました。 Z.ai Code Bench テストでは、ZCode と組み合わせた GLM-5.2 の全体的な合格率は、Claude Code より 2.39% 高かった。 ZCode キャッシュ ヒット率は 98% を超えました。期間限定のクォータ ボーナスの 1.5 倍を追加すると、GLM コーディング プランの全体的な使用量は通常のクォータの 1.8 倍近くになりました。",
-        "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494052&idx=1&sn=ee3ab3d0f4550e9120927c53a27522c9",
-        "source": "公众号：智谱（GLM）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-11T18:08:06.069304Z"
-      }
-    },
-    {
-      "story_id": "story_fbc94e6886a3",
-      "title": "Ryan Greenblatt：人类级AI或于2032年前通过递归自我改进催生失控超级智能 / Ryan Greenblatt - Human level AIs might build runaway superintelligences by 2032",
-      "title_ja": "ライアン・グリーンブラット - 人間レベルのAIは2032年までに暴走する超知能を構築するかもしれない",
-      "url": "https://www.dwarkesh.com/p/ryan-greenblatt",
-      "primary_url": "https://www.dwarkesh.com/p/ryan-greenblatt",
-      "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6beecdb6a981fa0908fad902d332d55e43dcabd0",
-          "title": "Ryan Greenblatt：人类级AI或于2032年前通过递归自我改进催生失控超级智能 / Ryan Greenblatt - Human level AIs might build runaway superintelligences by 2032",
-          "title_zh": "Ryan Greenblatt：人类级AI或于2032年前通过递归自我改进催生失控超级智能",
-          "title_ja": "ライアン・グリーンブラット - 人間レベルのAIは2032年までに暴走する超知能を構築するかもしれない",
-          "title_en": "Ryan Greenblatt - Human level AIs might build runaway superintelligences by 2032",
-          "title_original": "Ryan Greenblatt - Human level AIs might build runaway superintelligences by 2032",
-          "summary": "Dwarkesh Patel与Redwood Research首席科学家Ryan Greenblatt探讨递归自我改进（RSI）的可能性：一旦AI达到人类顶级专家水平，可能在一年内实现相当于4-5年的AI进展，Ryan的中位预期是2031年自动化AI研发。双方还讨论了超级智能的对齐对象、奖励黑客行为是否会升级为AI联手接管世界等风险。",
-          "summary_ja": "ドワルケシュ・パテル氏は、レッドウッド・リサーチの主任科学者ライアン・グリーンブラット氏と再帰的自己改善（RSI）の可能性について議論した。AIが人間のトップ専門家のレベルに達すれば、1年でAIの4～5年分の進歩を達成することが可能になるかもしれない。ライアン氏の予想中央値は、2031年には自動化されたAIの研究開発である。双方はまた、スーパーインテリジェンスの調整目標と、報酬ハッキングが世界征服を目的としたAIの協力にエスカレートするかどうかなどのリスクについても議論した。",
-          "recommend_reason_zh": null,
-          "url": "https://www.dwarkesh.com/p/ryan-greenblatt",
-          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T16:31:23Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Dwarkesh Patel：Podcast & Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "6beecdb6a981fa0908fad902d332d55e43dcabd0",
-          "title": "Ryan Greenblatt：人类级AI或于2032年前通过递归自我改进催生失控超级智能 / Ryan Greenblatt - Human level AIs might build runaway superintelligences by 2032",
-          "title_zh": "Ryan Greenblatt：人类级AI或于2032年前通过递归自我改进催生失控超级智能",
-          "title_ja": "ライアン・グリーンブラット - 人間レベルのAIは2032年までに暴走する超知能を構築するかもしれない",
-          "title_en": "Ryan Greenblatt - Human level AIs might build runaway superintelligences by 2032",
-          "title_original": "Ryan Greenblatt - Human level AIs might build runaway superintelligences by 2032",
-          "summary": "Dwarkesh Patel与Redwood Research首席科学家Ryan Greenblatt探讨递归自我改进（RSI）的可能性：一旦AI达到人类顶级专家水平，可能在一年内实现相当于4-5年的AI进展，Ryan的中位预期是2031年自动化AI研发。双方还讨论了超级智能的对齐对象、奖励黑客行为是否会升级为AI联手接管世界等风险。",
-          "summary_ja": "ドワルケシュ・パテル氏は、レッドウッド・リサーチの主任科学者ライアン・グリーンブラット氏と再帰的自己改善（RSI）の可能性について議論した。AIが人間のトップ専門家のレベルに達すれば、1年でAIの4～5年分の進歩を達成することが可能になるかもしれない。ライアン氏の予想中央値は、2031年には自動化されたAIの研究開発である。双方はまた、スーパーインテリジェンスの調整目標と、報酬ハッキングが世界征服を目的としたAIの協力にエスカレートするかどうかなどのリスクについても議論した。",
-          "recommend_reason_zh": null,
-          "url": "https://www.dwarkesh.com/p/ryan-greenblatt",
-          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T16:31:23Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7276,
-      "importance": 0.7276,
-      "importance_score": 0.7276,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.6,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9776,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-11T16:31:23Z",
-      "latest_at": "2026-08-11T16:31:23Z",
-      "primary_item": {
-        "id": "6beecdb6a981fa0908fad902d332d55e43dcabd0",
-        "title": "Ryan Greenblatt：人类级AI或于2032年前通过递归自我改进催生失控超级智能 / Ryan Greenblatt - Human level AIs might build runaway superintelligences by 2032",
-        "title_zh": "Ryan Greenblatt：人类级AI或于2032年前通过递归自我改进催生失控超级智能",
-        "title_ja": "ライアン・グリーンブラット - 人間レベルのAIは2032年までに暴走する超知能を構築するかもしれない",
-        "title_en": "Ryan Greenblatt - Human level AIs might build runaway superintelligences by 2032",
-        "title_original": "Ryan Greenblatt - Human level AIs might build runaway superintelligences by 2032",
-        "summary": "Dwarkesh Patel与Redwood Research首席科学家Ryan Greenblatt探讨递归自我改进（RSI）的可能性：一旦AI达到人类顶级专家水平，可能在一年内实现相当于4-5年的AI进展，Ryan的中位预期是2031年自动化AI研发。双方还讨论了超级智能的对齐对象、奖励黑客行为是否会升级为AI联手接管世界等风险。",
-        "summary_ja": "ドワルケシュ・パテル氏は、レッドウッド・リサーチの主任科学者ライアン・グリーンブラット氏と再帰的自己改善（RSI）の可能性について議論した。AIが人間のトップ専門家のレベルに達すれば、1年でAIの4～5年分の進歩を達成することが可能になるかもしれない。ライアン氏の予想中央値は、2031年には自動化されたAIの研究開発である。双方はまた、スーパーインテリジェンスの調整目標と、報酬ハッキングが世界征服を目的としたAIの協力にエスカレートするかどうかなどのリスクについても議論した。",
-        "recommend_reason_zh": null,
-        "url": "https://www.dwarkesh.com/p/ryan-greenblatt",
-        "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-11T18:08:06.069304Z"
-      }
-    },
-    {
-      "story_id": "story_98891a5c0ebf",
-      "title": "统一 Radix 缓存：为混合模型前缀缓存构建单一树结构 / Blog Unified Radix Cache： One Tree for Hybrid Model Prefix Caching Prefix caching reuses KV when requests share the same token prefix. Under full attention， once the KV for a shared prefix is computed， it remains valid as more tokens are appended. A later request wit… Zhangheng Huang， Ke Bao， Yi Zhang， Jialin Ouyang， Sicheng Pan",
-      "title_ja": null,
-      "url": "https://www.lmsys.org/blog/2026-08-11-unified-radix-cache",
-      "primary_url": "https://www.lmsys.org/blog/2026-08-11-unified-radix-cache",
-      "source": "LMSYS：Blog（Chatbot Arena 团队）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "28faebd4f6fed97a57bbb0906d65af49ee45ea13",
-          "title": "统一 Radix 缓存：为混合模型前缀缓存构建单一树结构 / Blog Unified Radix Cache： One Tree for Hybrid Model Prefix Caching Prefix caching reuses KV when requests share the same token prefix. Under full attention， once the KV for a shared prefix is computed， it remains valid as more tokens are appended. A later request wit… Zhangheng Huang， Ke Bao， Yi Zhang， Jialin Ouyang， Sicheng Pan",
-          "title_zh": "统一 Radix 缓存：为混合模型前缀缓存构建单一树结构",
-          "title_ja": null,
-          "title_en": "Blog Unified Radix Cache： One Tree for Hybrid Model Prefix Caching Prefix caching reuses KV when requests share the same token prefix. Under full attention， once the KV for a shared prefix is computed， it remains valid as more tokens are appended. A later request wit… Zhangheng Huang， Ke Bao， Yi Zhang， Jialin Ouyang， Sicheng Pan",
-          "title_original": "Blog Unified Radix Cache： One Tree for Hybrid Model Prefix Caching Prefix caching reuses KV when requests share the same token prefix. Under full attention， once the KV for a shared prefix is computed， it remains valid as more tokens are appended. A later request wit… Zhangheng Huang， Ke Bao， Yi Zhang， Jialin Ouyang， Sicheng Pan",
-          "summary": "LMSYS 团队提出 Unified Radix Cache，用单一 token 键控 radix 拓扑统一管理混合模型的 FULL、SWA 和 MAMBA 组件缓存，各组件独立执行路径、滑动窗口和检查点复用语义。",
-          "summary_ja": "LMSYS チームは、単一のトークン キー基数トポロジを使用して、ハイブリッド モデルの FULL、SWA、および MAMBA コンポーネント キャッシュを均一に管理する統合基数キャッシュを提案しました。各コンポーネントは、パス、スライディング ウィンドウ、およびチェックポイントの再利用セマンティクスを個別に実行します。",
-          "recommend_reason_zh": null,
-          "url": "https://www.lmsys.org/blog/2026-08-11-unified-radix-cache",
-          "source": "LMSYS：Blog（Chatbot Arena 团队）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T13:51:45.827000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "LMSYS：Blog（Chatbot Arena 团队）"
-      ],
-      "items": [
-        {
-          "id": "28faebd4f6fed97a57bbb0906d65af49ee45ea13",
-          "title": "统一 Radix 缓存：为混合模型前缀缓存构建单一树结构 / Blog Unified Radix Cache： One Tree for Hybrid Model Prefix Caching Prefix caching reuses KV when requests share the same token prefix. Under full attention， once the KV for a shared prefix is computed， it remains valid as more tokens are appended. A later request wit… Zhangheng Huang， Ke Bao， Yi Zhang， Jialin Ouyang， Sicheng Pan",
-          "title_zh": "统一 Radix 缓存：为混合模型前缀缓存构建单一树结构",
-          "title_ja": null,
-          "title_en": "Blog Unified Radix Cache： One Tree for Hybrid Model Prefix Caching Prefix caching reuses KV when requests share the same token prefix. Under full attention， once the KV for a shared prefix is computed， it remains valid as more tokens are appended. A later request wit… Zhangheng Huang， Ke Bao， Yi Zhang， Jialin Ouyang， Sicheng Pan",
-          "title_original": "Blog Unified Radix Cache： One Tree for Hybrid Model Prefix Caching Prefix caching reuses KV when requests share the same token prefix. Under full attention， once the KV for a shared prefix is computed， it remains valid as more tokens are appended. A later request wit… Zhangheng Huang， Ke Bao， Yi Zhang， Jialin Ouyang， Sicheng Pan",
-          "summary": "LMSYS 团队提出 Unified Radix Cache，用单一 token 键控 radix 拓扑统一管理混合模型的 FULL、SWA 和 MAMBA 组件缓存，各组件独立执行路径、滑动窗口和检查点复用语义。",
-          "summary_ja": "LMSYS チームは、単一のトークン キー基数トポロジを使用して、ハイブリッド モデルの FULL、SWA、および MAMBA コンポーネント キャッシュを均一に管理する統合基数キャッシュを提案しました。各コンポーネントは、パス、スライディング ウィンドウ、およびチェックポイントの再利用セマンティクスを個別に実行します。",
-          "recommend_reason_zh": null,
-          "url": "https://www.lmsys.org/blog/2026-08-11-unified-radix-cache",
-          "source": "LMSYS：Blog（Chatbot Arena 团队）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T13:51:45.827000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7569,
-      "importance": 0.7569,
-      "importance_score": 0.7569,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9408,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-11T13:51:45.827000Z",
-      "latest_at": "2026-08-11T13:51:45.827000Z",
-      "primary_item": {
-        "id": "28faebd4f6fed97a57bbb0906d65af49ee45ea13",
-        "title": "统一 Radix 缓存：为混合模型前缀缓存构建单一树结构 / Blog Unified Radix Cache： One Tree for Hybrid Model Prefix Caching Prefix caching reuses KV when requests share the same token prefix. Under full attention， once the KV for a shared prefix is computed， it remains valid as more tokens are appended. A later request wit… Zhangheng Huang， Ke Bao， Yi Zhang， Jialin Ouyang， Sicheng Pan",
-        "title_zh": "统一 Radix 缓存：为混合模型前缀缓存构建单一树结构",
-        "title_ja": null,
-        "title_en": "Blog Unified Radix Cache： One Tree for Hybrid Model Prefix Caching Prefix caching reuses KV when requests share the same token prefix. Under full attention， once the KV for a shared prefix is computed， it remains valid as more tokens are appended. A later request wit… Zhangheng Huang， Ke Bao， Yi Zhang， Jialin Ouyang， Sicheng Pan",
-        "title_original": "Blog Unified Radix Cache： One Tree for Hybrid Model Prefix Caching Prefix caching reuses KV when requests share the same token prefix. Under full attention， once the KV for a shared prefix is computed， it remains valid as more tokens are appended. A later request wit… Zhangheng Huang， Ke Bao， Yi Zhang， Jialin Ouyang， Sicheng Pan",
-        "summary": "LMSYS 团队提出 Unified Radix Cache，用单一 token 键控 radix 拓扑统一管理混合模型的 FULL、SWA 和 MAMBA 组件缓存，各组件独立执行路径、滑动窗口和检查点复用语义。",
-        "summary_ja": "LMSYS チームは、単一のトークン キー基数トポロジを使用して、ハイブリッド モデルの FULL、SWA、および MAMBA コンポーネント キャッシュを均一に管理する統合基数キャッシュを提案しました。各コンポーネントは、パス、スライディング ウィンドウ、およびチェックポイントの再利用セマンティクスを個別に実行します。",
-        "recommend_reason_zh": null,
-        "url": "https://www.lmsys.org/blog/2026-08-11-unified-radix-cache",
-        "source": "LMSYS：Blog（Chatbot Arena 团队）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-11T18:08:06.069304Z"
+        "scored_at": "2026-08-11T19:19:14.670006Z"
       }
     }
   ]
