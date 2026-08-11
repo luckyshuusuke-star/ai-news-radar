@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T09:12:31.760640Z",
+  "generated_at": "2026-08-11T10:09:13.907654Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -152,16 +152,16 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8834,
-      "importance": 0.8834,
-      "importance_score": 0.8834,
+      "score": 0.8815,
+      "importance": 0.8815,
+      "importance_score": 0.8815,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7578,
+        "recency": 0.7475,
         "story_heat": 0.75
       },
       "category": "official",
@@ -191,7 +191,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T09:15:09.370403Z"
+        "scored_at": "2026-08-11T10:10:14.077543Z"
       }
     },
     {
@@ -244,16 +244,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8213,
-      "importance": 0.8213,
-      "importance_score": 0.8213,
+      "score": 0.8193,
+      "importance": 0.8193,
+      "importance_score": 0.8193,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7848,
+        "recency": 0.7741,
         "story_heat": 0.0
       },
       "category": "official",
@@ -282,165 +282,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T09:15:09.370403Z"
-      }
-    },
-    {
-      "story_id": "story_78643f2f0854",
-      "title": "GPT 5.6 网络安全 / Expanding Daybreak as the Cyber Defense Window Narrows",
-      "title_ja": "サイバー防御の枠が狭まる中、Daybreak を拡大",
-      "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-      "primary_url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5360b7d21091149d76dcd12a52ba8750e544fbae",
-          "title": "GPT 5.6 网络安全 / Expanding Daybreak as the Cyber Defense Window Narrows",
-          "title_zh": "GPT 5.6 网络安全",
-          "title_ja": "サイバー防御の枠が狭まる中、Daybreak を拡大",
-          "title_en": "Expanding Daybreak as the Cyber Defense Window Narrows",
-          "title_original": "Expanding Daybreak as the Cyber Defense Window Narrows",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T10:00:00Z"
-        },
-        {
-          "id": "d53e1173335713948c031579c35493314db7562c",
-          "title": "GPT 5.6 网络安全",
-          "title_zh": "GPT 5.6 网络安全",
-          "title_ja": "GPT 5.6 ネットワークセキュリティ",
-          "title_en": null,
-          "title_original": "GPT 5.6 网络安全",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-11T05:46:03.587000Z"
-        },
-        {
-          "id": "95b1b933484992e4ce5309f0273f9f60cf9243d0",
-          "title": "GPT 5.6 网络安全 / GPT 5.6 Cyber",
-          "title_zh": "GPT 5.6 网络安全",
-          "title_ja": "GPT 5.6 サイバー",
-          "title_en": "GPT 5.6 Cyber",
-          "title_original": "GPT 5.6 Cyber",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-10T17:14:00Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "OpenAI News",
-        "openai.com"
-      ],
-      "items": [
-        {
-          "id": "5360b7d21091149d76dcd12a52ba8750e544fbae",
-          "title": "GPT 5.6 网络安全 / Expanding Daybreak as the Cyber Defense Window Narrows",
-          "title_zh": "GPT 5.6 网络安全",
-          "title_ja": "サイバー防御の枠が狭まる中、Daybreak を拡大",
-          "title_en": "Expanding Daybreak as the Cyber Defense Window Narrows",
-          "title_original": "Expanding Daybreak as the Cyber Defense Window Narrows",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T10:00:00Z"
-        },
-        {
-          "id": "d53e1173335713948c031579c35493314db7562c",
-          "title": "GPT 5.6 网络安全",
-          "title_zh": "GPT 5.6 网络安全",
-          "title_ja": "GPT 5.6 ネットワークセキュリティ",
-          "title_en": null,
-          "title_original": "GPT 5.6 网络安全",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-11T05:46:03.587000Z"
-        },
-        {
-          "id": "95b1b933484992e4ce5309f0273f9f60cf9243d0",
-          "title": "GPT 5.6 网络安全 / GPT 5.6 Cyber",
-          "title_zh": "GPT 5.6 网络安全",
-          "title_ja": "GPT 5.6 サイバー",
-          "title_en": "GPT 5.6 Cyber",
-          "title_original": "GPT 5.6 Cyber",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-10T17:14:00Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8507,
-      "importance": 0.8507,
-      "importance_score": 0.8507,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7152,
-        "story_heat": 0.5
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-10T10:00:00Z",
-      "latest_at": "2026-08-11T05:46:03.587000Z",
-      "primary_item": {
-        "id": "5360b7d21091149d76dcd12a52ba8750e544fbae",
-        "title": "GPT 5.6 网络安全 / Expanding Daybreak as the Cyber Defense Window Narrows",
-        "title_zh": "GPT 5.6 网络安全",
-        "title_ja": "サイバー防御の枠が狭まる中、Daybreak を拡大",
-        "title_en": "Expanding Daybreak as the Cyber Defense Window Narrows",
-        "title_original": "Expanding Daybreak as the Cyber Defense Window Narrows",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-11T09:15:09.370403Z"
+        "scored_at": "2026-08-11T10:10:14.077543Z"
       }
     },
     {
@@ -493,16 +335,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8197,
-      "importance": 0.8197,
-      "importance_score": 0.8197,
+      "score": 0.8177,
+      "importance": 0.8177,
+      "importance_score": 0.8177,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8204,
+        "recency": 0.8093,
         "story_heat": 0.0
       },
       "category": "official",
@@ -531,7 +373,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T09:15:09.370403Z"
+        "scored_at": "2026-08-11T10:10:14.077543Z"
       }
     },
     {
@@ -584,16 +426,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8093,
-      "importance": 0.8093,
-      "importance_score": 0.8093,
+      "score": 0.8074,
+      "importance": 0.8074,
+      "importance_score": 0.8074,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7627,
+        "recency": 0.7524,
         "story_heat": 0.0
       },
       "category": "official",
@@ -622,7 +464,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T09:15:09.370403Z"
+        "scored_at": "2026-08-11T10:10:14.077543Z"
       }
     },
     {
@@ -675,16 +517,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8014,
-      "importance": 0.8014,
-      "importance_score": 0.8014,
+      "score": 0.7995,
+      "importance": 0.7995,
+      "importance_score": 0.7995,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7633,
+        "recency": 0.7529,
         "story_heat": 0.0
       },
       "category": "official",
@@ -713,7 +555,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T09:15:09.370403Z"
+        "scored_at": "2026-08-11T10:10:14.077543Z"
       }
     },
     {
@@ -865,16 +707,16 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.7991,
-      "importance": 0.7991,
-      "importance_score": 0.7991,
+      "score": 0.7973,
+      "importance": 0.7973,
+      "importance_score": 0.7973,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7584,
+        "recency": 0.7481,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -903,729 +745,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T09:15:09.370403Z"
-      }
-    },
-    {
-      "story_id": "story_1c29972a7c81",
-      "title": "使知识蒸馏足够便宜以进行大规模运行 / Making Knowledge Distillation Cheap Enough to Run at Scale",
-      "title_ja": "知識の蒸留を大規模に実行できるほど安価にする",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
-      "primary_url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d5f6590a6a594ba5c61e9f3f87fc9e2b2b9531c7",
-          "title": "使知识蒸馏足够便宜以进行大规模运行 / Making Knowledge Distillation Cheap Enough to Run at Scale",
-          "title_zh": "使知识蒸馏足够便宜以进行大规模运行",
-          "title_ja": "知識の蒸留を大規模に実行できるほど安価にする",
-          "title_en": "Making Knowledge Distillation Cheap Enough to Run at Scale",
-          "title_original": "Making Knowledge Distillation Cheap Enough to Run at Scale",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T10:05:36Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "d5f6590a6a594ba5c61e9f3f87fc9e2b2b9531c7",
-          "title": "使知识蒸馏足够便宜以进行大规模运行 / Making Knowledge Distillation Cheap Enough to Run at Scale",
-          "title_zh": "使知识蒸馏足够便宜以进行大规模运行",
-          "title_ja": "知識の蒸留を大規模に実行できるほど安価にする",
-          "title_en": "Making Knowledge Distillation Cheap Enough to Run at Scale",
-          "title_original": "Making Knowledge Distillation Cheap Enough to Run at Scale",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T10:05:36Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8089,
-      "importance": 0.8089,
-      "importance_score": 0.8089,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7162,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-10T10:05:36Z",
-      "latest_at": "2026-08-10T10:05:36Z",
-      "primary_item": {
-        "id": "d5f6590a6a594ba5c61e9f3f87fc9e2b2b9531c7",
-        "title": "使知识蒸馏足够便宜以进行大规模运行 / Making Knowledge Distillation Cheap Enough to Run at Scale",
-        "title_zh": "使知识蒸馏足够便宜以进行大规模运行",
-        "title_ja": "知識の蒸留を大規模に実行できるほど安価にする",
-        "title_en": "Making Knowledge Distillation Cheap Enough to Run at Scale",
-        "title_original": "Making Knowledge Distillation Cheap Enough to Run at Scale",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-11T09:15:09.370403Z"
-      }
-    },
-    {
-      "story_id": "story_ef2bf8426d8e",
-      "title": "消息称 Anthropic 最快今年 9 月上市，向投资者淡化 AI 模型竞争等挑战",
-      "title_ja": "Anthropic は早ければ今年 9 月にも上場する予定であると報じられており、AI モデルの競争などの課題を投資家に軽視している。",
-      "url": "https://www.ithome.com/0/988/239.htm",
-      "primary_url": "https://www.ithome.com/0/988/239.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1dbe694443d13f59a7f8e45eaab547e907fc473b",
-          "title": "消息称 Anthropic 最快今年 9 月上市，向投资者淡化 AI 模型竞争等挑战",
-          "title_zh": "消息称 Anthropic 最快今年 9 月上市，向投资者淡化 AI 模型竞争等挑战",
-          "title_ja": "Anthropic は早ければ今年 9 月にも上場する予定であると報じられており、AI モデルの競争などの課題を投資家に軽視している。",
-          "title_en": null,
-          "title_original": "消息称 Anthropic 最快今年 9 月上市，向投资者淡化 AI 模型竞争等挑战",
-          "summary": "Anthropic 正与潜在投资者接触，为可能成为史上规模最大的 IPO 做准备，计划今年 9 月或 10 月初正式上市。公司估值高达 9，650 亿美元，年化收入已超 470 亿美元，并淡化来自中国 AI 企业的竞争影响。Anthropic 还计划拓展 AI 在医疗和生物学领域的应用，但尚未公布具体 IPO 定价方案。",
-          "summary_ja": "アンスロピックは史上最大規模となる可能性のあるIPOの準備を進める中で潜在的な投資家に働きかけており、今年9月か10月初めに正式に上場する予定だ。同社の評価額は9,650億米ドル、年間売上高は470億米ドルを超えており、中国のAI企業との競争による影響は軽視されている。アンスロピックは医療や生物学の分野でもAIの応用を拡大する計画だが、具体的なIPOの価格プランはまだ発表していない。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/988/239.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T03:57:53Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "1dbe694443d13f59a7f8e45eaab547e907fc473b",
-          "title": "消息称 Anthropic 最快今年 9 月上市，向投资者淡化 AI 模型竞争等挑战",
-          "title_zh": "消息称 Anthropic 最快今年 9 月上市，向投资者淡化 AI 模型竞争等挑战",
-          "title_ja": "Anthropic は早ければ今年 9 月にも上場する予定であると報じられており、AI モデルの競争などの課題を投資家に軽視している。",
-          "title_en": null,
-          "title_original": "消息称 Anthropic 最快今年 9 月上市，向投资者淡化 AI 模型竞争等挑战",
-          "summary": "Anthropic 正与潜在投资者接触，为可能成为史上规模最大的 IPO 做准备，计划今年 9 月或 10 月初正式上市。公司估值高达 9，650 亿美元，年化收入已超 470 亿美元，并淡化来自中国 AI 企业的竞争影响。Anthropic 还计划拓展 AI 在医疗和生物学领域的应用，但尚未公布具体 IPO 定价方案。",
-          "summary_ja": "アンスロピックは史上最大規模となる可能性のあるIPOの準備を進める中で潜在的な投資家に働きかけており、今年9月か10月初めに正式に上場する予定だ。同社の評価額は9,650億米ドル、年間売上高は470億米ドルを超えており、中国のAI企業との競争による影響は軽視されている。アンスロピックは医療や生物学の分野でもAIの応用を拡大する計画だが、具体的なIPOの価格プランはまだ発表していない。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/0/988/239.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T03:57:53Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7755,
-      "importance": 0.7755,
-      "importance_score": 0.7755,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9271,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-11T03:57:53Z",
-      "latest_at": "2026-08-11T03:57:53Z",
-      "primary_item": {
-        "id": "1dbe694443d13f59a7f8e45eaab547e907fc473b",
-        "title": "消息称 Anthropic 最快今年 9 月上市，向投资者淡化 AI 模型竞争等挑战",
-        "title_zh": "消息称 Anthropic 最快今年 9 月上市，向投资者淡化 AI 模型竞争等挑战",
-        "title_ja": "Anthropic は早ければ今年 9 月にも上場する予定であると報じられており、AI モデルの競争などの課題を投資家に軽視している。",
-        "title_en": null,
-        "title_original": "消息称 Anthropic 最快今年 9 月上市，向投资者淡化 AI 模型竞争等挑战",
-        "summary": "Anthropic 正与潜在投资者接触，为可能成为史上规模最大的 IPO 做准备，计划今年 9 月或 10 月初正式上市。公司估值高达 9，650 亿美元，年化收入已超 470 亿美元，并淡化来自中国 AI 企业的竞争影响。Anthropic 还计划拓展 AI 在医疗和生物学领域的应用，但尚未公布具体 IPO 定价方案。",
-        "summary_ja": "アンスロピックは史上最大規模となる可能性のあるIPOの準備を進める中で潜在的な投資家に働きかけており、今年9月か10月初めに正式に上場する予定だ。同社の評価額は9,650億米ドル、年間売上高は470億米ドルを超えており、中国のAI企業との競争による影響は軽視されている。アンスロピックは医療や生物学の分野でもAIの応用を拡大する計画だが、具体的なIPOの価格プランはまだ発表していない。",
-        "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/0/988/239.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-11T09:15:09.370403Z"
-      }
-    },
-    {
-      "story_id": "story_a2c082e61e71",
-      "title": "印度的 GitHub 计费现在支持自动定期付款 / GitHub billing in India now supports automatic recurring payments",
-      "title_ja": "インドでの GitHub の請求で自動定期支払いがサポートされるようになりました",
-      "url": "https://github.blog/changelog/2026-08-10-github-billing-in-india-now-supports-automatic-recurring-payments",
-      "primary_url": "https://github.blog/changelog/2026-08-10-github-billing-in-india-now-supports-automatic-recurring-payments",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "3d7abd2fe66934e83a8c3393f6dce8181919e467",
-          "title": "印度的 GitHub 计费现在支持自动定期付款 / GitHub billing in India now supports automatic recurring payments",
-          "title_zh": "印度的 GitHub 计费现在支持自动定期付款",
-          "title_ja": "インドでの GitHub の請求で自動定期支払いがサポートされるようになりました",
-          "title_en": "GitHub billing in India now supports automatic recurring payments",
-          "title_original": "GitHub billing in India now supports automatic recurring payments",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-10-github-billing-in-india-now-supports-automatic-recurring-payments",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T14:00:58Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "3d7abd2fe66934e83a8c3393f6dce8181919e467",
-          "title": "印度的 GitHub 计费现在支持自动定期付款 / GitHub billing in India now supports automatic recurring payments",
-          "title_zh": "印度的 GitHub 计费现在支持自动定期付款",
-          "title_ja": "インドでの GitHub の請求で自動定期支払いがサポートされるようになりました",
-          "title_en": "GitHub billing in India now supports automatic recurring payments",
-          "title_original": "GitHub billing in India now supports automatic recurring payments",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-10-github-billing-in-india-now-supports-automatic-recurring-payments",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T14:00:58Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8004,
-      "importance": 0.8004,
-      "importance_score": 0.8004,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7579,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-10T14:00:58Z",
-      "latest_at": "2026-08-10T14:00:58Z",
-      "primary_item": {
-        "id": "3d7abd2fe66934e83a8c3393f6dce8181919e467",
-        "title": "印度的 GitHub 计费现在支持自动定期付款 / GitHub billing in India now supports automatic recurring payments",
-        "title_zh": "印度的 GitHub 计费现在支持自动定期付款",
-        "title_ja": "インドでの GitHub の請求で自動定期支払いがサポートされるようになりました",
-        "title_en": "GitHub billing in India now supports automatic recurring payments",
-        "title_original": "GitHub billing in India now supports automatic recurring payments",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-10-github-billing-in-india-now-supports-automatic-recurring-payments",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-11T09:15:09.370403Z"
-      }
-    },
-    {
-      "story_id": "story_2e9310d5724c",
-      "title": "Anthropic 全球范围内为 Claude 输出嵌入隐形水印：AI 内容溯源时代正式开启",
-      "title_ja": "Anthropic がクロードの出力に目に見えない透かしを世界的に埋め込む: AI コンテンツのトレーサビリティの時代が正式に始まる",
-      "url": "https://www.aibase.com/news/30253",
-      "primary_url": "https://www.aibase.com/news/30253",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a5f0a62d8324bb17101b64fe498e5962ae4b8f30",
-          "title": "Anthropic 全球范围内为 Claude 输出嵌入隐形水印：AI 内容溯源时代正式开启",
-          "title_zh": "Anthropic 全球范围内为 Claude 输出嵌入隐形水印：AI 内容溯源时代正式开启",
-          "title_ja": "Anthropic がクロードの出力に目に見えない透かしを世界的に埋め込む: AI コンテンツのトレーサビリティの時代が正式に始まる",
-          "title_en": null,
-          "title_original": "Anthropic 全球范围内为 Claude 输出嵌入隐形水印：AI 内容溯源时代正式开启",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30253",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-11T09:12:31.760640Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "a5f0a62d8324bb17101b64fe498e5962ae4b8f30",
-          "title": "Anthropic 全球范围内为 Claude 输出嵌入隐形水印：AI 内容溯源时代正式开启",
-          "title_zh": "Anthropic 全球范围内为 Claude 输出嵌入隐形水印：AI 内容溯源时代正式开启",
-          "title_ja": "Anthropic がクロードの出力に目に見えない透かしを世界的に埋め込む: AI コンテンツのトレーサビリティの時代が正式に始まる",
-          "title_en": null,
-          "title_original": "Anthropic 全球范围内为 Claude 输出嵌入隐形水印：AI 内容溯源时代正式开启",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30253",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-11T09:12:31.760640Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-11T09:12:31.760640Z",
-      "latest_at": "2026-08-11T09:12:31.760640Z",
-      "primary_item": {
-        "id": "a5f0a62d8324bb17101b64fe498e5962ae4b8f30",
-        "title": "Anthropic 全球范围内为 Claude 输出嵌入隐形水印：AI 内容溯源时代正式开启",
-        "title_zh": "Anthropic 全球范围内为 Claude 输出嵌入隐形水印：AI 内容溯源时代正式开启",
-        "title_ja": "Anthropic がクロードの出力に目に見えない透かしを世界的に埋め込む: AI コンテンツのトレーサビリティの時代が正式に始まる",
-        "title_en": null,
-        "title_original": "Anthropic 全球范围内为 Claude 输出嵌入隐形水印：AI 内容溯源时代正式开启",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30253",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-11T09:15:09.370403Z"
-      }
-    },
-    {
-      "story_id": "story_fca31970616e",
-      "title": "Claude Code 自动模式默认开启原理 / We recently made auto mode the default in Claude Code， which means you no longer have to approve eve…",
-      "title_ja": "最近、Claude Code のデフォルトを自動モードにしました。つまり、自動モードを承認する必要がなくなりました。",
-      "url": "https://x.com/ClaudeDevs/status/2086844755770757531",
-      "primary_url": "https://x.com/ClaudeDevs/status/2086844755770757531",
-      "source": "X：Claude Devs (@ClaudeDevs)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "047eba7bcd72fdb530ff06aac4ce1e06b0728173",
-          "title": "Claude Code 自动模式默认开启原理 / We recently made auto mode the default in Claude Code， which means you no longer have to approve eve…",
-          "title_zh": "Claude Code 自动模式默认开启原理",
-          "title_ja": "最近、Claude Code のデフォルトを自動モードにしました。つまり、自動モードを承認する必要がなくなりました。",
-          "title_en": "We recently made auto mode the default in Claude Code， which means you no longer have to approve eve…",
-          "title_original": "We recently made auto mode the default in Claude Code， which means you no longer have to approve eve…",
-          "summary": "我们最近将自动模式设为 Claude Code 的默认选项，这意味着你不再需要批准每一个操作。\n\n但什么决定某个操作是否可以安全运行？看看它是如何工作的：",
-          "summary_ja": "最近、自動モードを Claude Code のデフォルト オプションにしました。これは、すべてのアクションを承認する必要がなくなったことを意味します。\n\nしかし、操作が安全に実行できるかどうかは何によって決まるのでしょうか?どのように機能するかを確認してください:",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/ClaudeDevs/status/2086844755770757531",
-          "source": "X：Claude Devs (@ClaudeDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-10T15:58:56Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Claude Devs (@ClaudeDevs)"
-      ],
-      "items": [
-        {
-          "id": "047eba7bcd72fdb530ff06aac4ce1e06b0728173",
-          "title": "Claude Code 自动模式默认开启原理 / We recently made auto mode the default in Claude Code， which means you no longer have to approve eve…",
-          "title_zh": "Claude Code 自动模式默认开启原理",
-          "title_ja": "最近、Claude Code のデフォルトを自動モードにしました。つまり、自動モードを承認する必要がなくなりました。",
-          "title_en": "We recently made auto mode the default in Claude Code， which means you no longer have to approve eve…",
-          "title_original": "We recently made auto mode the default in Claude Code， which means you no longer have to approve eve…",
-          "summary": "我们最近将自动模式设为 Claude Code 的默认选项，这意味着你不再需要批准每一个操作。\n\n但什么决定某个操作是否可以安全运行？看看它是如何工作的：",
-          "summary_ja": "最近、自動モードを Claude Code のデフォルト オプションにしました。これは、すべてのアクションを承認する必要がなくなったことを意味します。\n\nしかし、操作が安全に実行できるかどうかは何によって決まるのでしょうか?どのように機能するかを確認してください:",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/ClaudeDevs/status/2086844755770757531",
-          "source": "X：Claude Devs (@ClaudeDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-10T15:58:56Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7674,
-      "importance": 0.7674,
-      "importance_score": 0.7674,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7798,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-10T15:58:56Z",
-      "latest_at": "2026-08-10T15:58:56Z",
-      "primary_item": {
-        "id": "047eba7bcd72fdb530ff06aac4ce1e06b0728173",
-        "title": "Claude Code 自动模式默认开启原理 / We recently made auto mode the default in Claude Code， which means you no longer have to approve eve…",
-        "title_zh": "Claude Code 自动模式默认开启原理",
-        "title_ja": "最近、Claude Code のデフォルトを自動モードにしました。つまり、自動モードを承認する必要がなくなりました。",
-        "title_en": "We recently made auto mode the default in Claude Code， which means you no longer have to approve eve…",
-        "title_original": "We recently made auto mode the default in Claude Code， which means you no longer have to approve eve…",
-        "summary": "我们最近将自动模式设为 Claude Code 的默认选项，这意味着你不再需要批准每一个操作。\n\n但什么决定某个操作是否可以安全运行？看看它是如何工作的：",
-        "summary_ja": "最近、自動モードを Claude Code のデフォルト オプションにしました。これは、すべてのアクションを承認する必要がなくなったことを意味します。\n\nしかし、操作が安全に実行できるかどうかは何によって決まるのでしょうか?どのように機能するかを確認してください:",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/ClaudeDevs/status/2086844755770757531",
-        "source": "X：Claude Devs (@ClaudeDevs)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-11T09:15:09.370403Z"
-      }
-    },
-    {
-      "story_id": "story_c941ef83d660",
-      "title": "英伟达联合六大机构融资5000亿美元建AI工厂 / http://x.com/i/article/2086933422921117696",
-      "title_ja": null,
-      "url": "https://x.com/JensenHuang/status/2086934705207959965",
-      "primary_url": "https://x.com/JensenHuang/status/2086934705207959965",
-      "source": "X：Jensen Huang (@JensenHuang)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e0c66622d06ad11febd7df57f1e2a2985c98b30a",
-          "title": "英伟达联合六大机构融资5000亿美元建AI工厂 / http://x.com/i/article/2086933422921117696",
-          "title_zh": "英伟达联合六大机构融资5000亿美元建AI工厂",
-          "title_ja": null,
-          "title_en": "http://x.com/i/article/2086933422921117696",
-          "title_original": "http://x.com/i/article/2086933422921117696",
-          "summary": "英伟达宣布与Apollo、BlackRock、Blackstone、Brookfield、Goldman Sachs和KKR合作，建立独立融资平台，动员超5000亿美元第三方资本支持AI基础设施建设。",
-          "summary_ja": "NVIDIA は、Apollo、BlackRock、Blackstone、Brookfield、Goldman Sachs、KKR と協力して独立した資金調達プラットフォームを確立し、AI インフラストラクチャの構築を支援するために 5,000 億米ドルを超えるサードパーティ資本を動員すると発表しました。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/JensenHuang/status/2086934705207959965",
-          "source": "X：Jensen Huang (@JensenHuang)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-10T21:56:21Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Jensen Huang (@JensenHuang)"
-      ],
-      "items": [
-        {
-          "id": "e0c66622d06ad11febd7df57f1e2a2985c98b30a",
-          "title": "英伟达联合六大机构融资5000亿美元建AI工厂 / http://x.com/i/article/2086933422921117696",
-          "title_zh": "英伟达联合六大机构融资5000亿美元建AI工厂",
-          "title_ja": null,
-          "title_en": "http://x.com/i/article/2086933422921117696",
-          "title_original": "http://x.com/i/article/2086933422921117696",
-          "summary": "英伟达宣布与Apollo、BlackRock、Blackstone、Brookfield、Goldman Sachs和KKR合作，建立独立融资平台，动员超5000亿美元第三方资本支持AI基础设施建设。",
-          "summary_ja": "NVIDIA は、Apollo、BlackRock、Blackstone、Brookfield、Goldman Sachs、KKR と協力して独立した資金調達プラットフォームを確立し、AI インフラストラクチャの構築を支援するために 5,000 億米ドルを超えるサードパーティ資本を動員すると発表しました。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/JensenHuang/status/2086934705207959965",
-          "source": "X：Jensen Huang (@JensenHuang)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-10T21:56:21Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7616,
-      "importance": 0.7616,
-      "importance_score": 0.7616,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8498,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-10T21:56:21Z",
-      "latest_at": "2026-08-10T21:56:21Z",
-      "primary_item": {
-        "id": "e0c66622d06ad11febd7df57f1e2a2985c98b30a",
-        "title": "英伟达联合六大机构融资5000亿美元建AI工厂 / http://x.com/i/article/2086933422921117696",
-        "title_zh": "英伟达联合六大机构融资5000亿美元建AI工厂",
-        "title_ja": null,
-        "title_en": "http://x.com/i/article/2086933422921117696",
-        "title_original": "http://x.com/i/article/2086933422921117696",
-        "summary": "英伟达宣布与Apollo、BlackRock、Blackstone、Brookfield、Goldman Sachs和KKR合作，建立独立融资平台，动员超5000亿美元第三方资本支持AI基础设施建设。",
-        "summary_ja": "NVIDIA は、Apollo、BlackRock、Blackstone、Brookfield、Goldman Sachs、KKR と協力して独立した資金調達プラットフォームを確立し、AI インフラストラクチャの構築を支援するために 5,000 億米ドルを超えるサードパーティ資本を動員すると発表しました。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/JensenHuang/status/2086934705207959965",
-        "source": "X：Jensen Huang (@JensenHuang)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-11T09:15:09.370403Z"
-      }
-    },
-    {
-      "story_id": "story_1d745777aa0d",
-      "title": "用 ComfyUI API 实现 MiniMax-H3 多模态视频与音频生成流水线 / Implementing a MiniMax-H3 Multimodal Video and Audio Generation Pipeline with ComfyUI APIs",
-      "title_ja": "ComfyUI API を使用した MiniMax-H3 マルチモーダル ビデオおよびオーディオ生成パイプラインの実装",
-      "url": "https://www.marktechpost.com/2026/08/10/implementing-a-minimax-h3-multimodal-video-and-audio-generation-pipeline-with-comfyui-apis",
-      "primary_url": "https://www.marktechpost.com/2026/08/10/implementing-a-minimax-h3-multimodal-video-and-audio-generation-pipeline-with-comfyui-apis",
-      "source": "MarkTechPost（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5af023feb5917b0420ac99ebd023db76d69db035",
-          "title": "用 ComfyUI API 实现 MiniMax-H3 多模态视频与音频生成流水线 / Implementing a MiniMax-H3 Multimodal Video and Audio Generation Pipeline with ComfyUI APIs",
-          "title_zh": "用 ComfyUI API 实现 MiniMax-H3 多模态视频与音频生成流水线",
-          "title_ja": "ComfyUI API を使用した MiniMax-H3 マルチモーダル ビデオおよびオーディオ生成パイプラインの実装",
-          "title_en": "Implementing a MiniMax-H3 Multimodal Video and Audio Generation Pipeline with ComfyUI APIs",
-          "title_original": "Implementing a MiniMax-H3 Multimodal Video and Audio Generation Pipeline with ComfyUI APIs",
-          "summary": "本教程演示如何以 ComfyUI 为无头推理后端，构建端到端的 MiniMax-H3 视频生成工作流。通过 Python 直接构建执行图，支持文生视频、首尾帧条件生成和参考图像条件生成，并自动根据 GPU 显存选择 quality、balanced、squeeze 三种权重配置。流水线涵盖模型自动下载、节点模式校验、音视频联合解码与进度监控，无需图形界面即可复现实验。",
-          "summary_ja": "このチュートリアルでは、ヘッドレス推論バックエンドとして ComfyUI を使用して、エンドツーエンドの MiniMax-H3 ビデオ生成ワークフローを構築する方法を示します。実行グラフは Python を通じて直接構築され、Vincent ビデオ、最初と最後のフレーム条件生成、参照画像条件生成をサポートし、GPU メモリに応じて品質、バランス、スクイーズの 3 つの重み設定を自動的に選択します。このパイプラインは、モデルの自動ダウンロード、ノード モードの検証、音声とビデオの共同デコード、進行状況の監視をカバーしており、実験はグラフィカル インターフェイスなしで再現できます。",
-          "recommend_reason_zh": null,
-          "url": "https://www.marktechpost.com/2026/08/10/implementing-a-minimax-h3-multimodal-video-and-audio-generation-pipeline-with-comfyui-apis",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T05:44:38Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "MarkTechPost（RSS）"
-      ],
-      "items": [
-        {
-          "id": "5af023feb5917b0420ac99ebd023db76d69db035",
-          "title": "用 ComfyUI API 实现 MiniMax-H3 多模态视频与音频生成流水线 / Implementing a MiniMax-H3 Multimodal Video and Audio Generation Pipeline with ComfyUI APIs",
-          "title_zh": "用 ComfyUI API 实现 MiniMax-H3 多模态视频与音频生成流水线",
-          "title_ja": "ComfyUI API を使用した MiniMax-H3 マルチモーダル ビデオおよびオーディオ生成パイプラインの実装",
-          "title_en": "Implementing a MiniMax-H3 Multimodal Video and Audio Generation Pipeline with ComfyUI APIs",
-          "title_original": "Implementing a MiniMax-H3 Multimodal Video and Audio Generation Pipeline with ComfyUI APIs",
-          "summary": "本教程演示如何以 ComfyUI 为无头推理后端，构建端到端的 MiniMax-H3 视频生成工作流。通过 Python 直接构建执行图，支持文生视频、首尾帧条件生成和参考图像条件生成，并自动根据 GPU 显存选择 quality、balanced、squeeze 三种权重配置。流水线涵盖模型自动下载、节点模式校验、音视频联合解码与进度监控，无需图形界面即可复现实验。",
-          "summary_ja": "このチュートリアルでは、ヘッドレス推論バックエンドとして ComfyUI を使用して、エンドツーエンドの MiniMax-H3 ビデオ生成ワークフローを構築する方法を示します。実行グラフは Python を通じて直接構築され、Vincent ビデオ、最初と最後のフレーム条件生成、参照画像条件生成をサポートし、GPU メモリに応じて品質、バランス、スクイーズの 3 つの重み設定を自動的に選択します。このパイプラインは、モデルの自動ダウンロード、ノード モードの検証、音声とビデオの共同デコード、進行状況の監視をカバーしており、実験はグラフィカル インターフェイスなしで再現できます。",
-          "recommend_reason_zh": null,
-          "url": "https://www.marktechpost.com/2026/08/10/implementing-a-minimax-h3-multimodal-video-and-audio-generation-pipeline-with-comfyui-apis",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T05:44:38Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7588,
-      "importance": 0.7588,
-      "importance_score": 0.7588,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9512,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-11T05:44:38Z",
-      "latest_at": "2026-08-11T05:44:38Z",
-      "primary_item": {
-        "id": "5af023feb5917b0420ac99ebd023db76d69db035",
-        "title": "用 ComfyUI API 实现 MiniMax-H3 多模态视频与音频生成流水线 / Implementing a MiniMax-H3 Multimodal Video and Audio Generation Pipeline with ComfyUI APIs",
-        "title_zh": "用 ComfyUI API 实现 MiniMax-H3 多模态视频与音频生成流水线",
-        "title_ja": "ComfyUI API を使用した MiniMax-H3 マルチモーダル ビデオおよびオーディオ生成パイプラインの実装",
-        "title_en": "Implementing a MiniMax-H3 Multimodal Video and Audio Generation Pipeline with ComfyUI APIs",
-        "title_original": "Implementing a MiniMax-H3 Multimodal Video and Audio Generation Pipeline with ComfyUI APIs",
-        "summary": "本教程演示如何以 ComfyUI 为无头推理后端，构建端到端的 MiniMax-H3 视频生成工作流。通过 Python 直接构建执行图，支持文生视频、首尾帧条件生成和参考图像条件生成，并自动根据 GPU 显存选择 quality、balanced、squeeze 三种权重配置。流水线涵盖模型自动下载、节点模式校验、音视频联合解码与进度监控，无需图形界面即可复现实验。",
-        "summary_ja": "このチュートリアルでは、ヘッドレス推論バックエンドとして ComfyUI を使用して、エンドツーエンドの MiniMax-H3 ビデオ生成ワークフローを構築する方法を示します。実行グラフは Python を通じて直接構築され、Vincent ビデオ、最初と最後のフレーム条件生成、参照画像条件生成をサポートし、GPU メモリに応じて品質、バランス、スクイーズの 3 つの重み設定を自動的に選択します。このパイプラインは、モデルの自動ダウンロード、ノード モードの検証、音声とビデオの共同デコード、進行状況の監視をカバーしており、実験はグラフィカル インターフェイスなしで再現できます。",
-        "recommend_reason_zh": null,
-        "url": "https://www.marktechpost.com/2026/08/10/implementing-a-minimax-h3-multimodal-video-and-audio-generation-pipeline-with-comfyui-apis",
-        "source": "MarkTechPost（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-11T09:15:09.370403Z"
-      }
-    },
-    {
-      "story_id": "story_1afc977519d1",
-      "title": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
-      "title_ja": "ZCode が完全にアップグレードされました。ゴール、サブエージェント、リモート コントロール、レジャー タスクの 4 つの主要な機能がオンラインになりました。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494052&idx=1&sn=ee3ab3d0f4550e9120927c53a27522c9",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494052&idx=1&sn=ee3ab3d0f4550e9120927c53a27522c9",
-      "source": "公众号：智谱（GLM）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "fcc1f787a8f50694d563e839c3a5df0f5b260040",
-          "title": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
-          "title_zh": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
-          "title_ja": "ZCode が完全にアップグレードされました。ゴール、サブエージェント、リモート コントロール、レジャー タスクの 4 つの主要な機能がオンラインになりました。",
-          "title_en": null,
-          "title_original": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
-          "summary": "ZCode针对GLM深度优化，今日上线Goal、Subagents、Remote Control与闲时任务四大功能。在Z.ai Code Bench测试中，GLM-5.2搭配ZCode较搭配Claude Code任务整体通过率高2.39%；ZCode缓存命中率超98%，叠加1.5倍限时额度加成后，GLM Coding Plan整体使用量接近常规额度的1.8倍。",
-          "summary_ja": "ZCode は GLM 向けに徹底的に最適化されており、本日、ゴール、サブエージェント、リモート コントロール、アイドル タスクという 4 つの主要な機能を開始しました。 Z.ai Code Bench テストでは、ZCode と組み合わせた GLM-5.2 の全体的な合格率は、Claude Code より 2.39% 高かった。 ZCode キャッシュ ヒット率は 98% を超えました。期間限定のクォータ ボーナスの 1.5 倍を追加すると、GLM コーディング プランの全体的な使用量は通常のクォータの 1.8 倍近くになりました。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494052&idx=1&sn=ee3ab3d0f4550e9120927c53a27522c9",
-          "source": "公众号：智谱（GLM）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T05:52:25Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：智谱（GLM）"
-      ],
-      "items": [
-        {
-          "id": "fcc1f787a8f50694d563e839c3a5df0f5b260040",
-          "title": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
-          "title_zh": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
-          "title_ja": "ZCode が完全にアップグレードされました。ゴール、サブエージェント、リモート コントロール、レジャー タスクの 4 つの主要な機能がオンラインになりました。",
-          "title_en": null,
-          "title_original": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
-          "summary": "ZCode针对GLM深度优化，今日上线Goal、Subagents、Remote Control与闲时任务四大功能。在Z.ai Code Bench测试中，GLM-5.2搭配ZCode较搭配Claude Code任务整体通过率高2.39%；ZCode缓存命中率超98%，叠加1.5倍限时额度加成后，GLM Coding Plan整体使用量接近常规额度的1.8倍。",
-          "summary_ja": "ZCode は GLM 向けに徹底的に最適化されており、本日、ゴール、サブエージェント、リモート コントロール、アイドル タスクという 4 つの主要な機能を開始しました。 Z.ai Code Bench テストでは、ZCode と組み合わせた GLM-5.2 の全体的な合格率は、Claude Code より 2.39% 高かった。 ZCode キャッシュ ヒット率は 98% を超えました。期間限定のクォータ ボーナスの 1.5 倍を追加すると、GLM コーディング プランの全体的な使用量は通常のクォータの 1.8 倍近くになりました。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494052&idx=1&sn=ee3ab3d0f4550e9120927c53a27522c9",
-          "source": "公众号：智谱（GLM）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T05:52:25Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7561,
-      "importance": 0.7561,
-      "importance_score": 0.7561,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.953,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-11T05:52:25Z",
-      "latest_at": "2026-08-11T05:52:25Z",
-      "primary_item": {
-        "id": "fcc1f787a8f50694d563e839c3a5df0f5b260040",
-        "title": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
-        "title_zh": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
-        "title_ja": "ZCode が完全にアップグレードされました。ゴール、サブエージェント、リモート コントロール、レジャー タスクの 4 つの主要な機能がオンラインになりました。",
-        "title_en": null,
-        "title_original": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
-        "summary": "ZCode针对GLM深度优化，今日上线Goal、Subagents、Remote Control与闲时任务四大功能。在Z.ai Code Bench测试中，GLM-5.2搭配ZCode较搭配Claude Code任务整体通过率高2.39%；ZCode缓存命中率超98%，叠加1.5倍限时额度加成后，GLM Coding Plan整体使用量接近常规额度的1.8倍。",
-        "summary_ja": "ZCode は GLM 向けに徹底的に最適化されており、本日、ゴール、サブエージェント、リモート コントロール、アイドル タスクという 4 つの主要な機能を開始しました。 Z.ai Code Bench テストでは、ZCode と組み合わせた GLM-5.2 の全体的な合格率は、Claude Code より 2.39% 高かった。 ZCode キャッシュ ヒット率は 98% を超えました。期間限定のクォータ ボーナスの 1.5 倍を追加すると、GLM コーディング プランの全体的な使用量は通常のクォータの 1.8 倍近くになりました。",
-        "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494052&idx=1&sn=ee3ab3d0f4550e9120927c53a27522c9",
-        "source": "公众号：智谱（GLM）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-11T09:15:09.370403Z"
+        "scored_at": "2026-08-11T10:10:14.077543Z"
       }
     },
     {
@@ -1678,16 +798,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8144,
-      "importance": 0.8144,
-      "importance_score": 0.8144,
+      "score": 0.8125,
+      "importance": 0.8125,
+      "importance_score": 0.8125,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7913,
+        "recency": 0.7806,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1716,7 +836,819 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T09:15:09.370403Z"
+        "scored_at": "2026-08-11T10:10:14.077543Z"
+      }
+    },
+    {
+      "story_id": "story_ef2bf8426d8e",
+      "title": "消息称 Anthropic 最快今年 9 月上市，向投资者淡化 AI 模型竞争等挑战",
+      "title_ja": "Anthropic は早ければ今年 9 月にも上場する予定であると報じられており、AI モデルの競争などの課題を投資家に軽視している。",
+      "url": "https://www.ithome.com/0/988/239.htm",
+      "primary_url": "https://www.ithome.com/0/988/239.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1dbe694443d13f59a7f8e45eaab547e907fc473b",
+          "title": "消息称 Anthropic 最快今年 9 月上市，向投资者淡化 AI 模型竞争等挑战",
+          "title_zh": "消息称 Anthropic 最快今年 9 月上市，向投资者淡化 AI 模型竞争等挑战",
+          "title_ja": "Anthropic は早ければ今年 9 月にも上場する予定であると報じられており、AI モデルの競争などの課題を投資家に軽視している。",
+          "title_en": null,
+          "title_original": "消息称 Anthropic 最快今年 9 月上市，向投资者淡化 AI 模型竞争等挑战",
+          "summary": "Anthropic 正与潜在投资者接触，为可能成为史上规模最大的 IPO 做准备，计划今年 9 月或 10 月初正式上市。公司估值高达 9，650 亿美元，年化收入已超 470 亿美元，并淡化来自中国 AI 企业的竞争影响。Anthropic 还计划拓展 AI 在医疗和生物学领域的应用，但尚未公布具体 IPO 定价方案。",
+          "summary_ja": "アンスロピックは史上最大規模となる可能性のあるIPOの準備を進める中で潜在的な投資家に働きかけており、今年9月か10月初めに正式に上場する予定だ。同社の評価額は9,650億米ドル、年間売上高は470億米ドルを超えており、中国のAI企業との競争による影響は軽視されている。アンスロピックは医療や生物学の分野でもAIの応用を拡大する計画だが、具体的なIPOの価格プランはまだ発表していない。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/988/239.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T03:57:53Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "1dbe694443d13f59a7f8e45eaab547e907fc473b",
+          "title": "消息称 Anthropic 最快今年 9 月上市，向投资者淡化 AI 模型竞争等挑战",
+          "title_zh": "消息称 Anthropic 最快今年 9 月上市，向投资者淡化 AI 模型竞争等挑战",
+          "title_ja": "Anthropic は早ければ今年 9 月にも上場する予定であると報じられており、AI モデルの競争などの課題を投資家に軽視している。",
+          "title_en": null,
+          "title_original": "消息称 Anthropic 最快今年 9 月上市，向投资者淡化 AI 模型竞争等挑战",
+          "summary": "Anthropic 正与潜在投资者接触，为可能成为史上规模最大的 IPO 做准备，计划今年 9 月或 10 月初正式上市。公司估值高达 9，650 亿美元，年化收入已超 470 亿美元，并淡化来自中国 AI 企业的竞争影响。Anthropic 还计划拓展 AI 在医疗和生物学领域的应用，但尚未公布具体 IPO 定价方案。",
+          "summary_ja": "アンスロピックは史上最大規模となる可能性のあるIPOの準備を進める中で潜在的な投資家に働きかけており、今年9月か10月初めに正式に上場する予定だ。同社の評価額は9,650億米ドル、年間売上高は470億米ドルを超えており、中国のAI企業との競争による影響は軽視されている。アンスロピックは医療や生物学の分野でもAIの応用を拡大する計画だが、具体的なIPOの価格プランはまだ発表していない。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/988/239.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T03:57:53Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7732,
+      "importance": 0.7732,
+      "importance_score": 0.7732,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9145,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-11T03:57:53Z",
+      "latest_at": "2026-08-11T03:57:53Z",
+      "primary_item": {
+        "id": "1dbe694443d13f59a7f8e45eaab547e907fc473b",
+        "title": "消息称 Anthropic 最快今年 9 月上市，向投资者淡化 AI 模型竞争等挑战",
+        "title_zh": "消息称 Anthropic 最快今年 9 月上市，向投资者淡化 AI 模型竞争等挑战",
+        "title_ja": "Anthropic は早ければ今年 9 月にも上場する予定であると報じられており、AI モデルの競争などの課題を投資家に軽視している。",
+        "title_en": null,
+        "title_original": "消息称 Anthropic 最快今年 9 月上市，向投资者淡化 AI 模型竞争等挑战",
+        "summary": "Anthropic 正与潜在投资者接触，为可能成为史上规模最大的 IPO 做准备，计划今年 9 月或 10 月初正式上市。公司估值高达 9，650 亿美元，年化收入已超 470 亿美元，并淡化来自中国 AI 企业的竞争影响。Anthropic 还计划拓展 AI 在医疗和生物学领域的应用，但尚未公布具体 IPO 定价方案。",
+        "summary_ja": "アンスロピックは史上最大規模となる可能性のあるIPOの準備を進める中で潜在的な投資家に働きかけており、今年9月か10月初めに正式に上場する予定だ。同社の評価額は9,650億米ドル、年間売上高は470億米ドルを超えており、中国のAI企業との競争による影響は軽視されている。アンスロピックは医療や生物学の分野でもAIの応用を拡大する計画だが、具体的なIPOの価格プランはまだ発表していない。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/0/988/239.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-11T10:10:14.077543Z"
+      }
+    },
+    {
+      "story_id": "story_a2c082e61e71",
+      "title": "印度的 GitHub 计费现在支持自动定期付款 / GitHub billing in India now supports automatic recurring payments",
+      "title_ja": "インドでの GitHub の請求で自動定期支払いがサポートされるようになりました",
+      "url": "https://github.blog/changelog/2026-08-10-github-billing-in-india-now-supports-automatic-recurring-payments",
+      "primary_url": "https://github.blog/changelog/2026-08-10-github-billing-in-india-now-supports-automatic-recurring-payments",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "3d7abd2fe66934e83a8c3393f6dce8181919e467",
+          "title": "印度的 GitHub 计费现在支持自动定期付款 / GitHub billing in India now supports automatic recurring payments",
+          "title_zh": "印度的 GitHub 计费现在支持自动定期付款",
+          "title_ja": "インドでの GitHub の請求で自動定期支払いがサポートされるようになりました",
+          "title_en": "GitHub billing in India now supports automatic recurring payments",
+          "title_original": "GitHub billing in India now supports automatic recurring payments",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-10-github-billing-in-india-now-supports-automatic-recurring-payments",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T14:00:58Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "3d7abd2fe66934e83a8c3393f6dce8181919e467",
+          "title": "印度的 GitHub 计费现在支持自动定期付款 / GitHub billing in India now supports automatic recurring payments",
+          "title_zh": "印度的 GitHub 计费现在支持自动定期付款",
+          "title_ja": "インドでの GitHub の請求で自動定期支払いがサポートされるようになりました",
+          "title_en": "GitHub billing in India now supports automatic recurring payments",
+          "title_original": "GitHub billing in India now supports automatic recurring payments",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-10-github-billing-in-india-now-supports-automatic-recurring-payments",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T14:00:58Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7986,
+      "importance": 0.7986,
+      "importance_score": 0.7986,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7477,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T14:00:58Z",
+      "latest_at": "2026-08-10T14:00:58Z",
+      "primary_item": {
+        "id": "3d7abd2fe66934e83a8c3393f6dce8181919e467",
+        "title": "印度的 GitHub 计费现在支持自动定期付款 / GitHub billing in India now supports automatic recurring payments",
+        "title_zh": "印度的 GitHub 计费现在支持自动定期付款",
+        "title_ja": "インドでの GitHub の請求で自動定期支払いがサポートされるようになりました",
+        "title_en": "GitHub billing in India now supports automatic recurring payments",
+        "title_original": "GitHub billing in India now supports automatic recurring payments",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-08-10-github-billing-in-india-now-supports-automatic-recurring-payments",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-11T10:10:14.077543Z"
+      }
+    },
+    {
+      "story_id": "story_fca31970616e",
+      "title": "Claude Code 自动模式默认开启原理 / We recently made auto mode the default in Claude Code， which means you no longer have to approve eve…",
+      "title_ja": "最近、Claude Code のデフォルトを自動モードにしました。つまり、自動モードを承認する必要がなくなりました。",
+      "url": "https://x.com/ClaudeDevs/status/2086844755770757531",
+      "primary_url": "https://x.com/ClaudeDevs/status/2086844755770757531",
+      "source": "X：Claude Devs (@ClaudeDevs)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "047eba7bcd72fdb530ff06aac4ce1e06b0728173",
+          "title": "Claude Code 自动模式默认开启原理 / We recently made auto mode the default in Claude Code， which means you no longer have to approve eve…",
+          "title_zh": "Claude Code 自动模式默认开启原理",
+          "title_ja": "最近、Claude Code のデフォルトを自動モードにしました。つまり、自動モードを承認する必要がなくなりました。",
+          "title_en": "We recently made auto mode the default in Claude Code， which means you no longer have to approve eve…",
+          "title_original": "We recently made auto mode the default in Claude Code， which means you no longer have to approve eve…",
+          "summary": "我们最近将自动模式设为 Claude Code 的默认选项，这意味着你不再需要批准每一个操作。\n\n但什么决定某个操作是否可以安全运行？看看它是如何工作的：",
+          "summary_ja": "最近、自動モードを Claude Code のデフォルト オプションにしました。これは、すべてのアクションを承認する必要がなくなったことを意味します。\n\nしかし、操作が安全に実行できるかどうかは何によって決まるのでしょうか?どのように機能するかを確認してください:",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/ClaudeDevs/status/2086844755770757531",
+          "source": "X：Claude Devs (@ClaudeDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-10T15:58:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Claude Devs (@ClaudeDevs)"
+      ],
+      "items": [
+        {
+          "id": "047eba7bcd72fdb530ff06aac4ce1e06b0728173",
+          "title": "Claude Code 自动模式默认开启原理 / We recently made auto mode the default in Claude Code， which means you no longer have to approve eve…",
+          "title_zh": "Claude Code 自动模式默认开启原理",
+          "title_ja": "最近、Claude Code のデフォルトを自動モードにしました。つまり、自動モードを承認する必要がなくなりました。",
+          "title_en": "We recently made auto mode the default in Claude Code， which means you no longer have to approve eve…",
+          "title_original": "We recently made auto mode the default in Claude Code， which means you no longer have to approve eve…",
+          "summary": "我们最近将自动模式设为 Claude Code 的默认选项，这意味着你不再需要批准每一个操作。\n\n但什么决定某个操作是否可以安全运行？看看它是如何工作的：",
+          "summary_ja": "最近、自動モードを Claude Code のデフォルト オプションにしました。これは、すべてのアクションを承認する必要がなくなったことを意味します。\n\nしかし、操作が安全に実行できるかどうかは何によって決まるのでしょうか?どのように機能するかを確認してください:",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/ClaudeDevs/status/2086844755770757531",
+          "source": "X：Claude Devs (@ClaudeDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-10T15:58:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7655,
+      "importance": 0.7655,
+      "importance_score": 0.7655,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.7692,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T15:58:56Z",
+      "latest_at": "2026-08-10T15:58:56Z",
+      "primary_item": {
+        "id": "047eba7bcd72fdb530ff06aac4ce1e06b0728173",
+        "title": "Claude Code 自动模式默认开启原理 / We recently made auto mode the default in Claude Code， which means you no longer have to approve eve…",
+        "title_zh": "Claude Code 自动模式默认开启原理",
+        "title_ja": "最近、Claude Code のデフォルトを自動モードにしました。つまり、自動モードを承認する必要がなくなりました。",
+        "title_en": "We recently made auto mode the default in Claude Code， which means you no longer have to approve eve…",
+        "title_original": "We recently made auto mode the default in Claude Code， which means you no longer have to approve eve…",
+        "summary": "我们最近将自动模式设为 Claude Code 的默认选项，这意味着你不再需要批准每一个操作。\n\n但什么决定某个操作是否可以安全运行？看看它是如何工作的：",
+        "summary_ja": "最近、自動モードを Claude Code のデフォルト オプションにしました。これは、すべてのアクションを承認する必要がなくなったことを意味します。\n\nしかし、操作が安全に実行できるかどうかは何によって決まるのでしょうか?どのように機能するかを確認してください:",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/ClaudeDevs/status/2086844755770757531",
+        "source": "X：Claude Devs (@ClaudeDevs)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-11T10:10:14.077543Z"
+      }
+    },
+    {
+      "story_id": "story_2ce1fd385677",
+      "title": "Ling-3.0-tiny 正式开源：1.3B 激活参数如何进入真实任务",
+      "title_ja": "Ling-3.0-tiny は正式にオープンソースです: 1.3B パラメータを実際のタスクにアクティブ化する方法",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487491&idx=1&sn=fcb14aceb054f9a24e22525d3dae6fa0",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487491&idx=1&sn=fcb14aceb054f9a24e22525d3dae6fa0",
+      "source": "公众号：蚂蚁百灵（Ling）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f0a6eedb54f0fb1cb79de2bf700485192da8d8b8",
+          "title": "Ling-3.0-tiny 正式开源：1.3B 激活参数如何进入真实任务",
+          "title_zh": "Ling-3.0-tiny 正式开源：1.3B 激活参数如何进入真实任务",
+          "title_ja": "Ling-3.0-tiny は正式にオープンソースです: 1.3B パラメータを実際のタスクにアクティブ化する方法",
+          "title_en": null,
+          "title_original": "Ling-3.0-tiny 正式开源：1.3B 激活参数如何进入真实任务",
+          "summary": "蚂蚁百灵开源 Ling-3.0-tiny，一款总参数 7.9B、推理时仅激活 1.3B 参数的原生混合推理模型，同步提供 BF16、FP8 和 INT4 三个版本。",
+          "summary_ja": "Ant Bailing のオープンソースの Ling-3.0-tiny は、合計パラメーターが 7.9B で、推論中にアクティブ化されるパラメーターはわずか 1.3B のネイティブ ハイブリッド推論モデルです。 BF16、FP8、INT4 の 3 つのバージョンを同時に提供します。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487491&idx=1&sn=fcb14aceb054f9a24e22525d3dae6fa0",
+          "source": "公众号：蚂蚁百灵（Ling）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T09:20:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：蚂蚁百灵（Ling）"
+      ],
+      "items": [
+        {
+          "id": "f0a6eedb54f0fb1cb79de2bf700485192da8d8b8",
+          "title": "Ling-3.0-tiny 正式开源：1.3B 激活参数如何进入真实任务",
+          "title_zh": "Ling-3.0-tiny 正式开源：1.3B 激活参数如何进入真实任务",
+          "title_ja": "Ling-3.0-tiny は正式にオープンソースです: 1.3B パラメータを実際のタスクにアクティブ化する方法",
+          "title_en": null,
+          "title_original": "Ling-3.0-tiny 正式开源：1.3B 激活参数如何进入真实任务",
+          "summary": "蚂蚁百灵开源 Ling-3.0-tiny，一款总参数 7.9B、推理时仅激活 1.3B 参数的原生混合推理模型，同步提供 BF16、FP8 和 INT4 三个版本。",
+          "summary_ja": "Ant Bailing のオープンソースの Ling-3.0-tiny は、合計パラメーターが 7.9B で、推論中にアクティブ化されるパラメーターはわずか 1.3B のネイティブ ハイブリッド推論モデルです。 BF16、FP8、INT4 の 3 つのバージョンを同時に提供します。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487491&idx=1&sn=fcb14aceb054f9a24e22525d3dae6fa0",
+          "source": "公众号：蚂蚁百灵（Ling）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T09:20:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7655,
+      "importance": 0.7655,
+      "importance_score": 0.7655,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9882,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-11T09:20:00Z",
+      "latest_at": "2026-08-11T09:20:00Z",
+      "primary_item": {
+        "id": "f0a6eedb54f0fb1cb79de2bf700485192da8d8b8",
+        "title": "Ling-3.0-tiny 正式开源：1.3B 激活参数如何进入真实任务",
+        "title_zh": "Ling-3.0-tiny 正式开源：1.3B 激活参数如何进入真实任务",
+        "title_ja": "Ling-3.0-tiny は正式にオープンソースです: 1.3B パラメータを実際のタスクにアクティブ化する方法",
+        "title_en": null,
+        "title_original": "Ling-3.0-tiny 正式开源：1.3B 激活参数如何进入真实任务",
+        "summary": "蚂蚁百灵开源 Ling-3.0-tiny，一款总参数 7.9B、推理时仅激活 1.3B 参数的原生混合推理模型，同步提供 BF16、FP8 和 INT4 三个版本。",
+        "summary_ja": "Ant Bailing のオープンソースの Ling-3.0-tiny は、合計パラメーターが 7.9B で、推論中にアクティブ化されるパラメーターはわずか 1.3B のネイティブ ハイブリッド推論モデルです。 BF16、FP8、INT4 の 3 つのバージョンを同時に提供します。",
+        "recommend_reason_zh": null,
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487491&idx=1&sn=fcb14aceb054f9a24e22525d3dae6fa0",
+        "source": "公众号：蚂蚁百灵（Ling）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-11T10:10:14.077543Z"
+      }
+    },
+    {
+      "story_id": "story_2e9310d5724c",
+      "title": "Anthropic 全球范围内为 Claude 输出嵌入隐形水印：AI 内容溯源时代正式开启",
+      "title_ja": "Anthropic がクロードの出力に目に見えない透かしを世界的に埋め込む: AI コンテンツのトレーサビリティの時代が正式に始まる",
+      "url": "https://www.aibase.com/news/30253",
+      "primary_url": "https://www.aibase.com/news/30253",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "a5f0a62d8324bb17101b64fe498e5962ae4b8f30",
+          "title": "Anthropic 全球范围内为 Claude 输出嵌入隐形水印：AI 内容溯源时代正式开启",
+          "title_zh": "Anthropic 全球范围内为 Claude 输出嵌入隐形水印：AI 内容溯源时代正式开启",
+          "title_ja": "Anthropic がクロードの出力に目に見えない透かしを世界的に埋め込む: AI コンテンツのトレーサビリティの時代が正式に始まる",
+          "title_en": null,
+          "title_original": "Anthropic 全球范围内为 Claude 输出嵌入隐形水印：AI 内容溯源时代正式开启",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30253",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-11T09:12:31.760640Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "a5f0a62d8324bb17101b64fe498e5962ae4b8f30",
+          "title": "Anthropic 全球范围内为 Claude 输出嵌入隐形水印：AI 内容溯源时代正式开启",
+          "title_zh": "Anthropic 全球范围内为 Claude 输出嵌入隐形水印：AI 内容溯源时代正式开启",
+          "title_ja": "Anthropic がクロードの出力に目に見えない透かしを世界的に埋め込む: AI コンテンツのトレーサビリティの時代が正式に始まる",
+          "title_en": null,
+          "title_original": "Anthropic 全球范围内为 Claude 输出嵌入隐形水印：AI 内容溯源时代正式开启",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30253",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-11T09:12:31.760640Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7652,
+      "importance": 0.7652,
+      "importance_score": 0.7652,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9864,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-11T09:12:31.760640Z",
+      "latest_at": "2026-08-11T09:12:31.760640Z",
+      "primary_item": {
+        "id": "a5f0a62d8324bb17101b64fe498e5962ae4b8f30",
+        "title": "Anthropic 全球范围内为 Claude 输出嵌入隐形水印：AI 内容溯源时代正式开启",
+        "title_zh": "Anthropic 全球范围内为 Claude 输出嵌入隐形水印：AI 内容溯源时代正式开启",
+        "title_ja": "Anthropic がクロードの出力に目に見えない透かしを世界的に埋め込む: AI コンテンツのトレーサビリティの時代が正式に始まる",
+        "title_en": null,
+        "title_original": "Anthropic 全球范围内为 Claude 输出嵌入隐形水印：AI 内容溯源时代正式开启",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30253",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-11T10:10:14.077543Z"
+      }
+    },
+    {
+      "story_id": "story_c941ef83d660",
+      "title": "英伟达联合六大机构融资5000亿美元建AI工厂 / http://x.com/i/article/2086933422921117696",
+      "title_ja": null,
+      "url": "https://x.com/JensenHuang/status/2086934705207959965",
+      "primary_url": "https://x.com/JensenHuang/status/2086934705207959965",
+      "source": "X：Jensen Huang (@JensenHuang)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e0c66622d06ad11febd7df57f1e2a2985c98b30a",
+          "title": "英伟达联合六大机构融资5000亿美元建AI工厂 / http://x.com/i/article/2086933422921117696",
+          "title_zh": "英伟达联合六大机构融资5000亿美元建AI工厂",
+          "title_ja": null,
+          "title_en": "http://x.com/i/article/2086933422921117696",
+          "title_original": "http://x.com/i/article/2086933422921117696",
+          "summary": "英伟达宣布与Apollo、BlackRock、Blackstone、Brookfield、Goldman Sachs和KKR合作，建立独立融资平台，动员超5000亿美元第三方资本支持AI基础设施建设。",
+          "summary_ja": "NVIDIA は、Apollo、BlackRock、Blackstone、Brookfield、Goldman Sachs、KKR と協力して独立した資金調達プラットフォームを確立し、AI インフラストラクチャの構築を支援するために 5,000 億米ドルを超えるサードパーティ資本を動員すると発表しました。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/JensenHuang/status/2086934705207959965",
+          "source": "X：Jensen Huang (@JensenHuang)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-10T21:56:21Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Jensen Huang (@JensenHuang)"
+      ],
+      "items": [
+        {
+          "id": "e0c66622d06ad11febd7df57f1e2a2985c98b30a",
+          "title": "英伟达联合六大机构融资5000亿美元建AI工厂 / http://x.com/i/article/2086933422921117696",
+          "title_zh": "英伟达联合六大机构融资5000亿美元建AI工厂",
+          "title_ja": null,
+          "title_en": "http://x.com/i/article/2086933422921117696",
+          "title_original": "http://x.com/i/article/2086933422921117696",
+          "summary": "英伟达宣布与Apollo、BlackRock、Blackstone、Brookfield、Goldman Sachs和KKR合作，建立独立融资平台，动员超5000亿美元第三方资本支持AI基础设施建设。",
+          "summary_ja": "NVIDIA は、Apollo、BlackRock、Blackstone、Brookfield、Goldman Sachs、KKR と協力して独立した資金調達プラットフォームを確立し、AI インフラストラクチャの構築を支援するために 5,000 億米ドルを超えるサードパーティ資本を動員すると発表しました。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/JensenHuang/status/2086934705207959965",
+          "source": "X：Jensen Huang (@JensenHuang)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-10T21:56:21Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7595,
+      "importance": 0.7595,
+      "importance_score": 0.7595,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8383,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T21:56:21Z",
+      "latest_at": "2026-08-10T21:56:21Z",
+      "primary_item": {
+        "id": "e0c66622d06ad11febd7df57f1e2a2985c98b30a",
+        "title": "英伟达联合六大机构融资5000亿美元建AI工厂 / http://x.com/i/article/2086933422921117696",
+        "title_zh": "英伟达联合六大机构融资5000亿美元建AI工厂",
+        "title_ja": null,
+        "title_en": "http://x.com/i/article/2086933422921117696",
+        "title_original": "http://x.com/i/article/2086933422921117696",
+        "summary": "英伟达宣布与Apollo、BlackRock、Blackstone、Brookfield、Goldman Sachs和KKR合作，建立独立融资平台，动员超5000亿美元第三方资本支持AI基础设施建设。",
+        "summary_ja": "NVIDIA は、Apollo、BlackRock、Blackstone、Brookfield、Goldman Sachs、KKR と協力して独立した資金調達プラットフォームを確立し、AI インフラストラクチャの構築を支援するために 5,000 億米ドルを超えるサードパーティ資本を動員すると発表しました。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/JensenHuang/status/2086934705207959965",
+        "source": "X：Jensen Huang (@JensenHuang)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-11T10:10:14.077543Z"
+      }
+    },
+    {
+      "story_id": "story_1d745777aa0d",
+      "title": "用 ComfyUI API 实现 MiniMax-H3 多模态视频与音频生成流水线 / Implementing a MiniMax-H3 Multimodal Video and Audio Generation Pipeline with ComfyUI APIs",
+      "title_ja": "ComfyUI API を使用した MiniMax-H3 マルチモーダル ビデオおよびオーディオ生成パイプラインの実装",
+      "url": "https://www.marktechpost.com/2026/08/10/implementing-a-minimax-h3-multimodal-video-and-audio-generation-pipeline-with-comfyui-apis",
+      "primary_url": "https://www.marktechpost.com/2026/08/10/implementing-a-minimax-h3-multimodal-video-and-audio-generation-pipeline-with-comfyui-apis",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5af023feb5917b0420ac99ebd023db76d69db035",
+          "title": "用 ComfyUI API 实现 MiniMax-H3 多模态视频与音频生成流水线 / Implementing a MiniMax-H3 Multimodal Video and Audio Generation Pipeline with ComfyUI APIs",
+          "title_zh": "用 ComfyUI API 实现 MiniMax-H3 多模态视频与音频生成流水线",
+          "title_ja": "ComfyUI API を使用した MiniMax-H3 マルチモーダル ビデオおよびオーディオ生成パイプラインの実装",
+          "title_en": "Implementing a MiniMax-H3 Multimodal Video and Audio Generation Pipeline with ComfyUI APIs",
+          "title_original": "Implementing a MiniMax-H3 Multimodal Video and Audio Generation Pipeline with ComfyUI APIs",
+          "summary": "本教程演示如何以 ComfyUI 为无头推理后端，构建端到端的 MiniMax-H3 视频生成工作流。通过 Python 直接构建执行图，支持文生视频、首尾帧条件生成和参考图像条件生成，并自动根据 GPU 显存选择 quality、balanced、squeeze 三种权重配置。流水线涵盖模型自动下载、节点模式校验、音视频联合解码与进度监控，无需图形界面即可复现实验。",
+          "summary_ja": "このチュートリアルでは、ヘッドレス推論バックエンドとして ComfyUI を使用して、エンドツーエンドの MiniMax-H3 ビデオ生成ワークフローを構築する方法を示します。実行グラフは Python を通じて直接構築され、Vincent ビデオ、最初と最後のフレーム条件生成、参照画像条件生成をサポートし、GPU メモリに応じて品質、バランス、スクイーズの 3 つの重み設定を自動的に選択します。このパイプラインは、モデルの自動ダウンロード、ノード モードの検証、音声とビデオの共同デコード、進行状況の監視をカバーしており、実験はグラフィカル インターフェイスなしで再現できます。",
+          "recommend_reason_zh": null,
+          "url": "https://www.marktechpost.com/2026/08/10/implementing-a-minimax-h3-multimodal-video-and-audio-generation-pipeline-with-comfyui-apis",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T05:44:38Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "5af023feb5917b0420ac99ebd023db76d69db035",
+          "title": "用 ComfyUI API 实现 MiniMax-H3 多模态视频与音频生成流水线 / Implementing a MiniMax-H3 Multimodal Video and Audio Generation Pipeline with ComfyUI APIs",
+          "title_zh": "用 ComfyUI API 实现 MiniMax-H3 多模态视频与音频生成流水线",
+          "title_ja": "ComfyUI API を使用した MiniMax-H3 マルチモーダル ビデオおよびオーディオ生成パイプラインの実装",
+          "title_en": "Implementing a MiniMax-H3 Multimodal Video and Audio Generation Pipeline with ComfyUI APIs",
+          "title_original": "Implementing a MiniMax-H3 Multimodal Video and Audio Generation Pipeline with ComfyUI APIs",
+          "summary": "本教程演示如何以 ComfyUI 为无头推理后端，构建端到端的 MiniMax-H3 视频生成工作流。通过 Python 直接构建执行图，支持文生视频、首尾帧条件生成和参考图像条件生成，并自动根据 GPU 显存选择 quality、balanced、squeeze 三种权重配置。流水线涵盖模型自动下载、节点模式校验、音视频联合解码与进度监控，无需图形界面即可复现实验。",
+          "summary_ja": "このチュートリアルでは、ヘッドレス推論バックエンドとして ComfyUI を使用して、エンドツーエンドの MiniMax-H3 ビデオ生成ワークフローを構築する方法を示します。実行グラフは Python を通じて直接構築され、Vincent ビデオ、最初と最後のフレーム条件生成、参照画像条件生成をサポートし、GPU メモリに応じて品質、バランス、スクイーズの 3 つの重み設定を自動的に選択します。このパイプラインは、モデルの自動ダウンロード、ノード モードの検証、音声とビデオの共同デコード、進行状況の監視をカバーしており、実験はグラフィカル インターフェイスなしで再現できます。",
+          "recommend_reason_zh": null,
+          "url": "https://www.marktechpost.com/2026/08/10/implementing-a-minimax-h3-multimodal-video-and-audio-generation-pipeline-with-comfyui-apis",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T05:44:38Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7565,
+      "importance": 0.7565,
+      "importance_score": 0.7565,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9383,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-11T05:44:38Z",
+      "latest_at": "2026-08-11T05:44:38Z",
+      "primary_item": {
+        "id": "5af023feb5917b0420ac99ebd023db76d69db035",
+        "title": "用 ComfyUI API 实现 MiniMax-H3 多模态视频与音频生成流水线 / Implementing a MiniMax-H3 Multimodal Video and Audio Generation Pipeline with ComfyUI APIs",
+        "title_zh": "用 ComfyUI API 实现 MiniMax-H3 多模态视频与音频生成流水线",
+        "title_ja": "ComfyUI API を使用した MiniMax-H3 マルチモーダル ビデオおよびオーディオ生成パイプラインの実装",
+        "title_en": "Implementing a MiniMax-H3 Multimodal Video and Audio Generation Pipeline with ComfyUI APIs",
+        "title_original": "Implementing a MiniMax-H3 Multimodal Video and Audio Generation Pipeline with ComfyUI APIs",
+        "summary": "本教程演示如何以 ComfyUI 为无头推理后端，构建端到端的 MiniMax-H3 视频生成工作流。通过 Python 直接构建执行图，支持文生视频、首尾帧条件生成和参考图像条件生成，并自动根据 GPU 显存选择 quality、balanced、squeeze 三种权重配置。流水线涵盖模型自动下载、节点模式校验、音视频联合解码与进度监控，无需图形界面即可复现实验。",
+        "summary_ja": "このチュートリアルでは、ヘッドレス推論バックエンドとして ComfyUI を使用して、エンドツーエンドの MiniMax-H3 ビデオ生成ワークフローを構築する方法を示します。実行グラフは Python を通じて直接構築され、Vincent ビデオ、最初と最後のフレーム条件生成、参照画像条件生成をサポートし、GPU メモリに応じて品質、バランス、スクイーズの 3 つの重み設定を自動的に選択します。このパイプラインは、モデルの自動ダウンロード、ノード モードの検証、音声とビデオの共同デコード、進行状況の監視をカバーしており、実験はグラフィカル インターフェイスなしで再現できます。",
+        "recommend_reason_zh": null,
+        "url": "https://www.marktechpost.com/2026/08/10/implementing-a-minimax-h3-multimodal-video-and-audio-generation-pipeline-with-comfyui-apis",
+        "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-11T10:10:14.077543Z"
+      }
+    },
+    {
+      "story_id": "story_1afc977519d1",
+      "title": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
+      "title_ja": "ZCode が完全にアップグレードされました。ゴール、サブエージェント、リモート コントロール、レジャー タスクの 4 つの主要な機能がオンラインになりました。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494052&idx=1&sn=ee3ab3d0f4550e9120927c53a27522c9",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494052&idx=1&sn=ee3ab3d0f4550e9120927c53a27522c9",
+      "source": "公众号：智谱（GLM）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "fcc1f787a8f50694d563e839c3a5df0f5b260040",
+          "title": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
+          "title_zh": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
+          "title_ja": "ZCode が完全にアップグレードされました。ゴール、サブエージェント、リモート コントロール、レジャー タスクの 4 つの主要な機能がオンラインになりました。",
+          "title_en": null,
+          "title_original": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
+          "summary": "ZCode针对GLM深度优化，今日上线Goal、Subagents、Remote Control与闲时任务四大功能。在Z.ai Code Bench测试中，GLM-5.2搭配ZCode较搭配Claude Code任务整体通过率高2.39%；ZCode缓存命中率超98%，叠加1.5倍限时额度加成后，GLM Coding Plan整体使用量接近常规额度的1.8倍。",
+          "summary_ja": "ZCode は GLM 向けに徹底的に最適化されており、本日、ゴール、サブエージェント、リモート コントロール、アイドル タスクという 4 つの主要な機能を開始しました。 Z.ai Code Bench テストでは、ZCode と組み合わせた GLM-5.2 の全体的な合格率は、Claude Code より 2.39% 高かった。 ZCode キャッシュ ヒット率は 98% を超えました。期間限定のクォータ ボーナスの 1.5 倍を追加すると、GLM コーディング プランの全体的な使用量は通常のクォータの 1.8 倍近くになりました。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494052&idx=1&sn=ee3ab3d0f4550e9120927c53a27522c9",
+          "source": "公众号：智谱（GLM）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T05:52:25Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：智谱（GLM）"
+      ],
+      "items": [
+        {
+          "id": "fcc1f787a8f50694d563e839c3a5df0f5b260040",
+          "title": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
+          "title_zh": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
+          "title_ja": "ZCode が完全にアップグレードされました。ゴール、サブエージェント、リモート コントロール、レジャー タスクの 4 つの主要な機能がオンラインになりました。",
+          "title_en": null,
+          "title_original": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
+          "summary": "ZCode针对GLM深度优化，今日上线Goal、Subagents、Remote Control与闲时任务四大功能。在Z.ai Code Bench测试中，GLM-5.2搭配ZCode较搭配Claude Code任务整体通过率高2.39%；ZCode缓存命中率超98%，叠加1.5倍限时额度加成后，GLM Coding Plan整体使用量接近常规额度的1.8倍。",
+          "summary_ja": "ZCode は GLM 向けに徹底的に最適化されており、本日、ゴール、サブエージェント、リモート コントロール、アイドル タスクという 4 つの主要な機能を開始しました。 Z.ai Code Bench テストでは、ZCode と組み合わせた GLM-5.2 の全体的な合格率は、Claude Code より 2.39% 高かった。 ZCode キャッシュ ヒット率は 98% を超えました。期間限定のクォータ ボーナスの 1.5 倍を追加すると、GLM コーディング プランの全体的な使用量は通常のクォータの 1.8 倍近くになりました。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494052&idx=1&sn=ee3ab3d0f4550e9120927c53a27522c9",
+          "source": "公众号：智谱（GLM）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T05:52:25Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7538,
+      "importance": 0.7538,
+      "importance_score": 0.7538,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9401,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-11T05:52:25Z",
+      "latest_at": "2026-08-11T05:52:25Z",
+      "primary_item": {
+        "id": "fcc1f787a8f50694d563e839c3a5df0f5b260040",
+        "title": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
+        "title_zh": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
+        "title_ja": "ZCode が完全にアップグレードされました。ゴール、サブエージェント、リモート コントロール、レジャー タスクの 4 つの主要な機能がオンラインになりました。",
+        "title_en": null,
+        "title_original": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
+        "summary": "ZCode针对GLM深度优化，今日上线Goal、Subagents、Remote Control与闲时任务四大功能。在Z.ai Code Bench测试中，GLM-5.2搭配ZCode较搭配Claude Code任务整体通过率高2.39%；ZCode缓存命中率超98%，叠加1.5倍限时额度加成后，GLM Coding Plan整体使用量接近常规额度的1.8倍。",
+        "summary_ja": "ZCode は GLM 向けに徹底的に最適化されており、本日、ゴール、サブエージェント、リモート コントロール、アイドル タスクという 4 つの主要な機能を開始しました。 Z.ai Code Bench テストでは、ZCode と組み合わせた GLM-5.2 の全体的な合格率は、Claude Code より 2.39% 高かった。 ZCode キャッシュ ヒット率は 98% を超えました。期間限定のクォータ ボーナスの 1.5 倍を追加すると、GLM コーディング プランの全体的な使用量は通常のクォータの 1.8 倍近くになりました。",
+        "recommend_reason_zh": null,
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494052&idx=1&sn=ee3ab3d0f4550e9120927c53a27522c9",
+        "source": "公众号：智谱（GLM）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-11T10:10:14.077543Z"
+      }
+    },
+    {
+      "story_id": "story_88c4bb049e16",
+      "title": "Model ML借助GPT-5.6 Sol更高效地完成财务工作 / Model ML completes finance work more efficiently with GPT-5.6 Sol",
+      "title_ja": "Model ML は GPT-5.6 Sol を使用して財務業務をより効率的に完了します",
+      "url": "https://openai.com/index/model-ml",
+      "primary_url": "https://openai.com/index/model-ml",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "7b7fb4cd8d9595a85bca47cb4ca837b2f123871f",
+          "title": "Model ML借助GPT-5.6 Sol更高效地完成财务工作 / Model ML completes finance work more efficiently with GPT-5.6 Sol",
+          "title_zh": "Model ML借助GPT-5.6 Sol更高效地完成财务工作",
+          "title_ja": "Model ML は GPT-5.6 Sol を使用して財務業務をより効率的に完了します",
+          "title_en": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+          "title_original": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/model-ml",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T12:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "7b7fb4cd8d9595a85bca47cb4ca837b2f123871f",
+          "title": "Model ML借助GPT-5.6 Sol更高效地完成财务工作 / Model ML completes finance work more efficiently with GPT-5.6 Sol",
+          "title_zh": "Model ML借助GPT-5.6 Sol更高效地完成财务工作",
+          "title_ja": "Model ML は GPT-5.6 Sol を使用して財務業務をより効率的に完了します",
+          "title_en": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+          "title_original": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/model-ml",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8107,
+      "importance": 0.8107,
+      "importance_score": 0.8107,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7262,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T12:00:00Z",
+      "latest_at": "2026-08-10T12:00:00Z",
+      "primary_item": {
+        "id": "7b7fb4cd8d9595a85bca47cb4ca837b2f123871f",
+        "title": "Model ML借助GPT-5.6 Sol更高效地完成财务工作 / Model ML completes finance work more efficiently with GPT-5.6 Sol",
+        "title_zh": "Model ML借助GPT-5.6 Sol更高效地完成财务工作",
+        "title_ja": "Model ML は GPT-5.6 Sol を使用して財務業務をより効率的に完了します",
+        "title_en": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+        "title_original": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/model-ml",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-11T10:10:14.077543Z"
       }
     },
     {
@@ -1769,16 +1701,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.798,
-      "importance": 0.798,
-      "importance_score": 0.798,
+      "score": 0.7962,
+      "importance": 0.7962,
+      "importance_score": 0.7962,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7444,
+        "recency": 0.7343,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1807,7 +1739,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T09:15:09.370403Z"
+        "scored_at": "2026-08-11T10:10:14.077543Z"
       }
     },
     {
@@ -1860,16 +1792,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7652,
+      "importance": 0.7652,
+      "importance_score": 0.7652,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9864,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1897,96 +1829,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T09:15:09.370403Z"
-      }
-    },
-    {
-      "story_id": "story_376615090e56",
-      "title": "Scale AI 开源 Muse 系列模型 / 1/ big announcement today： we will be releasing an open weight version of muse spark 1.2 soon. we a…",
-      "title_ja": "1/ 今日の大きな発表：ミューズ スパーク 1.2 のオープンウェイト バージョンを間もなくリリースします。私たちは…",
-      "url": "https://x.com/alexandr_wang/status/2086756152034066792",
-      "primary_url": "https://x.com/alexandr_wang/status/2086756152034066792",
-      "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b7a1d176abd8a43e84fd375862e58907e1fd4ee0",
-          "title": "Scale AI 开源 Muse 系列模型 / 1/ big announcement today： we will be releasing an open weight version of muse spark 1.2 soon. we a…",
-          "title_zh": "Scale AI 开源 Muse 系列模型",
-          "title_ja": "1/ 今日の大きな発表：ミューズ スパーク 1.2 のオープンウェイト バージョンを間もなくリリースします。私たちは…",
-          "title_en": "1/ big announcement today： we will be releasing an open weight version of muse spark 1.2 soon. we a…",
-          "title_original": "1/ big announcement today： we will be releasing an open weight version of muse spark 1.2 soon. we a…",
-          "summary": "1/ 今天有个重大消息：我们很快将发布 Muse Spark 1.2 的开源权重版本。\n\n同时，我们还将发布 Muse Glimmer--一个 30B 参数的智能体模型，采用 Apache 2.0 协议开源权重。Muse Glimmer 可在 24GB 显存上运行，且不损失智能体可靠性。🧵",
-          "summary_ja": "1/ 今日のビッグニュース: Muse Spark 1.2 のオープンソース加重バージョンを間もなくリリースします。\n\n同時に、Apache 2.0 プロトコルの下でオープンソースの重みを使用する 30B パラメーターのエージェント モデルである Muse Glimmer もリリースします。 Muse Glimmer は、エージェントの信頼性を犠牲にすることなく、24 GB のビデオ メモリで実行できます。 🧵",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/alexandr_wang/status/2086756152034066792",
-          "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-10T10:06:51Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)"
-      ],
-      "items": [
-        {
-          "id": "b7a1d176abd8a43e84fd375862e58907e1fd4ee0",
-          "title": "Scale AI 开源 Muse 系列模型 / 1/ big announcement today： we will be releasing an open weight version of muse spark 1.2 soon. we a…",
-          "title_zh": "Scale AI 开源 Muse 系列模型",
-          "title_ja": "1/ 今日の大きな発表：ミューズ スパーク 1.2 のオープンウェイト バージョンを間もなくリリースします。私たちは…",
-          "title_en": "1/ big announcement today： we will be releasing an open weight version of muse spark 1.2 soon. we a…",
-          "title_original": "1/ big announcement today： we will be releasing an open weight version of muse spark 1.2 soon. we a…",
-          "summary": "1/ 今天有个重大消息：我们很快将发布 Muse Spark 1.2 的开源权重版本。\n\n同时，我们还将发布 Muse Glimmer--一个 30B 参数的智能体模型，采用 Apache 2.0 协议开源权重。Muse Glimmer 可在 24GB 显存上运行，且不损失智能体可靠性。🧵",
-          "summary_ja": "1/ 今日のビッグニュース: Muse Spark 1.2 のオープンソース加重バージョンを間もなくリリースします。\n\n同時に、Apache 2.0 プロトコルの下でオープンソースの重みを使用する 30B パラメーターのエージェント モデルである Muse Glimmer もリリースします。 Muse Glimmer は、エージェントの信頼性を犠牲にすることなく、24 GB のビデオ メモリで実行できます。 🧵",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/alexandr_wang/status/2086756152034066792",
-          "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-10T10:06:51Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7316,
-      "importance": 0.7316,
-      "importance_score": 0.7316,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7164,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-10T10:06:51Z",
-      "latest_at": "2026-08-10T10:06:51Z",
-      "primary_item": {
-        "id": "b7a1d176abd8a43e84fd375862e58907e1fd4ee0",
-        "title": "Scale AI 开源 Muse 系列模型 / 1/ big announcement today： we will be releasing an open weight version of muse spark 1.2 soon. we a…",
-        "title_zh": "Scale AI 开源 Muse 系列模型",
-        "title_ja": "1/ 今日の大きな発表：ミューズ スパーク 1.2 のオープンウェイト バージョンを間もなくリリースします。私たちは…",
-        "title_en": "1/ big announcement today： we will be releasing an open weight version of muse spark 1.2 soon. we a…",
-        "title_original": "1/ big announcement today： we will be releasing an open weight version of muse spark 1.2 soon. we a…",
-        "summary": "1/ 今天有个重大消息：我们很快将发布 Muse Spark 1.2 的开源权重版本。\n\n同时，我们还将发布 Muse Glimmer--一个 30B 参数的智能体模型，采用 Apache 2.0 协议开源权重。Muse Glimmer 可在 24GB 显存上运行，且不损失智能体可靠性。🧵",
-        "summary_ja": "1/ 今日のビッグニュース: Muse Spark 1.2 のオープンソース加重バージョンを間もなくリリースします。\n\n同時に、Apache 2.0 プロトコルの下でオープンソースの重みを使用する 30B パラメーターのエージェント モデルである Muse Glimmer もリリースします。 Muse Glimmer は、エージェントの信頼性を犠牲にすることなく、24 GB のビデオ メモリで実行できます。 🧵",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/alexandr_wang/status/2086756152034066792",
-        "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-11T09:15:09.370403Z"
+        "scored_at": "2026-08-11T10:10:14.077543Z"
       }
     },
     {
@@ -2039,16 +1882,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7246,
-      "importance": 0.7246,
-      "importance_score": 0.7246,
+      "score": 0.7225,
+      "importance": 0.7225,
+      "importance_score": 0.7225,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.878,
+        "recency": 0.8661,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -2075,7 +1918,96 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T09:15:09.370403Z"
+        "scored_at": "2026-08-11T10:10:14.077543Z"
+      }
+    },
+    {
+      "story_id": "story_6fad64e0197b",
+      "title": "智能体真的会用电脑吗？a16z 用数据给出答案 / Can Agents Use a Computer Yet？ We've Got the Data",
+      "title_ja": "エージェントはまだコンピュータを使用できますか? データはあります",
+      "url": "https://www.a16z.news/p/can-agents-use-a-computer-yet-weve",
+      "primary_url": "https://www.a16z.news/p/can-agents-use-a-computer-yet-weve",
+      "source": "a16z：News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c4244d84690cb2d2f343792b4891365042907e91",
+          "title": "智能体真的会用电脑吗？a16z 用数据给出答案 / Can Agents Use a Computer Yet？ We've Got the Data",
+          "title_zh": "智能体真的会用电脑吗？a16z 用数据给出答案",
+          "title_ja": "エージェントはまだコンピュータを使用できますか? データはあります",
+          "title_en": "Can Agents Use a Computer Yet？ We've Got the Data",
+          "title_original": "Can Agents Use a Computer Yet？ We've Got the Data",
+          "summary": "a16z 数据显示，计算机操作智能体在 OSWorld-Verified 基准上的最佳成绩已从一年前的 42% 升至 85%，超过人类测试者约 72% 的水平，Claude Fable 5 以 85% 领先。",
+          "summary_ja": "a16z データによると、OSWorld-Verified ベンチマークにおけるコンピューター操作エージェントの最高スコアは、1 年前の 42% から 85% に上昇し、人間のテスターの約 72% を上回り、Claude Fable 5 が 85% でトップとなっています。",
+          "recommend_reason_zh": null,
+          "url": "https://www.a16z.news/p/can-agents-use-a-computer-yet-weve",
+          "source": "a16z：News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-10T14:00:46Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "a16z：News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "c4244d84690cb2d2f343792b4891365042907e91",
+          "title": "智能体真的会用电脑吗？a16z 用数据给出答案 / Can Agents Use a Computer Yet？ We've Got the Data",
+          "title_zh": "智能体真的会用电脑吗？a16z 用数据给出答案",
+          "title_ja": "エージェントはまだコンピュータを使用できますか? データはあります",
+          "title_en": "Can Agents Use a Computer Yet？ We've Got the Data",
+          "title_original": "Can Agents Use a Computer Yet？ We've Got the Data",
+          "summary": "a16z 数据显示，计算机操作智能体在 OSWorld-Verified 基准上的最佳成绩已从一年前的 42% 升至 85%，超过人类测试者约 72% 的水平，Claude Fable 5 以 85% 领先。",
+          "summary_ja": "a16z データによると、OSWorld-Verified ベンチマークにおけるコンピューター操作エージェントの最高スコアは、1 年前の 42% から 85% に上昇し、人間のテスターの約 72% を上回り、Claude Fable 5 が 85% でトップとなっています。",
+          "recommend_reason_zh": null,
+          "url": "https://www.a16z.news/p/can-agents-use-a-computer-yet-weve",
+          "source": "a16z：News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-10T14:00:46Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7222,
+      "importance": 0.7222,
+      "importance_score": 0.7222,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7476,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-10T14:00:46Z",
+      "latest_at": "2026-08-10T14:00:46Z",
+      "primary_item": {
+        "id": "c4244d84690cb2d2f343792b4891365042907e91",
+        "title": "智能体真的会用电脑吗？a16z 用数据给出答案 / Can Agents Use a Computer Yet？ We've Got the Data",
+        "title_zh": "智能体真的会用电脑吗？a16z 用数据给出答案",
+        "title_ja": "エージェントはまだコンピュータを使用できますか? データはあります",
+        "title_en": "Can Agents Use a Computer Yet？ We've Got the Data",
+        "title_original": "Can Agents Use a Computer Yet？ We've Got the Data",
+        "summary": "a16z 数据显示，计算机操作智能体在 OSWorld-Verified 基准上的最佳成绩已从一年前的 42% 升至 85%，超过人类测试者约 72% 的水平，Claude Fable 5 以 85% 领先。",
+        "summary_ja": "a16z データによると、OSWorld-Verified ベンチマークにおけるコンピューター操作エージェントの最高スコアは、1 年前の 42% から 85% に上昇し、人間のテスターの約 72% を上回り、Claude Fable 5 が 85% でトップとなっています。",
+        "recommend_reason_zh": null,
+        "url": "https://www.a16z.news/p/can-agents-use-a-computer-yet-weve",
+        "source": "a16z：News（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-11T10:10:14.077543Z"
       }
     }
   ]
