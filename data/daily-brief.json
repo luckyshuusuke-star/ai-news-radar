@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T04:38:07.785869Z",
+  "generated_at": "2026-08-11T06:02:41.300781Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -185,16 +185,16 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.9177,
-      "importance": 0.9177,
-      "importance_score": 0.9177,
+      "score": 0.9148,
+      "importance": 0.9148,
+      "importance_score": 0.9148,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8095,
+        "recency": 0.7932,
         "story_heat": 1.0
       },
       "category": "official",
@@ -224,7 +224,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T04:39:06.761908Z"
+        "scored_at": "2026-08-11T06:03:56.511815Z"
       }
     },
     {
@@ -277,16 +277,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8309,
-      "importance": 0.8309,
-      "importance_score": 0.8309,
+      "score": 0.8279,
+      "importance": 0.8279,
+      "importance_score": 0.8279,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8384,
+        "recency": 0.8215,
         "story_heat": 0.0
       },
       "category": "official",
@@ -315,7 +315,165 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T04:39:06.761908Z"
+        "scored_at": "2026-08-11T06:03:56.511815Z"
+      }
+    },
+    {
+      "story_id": "story_78643f2f0854",
+      "title": "GPT 5.6 网络安全 / Expanding Daybreak as the Cyber Defense Window Narrows",
+      "title_ja": "サイバー防御の枠が狭まる中、Daybreak を拡大",
+      "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+      "primary_url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5360b7d21091149d76dcd12a52ba8750e544fbae",
+          "title": "GPT 5.6 网络安全 / Expanding Daybreak as the Cyber Defense Window Narrows",
+          "title_zh": "GPT 5.6 网络安全",
+          "title_ja": "サイバー防御の枠が狭まる中、Daybreak を拡大",
+          "title_en": "Expanding Daybreak as the Cyber Defense Window Narrows",
+          "title_original": "Expanding Daybreak as the Cyber Defense Window Narrows",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T10:00:00Z"
+        },
+        {
+          "id": "d53e1173335713948c031579c35493314db7562c",
+          "title": "GPT 5.6 网络安全",
+          "title_zh": "GPT 5.6 网络安全",
+          "title_ja": "GPT 5.6 ネットワークセキュリティ",
+          "title_en": null,
+          "title_original": "GPT 5.6 网络安全",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-11T05:46:03.587000Z"
+        },
+        {
+          "id": "95b1b933484992e4ce5309f0273f9f60cf9243d0",
+          "title": "GPT 5.6 网络安全 / GPT 5.6 Cyber",
+          "title_zh": "GPT 5.6 网络安全",
+          "title_ja": "GPT 5.6 サイバー",
+          "title_en": "GPT 5.6 Cyber",
+          "title_original": "GPT 5.6 Cyber",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-10T17:14:00Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "OpenAI News",
+        "openai.com"
+      ],
+      "items": [
+        {
+          "id": "5360b7d21091149d76dcd12a52ba8750e544fbae",
+          "title": "GPT 5.6 网络安全 / Expanding Daybreak as the Cyber Defense Window Narrows",
+          "title_zh": "GPT 5.6 网络安全",
+          "title_ja": "サイバー防御の枠が狭まる中、Daybreak を拡大",
+          "title_en": "Expanding Daybreak as the Cyber Defense Window Narrows",
+          "title_original": "Expanding Daybreak as the Cyber Defense Window Narrows",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T10:00:00Z"
+        },
+        {
+          "id": "d53e1173335713948c031579c35493314db7562c",
+          "title": "GPT 5.6 网络安全",
+          "title_zh": "GPT 5.6 网络安全",
+          "title_ja": "GPT 5.6 ネットワークセキュリティ",
+          "title_en": null,
+          "title_original": "GPT 5.6 网络安全",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-11T05:46:03.587000Z"
+        },
+        {
+          "id": "95b1b933484992e4ce5309f0273f9f60cf9243d0",
+          "title": "GPT 5.6 网络安全 / GPT 5.6 Cyber",
+          "title_zh": "GPT 5.6 网络安全",
+          "title_ja": "GPT 5.6 サイバー",
+          "title_en": "GPT 5.6 Cyber",
+          "title_original": "GPT 5.6 Cyber",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-10T17:14:00Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8568,
+      "importance": 0.8568,
+      "importance_score": 0.8568,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7487,
+        "story_heat": 0.5
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T10:00:00Z",
+      "latest_at": "2026-08-11T05:46:03.587000Z",
+      "primary_item": {
+        "id": "5360b7d21091149d76dcd12a52ba8750e544fbae",
+        "title": "GPT 5.6 网络安全 / Expanding Daybreak as the Cyber Defense Window Narrows",
+        "title_zh": "GPT 5.6 网络安全",
+        "title_ja": "サイバー防御の枠が狭まる中、Daybreak を拡大",
+        "title_en": "Expanding Daybreak as the Cyber Defense Window Narrows",
+        "title_original": "Expanding Daybreak as the Cyber Defense Window Narrows",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-11T06:03:56.511815Z"
       }
     },
     {
@@ -368,16 +526,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8298,
-      "importance": 0.8298,
-      "importance_score": 0.8298,
+      "score": 0.8266,
+      "importance": 0.8266,
+      "importance_score": 0.8266,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8764,
+        "recency": 0.8588,
         "story_heat": 0.0
       },
       "category": "official",
@@ -406,7 +564,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T04:39:06.761908Z"
+        "scored_at": "2026-08-11T06:03:56.511815Z"
       }
     },
     {
@@ -459,16 +617,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8187,
-      "importance": 0.8187,
-      "importance_score": 0.8187,
+      "score": 0.8157,
+      "importance": 0.8157,
+      "importance_score": 0.8157,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8148,
+        "recency": 0.7984,
         "story_heat": 0.0
       },
       "category": "official",
@@ -497,7 +655,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T04:39:06.761908Z"
+        "scored_at": "2026-08-11T06:03:56.511815Z"
       }
     },
     {
@@ -550,16 +708,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8108,
-      "importance": 0.8108,
-      "importance_score": 0.8108,
+      "score": 0.8078,
+      "importance": 0.8078,
+      "importance_score": 0.8078,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8154,
+        "recency": 0.7989,
         "story_heat": 0.0
       },
       "category": "official",
@@ -588,7 +746,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T04:39:06.761908Z"
+        "scored_at": "2026-08-11T06:03:56.511815Z"
       }
     },
     {
@@ -740,16 +898,16 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8084,
-      "importance": 0.8084,
-      "importance_score": 0.8084,
+      "score": 0.8055,
+      "importance": 0.8055,
+      "importance_score": 0.8055,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8102,
+        "recency": 0.7938,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -778,132 +936,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T04:39:06.761908Z"
-      }
-    },
-    {
-      "story_id": "story_78643f2f0854",
-      "title": "随着网络防御窗口的缩小，黎明时间的扩大 / Expanding Daybreak as the Cyber Defense Window Narrows",
-      "title_ja": "サイバー防御の枠が狭まる中、Daybreak を拡大",
-      "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-      "primary_url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5360b7d21091149d76dcd12a52ba8750e544fbae",
-          "title": "随着网络防御窗口的缩小，黎明时间的扩大 / Expanding Daybreak as the Cyber Defense Window Narrows",
-          "title_zh": "随着网络防御窗口的缩小，黎明时间的扩大",
-          "title_ja": "サイバー防御の枠が狭まる中、Daybreak を拡大",
-          "title_en": "Expanding Daybreak as the Cyber Defense Window Narrows",
-          "title_original": "Expanding Daybreak as the Cyber Defense Window Narrows",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T10:00:00Z"
-        },
-        {
-          "id": "95b1b933484992e4ce5309f0273f9f60cf9243d0",
-          "title": "GPT 5.6 Cyber",
-          "title_zh": null,
-          "title_ja": "GPT 5.6 サイバー",
-          "title_en": "GPT 5.6 Cyber",
-          "title_original": "GPT 5.6 Cyber",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-10T17:14:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "5360b7d21091149d76dcd12a52ba8750e544fbae",
-          "title": "随着网络防御窗口的缩小，黎明时间的扩大 / Expanding Daybreak as the Cyber Defense Window Narrows",
-          "title_zh": "随着网络防御窗口的缩小，黎明时间的扩大",
-          "title_ja": "サイバー防御の枠が狭まる中、Daybreak を拡大",
-          "title_en": "Expanding Daybreak as the Cyber Defense Window Narrows",
-          "title_original": "Expanding Daybreak as the Cyber Defense Window Narrows",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T10:00:00Z"
-        },
-        {
-          "id": "95b1b933484992e4ce5309f0273f9f60cf9243d0",
-          "title": "GPT 5.6 Cyber",
-          "title_zh": null,
-          "title_ja": "GPT 5.6 サイバー",
-          "title_en": "GPT 5.6 Cyber",
-          "title_original": "GPT 5.6 Cyber",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-10T17:14:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8345,
-      "importance": 0.8345,
-      "importance_score": 0.8345,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7641,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-10T10:00:00Z",
-      "latest_at": "2026-08-10T17:14:00Z",
-      "primary_item": {
-        "id": "5360b7d21091149d76dcd12a52ba8750e544fbae",
-        "title": "随着网络防御窗口的缩小，黎明时间的扩大 / Expanding Daybreak as the Cyber Defense Window Narrows",
-        "title_zh": "随着网络防御窗口的缩小，黎明时间的扩大",
-        "title_ja": "サイバー防御の枠が狭まる中、Daybreak を拡大",
-        "title_en": "Expanding Daybreak as the Cyber Defense Window Narrows",
-        "title_original": "Expanding Daybreak as the Cyber Defense Window Narrows",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-11T04:39:06.761908Z"
+        "scored_at": "2026-08-11T06:03:56.511815Z"
       }
     },
     {
@@ -956,16 +989,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8177,
-      "importance": 0.8177,
-      "importance_score": 0.8177,
+      "score": 0.8149,
+      "importance": 0.8149,
+      "importance_score": 0.8149,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7651,
+        "recency": 0.7497,
         "story_heat": 0.0
       },
       "category": "official",
@@ -994,7 +1027,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T04:39:06.761908Z"
+        "scored_at": "2026-08-11T06:03:56.511815Z"
       }
     },
     {
@@ -1047,16 +1080,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7869,
-      "importance": 0.7869,
-      "importance_score": 0.7869,
+      "score": 0.7833,
+      "importance": 0.7833,
+      "importance_score": 0.7833,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9904,
+        "recency": 0.9704,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1084,7 +1117,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T04:39:06.761908Z"
+        "scored_at": "2026-08-11T06:03:56.511815Z"
       }
     },
     {
@@ -1137,16 +1170,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8097,
-      "importance": 0.8097,
-      "importance_score": 0.8097,
+      "score": 0.8068,
+      "importance": 0.8068,
+      "importance_score": 0.8068,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8097,
+        "recency": 0.7934,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1175,7 +1208,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T04:39:06.761908Z"
+        "scored_at": "2026-08-11T06:03:56.511815Z"
       }
     },
     {
@@ -1228,16 +1261,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7769,
-      "importance": 0.7769,
-      "importance_score": 0.7769,
+      "score": 0.7739,
+      "importance": 0.7739,
+      "importance_score": 0.7739,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.833,
+        "recency": 0.8162,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1265,7 +1298,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T04:39:06.761908Z"
+        "scored_at": "2026-08-11T06:03:56.511815Z"
       }
     },
     {
@@ -1318,16 +1351,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.772,
-      "importance": 0.772,
-      "importance_score": 0.772,
+      "score": 0.7687,
+      "importance": 0.7687,
+      "importance_score": 0.7687,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9078,
+        "recency": 0.8895,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1355,33 +1388,33 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T04:39:06.761908Z"
+        "scored_at": "2026-08-11T06:03:56.511815Z"
       }
     },
     {
-      "story_id": "story_aa2cc290b136",
-      "title": "千问上线AI硬件开放平台，支持开发者自建眼镜“超能力”",
-      "title_ja": "Qianwen、開発者が「超能力」を備えた独自のメガネを構築できるようサポートする AI ハードウェア オープン プラットフォームを立ち上げる",
-      "url": "https://www.aibase.com/news/30239",
-      "primary_url": "https://www.aibase.com/news/30239",
+      "story_id": "story_3cab6a09b116",
+      "title": "OpenAI 推出 GPT-5.6-Cyber 网络安全专用模型：零日漏洞发现率飙升，攻防博弈进入 AI 自动化时代",
+      "title_ja": "OpenAI、GPT-5.6-サイバーネットワークセキュリティ専用モデルを発売：ゼロデイ脆弱性の発見率が急上昇、攻防はAI自動化の時代へ",
+      "url": "https://www.aibase.com/news/30241",
+      "primary_url": "https://www.aibase.com/news/30241",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "f9e1e0be7c695b0145bfd5ab367c16b0087679ef",
-          "title": "千问上线AI硬件开放平台，支持开发者自建眼镜“超能力”",
-          "title_zh": "千问上线AI硬件开放平台，支持开发者自建眼镜“超能力”",
-          "title_ja": "Qianwen、開発者が「超能力」を備えた独自のメガネを構築できるようサポートする AI ハードウェア オープン プラットフォームを立ち上げる",
+          "id": "1a85a9d2a652503249aa57bac7e6777f69c64cbf",
+          "title": "OpenAI 推出 GPT-5.6-Cyber 网络安全专用模型：零日漏洞发现率飙升，攻防博弈进入 AI 自动化时代",
+          "title_zh": "OpenAI 推出 GPT-5.6-Cyber 网络安全专用模型：零日漏洞发现率飙升，攻防博弈进入 AI 自动化时代",
+          "title_ja": "OpenAI、GPT-5.6-サイバーネットワークセキュリティ専用モデルを発売：ゼロデイ脆弱性の発見率が急上昇、攻防はAI自動化の時代へ",
           "title_en": null,
-          "title_original": "千问上线AI硬件开放平台，支持开发者自建眼镜“超能力”",
+          "title_original": "OpenAI 推出 GPT-5.6-Cyber 网络安全专用模型：零日漏洞发现率飙升，攻防博弈进入 AI 自动化时代",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30239",
+          "url": "https://www.aibase.com/news/30241",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-11T04:38:07.785869Z"
+          "published_at": "2026-08-11T06:02:41.300781Z"
         }
       ],
       "source_count": 1,
@@ -1390,20 +1423,20 @@
       ],
       "items": [
         {
-          "id": "f9e1e0be7c695b0145bfd5ab367c16b0087679ef",
-          "title": "千问上线AI硬件开放平台，支持开发者自建眼镜“超能力”",
-          "title_zh": "千问上线AI硬件开放平台，支持开发者自建眼镜“超能力”",
-          "title_ja": "Qianwen、開発者が「超能力」を備えた独自のメガネを構築できるようサポートする AI ハードウェア オープン プラットフォームを立ち上げる",
+          "id": "1a85a9d2a652503249aa57bac7e6777f69c64cbf",
+          "title": "OpenAI 推出 GPT-5.6-Cyber 网络安全专用模型：零日漏洞发现率飙升，攻防博弈进入 AI 自动化时代",
+          "title_zh": "OpenAI 推出 GPT-5.6-Cyber 网络安全专用模型：零日漏洞发现率飙升，攻防博弈进入 AI 自动化时代",
+          "title_ja": "OpenAI、GPT-5.6-サイバーネットワークセキュリティ専用モデルを発売：ゼロデイ脆弱性の発見率が急上昇、攻防はAI自動化の時代へ",
           "title_en": null,
-          "title_original": "千问上线AI硬件开放平台，支持开发者自建眼镜“超能力”",
+          "title_original": "OpenAI 推出 GPT-5.6-Cyber 网络安全专用模型：零日漏洞发现率飙升，攻防博弈进入 AI 自动化时代",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30239",
+          "url": "https://www.aibase.com/news/30241",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-11T04:38:07.785869Z"
+          "published_at": "2026-08-11T06:02:41.300781Z"
         }
       ],
       "item_count": 1,
@@ -1425,19 +1458,19 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-11T04:38:07.785869Z",
-      "latest_at": "2026-08-11T04:38:07.785869Z",
+      "earliest_at": "2026-08-11T06:02:41.300781Z",
+      "latest_at": "2026-08-11T06:02:41.300781Z",
       "primary_item": {
-        "id": "f9e1e0be7c695b0145bfd5ab367c16b0087679ef",
-        "title": "千问上线AI硬件开放平台，支持开发者自建眼镜“超能力”",
-        "title_zh": "千问上线AI硬件开放平台，支持开发者自建眼镜“超能力”",
-        "title_ja": "Qianwen、開発者が「超能力」を備えた独自のメガネを構築できるようサポートする AI ハードウェア オープン プラットフォームを立ち上げる",
+        "id": "1a85a9d2a652503249aa57bac7e6777f69c64cbf",
+        "title": "OpenAI 推出 GPT-5.6-Cyber 网络安全专用模型：零日漏洞发现率飙升，攻防博弈进入 AI 自动化时代",
+        "title_zh": "OpenAI 推出 GPT-5.6-Cyber 网络安全专用模型：零日漏洞发现率飙升，攻防博弈进入 AI 自动化时代",
+        "title_ja": "OpenAI、GPT-5.6-サイバーネットワークセキュリティ専用モデルを発売：ゼロデイ脆弱性の発見率が急上昇、攻防はAI自動化の時代へ",
         "title_en": null,
-        "title_original": "千问上线AI硬件开放平台，支持开发者自建眼镜“超能力”",
+        "title_original": "OpenAI 推出 GPT-5.6-Cyber 网络安全专用模型：零日漏洞发现率飙升，攻防博弈进入 AI 自动化时代",
         "summary": null,
         "summary_ja": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30239",
+        "url": "https://www.aibase.com/news/30241",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1445,7 +1478,187 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T04:39:06.761908Z"
+        "scored_at": "2026-08-11T06:03:56.511815Z"
+      }
+    },
+    {
+      "story_id": "story_1d745777aa0d",
+      "title": "用 ComfyUI API 实现 MiniMax-H3 多模态视频与音频生成流水线 / Implementing a MiniMax-H3 Multimodal Video and Audio Generation Pipeline with ComfyUI APIs",
+      "title_ja": "ComfyUI API を使用した MiniMax-H3 マルチモーダル ビデオおよびオーディオ生成パイプラインの実装",
+      "url": "https://www.marktechpost.com/2026/08/10/implementing-a-minimax-h3-multimodal-video-and-audio-generation-pipeline-with-comfyui-apis",
+      "primary_url": "https://www.marktechpost.com/2026/08/10/implementing-a-minimax-h3-multimodal-video-and-audio-generation-pipeline-with-comfyui-apis",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5af023feb5917b0420ac99ebd023db76d69db035",
+          "title": "用 ComfyUI API 实现 MiniMax-H3 多模态视频与音频生成流水线 / Implementing a MiniMax-H3 Multimodal Video and Audio Generation Pipeline with ComfyUI APIs",
+          "title_zh": "用 ComfyUI API 实现 MiniMax-H3 多模态视频与音频生成流水线",
+          "title_ja": "ComfyUI API を使用した MiniMax-H3 マルチモーダル ビデオおよびオーディオ生成パイプラインの実装",
+          "title_en": "Implementing a MiniMax-H3 Multimodal Video and Audio Generation Pipeline with ComfyUI APIs",
+          "title_original": "Implementing a MiniMax-H3 Multimodal Video and Audio Generation Pipeline with ComfyUI APIs",
+          "summary": "本教程演示如何以 ComfyUI 为无头推理后端，构建端到端的 MiniMax-H3 视频生成工作流。通过 Python 直接构建执行图，支持文生视频、首尾帧条件生成和参考图像条件生成，并自动根据 GPU 显存选择 quality、balanced、squeeze 三种权重配置。流水线涵盖模型自动下载、节点模式校验、音视频联合解码与进度监控，无需图形界面即可复现实验。",
+          "summary_ja": "このチュートリアルでは、ヘッドレス推論バックエンドとして ComfyUI を使用して、エンドツーエンドの MiniMax-H3 ビデオ生成ワークフローを構築する方法を示します。実行グラフは Python を通じて直接構築され、Vincent ビデオ、最初と最後のフレーム条件生成、参照画像条件生成をサポートし、GPU メモリに応じて品質、バランス、スクイーズの 3 つの重み設定を自動的に選択します。このパイプラインは、モデルの自動ダウンロード、ノード モードの検証、音声とビデオの共同デコード、進行状況の監視をカバーしており、実験はグラフィカル インターフェイスなしで再現できます。",
+          "recommend_reason_zh": null,
+          "url": "https://www.marktechpost.com/2026/08/10/implementing-a-minimax-h3-multimodal-video-and-audio-generation-pipeline-with-comfyui-apis",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T05:44:38Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "5af023feb5917b0420ac99ebd023db76d69db035",
+          "title": "用 ComfyUI API 实现 MiniMax-H3 多模态视频与音频生成流水线 / Implementing a MiniMax-H3 Multimodal Video and Audio Generation Pipeline with ComfyUI APIs",
+          "title_zh": "用 ComfyUI API 实现 MiniMax-H3 多模态视频与音频生成流水线",
+          "title_ja": "ComfyUI API を使用した MiniMax-H3 マルチモーダル ビデオおよびオーディオ生成パイプラインの実装",
+          "title_en": "Implementing a MiniMax-H3 Multimodal Video and Audio Generation Pipeline with ComfyUI APIs",
+          "title_original": "Implementing a MiniMax-H3 Multimodal Video and Audio Generation Pipeline with ComfyUI APIs",
+          "summary": "本教程演示如何以 ComfyUI 为无头推理后端，构建端到端的 MiniMax-H3 视频生成工作流。通过 Python 直接构建执行图，支持文生视频、首尾帧条件生成和参考图像条件生成，并自动根据 GPU 显存选择 quality、balanced、squeeze 三种权重配置。流水线涵盖模型自动下载、节点模式校验、音视频联合解码与进度监控，无需图形界面即可复现实验。",
+          "summary_ja": "このチュートリアルでは、ヘッドレス推論バックエンドとして ComfyUI を使用して、エンドツーエンドの MiniMax-H3 ビデオ生成ワークフローを構築する方法を示します。実行グラフは Python を通じて直接構築され、Vincent ビデオ、最初と最後のフレーム条件生成、参照画像条件生成をサポートし、GPU メモリに応じて品質、バランス、スクイーズの 3 つの重み設定を自動的に選択します。このパイプラインは、モデルの自動ダウンロード、ノード モードの検証、音声とビデオの共同デコード、進行状況の監視をカバーしており、実験はグラフィカル インターフェイスなしで再現できます。",
+          "recommend_reason_zh": null,
+          "url": "https://www.marktechpost.com/2026/08/10/implementing-a-minimax-h3-multimodal-video-and-audio-generation-pipeline-with-comfyui-apis",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T05:44:38Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7668,
+      "importance": 0.7668,
+      "importance_score": 0.7668,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9957,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-11T05:44:38Z",
+      "latest_at": "2026-08-11T05:44:38Z",
+      "primary_item": {
+        "id": "5af023feb5917b0420ac99ebd023db76d69db035",
+        "title": "用 ComfyUI API 实现 MiniMax-H3 多模态视频与音频生成流水线 / Implementing a MiniMax-H3 Multimodal Video and Audio Generation Pipeline with ComfyUI APIs",
+        "title_zh": "用 ComfyUI API 实现 MiniMax-H3 多模态视频与音频生成流水线",
+        "title_ja": "ComfyUI API を使用した MiniMax-H3 マルチモーダル ビデオおよびオーディオ生成パイプラインの実装",
+        "title_en": "Implementing a MiniMax-H3 Multimodal Video and Audio Generation Pipeline with ComfyUI APIs",
+        "title_original": "Implementing a MiniMax-H3 Multimodal Video and Audio Generation Pipeline with ComfyUI APIs",
+        "summary": "本教程演示如何以 ComfyUI 为无头推理后端，构建端到端的 MiniMax-H3 视频生成工作流。通过 Python 直接构建执行图，支持文生视频、首尾帧条件生成和参考图像条件生成，并自动根据 GPU 显存选择 quality、balanced、squeeze 三种权重配置。流水线涵盖模型自动下载、节点模式校验、音视频联合解码与进度监控，无需图形界面即可复现实验。",
+        "summary_ja": "このチュートリアルでは、ヘッドレス推論バックエンドとして ComfyUI を使用して、エンドツーエンドの MiniMax-H3 ビデオ生成ワークフローを構築する方法を示します。実行グラフは Python を通じて直接構築され、Vincent ビデオ、最初と最後のフレーム条件生成、参照画像条件生成をサポートし、GPU メモリに応じて品質、バランス、スクイーズの 3 つの重み設定を自動的に選択します。このパイプラインは、モデルの自動ダウンロード、ノード モードの検証、音声とビデオの共同デコード、進行状況の監視をカバーしており、実験はグラフィカル インターフェイスなしで再現できます。",
+        "recommend_reason_zh": null,
+        "url": "https://www.marktechpost.com/2026/08/10/implementing-a-minimax-h3-multimodal-video-and-audio-generation-pipeline-with-comfyui-apis",
+        "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-11T06:03:56.511815Z"
+      }
+    },
+    {
+      "story_id": "story_1afc977519d1",
+      "title": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
+      "title_ja": "ZCode が完全にアップグレードされました。ゴール、サブエージェント、リモート コントロール、レジャー タスクの 4 つの主要な機能がオンラインになりました。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494052&idx=1&sn=ee3ab3d0f4550e9120927c53a27522c9",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494052&idx=1&sn=ee3ab3d0f4550e9120927c53a27522c9",
+      "source": "公众号：智谱（GLM）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "fcc1f787a8f50694d563e839c3a5df0f5b260040",
+          "title": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
+          "title_zh": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
+          "title_ja": "ZCode が完全にアップグレードされました。ゴール、サブエージェント、リモート コントロール、レジャー タスクの 4 つの主要な機能がオンラインになりました。",
+          "title_en": null,
+          "title_original": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
+          "summary": "ZCode针对GLM深度优化，今日上线Goal、Subagents、Remote Control与闲时任务四大功能。在Z.ai Code Bench测试中，GLM-5.2搭配ZCode较搭配Claude Code任务整体通过率高2.39%；ZCode缓存命中率超98%，叠加1.5倍限时额度加成后，GLM Coding Plan整体使用量接近常规额度的1.8倍。",
+          "summary_ja": "ZCode は GLM 向けに徹底的に最適化されており、本日、ゴール、サブエージェント、リモート コントロール、アイドル タスクという 4 つの主要な機能を開始しました。 Z.ai Code Bench テストでは、ZCode と組み合わせた GLM-5.2 の全体的な合格率は、Claude Code より 2.39% 高かった。 ZCode キャッシュ ヒット率は 98% を超えました。期間限定のクォータ ボーナスの 1.5 倍を追加すると、GLM コーディング プランの全体的な使用量は通常のクォータの 1.8 倍近くになりました。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494052&idx=1&sn=ee3ab3d0f4550e9120927c53a27522c9",
+          "source": "公众号：智谱（GLM）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T05:52:25Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：智谱（GLM）"
+      ],
+      "items": [
+        {
+          "id": "fcc1f787a8f50694d563e839c3a5df0f5b260040",
+          "title": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
+          "title_zh": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
+          "title_ja": "ZCode が完全にアップグレードされました。ゴール、サブエージェント、リモート コントロール、レジャー タスクの 4 つの主要な機能がオンラインになりました。",
+          "title_en": null,
+          "title_original": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
+          "summary": "ZCode针对GLM深度优化，今日上线Goal、Subagents、Remote Control与闲时任务四大功能。在Z.ai Code Bench测试中，GLM-5.2搭配ZCode较搭配Claude Code任务整体通过率高2.39%；ZCode缓存命中率超98%，叠加1.5倍限时额度加成后，GLM Coding Plan整体使用量接近常规额度的1.8倍。",
+          "summary_ja": "ZCode は GLM 向けに徹底的に最適化されており、本日、ゴール、サブエージェント、リモート コントロール、アイドル タスクという 4 つの主要な機能を開始しました。 Z.ai Code Bench テストでは、ZCode と組み合わせた GLM-5.2 の全体的な合格率は、Claude Code より 2.39% 高かった。 ZCode キャッシュ ヒット率は 98% を超えました。期間限定のクォータ ボーナスの 1.5 倍を追加すると、GLM コーディング プランの全体的な使用量は通常のクォータの 1.8 倍近くになりました。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494052&idx=1&sn=ee3ab3d0f4550e9120927c53a27522c9",
+          "source": "公众号：智谱（GLM）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T05:52:25Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7642,
+      "importance": 0.7642,
+      "importance_score": 0.7642,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9975,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-11T05:52:25Z",
+      "latest_at": "2026-08-11T05:52:25Z",
+      "primary_item": {
+        "id": "fcc1f787a8f50694d563e839c3a5df0f5b260040",
+        "title": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
+        "title_zh": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
+        "title_ja": "ZCode が完全にアップグレードされました。ゴール、サブエージェント、リモート コントロール、レジャー タスクの 4 つの主要な機能がオンラインになりました。",
+        "title_en": null,
+        "title_original": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
+        "summary": "ZCode针对GLM深度优化，今日上线Goal、Subagents、Remote Control与闲时任务四大功能。在Z.ai Code Bench测试中，GLM-5.2搭配ZCode较搭配Claude Code任务整体通过率高2.39%；ZCode缓存命中率超98%，叠加1.5倍限时额度加成后，GLM Coding Plan整体使用量接近常规额度的1.8倍。",
+        "summary_ja": "ZCode は GLM 向けに徹底的に最適化されており、本日、ゴール、サブエージェント、リモート コントロール、アイドル タスクという 4 つの主要な機能を開始しました。 Z.ai Code Bench テストでは、ZCode と組み合わせた GLM-5.2 の全体的な合格率は、Claude Code より 2.39% 高かった。 ZCode キャッシュ ヒット率は 98% を超えました。期間限定のクォータ ボーナスの 1.5 倍を追加すると、GLM コーディング プランの全体的な使用量は通常のクォータの 1.8 倍近くになりました。",
+        "recommend_reason_zh": null,
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494052&idx=1&sn=ee3ab3d0f4550e9120927c53a27522c9",
+        "source": "公众号：智谱（GLM）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-11T06:03:56.511815Z"
       }
     },
     {
@@ -1498,16 +1711,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8242,
-      "importance": 0.8242,
-      "importance_score": 0.8242,
+      "score": 0.8211,
+      "importance": 0.8211,
+      "importance_score": 0.8211,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8453,
+        "recency": 0.8283,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1536,7 +1749,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T04:39:06.761908Z"
+        "scored_at": "2026-08-11T06:03:56.511815Z"
       }
     },
     {
@@ -1589,16 +1802,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8071,
-      "importance": 0.8071,
-      "importance_score": 0.8071,
+      "score": 0.8042,
+      "importance": 0.8042,
+      "importance_score": 0.8042,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7952,
+        "recency": 0.7792,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1627,7 +1840,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T04:39:06.761908Z"
+        "scored_at": "2026-08-11T06:03:56.511815Z"
       }
     },
     {
@@ -1680,16 +1893,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7404,
-      "importance": 0.7404,
-      "importance_score": 0.7404,
+      "score": 0.7376,
+      "importance": 0.7376,
+      "importance_score": 0.7376,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7653,
+        "recency": 0.7499,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1716,29 +1929,29 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T04:39:06.761908Z"
+        "scored_at": "2026-08-11T06:03:56.511815Z"
       }
     },
     {
-      "story_id": "story_df1b9e27c7c6",
-      "title": "扎克伯格 6500 字 AI 宣言反成靶心",
-      "title_ja": "ザッカーバーグ氏の6,500語のAIマニフェストは的外れであることが判明",
-      "url": "https://www.aibase.com/news/30240",
-      "primary_url": "https://www.aibase.com/news/30240",
+      "story_id": "story_aa2cc290b136",
+      "title": "千问上线AI硬件开放平台，支持开发者自建眼镜“超能力”",
+      "title_ja": "Qianwen、開発者が「超能力」を備えた独自のメガネを構築できるようサポートする AI ハードウェア オープン プラットフォームを立ち上げる",
+      "url": "https://www.aibase.com/news/30239",
+      "primary_url": "https://www.aibase.com/news/30239",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "7a47eac01c7409575713e2385b2dbe1b2e924b76",
-          "title": "扎克伯格 6500 字 AI 宣言反成靶心",
-          "title_zh": "扎克伯格 6500 字 AI 宣言反成靶心",
-          "title_ja": "ザッカーバーグ氏の6,500語のAIマニフェストは的外れであることが判明",
+          "id": "f9e1e0be7c695b0145bfd5ab367c16b0087679ef",
+          "title": "千问上线AI硬件开放平台，支持开发者自建眼镜“超能力”",
+          "title_zh": "千问上线AI硬件开放平台，支持开发者自建眼镜“超能力”",
+          "title_ja": "Qianwen、開発者が「超能力」を備えた独自のメガネを構築できるようサポートする AI ハードウェア オープン プラットフォームを立ち上げる",
           "title_en": null,
-          "title_original": "扎克伯格 6500 字 AI 宣言反成靶心",
+          "title_original": "千问上线AI硬件开放平台，支持开发者自建眼镜“超能力”",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30240",
+          "url": "https://www.aibase.com/news/30239",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1751,16 +1964,16 @@
       ],
       "items": [
         {
-          "id": "7a47eac01c7409575713e2385b2dbe1b2e924b76",
-          "title": "扎克伯格 6500 字 AI 宣言反成靶心",
-          "title_zh": "扎克伯格 6500 字 AI 宣言反成靶心",
-          "title_ja": "ザッカーバーグ氏の6,500語のAIマニフェストは的外れであることが判明",
+          "id": "f9e1e0be7c695b0145bfd5ab367c16b0087679ef",
+          "title": "千问上线AI硬件开放平台，支持开发者自建眼镜“超能力”",
+          "title_zh": "千问上线AI硬件开放平台，支持开发者自建眼镜“超能力”",
+          "title_ja": "Qianwen、開発者が「超能力」を備えた独自のメガネを構築できるようサポートする AI ハードウェア オープン プラットフォームを立ち上げる",
           "title_en": null,
-          "title_original": "扎克伯格 6500 字 AI 宣言反成靶心",
+          "title_original": "千问上线AI硬件开放平台，支持开发者自建眼镜“超能力”",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30240",
+          "url": "https://www.aibase.com/news/30239",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1769,16 +1982,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.764,
+      "importance": 0.764,
+      "importance_score": 0.764,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9799,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1789,16 +2002,16 @@
       "earliest_at": "2026-08-11T04:38:07.785869Z",
       "latest_at": "2026-08-11T04:38:07.785869Z",
       "primary_item": {
-        "id": "7a47eac01c7409575713e2385b2dbe1b2e924b76",
-        "title": "扎克伯格 6500 字 AI 宣言反成靶心",
-        "title_zh": "扎克伯格 6500 字 AI 宣言反成靶心",
-        "title_ja": "ザッカーバーグ氏の6,500語のAIマニフェストは的外れであることが判明",
+        "id": "f9e1e0be7c695b0145bfd5ab367c16b0087679ef",
+        "title": "千问上线AI硬件开放平台，支持开发者自建眼镜“超能力”",
+        "title_zh": "千问上线AI硬件开放平台，支持开发者自建眼镜“超能力”",
+        "title_ja": "Qianwen、開発者が「超能力」を備えた独自のメガネを構築できるようサポートする AI ハードウェア オープン プラットフォームを立ち上げる",
         "title_en": null,
-        "title_original": "扎克伯格 6500 字 AI 宣言反成靶心",
+        "title_original": "千问上线AI硬件开放平台，支持开发者自建眼镜“超能力”",
         "summary": null,
         "summary_ja": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30240",
+        "url": "https://www.aibase.com/news/30239",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1806,7 +2019,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T04:39:06.761908Z"
+        "scored_at": "2026-08-11T06:03:56.511815Z"
       }
     },
     {
@@ -1859,16 +2072,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7354,
-      "importance": 0.7354,
-      "importance_score": 0.7354,
+      "score": 0.732,
+      "importance": 0.732,
+      "importance_score": 0.732,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.938,
+        "recency": 0.9191,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1895,185 +2108,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T04:39:06.761908Z"
-      }
-    },
-    {
-      "story_id": "story_6fad64e0197b",
-      "title": "智能体真的会用电脑吗？a16z 用数据给出答案 / Can Agents Use a Computer Yet？ We've Got the Data",
-      "title_ja": "エージェントはまだコンピュータを使用できますか? データはあります",
-      "url": "https://www.a16z.news/p/can-agents-use-a-computer-yet-weve",
-      "primary_url": "https://www.a16z.news/p/can-agents-use-a-computer-yet-weve",
-      "source": "a16z：News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c4244d84690cb2d2f343792b4891365042907e91",
-          "title": "智能体真的会用电脑吗？a16z 用数据给出答案 / Can Agents Use a Computer Yet？ We've Got the Data",
-          "title_zh": "智能体真的会用电脑吗？a16z 用数据给出答案",
-          "title_ja": "エージェントはまだコンピュータを使用できますか? データはあります",
-          "title_en": "Can Agents Use a Computer Yet？ We've Got the Data",
-          "title_original": "Can Agents Use a Computer Yet？ We've Got the Data",
-          "summary": "a16z 数据显示，计算机操作智能体在 OSWorld-Verified 基准上的最佳成绩已从一年前的 42% 升至 85%，超过人类测试者约 72% 的水平，Claude Fable 5 以 85% 领先。",
-          "summary_ja": "a16z データによると、OSWorld-Verified ベンチマークにおけるコンピューター操作エージェントの最高スコアは、1 年前の 42% から 85% に上昇し、人間のテスターの約 72% を上回り、Claude Fable 5 が 85% でトップとなっています。",
-          "recommend_reason_zh": null,
-          "url": "https://www.a16z.news/p/can-agents-use-a-computer-yet-weve",
-          "source": "a16z：News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-10T14:00:46Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "a16z：News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "c4244d84690cb2d2f343792b4891365042907e91",
-          "title": "智能体真的会用电脑吗？a16z 用数据给出答案 / Can Agents Use a Computer Yet？ We've Got the Data",
-          "title_zh": "智能体真的会用电脑吗？a16z 用数据给出答案",
-          "title_ja": "エージェントはまだコンピュータを使用できますか? データはあります",
-          "title_en": "Can Agents Use a Computer Yet？ We've Got the Data",
-          "title_original": "Can Agents Use a Computer Yet？ We've Got the Data",
-          "summary": "a16z 数据显示，计算机操作智能体在 OSWorld-Verified 基准上的最佳成绩已从一年前的 42% 升至 85%，超过人类测试者约 72% 的水平，Claude Fable 5 以 85% 领先。",
-          "summary_ja": "a16z データによると、OSWorld-Verified ベンチマークにおけるコンピューター操作エージェントの最高スコアは、1 年前の 42% から 85% に上昇し、人間のテスターの約 72% を上回り、Claude Fable 5 が 85% でトップとなっています。",
-          "recommend_reason_zh": null,
-          "url": "https://www.a16z.news/p/can-agents-use-a-computer-yet-weve",
-          "source": "a16z：News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-10T14:00:46Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7333,
-      "importance": 0.7333,
-      "importance_score": 0.7333,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8096,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-10T14:00:46Z",
-      "latest_at": "2026-08-10T14:00:46Z",
-      "primary_item": {
-        "id": "c4244d84690cb2d2f343792b4891365042907e91",
-        "title": "智能体真的会用电脑吗？a16z 用数据给出答案 / Can Agents Use a Computer Yet？ We've Got the Data",
-        "title_zh": "智能体真的会用电脑吗？a16z 用数据给出答案",
-        "title_ja": "エージェントはまだコンピュータを使用できますか? データはあります",
-        "title_en": "Can Agents Use a Computer Yet？ We've Got the Data",
-        "title_original": "Can Agents Use a Computer Yet？ We've Got the Data",
-        "summary": "a16z 数据显示，计算机操作智能体在 OSWorld-Verified 基准上的最佳成绩已从一年前的 42% 升至 85%，超过人类测试者约 72% 的水平，Claude Fable 5 以 85% 领先。",
-        "summary_ja": "a16z データによると、OSWorld-Verified ベンチマークにおけるコンピューター操作エージェントの最高スコアは、1 年前の 42% から 85% に上昇し、人間のテスターの約 72% を上回り、Claude Fable 5 が 85% でトップとなっています。",
-        "recommend_reason_zh": null,
-        "url": "https://www.a16z.news/p/can-agents-use-a-computer-yet-weve",
-        "source": "a16z：News（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-11T04:39:06.761908Z"
-      }
-    },
-    {
-      "story_id": "story_ef9ee5d5df41",
-      "title": "Databricks 如何在兼顾治理的前提下让 Genie Agents 同时基于结构化数据与文档运行 / How to ground Genie Agents in both structured data and documents without losing governance",
-      "title_ja": "ガバナンスを失うことなく構造化データとドキュメントの両方に Genie エージェントを組み込む方法",
-      "url": "https://www.databricks.com/blog/how-ground-genie-agents-both-structured-data-and-documents-without-losing-governance",
-      "primary_url": "https://www.databricks.com/blog/how-ground-genie-agents-both-structured-data-and-documents-without-losing-governance",
-      "source": "Databricks：Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "123277d810480c26bc58f077f9317ab5165ab89f",
-          "title": "Databricks 如何在兼顾治理的前提下让 Genie Agents 同时基于结构化数据与文档运行 / How to ground Genie Agents in both structured data and documents without losing governance",
-          "title_zh": "Databricks 如何在兼顾治理的前提下让 Genie Agents 同时基于结构化数据与文档运行",
-          "title_ja": "ガバナンスを失うことなく構造化データとドキュメントの両方に Genie エージェントを組み込む方法",
-          "title_en": "How to ground Genie Agents in both structured data and documents without losing governance",
-          "title_original": "How to ground Genie Agents in both structured data and documents without losing governance",
-          "summary": "Databricks 介绍如何让 Genie Agents 同时基于结构化数据与文档运行，且不牺牲治理能力。文章探讨了构建自动化简单业务任务的智能体虽易，但要在统一治理框架下融合两类数据源、确保安全合规地执行查询，仍需解决数据权限、血缘追踪与策略管控等关键问题。",
-          "summary_ja": "この記事では、単純なビジネス タスクを自動化するエージェントを構築するのは簡単ですが、統一されたガバナンス フレームワークの下で 2 種類のデータ ソースを統合し、安全かつ準拠したクエリの実行を確保するには、データのアクセス許可、リネージの追跡、ポリシー制御などの重要な問題を解決する必要があることについて説明しています。解決しました。",
-          "recommend_reason_zh": null,
-          "url": "https://www.databricks.com/blog/how-ground-genie-agents-both-structured-data-and-documents-without-losing-governance",
-          "source": "Databricks：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-10T23:08:50Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Databricks：Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "123277d810480c26bc58f077f9317ab5165ab89f",
-          "title": "Databricks 如何在兼顾治理的前提下让 Genie Agents 同时基于结构化数据与文档运行 / How to ground Genie Agents in both structured data and documents without losing governance",
-          "title_zh": "Databricks 如何在兼顾治理的前提下让 Genie Agents 同时基于结构化数据与文档运行",
-          "title_ja": "ガバナンスを失うことなく構造化データとドキュメントの両方に Genie エージェントを組み込む方法",
-          "title_en": "How to ground Genie Agents in both structured data and documents without losing governance",
-          "title_original": "How to ground Genie Agents in both structured data and documents without losing governance",
-          "summary": "Databricks 介绍如何让 Genie Agents 同时基于结构化数据与文档运行，且不牺牲治理能力。文章探讨了构建自动化简单业务任务的智能体虽易，但要在统一治理框架下融合两类数据源、确保安全合规地执行查询，仍需解决数据权限、血缘追踪与策略管控等关键问题。",
-          "summary_ja": "この記事では、単純なビジネス タスクを自動化するエージェントを構築するのは簡単ですが、統一されたガバナンス フレームワークの下で 2 種類のデータ ソースを統合し、安全かつ準拠したクエリの実行を確保するには、データのアクセス許可、リネージの追跡、ポリシー制御などの重要な問題を解決する必要があることについて説明しています。解決しました。",
-          "recommend_reason_zh": null,
-          "url": "https://www.databricks.com/blog/how-ground-genie-agents-both-structured-data-and-documents-without-losing-governance",
-          "source": "Databricks：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-10T23:08:50Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7329,
-      "importance": 0.7329,
-      "importance_score": 0.7329,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9238,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-10T23:08:50Z",
-      "latest_at": "2026-08-10T23:08:50Z",
-      "primary_item": {
-        "id": "123277d810480c26bc58f077f9317ab5165ab89f",
-        "title": "Databricks 如何在兼顾治理的前提下让 Genie Agents 同时基于结构化数据与文档运行 / How to ground Genie Agents in both structured data and documents without losing governance",
-        "title_zh": "Databricks 如何在兼顾治理的前提下让 Genie Agents 同时基于结构化数据与文档运行",
-        "title_ja": "ガバナンスを失うことなく構造化データとドキュメントの両方に Genie エージェントを組み込む方法",
-        "title_en": "How to ground Genie Agents in both structured data and documents without losing governance",
-        "title_original": "How to ground Genie Agents in both structured data and documents without losing governance",
-        "summary": "Databricks 介绍如何让 Genie Agents 同时基于结构化数据与文档运行，且不牺牲治理能力。文章探讨了构建自动化简单业务任务的智能体虽易，但要在统一治理框架下融合两类数据源、确保安全合规地执行查询，仍需解决数据权限、血缘追踪与策略管控等关键问题。",
-        "summary_ja": "この記事では、単純なビジネス タスクを自動化するエージェントを構築するのは簡単ですが、統一されたガバナンス フレームワークの下で 2 種類のデータ ソースを統合し、安全かつ準拠したクエリの実行を確保するには、データのアクセス許可、リネージの追跡、ポリシー制御などの重要な問題を解決する必要があることについて説明しています。解決しました。",
-        "recommend_reason_zh": null,
-        "url": "https://www.databricks.com/blog/how-ground-genie-agents-both-structured-data-and-documents-without-losing-governance",
-        "source": "Databricks：Blog（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-11T04:39:06.761908Z"
+        "scored_at": "2026-08-11T06:03:56.511815Z"
       }
     }
   ]
