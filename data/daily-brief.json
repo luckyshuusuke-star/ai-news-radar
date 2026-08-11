@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T19:17:41.142553Z",
+  "generated_at": "2026-08-11T21:02:21.791213Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -86,16 +86,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8631,
-      "importance": 0.8631,
-      "importance_score": 0.8631,
+      "score": 0.8588,
+      "importance": 0.8588,
+      "importance_score": 0.8588,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9674,
+        "recency": 0.9433,
         "story_heat": 0.25
       },
       "category": "official",
@@ -125,33 +125,33 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T19:19:14.670006Z"
+        "scored_at": "2026-08-11T21:05:09.212795Z"
       }
     },
     {
-      "story_id": "story_c246dedc40ae",
-      "title": "MAI-Code-1.1-Flash 可在 GitHub Copilot 中使用 / MAI-Code-1.1-Flash available in GitHub Copilot",
-      "title_ja": "MAI-Code-1.1-Flash が GitHub Copilot で利用可能",
-      "url": "https://github.blog/changelog/2026-08-11-mai-code-1-1-flash-available-in-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-08-11-mai-code-1-1-flash-available-in-github-copilot",
+      "story_id": "story_d21fb74b185b",
+      "title": "GitHub Copilot for JetBrains 中的 Copilot 内存和 Ollama / Copilot memory and Ollama in GitHub Copilot for JetBrains",
+      "title_ja": "JetBrains 用 GitHub Copilot の Copilot メモリと Ollama",
+      "url": "https://github.blog/changelog/2026-08-11-copilot-memory-and-ollama-in-github-copilot-for-jetbrains",
+      "primary_url": "https://github.blog/changelog/2026-08-11-copilot-memory-and-ollama-in-github-copilot-for-jetbrains",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "20b4d04d7ca16e68614fdf21c759a417df28eacb",
-          "title": "MAI-Code-1.1-Flash 可在 GitHub Copilot 中使用 / MAI-Code-1.1-Flash available in GitHub Copilot",
-          "title_zh": "MAI-Code-1.1-Flash 可在 GitHub Copilot 中使用",
-          "title_ja": "MAI-Code-1.1-Flash が GitHub Copilot で利用可能",
-          "title_en": "MAI-Code-1.1-Flash available in GitHub Copilot",
-          "title_original": "MAI-Code-1.1-Flash available in GitHub Copilot",
+          "id": "ca6e0d7202fb1ebe8762e92b584b426237dda742",
+          "title": "GitHub Copilot for JetBrains 中的 Copilot 内存和 Ollama / Copilot memory and Ollama in GitHub Copilot for JetBrains",
+          "title_zh": "GitHub Copilot for JetBrains 中的 Copilot 内存和 Ollama",
+          "title_ja": "JetBrains 用 GitHub Copilot の Copilot メモリと Ollama",
+          "title_en": "Copilot memory and Ollama in GitHub Copilot for JetBrains",
+          "title_original": "Copilot memory and Ollama in GitHub Copilot for JetBrains",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-11-mai-code-1-1-flash-available-in-github-copilot",
+          "url": "https://github.blog/changelog/2026-08-11-copilot-memory-and-ollama-in-github-copilot-for-jetbrains",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-11T18:13:56Z"
+          "published_at": "2026-08-11T20:15:55Z"
         }
       ],
       "source_count": 1,
@@ -160,34 +160,34 @@
       ],
       "items": [
         {
-          "id": "20b4d04d7ca16e68614fdf21c759a417df28eacb",
-          "title": "MAI-Code-1.1-Flash 可在 GitHub Copilot 中使用 / MAI-Code-1.1-Flash available in GitHub Copilot",
-          "title_zh": "MAI-Code-1.1-Flash 可在 GitHub Copilot 中使用",
-          "title_ja": "MAI-Code-1.1-Flash が GitHub Copilot で利用可能",
-          "title_en": "MAI-Code-1.1-Flash available in GitHub Copilot",
-          "title_original": "MAI-Code-1.1-Flash available in GitHub Copilot",
+          "id": "ca6e0d7202fb1ebe8762e92b584b426237dda742",
+          "title": "GitHub Copilot for JetBrains 中的 Copilot 内存和 Ollama / Copilot memory and Ollama in GitHub Copilot for JetBrains",
+          "title_zh": "GitHub Copilot for JetBrains 中的 Copilot 内存和 Ollama",
+          "title_ja": "JetBrains 用 GitHub Copilot の Copilot メモリと Ollama",
+          "title_en": "Copilot memory and Ollama in GitHub Copilot for JetBrains",
+          "title_original": "Copilot memory and Ollama in GitHub Copilot for JetBrains",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-11-mai-code-1-1-flash-available-in-github-copilot",
+          "url": "https://github.blog/changelog/2026-08-11-copilot-memory-and-ollama-in-github-copilot-for-jetbrains",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-11T18:13:56Z"
+          "published_at": "2026-08-11T20:15:55Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8493,
-      "importance": 0.8493,
-      "importance_score": 0.8493,
+      "score": 0.85,
+      "importance": 0.85,
+      "importance_score": 0.85,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9848,
+        "recency": 0.9889,
         "story_heat": 0.0
       },
       "category": "official",
@@ -196,19 +196,19 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-11T18:13:56Z",
-      "latest_at": "2026-08-11T18:13:56Z",
+      "earliest_at": "2026-08-11T20:15:55Z",
+      "latest_at": "2026-08-11T20:15:55Z",
       "primary_item": {
-        "id": "20b4d04d7ca16e68614fdf21c759a417df28eacb",
-        "title": "MAI-Code-1.1-Flash 可在 GitHub Copilot 中使用 / MAI-Code-1.1-Flash available in GitHub Copilot",
-        "title_zh": "MAI-Code-1.1-Flash 可在 GitHub Copilot 中使用",
-        "title_ja": "MAI-Code-1.1-Flash が GitHub Copilot で利用可能",
-        "title_en": "MAI-Code-1.1-Flash available in GitHub Copilot",
-        "title_original": "MAI-Code-1.1-Flash available in GitHub Copilot",
+        "id": "ca6e0d7202fb1ebe8762e92b584b426237dda742",
+        "title": "GitHub Copilot for JetBrains 中的 Copilot 内存和 Ollama / Copilot memory and Ollama in GitHub Copilot for JetBrains",
+        "title_zh": "GitHub Copilot for JetBrains 中的 Copilot 内存和 Ollama",
+        "title_ja": "JetBrains 用 GitHub Copilot の Copilot メモリと Ollama",
+        "title_en": "Copilot memory and Ollama in GitHub Copilot for JetBrains",
+        "title_original": "Copilot memory and Ollama in GitHub Copilot for JetBrains",
         "summary": null,
         "summary_ja": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-11-mai-code-1-1-flash-available-in-github-copilot",
+        "url": "https://github.blog/changelog/2026-08-11-copilot-memory-and-ollama-in-github-copilot-for-jetbrains",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -216,7 +216,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T19:19:14.670006Z"
+        "scored_at": "2026-08-11T21:05:09.212795Z"
       }
     },
     {
@@ -269,16 +269,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8458,
-      "importance": 0.8458,
-      "importance_score": 0.8458,
+      "score": 0.8417,
+      "importance": 0.8417,
+      "importance_score": 0.8417,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9213,
+        "recency": 0.8984,
         "story_heat": 0.0
       },
       "category": "official",
@@ -307,7 +307,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T19:19:14.670006Z"
+        "scored_at": "2026-08-11T21:05:09.212795Z"
       }
     },
     {
@@ -459,16 +459,16 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.839,
-      "importance": 0.839,
-      "importance_score": 0.839,
+      "score": 0.8346,
+      "importance": 0.8346,
+      "importance_score": 0.8346,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9631,
+        "recency": 0.9391,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -497,7 +497,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T19:19:14.670006Z"
+        "scored_at": "2026-08-11T21:05:09.212795Z"
       }
     },
     {
@@ -550,16 +550,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8374,
-      "importance": 0.8374,
-      "importance_score": 0.8374,
+      "score": 0.8335,
+      "importance": 0.8335,
+      "importance_score": 0.8335,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8744,
+        "recency": 0.8526,
         "story_heat": 0.0
       },
       "category": "official",
@@ -588,7 +588,188 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T19:19:14.670006Z"
+        "scored_at": "2026-08-11T21:05:09.212795Z"
+      }
+    },
+    {
+      "story_id": "story_c246dedc40ae",
+      "title": "MAI-Code-1.1-Flash 可在 GitHub Copilot 中使用 / MAI-Code-1.1-Flash available in GitHub Copilot",
+      "title_ja": "MAI-Code-1.1-Flash が GitHub Copilot で利用可能",
+      "url": "https://github.blog/changelog/2026-08-11-mai-code-1-1-flash-available-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-08-11-mai-code-1-1-flash-available-in-github-copilot",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "20b4d04d7ca16e68614fdf21c759a417df28eacb",
+          "title": "MAI-Code-1.1-Flash 可在 GitHub Copilot 中使用 / MAI-Code-1.1-Flash available in GitHub Copilot",
+          "title_zh": "MAI-Code-1.1-Flash 可在 GitHub Copilot 中使用",
+          "title_ja": "MAI-Code-1.1-Flash が GitHub Copilot で利用可能",
+          "title_en": "MAI-Code-1.1-Flash available in GitHub Copilot",
+          "title_original": "MAI-Code-1.1-Flash available in GitHub Copilot",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-11-mai-code-1-1-flash-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-11T18:13:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "20b4d04d7ca16e68614fdf21c759a417df28eacb",
+          "title": "MAI-Code-1.1-Flash 可在 GitHub Copilot 中使用 / MAI-Code-1.1-Flash available in GitHub Copilot",
+          "title_zh": "MAI-Code-1.1-Flash 可在 GitHub Copilot 中使用",
+          "title_ja": "MAI-Code-1.1-Flash が GitHub Copilot で利用可能",
+          "title_en": "MAI-Code-1.1-Flash available in GitHub Copilot",
+          "title_original": "MAI-Code-1.1-Flash available in GitHub Copilot",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-11-mai-code-1-1-flash-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-11T18:13:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8448,
+      "importance": 0.8448,
+      "importance_score": 0.8448,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9603,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-11T18:13:56Z",
+      "latest_at": "2026-08-11T18:13:56Z",
+      "primary_item": {
+        "id": "20b4d04d7ca16e68614fdf21c759a417df28eacb",
+        "title": "MAI-Code-1.1-Flash 可在 GitHub Copilot 中使用 / MAI-Code-1.1-Flash available in GitHub Copilot",
+        "title_zh": "MAI-Code-1.1-Flash 可在 GitHub Copilot 中使用",
+        "title_ja": "MAI-Code-1.1-Flash が GitHub Copilot で利用可能",
+        "title_en": "MAI-Code-1.1-Flash available in GitHub Copilot",
+        "title_original": "MAI-Code-1.1-Flash available in GitHub Copilot",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-08-11-mai-code-1-1-flash-available-in-github-copilot",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-11T21:05:09.212795Z"
+      }
+    },
+    {
+      "story_id": "story_8bee042859df",
+      "title": "Runway Seedance 2.5 上线，支持50角色参考 / A full cast， a full track， one generation at a time. Seedance 2.5 is live on Runway， with 50 unique…",
+      "title_ja": "フルキャスト、フルトラック、一度に一世代。 Seedance 2.5 は Runway でライブ中です。50 のユニークな…",
+      "url": "https://x.com/runwayml/status/2087251184658657346",
+      "primary_url": "https://x.com/runwayml/status/2087251184658657346",
+      "source": "X：Runway (@runwayml)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "256bd9ef5bcb65f2da9b8487601e7b586ed882d4",
+          "title": "Runway Seedance 2.5 上线，支持50角色参考 / A full cast， a full track， one generation at a time. Seedance 2.5 is live on Runway， with 50 unique…",
+          "title_zh": "Runway Seedance 2.5 上线，支持50角色参考",
+          "title_ja": "フルキャスト、フルトラック、一度に一世代。 Seedance 2.5 は Runway でライブ中です。50 のユニークな…",
+          "title_en": "A full cast， a full track， one generation at a time. Seedance 2.5 is live on Runway， with 50 unique…",
+          "title_original": "A full cast， a full track， one generation at a time. Seedance 2.5 is live on Runway， with 50 unique…",
+          "summary": "完整阵容，完整曲目，一次生成一个。\n\nSeedance 2.5 已在 Runway 上线，支持 50 个独特角色参考，以及最长 30 秒、与音乐同步的片段。点击下方链接即可开始使用。",
+          "summary_ja": "フルラインナップ、フルトラックが一度に 1 つずつ生成されます。\n\nSeedance 2.5 は Runway 上で稼働しており、50 のユニークなキャラクターのリファレンスと、音楽と同期された最大 30 秒のクリップをサポートしています。開始するには、下のリンクをクリックしてください。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/runwayml/status/2087251184658657346",
+          "source": "X：Runway (@runwayml)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T18:53:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Runway (@runwayml)"
+      ],
+      "items": [
+        {
+          "id": "256bd9ef5bcb65f2da9b8487601e7b586ed882d4",
+          "title": "Runway Seedance 2.5 上线，支持50角色参考 / A full cast， a full track， one generation at a time. Seedance 2.5 is live on Runway， with 50 unique…",
+          "title_zh": "Runway Seedance 2.5 上线，支持50角色参考",
+          "title_ja": "フルキャスト、フルトラック、一度に一世代。 Seedance 2.5 は Runway でライブ中です。50 のユニークな…",
+          "title_en": "A full cast， a full track， one generation at a time. Seedance 2.5 is live on Runway， with 50 unique…",
+          "title_original": "A full cast， a full track， one generation at a time. Seedance 2.5 is live on Runway， with 50 unique…",
+          "summary": "完整阵容，完整曲目，一次生成一个。\n\nSeedance 2.5 已在 Runway 上线，支持 50 个独特角色参考，以及最长 30 秒、与音乐同步的片段。点击下方链接即可开始使用。",
+          "summary_ja": "フルラインナップ、フルトラックが一度に 1 つずつ生成されます。\n\nSeedance 2.5 は Runway 上で稼働しており、50 のユニークなキャラクターのリファレンスと、音楽と同期された最大 30 秒のクリップをサポートしています。開始するには、下のリンクをクリックしてください。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/runwayml/status/2087251184658657346",
+          "source": "X：Runway (@runwayml)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T18:53:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8105,
+      "importance": 0.8105,
+      "importance_score": 0.8105,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.9696,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-11T18:53:56Z",
+      "latest_at": "2026-08-11T18:53:56Z",
+      "primary_item": {
+        "id": "256bd9ef5bcb65f2da9b8487601e7b586ed882d4",
+        "title": "Runway Seedance 2.5 上线，支持50角色参考 / A full cast， a full track， one generation at a time. Seedance 2.5 is live on Runway， with 50 unique…",
+        "title_zh": "Runway Seedance 2.5 上线，支持50角色参考",
+        "title_ja": "フルキャスト、フルトラック、一度に一世代。 Seedance 2.5 は Runway でライブ中です。50 のユニークな…",
+        "title_en": "A full cast， a full track， one generation at a time. Seedance 2.5 is live on Runway， with 50 unique…",
+        "title_original": "A full cast， a full track， one generation at a time. Seedance 2.5 is live on Runway， with 50 unique…",
+        "summary": "完整阵容，完整曲目，一次生成一个。\n\nSeedance 2.5 已在 Runway 上线，支持 50 个独特角色参考，以及最长 30 秒、与音乐同步的片段。点击下方链接即可开始使用。",
+        "summary_ja": "フルラインナップ、フルトラックが一度に 1 つずつ生成されます。\n\nSeedance 2.5 は Runway 上で稼働しており、50 のユニークなキャラクターのリファレンスと、音楽と同期された最大 30 秒のクリップをサポートしています。開始するには、下のリンクをクリックしてください。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/runwayml/status/2087251184658657346",
+        "source": "X：Runway (@runwayml)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-11T21:05:09.212795Z"
       }
     },
     {
@@ -674,16 +855,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8124,
-      "importance": 0.8124,
-      "importance_score": 0.8124,
+      "score": 0.8079,
+      "importance": 0.8079,
+      "importance_score": 0.8079,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9932,
+        "recency": 0.9685,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -712,189 +893,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T19:19:14.670006Z"
-      }
-    },
-    {
-      "story_id": "story_bdd68ac35b2d",
-      "title": "使用报告中按型号的令牌细分 / Per-model token breakdown in the usage report",
-      "title_ja": "使用状況レポートのモデルごとのトークンの内訳",
-      "url": "https://github.blog/changelog/2026-08-11-per-model-token-breakdown-in-the-usage-report",
-      "primary_url": "https://github.blog/changelog/2026-08-11-per-model-token-breakdown-in-the-usage-report",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "361545eaea5b5eb01fee9d78ba476877bb902c4f",
-          "title": "使用报告中按型号的令牌细分 / Per-model token breakdown in the usage report",
-          "title_zh": "使用报告中按型号的令牌细分",
-          "title_ja": "使用状況レポートのモデルごとのトークンの内訳",
-          "title_en": "Per-model token breakdown in the usage report",
-          "title_original": "Per-model token breakdown in the usage report",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-11-per-model-token-breakdown-in-the-usage-report",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-11T14:41:52Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "361545eaea5b5eb01fee9d78ba476877bb902c4f",
-          "title": "使用报告中按型号的令牌细分 / Per-model token breakdown in the usage report",
-          "title_zh": "使用报告中按型号的令牌细分",
-          "title_ja": "使用状況レポートのモデルごとのトークンの内訳",
-          "title_en": "Per-model token breakdown in the usage report",
-          "title_original": "Per-model token breakdown in the usage report",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-11-per-model-token-breakdown-in-the-usage-report",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-11T14:41:52Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8324,
-      "importance": 0.8324,
-      "importance_score": 0.8324,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9358,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-11T14:41:52Z",
-      "latest_at": "2026-08-11T14:41:52Z",
-      "primary_item": {
-        "id": "361545eaea5b5eb01fee9d78ba476877bb902c4f",
-        "title": "使用报告中按型号的令牌细分 / Per-model token breakdown in the usage report",
-        "title_zh": "使用报告中按型号的令牌细分",
-        "title_ja": "使用状況レポートのモデルごとのトークンの内訳",
-        "title_en": "Per-model token breakdown in the usage report",
-        "title_original": "Per-model token breakdown in the usage report",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-11-per-model-token-breakdown-in-the-usage-report",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-11T19:19:14.670006Z"
-      }
-    },
-    {
-      "story_id": "story_f612b5d58d1d",
-      "title": "使用适用于 Java 的 GitHub Copilot SDK / Using the GitHub Copilot SDK for Java",
-      "title_ja": "Java 用 GitHub Copilot SDK の使用",
-      "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java",
-      "primary_url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "24acb4029cb84001e3b5f778e74906def87075dc",
-          "title": "使用适用于 Java 的 GitHub Copilot SDK / Using the GitHub Copilot SDK for Java",
-          "title_zh": "使用适用于 Java 的 GitHub Copilot SDK",
-          "title_ja": "Java 用 GitHub Copilot SDK の使用",
-          "title_en": "Using the GitHub Copilot SDK for Java",
-          "title_original": "Using the GitHub Copilot SDK for Java",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T19:30:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub AI & ML"
-      ],
-      "items": [
-        {
-          "id": "24acb4029cb84001e3b5f778e74906def87075dc",
-          "title": "使用适用于 Java 的 GitHub Copilot SDK / Using the GitHub Copilot SDK for Java",
-          "title_zh": "使用适用于 Java 的 GitHub Copilot SDK",
-          "title_ja": "Java 用 GitHub Copilot SDK の使用",
-          "title_en": "Using the GitHub Copilot SDK for Java",
-          "title_original": "Using the GitHub Copilot SDK for Java",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T19:30:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7997,
-      "importance": 0.7997,
-      "importance_score": 0.7997,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7092,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-10T19:30:00Z",
-      "latest_at": "2026-08-10T19:30:00Z",
-      "primary_item": {
-        "id": "24acb4029cb84001e3b5f778e74906def87075dc",
-        "title": "使用适用于 Java 的 GitHub Copilot SDK / Using the GitHub Copilot SDK for Java",
-        "title_zh": "使用适用于 Java 的 GitHub Copilot SDK",
-        "title_ja": "Java 用 GitHub Copilot SDK の使用",
-        "title_en": "Using the GitHub Copilot SDK for Java",
-        "title_original": "Using the GitHub Copilot SDK for Java",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-11T19:19:14.670006Z"
+        "scored_at": "2026-08-11T21:05:09.212795Z"
       }
     },
     {
@@ -947,16 +946,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7985,
-      "importance": 0.7985,
-      "importance_score": 0.7985,
+      "score": 0.7941,
+      "importance": 0.7941,
+      "importance_score": 0.7941,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9864,
+        "recency": 0.9618,
         "story_heat": 0.0
       },
       "category": "official",
@@ -984,7 +983,97 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T19:19:14.670006Z"
+        "scored_at": "2026-08-11T21:05:09.212795Z"
+      }
+    },
+    {
+      "story_id": "story_8a4c14a3381a",
+      "title": "ChatGPT 与 Gemini 双双突破 10 亿用户 / ChatGPT and Gemini both just passed 1 billion users",
+      "title_ja": "ChatGPT と Gemini はどちらもユーザー数 10 億人を突破しました",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+      "source": "The Verge：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f56bfcc71250208c330bf2efc941ba00dcdf020e",
+          "title": "ChatGPT 与 Gemini 双双突破 10 亿用户 / ChatGPT and Gemini both just passed 1 billion users",
+          "title_zh": "ChatGPT 与 Gemini 双双突破 10 亿用户",
+          "title_ja": "ChatGPT と Gemini はどちらもユーザー数 10 億人を突破しました",
+          "title_en": "ChatGPT and Gemini both just passed 1 billion users",
+          "title_original": "ChatGPT and Gemini both just passed 1 billion users",
+          "summary": "OpenAI 与 Google 的聊天机器人均跨过 10 亿用户门槛。OpenAI 在 8 月 6 日的博文中披露 ChatGPT 月活用户超 10 亿，Google CEO 皮查伊则宣布 Gemini 月活达 10 亿，成为其史上增长最快的产品。OpenAI 称 ChatGPT 在 7 月周活用户已达 10 亿，而 Gemini 在 2 月月活为 7.5 亿，增长势头更猛。",
+          "summary_ja": "OpenAI と Google のチャットボットはどちらもユーザー数が 10 億人のしきい値を超えています。 OpenAI は 8 月 6 日のブログ投稿で、ChatGPT の月間アクティブ ユーザー数が 10 億人を超えたことを明らかにし、Google CEO のピチャイは、Gemini の月間アクティブ ユーザー数が 10 億人に達し、史上最も急速に成長している製品になったと発表しました。 OpenAIによると、ChatGPTは7月に週間アクティブユーザー数が10億人に達し、2月にはGeminiの月間アクティブユーザー数が7億5000万人となり、さらに力強い成長を示したという。",
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T19:41:42Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Verge：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "f56bfcc71250208c330bf2efc941ba00dcdf020e",
+          "title": "ChatGPT 与 Gemini 双双突破 10 亿用户 / ChatGPT and Gemini both just passed 1 billion users",
+          "title_zh": "ChatGPT 与 Gemini 双双突破 10 亿用户",
+          "title_ja": "ChatGPT と Gemini はどちらもユーザー数 10 億人を突破しました",
+          "title_en": "ChatGPT and Gemini both just passed 1 billion users",
+          "title_original": "ChatGPT and Gemini both just passed 1 billion users",
+          "summary": "OpenAI 与 Google 的聊天机器人均跨过 10 亿用户门槛。OpenAI 在 8 月 6 日的博文中披露 ChatGPT 月活用户超 10 亿，Google CEO 皮查伊则宣布 Gemini 月活达 10 亿，成为其史上增长最快的产品。OpenAI 称 ChatGPT 在 7 月周活用户已达 10 亿，而 Gemini 在 2 月月活为 7.5 亿，增长势头更猛。",
+          "summary_ja": "OpenAI と Google のチャットボットはどちらもユーザー数が 10 億人のしきい値を超えています。 OpenAI は 8 月 6 日のブログ投稿で、ChatGPT の月間アクティブ ユーザー数が 10 億人を超えたことを明らかにし、Google CEO のピチャイは、Gemini の月間アクティブ ユーザー数が 10 億人に達し、史上最も急速に成長している製品になったと発表しました。 OpenAIによると、ChatGPTは7月に週間アクティブユーザー数が10億人に達し、2月にはGeminiの月間アクティブユーザー数が7億5000万人となり、さらに力強い成長を示したという。",
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T19:41:42Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7881,
+      "importance": 0.7881,
+      "importance_score": 0.7881,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.8,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9808,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-11T19:41:42Z",
+      "latest_at": "2026-08-11T19:41:42Z",
+      "primary_item": {
+        "id": "f56bfcc71250208c330bf2efc941ba00dcdf020e",
+        "title": "ChatGPT 与 Gemini 双双突破 10 亿用户 / ChatGPT and Gemini both just passed 1 billion users",
+        "title_zh": "ChatGPT 与 Gemini 双双突破 10 亿用户",
+        "title_ja": "ChatGPT と Gemini はどちらもユーザー数 10 億人を突破しました",
+        "title_en": "ChatGPT and Gemini both just passed 1 billion users",
+        "title_original": "ChatGPT and Gemini both just passed 1 billion users",
+        "summary": "OpenAI 与 Google 的聊天机器人均跨过 10 亿用户门槛。OpenAI 在 8 月 6 日的博文中披露 ChatGPT 月活用户超 10 亿，Google CEO 皮查伊则宣布 Gemini 月活达 10 亿，成为其史上增长最快的产品。OpenAI 称 ChatGPT 在 7 月周活用户已达 10 亿，而 Gemini 在 2 月月活为 7.5 亿，增长势头更猛。",
+        "summary_ja": "OpenAI と Google のチャットボットはどちらもユーザー数が 10 億人のしきい値を超えています。 OpenAI は 8 月 6 日のブログ投稿で、ChatGPT の月間アクティブ ユーザー数が 10 億人を超えたことを明らかにし、Google CEO のピチャイは、Gemini の月間アクティブ ユーザー数が 10 億人に達し、史上最も急速に成長している製品になったと発表しました。 OpenAIによると、ChatGPTは7月に週間アクティブユーザー数が10億人に達し、2月にはGeminiの月間アクティブユーザー数が7億5000万人となり、さらに力強い成長を示したという。",
+        "recommend_reason_zh": null,
+        "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+        "source": "The Verge：AI（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-11T21:05:09.212795Z"
       }
     },
     {
@@ -1037,16 +1126,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7874,
-      "importance": 0.7874,
-      "importance_score": 0.7874,
+      "score": 0.783,
+      "importance": 0.783,
+      "importance_score": 0.783,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9765,
+        "recency": 0.9522,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1074,7 +1163,98 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T19:19:14.670006Z"
+        "scored_at": "2026-08-11T21:05:09.212795Z"
+      }
+    },
+    {
+      "story_id": "story_f4f6d73ecb41",
+      "title": "GitHub Enterprise Server 3.22 候选版本 / GitHub Enterprise Server 3.22 release candidate",
+      "title_ja": "GitHub Enterprise Server 3.22 リリース候補",
+      "url": "https://github.blog/changelog/2026-08-11-github-enterprise-server-3-22-release-candidate",
+      "primary_url": "https://github.blog/changelog/2026-08-11-github-enterprise-server-3-22-release-candidate",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4988a39b0e311f8d37c6b27d1943e810e0a6703f",
+          "title": "GitHub Enterprise Server 3.22 候选版本 / GitHub Enterprise Server 3.22 release candidate",
+          "title_zh": "GitHub Enterprise Server 3.22 候选版本",
+          "title_ja": "GitHub Enterprise Server 3.22 リリース候補",
+          "title_en": "GitHub Enterprise Server 3.22 release candidate",
+          "title_original": "GitHub Enterprise Server 3.22 release candidate",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-11-github-enterprise-server-3-22-release-candidate",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-11T20:26:26Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "4988a39b0e311f8d37c6b27d1943e810e0a6703f",
+          "title": "GitHub Enterprise Server 3.22 候选版本 / GitHub Enterprise Server 3.22 release candidate",
+          "title_zh": "GitHub Enterprise Server 3.22 候选版本",
+          "title_ja": "GitHub Enterprise Server 3.22 リリース候補",
+          "title_en": "GitHub Enterprise Server 3.22 release candidate",
+          "title_original": "GitHub Enterprise Server 3.22 release candidate",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-11-github-enterprise-server-3-22-release-candidate",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-11T20:26:26Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8425,
+      "importance": 0.8425,
+      "importance_score": 0.8425,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9914,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-11T20:26:26Z",
+      "latest_at": "2026-08-11T20:26:26Z",
+      "primary_item": {
+        "id": "4988a39b0e311f8d37c6b27d1943e810e0a6703f",
+        "title": "GitHub Enterprise Server 3.22 候选版本 / GitHub Enterprise Server 3.22 release candidate",
+        "title_zh": "GitHub Enterprise Server 3.22 候选版本",
+        "title_ja": "GitHub Enterprise Server 3.22 リリース候補",
+        "title_en": "GitHub Enterprise Server 3.22 release candidate",
+        "title_original": "GitHub Enterprise Server 3.22 release candidate",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-08-11-github-enterprise-server-3-22-release-candidate",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-11T21:05:09.212795Z"
       }
     },
     {
@@ -1193,16 +1373,16 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8127,
-      "importance": 0.8127,
-      "importance_score": 0.8127,
+      "score": 0.8082,
+      "importance": 0.8082,
+      "importance_score": 0.8082,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9893,
+        "recency": 0.9647,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1231,7 +1411,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T19:19:14.670006Z"
+        "scored_at": "2026-08-11T21:05:09.212795Z"
       }
     },
     {
@@ -1284,16 +1464,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7768,
-      "importance": 0.7768,
-      "importance_score": 0.7768,
+      "score": 0.7724,
+      "importance": 0.7724,
+      "importance_score": 0.7724,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9675,
+        "recency": 0.9435,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1321,7 +1501,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T19:19:14.670006Z"
+        "scored_at": "2026-08-11T21:05:09.212795Z"
       }
     },
     {
@@ -1374,16 +1554,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7655,
-      "importance": 0.7655,
-      "importance_score": 0.7655,
+      "score": 0.7613,
+      "importance": 0.7613,
+      "importance_score": 0.7613,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9386,
+        "recency": 0.9152,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1411,7 +1591,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T19:19:14.670006Z"
+        "scored_at": "2026-08-11T21:05:09.212795Z"
       }
     },
     {
@@ -1464,16 +1644,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.764,
-      "importance": 0.764,
-      "importance_score": 0.764,
+      "score": 0.7599,
+      "importance": 0.7599,
+      "importance_score": 0.7599,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9132,
+        "recency": 0.8905,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1501,7 +1681,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T19:19:14.670006Z"
+        "scored_at": "2026-08-11T21:05:09.212795Z"
       }
     },
     {
@@ -1554,16 +1734,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7559,
+      "importance": 0.7559,
+      "importance_score": 0.7559,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9246,
+        "recency": 0.9016,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1591,7 +1771,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T19:19:14.670006Z"
+        "scored_at": "2026-08-11T21:05:09.212795Z"
       }
     },
     {
@@ -1644,16 +1824,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7592,
-      "importance": 0.7592,
-      "importance_score": 0.7592,
+      "score": 0.755,
+      "importance": 0.755,
+      "importance_score": 0.755,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9535,
+        "recency": 0.9298,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1681,97 +1861,98 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T19:19:14.670006Z"
+        "scored_at": "2026-08-11T21:05:09.212795Z"
       }
     },
     {
-      "story_id": "story_025a725a5231",
-      "title": "OpenAI 用 Astra 模型攻克 10 道数学难题，数学家既兴奋又担忧 / The AI takeover of mathematics has begun",
-      "title_ja": "AIによる数学の乗っ取りが始まった",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
-      "source": "The Verge：AI（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_3e367c2a90f0",
+      "title": "自动将分支保护规则迁移到代码仓库规则集 / Automatically migrate branch protection rules to repository rulesets",
+      "title_ja": "ブランチ保護ルールをリポジトリ ルールセットに自動的に移行する",
+      "url": "https://github.blog/changelog/2026-08-11-automatically-migrate-branch-protection-rules-to-repository-rulesets",
+      "primary_url": "https://github.blog/changelog/2026-08-11-automatically-migrate-branch-protection-rules-to-repository-rulesets",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "079cd24c1c86473636689d6b518f7737f7c0d59c",
-          "title": "OpenAI 用 Astra 模型攻克 10 道数学难题，数学家既兴奋又担忧 / The AI takeover of mathematics has begun",
-          "title_zh": "OpenAI 用 Astra 模型攻克 10 道数学难题，数学家既兴奋又担忧",
-          "title_ja": "AIによる数学の乗っ取りが始まった",
-          "title_en": "The AI takeover of mathematics has begun",
-          "title_original": "The AI takeover of mathematics has begun",
-          "summary": "OpenAI 宣布其未发布的 Astra 模型解决了 10 道长期悬而未决的数学难题，涵盖球体堆积、纠错码、非 sofic 群存在性等领域，并发布超 250 页论文及 Lean 验证结果。",
-          "summary_ja": "OpenAIは、未発表のAstraモデルが球体累積、誤り訂正符号、非ソフィック群の存在などの分野をカバーする10の長年の数学的問題を解決したと発表し、250ページを超える論文とリーン検証結果を公開した。",
+          "id": "9218b35fb343b8ac2d17e453ef63046d41d017ef",
+          "title": "自动将分支保护规则迁移到代码仓库规则集 / Automatically migrate branch protection rules to repository rulesets",
+          "title_zh": "自动将分支保护规则迁移到代码仓库规则集",
+          "title_ja": "ブランチ保護ルールをリポジトリ ルールセットに自動的に移行する",
+          "title_en": "Automatically migrate branch protection rules to repository rulesets",
+          "title_original": "Automatically migrate branch protection rules to repository rulesets",
+          "summary": null,
+          "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T11:00:00Z"
+          "url": "https://github.blog/changelog/2026-08-11-automatically-migrate-branch-protection-rules-to-repository-rulesets",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-11T19:03:57Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "The Verge：AI（RSS）"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "079cd24c1c86473636689d6b518f7737f7c0d59c",
-          "title": "OpenAI 用 Astra 模型攻克 10 道数学难题，数学家既兴奋又担忧 / The AI takeover of mathematics has begun",
-          "title_zh": "OpenAI 用 Astra 模型攻克 10 道数学难题，数学家既兴奋又担忧",
-          "title_ja": "AIによる数学の乗っ取りが始まった",
-          "title_en": "The AI takeover of mathematics has begun",
-          "title_original": "The AI takeover of mathematics has begun",
-          "summary": "OpenAI 宣布其未发布的 Astra 模型解决了 10 道长期悬而未决的数学难题，涵盖球体堆积、纠错码、非 sofic 群存在性等领域，并发布超 250 页论文及 Lean 验证结果。",
-          "summary_ja": "OpenAIは、未発表のAstraモデルが球体累積、誤り訂正符号、非ソフィック群の存在などの分野をカバーする10の長年の数学的問題を解決したと発表し、250ページを超える論文とリーン検証結果を公開した。",
+          "id": "9218b35fb343b8ac2d17e453ef63046d41d017ef",
+          "title": "自动将分支保护规则迁移到代码仓库规则集 / Automatically migrate branch protection rules to repository rulesets",
+          "title_zh": "自动将分支保护规则迁移到代码仓库规则集",
+          "title_ja": "ブランチ保護ルールをリポジトリ ルールセットに自動的に移行する",
+          "title_en": "Automatically migrate branch protection rules to repository rulesets",
+          "title_original": "Automatically migrate branch protection rules to repository rulesets",
+          "summary": null,
+          "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T11:00:00Z"
+          "url": "https://github.blog/changelog/2026-08-11-automatically-migrate-branch-protection-rules-to-repository-rulesets",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-11T19:03:57Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7563,
-      "importance": 0.7563,
-      "importance_score": 0.7563,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
+      "score": 0.8389,
+      "importance": 0.8389,
+      "importance_score": 0.8389,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8871,
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9719,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
+        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-11T11:00:00Z",
-      "latest_at": "2026-08-11T11:00:00Z",
+      "earliest_at": "2026-08-11T19:03:57Z",
+      "latest_at": "2026-08-11T19:03:57Z",
       "primary_item": {
-        "id": "079cd24c1c86473636689d6b518f7737f7c0d59c",
-        "title": "OpenAI 用 Astra 模型攻克 10 道数学难题，数学家既兴奋又担忧 / The AI takeover of mathematics has begun",
-        "title_zh": "OpenAI 用 Astra 模型攻克 10 道数学难题，数学家既兴奋又担忧",
-        "title_ja": "AIによる数学の乗っ取りが始まった",
-        "title_en": "The AI takeover of mathematics has begun",
-        "title_original": "The AI takeover of mathematics has begun",
-        "summary": "OpenAI 宣布其未发布的 Astra 模型解决了 10 道长期悬而未决的数学难题，涵盖球体堆积、纠错码、非 sofic 群存在性等领域，并发布超 250 页论文及 Lean 验证结果。",
-        "summary_ja": "OpenAIは、未発表のAstraモデルが球体累積、誤り訂正符号、非ソフィック群の存在などの分野をカバーする10の長年の数学的問題を解決したと発表し、250ページを超える論文とリーン検証結果を公開した。",
+        "id": "9218b35fb343b8ac2d17e453ef63046d41d017ef",
+        "title": "自动将分支保护规则迁移到代码仓库规则集 / Automatically migrate branch protection rules to repository rulesets",
+        "title_zh": "自动将分支保护规则迁移到代码仓库规则集",
+        "title_ja": "ブランチ保護ルールをリポジトリ ルールセットに自動的に移行する",
+        "title_en": "Automatically migrate branch protection rules to repository rulesets",
+        "title_original": "Automatically migrate branch protection rules to repository rulesets",
+        "summary": null,
+        "summary_ja": null,
         "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
-        "source": "The Verge：AI（RSS）",
-        "source_name": "AI HOT"
+        "url": "https://github.blog/changelog/2026-08-11-automatically-migrate-branch-protection-rules-to-repository-rulesets",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T19:19:14.670006Z"
+        "scored_at": "2026-08-11T21:05:09.212795Z"
       }
     },
     {
@@ -1824,16 +2005,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7435,
-      "importance": 0.7435,
-      "importance_score": 0.7435,
+      "score": 0.7396,
+      "importance": 0.7396,
+      "importance_score": 0.7396,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.866,
+        "recency": 0.8445,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1860,185 +2041,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-11T19:19:14.670006Z"
-      }
-    },
-    {
-      "story_id": "story_2e9310d5724c",
-      "title": "Anthropic 全球范围内为 Claude 输出嵌入隐形水印：AI 内容溯源时代正式开启",
-      "title_ja": "Anthropic がクロードの出力に目に見えない透かしを世界的に埋め込む: AI コンテンツのトレーサビリティの時代が正式に始まる",
-      "url": "https://www.aibase.com/news/30253",
-      "primary_url": "https://www.aibase.com/news/30253",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a5f0a62d8324bb17101b64fe498e5962ae4b8f30",
-          "title": "Anthropic 全球范围内为 Claude 输出嵌入隐形水印：AI 内容溯源时代正式开启",
-          "title_zh": "Anthropic 全球范围内为 Claude 输出嵌入隐形水印：AI 内容溯源时代正式开启",
-          "title_ja": "Anthropic がクロードの出力に目に見えない透かしを世界的に埋め込む: AI コンテンツのトレーサビリティの時代が正式に始まる",
-          "title_en": null,
-          "title_original": "Anthropic 全球范围内为 Claude 输出嵌入隐形水印：AI 内容溯源时代正式开启",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30253",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-11T09:12:31.760640Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "a5f0a62d8324bb17101b64fe498e5962ae4b8f30",
-          "title": "Anthropic 全球范围内为 Claude 输出嵌入隐形水印：AI 内容溯源时代正式开启",
-          "title_zh": "Anthropic 全球范围内为 Claude 输出嵌入隐形水印：AI 内容溯源时代正式开启",
-          "title_ja": "Anthropic がクロードの出力に目に見えない透かしを世界的に埋め込む: AI コンテンツのトレーサビリティの時代が正式に始まる",
-          "title_en": null,
-          "title_original": "Anthropic 全球范围内为 Claude 输出嵌入隐形水印：AI 内容溯源时代正式开启",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30253",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-11T09:12:31.760640Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7432,
-      "importance": 0.7432,
-      "importance_score": 0.7432,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8645,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-11T09:12:31.760640Z",
-      "latest_at": "2026-08-11T09:12:31.760640Z",
-      "primary_item": {
-        "id": "a5f0a62d8324bb17101b64fe498e5962ae4b8f30",
-        "title": "Anthropic 全球范围内为 Claude 输出嵌入隐形水印：AI 内容溯源时代正式开启",
-        "title_zh": "Anthropic 全球范围内为 Claude 输出嵌入隐形水印：AI 内容溯源时代正式开启",
-        "title_ja": "Anthropic がクロードの出力に目に見えない透かしを世界的に埋め込む: AI コンテンツのトレーサビリティの時代が正式に始まる",
-        "title_en": null,
-        "title_original": "Anthropic 全球范围内为 Claude 输出嵌入隐形水印：AI 内容溯源时代正式开启",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30253",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-11T19:19:14.670006Z"
-      }
-    },
-    {
-      "story_id": "story_c941ef83d660",
-      "title": "英伟达联合六大机构融资5000亿美元建AI工厂 / http://x.com/i/article/2086933422921117696",
-      "title_ja": null,
-      "url": "https://x.com/JensenHuang/status/2086934705207959965",
-      "primary_url": "https://x.com/JensenHuang/status/2086934705207959965",
-      "source": "X：Jensen Huang (@JensenHuang)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e0c66622d06ad11febd7df57f1e2a2985c98b30a",
-          "title": "英伟达联合六大机构融资5000亿美元建AI工厂 / http://x.com/i/article/2086933422921117696",
-          "title_zh": "英伟达联合六大机构融资5000亿美元建AI工厂",
-          "title_ja": null,
-          "title_en": "http://x.com/i/article/2086933422921117696",
-          "title_original": "http://x.com/i/article/2086933422921117696",
-          "summary": "英伟达宣布与Apollo、BlackRock、Blackstone、Brookfield、Goldman Sachs和KKR合作，建立独立融资平台，动员超5000亿美元第三方资本支持AI基础设施建设。",
-          "summary_ja": "NVIDIA は、Apollo、BlackRock、Blackstone、Brookfield、Goldman Sachs、KKR と協力して独立した資金調達プラットフォームを確立し、AI インフラストラクチャの構築を支援するために 5,000 億米ドルを超えるサードパーティ資本を動員すると発表しました。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/JensenHuang/status/2086934705207959965",
-          "source": "X：Jensen Huang (@JensenHuang)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-10T21:56:21Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Jensen Huang (@JensenHuang)"
-      ],
-      "items": [
-        {
-          "id": "e0c66622d06ad11febd7df57f1e2a2985c98b30a",
-          "title": "英伟达联合六大机构融资5000亿美元建AI工厂 / http://x.com/i/article/2086933422921117696",
-          "title_zh": "英伟达联合六大机构融资5000亿美元建AI工厂",
-          "title_ja": null,
-          "title_en": "http://x.com/i/article/2086933422921117696",
-          "title_original": "http://x.com/i/article/2086933422921117696",
-          "summary": "英伟达宣布与Apollo、BlackRock、Blackstone、Brookfield、Goldman Sachs和KKR合作，建立独立融资平台，动员超5000亿美元第三方资本支持AI基础设施建设。",
-          "summary_ja": "NVIDIA は、Apollo、BlackRock、Blackstone、Brookfield、Goldman Sachs、KKR と協力して独立した資金調達プラットフォームを確立し、AI インフラストラクチャの構築を支援するために 5,000 億米ドルを超えるサードパーティ資本を動員すると発表しました。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/JensenHuang/status/2086934705207959965",
-          "source": "X：Jensen Huang (@JensenHuang)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-10T21:56:21Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7408,
-      "importance": 0.7408,
-      "importance_score": 0.7408,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7346,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-10T21:56:21Z",
-      "latest_at": "2026-08-10T21:56:21Z",
-      "primary_item": {
-        "id": "e0c66622d06ad11febd7df57f1e2a2985c98b30a",
-        "title": "英伟达联合六大机构融资5000亿美元建AI工厂 / http://x.com/i/article/2086933422921117696",
-        "title_zh": "英伟达联合六大机构融资5000亿美元建AI工厂",
-        "title_ja": null,
-        "title_en": "http://x.com/i/article/2086933422921117696",
-        "title_original": "http://x.com/i/article/2086933422921117696",
-        "summary": "英伟达宣布与Apollo、BlackRock、Blackstone、Brookfield、Goldman Sachs和KKR合作，建立独立融资平台，动员超5000亿美元第三方资本支持AI基础设施建设。",
-        "summary_ja": "NVIDIA は、Apollo、BlackRock、Blackstone、Brookfield、Goldman Sachs、KKR と協力して独立した資金調達プラットフォームを確立し、AI インフラストラクチャの構築を支援するために 5,000 億米ドルを超えるサードパーティ資本を動員すると発表しました。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/JensenHuang/status/2086934705207959965",
-        "source": "X：Jensen Huang (@JensenHuang)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-11T19:19:14.670006Z"
+        "scored_at": "2026-08-11T21:05:09.212795Z"
       }
     }
   ]
