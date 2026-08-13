@@ -1,11 +1,102 @@
 {
-  "generated_at": "2026-08-13T17:10:09.081559Z",
+  "generated_at": "2026-08-13T18:05:31.014084Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
+      "story_id": "story_7243b3d66c55",
+      "title": "使用 Strands Agents、LeRobot 和 Hugging Face Storage Buckets 从一处进行记录、训练和部署 / Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+      "title_ja": "Strands Agent、LeRobot、Hugging Face Storage Buckets を使用して 1 か所から記録、トレーニング、導入を行う",
+      "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+      "primary_url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "63aefbec18f0711d536c5b0bbc357bb07986eaf5",
+          "title": "使用 Strands Agents、LeRobot 和 Hugging Face Storage Buckets 从一处进行记录、训练和部署 / Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+          "title_zh": "使用 Strands Agents、LeRobot 和 Hugging Face Storage Buckets 从一处进行记录、训练和部署",
+          "title_ja": "Strands Agent、LeRobot、Hugging Face Storage Buckets を使用して 1 か所から記録、トレーニング、導入を行う",
+          "title_en": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+          "title_original": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T17:16:04Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "63aefbec18f0711d536c5b0bbc357bb07986eaf5",
+          "title": "使用 Strands Agents、LeRobot 和 Hugging Face Storage Buckets 从一处进行记录、训练和部署 / Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+          "title_zh": "使用 Strands Agents、LeRobot 和 Hugging Face Storage Buckets 从一处进行记录、训练和部署",
+          "title_ja": "Strands Agent、LeRobot、Hugging Face Storage Buckets を使用して 1 か所から記録、トレーニング、導入を行う",
+          "title_en": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+          "title_original": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T17:16:04Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8639,
+      "importance": 0.8639,
+      "importance_score": 0.8639,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.9882,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-13T17:16:04Z",
+      "latest_at": "2026-08-13T17:16:04Z",
+      "primary_item": {
+        "id": "63aefbec18f0711d536c5b0bbc357bb07986eaf5",
+        "title": "使用 Strands Agents、LeRobot 和 Hugging Face Storage Buckets 从一处进行记录、训练和部署 / Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+        "title_zh": "使用 Strands Agents、LeRobot 和 Hugging Face Storage Buckets 从一处进行记录、训练和部署",
+        "title_ja": "Strands Agent、LeRobot、Hugging Face Storage Buckets を使用して 1 か所から記録、トレーニング、導入を行う",
+        "title_en": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+        "title_original": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-13T18:06:51.112813Z"
+      }
+    },
+    {
       "story_id": "story_230b99496aae",
-      "title": "Introducing Gemini 3.7 Flash",
+      "title": "Google DeepMind 推出 Gemini 3.7 Flash：面向编程与智能体的最强工作模型 / Introducing Gemini 3.7 Flash",
       "title_ja": "Gemini 3.7 フラッシュの紹介",
       "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
       "primary_url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
@@ -14,8 +105,8 @@
       "sources": [
         {
           "id": "6541800c8fc6716f162ab7ebc701f8883a0e9db5",
-          "title": "Introducing Gemini 3.7 Flash",
-          "title_zh": null,
+          "title": "Google DeepMind 推出 Gemini 3.7 Flash：面向编程与智能体的最强工作模型 / Introducing Gemini 3.7 Flash",
+          "title_zh": "Google DeepMind 推出 Gemini 3.7 Flash：面向编程与智能体的最强工作模型",
           "title_ja": "Gemini 3.7 フラッシュの紹介",
           "title_en": "Introducing Gemini 3.7 Flash",
           "title_original": "Introducing Gemini 3.7 Flash",
@@ -36,8 +127,8 @@
       "items": [
         {
           "id": "6541800c8fc6716f162ab7ebc701f8883a0e9db5",
-          "title": "Introducing Gemini 3.7 Flash",
-          "title_zh": null,
+          "title": "Google DeepMind 推出 Gemini 3.7 Flash：面向编程与智能体的最强工作模型 / Introducing Gemini 3.7 Flash",
+          "title_zh": "Google DeepMind 推出 Gemini 3.7 Flash：面向编程与智能体的最强工作模型",
           "title_ja": "Gemini 3.7 フラッシュの紹介",
           "title_en": "Introducing Gemini 3.7 Flash",
           "title_original": "Introducing Gemini 3.7 Flash",
@@ -53,16 +144,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8517,
-      "importance": 0.8517,
-      "importance_score": 0.8517,
+      "score": 0.8494,
+      "importance": 0.8494,
+      "importance_score": 0.8494,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9986,
+        "recency": 0.9854,
         "story_heat": 0.0
       },
       "category": "official",
@@ -75,8 +166,8 @@
       "latest_at": "2026-08-13T17:04:18Z",
       "primary_item": {
         "id": "6541800c8fc6716f162ab7ebc701f8883a0e9db5",
-        "title": "Introducing Gemini 3.7 Flash",
-        "title_zh": null,
+        "title": "Google DeepMind 推出 Gemini 3.7 Flash：面向编程与智能体的最强工作模型 / Introducing Gemini 3.7 Flash",
+        "title_zh": "Google DeepMind 推出 Gemini 3.7 Flash：面向编程与智能体的最强工作模型",
         "title_ja": "Gemini 3.7 フラッシュの紹介",
         "title_en": "Introducing Gemini 3.7 Flash",
         "title_original": "Introducing Gemini 3.7 Flash",
@@ -91,7 +182,98 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T17:11:34.204724Z"
+        "scored_at": "2026-08-13T18:06:51.112813Z"
+      }
+    },
+    {
+      "story_id": "story_c2a711833862",
+      "title": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用 / Bring your spreadsheet data to life with Sheets canvas",
+      "title_ja": "スプレッドシート キャンバスを使用してスプレッドシート データを生き生きとさせる",
+      "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
+      "primary_url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "777014cd6f2be6787e73dcd64d3b79c4e131fa91",
+          "title": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用 / Bring your spreadsheet data to life with Sheets canvas",
+          "title_zh": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用",
+          "title_ja": "スプレッドシート キャンバスを使用してスプレッドシート データを生き生きとさせる",
+          "title_en": "Bring your spreadsheet data to life with Sheets canvas",
+          "title_original": "Bring your spreadsheet data to life with Sheets canvas",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T16:45:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "777014cd6f2be6787e73dcd64d3b79c4e131fa91",
+          "title": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用 / Bring your spreadsheet data to life with Sheets canvas",
+          "title_zh": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用",
+          "title_ja": "スプレッドシート キャンバスを使用してスプレッドシート データを生き生きとさせる",
+          "title_en": "Bring your spreadsheet data to life with Sheets canvas",
+          "title_original": "Bring your spreadsheet data to life with Sheets canvas",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T16:45:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8405,
+      "importance": 0.8405,
+      "importance_score": 0.8405,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9808,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-13T16:45:00Z",
+      "latest_at": "2026-08-13T16:45:00Z",
+      "primary_item": {
+        "id": "777014cd6f2be6787e73dcd64d3b79c4e131fa91",
+        "title": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用 / Bring your spreadsheet data to life with Sheets canvas",
+        "title_zh": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用",
+        "title_ja": "スプレッドシート キャンバスを使用してスプレッドシート データを生き生きとさせる",
+        "title_en": "Bring your spreadsheet data to life with Sheets canvas",
+        "title_original": "Bring your spreadsheet data to life with Sheets canvas",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-13T18:06:51.112813Z"
       }
     },
     {
@@ -144,16 +326,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8423,
-      "importance": 0.8423,
-      "importance_score": 0.8423,
+      "score": 0.8401,
+      "importance": 0.8401,
+      "importance_score": 0.8401,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9017,
+        "recency": 0.8897,
         "story_heat": 0.0
       },
       "category": "official",
@@ -182,98 +364,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T17:11:34.204724Z"
-      }
-    },
-    {
-      "story_id": "story_ff650fa8bd8f",
-      "title": "通过复制 ICML 的 2,200 篇论文我们学到了什么 / What We Learned by Reproducing 2,200 papers from ICML",
-      "title_ja": "ICML の 2,200 件の論文を再現して学んだこと",
-      "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
-      "primary_url": "https://huggingface.co/blog/icml-2026-open-reproductions",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d873bd6e99bbc0a197e544ff33100002b89954b2",
-          "title": "通过复制 ICML 的 2,200 篇论文我们学到了什么 / What We Learned by Reproducing 2,200 papers from ICML",
-          "title_zh": "通过复制 ICML 的 2,200 篇论文我们学到了什么",
-          "title_ja": "ICML の 2,200 件の論文を再現して学んだこと",
-          "title_en": "What We Learned by Reproducing 2,200 papers from ICML",
-          "title_original": "What We Learned by Reproducing 2,200 papers from ICML",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-13T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "d873bd6e99bbc0a197e544ff33100002b89954b2",
-          "title": "通过复制 ICML 的 2,200 篇论文我们学到了什么 / What We Learned by Reproducing 2,200 papers from ICML",
-          "title_zh": "通过复制 ICML 的 2,200 篇论文我们学到了什么",
-          "title_ja": "ICML の 2,200 件の論文を再現して学んだこと",
-          "title_en": "What We Learned by Reproducing 2,200 papers from ICML",
-          "title_original": "What We Learned by Reproducing 2,200 papers from ICML",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-13T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8205,
-      "importance": 0.8205,
-      "importance_score": 0.8205,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7804,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-13T00:00:00Z",
-      "latest_at": "2026-08-13T00:00:00Z",
-      "primary_item": {
-        "id": "d873bd6e99bbc0a197e544ff33100002b89954b2",
-        "title": "通过复制 ICML 的 2,200 篇论文我们学到了什么 / What We Learned by Reproducing 2,200 papers from ICML",
-        "title_zh": "通过复制 ICML 的 2,200 篇论文我们学到了什么",
-        "title_ja": "ICML の 2,200 件の論文を再現して学んだこと",
-        "title_en": "What We Learned by Reproducing 2,200 papers from ICML",
-        "title_original": "What We Learned by Reproducing 2,200 papers from ICML",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-13T17:11:34.204724Z"
+        "scored_at": "2026-08-13T18:06:51.112813Z"
       }
     },
     {
@@ -326,16 +417,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8107,
-      "importance": 0.8107,
-      "importance_score": 0.8107,
+      "score": 0.809,
+      "importance": 0.809,
+      "importance_score": 0.809,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7261,
+        "recency": 0.7164,
         "story_heat": 0.0
       },
       "category": "official",
@@ -364,7 +455,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T17:11:34.204724Z"
+        "scored_at": "2026-08-13T18:06:51.112813Z"
       }
     },
     {
@@ -417,16 +508,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.802,
-      "importance": 0.802,
-      "importance_score": 0.802,
+      "score": 0.8003,
+      "importance": 0.8003,
+      "importance_score": 0.8003,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7224,
+        "recency": 0.7129,
         "story_heat": 0.0
       },
       "category": "official",
@@ -455,7 +546,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T17:11:34.204724Z"
+        "scored_at": "2026-08-13T18:06:51.112813Z"
       }
     },
     {
@@ -508,16 +599,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.832,
-      "importance": 0.832,
-      "importance_score": 0.832,
+      "score": 0.8299,
+      "importance": 0.8299,
+      "importance_score": 0.8299,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8887,
+        "recency": 0.877,
         "story_heat": 0.0
       },
       "category": "official",
@@ -546,7 +637,98 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T17:11:34.204724Z"
+        "scored_at": "2026-08-13T18:06:51.112813Z"
+      }
+    },
+    {
+      "story_id": "story_ff650fa8bd8f",
+      "title": "通过复制 ICML 的 2,200 篇论文我们学到了什么 / What We Learned by Reproducing 2,200 papers from ICML",
+      "title_ja": "ICML の 2,200 件の論文を再現して学んだこと",
+      "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
+      "primary_url": "https://huggingface.co/blog/icml-2026-open-reproductions",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d873bd6e99bbc0a197e544ff33100002b89954b2",
+          "title": "通过复制 ICML 的 2,200 篇论文我们学到了什么 / What We Learned by Reproducing 2,200 papers from ICML",
+          "title_zh": "通过复制 ICML 的 2,200 篇论文我们学到了什么",
+          "title_ja": "ICML の 2,200 件の論文を再現して学んだこと",
+          "title_en": "What We Learned by Reproducing 2,200 papers from ICML",
+          "title_original": "What We Learned by Reproducing 2,200 papers from ICML",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "d873bd6e99bbc0a197e544ff33100002b89954b2",
+          "title": "通过复制 ICML 的 2,200 篇论文我们学到了什么 / What We Learned by Reproducing 2,200 papers from ICML",
+          "title_zh": "通过复制 ICML 的 2,200 篇论文我们学到了什么",
+          "title_ja": "ICML の 2,200 件の論文を再現して学んだこと",
+          "title_en": "What We Learned by Reproducing 2,200 papers from ICML",
+          "title_original": "What We Learned by Reproducing 2,200 papers from ICML",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8186,
+      "importance": 0.8186,
+      "importance_score": 0.8186,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7701,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-13T00:00:00Z",
+      "latest_at": "2026-08-13T00:00:00Z",
+      "primary_item": {
+        "id": "d873bd6e99bbc0a197e544ff33100002b89954b2",
+        "title": "通过复制 ICML 的 2,200 篇论文我们学到了什么 / What We Learned by Reproducing 2,200 papers from ICML",
+        "title_zh": "通过复制 ICML 的 2,200 篇论文我们学到了什么",
+        "title_ja": "ICML の 2,200 件の論文を再現して学んだこと",
+        "title_en": "What We Learned by Reproducing 2,200 papers from ICML",
+        "title_original": "What We Learned by Reproducing 2,200 papers from ICML",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-13T18:06:51.112813Z"
       }
     },
     {
@@ -599,16 +781,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7799,
-      "importance": 0.7799,
-      "importance_score": 0.7799,
+      "score": 0.7777,
+      "importance": 0.7777,
+      "importance_score": 0.7777,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9185,
+        "recency": 0.9063,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -636,7 +818,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T17:11:34.204724Z"
+        "scored_at": "2026-08-13T18:06:51.112813Z"
       }
     },
     {
@@ -689,16 +871,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7938,
-      "importance": 0.7938,
-      "importance_score": 0.7938,
+      "score": 0.792,
+      "importance": 0.792,
+      "importance_score": 0.792,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7209,
+        "recency": 0.7114,
         "story_heat": 0.0
       },
       "category": "official",
@@ -727,7 +909,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T17:11:34.204724Z"
+        "scored_at": "2026-08-13T18:06:51.112813Z"
       }
     },
     {
@@ -780,16 +962,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7589,
-      "importance": 0.7589,
-      "importance_score": 0.7589,
+      "score": 0.7567,
+      "importance": 0.7567,
+      "importance_score": 0.7567,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9014,
+        "recency": 0.8895,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -817,7 +999,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T17:11:34.204724Z"
+        "scored_at": "2026-08-13T18:06:51.112813Z"
       }
     },
     {
@@ -870,22 +1052,21 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7518,
-      "importance": 0.7518,
-      "importance_score": 0.7518,
+      "score": 0.7499,
+      "importance": 0.7499,
+      "importance_score": 0.7499,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7958,
+        "recency": 0.7852,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-13T01:20:54.259000Z",
       "latest_at": "2026-08-13T01:20:54.259000Z",
@@ -907,7 +1088,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T17:11:34.204724Z"
+        "scored_at": "2026-08-13T18:06:51.112813Z"
       }
     },
     {
@@ -960,22 +1141,21 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7507,
-      "importance": 0.7507,
-      "importance_score": 0.7507,
+      "score": 0.7485,
+      "importance": 0.7485,
+      "importance_score": 0.7485,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9061,
+        "recency": 0.8941,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-13T10:20:29.217460Z",
       "latest_at": "2026-08-13T10:20:29.217460Z",
@@ -997,96 +1177,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T17:11:34.204724Z"
-      }
-    },
-    {
-      "story_id": "story_d59aee8eef1f",
-      "title": "空货架还是丢钥匙？Google 研究：Recall 是参数化事实性的瓶颈 / Empty shelves or lost keys？ Recall is the bottleneck for parametric factuality",
-      "title_ja": "空の棚、それとも鍵の紛失?パラメトリックな事実性のボトルネックは思い出すことです",
-      "url": "https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality",
-      "primary_url": "https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality",
-      "source": "Google Research：Blog（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1f941023a37e199732fe7e4052e7401ca80f500b",
-          "title": "空货架还是丢钥匙？Google 研究：Recall 是参数化事实性的瓶颈 / Empty shelves or lost keys？ Recall is the bottleneck for parametric factuality",
-          "title_zh": "空货架还是丢钥匙？Google 研究：Recall 是参数化事实性的瓶颈",
-          "title_ja": "空の棚、それとも鍵の紛失?パラメトリックな事実性のボトルネックは思い出すことです",
-          "title_en": "Empty shelves or lost keys？ Recall is the bottleneck for parametric factuality",
-          "title_original": "Empty shelves or lost keys？ Recall is the bottleneck for parametric factuality",
-          "summary": "Google Research 提出知识画像框架，发现前沿 LLM（如 Gemini3、GPT-5）的事实编码接近饱和，但回忆（recall）能力不足，多数事实错误源于\"丢钥匙\"而非\"空货架\"。该框架将事实分为编码失败、回忆失败等五类画像，并配套推出 WikiProfile 基准，含 2，150 条维基百科事实，每条配 10 个问题，用于分别探测编码、回忆与识别能力。",
-          "summary_ja": "Google Research は知識プロファイリング フレームワークを提案し、最先端の LLM (Gemini3、GPT-5 など) のファクト エンコーディングは飽和に近いものの、再現能力が不十分であることを発見しました。ほとんどの事実誤認は、「空の棚」ではなく「鍵の紛失」に起因します。このフレームワークは、ファクトをエンコードの失敗やリコールの失敗など 5 つのカテゴリに分類し、WikiProfile ベンチマークを起動します。このベンチマークには 2,150 の Wikipedia ファクトが含まれており、それぞれに 10 の質問があり、それぞれエンコード、リコール、認識の能力を検出します。",
-          "recommend_reason_zh": null,
-          "url": "https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality",
-          "source": "Google Research：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-12T17:57:36.369000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google Research：Blog（网页）"
-      ],
-      "items": [
-        {
-          "id": "1f941023a37e199732fe7e4052e7401ca80f500b",
-          "title": "空货架还是丢钥匙？Google 研究：Recall 是参数化事实性的瓶颈 / Empty shelves or lost keys？ Recall is the bottleneck for parametric factuality",
-          "title_zh": "空货架还是丢钥匙？Google 研究：Recall 是参数化事实性的瓶颈",
-          "title_ja": "空の棚、それとも鍵の紛失?パラメトリックな事実性のボトルネックは思い出すことです",
-          "title_en": "Empty shelves or lost keys？ Recall is the bottleneck for parametric factuality",
-          "title_original": "Empty shelves or lost keys？ Recall is the bottleneck for parametric factuality",
-          "summary": "Google Research 提出知识画像框架，发现前沿 LLM（如 Gemini3、GPT-5）的事实编码接近饱和，但回忆（recall）能力不足，多数事实错误源于\"丢钥匙\"而非\"空货架\"。该框架将事实分为编码失败、回忆失败等五类画像，并配套推出 WikiProfile 基准，含 2，150 条维基百科事实，每条配 10 个问题，用于分别探测编码、回忆与识别能力。",
-          "summary_ja": "Google Research は知識プロファイリング フレームワークを提案し、最先端の LLM (Gemini3、GPT-5 など) のファクト エンコーディングは飽和に近いものの、再現能力が不十分であることを発見しました。ほとんどの事実誤認は、「空の棚」ではなく「鍵の紛失」に起因します。このフレームワークは、ファクトをエンコードの失敗やリコールの失敗など 5 つのカテゴリに分類し、WikiProfile ベンチマークを起動します。このベンチマークには 2,150 の Wikipedia ファクトが含まれており、それぞれに 10 の質問があり、それぞれエンコード、リコール、認識の能力を検出します。",
-          "recommend_reason_zh": null,
-          "url": "https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality",
-          "source": "Google Research：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-12T17:57:36.369000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7467,
-      "importance": 0.7467,
-      "importance_score": 0.7467,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7152,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-12T17:57:36.369000Z",
-      "latest_at": "2026-08-12T17:57:36.369000Z",
-      "primary_item": {
-        "id": "1f941023a37e199732fe7e4052e7401ca80f500b",
-        "title": "空货架还是丢钥匙？Google 研究：Recall 是参数化事实性的瓶颈 / Empty shelves or lost keys？ Recall is the bottleneck for parametric factuality",
-        "title_zh": "空货架还是丢钥匙？Google 研究：Recall 是参数化事实性的瓶颈",
-        "title_ja": "空の棚、それとも鍵の紛失?パラメトリックな事実性のボトルネックは思い出すことです",
-        "title_en": "Empty shelves or lost keys？ Recall is the bottleneck for parametric factuality",
-        "title_original": "Empty shelves or lost keys？ Recall is the bottleneck for parametric factuality",
-        "summary": "Google Research 提出知识画像框架，发现前沿 LLM（如 Gemini3、GPT-5）的事实编码接近饱和，但回忆（recall）能力不足，多数事实错误源于\"丢钥匙\"而非\"空货架\"。该框架将事实分为编码失败、回忆失败等五类画像，并配套推出 WikiProfile 基准，含 2，150 条维基百科事实，每条配 10 个问题，用于分别探测编码、回忆与识别能力。",
-        "summary_ja": "Google Research は知識プロファイリング フレームワークを提案し、最先端の LLM (Gemini3、GPT-5 など) のファクト エンコーディングは飽和に近いものの、再現能力が不十分であることを発見しました。ほとんどの事実誤認は、「空の棚」ではなく「鍵の紛失」に起因します。このフレームワークは、ファクトをエンコードの失敗やリコールの失敗など 5 つのカテゴリに分類し、WikiProfile ベンチマークを起動します。このベンチマークには 2,150 の Wikipedia ファクトが含まれており、それぞれに 10 の質問があり、それぞれエンコード、リコール、認識の能力を検出します。",
-        "recommend_reason_zh": null,
-        "url": "https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality",
-        "source": "Google Research：Blog（网页）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-13T17:11:34.204724Z"
+        "scored_at": "2026-08-13T18:06:51.112813Z"
       }
     },
     {
@@ -1139,16 +1230,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7448,
-      "importance": 0.7448,
-      "importance_score": 0.7448,
+      "score": 0.7425,
+      "importance": 0.7425,
+      "importance_score": 0.7425,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9564,
+        "recency": 0.9437,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1175,7 +1266,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T17:11:34.204724Z"
+        "scored_at": "2026-08-13T18:06:51.112813Z"
       }
     },
     {
@@ -1228,16 +1319,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7398,
-      "importance": 0.7398,
-      "importance_score": 0.7398,
+      "score": 0.7375,
+      "importance": 0.7375,
+      "importance_score": 0.7375,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.63,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9957,
+        "recency": 0.9826,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1264,7 +1355,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T17:11:34.204724Z"
+        "scored_at": "2026-08-13T18:06:51.112813Z"
       }
     },
     {
@@ -1317,16 +1408,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7392,
-      "importance": 0.7392,
-      "importance_score": 0.7392,
+      "score": 0.7369,
+      "importance": 0.7369,
+      "importance_score": 0.7369,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.942,
+        "recency": 0.9296,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1353,7 +1444,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T17:11:34.204724Z"
+        "scored_at": "2026-08-13T18:06:51.112813Z"
       }
     },
     {
@@ -1406,22 +1497,21 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7507,
-      "importance": 0.7507,
-      "importance_score": 0.7507,
+      "score": 0.7485,
+      "importance": 0.7485,
+      "importance_score": 0.7485,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9061,
+        "recency": 0.8941,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-13T10:20:29.217460Z",
       "latest_at": "2026-08-13T10:20:29.217460Z",
@@ -1443,7 +1533,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T17:11:34.204724Z"
+        "scored_at": "2026-08-13T18:06:51.112813Z"
       }
     },
     {
@@ -1496,22 +1586,21 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7507,
-      "importance": 0.7507,
-      "importance_score": 0.7507,
+      "score": 0.7485,
+      "importance": 0.7485,
+      "importance_score": 0.7485,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9061,
+        "recency": 0.8941,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-13T10:20:29.217460Z",
       "latest_at": "2026-08-13T10:20:29.217460Z",
@@ -1533,7 +1622,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T17:11:34.204724Z"
+        "scored_at": "2026-08-13T18:06:51.112813Z"
       }
     },
     {
@@ -1586,16 +1675,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7469,
-      "importance": 0.7469,
-      "importance_score": 0.7469,
+      "score": 0.7448,
+      "importance": 0.7448,
+      "importance_score": 0.7448,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8849,
+        "recency": 0.8732,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1622,7 +1711,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T17:11:34.204724Z"
+        "scored_at": "2026-08-13T18:06:51.112813Z"
       }
     },
     {
@@ -1741,16 +1830,16 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6561,
-      "importance": 0.6561,
-      "importance_score": 0.6561,
+      "score": 0.6543,
+      "importance": 0.6543,
+      "importance_score": 0.6543,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.5904,
         "source_tier": 0.58,
         "ai_relevance": 0.82,
-        "recency": 0.7631,
+        "recency": 0.753,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1778,96 +1867,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T17:11:34.204724Z"
-      }
-    },
-    {
-      "story_id": "story_cf649a906cf4",
-      "title": "Al代码测试初创公司Blacksmith估值一年内上涨近10倍",
-      "title_ja": "アルコードテストの新興企業Blacksmithの評価額が1年で10倍近く上昇",
-      "url": "https://www.aibase.com/news/30320",
-      "primary_url": "https://www.aibase.com/news/30320",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "5595c0507566904c8d3c6d45579fff9bfc9f5b58",
-          "title": "Al代码测试初创公司Blacksmith估值一年内上涨近10倍",
-          "title_zh": "Al代码测试初创公司Blacksmith估值一年内上涨近10倍",
-          "title_ja": "アルコードテストの新興企業Blacksmithの評価額が1年で10倍近く上昇",
-          "title_en": null,
-          "title_original": "Al代码测试初创公司Blacksmith估值一年内上涨近10倍",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30320",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-13T08:42:14.744449Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "5595c0507566904c8d3c6d45579fff9bfc9f5b58",
-          "title": "Al代码测试初创公司Blacksmith估值一年内上涨近10倍",
-          "title_zh": "Al代码测试初创公司Blacksmith估值一年内上涨近10倍",
-          "title_ja": "アルコードテストの新興企業Blacksmithの評価額が1年で10倍近く上昇",
-          "title_en": null,
-          "title_original": "Al代码测试初创公司Blacksmith估值一年内上涨近10倍",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30320",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-13T08:42:14.744449Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7469,
-      "importance": 0.7469,
-      "importance_score": 0.7469,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8849,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-13T08:42:14.744449Z",
-      "latest_at": "2026-08-13T08:42:14.744449Z",
-      "primary_item": {
-        "id": "5595c0507566904c8d3c6d45579fff9bfc9f5b58",
-        "title": "Al代码测试初创公司Blacksmith估值一年内上涨近10倍",
-        "title_zh": "Al代码测试初创公司Blacksmith估值一年内上涨近10倍",
-        "title_ja": "アルコードテストの新興企業Blacksmithの評価額が1年で10倍近く上昇",
-        "title_en": null,
-        "title_original": "Al代码测试初创公司Blacksmith估值一年内上涨近10倍",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30320",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-13T17:11:34.204724Z"
+        "scored_at": "2026-08-13T18:06:51.112813Z"
       }
     }
   ]
