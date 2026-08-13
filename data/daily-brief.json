@@ -1,8 +1,133 @@
 {
-  "generated_at": "2026-08-13T18:05:31.014084Z",
+  "generated_at": "2026-08-13T19:17:58.733034Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_3fd84efeedff",
+      "title": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能 / The builder’s guide to GPT‑5.6",
+      "title_ja": "GPT-5.6 ビルダーズ ガイド",
+      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "primary_url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4f7dedbe4a69766d646c14d32955cbaf6870a15c",
+          "title": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能 / The builder’s guide to GPT‑5.6",
+          "title_zh": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能",
+          "title_ja": "GPT-5.6 ビルダーズ ガイド",
+          "title_en": "The builder’s guide to GPT‑5.6",
+          "title_original": "The builder’s guide to GPT‑5.6",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T11:00:00Z"
+        },
+        {
+          "id": "864d3f33938ba9eb0280be7495fcd78fa2fd212b",
+          "title": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能 / The builder's guide to GPT-5.6",
+          "title_zh": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能",
+          "title_ja": "GPT-5.6 ビルダーズ ガイド",
+          "title_en": "The builder's guide to GPT-5.6",
+          "title_original": "The builder's guide to GPT-5.6",
+          "summary": "GPT-5.6 模型家族以更低成本实现前沿级智能体性能，并新增推理持久化、原生多智能体编排和程序化工具调用等 API 能力。在 ARC-AGI-3 上，启用保留推理和压缩后，Sol 得分从 13.3% 跃升至 38.3%，且输出 token 减少约 6 倍。Luna 在 BrowseComp 上以 84.04% 的得分追平 GPT-5.5（84.36%），成本从 $33.27 降至 $1.33。",
+          "summary_ja": "GPT-5.6 モデル ファミリは、低コストで最先端のエージェント パフォーマンスを実現し、推論永続性、ネイティブ マルチエージェント オーケストレーション、プログラムによるツール呼び出しなどの新しい API 機能を追加します。 ARC-AGI-3 では、保存推論と圧縮が有効になっているため、Sol スコアは 13.3% から 38.3% に跳ね上がり、出力トークンは約 6 分の 1 に減少します。 Luna は BrowseComp で 84.04% のスコアで GPT-5.5 (84.36%) に並び、コストは 33.27 ドルから 1.33 ドルに下がりました。",
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-13T11:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+      ],
+      "items": [
+        {
+          "id": "4f7dedbe4a69766d646c14d32955cbaf6870a15c",
+          "title": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能 / The builder’s guide to GPT‑5.6",
+          "title_zh": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能",
+          "title_ja": "GPT-5.6 ビルダーズ ガイド",
+          "title_en": "The builder’s guide to GPT‑5.6",
+          "title_original": "The builder’s guide to GPT‑5.6",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T11:00:00Z"
+        },
+        {
+          "id": "864d3f33938ba9eb0280be7495fcd78fa2fd212b",
+          "title": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能 / The builder's guide to GPT-5.6",
+          "title_zh": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能",
+          "title_ja": "GPT-5.6 ビルダーズ ガイド",
+          "title_en": "The builder's guide to GPT-5.6",
+          "title_original": "The builder's guide to GPT-5.6",
+          "summary": "GPT-5.6 模型家族以更低成本实现前沿级智能体性能，并新增推理持久化、原生多智能体编排和程序化工具调用等 API 能力。在 ARC-AGI-3 上，启用保留推理和压缩后，Sol 得分从 13.3% 跃升至 38.3%，且输出 token 减少约 6 倍。Luna 在 BrowseComp 上以 84.04% 的得分追平 GPT-5.5（84.36%），成本从 $33.27 降至 $1.33。",
+          "summary_ja": "GPT-5.6 モデル ファミリは、低コストで最先端のエージェント パフォーマンスを実現し、推論永続性、ネイティブ マルチエージェント オーケストレーション、プログラムによるツール呼び出しなどの新しい API 機能を追加します。 ARC-AGI-3 では、保存推論と圧縮が有効になっているため、Sol スコアは 13.3% から 38.3% に跳ね上がり、出力トークンは約 6 分の 1 に減少します。 Luna は BrowseComp で 84.04% のスコアで GPT-5.5 (84.36%) に並び、コストは 33.27 ドルから 1.33 ドルに下がりました。",
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-13T11:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8647,
+      "importance": 0.8647,
+      "importance_score": 0.8647,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8871,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-13T11:00:00Z",
+      "latest_at": "2026-08-13T11:00:00Z",
+      "primary_item": {
+        "id": "4f7dedbe4a69766d646c14d32955cbaf6870a15c",
+        "title": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能 / The builder’s guide to GPT‑5.6",
+        "title_zh": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能",
+        "title_ja": "GPT-5.6 ビルダーズ ガイド",
+        "title_en": "The builder’s guide to GPT‑5.6",
+        "title_original": "The builder’s guide to GPT‑5.6",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-13T19:19:25.614374Z"
+      }
+    },
     {
       "story_id": "story_7243b3d66c55",
       "title": "使用 Strands Agents、LeRobot 和 Hugging Face Storage Buckets 从一处进行记录、训练和部署 / Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
@@ -53,16 +178,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8639,
-      "importance": 0.8639,
-      "importance_score": 0.8639,
+      "score": 0.8608,
+      "importance": 0.8608,
+      "importance_score": 0.8608,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9882,
+        "recency": 0.9711,
         "story_heat": 0.0
       },
       "category": "official",
@@ -91,7 +216,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T18:06:51.112813Z"
+        "scored_at": "2026-08-13T19:19:25.614374Z"
       }
     },
     {
@@ -144,16 +269,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8494,
-      "importance": 0.8494,
-      "importance_score": 0.8494,
+      "score": 0.8463,
+      "importance": 0.8463,
+      "importance_score": 0.8463,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9854,
+        "recency": 0.9683,
         "story_heat": 0.0
       },
       "category": "official",
@@ -182,7 +307,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T18:06:51.112813Z"
+        "scored_at": "2026-08-13T19:19:25.614374Z"
       }
     },
     {
@@ -235,16 +360,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8405,
-      "importance": 0.8405,
-      "importance_score": 0.8405,
+      "score": 0.8375,
+      "importance": 0.8375,
+      "importance_score": 0.8375,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9808,
+        "recency": 0.9639,
         "story_heat": 0.0
       },
       "category": "official",
@@ -273,7 +398,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T18:06:51.112813Z"
+        "scored_at": "2026-08-13T19:19:25.614374Z"
       }
     },
     {
@@ -300,10 +425,27 @@
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-08-13T10:00:00Z"
+        },
+        {
+          "id": "0da95d0920a7077beace9b3340245448028dd120",
+          "title": "预览超快模式：GPT‑5.6 Sol 速度高达 14 倍 / Previewing Ultrafast mode: GPT‑5.6 Sol at up to 14X the speed",
+          "title_zh": "预览超快模式：GPT‑5.6 Sol 速度高达 14 倍",
+          "title_ja": "超高速モードのプレビュー: GPT-5.6 Sol を最大 14 倍の速度で表示",
+          "title_en": "Previewing Ultrafast mode: GPT‑5.6 Sol at up to 14X the speed",
+          "title_original": "Previewing Ultrafast mode: GPT‑5.6 Sol at up to 14X the speed",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/previewing-ultrafast",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-13T16:59:06Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
+        "Hacker News · 24h最热",
         "OpenAI News"
       ],
       "items": [
@@ -322,30 +464,47 @@
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-08-13T10:00:00Z"
+        },
+        {
+          "id": "0da95d0920a7077beace9b3340245448028dd120",
+          "title": "预览超快模式：GPT‑5.6 Sol 速度高达 14 倍 / Previewing Ultrafast mode: GPT‑5.6 Sol at up to 14X the speed",
+          "title_zh": "预览超快模式：GPT‑5.6 Sol 速度高达 14 倍",
+          "title_ja": "超高速モードのプレビュー: GPT-5.6 Sol を最大 14 倍の速度で表示",
+          "title_en": "Previewing Ultrafast mode: GPT‑5.6 Sol at up to 14X the speed",
+          "title_original": "Previewing Ultrafast mode: GPT‑5.6 Sol at up to 14X the speed",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/previewing-ultrafast",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-13T16:59:06Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8401,
-      "importance": 0.8401,
-      "importance_score": 0.8401,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8624,
+      "importance": 0.8624,
+      "importance_score": 0.8624,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8897,
-        "story_heat": 0.0
+        "recency": 0.8743,
+        "story_heat": 0.25
       },
       "category": "official",
       "reasons": [
         "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
       "earliest_at": "2026-08-13T10:00:00Z",
-      "latest_at": "2026-08-13T10:00:00Z",
+      "latest_at": "2026-08-13T16:59:06Z",
       "primary_item": {
         "id": "5175d87bcae80ab0d848d51674956034c540468a",
         "title": "预览超快模式：GPT-5.6 Sol 速度高达 14 倍 / Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
@@ -364,69 +523,69 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T18:06:51.112813Z"
+        "scored_at": "2026-08-13T19:19:25.614374Z"
       }
     },
     {
-      "story_id": "story_fdae5f4986f9",
-      "title": "使用 GitHub Copilot 应用编写您的第一个提示 / Write your first prompt with the GitHub Copilot app",
-      "title_ja": "GitHub Copilot アプリを使用して最初のプロンプトを作成する",
-      "url": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app",
-      "primary_url": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app",
-      "source": "GitHub AI & ML",
+      "story_id": "story_4b3de57e13b8",
+      "title": "Computer History",
+      "title_ja": "コンピュータの歴史",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "21521f8133745ac51cd608ae1879dee3c65d6668",
-          "title": "使用 GitHub Copilot 应用编写您的第一个提示 / Write your first prompt with the GitHub Copilot app",
-          "title_zh": "使用 GitHub Copilot 应用编写您的第一个提示",
-          "title_ja": "GitHub Copilot アプリを使用して最初のプロンプトを作成する",
-          "title_en": "Write your first prompt with the GitHub Copilot app",
-          "title_original": "Write your first prompt with the GitHub Copilot app",
+          "id": "44695098290e3788d04048785a37b110c9282a6d",
+          "title": "Computer History",
+          "title_zh": null,
+          "title_ja": "コンピュータの歴史",
+          "title_en": "Computer History",
+          "title_original": "Computer History",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app",
-          "source": "GitHub AI & ML",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-12T19:00:00Z"
+          "published_at": "2026-08-13T00:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub AI & ML"
+        "OpenAI Codex Changelog"
       ],
       "items": [
         {
-          "id": "21521f8133745ac51cd608ae1879dee3c65d6668",
-          "title": "使用 GitHub Copilot 应用编写您的第一个提示 / Write your first prompt with the GitHub Copilot app",
-          "title_zh": "使用 GitHub Copilot 应用编写您的第一个提示",
-          "title_ja": "GitHub Copilot アプリを使用して最初のプロンプトを作成する",
-          "title_en": "Write your first prompt with the GitHub Copilot app",
-          "title_original": "Write your first prompt with the GitHub Copilot app",
+          "id": "44695098290e3788d04048785a37b110c9282a6d",
+          "title": "Computer History",
+          "title_zh": null,
+          "title_ja": "コンピュータの歴史",
+          "title_en": "Computer History",
+          "title_original": "Computer History",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app",
-          "source": "GitHub AI & ML",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-12T19:00:00Z"
+          "published_at": "2026-08-13T00:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.809,
-      "importance": 0.809,
-      "importance_score": 0.809,
+      "score": 0.8222,
+      "importance": 0.8222,
+      "importance_score": 0.8222,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7164,
+        "ai_relevance": 0.98,
+        "recency": 0.7568,
         "story_heat": 0.0
       },
       "category": "official",
@@ -435,209 +594,27 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-12T19:00:00Z",
-      "latest_at": "2026-08-12T19:00:00Z",
+      "earliest_at": "2026-08-13T00:00:00Z",
+      "latest_at": "2026-08-13T00:00:00Z",
       "primary_item": {
-        "id": "21521f8133745ac51cd608ae1879dee3c65d6668",
-        "title": "使用 GitHub Copilot 应用编写您的第一个提示 / Write your first prompt with the GitHub Copilot app",
-        "title_zh": "使用 GitHub Copilot 应用编写您的第一个提示",
-        "title_ja": "GitHub Copilot アプリを使用して最初のプロンプトを作成する",
-        "title_en": "Write your first prompt with the GitHub Copilot app",
-        "title_original": "Write your first prompt with the GitHub Copilot app",
+        "id": "44695098290e3788d04048785a37b110c9282a6d",
+        "title": "Computer History",
+        "title_zh": null,
+        "title_ja": "コンピュータの歴史",
+        "title_en": "Computer History",
+        "title_original": "Computer History",
         "summary": null,
         "summary_ja": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app",
-        "source": "GitHub AI & ML",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T18:06:51.112813Z"
-      }
-    },
-    {
-      "story_id": "story_094f6572bd5f",
-      "title": "VS Code、Copilot CLI 和 Copilot 应用程序中的代理插件 1.0 / Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
-      "title_ja": "VS Code、Copilot CLI、および Copilot アプリのエージェント プラグイン 1.0",
-      "url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
-      "primary_url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "18e5595d096312125c112295fde577991c1afc7c",
-          "title": "VS Code、Copilot CLI 和 Copilot 应用程序中的代理插件 1.0 / Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
-          "title_zh": "VS Code、Copilot CLI 和 Copilot 应用程序中的代理插件 1.0",
-          "title_ja": "VS Code、Copilot CLI、および Copilot アプリのエージェント プラグイン 1.0",
-          "title_en": "Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
-          "title_original": "Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-12T18:39:11Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "18e5595d096312125c112295fde577991c1afc7c",
-          "title": "VS Code、Copilot CLI 和 Copilot 应用程序中的代理插件 1.0 / Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
-          "title_zh": "VS Code、Copilot CLI 和 Copilot 应用程序中的代理插件 1.0",
-          "title_ja": "VS Code、Copilot CLI、および Copilot アプリのエージェント プラグイン 1.0",
-          "title_en": "Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
-          "title_original": "Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-12T18:39:11Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8003,
-      "importance": 0.8003,
-      "importance_score": 0.8003,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7129,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-12T18:39:11Z",
-      "latest_at": "2026-08-12T18:39:11Z",
-      "primary_item": {
-        "id": "18e5595d096312125c112295fde577991c1afc7c",
-        "title": "VS Code、Copilot CLI 和 Copilot 应用程序中的代理插件 1.0 / Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
-        "title_zh": "VS Code、Copilot CLI 和 Copilot 应用程序中的代理插件 1.0",
-        "title_ja": "VS Code、Copilot CLI、および Copilot アプリのエージェント プラグイン 1.0",
-        "title_en": "Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
-        "title_original": "Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-13T18:06:51.112813Z"
-      }
-    },
-    {
-      "story_id": "story_54d692d2c27d",
-      "title": "OpenAI 任命 Dali Rajic 为首席营收官 / OpenAI appoints Dali Rajic as Chief Revenue Officer",
-      "title_ja": "OpenAI、ダリ・ラジク氏を最高収益責任者に任命",
-      "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-      "primary_url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "a2ac044bd79bc5e88f856253f974a7d4adca77ea",
-          "title": "OpenAI 任命 Dali Rajic 为首席营收官 / OpenAI appoints Dali Rajic as Chief Revenue Officer",
-          "title_zh": "OpenAI 任命 Dali Rajic 为首席营收官",
-          "title_ja": "OpenAI、ダリ・ラジク氏を最高収益責任者に任命",
-          "title_en": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-          "title_original": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-13T09:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "a2ac044bd79bc5e88f856253f974a7d4adca77ea",
-          "title": "OpenAI 任命 Dali Rajic 为首席营收官 / OpenAI appoints Dali Rajic as Chief Revenue Officer",
-          "title_zh": "OpenAI 任命 Dali Rajic 为首席营收官",
-          "title_ja": "OpenAI、ダリ・ラジク氏を最高収益責任者に任命",
-          "title_en": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-          "title_original": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-13T09:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8299,
-      "importance": 0.8299,
-      "importance_score": 0.8299,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.877,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-13T09:00:00Z",
-      "latest_at": "2026-08-13T09:00:00Z",
-      "primary_item": {
-        "id": "a2ac044bd79bc5e88f856253f974a7d4adca77ea",
-        "title": "OpenAI 任命 Dali Rajic 为首席营收官 / OpenAI appoints Dali Rajic as Chief Revenue Officer",
-        "title_zh": "OpenAI 任命 Dali Rajic 为首席营收官",
-        "title_ja": "OpenAI、ダリ・ラジク氏を最高収益責任者に任命",
-        "title_en": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-        "title_original": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-13T18:06:51.112813Z"
+        "scored_at": "2026-08-13T19:19:25.614374Z"
       }
     },
     {
@@ -690,16 +667,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8186,
-      "importance": 0.8186,
-      "importance_score": 0.8186,
+      "score": 0.8162,
+      "importance": 0.8162,
+      "importance_score": 0.8162,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7701,
+        "recency": 0.7568,
         "story_heat": 0.0
       },
       "category": "official",
@@ -728,7 +705,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T18:06:51.112813Z"
+        "scored_at": "2026-08-13T19:19:25.614374Z"
       }
     },
     {
@@ -781,16 +758,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7777,
-      "importance": 0.7777,
-      "importance_score": 0.7777,
+      "score": 0.7749,
+      "importance": 0.7749,
+      "importance_score": 0.7749,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9063,
+        "recency": 0.8906,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -818,69 +795,69 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T18:06:51.112813Z"
+        "scored_at": "2026-08-13T19:19:25.614374Z"
       }
     },
     {
-      "story_id": "story_953c86e801a6",
-      "title": "公共预览版中组织的规则见解 / Rule insights for organizations in public preview",
-      "title_ja": "パブリック プレビュー中の組織向けのルールに関する分析情報",
-      "url": "https://github.blog/changelog/2026-08-12-rule-insights-for-organizations-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-08-12-rule-insights-for-organizations-in-public-preview",
-      "source": "GitHub Changelog",
+      "story_id": "story_54d692d2c27d",
+      "title": "OpenAI 任命 Dali Rajic 为首席营收官 / OpenAI appoints Dali Rajic as Chief Revenue Officer",
+      "title_ja": "OpenAI、ダリ・ラジク氏を最高収益責任者に任命",
+      "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+      "primary_url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+      "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "510d9756545ca65b5a4a0d0b640a8f5ffc042971",
-          "title": "公共预览版中组织的规则见解 / Rule insights for organizations in public preview",
-          "title_zh": "公共预览版中组织的规则见解",
-          "title_ja": "パブリック プレビュー中の組織向けのルールに関する分析情報",
-          "title_en": "Rule insights for organizations in public preview",
-          "title_original": "Rule insights for organizations in public preview",
+          "id": "a2ac044bd79bc5e88f856253f974a7d4adca77ea",
+          "title": "OpenAI 任命 Dali Rajic 为首席营收官 / OpenAI appoints Dali Rajic as Chief Revenue Officer",
+          "title_zh": "OpenAI 任命 Dali Rajic 为首席营收官",
+          "title_ja": "OpenAI、ダリ・ラジク氏を最高収益責任者に任命",
+          "title_en": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+          "title_original": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-12-rule-insights-for-organizations-in-public-preview",
-          "source": "GitHub Changelog",
+          "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-12T18:30:28Z"
+          "published_at": "2026-08-13T09:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "510d9756545ca65b5a4a0d0b640a8f5ffc042971",
-          "title": "公共预览版中组织的规则见解 / Rule insights for organizations in public preview",
-          "title_zh": "公共预览版中组织的规则见解",
-          "title_ja": "パブリック プレビュー中の組織向けのルールに関する分析情報",
-          "title_en": "Rule insights for organizations in public preview",
-          "title_original": "Rule insights for organizations in public preview",
+          "id": "a2ac044bd79bc5e88f856253f974a7d4adca77ea",
+          "title": "OpenAI 任命 Dali Rajic 为首席营收官 / OpenAI appoints Dali Rajic as Chief Revenue Officer",
+          "title_zh": "OpenAI 任命 Dali Rajic 为首席营收官",
+          "title_ja": "OpenAI、ダリ・ラジク氏を最高収益責任者に任命",
+          "title_en": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+          "title_original": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-12-rule-insights-for-organizations-in-public-preview",
-          "source": "GitHub Changelog",
+          "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-12T18:30:28Z"
+          "published_at": "2026-08-13T09:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.792,
-      "importance": 0.792,
-      "importance_score": 0.792,
+      "score": 0.8271,
+      "importance": 0.8271,
+      "importance_score": 0.8271,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7114,
+        "ai_relevance": 0.91,
+        "recency": 0.8618,
         "story_heat": 0.0
       },
       "category": "official",
@@ -889,27 +866,27 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-12T18:30:28Z",
-      "latest_at": "2026-08-12T18:30:28Z",
+      "earliest_at": "2026-08-13T09:00:00Z",
+      "latest_at": "2026-08-13T09:00:00Z",
       "primary_item": {
-        "id": "510d9756545ca65b5a4a0d0b640a8f5ffc042971",
-        "title": "公共预览版中组织的规则见解 / Rule insights for organizations in public preview",
-        "title_zh": "公共预览版中组织的规则见解",
-        "title_ja": "パブリック プレビュー中の組織向けのルールに関する分析情報",
-        "title_en": "Rule insights for organizations in public preview",
-        "title_original": "Rule insights for organizations in public preview",
+        "id": "a2ac044bd79bc5e88f856253f974a7d4adca77ea",
+        "title": "OpenAI 任命 Dali Rajic 为首席营收官 / OpenAI appoints Dali Rajic as Chief Revenue Officer",
+        "title_zh": "OpenAI 任命 Dali Rajic 为首席营收官",
+        "title_ja": "OpenAI、ダリ・ラジク氏を最高収益責任者に任命",
+        "title_en": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+        "title_original": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
         "summary": null,
         "summary_ja": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-12-rule-insights-for-organizations-in-public-preview",
-        "source": "GitHub Changelog",
+        "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T18:06:51.112813Z"
+        "scored_at": "2026-08-13T19:19:25.614374Z"
       }
     },
     {
@@ -962,16 +939,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7567,
-      "importance": 0.7567,
-      "importance_score": 0.7567,
+      "score": 0.7539,
+      "importance": 0.7539,
+      "importance_score": 0.7539,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8895,
+        "recency": 0.8741,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -999,7 +976,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T18:06:51.112813Z"
+        "scored_at": "2026-08-13T19:19:25.614374Z"
       }
     },
     {
@@ -1052,16 +1029,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7499,
-      "importance": 0.7499,
-      "importance_score": 0.7499,
+      "score": 0.7475,
+      "importance": 0.7475,
+      "importance_score": 0.7475,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7852,
+        "recency": 0.7716,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1088,7 +1065,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T18:06:51.112813Z"
+        "scored_at": "2026-08-13T19:19:25.614374Z"
       }
     },
     {
@@ -1141,16 +1118,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7485,
-      "importance": 0.7485,
-      "importance_score": 0.7485,
+      "score": 0.7458,
+      "importance": 0.7458,
+      "importance_score": 0.7458,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8941,
+        "recency": 0.8787,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1177,7 +1154,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T18:06:51.112813Z"
+        "scored_at": "2026-08-13T19:19:25.614374Z"
       }
     },
     {
@@ -1230,16 +1207,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7425,
-      "importance": 0.7425,
-      "importance_score": 0.7425,
+      "score": 0.7395,
+      "importance": 0.7395,
+      "importance_score": 0.7395,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9437,
+        "recency": 0.9274,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1266,7 +1243,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T18:06:51.112813Z"
+        "scored_at": "2026-08-13T19:19:25.614374Z"
       }
     },
     {
@@ -1319,16 +1296,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7375,
-      "importance": 0.7375,
-      "importance_score": 0.7375,
+      "score": 0.7344,
+      "importance": 0.7344,
+      "importance_score": 0.7344,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.63,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9826,
+        "recency": 0.9656,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1355,7 +1332,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T18:06:51.112813Z"
+        "scored_at": "2026-08-13T19:19:25.614374Z"
       }
     },
     {
@@ -1408,16 +1385,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7369,
-      "importance": 0.7369,
-      "importance_score": 0.7369,
+      "score": 0.734,
+      "importance": 0.734,
+      "importance_score": 0.734,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9296,
+        "recency": 0.9135,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1444,7 +1421,96 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T18:06:51.112813Z"
+        "scored_at": "2026-08-13T19:19:25.614374Z"
+      }
+    },
+    {
+      "story_id": "story_e73e55e5b18e",
+      "title": "Cursor 推出 builds：云智能体启动速度提升至 3 倍 / Cloud agents start 3x faster with builds",
+      "title_ja": "クラウド エージェントはビルドで 3 倍高速に起動します",
+      "url": "https://cursor.com/blog/builds",
+      "primary_url": "https://cursor.com/blog/builds",
+      "source": "Cursor Blog",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b10bd989bb5e1f3b082880138208e5c1a8f3f067",
+          "title": "Cursor 推出 builds：云智能体启动速度提升至 3 倍 / Cloud agents start 3x faster with builds",
+          "title_zh": "Cursor 推出 builds：云智能体启动速度提升至 3 倍",
+          "title_ja": "クラウド エージェントはビルドで 3 倍高速に起動します",
+          "title_en": "Cloud agents start 3x faster with builds",
+          "title_original": "Cloud agents start 3x faster with builds",
+          "summary": "Cursor 推出 builds 功能，在后台持续准备就绪的开发环境副本，让云智能体启动时无需从零搭建，响应速度最高提升 3 倍。内部环境启动快 10 倍，首个 token 生成快 3 倍；智能体始终从最近一次成功的 build 启动，依赖更新或安装脚本出错时不会影响运行。8 月 17 日起所有环境默认启用 builds，无需额外费用。",
+          "summary_ja": "カーソルによりビルド機能が起動され、バックグラウンドで開発環境のコピーを継続的に準備するため、クラウド エージェントを起動時に最初から構築する必要がなくなり、応答速度が最大 3 倍向上します。内部環境の起動は 10 倍速くなり、最初のトークンは 3 倍速く生成されます。エージェントは常に最新の成功したビルドから開始され、依存関係が更新されたり、インストール スクリプト エラーが発生したりしても、操作は影響を受けません。ビルドは、8 月 17 日以降、追加費用なしですべての環境でデフォルトで有効になります。",
+          "recommend_reason_zh": null,
+          "url": "https://cursor.com/blog/builds",
+          "source": "Cursor Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-13T12:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Cursor Blog"
+      ],
+      "items": [
+        {
+          "id": "b10bd989bb5e1f3b082880138208e5c1a8f3f067",
+          "title": "Cursor 推出 builds：云智能体启动速度提升至 3 倍 / Cloud agents start 3x faster with builds",
+          "title_zh": "Cursor 推出 builds：云智能体启动速度提升至 3 倍",
+          "title_ja": "クラウド エージェントはビルドで 3 倍高速に起動します",
+          "title_en": "Cloud agents start 3x faster with builds",
+          "title_original": "Cloud agents start 3x faster with builds",
+          "summary": "Cursor 推出 builds 功能，在后台持续准备就绪的开发环境副本，让云智能体启动时无需从零搭建，响应速度最高提升 3 倍。内部环境启动快 10 倍，首个 token 生成快 3 倍；智能体始终从最近一次成功的 build 启动，依赖更新或安装脚本出错时不会影响运行。8 月 17 日起所有环境默认启用 builds，无需额外费用。",
+          "summary_ja": "カーソルによりビルド機能が起動され、バックグラウンドで開発環境のコピーを継続的に準備するため、クラウド エージェントを起動時に最初から構築する必要がなくなり、応答速度が最大 3 倍向上します。内部環境の起動は 10 倍速くなり、最初のトークンは 3 倍速く生成されます。エージェントは常に最新の成功したビルドから開始され、依存関係が更新されたり、インストール スクリプト エラーが発生したりしても、操作は影響を受けません。ビルドは、8 月 17 日以降、追加費用なしですべての環境でデフォルトで有効になります。",
+          "recommend_reason_zh": null,
+          "url": "https://cursor.com/blog/builds",
+          "source": "Cursor Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-13T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7286,
+      "importance": 0.7286,
+      "importance_score": 0.7286,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-13T12:00:00Z",
+      "latest_at": "2026-08-13T12:00:00Z",
+      "primary_item": {
+        "id": "b10bd989bb5e1f3b082880138208e5c1a8f3f067",
+        "title": "Cursor 推出 builds：云智能体启动速度提升至 3 倍 / Cloud agents start 3x faster with builds",
+        "title_zh": "Cursor 推出 builds：云智能体启动速度提升至 3 倍",
+        "title_ja": "クラウド エージェントはビルドで 3 倍高速に起動します",
+        "title_en": "Cloud agents start 3x faster with builds",
+        "title_original": "Cloud agents start 3x faster with builds",
+        "summary": "Cursor 推出 builds 功能，在后台持续准备就绪的开发环境副本，让云智能体启动时无需从零搭建，响应速度最高提升 3 倍。内部环境启动快 10 倍，首个 token 生成快 3 倍；智能体始终从最近一次成功的 build 启动，依赖更新或安装脚本出错时不会影响运行。8 月 17 日起所有环境默认启用 builds，无需额外费用。",
+        "summary_ja": "カーソルによりビルド機能が起動され、バックグラウンドで開発環境のコピーを継続的に準備するため、クラウド エージェントを起動時に最初から構築する必要がなくなり、応答速度が最大 3 倍向上します。内部環境の起動は 10 倍速くなり、最初のトークンは 3 倍速く生成されます。エージェントは常に最新の成功したビルドから開始され、依存関係が更新されたり、インストール スクリプト エラーが発生したりしても、操作は影響を受けません。ビルドは、8 月 17 日以降、追加費用なしですべての環境でデフォルトで有効になります。",
+        "recommend_reason_zh": null,
+        "url": "https://cursor.com/blog/builds",
+        "source": "Cursor Blog",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-13T19:19:25.614374Z"
       }
     },
     {
@@ -1497,16 +1563,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7485,
-      "importance": 0.7485,
-      "importance_score": 0.7485,
+      "score": 0.7458,
+      "importance": 0.7458,
+      "importance_score": 0.7458,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8941,
+        "recency": 0.8787,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1533,7 +1599,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T18:06:51.112813Z"
+        "scored_at": "2026-08-13T19:19:25.614374Z"
       }
     },
     {
@@ -1586,16 +1652,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7485,
-      "importance": 0.7485,
-      "importance_score": 0.7485,
+      "score": 0.7458,
+      "importance": 0.7458,
+      "importance_score": 0.7458,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8941,
+        "recency": 0.8787,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1622,7 +1688,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T18:06:51.112813Z"
+        "scored_at": "2026-08-13T19:19:25.614374Z"
       }
     },
     {
@@ -1675,16 +1741,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7448,
-      "importance": 0.7448,
-      "importance_score": 0.7448,
+      "score": 0.7421,
+      "importance": 0.7421,
+      "importance_score": 0.7421,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8732,
+        "recency": 0.8581,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1711,7 +1777,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T18:06:51.112813Z"
+        "scored_at": "2026-08-13T19:19:25.614374Z"
       }
     },
     {
@@ -1830,16 +1896,16 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6543,
-      "importance": 0.6543,
-      "importance_score": 0.6543,
+      "score": 0.6519,
+      "importance": 0.6519,
+      "importance_score": 0.6519,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.5904,
         "source_tier": 0.58,
         "ai_relevance": 0.82,
-        "recency": 0.753,
+        "recency": 0.7399,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1867,7 +1933,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-13T18:06:51.112813Z"
+        "scored_at": "2026-08-13T19:19:25.614374Z"
       }
     }
   ]
