@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T13:39:20.408126Z",
+  "generated_at": "2026-08-14T15:08:56.727256Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -53,16 +53,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8201,
-      "importance": 0.8201,
-      "importance_score": 0.8201,
+      "score": 0.8172,
+      "importance": 0.8172,
+      "importance_score": 0.8172,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.745,
+        "recency": 0.7291,
         "story_heat": 0.0
       },
       "category": "official",
@@ -91,98 +91,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T13:40:11.723037Z"
-      }
-    },
-    {
-      "story_id": "story_9ad9c9918d73",
-      "title": "Gemini 3.7 Flash 现已在 GitHub Copilot 中提供 / Gemini 3.7 Flash is now available in GitHub Copilot",
-      "title_ja": "Gemini 3.7 Flash が GitHub Copilot で利用可能になりました",
-      "url": "https://github.blog/changelog/2026-08-13-gemini-3-7-flash-is-now-available-in-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-08-13-gemini-3-7-flash-is-now-available-in-github-copilot",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e46a7969142d35bb9dcfae3c617c2830726c05bf",
-          "title": "Gemini 3.7 Flash 现已在 GitHub Copilot 中提供 / Gemini 3.7 Flash is now available in GitHub Copilot",
-          "title_zh": "Gemini 3.7 Flash 现已在 GitHub Copilot 中提供",
-          "title_ja": "Gemini 3.7 Flash が GitHub Copilot で利用可能になりました",
-          "title_en": "Gemini 3.7 Flash is now available in GitHub Copilot",
-          "title_original": "Gemini 3.7 Flash is now available in GitHub Copilot",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-13-gemini-3-7-flash-is-now-available-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-13T14:00:53Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "e46a7969142d35bb9dcfae3c617c2830726c05bf",
-          "title": "Gemini 3.7 Flash 现已在 GitHub Copilot 中提供 / Gemini 3.7 Flash is now available in GitHub Copilot",
-          "title_zh": "Gemini 3.7 Flash 现已在 GitHub Copilot 中提供",
-          "title_ja": "Gemini 3.7 Flash が GitHub Copilot で利用可能になりました",
-          "title_en": "Gemini 3.7 Flash is now available in GitHub Copilot",
-          "title_original": "Gemini 3.7 Flash is now available in GitHub Copilot",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-13-gemini-3-7-flash-is-now-available-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-13T14:00:53Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8079,
-      "importance": 0.8079,
-      "importance_score": 0.8079,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7108,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-13T14:00:53Z",
-      "latest_at": "2026-08-13T14:00:53Z",
-      "primary_item": {
-        "id": "e46a7969142d35bb9dcfae3c617c2830726c05bf",
-        "title": "Gemini 3.7 Flash 现已在 GitHub Copilot 中提供 / Gemini 3.7 Flash is now available in GitHub Copilot",
-        "title_zh": "Gemini 3.7 Flash 现已在 GitHub Copilot 中提供",
-        "title_ja": "Gemini 3.7 Flash が GitHub Copilot で利用可能になりました",
-        "title_en": "Gemini 3.7 Flash is now available in GitHub Copilot",
-        "title_original": "Gemini 3.7 Flash is now available in GitHub Copilot",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-13-gemini-3-7-flash-is-now-available-in-github-copilot",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-14T13:40:11.723037Z"
+        "scored_at": "2026-08-14T15:11:23.490621Z"
       }
     },
     {
@@ -235,16 +144,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8057,
-      "importance": 0.8057,
-      "importance_score": 0.8057,
+      "score": 0.8029,
+      "importance": 0.8029,
+      "importance_score": 0.8029,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7429,
+        "recency": 0.727,
         "story_heat": 0.0
       },
       "category": "official",
@@ -273,278 +182,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T13:40:11.723037Z"
-      }
-    },
-    {
-      "story_id": "story_c2a711833862",
-      "title": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用 / Bring your spreadsheet data to life with Sheets canvas",
-      "title_ja": "スプレッドシート キャンバスを使用してスプレッドシート データを生き生きとさせる",
-      "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
-      "primary_url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "777014cd6f2be6787e73dcd64d3b79c4e131fa91",
-          "title": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用 / Bring your spreadsheet data to life with Sheets canvas",
-          "title_zh": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用",
-          "title_ja": "スプレッドシート キャンバスを使用してスプレッドシート データを生き生きとさせる",
-          "title_en": "Bring your spreadsheet data to life with Sheets canvas",
-          "title_original": "Bring your spreadsheet data to life with Sheets canvas",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-13T16:45:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "777014cd6f2be6787e73dcd64d3b79c4e131fa91",
-          "title": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用 / Bring your spreadsheet data to life with Sheets canvas",
-          "title_zh": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用",
-          "title_ja": "スプレッドシート キャンバスを使用してスプレッドシート データを生き生きとさせる",
-          "title_en": "Bring your spreadsheet data to life with Sheets canvas",
-          "title_original": "Bring your spreadsheet data to life with Sheets canvas",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-13T16:45:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7971,
-      "importance": 0.7971,
-      "importance_score": 0.7971,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7394,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-13T16:45:00Z",
-      "latest_at": "2026-08-13T16:45:00Z",
-      "primary_item": {
-        "id": "777014cd6f2be6787e73dcd64d3b79c4e131fa91",
-        "title": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用 / Bring your spreadsheet data to life with Sheets canvas",
-        "title_zh": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用",
-        "title_ja": "スプレッドシート キャンバスを使用してスプレッドシート データを生き生きとさせる",
-        "title_en": "Bring your spreadsheet data to life with Sheets canvas",
-        "title_original": "Bring your spreadsheet data to life with Sheets canvas",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-14T13:40:11.723037Z"
-      }
-    },
-    {
-      "story_id": "story_5634b0a754f6",
-      "title": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
-      "title_ja": "dots3-note オープン ソースのプレビュー: 長距離エージェントとマルチモーダル推論に焦点を当てた 280B パラメーターの軽量モデル",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496140&idx=1&sn=5239a5fbb115c58d2ae0056bb32789ff",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496140&idx=1&sn=5239a5fbb115c58d2ae0056bb32789ff",
-      "source": "公众号：小红书技术（dots.llm）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a059b7702912fcb0e95b0fff5d2a7da4864b1da9",
-          "title": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
-          "title_zh": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
-          "title_ja": "dots3-note オープン ソースのプレビュー: 長距離エージェントとマルチモーダル推論に焦点を当てた 280B パラメーターの軽量モデル",
-          "title_en": null,
-          "title_original": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
-          "summary": "小红书技术开源 dots3-note Preview，这是 dots3 系列最轻量模型，总参数 280B、激活参数 16B，支持 512K 上下文及文本、视觉、语音多模态理解，并针对复杂推理和长程 Agent 任务优化。",
-          "summary_ja": "小紅書テクノロジーのオープンソース dots3-note Preview は、dots3 シリーズの最軽量モデルで、合計パラメータ 280B、起動パラメータ 16B です。 512K のコンテキストと、テキスト、視覚、音声のマルチモーダルな理解をサポートし、複雑な推論と長距離のエージェント タスク向けに最適化されています。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496140&idx=1&sn=5239a5fbb115c58d2ae0056bb32789ff",
-          "source": "公众号：小红书技术（dots.llm）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-14T11:25:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：小红书技术（dots.llm）"
-      ],
-      "items": [
-        {
-          "id": "a059b7702912fcb0e95b0fff5d2a7da4864b1da9",
-          "title": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
-          "title_zh": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
-          "title_ja": "dots3-note オープン ソースのプレビュー: 長距離エージェントとマルチモーダル推論に焦点を当てた 280B パラメーターの軽量モデル",
-          "title_en": null,
-          "title_original": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
-          "summary": "小红书技术开源 dots3-note Preview，这是 dots3 系列最轻量模型，总参数 280B、激活参数 16B，支持 512K 上下文及文本、视觉、语音多模态理解，并针对复杂推理和长程 Agent 任务优化。",
-          "summary_ja": "小紅書テクノロジーのオープンソース dots3-note Preview は、dots3 シリーズの最軽量モデルで、合計パラメータ 280B、起動パラメータ 16B です。 512K のコンテキストと、テキスト、視覚、音声のマルチモーダルな理解をサポートし、複雑な推論と長距離のエージェント タスク向けに最適化されています。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496140&idx=1&sn=5239a5fbb115c58d2ae0056bb32789ff",
-          "source": "公众号：小红书技术（dots.llm）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-14T11:25:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7829,
-      "importance": 0.7829,
-      "importance_score": 0.7829,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9683,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-14T11:25:29Z",
-      "latest_at": "2026-08-14T11:25:29Z",
-      "primary_item": {
-        "id": "a059b7702912fcb0e95b0fff5d2a7da4864b1da9",
-        "title": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
-        "title_zh": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
-        "title_ja": "dots3-note オープン ソースのプレビュー: 長距離エージェントとマルチモーダル推論に焦点を当てた 280B パラメーターの軽量モデル",
-        "title_en": null,
-        "title_original": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
-        "summary": "小红书技术开源 dots3-note Preview，这是 dots3 系列最轻量模型，总参数 280B、激活参数 16B，支持 512K 上下文及文本、视觉、语音多模态理解，并针对复杂推理和长程 Agent 任务优化。",
-        "summary_ja": "小紅書テクノロジーのオープンソース dots3-note Preview は、dots3 シリーズの最軽量モデルで、合計パラメータ 280B、起動パラメータ 16B です。 512K のコンテキストと、テキスト、視覚、音声のマルチモーダルな理解をサポートし、複雑な推論と長距離のエージェント タスク向けに最適化されています。",
-        "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496140&idx=1&sn=5239a5fbb115c58d2ae0056bb32789ff",
-        "source": "公众号：小红书技术（dots.llm）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-14T13:40:11.723037Z"
-      }
-    },
-    {
-      "story_id": "story_3c124a5494f7",
-      "title": "Cursor 正式并入 SpaceXAI 助力 Grok / Welcome to the SpaceXAI team！ Cursor will help us move faster on the path to the world's most usefu…",
-      "title_ja": "SpaceXAI チームへようこそ！ カーソルは、世界で最も役立つ…",
-      "url": "https://x.com/SpaceXAI/status/2088250109188608289",
-      "primary_url": "https://x.com/SpaceXAI/status/2088250109188608289",
-      "source": "X：SpaceXAI (@SpaceXAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2dd1ea11a8204f0c5fc0699f92dd3d4e2c3f812f",
-          "title": "Cursor 正式并入 SpaceXAI 助力 Grok / Welcome to the SpaceXAI team！ Cursor will help us move faster on the path to the world's most usefu…",
-          "title_zh": "Cursor 正式并入 SpaceXAI 助力 Grok",
-          "title_ja": "SpaceXAI チームへようこそ！ カーソルは、世界で最も役立つ…",
-          "title_en": "Welcome to the SpaceXAI team！ Cursor will help us move faster on the path to the world's most usefu…",
-          "title_original": "Welcome to the SpaceXAI team！ Cursor will help us move faster on the path to the world's most usefu…",
-          "summary": "Cursor 正式完成被 SpaceX 收购，团队加入 SpaceXAI，共同打造 Grok 为全球最实用的 AI。合作将聚焦软件工程，并扩展至知识工作领域，同时改进 Grok Build、Grok Bot、Grok API 及 Cursor 等产品。",
-          "summary_ja": "Cursor は SpaceX による買収を正式に完了し、チームは SpaceXAI に加わり、共同で Grok を世界で最も実用的な AI に構築しました。このコラボレーションはソフトウェア エンジニアリングに焦点を当て、Grok Build、Grok Bot、Grok API、Cursor などの製品を改善しながらナレッジ ワークにまで拡張します。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/SpaceXAI/status/2088250109188608289",
-          "source": "X：SpaceXAI (@SpaceXAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-14T13:03:18Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：SpaceXAI (@SpaceXAI)"
-      ],
-      "items": [
-        {
-          "id": "2dd1ea11a8204f0c5fc0699f92dd3d4e2c3f812f",
-          "title": "Cursor 正式并入 SpaceXAI 助力 Grok / Welcome to the SpaceXAI team！ Cursor will help us move faster on the path to the world's most usefu…",
-          "title_zh": "Cursor 正式并入 SpaceXAI 助力 Grok",
-          "title_ja": "SpaceXAI チームへようこそ！ カーソルは、世界で最も役立つ…",
-          "title_en": "Welcome to the SpaceXAI team！ Cursor will help us move faster on the path to the world's most usefu…",
-          "title_original": "Welcome to the SpaceXAI team！ Cursor will help us move faster on the path to the world's most usefu…",
-          "summary": "Cursor 正式完成被 SpaceX 收购，团队加入 SpaceXAI，共同打造 Grok 为全球最实用的 AI。合作将聚焦软件工程，并扩展至知识工作领域，同时改进 Grok Build、Grok Bot、Grok API 及 Cursor 等产品。",
-          "summary_ja": "Cursor は SpaceX による買収を正式に完了し、チームは SpaceXAI に加わり、共同で Grok を世界で最も実用的な AI に構築しました。このコラボレーションはソフトウェア エンジニアリングに焦点を当て、Grok Build、Grok Bot、Grok API、Cursor などの製品を改善しながらナレッジ ワークにまで拡張します。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/SpaceXAI/status/2088250109188608289",
-          "source": "X：SpaceXAI (@SpaceXAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-14T13:03:18Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.781,
-      "importance": 0.781,
-      "importance_score": 0.781,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9914,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-14T13:03:18Z",
-      "latest_at": "2026-08-14T13:03:18Z",
-      "primary_item": {
-        "id": "2dd1ea11a8204f0c5fc0699f92dd3d4e2c3f812f",
-        "title": "Cursor 正式并入 SpaceXAI 助力 Grok / Welcome to the SpaceXAI team！ Cursor will help us move faster on the path to the world's most usefu…",
-        "title_zh": "Cursor 正式并入 SpaceXAI 助力 Grok",
-        "title_ja": "SpaceXAI チームへようこそ！ カーソルは、世界で最も役立つ…",
-        "title_en": "Welcome to the SpaceXAI team！ Cursor will help us move faster on the path to the world's most usefu…",
-        "title_original": "Welcome to the SpaceXAI team！ Cursor will help us move faster on the path to the world's most usefu…",
-        "summary": "Cursor 正式完成被 SpaceX 收购，团队加入 SpaceXAI，共同打造 Grok 为全球最实用的 AI。合作将聚焦软件工程，并扩展至知识工作领域，同时改进 Grok Build、Grok Bot、Grok API 及 Cursor 等产品。",
-        "summary_ja": "Cursor は SpaceX による買収を正式に完了し、チームは SpaceXAI に加わり、共同で Grok を世界で最も実用的な AI に構築しました。このコラボレーションはソフトウェア エンジニアリングに焦点を当て、Grok Build、Grok Bot、Grok API、Cursor などの製品を改善しながらナレッジ ワークにまで拡張します。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/SpaceXAI/status/2088250109188608289",
-        "source": "X：SpaceXAI (@SpaceXAI)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-14T13:40:11.723037Z"
+        "scored_at": "2026-08-14T15:11:23.490621Z"
       }
     },
     {
@@ -597,16 +235,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.802,
-      "importance": 0.802,
-      "importance_score": 0.802,
+      "score": 0.799,
+      "importance": 0.799,
+      "importance_score": 0.799,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7665,
+        "recency": 0.7501,
         "story_heat": 0.0
       },
       "category": "official",
@@ -635,159 +273,160 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T13:40:11.723037Z"
+        "scored_at": "2026-08-14T15:11:23.490621Z"
       }
     },
     {
-      "story_id": "story_0ce2047b51cc",
-      "title": "AI企业也能按Token融资：广东首推“Token贷”",
-      "title_ja": "AI企業もトークンベースで資金調達可能：広東省が初めて「トークンローン」を開始",
-      "url": "https://www.aibase.com/news/30365",
-      "primary_url": "https://www.aibase.com/news/30365",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_c2a711833862",
+      "title": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用 / Bring your spreadsheet data to life with Sheets canvas",
+      "title_ja": "スプレッドシート キャンバスを使用してスプレッドシート データを生き生きとさせる",
+      "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
+      "primary_url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "b7e6deb356d821f48d5654cdeb8f9967e47a6f84",
-          "title": "AI企业也能按Token融资：广东首推“Token贷”",
-          "title_zh": "AI企业也能按Token融资：广东首推“Token贷”",
-          "title_ja": "AI企業もトークンベースで資金調達可能：広東省が初めて「トークンローン」を開始",
-          "title_en": null,
-          "title_original": "AI企业也能按Token融资：广东首推“Token贷”",
+          "id": "777014cd6f2be6787e73dcd64d3b79c4e131fa91",
+          "title": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用 / Bring your spreadsheet data to life with Sheets canvas",
+          "title_zh": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用",
+          "title_ja": "スプレッドシート キャンバスを使用してスプレッドシート データを生き生きとさせる",
+          "title_en": "Bring your spreadsheet data to life with Sheets canvas",
+          "title_original": "Bring your spreadsheet data to life with Sheets canvas",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30365",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-14T10:15:14.867430Z"
+          "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T16:45:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "Google AI Blog"
       ],
       "items": [
         {
-          "id": "b7e6deb356d821f48d5654cdeb8f9967e47a6f84",
-          "title": "AI企业也能按Token融资：广东首推“Token贷”",
-          "title_zh": "AI企业也能按Token融资：广东首推“Token贷”",
-          "title_ja": "AI企業もトークンベースで資金調達可能：広東省が初めて「トークンローン」を開始",
-          "title_en": null,
-          "title_original": "AI企业也能按Token融资：广东首推“Token贷”",
+          "id": "777014cd6f2be6787e73dcd64d3b79c4e131fa91",
+          "title": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用 / Bring your spreadsheet data to life with Sheets canvas",
+          "title_zh": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用",
+          "title_ja": "スプレッドシート キャンバスを使用してスプレッドシート データを生き生きとさせる",
+          "title_en": "Bring your spreadsheet data to life with Sheets canvas",
+          "title_original": "Bring your spreadsheet data to life with Sheets canvas",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30365",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-14T10:15:14.867430Z"
+          "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T16:45:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.759,
-      "importance": 0.759,
-      "importance_score": 0.759,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
+      "score": 0.7943,
+      "importance": 0.7943,
+      "importance_score": 0.7943,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9521,
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7236,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
+        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-14T10:15:14.867430Z",
-      "latest_at": "2026-08-14T10:15:14.867430Z",
+      "earliest_at": "2026-08-13T16:45:00Z",
+      "latest_at": "2026-08-13T16:45:00Z",
       "primary_item": {
-        "id": "b7e6deb356d821f48d5654cdeb8f9967e47a6f84",
-        "title": "AI企业也能按Token融资：广东首推“Token贷”",
-        "title_zh": "AI企业也能按Token融资：广东首推“Token贷”",
-        "title_ja": "AI企業もトークンベースで資金調達可能：広東省が初めて「トークンローン」を開始",
-        "title_en": null,
-        "title_original": "AI企业也能按Token融资：广东首推“Token贷”",
+        "id": "777014cd6f2be6787e73dcd64d3b79c4e131fa91",
+        "title": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用 / Bring your spreadsheet data to life with Sheets canvas",
+        "title_zh": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用",
+        "title_ja": "スプレッドシート キャンバスを使用してスプレッドシート データを生き生きとさせる",
+        "title_en": "Bring your spreadsheet data to life with Sheets canvas",
+        "title_original": "Bring your spreadsheet data to life with Sheets canvas",
         "summary": null,
         "summary_ja": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30365",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T13:40:11.723037Z"
+        "scored_at": "2026-08-14T15:11:23.490621Z"
       }
     },
     {
-      "story_id": "story_d40bf6855f00",
-      "title": "GLM-5.3 发布：编程能力开源第一，并涌现网络安全能力",
-      "title_ja": "GLM-5.3 リリース: オープンソース プログラミング機能で No.1、新たなネットワーク セキュリティ機能をリリース",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494084&idx=1&sn=a2e5cd9a534a4825feb3633ea1b6d492",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494084&idx=1&sn=a2e5cd9a534a4825feb3633ea1b6d492",
-      "source": "公众号：智谱（GLM）",
+      "story_id": "story_5634b0a754f6",
+      "title": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
+      "title_ja": "dots3-note オープン ソースのプレビュー: 長距離エージェントとマルチモーダル推論に焦点を当てた 280B パラメーターの軽量モデル",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496140&idx=1&sn=5239a5fbb115c58d2ae0056bb32789ff",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496140&idx=1&sn=5239a5fbb115c58d2ae0056bb32789ff",
+      "source": "公众号：小红书技术（dots.llm）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "4f3b94ce9fded3971990d7f3bb1944d9e915a601",
-          "title": "GLM-5.3 发布：编程能力开源第一，并涌现网络安全能力",
-          "title_zh": "GLM-5.3 发布：编程能力开源第一，并涌现网络安全能力",
-          "title_ja": "GLM-5.3 リリース: オープンソース プログラミング機能で No.1、新たなネットワーク セキュリティ機能をリリース",
+          "id": "a059b7702912fcb0e95b0fff5d2a7da4864b1da9",
+          "title": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
+          "title_zh": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
+          "title_ja": "dots3-note オープン ソースのプレビュー: 長距離エージェントとマルチモーダル推論に焦点を当てた 280B パラメーターの軽量モデル",
           "title_en": null,
-          "title_original": "GLM-5.3 发布：编程能力开源第一，并涌现网络安全能力",
-          "summary": "智谱发布GLM-5.3，基于与GLM-5.2相同的基座，通过极致的后训练Scaling提升智能上界，编程能力较前代提升50%，在Terminal Bench 3.0等公开基准中取得开源第一，并接近Claude Fable 5。模型在白盒代码审查等安全任务中表现持平Mythos 5，在CyberGym测试中得分84.5%。模型权重将在两周后开源，即日起上线ZCode、AutoClaw等工具。",
-          "summary_ja": "Zhipu は、GLM-5.2 と同じベースに基づいた GLM-5.3 をリリースしました。トレーニング後の極端なスケーリングにより、知能の上限が向上します。プログラミング機能は前世代より 50% 向上しています。 Terminal Bench 3.0 などの公開ベンチマークではオープンソースで 1 位にランクされており、Claude Fable 5 に近いです。このモデルは、ホワイトボックス コード レビューなどのセキュリティ タスクで Mythos 5 と同等のパフォーマンスを示し、Cyber​​Gym テストでは 84.5% のスコアを獲得しました。モデルの重みは 2 週間以内にオープンソース化され、ZCode や AutoClaw などのツールも今後リリースされる予定です。",
+          "title_original": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
+          "summary": "小红书技术开源 dots3-note Preview，这是 dots3 系列最轻量模型，总参数 280B、激活参数 16B，支持 512K 上下文及文本、视觉、语音多模态理解，并针对复杂推理和长程 Agent 任务优化。",
+          "summary_ja": "小紅書テクノロジーのオープンソース dots3-note Preview は、dots3 シリーズの最軽量モデルで、合計パラメータ 280B、起動パラメータ 16B です。 512K のコンテキストと、テキスト、視覚、音声のマルチモーダルな理解をサポートし、複雑な推論と長距離のエージェント タスク向けに最適化されています。",
           "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494084&idx=1&sn=a2e5cd9a534a4825feb3633ea1b6d492",
-          "source": "公众号：智谱（GLM）",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496140&idx=1&sn=5239a5fbb115c58d2ae0056bb32789ff",
+          "source": "公众号：小红书技术（dots.llm）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-14T05:31:04Z"
+          "published_at": "2026-08-14T11:25:29Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "公众号：智谱（GLM）"
+        "公众号：小红书技术（dots.llm）"
       ],
       "items": [
         {
-          "id": "4f3b94ce9fded3971990d7f3bb1944d9e915a601",
-          "title": "GLM-5.3 发布：编程能力开源第一，并涌现网络安全能力",
-          "title_zh": "GLM-5.3 发布：编程能力开源第一，并涌现网络安全能力",
-          "title_ja": "GLM-5.3 リリース: オープンソース プログラミング機能で No.1、新たなネットワーク セキュリティ機能をリリース",
+          "id": "a059b7702912fcb0e95b0fff5d2a7da4864b1da9",
+          "title": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
+          "title_zh": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
+          "title_ja": "dots3-note オープン ソースのプレビュー: 長距離エージェントとマルチモーダル推論に焦点を当てた 280B パラメーターの軽量モデル",
           "title_en": null,
-          "title_original": "GLM-5.3 发布：编程能力开源第一，并涌现网络安全能力",
-          "summary": "智谱发布GLM-5.3，基于与GLM-5.2相同的基座，通过极致的后训练Scaling提升智能上界，编程能力较前代提升50%，在Terminal Bench 3.0等公开基准中取得开源第一，并接近Claude Fable 5。模型在白盒代码审查等安全任务中表现持平Mythos 5，在CyberGym测试中得分84.5%。模型权重将在两周后开源，即日起上线ZCode、AutoClaw等工具。",
-          "summary_ja": "Zhipu は、GLM-5.2 と同じベースに基づいた GLM-5.3 をリリースしました。トレーニング後の極端なスケーリングにより、知能の上限が向上します。プログラミング機能は前世代より 50% 向上しています。 Terminal Bench 3.0 などの公開ベンチマークではオープンソースで 1 位にランクされており、Claude Fable 5 に近いです。このモデルは、ホワイトボックス コード レビューなどのセキュリティ タスクで Mythos 5 と同等のパフォーマンスを示し、Cyber​​Gym テストでは 84.5% のスコアを獲得しました。モデルの重みは 2 週間以内にオープンソース化され、ZCode や AutoClaw などのツールも今後リリースされる予定です。",
+          "title_original": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
+          "summary": "小红书技术开源 dots3-note Preview，这是 dots3 系列最轻量模型，总参数 280B、激活参数 16B，支持 512K 上下文及文本、视觉、语音多模态理解，并针对复杂推理和长程 Agent 任务优化。",
+          "summary_ja": "小紅書テクノロジーのオープンソース dots3-note Preview は、dots3 シリーズの最軽量モデルで、合計パラメータ 280B、起動パラメータ 16B です。 512K のコンテキストと、テキスト、視覚、音声のマルチモーダルな理解をサポートし、複雑な推論と長距離のエージェント タスク向けに最適化されています。",
           "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494084&idx=1&sn=a2e5cd9a534a4825feb3633ea1b6d492",
-          "source": "公众号：智谱（GLM）",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496140&idx=1&sn=5239a5fbb115c58d2ae0056bb32789ff",
+          "source": "公众号：小红书技术（dots.llm）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-14T05:31:04Z"
+          "published_at": "2026-08-14T11:25:29Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7506,
-      "importance": 0.7506,
-      "importance_score": 0.7506,
+      "score": 0.7792,
+      "importance": 0.7792,
+      "importance_score": 0.7792,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
-        "editorial": 0.73,
+        "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8891,
+        "recency": 0.9476,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -795,27 +434,207 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-14T05:31:04Z",
-      "latest_at": "2026-08-14T05:31:04Z",
+      "earliest_at": "2026-08-14T11:25:29Z",
+      "latest_at": "2026-08-14T11:25:29Z",
       "primary_item": {
-        "id": "4f3b94ce9fded3971990d7f3bb1944d9e915a601",
-        "title": "GLM-5.3 发布：编程能力开源第一，并涌现网络安全能力",
-        "title_zh": "GLM-5.3 发布：编程能力开源第一，并涌现网络安全能力",
-        "title_ja": "GLM-5.3 リリース: オープンソース プログラミング機能で No.1、新たなネットワーク セキュリティ機能をリリース",
+        "id": "a059b7702912fcb0e95b0fff5d2a7da4864b1da9",
+        "title": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
+        "title_zh": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
+        "title_ja": "dots3-note オープン ソースのプレビュー: 長距離エージェントとマルチモーダル推論に焦点を当てた 280B パラメーターの軽量モデル",
         "title_en": null,
-        "title_original": "GLM-5.3 发布：编程能力开源第一，并涌现网络安全能力",
-        "summary": "智谱发布GLM-5.3，基于与GLM-5.2相同的基座，通过极致的后训练Scaling提升智能上界，编程能力较前代提升50%，在Terminal Bench 3.0等公开基准中取得开源第一，并接近Claude Fable 5。模型在白盒代码审查等安全任务中表现持平Mythos 5，在CyberGym测试中得分84.5%。模型权重将在两周后开源，即日起上线ZCode、AutoClaw等工具。",
-        "summary_ja": "Zhipu は、GLM-5.2 と同じベースに基づいた GLM-5.3 をリリースしました。トレーニング後の極端なスケーリングにより、知能の上限が向上します。プログラミング機能は前世代より 50% 向上しています。 Terminal Bench 3.0 などの公開ベンチマークではオープンソースで 1 位にランクされており、Claude Fable 5 に近いです。このモデルは、ホワイトボックス コード レビューなどのセキュリティ タスクで Mythos 5 と同等のパフォーマンスを示し、Cyber​​Gym テストでは 84.5% のスコアを獲得しました。モデルの重みは 2 週間以内にオープンソース化され、ZCode や AutoClaw などのツールも今後リリースされる予定です。",
+        "title_original": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
+        "summary": "小红书技术开源 dots3-note Preview，这是 dots3 系列最轻量模型，总参数 280B、激活参数 16B，支持 512K 上下文及文本、视觉、语音多模态理解，并针对复杂推理和长程 Agent 任务优化。",
+        "summary_ja": "小紅書テクノロジーのオープンソース dots3-note Preview は、dots3 シリーズの最軽量モデルで、合計パラメータ 280B、起動パラメータ 16B です。 512K のコンテキストと、テキスト、視覚、音声のマルチモーダルな理解をサポートし、複雑な推論と長距離のエージェント タスク向けに最適化されています。",
         "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494084&idx=1&sn=a2e5cd9a534a4825feb3633ea1b6d492",
-        "source": "公众号：智谱（GLM）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496140&idx=1&sn=5239a5fbb115c58d2ae0056bb32789ff",
+        "source": "公众号：小红书技术（dots.llm）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T13:40:11.723037Z"
+        "scored_at": "2026-08-14T15:11:23.490621Z"
+      }
+    },
+    {
+      "story_id": "story_e5e76630b687",
+      "title": "随着中国人工智能竞争对手的崛起，OpenAI 和 Anthropic 陷入价格战 / OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+      "title_ja": "中国のAIライバルが台頭する中、OpenAIとAnthropicが価格競争に突入",
+      "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground",
+      "primary_url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground",
+      "source": "Ars Technica：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e76762fbdbcf898d8d6ff82f016be8922778c6d6",
+          "title": "随着中国人工智能竞争对手的崛起，OpenAI 和 Anthropic 陷入价格战 / OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+          "title_zh": "随着中国人工智能竞争对手的崛起，OpenAI 和 Anthropic 陷入价格战",
+          "title_ja": "中国のAIライバルが台頭する中、OpenAIとAnthropicが価格競争に突入",
+          "title_en": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+          "title_original": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-14T14:27:14Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Ars Technica：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "e76762fbdbcf898d8d6ff82f016be8922778c6d6",
+          "title": "随着中国人工智能竞争对手的崛起，OpenAI 和 Anthropic 陷入价格战 / OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+          "title_zh": "随着中国人工智能竞争对手的崛起，OpenAI 和 Anthropic 陷入价格战",
+          "title_ja": "中国のAIライバルが台頭する中、OpenAIとAnthropicが価格競争に突入",
+          "title_en": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+          "title_original": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-14T14:27:14Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7778,
+      "importance": 0.7778,
+      "importance_score": 0.7778,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.99,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-14T14:27:14Z",
+      "latest_at": "2026-08-14T14:27:14Z",
+      "primary_item": {
+        "id": "e76762fbdbcf898d8d6ff82f016be8922778c6d6",
+        "title": "随着中国人工智能竞争对手的崛起，OpenAI 和 Anthropic 陷入价格战 / OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+        "title_zh": "随着中国人工智能竞争对手的崛起，OpenAI 和 Anthropic 陷入价格战",
+        "title_ja": "中国のAIライバルが台頭する中、OpenAIとAnthropicが価格競争に突入",
+        "title_en": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+        "title_original": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground",
+        "source": "Ars Technica：AI（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-14T15:11:23.490621Z"
+      }
+    },
+    {
+      "story_id": "story_3c124a5494f7",
+      "title": "Cursor 正式并入 SpaceXAI 助力 Grok / Welcome to the SpaceXAI team！ Cursor will help us move faster on the path to the world's most usefu…",
+      "title_ja": "SpaceXAI チームへようこそ！ カーソルは、世界で最も役立つ…",
+      "url": "https://x.com/SpaceXAI/status/2088250109188608289",
+      "primary_url": "https://x.com/SpaceXAI/status/2088250109188608289",
+      "source": "X：SpaceXAI (@SpaceXAI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2dd1ea11a8204f0c5fc0699f92dd3d4e2c3f812f",
+          "title": "Cursor 正式并入 SpaceXAI 助力 Grok / Welcome to the SpaceXAI team！ Cursor will help us move faster on the path to the world's most usefu…",
+          "title_zh": "Cursor 正式并入 SpaceXAI 助力 Grok",
+          "title_ja": "SpaceXAI チームへようこそ！ カーソルは、世界で最も役立つ…",
+          "title_en": "Welcome to the SpaceXAI team！ Cursor will help us move faster on the path to the world's most usefu…",
+          "title_original": "Welcome to the SpaceXAI team！ Cursor will help us move faster on the path to the world's most usefu…",
+          "summary": "Cursor 正式完成被 SpaceX 收购，团队加入 SpaceXAI，共同打造 Grok 为全球最实用的 AI。合作将聚焦软件工程，并扩展至知识工作领域，同时改进 Grok Build、Grok Bot、Grok API 及 Cursor 等产品。",
+          "summary_ja": "Cursor は SpaceX による買収を正式に完了し、チームは SpaceXAI に加わり、共同で Grok を世界で最も実用的な AI に構築しました。このコラボレーションはソフトウェア エンジニアリングに焦点を当て、Grok Build、Grok Bot、Grok API、Cursor などの製品を改善しながらナレッジ ワークにまで拡張します。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/SpaceXAI/status/2088250109188608289",
+          "source": "X：SpaceXAI (@SpaceXAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-14T13:03:18Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：SpaceXAI (@SpaceXAI)"
+      ],
+      "items": [
+        {
+          "id": "2dd1ea11a8204f0c5fc0699f92dd3d4e2c3f812f",
+          "title": "Cursor 正式并入 SpaceXAI 助力 Grok / Welcome to the SpaceXAI team！ Cursor will help us move faster on the path to the world's most usefu…",
+          "title_zh": "Cursor 正式并入 SpaceXAI 助力 Grok",
+          "title_ja": "SpaceXAI チームへようこそ！ カーソルは、世界で最も役立つ…",
+          "title_en": "Welcome to the SpaceXAI team！ Cursor will help us move faster on the path to the world's most usefu…",
+          "title_original": "Welcome to the SpaceXAI team！ Cursor will help us move faster on the path to the world's most usefu…",
+          "summary": "Cursor 正式完成被 SpaceX 收购，团队加入 SpaceXAI，共同打造 Grok 为全球最实用的 AI。合作将聚焦软件工程，并扩展至知识工作领域，同时改进 Grok Build、Grok Bot、Grok API 及 Cursor 等产品。",
+          "summary_ja": "Cursor は SpaceX による買収を正式に完了し、チームは SpaceXAI に加わり、共同で Grok を世界で最も実用的な AI に構築しました。このコラボレーションはソフトウェア エンジニアリングに焦点を当て、Grok Build、Grok Bot、Grok API、Cursor などの製品を改善しながらナレッジ ワークにまで拡張します。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/SpaceXAI/status/2088250109188608289",
+          "source": "X：SpaceXAI (@SpaceXAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-14T13:03:18Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7772,
+      "importance": 0.7772,
+      "importance_score": 0.7772,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9702,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-14T13:03:18Z",
+      "latest_at": "2026-08-14T13:03:18Z",
+      "primary_item": {
+        "id": "2dd1ea11a8204f0c5fc0699f92dd3d4e2c3f812f",
+        "title": "Cursor 正式并入 SpaceXAI 助力 Grok / Welcome to the SpaceXAI team！ Cursor will help us move faster on the path to the world's most usefu…",
+        "title_zh": "Cursor 正式并入 SpaceXAI 助力 Grok",
+        "title_ja": "SpaceXAI チームへようこそ！ カーソルは、世界で最も役立つ…",
+        "title_en": "Welcome to the SpaceXAI team！ Cursor will help us move faster on the path to the world's most usefu…",
+        "title_original": "Welcome to the SpaceXAI team！ Cursor will help us move faster on the path to the world's most usefu…",
+        "summary": "Cursor 正式完成被 SpaceX 收购，团队加入 SpaceXAI，共同打造 Grok 为全球最实用的 AI。合作将聚焦软件工程，并扩展至知识工作领域，同时改进 Grok Build、Grok Bot、Grok API 及 Cursor 等产品。",
+        "summary_ja": "Cursor は SpaceX による買収を正式に完了し、チームは SpaceXAI に加わり、共同で Grok を世界で最も実用的な AI に構築しました。このコラボレーションはソフトウェア エンジニアリングに焦点を当て、Grok Build、Grok Bot、Grok API、Cursor などの製品を改善しながらナレッジ ワークにまで拡張します。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/SpaceXAI/status/2088250109188608289",
+        "source": "X：SpaceXAI (@SpaceXAI)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-14T15:11:23.490621Z"
       }
     },
     {
@@ -868,16 +687,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8016,
-      "importance": 0.8016,
-      "importance_score": 0.8016,
+      "score": 0.7986,
+      "importance": 0.7986,
+      "importance_score": 0.7986,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7643,
+        "recency": 0.748,
         "story_heat": 0.0
       },
       "category": "official",
@@ -906,7 +725,186 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T13:40:11.723037Z"
+        "scored_at": "2026-08-14T15:11:23.490621Z"
+      }
+    },
+    {
+      "story_id": "story_0ce2047b51cc",
+      "title": "AI企业也能按Token融资：广东首推“Token贷”",
+      "title_ja": "AI企業もトークンベースで資金調達可能：広東省が初めて「トークンローン」を開始",
+      "url": "https://www.aibase.com/news/30365",
+      "primary_url": "https://www.aibase.com/news/30365",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "b7e6deb356d821f48d5654cdeb8f9967e47a6f84",
+          "title": "AI企业也能按Token融资：广东首推“Token贷”",
+          "title_zh": "AI企业也能按Token融资：广东首推“Token贷”",
+          "title_ja": "AI企業もトークンベースで資金調達可能：広東省が初めて「トークンローン」を開始",
+          "title_en": null,
+          "title_original": "AI企业也能按Token融资：广东首推“Token贷”",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30365",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-14T10:15:14.867430Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "b7e6deb356d821f48d5654cdeb8f9967e47a6f84",
+          "title": "AI企业也能按Token融资：广东首推“Token贷”",
+          "title_zh": "AI企业也能按Token融资：广东首推“Token贷”",
+          "title_ja": "AI企業もトークンベースで資金調達可能：広東省が初めて「トークンローン」を開始",
+          "title_en": null,
+          "title_original": "AI企业也能按Token融资：广东首推“Token贷”",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30365",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-14T10:15:14.867430Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7553,
+      "importance": 0.7553,
+      "importance_score": 0.7553,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9318,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-14T10:15:14.867430Z",
+      "latest_at": "2026-08-14T10:15:14.867430Z",
+      "primary_item": {
+        "id": "b7e6deb356d821f48d5654cdeb8f9967e47a6f84",
+        "title": "AI企业也能按Token融资：广东首推“Token贷”",
+        "title_zh": "AI企业也能按Token融资：广东首推“Token贷”",
+        "title_ja": "AI企業もトークンベースで資金調達可能：広東省が初めて「トークンローン」を開始",
+        "title_en": null,
+        "title_original": "AI企业也能按Token融资：广东首推“Token贷”",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30365",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-14T15:11:23.490621Z"
+      }
+    },
+    {
+      "story_id": "story_d40bf6855f00",
+      "title": "GLM-5.3 发布：编程能力开源第一，并涌现网络安全能力",
+      "title_ja": "GLM-5.3 リリース: オープンソース プログラミング機能で No.1、新たなネットワーク セキュリティ機能をリリース",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494084&idx=1&sn=a2e5cd9a534a4825feb3633ea1b6d492",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494084&idx=1&sn=a2e5cd9a534a4825feb3633ea1b6d492",
+      "source": "公众号：智谱（GLM）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4f3b94ce9fded3971990d7f3bb1944d9e915a601",
+          "title": "GLM-5.3 发布：编程能力开源第一，并涌现网络安全能力",
+          "title_zh": "GLM-5.3 发布：编程能力开源第一，并涌现网络安全能力",
+          "title_ja": "GLM-5.3 リリース: オープンソース プログラミング機能で No.1、新たなネットワーク セキュリティ機能をリリース",
+          "title_en": null,
+          "title_original": "GLM-5.3 发布：编程能力开源第一，并涌现网络安全能力",
+          "summary": "智谱发布GLM-5.3，基于与GLM-5.2相同的基座，通过极致的后训练Scaling提升智能上界，编程能力较前代提升50%，在Terminal Bench 3.0等公开基准中取得开源第一，并接近Claude Fable 5。模型在白盒代码审查等安全任务中表现持平Mythos 5，在CyberGym测试中得分84.5%。模型权重将在两周后开源，即日起上线ZCode、AutoClaw等工具。",
+          "summary_ja": "Zhipu は、GLM-5.2 と同じベースに基づいた GLM-5.3 をリリースしました。トレーニング後の極端なスケーリングにより、知能の上限が向上します。プログラミング機能は前世代より 50% 向上しています。 Terminal Bench 3.0 などの公開ベンチマークではオープンソースで 1 位にランクされており、Claude Fable 5 に近いです。このモデルは、ホワイトボックス コード レビューなどのセキュリティ タスクで Mythos 5 と同等のパフォーマンスを示し、Cyber​​Gym テストでは 84.5% のスコアを獲得しました。モデルの重みは 2 週間以内にオープンソース化され、ZCode や AutoClaw などのツールも今後リリースされる予定です。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494084&idx=1&sn=a2e5cd9a534a4825feb3633ea1b6d492",
+          "source": "公众号：智谱（GLM）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-14T05:31:04Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：智谱（GLM）"
+      ],
+      "items": [
+        {
+          "id": "4f3b94ce9fded3971990d7f3bb1944d9e915a601",
+          "title": "GLM-5.3 发布：编程能力开源第一，并涌现网络安全能力",
+          "title_zh": "GLM-5.3 发布：编程能力开源第一，并涌现网络安全能力",
+          "title_ja": "GLM-5.3 リリース: オープンソース プログラミング機能で No.1、新たなネットワーク セキュリティ機能をリリース",
+          "title_en": null,
+          "title_original": "GLM-5.3 发布：编程能力开源第一，并涌现网络安全能力",
+          "summary": "智谱发布GLM-5.3，基于与GLM-5.2相同的基座，通过极致的后训练Scaling提升智能上界，编程能力较前代提升50%，在Terminal Bench 3.0等公开基准中取得开源第一，并接近Claude Fable 5。模型在白盒代码审查等安全任务中表现持平Mythos 5，在CyberGym测试中得分84.5%。模型权重将在两周后开源，即日起上线ZCode、AutoClaw等工具。",
+          "summary_ja": "Zhipu は、GLM-5.2 と同じベースに基づいた GLM-5.3 をリリースしました。トレーニング後の極端なスケーリングにより、知能の上限が向上します。プログラミング機能は前世代より 50% 向上しています。 Terminal Bench 3.0 などの公開ベンチマークではオープンソースで 1 位にランクされており、Claude Fable 5 に近いです。このモデルは、ホワイトボックス コード レビューなどのセキュリティ タスクで Mythos 5 と同等のパフォーマンスを示し、Cyber​​Gym テストでは 84.5% のスコアを獲得しました。モデルの重みは 2 週間以内にオープンソース化され、ZCode や AutoClaw などのツールも今後リリースされる予定です。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494084&idx=1&sn=a2e5cd9a534a4825feb3633ea1b6d492",
+          "source": "公众号：智谱（GLM）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-14T05:31:04Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7472,
+      "importance": 0.7472,
+      "importance_score": 0.7472,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8702,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-14T05:31:04Z",
+      "latest_at": "2026-08-14T05:31:04Z",
+      "primary_item": {
+        "id": "4f3b94ce9fded3971990d7f3bb1944d9e915a601",
+        "title": "GLM-5.3 发布：编程能力开源第一，并涌现网络安全能力",
+        "title_zh": "GLM-5.3 发布：编程能力开源第一，并涌现网络安全能力",
+        "title_ja": "GLM-5.3 リリース: オープンソース プログラミング機能で No.1、新たなネットワーク セキュリティ機能をリリース",
+        "title_en": null,
+        "title_original": "GLM-5.3 发布：编程能力开源第一，并涌现网络安全能力",
+        "summary": "智谱发布GLM-5.3，基于与GLM-5.2相同的基座，通过极致的后训练Scaling提升智能上界，编程能力较前代提升50%，在Terminal Bench 3.0等公开基准中取得开源第一，并接近Claude Fable 5。模型在白盒代码审查等安全任务中表现持平Mythos 5，在CyberGym测试中得分84.5%。模型权重将在两周后开源，即日起上线ZCode、AutoClaw等工具。",
+        "summary_ja": "Zhipu は、GLM-5.2 と同じベースに基づいた GLM-5.3 をリリースしました。トレーニング後の極端なスケーリングにより、知能の上限が向上します。プログラミング機能は前世代より 50% 向上しています。 Terminal Bench 3.0 などの公開ベンチマークではオープンソースで 1 位にランクされており、Claude Fable 5 に近いです。このモデルは、ホワイトボックス コード レビューなどのセキュリティ タスクで Mythos 5 と同等のパフォーマンスを示し、Cyber​​Gym テストでは 84.5% のスコアを獲得しました。モデルの重みは 2 週間以内にオープンソース化され、ZCode や AutoClaw などのツールも今後リリースされる予定です。",
+        "recommend_reason_zh": null,
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494084&idx=1&sn=a2e5cd9a534a4825feb3633ea1b6d492",
+        "source": "公众号：智谱（GLM）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-14T15:11:23.490621Z"
       }
     },
     {
@@ -992,16 +990,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.737,
-      "importance": 0.737,
-      "importance_score": 0.737,
+      "score": 0.734,
+      "importance": 0.734,
+      "importance_score": 0.734,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7914,
+        "recency": 0.7745,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1029,7 +1027,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T13:40:11.723037Z"
+        "scored_at": "2026-08-14T15:11:23.490621Z"
       }
     },
     {
@@ -1082,16 +1080,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.759,
-      "importance": 0.759,
-      "importance_score": 0.759,
+      "score": 0.7553,
+      "importance": 0.7553,
+      "importance_score": 0.7553,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9521,
+        "recency": 0.9318,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1119,7 +1117,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T13:40:11.723037Z"
+        "scored_at": "2026-08-14T15:11:23.490621Z"
       }
     },
     {
@@ -1172,16 +1170,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7263,
-      "importance": 0.7263,
-      "importance_score": 0.7263,
+      "score": 0.7232,
+      "importance": 0.7232,
+      "importance_score": 0.7232,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8206,
+        "recency": 0.8031,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1208,7 +1206,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T13:40:11.723037Z"
+        "scored_at": "2026-08-14T15:11:23.490621Z"
       }
     },
     {
@@ -1261,16 +1259,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7253,
-      "importance": 0.7253,
-      "importance_score": 0.7253,
+      "score": 0.7219,
+      "importance": 0.7219,
+      "importance_score": 0.7219,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8816,
+        "recency": 0.8628,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1297,7 +1295,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T13:40:11.723037Z"
+        "scored_at": "2026-08-14T15:11:23.490621Z"
       }
     },
     {
@@ -1350,16 +1348,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.755,
-      "importance": 0.755,
-      "importance_score": 0.755,
+      "score": 0.7514,
+      "importance": 0.7514,
+      "importance_score": 0.7514,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9298,
+        "recency": 0.9099,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1387,7 +1385,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T13:40:11.723037Z"
+        "scored_at": "2026-08-14T15:11:23.490621Z"
       }
     },
     {
@@ -1440,16 +1438,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.755,
-      "importance": 0.755,
-      "importance_score": 0.755,
+      "score": 0.7514,
+      "importance": 0.7514,
+      "importance_score": 0.7514,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9298,
+        "recency": 0.9099,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1477,7 +1475,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T13:40:11.723037Z"
+        "scored_at": "2026-08-14T15:11:23.490621Z"
       }
     },
     {
@@ -1530,16 +1528,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.755,
-      "importance": 0.755,
-      "importance_score": 0.755,
+      "score": 0.7514,
+      "importance": 0.7514,
+      "importance_score": 0.7514,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9298,
+        "recency": 0.9099,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1567,7 +1565,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T13:40:11.723037Z"
+        "scored_at": "2026-08-14T15:11:23.490621Z"
       }
     },
     {
@@ -1653,16 +1651,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.632,
-      "importance": 0.632,
-      "importance_score": 0.632,
+      "score": 0.629,
+      "importance": 0.629,
+      "importance_score": 0.629,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.5904,
         "source_tier": 0.58,
         "ai_relevance": 0.82,
-        "recency": 0.768,
+        "recency": 0.7516,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1690,7 +1688,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T13:40:11.723037Z"
+        "scored_at": "2026-08-14T15:11:23.490621Z"
       }
     },
     {
@@ -1743,16 +1741,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.755,
-      "importance": 0.755,
-      "importance_score": 0.755,
+      "score": 0.7514,
+      "importance": 0.7514,
+      "importance_score": 0.7514,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9298,
+        "recency": 0.9099,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1780,7 +1778,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T13:40:11.723037Z"
+        "scored_at": "2026-08-14T15:11:23.490621Z"
       }
     },
     {
@@ -1866,16 +1864,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6046,
-      "importance": 0.6046,
-      "importance_score": 0.6046,
+      "score": 0.601,
+      "importance": 0.601,
+      "importance_score": 0.601,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.9398,
+        "recency": 0.9197,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1902,7 +1900,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T13:40:11.723037Z"
+        "scored_at": "2026-08-14T15:11:23.490621Z"
       }
     }
   ]
