@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T22:38:42.697580Z",
+  "generated_at": "2026-08-14T23:35:32.309907Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -53,16 +53,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8442,
-      "importance": 0.8442,
-      "importance_score": 0.8442,
+      "score": 0.842,
+      "importance": 0.842,
+      "importance_score": 0.842,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9124,
+        "recency": 0.9,
         "story_heat": 0.0
       },
       "category": "official",
@@ -91,7 +91,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T22:39:26.139375Z"
+        "scored_at": "2026-08-14T23:36:19.494664Z"
       }
     },
     {
@@ -210,16 +210,16 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8367,
-      "importance": 0.8367,
-      "importance_score": 0.8367,
+      "score": 0.8344,
+      "importance": 0.8344,
+      "importance_score": 0.8344,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9539,
+        "recency": 0.941,
         "story_heat": 0.5
       },
       "category": "official",
@@ -248,7 +248,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T22:39:26.139375Z"
+        "scored_at": "2026-08-14T23:36:19.494664Z"
       }
     },
     {
@@ -334,16 +334,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8348,
-      "importance": 0.8348,
-      "importance_score": 0.8348,
+      "score": 0.833,
+      "importance": 0.833,
+      "importance_score": 0.833,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7211,
+        "recency": 0.7113,
         "story_heat": 0.25
       },
       "category": "official",
@@ -373,7 +373,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T22:39:26.139375Z"
+        "scored_at": "2026-08-14T23:36:19.494664Z"
       }
     },
     {
@@ -426,16 +426,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8275,
-      "importance": 0.8275,
-      "importance_score": 0.8275,
+      "score": 0.8253,
+      "importance": 0.8253,
+      "importance_score": 0.8253,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9085,
+        "recency": 0.8962,
         "story_heat": 0.0
       },
       "category": "official",
@@ -464,33 +464,33 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T22:39:26.139375Z"
+        "scored_at": "2026-08-14T23:36:19.494664Z"
       }
     },
     {
-      "story_id": "story_3ac0651d574b",
-      "title": "GitHub Copilot 每周发布 — 8 月 10 日 / GitHub Copilot weekly releases — August 10",
-      "title_ja": "GitHub Copilot の毎週のリリース — 8 月 10 日",
-      "url": "https://github.blog/changelog/2026-08-13-github-copilot-weekly-releases-august-10",
-      "primary_url": "https://github.blog/changelog/2026-08-13-github-copilot-weekly-releases-august-10",
+      "story_id": "story_e27bfcf013b4",
+      "title": "OAuth 应用程序的多个重定向 URI 和令牌刷新 / Multiple redirect URIs and token refresh for OAuth apps",
+      "title_ja": "OAuth アプリの複数のリダイレクト URI とトークンの更新",
+      "url": "https://github.blog/changelog/2026-08-14-multiple-redirect-uris-and-token-refresh-for-oauth-apps",
+      "primary_url": "https://github.blog/changelog/2026-08-14-multiple-redirect-uris-and-token-refresh-for-oauth-apps",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "6ed40aa477dd9941b36d3604cac82a96f82f5a16",
-          "title": "GitHub Copilot 每周发布 — 8 月 10 日 / GitHub Copilot weekly releases — August 10",
-          "title_zh": "GitHub Copilot 每周发布 — 8 月 10 日",
-          "title_ja": "GitHub Copilot の毎週のリリース — 8 月 10 日",
-          "title_en": "GitHub Copilot weekly releases — August 10",
-          "title_original": "GitHub Copilot weekly releases — August 10",
+          "id": "69e635cd9bd215d8df2bd1d96ef64c55b55df09e",
+          "title": "OAuth 应用程序的多个重定向 URI 和令牌刷新 / Multiple redirect URIs and token refresh for OAuth apps",
+          "title_zh": "OAuth 应用程序的多个重定向 URI 和令牌刷新",
+          "title_ja": "OAuth アプリの複数のリダイレクト URI とトークンの更新",
+          "title_en": "Multiple redirect URIs and token refresh for OAuth apps",
+          "title_original": "Multiple redirect URIs and token refresh for OAuth apps",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-13-github-copilot-weekly-releases-august-10",
+          "url": "https://github.blog/changelog/2026-08-14-multiple-redirect-uris-and-token-refresh-for-oauth-apps",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-14T03:15:56Z"
+          "published_at": "2026-08-14T22:43:44Z"
         }
       ],
       "source_count": 1,
@@ -499,34 +499,34 @@
       ],
       "items": [
         {
-          "id": "6ed40aa477dd9941b36d3604cac82a96f82f5a16",
-          "title": "GitHub Copilot 每周发布 — 8 月 10 日 / GitHub Copilot weekly releases — August 10",
-          "title_zh": "GitHub Copilot 每周发布 — 8 月 10 日",
-          "title_ja": "GitHub Copilot の毎週のリリース — 8 月 10 日",
-          "title_en": "GitHub Copilot weekly releases — August 10",
-          "title_original": "GitHub Copilot weekly releases — August 10",
+          "id": "69e635cd9bd215d8df2bd1d96ef64c55b55df09e",
+          "title": "OAuth 应用程序的多个重定向 URI 和令牌刷新 / Multiple redirect URIs and token refresh for OAuth apps",
+          "title_zh": "OAuth 应用程序的多个重定向 URI 和令牌刷新",
+          "title_ja": "OAuth アプリの複数のリダイレクト URI とトークンの更新",
+          "title_en": "Multiple redirect URIs and token refresh for OAuth apps",
+          "title_original": "Multiple redirect URIs and token refresh for OAuth apps",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-13-github-copilot-weekly-releases-august-10",
+          "url": "https://github.blog/changelog/2026-08-14-multiple-redirect-uris-and-token-refresh-for-oauth-apps",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-14T03:15:56Z"
+          "published_at": "2026-08-14T22:43:44Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8081,
-      "importance": 0.8081,
-      "importance_score": 0.8081,
+      "score": 0.8418,
+      "importance": 0.8418,
+      "importance_score": 0.8418,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7559,
+        "ai_relevance": 0.87,
+        "recency": 0.9876,
         "story_heat": 0.0
       },
       "category": "official",
@@ -535,19 +535,19 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-14T03:15:56Z",
-      "latest_at": "2026-08-14T03:15:56Z",
+      "earliest_at": "2026-08-14T22:43:44Z",
+      "latest_at": "2026-08-14T22:43:44Z",
       "primary_item": {
-        "id": "6ed40aa477dd9941b36d3604cac82a96f82f5a16",
-        "title": "GitHub Copilot 每周发布 — 8 月 10 日 / GitHub Copilot weekly releases — August 10",
-        "title_zh": "GitHub Copilot 每周发布 — 8 月 10 日",
-        "title_ja": "GitHub Copilot の毎週のリリース — 8 月 10 日",
-        "title_en": "GitHub Copilot weekly releases — August 10",
-        "title_original": "GitHub Copilot weekly releases — August 10",
+        "id": "69e635cd9bd215d8df2bd1d96ef64c55b55df09e",
+        "title": "OAuth 应用程序的多个重定向 URI 和令牌刷新 / Multiple redirect URIs and token refresh for OAuth apps",
+        "title_zh": "OAuth 应用程序的多个重定向 URI 和令牌刷新",
+        "title_ja": "OAuth アプリの複数のリダイレクト URI とトークンの更新",
+        "title_en": "Multiple redirect URIs and token refresh for OAuth apps",
+        "title_original": "Multiple redirect URIs and token refresh for OAuth apps",
         "summary": null,
         "summary_ja": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-13-github-copilot-weekly-releases-august-10",
+        "url": "https://github.blog/changelog/2026-08-14-multiple-redirect-uris-and-token-refresh-for-oauth-apps",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -555,7 +555,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T22:39:26.139375Z"
+        "scored_at": "2026-08-14T23:36:19.494664Z"
       }
     },
     {
@@ -608,16 +608,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7617,
-      "importance": 0.7617,
-      "importance_score": 0.7617,
+      "score": 0.7596,
+      "importance": 0.7596,
+      "importance_score": 0.7596,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8504,
+        "recency": 0.8389,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -645,7 +645,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T22:39:26.139375Z"
+        "scored_at": "2026-08-14T23:36:19.494664Z"
       }
     },
     {
@@ -698,16 +698,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7595,
-      "importance": 0.7595,
-      "importance_score": 0.7595,
+      "score": 0.7573,
+      "importance": 0.7573,
+      "importance_score": 0.7573,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8884,
+        "recency": 0.8764,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -735,7 +735,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T22:39:26.139375Z"
+        "scored_at": "2026-08-14T23:36:19.494664Z"
       }
     },
     {
@@ -788,16 +788,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7593,
-      "importance": 0.7593,
-      "importance_score": 0.7593,
+      "score": 0.7572,
+      "importance": 0.7572,
+      "importance_score": 0.7572,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8707,
+        "recency": 0.8588,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -825,7 +825,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T22:39:26.139375Z"
+        "scored_at": "2026-08-14T23:36:19.494664Z"
       }
     },
     {
@@ -911,16 +911,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.755,
-      "importance": 0.755,
-      "importance_score": 0.755,
+      "score": 0.7529,
+      "importance": 0.7529,
+      "importance_score": 0.7529,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8575,
+        "recency": 0.8459,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -949,7 +949,98 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T22:39:26.139375Z"
+        "scored_at": "2026-08-14T23:36:19.494664Z"
+      }
+    },
+    {
+      "story_id": "story_3ac0651d574b",
+      "title": "GitHub Copilot 每周发布 — 8 月 10 日 / GitHub Copilot weekly releases — August 10",
+      "title_ja": "GitHub Copilot の毎週のリリース — 8 月 10 日",
+      "url": "https://github.blog/changelog/2026-08-13-github-copilot-weekly-releases-august-10",
+      "primary_url": "https://github.blog/changelog/2026-08-13-github-copilot-weekly-releases-august-10",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "6ed40aa477dd9941b36d3604cac82a96f82f5a16",
+          "title": "GitHub Copilot 每周发布 — 8 月 10 日 / GitHub Copilot weekly releases — August 10",
+          "title_zh": "GitHub Copilot 每周发布 — 8 月 10 日",
+          "title_ja": "GitHub Copilot の毎週のリリース — 8 月 10 日",
+          "title_en": "GitHub Copilot weekly releases — August 10",
+          "title_original": "GitHub Copilot weekly releases — August 10",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-13-github-copilot-weekly-releases-august-10",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-14T03:15:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "6ed40aa477dd9941b36d3604cac82a96f82f5a16",
+          "title": "GitHub Copilot 每周发布 — 8 月 10 日 / GitHub Copilot weekly releases — August 10",
+          "title_zh": "GitHub Copilot 每周发布 — 8 月 10 日",
+          "title_ja": "GitHub Copilot の毎週のリリース — 8 月 10 日",
+          "title_en": "GitHub Copilot weekly releases — August 10",
+          "title_original": "GitHub Copilot weekly releases — August 10",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-13-github-copilot-weekly-releases-august-10",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-14T03:15:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8062,
+      "importance": 0.8062,
+      "importance_score": 0.8062,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7456,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-14T03:15:56Z",
+      "latest_at": "2026-08-14T03:15:56Z",
+      "primary_item": {
+        "id": "6ed40aa477dd9941b36d3604cac82a96f82f5a16",
+        "title": "GitHub Copilot 每周发布 — 8 月 10 日 / GitHub Copilot weekly releases — August 10",
+        "title_zh": "GitHub Copilot 每周发布 — 8 月 10 日",
+        "title_ja": "GitHub Copilot の毎週のリリース — 8 月 10 日",
+        "title_en": "GitHub Copilot weekly releases — August 10",
+        "title_original": "GitHub Copilot weekly releases — August 10",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-08-13-github-copilot-weekly-releases-august-10",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-14T23:36:19.494664Z"
       }
     },
     {
@@ -1002,16 +1093,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7459,
-      "importance": 0.7459,
-      "importance_score": 0.7459,
+      "score": 0.7437,
+      "importance": 0.7437,
+      "importance_score": 0.7437,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8961,
+        "recency": 0.8839,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1038,96 +1129,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T22:39:26.139375Z"
-      }
-    },
-    {
-      "story_id": "story_4a31f336fa32",
-      "title": "Gemini 3.7 Flash 全面上线 Pro 与 Ultra 用户 / Gemini 3.7 Flash is now available to all Pro and Ultra users in Gemini chat. This model update deli…",
-      "title_ja": "Gemini 3.7 Flash は、Gemini チャットですべての Pro および Ultra ユーザーが利用できるようになりました。このモデルのアップデートデリ…",
-      "url": "https://x.com/GeminiApp/status/2088326407730692538",
-      "primary_url": "https://x.com/GeminiApp/status/2088326407730692538",
-      "source": "X：Gemini (@GeminiApp)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ae979d823c43b5207d5f47ae5382d70f81150f8a",
-          "title": "Gemini 3.7 Flash 全面上线 Pro 与 Ultra 用户 / Gemini 3.7 Flash is now available to all Pro and Ultra users in Gemini chat. This model update deli…",
-          "title_zh": "Gemini 3.7 Flash 全面上线 Pro 与 Ultra 用户",
-          "title_ja": "Gemini 3.7 Flash は、Gemini チャットですべての Pro および Ultra ユーザーが利用できるようになりました。このモデルのアップデートデリ…",
-          "title_en": "Gemini 3.7 Flash is now available to all Pro and Ultra users in Gemini chat. This model update deli…",
-          "title_original": "Gemini 3.7 Flash is now available to all Pro and Ultra users in Gemini chat. This model update deli…",
-          "summary": "Gemini 3.7 Flash 现已向 Gemini 聊天中的 Pro 和 Ultra 用户开放。该模型更新提升了多步骤任务的推理与准确性，如智能整合数十个文件和邮件为一份主文档。同时，Gemini Spark 也已运行于 3.7 Flash，通过改进对 Google Workspace 应用的工具调用，让个人 AI 智能体更精准。",
-          "summary_ja": "Gemini 3.7 Flash は、Gemini チャットで Pro および Ultra ユーザーが利用できるようになりました。このモデルの更新により、数十のファイルや電子メールを単一のマスター ドキュメントにインテリジェントに統合するなど、複数ステップのタスクの推論と精度が向上します。同時に、Gemini Spark も 3.7 Flash 上で実行されており、Google Workspace アプリケーションへのツール呼び出しを改善することでパーソナル AI エージェントの精度が向上しています。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/GeminiApp/status/2088326407730692538",
-          "source": "X：Gemini (@GeminiApp)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-14T18:06:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Gemini (@GeminiApp)"
-      ],
-      "items": [
-        {
-          "id": "ae979d823c43b5207d5f47ae5382d70f81150f8a",
-          "title": "Gemini 3.7 Flash 全面上线 Pro 与 Ultra 用户 / Gemini 3.7 Flash is now available to all Pro and Ultra users in Gemini chat. This model update deli…",
-          "title_zh": "Gemini 3.7 Flash 全面上线 Pro 与 Ultra 用户",
-          "title_ja": "Gemini 3.7 Flash は、Gemini チャットですべての Pro および Ultra ユーザーが利用できるようになりました。このモデルのアップデートデリ…",
-          "title_en": "Gemini 3.7 Flash is now available to all Pro and Ultra users in Gemini chat. This model update deli…",
-          "title_original": "Gemini 3.7 Flash is now available to all Pro and Ultra users in Gemini chat. This model update deli…",
-          "summary": "Gemini 3.7 Flash 现已向 Gemini 聊天中的 Pro 和 Ultra 用户开放。该模型更新提升了多步骤任务的推理与准确性，如智能整合数十个文件和邮件为一份主文档。同时，Gemini Spark 也已运行于 3.7 Flash，通过改进对 Google Workspace 应用的工具调用，让个人 AI 智能体更精准。",
-          "summary_ja": "Gemini 3.7 Flash は、Gemini チャットで Pro および Ultra ユーザーが利用できるようになりました。このモデルの更新により、数十のファイルや電子メールを単一のマスター ドキュメントにインテリジェントに統合するなど、複数ステップのタスクの推論と精度が向上します。同時に、Gemini Spark も 3.7 Flash 上で実行されており、Google Workspace アプリケーションへのツール呼び出しを改善することでパーソナル AI エージェントの精度が向上しています。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/GeminiApp/status/2088326407730692538",
-          "source": "X：Gemini (@GeminiApp)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-14T18:06:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7382,
-      "importance": 0.7382,
-      "importance_score": 0.7382,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9366,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-14T18:06:29Z",
-      "latest_at": "2026-08-14T18:06:29Z",
-      "primary_item": {
-        "id": "ae979d823c43b5207d5f47ae5382d70f81150f8a",
-        "title": "Gemini 3.7 Flash 全面上线 Pro 与 Ultra 用户 / Gemini 3.7 Flash is now available to all Pro and Ultra users in Gemini chat. This model update deli…",
-        "title_zh": "Gemini 3.7 Flash 全面上线 Pro 与 Ultra 用户",
-        "title_ja": "Gemini 3.7 Flash は、Gemini チャットですべての Pro および Ultra ユーザーが利用できるようになりました。このモデルのアップデートデリ…",
-        "title_en": "Gemini 3.7 Flash is now available to all Pro and Ultra users in Gemini chat. This model update deli…",
-        "title_original": "Gemini 3.7 Flash is now available to all Pro and Ultra users in Gemini chat. This model update deli…",
-        "summary": "Gemini 3.7 Flash 现已向 Gemini 聊天中的 Pro 和 Ultra 用户开放。该模型更新提升了多步骤任务的推理与准确性，如智能整合数十个文件和邮件为一份主文档。同时，Gemini Spark 也已运行于 3.7 Flash，通过改进对 Google Workspace 应用的工具调用，让个人 AI 智能体更精准。",
-        "summary_ja": "Gemini 3.7 Flash は、Gemini チャットで Pro および Ultra ユーザーが利用できるようになりました。このモデルの更新により、数十のファイルや電子メールを単一のマスター ドキュメントにインテリジェントに統合するなど、複数ステップのタスクの推論と精度が向上します。同時に、Gemini Spark も 3.7 Flash 上で実行されており、Google Workspace アプリケーションへのツール呼び出しを改善することでパーソナル AI エージェントの精度が向上しています。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/GeminiApp/status/2088326407730692538",
-        "source": "X：Gemini (@GeminiApp)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-14T22:39:26.139375Z"
+        "scored_at": "2026-08-14T23:36:19.494664Z"
       }
     },
     {
@@ -1180,16 +1182,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7381,
-      "importance": 0.7381,
-      "importance_score": 0.7381,
+      "score": 0.7361,
+      "importance": 0.7361,
+      "importance_score": 0.7361,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8362,
+        "recency": 0.8248,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1216,7 +1218,96 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T22:39:26.139375Z"
+        "scored_at": "2026-08-14T23:36:19.494664Z"
+      }
+    },
+    {
+      "story_id": "story_4a31f336fa32",
+      "title": "Gemini 3.7 Flash 全面上线 Pro 与 Ultra 用户 / Gemini 3.7 Flash is now available to all Pro and Ultra users in Gemini chat. This model update deli…",
+      "title_ja": "Gemini 3.7 Flash は、Gemini チャットですべての Pro および Ultra ユーザーが利用できるようになりました。このモデルのアップデートデリ…",
+      "url": "https://x.com/GeminiApp/status/2088326407730692538",
+      "primary_url": "https://x.com/GeminiApp/status/2088326407730692538",
+      "source": "X：Gemini (@GeminiApp)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ae979d823c43b5207d5f47ae5382d70f81150f8a",
+          "title": "Gemini 3.7 Flash 全面上线 Pro 与 Ultra 用户 / Gemini 3.7 Flash is now available to all Pro and Ultra users in Gemini chat. This model update deli…",
+          "title_zh": "Gemini 3.7 Flash 全面上线 Pro 与 Ultra 用户",
+          "title_ja": "Gemini 3.7 Flash は、Gemini チャットですべての Pro および Ultra ユーザーが利用できるようになりました。このモデルのアップデートデリ…",
+          "title_en": "Gemini 3.7 Flash is now available to all Pro and Ultra users in Gemini chat. This model update deli…",
+          "title_original": "Gemini 3.7 Flash is now available to all Pro and Ultra users in Gemini chat. This model update deli…",
+          "summary": "Gemini 3.7 Flash 现已向 Gemini 聊天中的 Pro 和 Ultra 用户开放。该模型更新提升了多步骤任务的推理与准确性，如智能整合数十个文件和邮件为一份主文档。同时，Gemini Spark 也已运行于 3.7 Flash，通过改进对 Google Workspace 应用的工具调用，让个人 AI 智能体更精准。",
+          "summary_ja": "Gemini 3.7 Flash は、Gemini チャットで Pro および Ultra ユーザーが利用できるようになりました。このモデルの更新により、数十のファイルや電子メールを単一のマスター ドキュメントにインテリジェントに統合するなど、複数ステップのタスクの推論と精度が向上します。同時に、Gemini Spark も 3.7 Flash 上で実行されており、Google Workspace アプリケーションへのツール呼び出しを改善することでパーソナル AI エージェントの精度が向上しています。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/GeminiApp/status/2088326407730692538",
+          "source": "X：Gemini (@GeminiApp)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-14T18:06:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Gemini (@GeminiApp)"
+      ],
+      "items": [
+        {
+          "id": "ae979d823c43b5207d5f47ae5382d70f81150f8a",
+          "title": "Gemini 3.7 Flash 全面上线 Pro 与 Ultra 用户 / Gemini 3.7 Flash is now available to all Pro and Ultra users in Gemini chat. This model update deli…",
+          "title_zh": "Gemini 3.7 Flash 全面上线 Pro 与 Ultra 用户",
+          "title_ja": "Gemini 3.7 Flash は、Gemini チャットですべての Pro および Ultra ユーザーが利用できるようになりました。このモデルのアップデートデリ…",
+          "title_en": "Gemini 3.7 Flash is now available to all Pro and Ultra users in Gemini chat. This model update deli…",
+          "title_original": "Gemini 3.7 Flash is now available to all Pro and Ultra users in Gemini chat. This model update deli…",
+          "summary": "Gemini 3.7 Flash 现已向 Gemini 聊天中的 Pro 和 Ultra 用户开放。该模型更新提升了多步骤任务的推理与准确性，如智能整合数十个文件和邮件为一份主文档。同时，Gemini Spark 也已运行于 3.7 Flash，通过改进对 Google Workspace 应用的工具调用，让个人 AI 智能体更精准。",
+          "summary_ja": "Gemini 3.7 Flash は、Gemini チャットで Pro および Ultra ユーザーが利用できるようになりました。このモデルの更新により、数十のファイルや電子メールを単一のマスター ドキュメントにインテリジェントに統合するなど、複数ステップのタスクの推論と精度が向上します。同時に、Gemini Spark も 3.7 Flash 上で実行されており、Google Workspace アプリケーションへのツール呼び出しを改善することでパーソナル AI エージェントの精度が向上しています。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/GeminiApp/status/2088326407730692538",
+          "source": "X：Gemini (@GeminiApp)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-14T18:06:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7359,
+      "importance": 0.7359,
+      "importance_score": 0.7359,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9239,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-14T18:06:29Z",
+      "latest_at": "2026-08-14T18:06:29Z",
+      "primary_item": {
+        "id": "ae979d823c43b5207d5f47ae5382d70f81150f8a",
+        "title": "Gemini 3.7 Flash 全面上线 Pro 与 Ultra 用户 / Gemini 3.7 Flash is now available to all Pro and Ultra users in Gemini chat. This model update deli…",
+        "title_zh": "Gemini 3.7 Flash 全面上线 Pro 与 Ultra 用户",
+        "title_ja": "Gemini 3.7 Flash は、Gemini チャットですべての Pro および Ultra ユーザーが利用できるようになりました。このモデルのアップデートデリ…",
+        "title_en": "Gemini 3.7 Flash is now available to all Pro and Ultra users in Gemini chat. This model update deli…",
+        "title_original": "Gemini 3.7 Flash is now available to all Pro and Ultra users in Gemini chat. This model update deli…",
+        "summary": "Gemini 3.7 Flash 现已向 Gemini 聊天中的 Pro 和 Ultra 用户开放。该模型更新提升了多步骤任务的推理与准确性，如智能整合数十个文件和邮件为一份主文档。同时，Gemini Spark 也已运行于 3.7 Flash，通过改进对 Google Workspace 应用的工具调用，让个人 AI 智能体更精准。",
+        "summary_ja": "Gemini 3.7 Flash は、Gemini チャットで Pro および Ultra ユーザーが利用できるようになりました。このモデルの更新により、数十のファイルや電子メールを単一のマスター ドキュメントにインテリジェントに統合するなど、複数ステップのタスクの推論と精度が向上します。同時に、Gemini Spark も 3.7 Flash 上で実行されており、Google Workspace アプリケーションへのツール呼び出しを改善することでパーソナル AI エージェントの精度が向上しています。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/GeminiApp/status/2088326407730692538",
+        "source": "X：Gemini (@GeminiApp)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-14T23:36:19.494664Z"
       }
     },
     {
@@ -1269,16 +1360,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7312,
-      "importance": 0.7312,
-      "importance_score": 0.7312,
+      "score": 0.7292,
+      "importance": 0.7292,
+      "importance_score": 0.7292,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7809,
+        "recency": 0.7703,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1305,7 +1396,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T22:39:26.139375Z"
+        "scored_at": "2026-08-14T23:36:19.494664Z"
       }
     },
     {
@@ -1358,16 +1449,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7381,
-      "importance": 0.7381,
-      "importance_score": 0.7381,
+      "score": 0.7361,
+      "importance": 0.7361,
+      "importance_score": 0.7361,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8362,
+        "recency": 0.8248,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1394,7 +1485,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T22:39:26.139375Z"
+        "scored_at": "2026-08-14T23:36:19.494664Z"
       }
     },
     {
@@ -1447,16 +1538,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7346,
-      "importance": 0.7346,
-      "importance_score": 0.7346,
+      "score": 0.7326,
+      "importance": 0.7326,
+      "importance_score": 0.7326,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8166,
+        "recency": 0.8055,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1483,7 +1574,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T22:39:26.139375Z"
+        "scored_at": "2026-08-14T23:36:19.494664Z"
       }
     },
     {
@@ -1536,16 +1627,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7346,
-      "importance": 0.7346,
-      "importance_score": 0.7346,
+      "score": 0.7326,
+      "importance": 0.7326,
+      "importance_score": 0.7326,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8166,
+        "recency": 0.8055,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1572,7 +1663,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T22:39:26.139375Z"
+        "scored_at": "2026-08-14T23:36:19.494664Z"
       }
     },
     {
@@ -1658,16 +1749,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6328,
-      "importance": 0.6328,
-      "importance_score": 0.6328,
+      "score": 0.6306,
+      "importance": 0.6306,
+      "importance_score": 0.6306,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.9115,
+        "recency": 0.8991,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1694,7 +1785,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T22:39:26.139375Z"
+        "scored_at": "2026-08-14T23:36:19.494664Z"
       }
     },
     {
@@ -1747,16 +1838,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7346,
-      "importance": 0.7346,
-      "importance_score": 0.7346,
+      "score": 0.7326,
+      "importance": 0.7326,
+      "importance_score": 0.7326,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8166,
+        "recency": 0.8055,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1783,7 +1874,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T22:39:26.139375Z"
+        "scored_at": "2026-08-14T23:36:19.494664Z"
       }
     },
     {
@@ -1868,16 +1959,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6131,
-      "importance": 0.6131,
-      "importance_score": 0.6131,
+      "score": 0.6108,
+      "importance": 0.6108,
+      "importance_score": 0.6108,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.9172,
+        "recency": 0.9047,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1904,96 +1995,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-14T22:39:26.139375Z"
-      }
-    },
-    {
-      "story_id": "story_71eae7f8ef8d",
-      "title": "告别单机模型“虚胖”：百灵团队联合AReno打通本地智能体强化学习闭环",
-      "title_ja": "スタンドアロン モデルの「むくみ」に別れを告げる: Bailing チームが AReno と協力して、ローカル エージェント強化学習の閉ループを開く",
-      "url": "https://www.aibase.com/news/30357",
-      "primary_url": "https://www.aibase.com/news/30357",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "62b23d859a312442d8d155de51afd3b7e70d5535",
-          "title": "告别单机模型“虚胖”：百灵团队联合AReno打通本地智能体强化学习闭环",
-          "title_zh": "告别单机模型“虚胖”：百灵团队联合AReno打通本地智能体强化学习闭环",
-          "title_ja": "スタンドアロン モデルの「むくみ」に別れを告げる: Bailing チームが AReno と協力して、ローカル エージェント強化学習の閉ループを開く",
-          "title_en": null,
-          "title_original": "告别单机模型“虚胖”：百灵团队联合AReno打通本地智能体强化学习闭环",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30357",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-14T08:36:43.853269Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "62b23d859a312442d8d155de51afd3b7e70d5535",
-          "title": "告别单机模型“虚胖”：百灵团队联合AReno打通本地智能体强化学习闭环",
-          "title_zh": "告别单机模型“虚胖”：百灵团队联合AReno打通本地智能体强化学习闭环",
-          "title_ja": "スタンドアロン モデルの「むくみ」に別れを告げる: Bailing チームが AReno と協力して、ローカル エージェント強化学習の閉ループを開く",
-          "title_en": null,
-          "title_original": "告别单机模型“虚胖”：百灵团队联合AReno打通本地智能体强化学习闭环",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30357",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-14T08:36:43.853269Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7346,
-      "importance": 0.7346,
-      "importance_score": 0.7346,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8166,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-14T08:36:43.853269Z",
-      "latest_at": "2026-08-14T08:36:43.853269Z",
-      "primary_item": {
-        "id": "62b23d859a312442d8d155de51afd3b7e70d5535",
-        "title": "告别单机模型“虚胖”：百灵团队联合AReno打通本地智能体强化学习闭环",
-        "title_zh": "告别单机模型“虚胖”：百灵团队联合AReno打通本地智能体强化学习闭环",
-        "title_ja": "スタンドアロン モデルの「むくみ」に別れを告げる: Bailing チームが AReno と協力して、ローカル エージェント強化学習の閉ループを開く",
-        "title_en": null,
-        "title_original": "告别单机模型“虚胖”：百灵团队联合AReno打通本地智能体强化学习闭环",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30357",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-14T22:39:26.139375Z"
+        "scored_at": "2026-08-14T23:36:19.494664Z"
       }
     }
   ]
