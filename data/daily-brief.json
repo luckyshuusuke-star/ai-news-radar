@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-15T20:36:25.747211Z",
+  "generated_at": "2026-08-15T21:33:38.969278Z",
   "window_hours": 24,
-  "total_items": 16,
+  "total_items": 18,
   "items": [
     {
       "story_id": "story_e27bfcf013b4",
@@ -53,16 +53,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7952,
-      "importance": 0.7952,
-      "importance_score": 0.7952,
+      "score": 0.7934,
+      "importance": 0.7934,
+      "importance_score": 0.7934,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7291,
+        "recency": 0.7191,
         "story_heat": 0.0
       },
       "category": "official",
@@ -91,7 +91,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T20:37:17.590237Z"
+        "scored_at": "2026-08-15T21:34:21.911236Z"
       }
     },
     {
@@ -177,16 +177,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7883,
-      "importance": 0.7883,
-      "importance_score": 0.7883,
+      "score": 0.7858,
+      "importance": 0.7858,
+      "importance_score": 0.7858,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9927,
+        "recency": 0.9791,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -215,7 +215,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T20:37:17.590237Z"
+        "scored_at": "2026-08-15T21:34:21.911236Z"
       }
     },
     {
@@ -268,16 +268,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7383,
-      "importance": 0.7383,
-      "importance_score": 0.7383,
+      "score": 0.7362,
+      "importance": 0.7362,
+      "importance_score": 0.7362,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8706,
+        "recency": 0.8587,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -304,7 +304,316 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T20:37:17.590237Z"
+        "scored_at": "2026-08-15T21:34:21.911236Z"
+      }
+    },
+    {
+      "story_id": "story_b004ea508d1a",
+      "title": "Show HN: ThoughtDAG——用于大型语言模型对话的可编辑上下文图",
+      "title_ja": "Show HN: ThoughtDAG - 大規模な言語モデルの会話のための編集可能なコンテキスト グラフ",
+      "url": "https://chenxiachan.github.io/thoughtdag",
+      "primary_url": "https://chenxiachan.github.io/thoughtdag",
+      "source": "chenxiachan.github.io",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "6db43f61223c5334975fb4fb4e1bc8dd4d6b442b",
+          "title": "Show HN: ThoughtDAG——用于大型语言模型对话的可编辑上下文图",
+          "title_zh": "Show HN: ThoughtDAG——用于大型语言模型对话的可编辑上下文图",
+          "title_ja": "Show HN: ThoughtDAG - 大規模な言語モデルの会話のための編集可能なコンテキスト グラフ",
+          "title_en": null,
+          "title_original": "Show HN: ThoughtDAG——用于大型语言模型对话的可编辑上下文图",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://chenxiachan.github.io/thoughtdag",
+          "source": "chenxiachan.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T21:09:54.519000Z"
+        },
+        {
+          "id": "cb0602853d5df9ee0d0d7b05adab8514f2668d56",
+          "title": "显示 HN：ThoughtDAG – LLM 对话的可编辑上下文图 / Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+          "title_zh": "显示 HN：ThoughtDAG – LLM 对话的可编辑上下文图",
+          "title_ja": "HN を表示: ThoughtDAG – LLM 会話の編集可能なコンテキスト グラフ",
+          "title_en": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+          "title_original": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49307700",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T06:56:10.046000Z"
+        },
+        {
+          "id": "033e6f66c7b304995f3043ecf844c7da53353828",
+          "title": "Show HN: ThoughtDAG——用于大型语言模型对话的可编辑上下文图 / Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+          "title_zh": "Show HN: ThoughtDAG——用于大型语言模型对话的可编辑上下文图",
+          "title_ja": "HN を表示: ThoughtDAG – LLM 会話の編集可能なコンテキスト グラフ",
+          "title_en": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+          "title_original": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://chenxiachan.github.io/thoughtdag",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-15T04:42:07Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "chenxiachan.github.io",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "6db43f61223c5334975fb4fb4e1bc8dd4d6b442b",
+          "title": "Show HN: ThoughtDAG——用于大型语言模型对话的可编辑上下文图",
+          "title_zh": "Show HN: ThoughtDAG——用于大型语言模型对话的可编辑上下文图",
+          "title_ja": "Show HN: ThoughtDAG - 大規模な言語モデルの会話のための編集可能なコンテキスト グラフ",
+          "title_en": null,
+          "title_original": "Show HN: ThoughtDAG——用于大型语言模型对话的可编辑上下文图",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://chenxiachan.github.io/thoughtdag",
+          "source": "chenxiachan.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T21:09:54.519000Z"
+        },
+        {
+          "id": "cb0602853d5df9ee0d0d7b05adab8514f2668d56",
+          "title": "显示 HN：ThoughtDAG – LLM 对话的可编辑上下文图 / Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+          "title_zh": "显示 HN：ThoughtDAG – LLM 对话的可编辑上下文图",
+          "title_ja": "HN を表示: ThoughtDAG – LLM 会話の編集可能なコンテキスト グラフ",
+          "title_en": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+          "title_original": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49307700",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T06:56:10.046000Z"
+        },
+        {
+          "id": "033e6f66c7b304995f3043ecf844c7da53353828",
+          "title": "Show HN: ThoughtDAG——用于大型语言模型对话的可编辑上下文图 / Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+          "title_zh": "Show HN: ThoughtDAG——用于大型语言模型对话的可编辑上下文图",
+          "title_ja": "HN を表示: ThoughtDAG – LLM 会話の編集可能なコンテキスト グラフ",
+          "title_en": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+          "title_original": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://chenxiachan.github.io/thoughtdag",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-15T04:42:07Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5698,
+      "importance": 0.5698,
+      "importance_score": 0.5698,
+      "importance_label": "多源热议",
+      "importance_label_ja": "複数ソースで話題",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9943,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T04:42:07Z",
+      "latest_at": "2026-08-15T21:09:54.519000Z",
+      "primary_item": {
+        "id": "6db43f61223c5334975fb4fb4e1bc8dd4d6b442b",
+        "title": "Show HN: ThoughtDAG——用于大型语言模型对话的可编辑上下文图",
+        "title_zh": "Show HN: ThoughtDAG——用于大型语言模型对话的可编辑上下文图",
+        "title_ja": "Show HN: ThoughtDAG - 大規模な言語モデルの会話のための編集可能なコンテキスト グラフ",
+        "title_en": null,
+        "title_original": "Show HN: ThoughtDAG——用于大型语言模型对话的可编辑上下文图",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://chenxiachan.github.io/thoughtdag",
+        "source": "chenxiachan.github.io",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-15T21:34:21.911236Z"
+      }
+    },
+    {
+      "story_id": "story_737248ef9162",
+      "title": "药物发现中的人工智能——它是什么、我们的立场和前进的道路 / AI in drug discovery — what it is, where we stand and the path forward",
+      "title_ja": "創薬における AI — AI とは何か、私たちの立ち位置、そして今後の道筋",
+      "url": "https://news.ycombinator.com/item?id=49313367",
+      "primary_url": "https://news.ycombinator.com/item?id=49313367",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "66448732fdd4b21dd75ef6e84479fa756b82a7b9",
+          "title": "药物发现中的人工智能——它是什么、我们的立场和前进的道路 / AI in drug discovery — what it is, where we stand and the path forward",
+          "title_zh": "药物发现中的人工智能——它是什么、我们的立场和前进的道路",
+          "title_ja": "創薬における AI — AI とは何か、私たちの立ち位置、そして今後の道筋",
+          "title_en": "AI in drug discovery — what it is, where we stand and the path forward",
+          "title_original": "AI in drug discovery — what it is, where we stand and the path forward",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49313367",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T21:09:38.355000Z"
+        },
+        {
+          "id": "d9c365b593a27d563d4819163086a2a24ccf6621",
+          "title": "那么人工智能药物发现到底表现如何？ / So How Is AI Drug Discovery Doing, Really?",
+          "title_zh": "那么人工智能药物发现到底表现如何？",
+          "title_ja": "AI創薬は実際のところどうなっているのでしょうか?",
+          "title_en": "So How Is AI Drug Discovery Doing, Really?",
+          "title_original": "So How Is AI Drug Discovery Doing, Really?",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49313367",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T20:09:30.973000Z"
+        },
+        {
+          "id": "272ea2a447fcb4e4062b82df6b876d97ca4cd881",
+          "title": "那么人工智能药物发现到底表现如何？ / So How Is AI Drug Discovery Doing, Really?",
+          "title_zh": "那么人工智能药物发现到底表现如何？",
+          "title_ja": "AI創薬は実際のところどうなっているのでしょうか?",
+          "title_en": "So How Is AI Drug Discovery Doing, Really?",
+          "title_original": "So How Is AI Drug Discovery Doing, Really?",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T19:12:53Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "66448732fdd4b21dd75ef6e84479fa756b82a7b9",
+          "title": "药物发现中的人工智能——它是什么、我们的立场和前进的道路 / AI in drug discovery — what it is, where we stand and the path forward",
+          "title_zh": "药物发现中的人工智能——它是什么、我们的立场和前进的道路",
+          "title_ja": "創薬における AI — AI とは何か、私たちの立ち位置、そして今後の道筋",
+          "title_en": "AI in drug discovery — what it is, where we stand and the path forward",
+          "title_original": "AI in drug discovery — what it is, where we stand and the path forward",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49313367",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T21:09:38.355000Z"
+        },
+        {
+          "id": "d9c365b593a27d563d4819163086a2a24ccf6621",
+          "title": "那么人工智能药物发现到底表现如何？ / So How Is AI Drug Discovery Doing, Really?",
+          "title_zh": "那么人工智能药物发现到底表现如何？",
+          "title_ja": "AI創薬は実際のところどうなっているのでしょうか?",
+          "title_en": "So How Is AI Drug Discovery Doing, Really?",
+          "title_original": "So How Is AI Drug Discovery Doing, Really?",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49313367",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T20:09:30.973000Z"
+        },
+        {
+          "id": "272ea2a447fcb4e4062b82df6b876d97ca4cd881",
+          "title": "那么人工智能药物发现到底表现如何？ / So How Is AI Drug Discovery Doing, Really?",
+          "title_zh": "那么人工智能药物发现到底表现如何？",
+          "title_ja": "AI創薬は実際のところどうなっているのでしょうか?",
+          "title_en": "So How Is AI Drug Discovery Doing, Really?",
+          "title_original": "So How Is AI Drug Discovery Doing, Really?",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T19:12:53Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5698,
+      "importance": 0.5698,
+      "importance_score": 0.5698,
+      "importance_label": "多源热议",
+      "importance_label_ja": "複数ソースで話題",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9942,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T19:12:53Z",
+      "latest_at": "2026-08-15T21:09:38.355000Z",
+      "primary_item": {
+        "id": "66448732fdd4b21dd75ef6e84479fa756b82a7b9",
+        "title": "药物发现中的人工智能——它是什么、我们的立场和前进的道路 / AI in drug discovery — what it is, where we stand and the path forward",
+        "title_zh": "药物发现中的人工智能——它是什么、我们的立场和前进的道路",
+        "title_ja": "創薬における AI — AI とは何か、私たちの立ち位置、そして今後の道筋",
+        "title_en": "AI in drug discovery — what it is, where we stand and the path forward",
+        "title_original": "AI in drug discovery — what it is, where we stand and the path forward",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49313367",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-15T21:34:21.911236Z"
       }
     },
     {
@@ -423,16 +732,16 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5674,
-      "importance": 0.5674,
-      "importance_score": 0.5674,
+      "score": 0.565,
+      "importance": 0.565,
+      "importance_score": 0.565,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9813,
+        "recency": 0.9679,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -459,7 +768,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T20:37:17.590237Z"
+        "scored_at": "2026-08-15T21:34:21.911236Z"
       }
     },
     {
@@ -578,16 +887,16 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5608,
-      "importance": 0.5608,
-      "importance_score": 0.5608,
+      "score": 0.5584,
+      "importance": 0.5584,
+      "importance_score": 0.5584,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9442,
+        "recency": 0.9313,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -614,7 +923,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T20:37:17.590237Z"
+        "scored_at": "2026-08-15T21:34:21.911236Z"
       }
     },
     {
@@ -733,16 +1042,16 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5543,
-      "importance": 0.5543,
-      "importance_score": 0.5543,
+      "score": 0.5521,
+      "importance": 0.5521,
+      "importance_score": 0.5521,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9086,
+        "recency": 0.8961,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -769,243 +1078,276 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T20:37:17.590237Z"
+        "scored_at": "2026-08-15T21:34:21.911236Z"
       }
     },
     {
-      "story_id": "story_737248ef9162",
-      "title": "那么人工智能药物发现到底表现如何？ / So How Is AI Drug Discovery Doing, Really?",
-      "title_ja": "AI創薬は実際のところどうなっているのでしょうか?",
-      "url": "https://news.ycombinator.com/item?id=49313367",
-      "primary_url": "https://news.ycombinator.com/item?id=49313367",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "story_id": "story_6a65f744a5e9",
+      "title": "Cloudflare的AI精神错乱",
+      "title_ja": "Cloudflare の AI の狂気",
+      "url": "https://opensauce.it/cloudflare-ai-psychosis",
+      "primary_url": "https://opensauce.it/cloudflare-ai-psychosis",
+      "source": "opensauce.it",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "d9c365b593a27d563d4819163086a2a24ccf6621",
-          "title": "那么人工智能药物发现到底表现如何？ / So How Is AI Drug Discovery Doing, Really?",
-          "title_zh": "那么人工智能药物发现到底表现如何？",
-          "title_ja": "AI創薬は実際のところどうなっているのでしょうか?",
-          "title_en": "So How Is AI Drug Discovery Doing, Really?",
-          "title_original": "So How Is AI Drug Discovery Doing, Really?",
+          "id": "9de85b60c61e7ae7ae01c3fb807c4559569a43d5",
+          "title": "Cloudflare的AI精神错乱",
+          "title_zh": "Cloudflare的AI精神错乱",
+          "title_ja": "Cloudflare の AI の狂気",
+          "title_en": null,
+          "title_original": "Cloudflare的AI精神错乱",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49313367",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T20:09:30.973000Z"
+          "url": "https://opensauce.it/cloudflare-ai-psychosis",
+          "source": "opensauce.it",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T20:37:59.382000Z"
         },
         {
-          "id": "fb742fc02c70e40eb693c6c361e1d0860ae6f8b3",
-          "title": "那么人工智能药物发现到底表现如何？ / So How Is AI Drug Discovery Doing, Really?",
-          "title_zh": "那么人工智能药物发现到底表现如何？",
-          "title_ja": "AI創薬は実際のところどうなっているのでしょうか?",
-          "title_en": "So How Is AI Drug Discovery Doing, Really?",
-          "title_original": "So How Is AI Drug Discovery Doing, Really?",
+          "id": "fe382c3fbfc045b074356e5dd29309fa1ec74f5a",
+          "title": "Cloudflare的AI精神错乱 / Cloudflare's AI Psychosis",
+          "title_zh": "Cloudflare的AI精神错乱",
+          "title_ja": "CloudflareのAI精神病",
+          "title_en": "Cloudflare's AI Psychosis",
+          "title_original": "Cloudflare's AI Psychosis",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-15T19:12:53Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "d9c365b593a27d563d4819163086a2a24ccf6621",
-          "title": "那么人工智能药物发现到底表现如何？ / So How Is AI Drug Discovery Doing, Really?",
-          "title_zh": "那么人工智能药物发现到底表现如何？",
-          "title_ja": "AI創薬は実際のところどうなっているのでしょうか?",
-          "title_en": "So How Is AI Drug Discovery Doing, Really?",
-          "title_original": "So How Is AI Drug Discovery Doing, Really?",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49313367",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T20:09:30.973000Z"
-        },
-        {
-          "id": "fb742fc02c70e40eb693c6c361e1d0860ae6f8b3",
-          "title": "那么人工智能药物发现到底表现如何？ / So How Is AI Drug Discovery Doing, Really?",
-          "title_zh": "那么人工智能药物发现到底表现如何？",
-          "title_ja": "AI創薬は実際のところどうなっているのでしょうか?",
-          "title_en": "So How Is AI Drug Discovery Doing, Really?",
-          "title_original": "So How Is AI Drug Discovery Doing, Really?",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-15T19:12:53Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5446,
-      "importance": 0.5446,
-      "importance_score": 0.5446,
-      "importance_label": "值得关注",
-      "importance_label_ja": "要注目",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9935,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T19:12:53Z",
-      "latest_at": "2026-08-15T20:09:30.973000Z",
-      "primary_item": {
-        "id": "d9c365b593a27d563d4819163086a2a24ccf6621",
-        "title": "那么人工智能药物发现到底表现如何？ / So How Is AI Drug Discovery Doing, Really?",
-        "title_zh": "那么人工智能药物发现到底表现如何？",
-        "title_ja": "AI創薬は実際のところどうなっているのでしょうか?",
-        "title_en": "So How Is AI Drug Discovery Doing, Really?",
-        "title_original": "So How Is AI Drug Discovery Doing, Really?",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49313367",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-15T20:37:17.590237Z"
-      }
-    },
-    {
-      "story_id": "story_f64b1a3994c2",
-      "title": "人工智能现在可以设计功能性病毒。我们应该担心吗？ / AI Can Now Design Functional Viruses. Should We Worry?",
-      "title_ja": "AI が機能的なウイルスを設計できるようになりました。心配する必要はありますか?",
-      "url": "https://news.ycombinator.com/item?id=49311445",
-      "primary_url": "https://news.ycombinator.com/item?id=49311445",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "9275bde78f1db83d1ec2a6ae94089898062b8bc7",
-          "title": "人工智能现在可以设计功能性病毒。我们应该担心吗？ / AI Can Now Design Functional Viruses. Should We Worry?",
-          "title_zh": "人工智能现在可以设计功能性病毒。我们应该担心吗？",
-          "title_ja": "AI が機能的なウイルスを設計できるようになりました。心配する必要はありますか?",
-          "title_en": "AI Can Now Design Functional Viruses. Should We Worry?",
-          "title_original": "AI Can Now Design Functional Viruses. Should We Worry?",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49311445",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T16:39:44.791000Z"
-        },
-        {
-          "id": "b55c5b939bdf5d3bda12e41c757031f76dc3656e",
-          "title": "人工智能现在可以设计功能性病毒。我们应该担心吗？ / AI Can Now Design Functional Viruses. Should We Worry?",
-          "title_zh": "人工智能现在可以设计功能性病毒。我们应该担心吗？",
-          "title_ja": "AI が機能的なウイルスを設計できるようになりました。心配する必要はありますか?",
-          "title_en": "AI Can Now Design Functional Viruses. Should We Worry?",
-          "title_original": "AI Can Now Design Functional Viruses. Should We Worry?",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://spectrum.ieee.org/ai-designed-virus",
+          "url": "https://opensauce.it/cloudflare-ai-psychosis",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-15T15:32:25Z"
+          "published_at": "2026-08-15T14:08:40Z"
         }
       ],
       "source_count": 2,
       "source_names": [
         "Hacker News · 24h最热",
-        "hackernews"
+        "opensauce.it"
       ],
       "items": [
         {
-          "id": "9275bde78f1db83d1ec2a6ae94089898062b8bc7",
-          "title": "人工智能现在可以设计功能性病毒。我们应该担心吗？ / AI Can Now Design Functional Viruses. Should We Worry?",
-          "title_zh": "人工智能现在可以设计功能性病毒。我们应该担心吗？",
-          "title_ja": "AI が機能的なウイルスを設計できるようになりました。心配する必要はありますか?",
-          "title_en": "AI Can Now Design Functional Viruses. Should We Worry?",
-          "title_original": "AI Can Now Design Functional Viruses. Should We Worry?",
+          "id": "9de85b60c61e7ae7ae01c3fb807c4559569a43d5",
+          "title": "Cloudflare的AI精神错乱",
+          "title_zh": "Cloudflare的AI精神错乱",
+          "title_ja": "Cloudflare の AI の狂気",
+          "title_en": null,
+          "title_original": "Cloudflare的AI精神错乱",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49311445",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T16:39:44.791000Z"
+          "url": "https://opensauce.it/cloudflare-ai-psychosis",
+          "source": "opensauce.it",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T20:37:59.382000Z"
         },
         {
-          "id": "b55c5b939bdf5d3bda12e41c757031f76dc3656e",
-          "title": "人工智能现在可以设计功能性病毒。我们应该担心吗？ / AI Can Now Design Functional Viruses. Should We Worry?",
-          "title_zh": "人工智能现在可以设计功能性病毒。我们应该担心吗？",
-          "title_ja": "AI が機能的なウイルスを設計できるようになりました。心配する必要はありますか?",
-          "title_en": "AI Can Now Design Functional Viruses. Should We Worry?",
-          "title_original": "AI Can Now Design Functional Viruses. Should We Worry?",
+          "id": "fe382c3fbfc045b074356e5dd29309fa1ec74f5a",
+          "title": "Cloudflare的AI精神错乱 / Cloudflare's AI Psychosis",
+          "title_zh": "Cloudflare的AI精神错乱",
+          "title_ja": "CloudflareのAI精神病",
+          "title_en": "Cloudflare's AI Psychosis",
+          "title_original": "Cloudflare's AI Psychosis",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://spectrum.ieee.org/ai-designed-virus",
+          "url": "https://opensauce.it/cloudflare-ai-psychosis",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-15T15:32:25Z"
+          "published_at": "2026-08-15T14:08:40Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5358,
-      "importance": 0.5358,
-      "importance_score": 0.5358,
+      "score": 0.5434,
+      "importance": 0.5434,
+      "importance_score": 0.5434,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9446,
+        "recency": 0.9867,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-15T15:32:25Z",
-      "latest_at": "2026-08-15T16:39:44.791000Z",
+      "earliest_at": "2026-08-15T14:08:40Z",
+      "latest_at": "2026-08-15T20:37:59.382000Z",
       "primary_item": {
-        "id": "9275bde78f1db83d1ec2a6ae94089898062b8bc7",
-        "title": "人工智能现在可以设计功能性病毒。我们应该担心吗？ / AI Can Now Design Functional Viruses. Should We Worry?",
-        "title_zh": "人工智能现在可以设计功能性病毒。我们应该担心吗？",
-        "title_ja": "AI が機能的なウイルスを設計できるようになりました。心配する必要はありますか?",
-        "title_en": "AI Can Now Design Functional Viruses. Should We Worry?",
-        "title_original": "AI Can Now Design Functional Viruses. Should We Worry?",
+        "id": "9de85b60c61e7ae7ae01c3fb807c4559569a43d5",
+        "title": "Cloudflare的AI精神错乱",
+        "title_zh": "Cloudflare的AI精神错乱",
+        "title_ja": "Cloudflare の AI の狂気",
+        "title_en": null,
+        "title_original": "Cloudflare的AI精神错乱",
         "summary": null,
         "summary_ja": null,
         "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49311445",
+        "url": "https://opensauce.it/cloudflare-ai-psychosis",
+        "source": "opensauce.it",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-15T21:34:21.911236Z"
+      }
+    },
+    {
+      "story_id": "story_67a9736d0220",
+      "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
+      "title_ja": "古本の売れ行きが好調だ。 AIのせいでしょうか？",
+      "url": "https://news.ycombinator.com/item?id=49310725",
+      "primary_url": "https://news.ycombinator.com/item?id=49310725",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "f50f85b755a8871c36dc1a3f17ad231bac4f5f7e",
+          "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
+          "title_zh": "二手书销售蓬勃发展。是因为人工智能吗？",
+          "title_ja": "古本の売れ行きが好調だ。 AIのせいでしょうか？",
+          "title_en": "Secondhand book sales are booming. Is it because of AI?",
+          "title_original": "Secondhand book sales are booming. Is it because of AI?",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49310725",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T14:38:41.830000Z"
+        },
+        {
+          "id": "f9db1e50aae4565b43f99f9b9e7aacbbebab7100",
+          "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
+          "title_zh": "二手书销售蓬勃发展。是因为人工智能吗？",
+          "title_ja": "古本の売れ行きが好調だ。 AIのせいでしょうか？",
+          "title_en": "Secondhand book sales are booming. Is it because of AI?",
+          "title_original": "Secondhand book sales are booming. Is it because of AI?",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-15T14:08:55Z"
+        },
+        {
+          "id": "dcc8a19034a29524320fe1cf922bc36524fb4b37",
+          "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
+          "title_zh": "二手书销售蓬勃发展。是因为人工智能吗？",
+          "title_ja": "古本の売れ行きが好調だ。 AIのせいでしょうか？",
+          "title_en": "Secondhand book sales are booming. Is it because of AI?",
+          "title_original": "Secondhand book sales are booming. Is it because of AI?",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T11:25:32Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "BBC News",
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "f50f85b755a8871c36dc1a3f17ad231bac4f5f7e",
+          "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
+          "title_zh": "二手书销售蓬勃发展。是因为人工智能吗？",
+          "title_ja": "古本の売れ行きが好調だ。 AIのせいでしょうか？",
+          "title_en": "Secondhand book sales are booming. Is it because of AI?",
+          "title_original": "Secondhand book sales are booming. Is it because of AI?",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49310725",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T14:38:41.830000Z"
+        },
+        {
+          "id": "f9db1e50aae4565b43f99f9b9e7aacbbebab7100",
+          "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
+          "title_zh": "二手书销售蓬勃发展。是因为人工智能吗？",
+          "title_ja": "古本の売れ行きが好調だ。 AIのせいでしょうか？",
+          "title_en": "Secondhand book sales are booming. Is it because of AI?",
+          "title_original": "Secondhand book sales are booming. Is it because of AI?",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-15T14:08:55Z"
+        },
+        {
+          "id": "dcc8a19034a29524320fe1cf922bc36524fb4b37",
+          "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
+          "title_zh": "二手书销售蓬勃发展。是因为人工智能吗？",
+          "title_ja": "古本の売れ行きが好調だ。 AIのせいでしょうか？",
+          "title_en": "Secondhand book sales are booming. Is it because of AI?",
+          "title_original": "Secondhand book sales are booming. Is it because of AI?",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T11:25:32Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5537,
+      "importance": 0.5537,
+      "importance_score": 0.5537,
+      "importance_label": "多源热议",
+      "importance_label_ja": "複数ソースで話題",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.905,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T11:25:32Z",
+      "latest_at": "2026-08-15T14:38:41.830000Z",
+      "primary_item": {
+        "id": "f50f85b755a8871c36dc1a3f17ad231bac4f5f7e",
+        "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
+        "title_zh": "二手书销售蓬勃发展。是因为人工智能吗？",
+        "title_ja": "古本の売れ行きが好調だ。 AIのせいでしょうか？",
+        "title_en": "Secondhand book sales are booming. Is it because of AI?",
+        "title_original": "Secondhand book sales are booming. Is it because of AI?",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49310725",
         "source": "hackernews",
         "source_name": "NewsNow"
       },
@@ -1013,7 +1355,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T20:37:17.590237Z"
+        "scored_at": "2026-08-15T21:34:21.911236Z"
       }
     },
     {
@@ -1099,16 +1441,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5048,
-      "importance": 0.5048,
-      "importance_score": 0.5048,
+      "score": 0.5029,
+      "importance": 0.5029,
+      "importance_score": 0.5029,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7722,
+        "recency": 0.7616,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1135,7 +1477,251 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T20:37:17.590237Z"
+        "scored_at": "2026-08-15T21:34:21.911236Z"
+      }
+    },
+    {
+      "story_id": "story_79edf3446ec2",
+      "title": "为什么科技巨头们不断分享他们关于人工智能的宣言 / Why tech bosses keep sharing their manifestos about AI",
+      "title_ja": "テクノロジー企業の責任者が AI に関するマニフェストを共有し続ける理由",
+      "url": "https://news.ycombinator.com/item?id=49313519",
+      "primary_url": "https://news.ycombinator.com/item?id=49313519",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "901b3aaa15d04da62e96b93894715feadc126f5c",
+          "title": "为什么科技巨头们不断分享他们关于人工智能的宣言 / Why tech bosses keep sharing their manifestos about AI",
+          "title_zh": "为什么科技巨头们不断分享他们关于人工智能的宣言",
+          "title_ja": "テクノロジー企業の責任者が AI に関するマニフェストを共有し続ける理由",
+          "title_en": "Why tech bosses keep sharing their manifestos about AI",
+          "title_original": "Why tech bosses keep sharing their manifestos about AI",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49313519",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T21:09:38.355000Z"
+        },
+        {
+          "id": "a5c133336b6e6a98972c6f1411921a08ea19d62f",
+          "title": "为什么科技巨头们不断分享他们关于人工智能的宣言 / Why tech bosses keep sharing their manifestos about AI",
+          "title_zh": "为什么科技巨头们不断分享他们关于人工智能的宣言",
+          "title_ja": "テクノロジー企業の責任者が AI に関するマニフェストを共有し続ける理由",
+          "title_en": "Why tech bosses keep sharing their manifestos about AI",
+          "title_original": "Why tech bosses keep sharing their manifestos about AI",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.bbc.com/news/articles/cz97ljy91zxo",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T19:30:32Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "901b3aaa15d04da62e96b93894715feadc126f5c",
+          "title": "为什么科技巨头们不断分享他们关于人工智能的宣言 / Why tech bosses keep sharing their manifestos about AI",
+          "title_zh": "为什么科技巨头们不断分享他们关于人工智能的宣言",
+          "title_ja": "テクノロジー企業の責任者が AI に関するマニフェストを共有し続ける理由",
+          "title_en": "Why tech bosses keep sharing their manifestos about AI",
+          "title_original": "Why tech bosses keep sharing their manifestos about AI",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49313519",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T21:09:38.355000Z"
+        },
+        {
+          "id": "a5c133336b6e6a98972c6f1411921a08ea19d62f",
+          "title": "为什么科技巨头们不断分享他们关于人工智能的宣言 / Why tech bosses keep sharing their manifestos about AI",
+          "title_zh": "为什么科技巨头们不断分享他们关于人工智能的宣言",
+          "title_ja": "テクノロジー企業の責任者が AI に関するマニフェストを共有し続ける理由",
+          "title_en": "Why tech bosses keep sharing their manifestos about AI",
+          "title_original": "Why tech bosses keep sharing their manifestos about AI",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.bbc.com/news/articles/cz97ljy91zxo",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T19:30:32Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5448,
+      "importance": 0.5448,
+      "importance_score": 0.5448,
+      "importance_label": "值得关注",
+      "importance_label_ja": "要注目",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9942,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T19:30:32Z",
+      "latest_at": "2026-08-15T21:09:38.355000Z",
+      "primary_item": {
+        "id": "901b3aaa15d04da62e96b93894715feadc126f5c",
+        "title": "为什么科技巨头们不断分享他们关于人工智能的宣言 / Why tech bosses keep sharing their manifestos about AI",
+        "title_zh": "为什么科技巨头们不断分享他们关于人工智能的宣言",
+        "title_ja": "テクノロジー企業の責任者が AI に関するマニフェストを共有し続ける理由",
+        "title_en": "Why tech bosses keep sharing their manifestos about AI",
+        "title_original": "Why tech bosses keep sharing their manifestos about AI",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49313519",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-15T21:34:21.911236Z"
+      }
+    },
+    {
+      "story_id": "story_f64b1a3994c2",
+      "title": "人工智能现在可以设计功能性病毒。我们应该担心吗？ / AI Can Now Design Functional Viruses. Should We Worry?",
+      "title_ja": "AI が機能的なウイルスを設計できるようになりました。心配する必要はありますか?",
+      "url": "https://news.ycombinator.com/item?id=49311445",
+      "primary_url": "https://news.ycombinator.com/item?id=49311445",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "9275bde78f1db83d1ec2a6ae94089898062b8bc7",
+          "title": "人工智能现在可以设计功能性病毒。我们应该担心吗？ / AI Can Now Design Functional Viruses. Should We Worry?",
+          "title_zh": "人工智能现在可以设计功能性病毒。我们应该担心吗？",
+          "title_ja": "AI が機能的なウイルスを設計できるようになりました。心配する必要はありますか?",
+          "title_en": "AI Can Now Design Functional Viruses. Should We Worry?",
+          "title_original": "AI Can Now Design Functional Viruses. Should We Worry?",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49311445",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T16:39:44.791000Z"
+        },
+        {
+          "id": "b55c5b939bdf5d3bda12e41c757031f76dc3656e",
+          "title": "人工智能现在可以设计功能性病毒。我们应该担心吗？ / AI Can Now Design Functional Viruses. Should We Worry?",
+          "title_zh": "人工智能现在可以设计功能性病毒。我们应该担心吗？",
+          "title_ja": "AI が機能的なウイルスを設計できるようになりました。心配する必要はありますか?",
+          "title_en": "AI Can Now Design Functional Viruses. Should We Worry?",
+          "title_original": "AI Can Now Design Functional Viruses. Should We Worry?",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://spectrum.ieee.org/ai-designed-virus",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-15T15:32:25Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "9275bde78f1db83d1ec2a6ae94089898062b8bc7",
+          "title": "人工智能现在可以设计功能性病毒。我们应该担心吗？ / AI Can Now Design Functional Viruses. Should We Worry?",
+          "title_zh": "人工智能现在可以设计功能性病毒。我们应该担心吗？",
+          "title_ja": "AI が機能的なウイルスを設計できるようになりました。心配する必要はありますか?",
+          "title_en": "AI Can Now Design Functional Viruses. Should We Worry?",
+          "title_original": "AI Can Now Design Functional Viruses. Should We Worry?",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49311445",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T16:39:44.791000Z"
+        },
+        {
+          "id": "b55c5b939bdf5d3bda12e41c757031f76dc3656e",
+          "title": "人工智能现在可以设计功能性病毒。我们应该担心吗？ / AI Can Now Design Functional Viruses. Should We Worry?",
+          "title_zh": "人工智能现在可以设计功能性病毒。我们应该担心吗？",
+          "title_ja": "AI が機能的なウイルスを設計できるようになりました。心配する必要はありますか?",
+          "title_en": "AI Can Now Design Functional Viruses. Should We Worry?",
+          "title_original": "AI Can Now Design Functional Viruses. Should We Worry?",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://spectrum.ieee.org/ai-designed-virus",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-15T15:32:25Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5335,
+      "importance": 0.5335,
+      "importance_score": 0.5335,
+      "importance_label": "值得关注",
+      "importance_label_ja": "要注目",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9317,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T15:32:25Z",
+      "latest_at": "2026-08-15T16:39:44.791000Z",
+      "primary_item": {
+        "id": "9275bde78f1db83d1ec2a6ae94089898062b8bc7",
+        "title": "人工智能现在可以设计功能性病毒。我们应该担心吗？ / AI Can Now Design Functional Viruses. Should We Worry?",
+        "title_zh": "人工智能现在可以设计功能性病毒。我们应该担心吗？",
+        "title_ja": "AI が機能的なウイルスを設計できるようになりました。心配する必要はありますか?",
+        "title_en": "AI Can Now Design Functional Viruses. Should We Worry?",
+        "title_original": "AI Can Now Design Functional Viruses. Should We Worry?",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49311445",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-15T21:34:21.911236Z"
       }
     },
     {
@@ -1221,16 +1807,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5358,
-      "importance": 0.5358,
-      "importance_score": 0.5358,
+      "score": 0.5335,
+      "importance": 0.5335,
+      "importance_score": 0.5335,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9446,
+        "recency": 0.9317,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1257,7 +1843,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T20:37:17.590237Z"
+        "scored_at": "2026-08-15T21:34:21.911236Z"
       }
     },
     {
@@ -1343,16 +1929,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.531,
-      "importance": 0.531,
-      "importance_score": 0.531,
+      "score": 0.5287,
+      "importance": 0.5287,
+      "importance_score": 0.5287,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9175,
+        "recency": 0.905,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1379,129 +1965,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T20:37:17.590237Z"
-      }
-    },
-    {
-      "story_id": "story_67a9736d0220",
-      "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
-      "title_ja": "古本の売れ行きが好調だ。 AIのせいでしょうか？",
-      "url": "https://news.ycombinator.com/item?id=49310725",
-      "primary_url": "https://news.ycombinator.com/item?id=49310725",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "f50f85b755a8871c36dc1a3f17ad231bac4f5f7e",
-          "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
-          "title_zh": "二手书销售蓬勃发展。是因为人工智能吗？",
-          "title_ja": "古本の売れ行きが好調だ。 AIのせいでしょうか？",
-          "title_en": "Secondhand book sales are booming. Is it because of AI?",
-          "title_original": "Secondhand book sales are booming. Is it because of AI?",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49310725",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T14:38:41.830000Z"
-        },
-        {
-          "id": "dcc8a19034a29524320fe1cf922bc36524fb4b37",
-          "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
-          "title_zh": "二手书销售蓬勃发展。是因为人工智能吗？",
-          "title_ja": "古本の売れ行きが好調だ。 AIのせいでしょうか？",
-          "title_en": "Secondhand book sales are booming. Is it because of AI?",
-          "title_original": "Secondhand book sales are booming. Is it because of AI?",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T11:25:32Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "BBC News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "f50f85b755a8871c36dc1a3f17ad231bac4f5f7e",
-          "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
-          "title_zh": "二手书销售蓬勃发展。是因为人工智能吗？",
-          "title_ja": "古本の売れ行きが好調だ。 AIのせいでしょうか？",
-          "title_en": "Secondhand book sales are booming. Is it because of AI?",
-          "title_original": "Secondhand book sales are booming. Is it because of AI?",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49310725",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T14:38:41.830000Z"
-        },
-        {
-          "id": "dcc8a19034a29524320fe1cf922bc36524fb4b37",
-          "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
-          "title_zh": "二手书销售蓬勃发展。是因为人工智能吗？",
-          "title_ja": "古本の売れ行きが好調だ。 AIのせいでしょうか？",
-          "title_en": "Secondhand book sales are booming. Is it because of AI?",
-          "title_original": "Secondhand book sales are booming. Is it because of AI?",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T11:25:32Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.531,
-      "importance": 0.531,
-      "importance_score": 0.531,
-      "importance_label": "值得关注",
-      "importance_label_ja": "要注目",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9175,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T11:25:32Z",
-      "latest_at": "2026-08-15T14:38:41.830000Z",
-      "primary_item": {
-        "id": "f50f85b755a8871c36dc1a3f17ad231bac4f5f7e",
-        "title": "二手书销售蓬勃发展。是因为人工智能吗？ / Secondhand book sales are booming. Is it because of AI?",
-        "title_zh": "二手书销售蓬勃发展。是因为人工智能吗？",
-        "title_ja": "古本の売れ行きが好調だ。 AIのせいでしょうか？",
-        "title_en": "Secondhand book sales are booming. Is it because of AI?",
-        "title_original": "Secondhand book sales are booming. Is it because of AI?",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49310725",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-15T20:37:17.590237Z"
+        "scored_at": "2026-08-15T21:34:21.911236Z"
       }
     },
     {
@@ -1530,7 +1994,7 @@
           "published_at": "2026-08-15T13:43:40.674000Z"
         },
         {
-          "id": "eda64ecf67fe9cd31fd002d272b7efab29a59b91",
+          "id": "c6808b3eb131b605a08da34b0cc5d97226637637",
           "title": "GenRec：迈向 Netflix 本地LLM推荐 / GenRec: Towards LLM-Native Recommendation at Netflix",
           "title_zh": "GenRec：迈向 Netflix 本地LLM推荐",
           "title_ja": "GenRec: Netflix での LLM ネイティブの推奨に向けて",
@@ -1540,15 +2004,15 @@
           "summary_ja": null,
           "recommend_reason_zh": null,
           "url": "https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-15T12:56:56Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
@@ -1569,7 +2033,7 @@
           "published_at": "2026-08-15T13:43:40.674000Z"
         },
         {
-          "id": "eda64ecf67fe9cd31fd002d272b7efab29a59b91",
+          "id": "c6808b3eb131b605a08da34b0cc5d97226637637",
           "title": "GenRec：迈向 Netflix 本地LLM推荐 / GenRec: Towards LLM-Native Recommendation at Netflix",
           "title_zh": "GenRec：迈向 Netflix 本地LLM推荐",
           "title_ja": "GenRec: Netflix での LLM ネイティブの推奨に向けて",
@@ -1579,24 +2043,24 @@
           "summary_ja": null,
           "recommend_reason_zh": null,
           "url": "https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-15T12:56:56Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5288,
-      "importance": 0.5288,
-      "importance_score": 0.5288,
+      "score": 0.5265,
+      "importance": 0.5265,
+      "importance_score": 0.5265,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9054,
+        "recency": 0.8931,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1623,7 +2087,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T20:37:17.590237Z"
+        "scored_at": "2026-08-15T21:34:21.911236Z"
       }
     },
     {
@@ -1709,16 +2173,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5262,
-      "importance": 0.5262,
-      "importance_score": 0.5262,
+      "score": 0.524,
+      "importance": 0.524,
+      "importance_score": 0.524,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8913,
+        "recency": 0.8791,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1745,7 +2209,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T20:37:17.590237Z"
+        "scored_at": "2026-08-15T21:34:21.911236Z"
       }
     },
     {
@@ -1831,16 +2295,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5188,
-      "importance": 0.5188,
-      "importance_score": 0.5188,
+      "score": 0.5167,
+      "importance": 0.5167,
+      "importance_score": 0.5167,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.85,
+        "recency": 0.8384,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1867,129 +2331,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T20:37:17.590237Z"
-      }
-    },
-    {
-      "story_id": "story_b004ea508d1a",
-      "title": "显示 HN：ThoughtDAG – LLM 对话的可编辑上下文图 / Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-      "title_ja": "HN を表示: ThoughtDAG – LLM 会話の編集可能なコンテキスト グラフ",
-      "url": "https://news.ycombinator.com/item?id=49307700",
-      "primary_url": "https://news.ycombinator.com/item?id=49307700",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "cb0602853d5df9ee0d0d7b05adab8514f2668d56",
-          "title": "显示 HN：ThoughtDAG – LLM 对话的可编辑上下文图 / Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-          "title_zh": "显示 HN：ThoughtDAG – LLM 对话的可编辑上下文图",
-          "title_ja": "HN を表示: ThoughtDAG – LLM 会話の編集可能なコンテキスト グラフ",
-          "title_en": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-          "title_original": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49307700",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T06:56:10.046000Z"
-        },
-        {
-          "id": "033e6f66c7b304995f3043ecf844c7da53353828",
-          "title": "显示 HN：ThoughtDAG – LLM 对话的可编辑上下文图 / Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-          "title_zh": "显示 HN：ThoughtDAG – LLM 对话的可编辑上下文图",
-          "title_ja": "HN を表示: ThoughtDAG – LLM 会話の編集可能なコンテキスト グラフ",
-          "title_en": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-          "title_original": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://chenxiachan.github.io/thoughtdag",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-15T04:42:07Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "cb0602853d5df9ee0d0d7b05adab8514f2668d56",
-          "title": "显示 HN：ThoughtDAG – LLM 对话的可编辑上下文图 / Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-          "title_zh": "显示 HN：ThoughtDAG – LLM 对话的可编辑上下文图",
-          "title_ja": "HN を表示: ThoughtDAG – LLM 会話の編集可能なコンテキスト グラフ",
-          "title_en": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-          "title_original": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49307700",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T06:56:10.046000Z"
-        },
-        {
-          "id": "033e6f66c7b304995f3043ecf844c7da53353828",
-          "title": "显示 HN：ThoughtDAG – LLM 对话的可编辑上下文图 / Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-          "title_zh": "显示 HN：ThoughtDAG – LLM 对话的可编辑上下文图",
-          "title_ja": "HN を表示: ThoughtDAG – LLM 会話の編集可能なコンテキスト グラフ",
-          "title_en": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-          "title_original": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://chenxiachan.github.io/thoughtdag",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-15T04:42:07Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5136,
-      "importance": 0.5136,
-      "importance_score": 0.5136,
-      "importance_label": "值得关注",
-      "importance_label_ja": "要注目",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8208,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T04:42:07Z",
-      "latest_at": "2026-08-15T06:56:10.046000Z",
-      "primary_item": {
-        "id": "cb0602853d5df9ee0d0d7b05adab8514f2668d56",
-        "title": "显示 HN：ThoughtDAG – LLM 对话的可编辑上下文图 / Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-        "title_zh": "显示 HN：ThoughtDAG – LLM 对话的可编辑上下文图",
-        "title_ja": "HN を表示: ThoughtDAG – LLM 会話の編集可能なコンテキスト グラフ",
-        "title_en": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-        "title_original": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49307700",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-15T20:37:17.590237Z"
+        "scored_at": "2026-08-15T21:34:21.911236Z"
       }
     }
   ]
