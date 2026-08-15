@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-15T19:32:24.721308Z",
+  "generated_at": "2026-08-15T20:36:25.747211Z",
   "window_hours": 24,
-  "total_items": 14,
+  "total_items": 16,
   "items": [
     {
       "story_id": "story_e27bfcf013b4",
@@ -53,16 +53,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7973,
-      "importance": 0.7973,
-      "importance_score": 0.7973,
+      "score": 0.7952,
+      "importance": 0.7952,
+      "importance_score": 0.7952,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7404,
+        "recency": 0.7291,
         "story_heat": 0.0
       },
       "category": "official",
@@ -91,7 +91,131 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T19:33:10.076983Z"
+        "scored_at": "2026-08-15T20:37:17.590237Z"
+      }
+    },
+    {
+      "story_id": "story_fe87bc97dd0a",
+      "title": "Cursor 正式被 SpaceX 收购",
+      "title_ja": "カーソルはSpaceXによって正式に取得されました",
+      "url": "https://cursor.com/blog/joining-spacex",
+      "primary_url": "https://cursor.com/blog/joining-spacex",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "381d3c56c3c3f15c2c5b031f0dc679588e6f701a",
+          "title": "Cursor 正式被 SpaceX 收购",
+          "title_zh": "Cursor 正式被 SpaceX 收购",
+          "title_ja": "カーソルはSpaceXによって正式に取得されました",
+          "title_en": null,
+          "title_original": "Cursor 正式被 SpaceX 收购",
+          "summary": "Cursor 已被 SpaceX 正式收购，完成自 4 月启动的收购流程。借助 SpaceX 全球最大规模的 GPU 集群，Cursor 将构建更强且运行成本更低的模型，并以更低价格向客户提供更强大的模型。本周三发布的 Grok 4.6 是双方合作成果的早期体现。",
+          "summary_ja": "CursorはSpaceXによって正式に買収され、4月に始まった買収プロセスが完了した。 SpaceX の世界最大の GPU クラスターを活用して、Cursor はより安価に実行できる強力なモデルを構築し、より強力なモデルをより低価格で顧客に提供します。水曜日にリリースされた Grok 4.6 は、このコラボレーションの結果を初期に反映したものです。",
+          "recommend_reason_zh": null,
+          "url": "https://cursor.com/blog/joining-spacex",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-15T20:05:54.703000Z"
+        },
+        {
+          "id": "7a50d104b08c9f2172194c60466aa260cc885830",
+          "title": "Cursor 现已成为 SpaceX 的一部分",
+          "title_zh": "Cursor 现已成为 SpaceX 的一部分",
+          "title_ja": "Cursor は SpaceX の一部になりました",
+          "title_en": null,
+          "title_original": "Cursor 现已成为 SpaceX 的一部分",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://cursor.com/blog/joining-spacex",
+          "source": "cursor.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T20:05:54.703000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "cursor.com"
+      ],
+      "items": [
+        {
+          "id": "381d3c56c3c3f15c2c5b031f0dc679588e6f701a",
+          "title": "Cursor 正式被 SpaceX 收购",
+          "title_zh": "Cursor 正式被 SpaceX 收购",
+          "title_ja": "カーソルはSpaceXによって正式に取得されました",
+          "title_en": null,
+          "title_original": "Cursor 正式被 SpaceX 收购",
+          "summary": "Cursor 已被 SpaceX 正式收购，完成自 4 月启动的收购流程。借助 SpaceX 全球最大规模的 GPU 集群，Cursor 将构建更强且运行成本更低的模型，并以更低价格向客户提供更强大的模型。本周三发布的 Grok 4.6 是双方合作成果的早期体现。",
+          "summary_ja": "CursorはSpaceXによって正式に買収され、4月に始まった買収プロセスが完了した。 SpaceX の世界最大の GPU クラスターを活用して、Cursor はより安価に実行できる強力なモデルを構築し、より強力なモデルをより低価格で顧客に提供します。水曜日にリリースされた Grok 4.6 は、このコラボレーションの結果を初期に反映したものです。",
+          "recommend_reason_zh": null,
+          "url": "https://cursor.com/blog/joining-spacex",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-15T20:05:54.703000Z"
+        },
+        {
+          "id": "7a50d104b08c9f2172194c60466aa260cc885830",
+          "title": "Cursor 现已成为 SpaceX 的一部分",
+          "title_zh": "Cursor 现已成为 SpaceX 的一部分",
+          "title_ja": "Cursor は SpaceX の一部になりました",
+          "title_en": null,
+          "title_original": "Cursor 现已成为 SpaceX 的一部分",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://cursor.com/blog/joining-spacex",
+          "source": "cursor.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T20:05:54.703000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7883,
+      "importance": 0.7883,
+      "importance_score": 0.7883,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9927,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-15T20:05:54.703000Z",
+      "latest_at": "2026-08-15T20:05:54.703000Z",
+      "primary_item": {
+        "id": "381d3c56c3c3f15c2c5b031f0dc679588e6f701a",
+        "title": "Cursor 正式被 SpaceX 收购",
+        "title_zh": "Cursor 正式被 SpaceX 收购",
+        "title_ja": "カーソルはSpaceXによって正式に取得されました",
+        "title_en": null,
+        "title_original": "Cursor 正式被 SpaceX 收购",
+        "summary": "Cursor 已被 SpaceX 正式收购，完成自 4 月启动的收购流程。借助 SpaceX 全球最大规模的 GPU 集群，Cursor 将构建更强且运行成本更低的模型，并以更低价格向客户提供更强大的模型。本周三发布的 Grok 4.6 是双方合作成果的早期体现。",
+        "summary_ja": "CursorはSpaceXによって正式に買収され、4月に始まった買収プロセスが完了した。 SpaceX の世界最大の GPU クラスターを活用して、Cursor はより安価に実行できる強力なモデルを構築し、より強力なモデルをより低価格で顧客に提供します。水曜日にリリースされた Grok 4.6 は、このコラボレーションの結果を初期に反映したものです。",
+        "recommend_reason_zh": null,
+        "url": "https://cursor.com/blog/joining-spacex",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-15T20:37:17.590237Z"
       }
     },
     {
@@ -144,16 +268,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7407,
-      "importance": 0.7407,
-      "importance_score": 0.7407,
+      "score": 0.7383,
+      "importance": 0.7383,
+      "importance_score": 0.7383,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8842,
+        "recency": 0.8706,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -180,7 +304,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T19:33:10.076983Z"
+        "scored_at": "2026-08-15T20:37:17.590237Z"
       }
     },
     {
@@ -299,16 +423,16 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5702,
-      "importance": 0.5702,
-      "importance_score": 0.5702,
+      "score": 0.5674,
+      "importance": 0.5674,
+      "importance_score": 0.5674,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9965,
+        "recency": 0.9813,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -335,7 +459,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T19:33:10.076983Z"
+        "scored_at": "2026-08-15T20:37:17.590237Z"
       }
     },
     {
@@ -454,16 +578,16 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5634,
-      "importance": 0.5634,
-      "importance_score": 0.5634,
+      "score": 0.5608,
+      "importance": 0.5608,
+      "importance_score": 0.5608,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9589,
+        "recency": 0.9442,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -490,7 +614,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T19:33:10.076983Z"
+        "scored_at": "2026-08-15T20:37:17.590237Z"
       }
     },
     {
@@ -609,16 +733,16 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5569,
-      "importance": 0.5569,
-      "importance_score": 0.5569,
+      "score": 0.5543,
+      "importance": 0.5543,
+      "importance_score": 0.5543,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9227,
+        "recency": 0.9086,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -645,7 +769,129 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T19:33:10.076983Z"
+        "scored_at": "2026-08-15T20:37:17.590237Z"
+      }
+    },
+    {
+      "story_id": "story_737248ef9162",
+      "title": "那么人工智能药物发现到底表现如何？ / So How Is AI Drug Discovery Doing, Really?",
+      "title_ja": "AI創薬は実際のところどうなっているのでしょうか?",
+      "url": "https://news.ycombinator.com/item?id=49313367",
+      "primary_url": "https://news.ycombinator.com/item?id=49313367",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "d9c365b593a27d563d4819163086a2a24ccf6621",
+          "title": "那么人工智能药物发现到底表现如何？ / So How Is AI Drug Discovery Doing, Really?",
+          "title_zh": "那么人工智能药物发现到底表现如何？",
+          "title_ja": "AI創薬は実際のところどうなっているのでしょうか?",
+          "title_en": "So How Is AI Drug Discovery Doing, Really?",
+          "title_original": "So How Is AI Drug Discovery Doing, Really?",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49313367",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T20:09:30.973000Z"
+        },
+        {
+          "id": "fb742fc02c70e40eb693c6c361e1d0860ae6f8b3",
+          "title": "那么人工智能药物发现到底表现如何？ / So How Is AI Drug Discovery Doing, Really?",
+          "title_zh": "那么人工智能药物发现到底表现如何？",
+          "title_ja": "AI創薬は実際のところどうなっているのでしょうか?",
+          "title_en": "So How Is AI Drug Discovery Doing, Really?",
+          "title_original": "So How Is AI Drug Discovery Doing, Really?",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T19:12:53Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "d9c365b593a27d563d4819163086a2a24ccf6621",
+          "title": "那么人工智能药物发现到底表现如何？ / So How Is AI Drug Discovery Doing, Really?",
+          "title_zh": "那么人工智能药物发现到底表现如何？",
+          "title_ja": "AI創薬は実際のところどうなっているのでしょうか?",
+          "title_en": "So How Is AI Drug Discovery Doing, Really?",
+          "title_original": "So How Is AI Drug Discovery Doing, Really?",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49313367",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T20:09:30.973000Z"
+        },
+        {
+          "id": "fb742fc02c70e40eb693c6c361e1d0860ae6f8b3",
+          "title": "那么人工智能药物发现到底表现如何？ / So How Is AI Drug Discovery Doing, Really?",
+          "title_zh": "那么人工智能药物发现到底表现如何？",
+          "title_ja": "AI創薬は実際のところどうなっているのでしょうか?",
+          "title_en": "So How Is AI Drug Discovery Doing, Really?",
+          "title_original": "So How Is AI Drug Discovery Doing, Really?",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T19:12:53Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5446,
+      "importance": 0.5446,
+      "importance_score": 0.5446,
+      "importance_label": "值得关注",
+      "importance_label_ja": "要注目",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9935,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T19:12:53Z",
+      "latest_at": "2026-08-15T20:09:30.973000Z",
+      "primary_item": {
+        "id": "d9c365b593a27d563d4819163086a2a24ccf6621",
+        "title": "那么人工智能药物发现到底表现如何？ / So How Is AI Drug Discovery Doing, Really?",
+        "title_zh": "那么人工智能药物发现到底表现如何？",
+        "title_ja": "AI創薬は実際のところどうなっているのでしょうか?",
+        "title_en": "So How Is AI Drug Discovery Doing, Really?",
+        "title_original": "So How Is AI Drug Discovery Doing, Really?",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49313367",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-15T20:37:17.590237Z"
       }
     },
     {
@@ -731,16 +977,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5385,
-      "importance": 0.5385,
-      "importance_score": 0.5385,
+      "score": 0.5358,
+      "importance": 0.5358,
+      "importance_score": 0.5358,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9593,
+        "recency": 0.9446,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -767,129 +1013,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T19:33:10.076983Z"
-      }
-    },
-    {
-      "story_id": "story_7fbd0e2e70a1",
-      "title": "软件开发中的人工智能现状 / The AI Situation in Software Development",
-      "title_ja": "ソフトウェア開発におけるAIの状況",
-      "url": "https://news.ycombinator.com/item?id=49310755",
-      "primary_url": "https://news.ycombinator.com/item?id=49310755",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "b69f22b0fea2154dedef501019cccae418782581",
-          "title": "软件开发中的人工智能现状 / The AI Situation in Software Development",
-          "title_zh": "软件开发中的人工智能现状",
-          "title_ja": "ソフトウェア開発におけるAIの状況",
-          "title_en": "The AI Situation in Software Development",
-          "title_original": "The AI Situation in Software Development",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49310755",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T16:39:44.791000Z"
-        },
-        {
-          "id": "5c229e7adb0d83c400ca76018c382dd2a9516a89",
-          "title": "软件开发中的人工智能现状 / The AI Situation in Software Development",
-          "title_zh": "软件开发中的人工智能现状",
-          "title_ja": "ソフトウェア開発におけるAIの状況",
-          "title_en": "The AI Situation in Software Development",
-          "title_original": "The AI Situation in Software Development",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://srikanth.ch/posts/the-ai-situation",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-15T14:12:27Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "b69f22b0fea2154dedef501019cccae418782581",
-          "title": "软件开发中的人工智能现状 / The AI Situation in Software Development",
-          "title_zh": "软件开发中的人工智能现状",
-          "title_ja": "ソフトウェア開発におけるAIの状況",
-          "title_en": "The AI Situation in Software Development",
-          "title_original": "The AI Situation in Software Development",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49310755",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T16:39:44.791000Z"
-        },
-        {
-          "id": "5c229e7adb0d83c400ca76018c382dd2a9516a89",
-          "title": "软件开发中的人工智能现状 / The AI Situation in Software Development",
-          "title_zh": "软件开发中的人工智能现状",
-          "title_ja": "ソフトウェア開発におけるAIの状況",
-          "title_en": "The AI Situation in Software Development",
-          "title_original": "The AI Situation in Software Development",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://srikanth.ch/posts/the-ai-situation",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-15T14:12:27Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5385,
-      "importance": 0.5385,
-      "importance_score": 0.5385,
-      "importance_label": "值得关注",
-      "importance_label_ja": "要注目",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9593,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T14:12:27Z",
-      "latest_at": "2026-08-15T16:39:44.791000Z",
-      "primary_item": {
-        "id": "b69f22b0fea2154dedef501019cccae418782581",
-        "title": "软件开发中的人工智能现状 / The AI Situation in Software Development",
-        "title_zh": "软件开发中的人工智能现状",
-        "title_ja": "ソフトウェア開発におけるAIの状況",
-        "title_en": "The AI Situation in Software Development",
-        "title_original": "The AI Situation in Software Development",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49310755",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-15T19:33:10.076983Z"
+        "scored_at": "2026-08-15T20:37:17.590237Z"
       }
     },
     {
@@ -975,16 +1099,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.507,
-      "importance": 0.507,
-      "importance_score": 0.507,
+      "score": 0.5048,
+      "importance": 0.5048,
+      "importance_score": 0.5048,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7842,
+        "recency": 0.7722,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1011,7 +1135,129 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T19:33:10.076983Z"
+        "scored_at": "2026-08-15T20:37:17.590237Z"
+      }
+    },
+    {
+      "story_id": "story_7fbd0e2e70a1",
+      "title": "软件开发中的人工智能现状 / The AI Situation in Software Development",
+      "title_ja": "ソフトウェア開発におけるAIの状況",
+      "url": "https://news.ycombinator.com/item?id=49310755",
+      "primary_url": "https://news.ycombinator.com/item?id=49310755",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "b69f22b0fea2154dedef501019cccae418782581",
+          "title": "软件开发中的人工智能现状 / The AI Situation in Software Development",
+          "title_zh": "软件开发中的人工智能现状",
+          "title_ja": "ソフトウェア開発におけるAIの状況",
+          "title_en": "The AI Situation in Software Development",
+          "title_original": "The AI Situation in Software Development",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49310755",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T16:39:44.791000Z"
+        },
+        {
+          "id": "5c229e7adb0d83c400ca76018c382dd2a9516a89",
+          "title": "软件开发中的人工智能现状 / The AI Situation in Software Development",
+          "title_zh": "软件开发中的人工智能现状",
+          "title_ja": "ソフトウェア開発におけるAIの状況",
+          "title_en": "The AI Situation in Software Development",
+          "title_original": "The AI Situation in Software Development",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://srikanth.ch/posts/the-ai-situation",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-15T14:12:27Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "b69f22b0fea2154dedef501019cccae418782581",
+          "title": "软件开发中的人工智能现状 / The AI Situation in Software Development",
+          "title_zh": "软件开发中的人工智能现状",
+          "title_ja": "ソフトウェア開発におけるAIの状況",
+          "title_en": "The AI Situation in Software Development",
+          "title_original": "The AI Situation in Software Development",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49310755",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T16:39:44.791000Z"
+        },
+        {
+          "id": "5c229e7adb0d83c400ca76018c382dd2a9516a89",
+          "title": "软件开发中的人工智能现状 / The AI Situation in Software Development",
+          "title_zh": "软件开发中的人工智能现状",
+          "title_ja": "ソフトウェア開発におけるAIの状況",
+          "title_en": "The AI Situation in Software Development",
+          "title_original": "The AI Situation in Software Development",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://srikanth.ch/posts/the-ai-situation",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-15T14:12:27Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5358,
+      "importance": 0.5358,
+      "importance_score": 0.5358,
+      "importance_label": "值得关注",
+      "importance_label_ja": "要注目",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9446,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T14:12:27Z",
+      "latest_at": "2026-08-15T16:39:44.791000Z",
+      "primary_item": {
+        "id": "b69f22b0fea2154dedef501019cccae418782581",
+        "title": "软件开发中的人工智能现状 / The AI Situation in Software Development",
+        "title_zh": "软件开发中的人工智能现状",
+        "title_ja": "ソフトウェア開発におけるAIの状況",
+        "title_en": "The AI Situation in Software Development",
+        "title_original": "The AI Situation in Software Development",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49310755",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-15T20:37:17.590237Z"
       }
     },
     {
@@ -1097,16 +1343,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5335,
-      "importance": 0.5335,
-      "importance_score": 0.5335,
+      "score": 0.531,
+      "importance": 0.531,
+      "importance_score": 0.531,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9318,
+        "recency": 0.9175,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1133,7 +1379,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T19:33:10.076983Z"
+        "scored_at": "2026-08-15T20:37:17.590237Z"
       }
     },
     {
@@ -1219,16 +1465,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5335,
-      "importance": 0.5335,
-      "importance_score": 0.5335,
+      "score": 0.531,
+      "importance": 0.531,
+      "importance_score": 0.531,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9318,
+        "recency": 0.9175,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1255,7 +1501,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T19:33:10.076983Z"
+        "scored_at": "2026-08-15T20:37:17.590237Z"
       }
     },
     {
@@ -1341,16 +1587,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5313,
-      "importance": 0.5313,
-      "importance_score": 0.5313,
+      "score": 0.5288,
+      "importance": 0.5288,
+      "importance_score": 0.5288,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9195,
+        "recency": 0.9054,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1377,7 +1623,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T19:33:10.076983Z"
+        "scored_at": "2026-08-15T20:37:17.590237Z"
       }
     },
     {
@@ -1463,16 +1709,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5287,
-      "importance": 0.5287,
-      "importance_score": 0.5287,
+      "score": 0.5262,
+      "importance": 0.5262,
+      "importance_score": 0.5262,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9051,
+        "recency": 0.8913,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1499,7 +1745,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T19:33:10.076983Z"
+        "scored_at": "2026-08-15T20:37:17.590237Z"
       }
     },
     {
@@ -1585,16 +1831,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5212,
-      "importance": 0.5212,
-      "importance_score": 0.5212,
+      "score": 0.5188,
+      "importance": 0.5188,
+      "importance_score": 0.5188,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8632,
+        "recency": 0.85,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1621,7 +1867,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T19:33:10.076983Z"
+        "scored_at": "2026-08-15T20:37:17.590237Z"
       }
     },
     {
@@ -1707,16 +1953,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5158,
-      "importance": 0.5158,
-      "importance_score": 0.5158,
+      "score": 0.5136,
+      "importance": 0.5136,
+      "importance_score": 0.5136,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8336,
+        "recency": 0.8208,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1743,7 +1989,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-15T19:33:10.076983Z"
+        "scored_at": "2026-08-15T20:37:17.590237Z"
       }
     }
   ]
