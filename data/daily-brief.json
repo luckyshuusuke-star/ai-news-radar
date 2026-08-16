@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-16T15:34:10.670198Z",
+  "generated_at": "2026-08-16T16:39:49.831504Z",
   "window_hours": 24,
-  "total_items": 17,
+  "total_items": 18,
   "items": [
     {
       "story_id": "story_0bf300873ab5",
@@ -86,16 +86,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7848,
-      "importance": 0.7848,
-      "importance_score": 0.7848,
+      "score": 0.7822,
+      "importance": 0.7822,
+      "importance_score": 0.7822,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9402,
+        "recency": 0.9255,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -124,7 +124,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T15:34:51.653485Z"
+        "scored_at": "2026-08-16T16:40:25.293767Z"
       }
     },
     {
@@ -177,16 +177,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7383,
-      "importance": 0.7383,
-      "importance_score": 0.7383,
+      "score": 0.7359,
+      "importance": 0.7359,
+      "importance_score": 0.7359,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8371,
+        "recency": 0.8239,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -213,7 +213,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T15:34:51.653485Z"
+        "scored_at": "2026-08-16T16:40:25.293767Z"
       }
     },
     {
@@ -299,16 +299,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7455,
-      "importance": 0.7455,
-      "importance_score": 0.7455,
+      "score": 0.7434,
+      "importance": 0.7434,
+      "importance_score": 0.7434,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7549,
+        "recency": 0.7431,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -336,7 +336,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T15:34:51.653485Z"
+        "scored_at": "2026-08-16T16:40:25.293767Z"
       }
     },
     {
@@ -454,16 +454,16 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6524,
-      "importance": 0.6524,
-      "importance_score": 0.6524,
+      "score": 0.6503,
+      "importance": 0.6503,
+      "importance_score": 0.6503,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.5904,
         "source_tier": 0.58,
         "ai_relevance": 0.82,
-        "recency": 0.7428,
+        "recency": 0.7311,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -491,7 +491,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T15:34:51.653485Z"
+        "scored_at": "2026-08-16T16:40:25.293767Z"
       }
     },
     {
@@ -675,16 +675,16 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5904,
-      "importance": 0.5904,
-      "importance_score": 0.5904,
+      "score": 0.5881,
+      "importance": 0.5881,
+      "importance_score": 0.5881,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8313,
+        "recency": 0.8183,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -711,7 +711,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T15:34:51.653485Z"
+        "scored_at": "2026-08-16T16:40:25.293767Z"
       }
     },
     {
@@ -802,9 +802,25 @@
           "source_name": "Zeli",
           "site_id": "zeli",
           "published_at": "2026-08-15T18:13:02Z"
+        },
+        {
+          "id": "3dbbb30ee3c690d65bd950ecb4b8531b4f68f3b8",
+          "title": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们 / AI isn’t outthinking mathematicians, it’s out-remembering them",
+          "title_zh": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
+          "title_ja": "AI は数学者を上回る思考力を持っているのではなく、数学者を記憶しているのです",
+          "title_en": "AI isn’t outthinking mathematicians, it’s out-remembering them",
+          "title_original": "AI isn’t outthinking mathematicians, it’s out-remembering them",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-15T18:13:02Z"
         }
       ],
-      "source_count": 5,
+      "source_count": 6,
       "source_names": [
         "Hacker News",
         "Hacker News · 24h最热",
@@ -891,20 +907,36 @@
           "source_name": "Zeli",
           "site_id": "zeli",
           "published_at": "2026-08-15T18:13:02Z"
+        },
+        {
+          "id": "3dbbb30ee3c690d65bd950ecb4b8531b4f68f3b8",
+          "title": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们 / AI isn’t outthinking mathematicians, it’s out-remembering them",
+          "title_zh": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
+          "title_ja": "AI は数学者を上回る思考力を持っているのではなく、数学者を記憶しているのです",
+          "title_en": "AI isn’t outthinking mathematicians, it’s out-remembering them",
+          "title_original": "AI isn’t outthinking mathematicians, it’s out-remembering them",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-15T18:13:02Z"
         }
       ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.5808,
-      "importance": 0.5808,
-      "importance_score": 0.5808,
+      "item_count": 6,
+      "duplicate_count": 6,
+      "score": 0.5786,
+      "importance": 0.5786,
+      "importance_score": 0.5786,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7778,
+        "recency": 0.7656,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -931,7 +963,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T15:34:51.653485Z"
+        "scored_at": "2026-08-16T16:40:25.293767Z"
       }
     },
     {
@@ -1050,16 +1082,16 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5562,
-      "importance": 0.5562,
-      "importance_score": 0.5562,
+      "score": 0.5536,
+      "importance": 0.5536,
+      "importance_score": 0.5536,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9187,
+        "recency": 0.9043,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1086,7 +1118,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T15:34:51.653485Z"
+        "scored_at": "2026-08-16T16:40:25.293767Z"
       }
     },
     {
@@ -1172,16 +1204,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5431,
-      "importance": 0.5431,
-      "importance_score": 0.5431,
+      "score": 0.5403,
+      "importance": 0.5403,
+      "importance_score": 0.5403,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9847,
+        "recency": 0.9693,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1208,7 +1240,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T15:34:51.653485Z"
+        "scored_at": "2026-08-16T16:40:25.293767Z"
       }
     },
     {
@@ -1294,16 +1326,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5449,
-      "importance": 0.5449,
-      "importance_score": 0.5449,
+      "score": 0.5421,
+      "importance": 0.5421,
+      "importance_score": 0.5421,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9948,
+        "recency": 0.9792,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1330,7 +1362,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T15:34:51.653485Z"
+        "scored_at": "2026-08-16T16:40:25.293767Z"
       }
     },
     {
@@ -1416,16 +1448,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5449,
-      "importance": 0.5449,
-      "importance_score": 0.5449,
+      "score": 0.5421,
+      "importance": 0.5421,
+      "importance_score": 0.5421,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9948,
+        "recency": 0.9792,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1452,7 +1484,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T15:34:51.653485Z"
+        "scored_at": "2026-08-16T16:40:25.293767Z"
       }
     },
     {
@@ -1538,16 +1570,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5449,
-      "importance": 0.5449,
-      "importance_score": 0.5449,
+      "score": 0.5421,
+      "importance": 0.5421,
+      "importance_score": 0.5421,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9948,
+        "recency": 0.9792,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1574,7 +1606,129 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T15:34:51.653485Z"
+        "scored_at": "2026-08-16T16:40:25.293767Z"
+      }
+    },
+    {
+      "story_id": "story_e463307b5ae9",
+      "title": "没有共鸣的人工智能编码 / AI Coding Without the Vibes",
+      "title_ja": "雰囲気のない AI コーディング",
+      "url": "https://news.ycombinator.com/item?id=49318735",
+      "primary_url": "https://news.ycombinator.com/item?id=49318735",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "1d2492a515caa36c70355895c4703f446a0a5ae2",
+          "title": "没有共鸣的人工智能编码 / AI Coding Without the Vibes",
+          "title_zh": "没有共鸣的人工智能编码",
+          "title_ja": "雰囲気のない AI コーディング",
+          "title_en": "AI Coding Without the Vibes",
+          "title_original": "AI Coding Without the Vibes",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49318735",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T14:12:25.568000Z"
+        },
+        {
+          "id": "7047a7d3f024068ad0e570dfecf36db9c4b95ae1",
+          "title": "没有共鸣的人工智能编码 / AI Coding Without the Vibes",
+          "title_zh": "没有共鸣的人工智能编码",
+          "title_ja": "雰囲気のない AI コーディング",
+          "title_en": "AI Coding Without the Vibes",
+          "title_original": "AI Coding Without the Vibes",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://peterbloem.nl/blog/craft-coding",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-16T10:31:36Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "1d2492a515caa36c70355895c4703f446a0a5ae2",
+          "title": "没有共鸣的人工智能编码 / AI Coding Without the Vibes",
+          "title_zh": "没有共鸣的人工智能编码",
+          "title_ja": "雰囲気のない AI コーディング",
+          "title_en": "AI Coding Without the Vibes",
+          "title_original": "AI Coding Without the Vibes",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49318735",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T14:12:25.568000Z"
+        },
+        {
+          "id": "7047a7d3f024068ad0e570dfecf36db9c4b95ae1",
+          "title": "没有共鸣的人工智能编码 / AI Coding Without the Vibes",
+          "title_zh": "没有共鸣的人工智能编码",
+          "title_ja": "雰囲気のない AI コーディング",
+          "title_en": "AI Coding Without the Vibes",
+          "title_original": "AI Coding Without the Vibes",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://peterbloem.nl/blog/craft-coding",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-16T10:31:36Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5395,
+      "importance": 0.5395,
+      "importance_score": 0.5395,
+      "importance_label": "值得关注",
+      "importance_label_ja": "要注目",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9651,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-16T10:31:36Z",
+      "latest_at": "2026-08-16T14:12:25.568000Z",
+      "primary_item": {
+        "id": "1d2492a515caa36c70355895c4703f446a0a5ae2",
+        "title": "没有共鸣的人工智能编码 / AI Coding Without the Vibes",
+        "title_zh": "没有共鸣的人工智能编码",
+        "title_ja": "雰囲気のない AI コーディング",
+        "title_en": "AI Coding Without the Vibes",
+        "title_original": "AI Coding Without the Vibes",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49318735",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-16T16:40:25.293767Z"
       }
     },
     {
@@ -1660,16 +1814,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5219,
-      "importance": 0.5219,
-      "importance_score": 0.5219,
+      "score": 0.5194,
+      "importance": 0.5194,
+      "importance_score": 0.5194,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.867,
+        "recency": 0.8534,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1696,7 +1850,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T15:34:51.653485Z"
+        "scored_at": "2026-08-16T16:40:25.293767Z"
       }
     },
     {
@@ -1782,16 +1936,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5163,
-      "importance": 0.5163,
-      "importance_score": 0.5163,
+      "score": 0.514,
+      "importance": 0.514,
+      "importance_score": 0.514,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8364,
+        "recency": 0.8233,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1818,7 +1972,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T15:34:51.653485Z"
+        "scored_at": "2026-08-16T16:40:25.293767Z"
       }
     },
     {
@@ -1904,16 +2058,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5163,
-      "importance": 0.5163,
-      "importance_score": 0.5163,
+      "score": 0.514,
+      "importance": 0.514,
+      "importance_score": 0.514,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8364,
+        "recency": 0.8233,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1940,7 +2094,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T15:34:51.653485Z"
+        "scored_at": "2026-08-16T16:40:25.293767Z"
       }
     },
     {
@@ -2026,16 +2180,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5078,
-      "importance": 0.5078,
-      "importance_score": 0.5078,
+      "score": 0.5056,
+      "importance": 0.5056,
+      "importance_score": 0.5056,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7891,
+        "recency": 0.7767,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2062,7 +2216,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T15:34:51.653485Z"
+        "scored_at": "2026-08-16T16:40:25.293767Z"
       }
     },
     {
@@ -2148,16 +2302,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5038,
-      "importance": 0.5038,
-      "importance_score": 0.5038,
+      "score": 0.5016,
+      "importance": 0.5016,
+      "importance_score": 0.5016,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7666,
+        "recency": 0.7545,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2184,7 +2338,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T15:34:51.653485Z"
+        "scored_at": "2026-08-16T16:40:25.293767Z"
       }
     },
     {
@@ -2270,16 +2424,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5038,
-      "importance": 0.5038,
-      "importance_score": 0.5038,
+      "score": 0.5016,
+      "importance": 0.5016,
+      "importance_score": 0.5016,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7666,
+        "recency": 0.7545,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2306,7 +2460,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-16T15:34:51.653485Z"
+        "scored_at": "2026-08-16T16:40:25.293767Z"
       }
     }
   ]

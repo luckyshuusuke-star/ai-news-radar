@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T15:34:10.670198Z",
+  "generated_at": "2026-08-16T16:39:49.831504Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
@@ -56,7 +56,7 @@
       "summary_ja": "DeepSeek Harness の開発者プレビュー バージョンはオンラインであり、オープンソースです。 「すべてがプラグインである」という設計コンセプトを核としており、フレームワーク自体にはハードコーディングされた機能はありません。モデル、ツール、スケジューリング ループ、UI はすべて、プラグインを通じて自由に置き換えたり、再構成したりできます。 PTC やクリエイティブ モードなどの複数の動作パラダイムを備えており、マルチステップ タスクのコンテキスト消費を削減し、排他的エージェント プリセットを直接生成できます。完全なセッション ログ、マルチレベルのサンドボックス、権限の承認により安全な収益が確立され、MCP および既存のフック スクリプトとも互換性があります。複数の SDK はさまざまな開発シナリオをカバーしており、詳細な変換を行ってプライベート エージェントを構築したい開発者にとって非常に参考になります。"
     }
   ],
-  "count_7d": 22,
+  "count_7d": 15,
   "updates_7d": [
     {
       "date": "2026-08-13",
@@ -177,62 +177,6 @@
       "url": "https://waytoagi.feishu.cn/wiki/ENInwjmnViH3I4knMO2cmO1PnVg?from=from_copylink",
       "title_ja": "AI エンジニアがエージェント ループを自己改善するための 7 つの必須ルール",
       "summary_ja": "エージェントは独自のコードを記述し、独自のプロンプトの単語を変更し、独自のループを実行できます。ますますスマートに見えます。しかし、最初に「良い」とは何かを定義しないと、スコアが向上するだけで、実際の効果はさらに悪くなる可能性があります。 Google の公式自己改善エージェント ループがこの問題をどのように回避するかを見てみましょう。"
-    },
-    {
-      "date": "2026-08-10",
-      "title": "贵57.1倍的Claude Opus 4.8五项全输，赢它的不是模型，是Harness",
-      "summary": "Floatboat Harness公开的基准评测，印证了Harness执行底座对Agent能力的巨大加成。锁定同一低成本模型，仅更换运行底座，长程复杂任务性能大幅提升，甚至全面超越价格高出数十倍的旗舰模型。",
-      "url": "https://waytoagi.feishu.cn/wiki/N0iMwkm7EiFb6ukn9HycJcw2nKe?from=from_copylink",
-      "title_ja": "57.1 倍高価なクロード オーパス 4.8 は、5 つのカテゴリーすべてで負けています。勝つのはモデルではなくハーネスです。",
-      "summary_ja": "Floatboat Harness の公開ベンチマーク評価により、Harness 実行ベースがエージェントの機能に大幅に追加されたことが確認されています。同じ低価格モデルを固定し、ランニングベースのみを交換することで、長距離の複雑なタスクのパフォーマンスが大幅に向上し、数十倍高価なフラッグシップモデルをも上回ります。"
-    },
-    {
-      "date": "2026-08-10",
-      "title": "工作没有着落的时候，先让自己动起来",
-      "summary": "身边越来越多人遇到降薪、调岗、离职、毕业求职卡住，明知道该学AI、做自媒体、换方向，却总被“我还没想清楚”“我看不懂”挡在原地。小鱿鱼这篇文章很适合待业、转岗、毕业迷茫，或者想学AI却迟迟开不了头的人读。",
-      "url": "https://waytoagi.feishu.cn/wiki/W3p1w2qr0icHtBkgaeLcqdSHnTu?from=from_copylink",
-      "title_ja": "仕事で行き詰まったら、まずは体を動かしましょう",
-      "summary_ja": "私の周囲でも、減給や異動、退職、卒業後の就職活動に行き詰まる人が増えています。 AIを学ぶべきだ、セルフメディアをすべきだ、方向転換すべきだということはわかっているのですが、いつも「まだわかっていない」「理解できない」という言葉に阻まれます。 Little Squid のこの記事は、失業者、転職者、卒業後に迷っている人、AI を学びたいけど始められない人に最適です。"
-    },
-    {
-      "date": "2026-08-10",
-      "title": "WaytoAGI成都新据点开园！8月14日白鹭湾见",
-      "summary": "8月14日，WaytoAGI 成都科梦 OPC 社区要开园了！这是WaytoAGI和成都传媒产业集团旗下红星传媒一起做的 OPC 社区，也是 WaytoAGI 继北京亦庄之后的第二个线下 OPC 社区。欢迎大家报名，来现场一起参与见证 WaytoAGI 成都科梦 OPC 社区的落地。",
-      "url": "https://waytoagi.feishu.cn/wiki/E0sxwDQ3Ai9fxhkKHbQcjLaFn8f?from=from_copylink",
-      "title_ja": "WaytoAGI が成都に新拠点を開設! 8月14日にイーグレットベイでお会いしましょう",
-      "summary_ja": "8 月 14 日、WaytoAGI 成都科孟 OPC コミュニティがオープンします。これは、WaytoAGI と成都メディア産業グループの子会社である Red Star Media によって開発された OPC コミュニティです。 WaytoAGI にとって、Beijing Yizhuang に次ぐ 2 番目のオフライン OPC コミュニティでもあります。どなたでもサインアップしてサイトに来て、WaytoAGI 成都科孟 OPC コミュニティの実装に参加し、その実装を目撃してください。"
-    },
-    {
-      "date": "2026-08-10",
-      "title": "Cursor人力负责人：如何组建顶尖的AI团队丨Lenny's Podcast",
-      "summary": "Adam Ward 是Cursor的人力主管。他在业内拥有超过20年的经验，擅长打造精英人才团队，被公认为科技界最高效、最具创意的招聘人员之一。一起来看看他是如何组建顶尖的AI团队。",
-      "url": "https://waytoagi.feishu.cn/wiki/OD1vw2LBNirzwKkxmOVcJzB1nlh?from=from_copylink",
-      "title_ja": "カーソル人事リーダー: トップ AI チームの作り方丨Lenny のポッドキャスト",
-      "summary_ja": "Adam Ward は Cursor の部門責任者です。業界で 20 年以上の経験を持つ彼は、エリート人材チームの構築を専門とし、テクノロジー業界で最も効率的で創造的な採用担当者の 1 人として認められています。彼がどのようにしてトップの AI チームを構築したかを見てみましょう。"
-    },
-    {
-      "date": "2026-08-10",
-      "title": "AI音乐周刊 W.A 040",
-      "summary": "这周AI音乐领域的变化，已经从“生成一首歌”延伸到实体收藏、移动端声线和版权商业化：Suno准备推出AI歌曲黑胶定制，Voices声音克隆也上线 iOS/Android。行业规则也开始变清楚：Spotify联合Merlin做授权翻唱/重混，华纳预计AI授权将在2027年带来收入，Suno也在加强提示词审查、音频水印、下载限制和社区治理。",
-      "url": "https://waytoagi.feishu.cn/wiki/IruywTu30iCRxWksOgicnyRonic?from=from_copylink",
-      "title_ja": "AI ミュージック ウィークリー W.A 040",
-      "summary_ja": "今週の AI 音楽分野の変化は、「曲の生成」から物理的なコレクション、モバイル音声、著作権の商品化にまで及びました。Suno は AI 曲のビニールのカスタマイズを開始する準備をしており、Voices サウンドのクローン作成も iOS/Android で利用できます。業界のルールも明らかになり始めている。Spotifyはマーリンと提携してカバー/リミックスのライセンスを取得し、ワーナーはAIライセンスが2027年に収益をもたらすと予測し、Sunoも即時ワード検閲、音声透かし、ダウンロード制限、コミュニティガバナンスを強化している。"
-    },
-    {
-      "date": "2026-08-10",
-      "title": "AI时代需要补的网络基础知识",
-      "summary": "学习AI有很多需要用到网络底层基础知识的地方。作者用这篇文章，以最通俗易懂的方式让你了解清楚去解决这些现实问题，所需要具备的最基础的网络名词概念。",
-      "url": "https://waytoagi.feishu.cn/wiki/Fl8Lwh33viAMNUkihG3ccUZJnJI?from=from_copylink",
-      "title_ja": "AI時代に補充すべきネットワークの基礎知識",
-      "summary_ja": "AI を学習するには、基盤となるネットワークの基本的な知識が必要になる場所が多くあります。著者はこの記事を使用して、これらの実際的な問題を最もわかりやすい方法で解決するために必要なネットワーク用語の最も基本的な概念を理解できるようにします。"
-    },
-    {
-      "date": "2026-08-10",
-      "title": "AI 名词小白入门白皮书",
-      "summary": "很多人学AI一上来就被一堆英文缩写劝退：GPT、Token、RAG、MCP、Agent、Loop、Graph单独都能查，放在一起就分不清谁是模型、谁是产品、谁负责资料、谁负责执行。这份白皮书适合刚入门的小白。",
-      "url": "https://waytoagi.feishu.cn/wiki/Enmdwp5OQivcWOk7pQOco4oSnAd?from=from_copylink",
-      "title_ja": null,
-      "summary_ja": "AI の学習を始めるとすぐに、多くの人が英語の略語の数々にうんざりします。GPT、トークン、RAG、MCP、エージェント、ループ、グラフは個別に調べることができますが、これらをまとめると、誰がモデルで、誰が製品で、誰がデータの責任者で、誰が実行の責任者であるかを区別するのが困難です。このホワイトペーパーは、始めたばかりの初心者に適しています。"
     }
   ],
   "warning": null,
