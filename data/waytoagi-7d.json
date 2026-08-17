@@ -1,12 +1,20 @@
 {
-  "generated_at": "2026-08-17T08:00:04.162540Z",
+  "generated_at": "2026-08-17T08:58:53.120527Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-08-16",
-  "count_today": 1,
+  "count_today": 2,
   "updates_today": [
+    {
+      "date": "2026-08-16",
+      "title": "如何设计 Agent Harness",
+      "summary": "Agent频繁出现虚假完成、遗忘规则的问题，往往不是模型不行，而是运行框架Harness设计的不足。这篇文章结合DoorDash、OpenAI、Anthropic的实战案例，拆解了循环控制、工具权限、记忆管理、崩溃恢复、安全边界、任务验收六大关键设计维度。",
+      "url": "https://waytoagi.feishu.cn/wiki/WTWZw8eu7iZ9rckqbSXcGdcgnQh?from=from_copylink",
+      "title_ja": "エージェント ハーネスを設計する方法",
+      "summary_ja": "エージェントで頻繁に発生する、誤った完了やルールの忘れといった問題は、多くの場合、不適切なモデルが原因ではなく、実行中のフレームワークのハーネス設計の不備によって引き起こされます。この記事では、DoorDash、OpenAI、Anthropic の実際の事例を組み合わせて、ループ制御、ツールの権限、メモリ管理、クラッシュ回復、安全境界、タスクの受け入れという 6 つの主要な設計次元を分析します。"
+    },
     {
       "date": "2026-08-16",
       "title": "8.10—8.16｜本周 AI 论文精选",
@@ -16,8 +24,16 @@
       "summary_ja": "今週の AI 論文コレクションは、大規模なモデルやエージェントの実装におけるさまざまな隠れた問題点に直接対処しており、多くの隠れた罠を回避するのに役立つ可能性があります。新しい式には修正されたスケーリング則が含まれており、事前トレーニングの計算コストが大幅に削減されます。また、推論軌跡の盗難やマインド ウイルスの蔓延など、新たなセキュリティ リスクも明らかになります。さらに、プロンプトワードの積極的な拡張、コンテキスト圧縮における制約の喪失、基礎となるアーキテクチャの隠れた欠陥などのエンジニアリング上の問題も分析します。エージェントや大規模モデルの研究開発を行っている開発者は、そこから学ぶことができます。"
     }
   ],
-  "count_7d": 16,
+  "count_7d": 17,
   "updates_7d": [
+    {
+      "date": "2026-08-16",
+      "title": "如何设计 Agent Harness",
+      "summary": "Agent频繁出现虚假完成、遗忘规则的问题，往往不是模型不行，而是运行框架Harness设计的不足。这篇文章结合DoorDash、OpenAI、Anthropic的实战案例，拆解了循环控制、工具权限、记忆管理、崩溃恢复、安全边界、任务验收六大关键设计维度。",
+      "url": "https://waytoagi.feishu.cn/wiki/WTWZw8eu7iZ9rckqbSXcGdcgnQh?from=from_copylink",
+      "title_ja": "エージェント ハーネスを設計する方法",
+      "summary_ja": "エージェントで頻繁に発生する、誤った完了やルールの忘れといった問題は、多くの場合、不適切なモデルが原因ではなく、実行中のフレームワークのハーネス設計の不備によって引き起こされます。この記事では、DoorDash、OpenAI、Anthropic の実際の事例を組み合わせて、ループ制御、ツールの権限、メモリ管理、クラッシュ回復、安全境界、タスクの受け入れという 6 つの主要な設計次元を分析します。"
+    },
     {
       "date": "2026-08-16",
       "title": "8.10—8.16｜本周 AI 论文精选",
