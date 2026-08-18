@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T15:44:28.981075Z",
+  "generated_at": "2026-08-18T16:46:51.356723Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -86,16 +86,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8731,
-      "importance": 0.8731,
-      "importance_score": 0.8731,
+      "score": 0.8706,
+      "importance": 0.8706,
+      "importance_score": 0.8706,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9338,
+        "recency": 0.9199,
         "story_heat": 0.25
       },
       "category": "official",
@@ -125,7 +125,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T15:45:15.658596Z"
+        "scored_at": "2026-08-18T16:47:46.531517Z"
       }
     },
     {
@@ -211,16 +211,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8564,
-      "importance": 0.8564,
-      "importance_score": 0.8564,
+      "score": 0.8543,
+      "importance": 0.8543,
+      "importance_score": 0.8543,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.7967,
+        "recency": 0.7848,
         "story_heat": 0.25
       },
       "category": "official",
@@ -250,7 +250,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T15:45:15.658596Z"
+        "scored_at": "2026-08-18T16:47:46.531517Z"
       }
     },
     {
@@ -312,8 +312,8 @@
         },
         {
           "id": "0179251da1b8d80b95ec64d8de5982683835fea4",
-          "title": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案 / Cursor launches Origin, GitHub alternative",
-          "title_zh": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
+          "title": "Cursor 推出 Origin，作为 GitHub 的替代方案 / Cursor launches Origin, GitHub alternative",
+          "title_zh": "Cursor 推出 Origin，作为 GitHub 的替代方案",
           "title_ja": "Cursor が GitHub の代替となる Origin を起動",
           "title_en": "Cursor launches Origin, GitHub alternative",
           "title_original": "Cursor launches Origin, GitHub alternative",
@@ -385,8 +385,8 @@
         },
         {
           "id": "0179251da1b8d80b95ec64d8de5982683835fea4",
-          "title": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案 / Cursor launches Origin, GitHub alternative",
-          "title_zh": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
+          "title": "Cursor 推出 Origin，作为 GitHub 的替代方案 / Cursor launches Origin, GitHub alternative",
+          "title_zh": "Cursor 推出 Origin，作为 GitHub 的替代方案",
           "title_ja": "Cursor が GitHub の代替となる Origin を起動",
           "title_en": "Cursor launches Origin, GitHub alternative",
           "title_original": "Cursor launches Origin, GitHub alternative",
@@ -402,16 +402,16 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8294,
-      "importance": 0.8294,
-      "importance_score": 0.8294,
+      "score": 0.8273,
+      "importance": 0.8273,
+      "importance_score": 0.8273,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7766,
+        "recency": 0.765,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -440,7 +440,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T15:45:15.658596Z"
+        "scored_at": "2026-08-18T16:47:46.531517Z"
       }
     },
     {
@@ -493,16 +493,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8401,
-      "importance": 0.8401,
-      "importance_score": 0.8401,
+      "score": 0.8376,
+      "importance": 0.8376,
+      "importance_score": 0.8376,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9338,
+        "recency": 0.9199,
         "story_heat": 0.0
       },
       "category": "official",
@@ -531,98 +531,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T15:45:15.658596Z"
-      }
-    },
-    {
-      "story_id": "story_e8417ef9f36f",
-      "title": "画布如何使代理工作流程可见、可操纵且经济高效 / How canvases make agentic workflows visible, steerable, and cost-efficient",
-      "title_ja": "キャンバスによってエージェント ワークフローが可視化され、操作可能になり、コスト効率が高くなる仕組み",
-      "url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient",
-      "primary_url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "9906b46475e583e00b16574efb087d7c6a44e46f",
-          "title": "画布如何使代理工作流程可见、可操纵且经济高效 / How canvases make agentic workflows visible, steerable, and cost-efficient",
-          "title_zh": "画布如何使代理工作流程可见、可操纵且经济高效",
-          "title_ja": "キャンバスによってエージェント ワークフローが可視化され、操作可能になり、コスト効率が高くなる仕組み",
-          "title_en": "How canvases make agentic workflows visible, steerable, and cost-efficient",
-          "title_original": "How canvases make agentic workflows visible, steerable, and cost-efficient",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-17T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub AI & ML"
-      ],
-      "items": [
-        {
-          "id": "9906b46475e583e00b16574efb087d7c6a44e46f",
-          "title": "画布如何使代理工作流程可见、可操纵且经济高效 / How canvases make agentic workflows visible, steerable, and cost-efficient",
-          "title_zh": "画布如何使代理工作流程可见、可操纵且经济高效",
-          "title_ja": "キャンバスによってエージェント ワークフローが可視化され、操作可能になり、コスト効率が高くなる仕組み",
-          "title_en": "How canvases make agentic workflows visible, steerable, and cost-efficient",
-          "title_original": "How canvases make agentic workflows visible, steerable, and cost-efficient",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-17T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7918,
-      "importance": 0.7918,
-      "importance_score": 0.7918,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7098,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-17T16:00:00Z",
-      "latest_at": "2026-08-17T16:00:00Z",
-      "primary_item": {
-        "id": "9906b46475e583e00b16574efb087d7c6a44e46f",
-        "title": "画布如何使代理工作流程可见、可操纵且经济高效 / How canvases make agentic workflows visible, steerable, and cost-efficient",
-        "title_zh": "画布如何使代理工作流程可见、可操纵且经济高效",
-        "title_ja": "キャンバスによってエージェント ワークフローが可視化され、操作可能になり、コスト効率が高くなる仕組み",
-        "title_en": "How canvases make agentic workflows visible, steerable, and cost-efficient",
-        "title_original": "How canvases make agentic workflows visible, steerable, and cost-efficient",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-18T15:45:15.658596Z"
+        "scored_at": "2026-08-18T16:47:46.531517Z"
       }
     },
     {
@@ -675,16 +584,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8149,
-      "importance": 0.8149,
-      "importance_score": 0.8149,
+      "score": 0.8129,
+      "importance": 0.8129,
+      "importance_score": 0.8129,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7495,
+        "recency": 0.7383,
         "story_heat": 0.0
       },
       "category": "official",
@@ -713,7 +622,98 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T15:45:15.658596Z"
+        "scored_at": "2026-08-18T16:47:46.531517Z"
+      }
+    },
+    {
+      "story_id": "story_41f4a70159de",
+      "title": "Asana 通过 Codex 在 2 周内完成了 5 年的工程工作 / Asana cleared 5 years of engineering work in 2 weeks with Codex",
+      "title_ja": "Asana は Codex を使用して 5 年間のエンジニアリング作業を 2 週間で完了しました",
+      "url": "https://openai.com/index/asana",
+      "primary_url": "https://openai.com/index/asana",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "2202f2b59ff8d878e47df300dc1567311e52d90b",
+          "title": "Asana 通过 Codex 在 2 周内完成了 5 年的工程工作 / Asana cleared 5 years of engineering work in 2 weeks with Codex",
+          "title_zh": "Asana 通过 Codex 在 2 周内完成了 5 年的工程工作",
+          "title_ja": "Asana は Codex を使用して 5 年間のエンジニアリング作業を 2 週間で完了しました",
+          "title_en": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+          "title_original": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/asana",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T07:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "2202f2b59ff8d878e47df300dc1567311e52d90b",
+          "title": "Asana 通过 Codex 在 2 周内完成了 5 年的工程工作 / Asana cleared 5 years of engineering work in 2 weeks with Codex",
+          "title_zh": "Asana 通过 Codex 在 2 周内完成了 5 年的工程工作",
+          "title_ja": "Asana は Codex を使用して 5 年間のエンジニアリング作業を 2 週間で完了しました",
+          "title_en": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+          "title_original": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/asana",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T07:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8363,
+      "importance": 0.8363,
+      "importance_score": 0.8363,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8683,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-18T07:00:00Z",
+      "latest_at": "2026-08-18T07:00:00Z",
+      "primary_item": {
+        "id": "2202f2b59ff8d878e47df300dc1567311e52d90b",
+        "title": "Asana 通过 Codex 在 2 周内完成了 5 年的工程工作 / Asana cleared 5 years of engineering work in 2 weeks with Codex",
+        "title_zh": "Asana 通过 Codex 在 2 周内完成了 5 年的工程工作",
+        "title_ja": "Asana は Codex を使用して 5 年間のエンジニアリング作業を 2 週間で完了しました",
+        "title_en": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+        "title_original": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/asana",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-18T16:47:46.531517Z"
       }
     },
     {
@@ -798,16 +798,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7756,
-      "importance": 0.7756,
-      "importance_score": 0.7756,
+      "score": 0.7732,
+      "importance": 0.7732,
+      "importance_score": 0.7732,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9055,
+        "recency": 0.892,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -836,7 +836,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T15:45:15.658596Z"
+        "scored_at": "2026-08-18T16:47:46.531517Z"
       }
     },
     {
@@ -889,16 +889,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7691,
-      "importance": 0.7691,
-      "importance_score": 0.7691,
+      "score": 0.767,
+      "importance": 0.767,
+      "importance_score": 0.767,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7895,
+        "recency": 0.7777,
         "story_heat": 0.0
       },
       "category": "official",
@@ -926,7 +926,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T15:45:15.658596Z"
+        "scored_at": "2026-08-18T16:47:46.531517Z"
       }
     },
     {
@@ -979,16 +979,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7313,
-      "importance": 0.7313,
-      "importance_score": 0.7313,
+      "score": 0.7289,
+      "importance": 0.7289,
+      "importance_score": 0.7289,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8814,
+        "recency": 0.8683,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1015,7 +1015,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T15:45:15.658596Z"
+        "scored_at": "2026-08-18T16:47:46.531517Z"
       }
     },
     {
@@ -1068,16 +1068,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7279,
-      "importance": 0.7279,
-      "importance_score": 0.7279,
+      "score": 0.7258,
+      "importance": 0.7258,
+      "importance_score": 0.7258,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7963,
+        "recency": 0.7844,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1104,7 +1104,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T15:45:15.658596Z"
+        "scored_at": "2026-08-18T16:47:46.531517Z"
       }
     },
     {
@@ -1157,16 +1157,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7551,
-      "importance": 0.7551,
-      "importance_score": 0.7551,
+      "score": 0.7526,
+      "importance": 0.7526,
+      "importance_score": 0.7526,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9303,
+        "recency": 0.9165,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1194,7 +1194,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T15:45:15.658596Z"
+        "scored_at": "2026-08-18T16:47:46.531517Z"
       }
     },
     {
@@ -1280,16 +1280,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7426,
-      "importance": 0.7426,
-      "importance_score": 0.7426,
+      "score": 0.7406,
+      "importance": 0.7406,
+      "importance_score": 0.7406,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7387,
+        "recency": 0.7277,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1317,7 +1317,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T15:45:15.658596Z"
+        "scored_at": "2026-08-18T16:47:46.531517Z"
       }
     },
     {
@@ -1370,16 +1370,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7528,
-      "importance": 0.7528,
-      "importance_score": 0.7528,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9176,
+        "recency": 0.9039,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1407,7 +1407,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T15:45:15.658596Z"
+        "scored_at": "2026-08-18T16:47:46.531517Z"
       }
     },
     {
@@ -1493,16 +1493,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.738,
-      "importance": 0.738,
-      "importance_score": 0.738,
+      "score": 0.7361,
+      "importance": 0.7361,
+      "importance_score": 0.7361,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7302,
+        "recency": 0.7194,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1530,7 +1530,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T15:45:15.658596Z"
+        "scored_at": "2026-08-18T16:47:46.531517Z"
       }
     },
     {
@@ -1583,16 +1583,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7528,
-      "importance": 0.7528,
-      "importance_score": 0.7528,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9176,
+        "recency": 0.9039,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1620,7 +1620,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T15:45:15.658596Z"
+        "scored_at": "2026-08-18T16:47:46.531517Z"
       }
     },
     {
@@ -1673,16 +1673,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7528,
-      "importance": 0.7528,
-      "importance_score": 0.7528,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9176,
+        "recency": 0.9039,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1710,7 +1710,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T15:45:15.658596Z"
+        "scored_at": "2026-08-18T16:47:46.531517Z"
       }
     },
     {
@@ -1763,22 +1763,21 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7506,
-      "importance": 0.7506,
-      "importance_score": 0.7506,
+      "score": 0.7482,
+      "importance": 0.7482,
+      "importance_score": 0.7482,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9055,
+        "recency": 0.892,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-18T08:51:57.411840Z",
       "latest_at": "2026-08-18T08:51:57.411840Z",
@@ -1800,129 +1799,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T15:45:15.658596Z"
-      }
-    },
-    {
-      "story_id": "story_008aca6e8b2b",
-      "title": "以销售书籍起家的亚马逊正在销毁稀有文本来训练人工智能 / Amazon, which started off selling books, is destroying rare texts to train AI",
-      "title_ja": "書籍の販売からスタートしたアマゾンは、AIを訓練するために貴重な書籍を破棄している",
-      "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models",
-      "primary_url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "1c138b79f233ab1079997c5ec2f6ed94d65025ac",
-          "title": "以销售书籍起家的亚马逊正在销毁稀有文本来训练人工智能 / Amazon, which started off selling books, is destroying rare texts to train AI",
-          "title_zh": "以销售书籍起家的亚马逊正在销毁稀有文本来训练人工智能",
-          "title_ja": "書籍の販売からスタートしたアマゾンは、AIを訓練するために貴重な書籍を破棄している",
-          "title_en": "Amazon, which started off selling books, is destroying rare texts to train AI",
-          "title_original": "Amazon, which started off selling books, is destroying rare texts to train AI",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-17T16:38:44Z"
-        },
-        {
-          "id": "ac4a81fd1ca647f27ed345b0f1f6ec3f4200214c",
-          "title": "以销售书籍起家的亚马逊正在销毁稀有文本来训练人工智能 / Amazon, which started off selling books, is destroying rare texts to train AI",
-          "title_zh": "以销售书籍起家的亚马逊正在销毁稀有文本来训练人工智能",
-          "title_ja": "書籍の販売からスタートしたアマゾンは、AIを訓練するために貴重な書籍を破棄している",
-          "title_en": "Amazon, which started off selling books, is destroying rare texts to train AI",
-          "title_original": "Amazon, which started off selling books, is destroying rare texts to train AI",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49335216",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-17T19:11:09.167000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch AI",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "1c138b79f233ab1079997c5ec2f6ed94d65025ac",
-          "title": "以销售书籍起家的亚马逊正在销毁稀有文本来训练人工智能 / Amazon, which started off selling books, is destroying rare texts to train AI",
-          "title_zh": "以销售书籍起家的亚马逊正在销毁稀有文本来训练人工智能",
-          "title_ja": "書籍の販売からスタートしたアマゾンは、AIを訓練するために貴重な書籍を破棄している",
-          "title_en": "Amazon, which started off selling books, is destroying rare texts to train AI",
-          "title_original": "Amazon, which started off selling books, is destroying rare texts to train AI",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-17T16:38:44Z"
-        },
-        {
-          "id": "ac4a81fd1ca647f27ed345b0f1f6ec3f4200214c",
-          "title": "以销售书籍起家的亚马逊正在销毁稀有文本来训练人工智能 / Amazon, which started off selling books, is destroying rare texts to train AI",
-          "title_zh": "以销售书籍起家的亚马逊正在销毁稀有文本来训练人工智能",
-          "title_ja": "書籍の販売からスタートしたアマゾンは、AIを訓練するために貴重な書籍を破棄している",
-          "title_en": "Amazon, which started off selling books, is destroying rare texts to train AI",
-          "title_original": "Amazon, which started off selling books, is destroying rare texts to train AI",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49335216",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-17T19:11:09.167000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5977,
-      "importance": 0.5977,
-      "importance_score": 0.5977,
-      "importance_label": "值得关注",
-      "importance_label_ja": "要注目",
-      "importance_breakdown": {
-        "editorial": 0.5472,
-        "source_tier": 0.58,
-        "ai_relevance": 0.76,
-        "recency": 0.7164,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-17T16:38:44Z",
-      "latest_at": "2026-08-17T19:11:09.167000Z",
-      "primary_item": {
-        "id": "1c138b79f233ab1079997c5ec2f6ed94d65025ac",
-        "title": "以销售书籍起家的亚马逊正在销毁稀有文本来训练人工智能 / Amazon, which started off selling books, is destroying rare texts to train AI",
-        "title_zh": "以销售书籍起家的亚马逊正在销毁稀有文本来训练人工智能",
-        "title_ja": "書籍の販売からスタートしたアマゾンは、AIを訓練するために貴重な書籍を破棄している",
-        "title_en": "Amazon, which started off selling books, is destroying rare texts to train AI",
-        "title_original": "Amazon, which started off selling books, is destroying rare texts to train AI",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-18T15:45:15.658596Z"
+        "scored_at": "2026-08-18T16:47:46.531517Z"
       }
     },
     {
@@ -1975,22 +1852,21 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7506,
-      "importance": 0.7506,
-      "importance_score": 0.7506,
+      "score": 0.7482,
+      "importance": 0.7482,
+      "importance_score": 0.7482,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9055,
+        "recency": 0.892,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-18T08:51:57.411840Z",
       "latest_at": "2026-08-18T08:51:57.411840Z",
@@ -2012,7 +1888,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T15:45:15.658596Z"
+        "scored_at": "2026-08-18T16:47:46.531517Z"
       }
     },
     {
@@ -2131,16 +2007,16 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5616,
-      "importance": 0.5616,
-      "importance_score": 0.5616,
+      "score": 0.559,
+      "importance": 0.559,
+      "importance_score": 0.559,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9488,
+        "recency": 0.9347,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -2167,7 +2043,129 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-18T15:45:15.658596Z"
+        "scored_at": "2026-08-18T16:47:46.531517Z"
+      }
+    },
+    {
+      "story_id": "story_f460e7b50851",
+      "title": "NeoBrowser：一个 MCP 服务器，可通过您登录的会话驱动真正的 Chrome / NeoBrowser: An MCP server that drives real Chrome with your logged-in sessions",
+      "title_ja": "NeoBrowser: ログイン セッションで実際の Chrome を駆動する MCP サーバー",
+      "url": "https://news.ycombinator.com/item?id=49345320",
+      "primary_url": "https://news.ycombinator.com/item?id=49345320",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "d965066ddfa4512d416ee37b8e0a13f321b90002",
+          "title": "NeoBrowser：一个 MCP 服务器，可通过您登录的会话驱动真正的 Chrome / NeoBrowser: An MCP server that drives real Chrome with your logged-in sessions",
+          "title_zh": "NeoBrowser：一个 MCP 服务器，可通过您登录的会话驱动真正的 Chrome",
+          "title_ja": "NeoBrowser: ログイン セッションで実際の Chrome を駆動する MCP サーバー",
+          "title_en": "NeoBrowser: An MCP server that drives real Chrome with your logged-in sessions",
+          "title_original": "NeoBrowser: An MCP server that drives real Chrome with your logged-in sessions",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49345320",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-18T14:25:21.049000Z"
+        },
+        {
+          "id": "cd93dc601c29a963471b30e0ebbde1461d8a5c24",
+          "title": "NeoBrowser：一个 MCP 服务器，可通过您登录的会话驱动真正的 Chrome / NeoBrowser: An MCP server that drives real Chrome with your logged-in sessions",
+          "title_zh": "NeoBrowser：一个 MCP 服务器，可通过您登录的会话驱动真正的 Chrome",
+          "title_ja": "NeoBrowser: ログイン セッションで実際の Chrome を駆動する MCP サーバー",
+          "title_en": "NeoBrowser: An MCP server that drives real Chrome with your logged-in sessions",
+          "title_original": "NeoBrowser: An MCP server that drives real Chrome with your logged-in sessions",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/pitiflautico/neobrowser",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-18T13:25:54Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "d965066ddfa4512d416ee37b8e0a13f321b90002",
+          "title": "NeoBrowser：一个 MCP 服务器，可通过您登录的会话驱动真正的 Chrome / NeoBrowser: An MCP server that drives real Chrome with your logged-in sessions",
+          "title_zh": "NeoBrowser：一个 MCP 服务器，可通过您登录的会话驱动真正的 Chrome",
+          "title_ja": "NeoBrowser: ログイン セッションで実際の Chrome を駆動する MCP サーバー",
+          "title_en": "NeoBrowser: An MCP server that drives real Chrome with your logged-in sessions",
+          "title_original": "NeoBrowser: An MCP server that drives real Chrome with your logged-in sessions",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49345320",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-18T14:25:21.049000Z"
+        },
+        {
+          "id": "cd93dc601c29a963471b30e0ebbde1461d8a5c24",
+          "title": "NeoBrowser：一个 MCP 服务器，可通过您登录的会话驱动真正的 Chrome / NeoBrowser: An MCP server that drives real Chrome with your logged-in sessions",
+          "title_zh": "NeoBrowser：一个 MCP 服务器，可通过您登录的会话驱动真正的 Chrome",
+          "title_ja": "NeoBrowser: ログイン セッションで実際の Chrome を駆動する MCP サーバー",
+          "title_en": "NeoBrowser: An MCP server that drives real Chrome with your logged-in sessions",
+          "title_original": "NeoBrowser: An MCP server that drives real Chrome with your logged-in sessions",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/pitiflautico/neobrowser",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-18T13:25:54Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5398,
+      "importance": 0.5398,
+      "importance_score": 0.5398,
+      "importance_label": "值得关注",
+      "importance_label_ja": "要注目",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9665,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-18T13:25:54Z",
+      "latest_at": "2026-08-18T14:25:21.049000Z",
+      "primary_item": {
+        "id": "d965066ddfa4512d416ee37b8e0a13f321b90002",
+        "title": "NeoBrowser：一个 MCP 服务器，可通过您登录的会话驱动真正的 Chrome / NeoBrowser: An MCP server that drives real Chrome with your logged-in sessions",
+        "title_zh": "NeoBrowser：一个 MCP 服务器，可通过您登录的会话驱动真正的 Chrome",
+        "title_ja": "NeoBrowser: ログイン セッションで実際の Chrome を駆動する MCP サーバー",
+        "title_en": "NeoBrowser: An MCP server that drives real Chrome with your logged-in sessions",
+        "title_original": "NeoBrowser: An MCP server that drives real Chrome with your logged-in sessions",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49345320",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-18T16:47:46.531517Z"
       }
     }
   ]
