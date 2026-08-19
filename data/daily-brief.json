@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T17:38:23.992141Z",
+  "generated_at": "2026-08-19T18:51:26.047513Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -71,8 +71,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-19T17:38:23.992141Z",
-      "latest_at": "2026-08-19T17:38:23.992141Z",
+      "earliest_at": "2026-08-19T19:00:00Z",
+      "latest_at": "2026-08-19T19:00:00Z",
       "primary_item": {
         "id": "46965e823de9b7acb79bd178929f626ff0a15306",
         "title": "为前沿模型提供零数据保留 / Offering Zero Data Retention for frontier models",
@@ -91,7 +91,98 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T17:40:45.219766Z"
+        "scored_at": "2026-08-19T18:52:20.872908Z"
+      }
+    },
+    {
+      "story_id": "story_c773429fa020",
+      "title": "适合初学者的 GitHub Copilot 应用程序：管理您的工作 / GitHub Copilot app for Beginners: Managing your work",
+      "title_ja": "初心者向け GitHub Copilot アプリ: 作業の管理",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b9db6e949ee8eb8a7ffc8c1b6c3687e407eca048",
+          "title": "适合初学者的 GitHub Copilot 应用程序：管理您的工作 / GitHub Copilot app for Beginners: Managing your work",
+          "title_zh": "适合初学者的 GitHub Copilot 应用程序：管理您的工作",
+          "title_ja": "初心者向け GitHub Copilot アプリ: 作業の管理",
+          "title_en": "GitHub Copilot app for Beginners: Managing your work",
+          "title_original": "GitHub Copilot app for Beginners: Managing your work",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-19T17:50:23Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "b9db6e949ee8eb8a7ffc8c1b6c3687e407eca048",
+          "title": "适合初学者的 GitHub Copilot 应用程序：管理您的工作 / GitHub Copilot app for Beginners: Managing your work",
+          "title_zh": "适合初学者的 GitHub Copilot 应用程序：管理您的工作",
+          "title_ja": "初心者向け GitHub Copilot アプリ: 作業の管理",
+          "title_en": "GitHub Copilot app for Beginners: Managing your work",
+          "title_original": "GitHub Copilot app for Beginners: Managing your work",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-19T17:50:23Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8494,
+      "importance": 0.8494,
+      "importance_score": 0.8494,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9854,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-19T17:50:23Z",
+      "latest_at": "2026-08-19T17:50:23Z",
+      "primary_item": {
+        "id": "b9db6e949ee8eb8a7ffc8c1b6c3687e407eca048",
+        "title": "适合初学者的 GitHub Copilot 应用程序：管理您的工作 / GitHub Copilot app for Beginners: Managing your work",
+        "title_zh": "适合初学者的 GitHub Copilot 应用程序：管理您的工作",
+        "title_ja": "初心者向け GitHub Copilot アプリ: 作業の管理",
+        "title_en": "GitHub Copilot app for Beginners: Managing your work",
+        "title_original": "GitHub Copilot app for Beginners: Managing your work",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-19T18:52:20.872908Z"
       }
     },
     {
@@ -144,16 +235,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8503,
-      "importance": 0.8503,
-      "importance_score": 0.8503,
+      "score": 0.8474,
+      "importance": 0.8474,
+      "importance_score": 0.8474,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9462,
+        "recency": 0.9298,
         "story_heat": 0.0
       },
       "category": "official",
@@ -182,7 +273,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T17:40:45.219766Z"
+        "scored_at": "2026-08-19T18:52:20.872908Z"
       }
     },
     {
@@ -235,16 +326,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8322,
-      "importance": 0.8322,
-      "importance_score": 0.8322,
+      "score": 0.8293,
+      "importance": 0.8293,
+      "importance_score": 0.8293,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9345,
+        "recency": 0.9182,
         "story_heat": 0.0
       },
       "category": "official",
@@ -273,7 +364,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T17:40:45.219766Z"
+        "scored_at": "2026-08-19T18:52:20.872908Z"
       }
     },
     {
@@ -326,16 +417,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8344,
-      "importance": 0.8344,
-      "importance_score": 0.8344,
+      "score": 0.8317,
+      "importance": 0.8317,
+      "importance_score": 0.8317,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8576,
+        "recency": 0.8426,
         "story_heat": 0.0
       },
       "category": "official",
@@ -364,132 +455,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T17:40:45.219766Z"
-      }
-    },
-    {
-      "story_id": "story_77f8f8705916",
-      "title": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准 / How Much Memory Does Your Agent Actually Need?",
-      "title_ja": "エージェントが実際に必要とするメモリの量はどれくらいですか?",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-      "primary_url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4c7e6d7987f8435623b872c1349860e73b991e53",
-          "title": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准 / How Much Memory Does Your Agent Actually Need?",
-          "title_zh": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准",
-          "title_ja": "エージェントが実際に必要とするメモリの量はどれくらいですか?",
-          "title_en": "How Much Memory Does Your Agent Actually Need?",
-          "title_original": "How Much Memory Does Your Agent Actually Need?",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-18T18:09:38Z"
-        },
-        {
-          "id": "ed0f0ca83fed5aa8ae6ec56cfdfbee39b0782b0e",
-          "title": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准 / How Much Memory Does Your Agent Actually Need？",
-          "title_zh": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准",
-          "title_ja": "エージェントが実際に必要とするメモリの量はどれくらいですか?",
-          "title_en": "How Much Memory Does Your Agent Actually Need？",
-          "title_original": "How Much Memory Does Your Agent Actually Need？",
-          "summary": "智能体记忆并非可随意开启的功能，而是需按模型能力校准的剂量。强模型适合注入完整指南集，DeepSeek-V3.2（671B MoE）任务完成率提升+9.5个百分点；较弱模型采用精选检索效果最佳，gpt-oss-120b（117B MoE）提升+16.1pp且仅增加+5% token。该方法无需更新权重或人工标注，通过从智能体过往轨迹中蒸馏指南并在推理时注入实现。",
-          "summary_ja": "エージェント メモリは任意にオンにできる機能ではなく、モデルの機能に応じて調整する必要がある機能です。強力なモデルは完全なガイド セットを注入するのに適しており、DeepSeek-V3.2 (671B MoE) のタスク完了率は +9.5 パーセント ポイント増加しました。弱いモデルは最良の効果を得るために選択された取得を使用し、gpt-oss-120b (117B MoE) は +16.1pp 改善され、+5% トークンのみ増加します。この方法は、重みの更新や手動の注釈を必要とせず、エージェントの過去の軌跡からガイダンスを抽出し、推論時にそれを注入することによって実現されます。",
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-          "source": "Hugging Face：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-18T18:09:38Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hugging Face Blog",
-        "Hugging Face：Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "4c7e6d7987f8435623b872c1349860e73b991e53",
-          "title": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准 / How Much Memory Does Your Agent Actually Need?",
-          "title_zh": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准",
-          "title_ja": "エージェントが実際に必要とするメモリの量はどれくらいですか?",
-          "title_en": "How Much Memory Does Your Agent Actually Need?",
-          "title_original": "How Much Memory Does Your Agent Actually Need?",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-18T18:09:38Z"
-        },
-        {
-          "id": "ed0f0ca83fed5aa8ae6ec56cfdfbee39b0782b0e",
-          "title": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准 / How Much Memory Does Your Agent Actually Need？",
-          "title_zh": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准",
-          "title_ja": "エージェントが実際に必要とするメモリの量はどれくらいですか?",
-          "title_en": "How Much Memory Does Your Agent Actually Need？",
-          "title_original": "How Much Memory Does Your Agent Actually Need？",
-          "summary": "智能体记忆并非可随意开启的功能，而是需按模型能力校准的剂量。强模型适合注入完整指南集，DeepSeek-V3.2（671B MoE）任务完成率提升+9.5个百分点；较弱模型采用精选检索效果最佳，gpt-oss-120b（117B MoE）提升+16.1pp且仅增加+5% token。该方法无需更新权重或人工标注，通过从智能体过往轨迹中蒸馏指南并在推理时注入实现。",
-          "summary_ja": "エージェント メモリは任意にオンにできる機能ではなく、モデルの機能に応じて調整する必要がある機能です。強力なモデルは完全なガイド セットを注入するのに適しており、DeepSeek-V3.2 (671B MoE) のタスク完了率は +9.5 パーセント ポイント増加しました。弱いモデルは最良の効果を得るために選択された取得を使用し、gpt-oss-120b (117B MoE) は +16.1pp 改善され、+5% トークンのみ増加します。この方法は、重みの更新や手動の注釈を必要とせず、エージェントの過去の軌跡からガイダンスを抽出し、推論時にそれを注入することによって実現されます。",
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-          "source": "Hugging Face：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-18T18:09:38Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8332,
-      "importance": 0.8332,
-      "importance_score": 0.8332,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7124,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-18T18:09:38Z",
-      "latest_at": "2026-08-18T18:09:38Z",
-      "primary_item": {
-        "id": "4c7e6d7987f8435623b872c1349860e73b991e53",
-        "title": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准 / How Much Memory Does Your Agent Actually Need?",
-        "title_zh": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准",
-        "title_ja": "エージェントが実際に必要とするメモリの量はどれくらいですか?",
-        "title_en": "How Much Memory Does Your Agent Actually Need?",
-        "title_original": "How Much Memory Does Your Agent Actually Need?",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-19T17:40:45.219766Z"
+        "scored_at": "2026-08-19T18:52:20.872908Z"
       }
     },
     {
@@ -542,16 +508,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8106,
-      "importance": 0.8106,
-      "importance_score": 0.8106,
+      "score": 0.8082,
+      "importance": 0.8082,
+      "importance_score": 0.8082,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7701,
+        "recency": 0.7567,
         "story_heat": 0.0
       },
       "category": "official",
@@ -580,7 +546,97 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T17:40:45.219766Z"
+        "scored_at": "2026-08-19T18:52:20.872908Z"
+      }
+    },
+    {
+      "story_id": "story_0a0c7233557b",
+      "title": "突破 DeepSeek-V4-Pro 服务极限：H20 上的多场景优化方法 / Blog Pushing the Limits of Serving DeepSeek-V4-Pro DeepSeek-V4-Pro is a 1.6-trillion-parameter Mixture-of-Experts （MoE） model released with both FP8 and FP4 weights. Models at this scale naturally benefit from accelerators such as NVIDIA Blackwell GPU… Tianyu Zhang， Yusong Gao， Yun Zhang",
+      "title_ja": null,
+      "url": "https://www.lmsys.org/blog/2026-08-19-deepseek-v4-pro-engine-optimization-h20",
+      "primary_url": "https://www.lmsys.org/blog/2026-08-19-deepseek-v4-pro-engine-optimization-h20",
+      "source": "LMSYS：Blog（Chatbot Arena 团队）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "106a6a47dd09951e75c4fd850f355248b2d26a1e",
+          "title": "突破 DeepSeek-V4-Pro 服务极限：H20 上的多场景优化方法 / Blog Pushing the Limits of Serving DeepSeek-V4-Pro DeepSeek-V4-Pro is a 1.6-trillion-parameter Mixture-of-Experts （MoE） model released with both FP8 and FP4 weights. Models at this scale naturally benefit from accelerators such as NVIDIA Blackwell GPU… Tianyu Zhang， Yusong Gao， Yun Zhang",
+          "title_zh": "突破 DeepSeek-V4-Pro 服务极限：H20 上的多场景优化方法",
+          "title_ja": null,
+          "title_en": "Blog Pushing the Limits of Serving DeepSeek-V4-Pro DeepSeek-V4-Pro is a 1.6-trillion-parameter Mixture-of-Experts （MoE） model released with both FP8 and FP4 weights. Models at this scale naturally benefit from accelerators such as NVIDIA Blackwell GPU… Tianyu Zhang， Yusong Gao， Yun Zhang",
+          "title_original": "Blog Pushing the Limits of Serving DeepSeek-V4-Pro DeepSeek-V4-Pro is a 1.6-trillion-parameter Mixture-of-Experts （MoE） model released with both FP8 and FP4 weights. Models at this scale naturally benefit from accelerators such as NVIDIA Blackwell GPU… Tianyu Zhang， Yusong Gao， Yun Zhang",
+          "summary": "LMSYS 团队针对 1.6 万亿参数的 MoE 模型 DeepSeek-V4-Pro，在 H20 GPU 上通过场景化服务配置逼近 B300 性能。单节点 H20-141GB 参考实现达 271 output tokens/s，与 B300 的 383.7 tokens/s 性能差距缩小至 1.42×。",
+          "summary_ja": "LMSYS チームは、1.6 兆パラメータの MoE モデル DeepSeek-V4-Pro の H20 GPU でのシナリオベースのサービス構成を通じて、B300 のパフォーマンスにアプローチしました。シングルノードの H20-141GB リファレンス実装は 271 出力トークン/秒に達し、B300 の 383.7 トークン/秒とのパフォーマンス ギャップは 1.42 倍に狭まります。",
+          "recommend_reason_zh": null,
+          "url": "https://www.lmsys.org/blog/2026-08-19-deepseek-v4-pro-engine-optimization-h20",
+          "source": "LMSYS：Blog（Chatbot Arena 团队）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-19T17:56:13.817000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "LMSYS：Blog（Chatbot Arena 团队）"
+      ],
+      "items": [
+        {
+          "id": "106a6a47dd09951e75c4fd850f355248b2d26a1e",
+          "title": "突破 DeepSeek-V4-Pro 服务极限：H20 上的多场景优化方法 / Blog Pushing the Limits of Serving DeepSeek-V4-Pro DeepSeek-V4-Pro is a 1.6-trillion-parameter Mixture-of-Experts （MoE） model released with both FP8 and FP4 weights. Models at this scale naturally benefit from accelerators such as NVIDIA Blackwell GPU… Tianyu Zhang， Yusong Gao， Yun Zhang",
+          "title_zh": "突破 DeepSeek-V4-Pro 服务极限：H20 上的多场景优化方法",
+          "title_ja": null,
+          "title_en": "Blog Pushing the Limits of Serving DeepSeek-V4-Pro DeepSeek-V4-Pro is a 1.6-trillion-parameter Mixture-of-Experts （MoE） model released with both FP8 and FP4 weights. Models at this scale naturally benefit from accelerators such as NVIDIA Blackwell GPU… Tianyu Zhang， Yusong Gao， Yun Zhang",
+          "title_original": "Blog Pushing the Limits of Serving DeepSeek-V4-Pro DeepSeek-V4-Pro is a 1.6-trillion-parameter Mixture-of-Experts （MoE） model released with both FP8 and FP4 weights. Models at this scale naturally benefit from accelerators such as NVIDIA Blackwell GPU… Tianyu Zhang， Yusong Gao， Yun Zhang",
+          "summary": "LMSYS 团队针对 1.6 万亿参数的 MoE 模型 DeepSeek-V4-Pro，在 H20 GPU 上通过场景化服务配置逼近 B300 性能。单节点 H20-141GB 参考实现达 271 output tokens/s，与 B300 的 383.7 tokens/s 性能差距缩小至 1.42×。",
+          "summary_ja": "LMSYS チームは、1.6 兆パラメータの MoE モデル DeepSeek-V4-Pro の H20 GPU でのシナリオベースのサービス構成を通じて、B300 のパフォーマンスにアプローチしました。シングルノードの H20-141GB リファレンス実装は 271 出力トークン/秒に達し、B300 の 383.7 トークン/秒とのパフォーマンス ギャップは 1.42 倍に狭まります。",
+          "recommend_reason_zh": null,
+          "url": "https://www.lmsys.org/blog/2026-08-19-deepseek-v4-pro-engine-optimization-h20",
+          "source": "LMSYS：Blog（Chatbot Arena 团队）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-19T17:56:13.817000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7682,
+      "importance": 0.7682,
+      "importance_score": 0.7682,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9868,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-19T17:56:13.817000Z",
+      "latest_at": "2026-08-19T17:56:13.817000Z",
+      "primary_item": {
+        "id": "106a6a47dd09951e75c4fd850f355248b2d26a1e",
+        "title": "突破 DeepSeek-V4-Pro 服务极限：H20 上的多场景优化方法 / Blog Pushing the Limits of Serving DeepSeek-V4-Pro DeepSeek-V4-Pro is a 1.6-trillion-parameter Mixture-of-Experts （MoE） model released with both FP8 and FP4 weights. Models at this scale naturally benefit from accelerators such as NVIDIA Blackwell GPU… Tianyu Zhang， Yusong Gao， Yun Zhang",
+        "title_zh": "突破 DeepSeek-V4-Pro 服务极限：H20 上的多场景优化方法",
+        "title_ja": null,
+        "title_en": "Blog Pushing the Limits of Serving DeepSeek-V4-Pro DeepSeek-V4-Pro is a 1.6-trillion-parameter Mixture-of-Experts （MoE） model released with both FP8 and FP4 weights. Models at this scale naturally benefit from accelerators such as NVIDIA Blackwell GPU… Tianyu Zhang， Yusong Gao， Yun Zhang",
+        "title_original": "Blog Pushing the Limits of Serving DeepSeek-V4-Pro DeepSeek-V4-Pro is a 1.6-trillion-parameter Mixture-of-Experts （MoE） model released with both FP8 and FP4 weights. Models at this scale naturally benefit from accelerators such as NVIDIA Blackwell GPU… Tianyu Zhang， Yusong Gao， Yun Zhang",
+        "summary": "LMSYS 团队针对 1.6 万亿参数的 MoE 模型 DeepSeek-V4-Pro，在 H20 GPU 上通过场景化服务配置逼近 B300 性能。单节点 H20-141GB 参考实现达 271 output tokens/s，与 B300 的 383.7 tokens/s 性能差距缩小至 1.42×。",
+        "summary_ja": "LMSYS チームは、1.6 兆パラメータの MoE モデル DeepSeek-V4-Pro の H20 GPU でのシナリオベースのサービス構成を通じて、B300 のパフォーマンスにアプローチしました。シングルノードの H20-141GB リファレンス実装は 271 出力トークン/秒に達し、B300 の 383.7 トークン/秒とのパフォーマンス ギャップは 1.42 倍に狭まります。",
+        "recommend_reason_zh": null,
+        "url": "https://www.lmsys.org/blog/2026-08-19-deepseek-v4-pro-engine-optimization-h20",
+        "source": "LMSYS：Blog（Chatbot Arena 团队）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-19T18:52:20.872908Z"
       }
     },
     {
@@ -633,16 +689,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8156,
-      "importance": 0.8156,
-      "importance_score": 0.8156,
+      "score": 0.8132,
+      "importance": 0.8132,
+      "importance_score": 0.8132,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7531,
+        "recency": 0.7399,
         "story_heat": 0.0
       },
       "category": "official",
@@ -671,97 +727,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T17:40:45.219766Z"
-      }
-    },
-    {
-      "story_id": "story_9d19a0dc02ff",
-      "title": "国内首个人工与AI客服协同国家标准将于9月1日实施",
-      "title_ja": "中国初のマニュアルとAIの顧客サービス連携に関する国家標準が9月1日に施行される",
-      "url": "https://www.aibase.com/news/30476",
-      "primary_url": "https://www.aibase.com/news/30476",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "814146f7fae78dc96ea1f9833126b6bf9ad5bb7f",
-          "title": "国内首个人工与AI客服协同国家标准将于9月1日实施",
-          "title_zh": "国内首个人工与AI客服协同国家标准将于9月1日实施",
-          "title_ja": "中国初のマニュアルとAIの顧客サービス連携に関する国家標準が9月1日に施行される",
-          "title_en": null,
-          "title_original": "国内首个人工与AI客服协同国家标准将于9月1日实施",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30476",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-19T10:44:53.159771Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "814146f7fae78dc96ea1f9833126b6bf9ad5bb7f",
-          "title": "国内首个人工与AI客服协同国家标准将于9月1日实施",
-          "title_zh": "国内首个人工与AI客服协同国家标准将于9月1日实施",
-          "title_ja": "中国初のマニュアルとAIの顧客サービス連携に関する国家標準が9月1日に施行される",
-          "title_en": null,
-          "title_original": "国内首个人工与AI客服协同国家标准将于9月1日实施",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30476",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-19T10:44:53.159771Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7505,
-      "importance": 0.7505,
-      "importance_score": 0.7505,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9053,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-19T10:44:53.159771Z",
-      "latest_at": "2026-08-19T10:44:53.159771Z",
-      "primary_item": {
-        "id": "814146f7fae78dc96ea1f9833126b6bf9ad5bb7f",
-        "title": "国内首个人工与AI客服协同国家标准将于9月1日实施",
-        "title_zh": "国内首个人工与AI客服协同国家标准将于9月1日实施",
-        "title_ja": "中国初のマニュアルとAIの顧客サービス連携に関する国家標準が9月1日に施行される",
-        "title_en": null,
-        "title_original": "国内首个人工与AI客服协同国家标准将于9月1日实施",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30476",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-19T17:40:45.219766Z"
+        "scored_at": "2026-08-19T18:52:20.872908Z"
       }
     },
     {
@@ -814,22 +780,21 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
+      "score": 0.7478,
+      "importance": 0.7478,
+      "importance_score": 0.7478,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7871,
+        "recency": 0.7733,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-19T01:03:29Z",
       "latest_at": "2026-08-19T01:03:29Z",
@@ -851,7 +816,96 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T17:40:45.219766Z"
+        "scored_at": "2026-08-19T18:52:20.872908Z"
+      }
+    },
+    {
+      "story_id": "story_9d19a0dc02ff",
+      "title": "国内首个人工与AI客服协同国家标准将于9月1日实施",
+      "title_ja": "中国初のマニュアルとAIの顧客サービス連携に関する国家標準が9月1日に施行される",
+      "url": "https://www.aibase.com/news/30476",
+      "primary_url": "https://www.aibase.com/news/30476",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "814146f7fae78dc96ea1f9833126b6bf9ad5bb7f",
+          "title": "国内首个人工与AI客服协同国家标准将于9月1日实施",
+          "title_zh": "国内首个人工与AI客服协同国家标准将于9月1日实施",
+          "title_ja": "中国初のマニュアルとAIの顧客サービス連携に関する国家標準が9月1日に施行される",
+          "title_en": null,
+          "title_original": "国内首个人工与AI客服协同国家标准将于9月1日实施",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30476",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-19T10:44:53.159771Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "814146f7fae78dc96ea1f9833126b6bf9ad5bb7f",
+          "title": "国内首个人工与AI客服协同国家标准将于9月1日实施",
+          "title_zh": "国内首个人工与AI客服协同国家标准将于9月1日实施",
+          "title_ja": "中国初のマニュアルとAIの顧客サービス連携に関する国家標準が9月1日に施行される",
+          "title_en": null,
+          "title_original": "国内首个人工与AI客服协同国家标准将于9月1日实施",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30476",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-19T10:44:53.159771Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7477,
+      "importance": 0.7477,
+      "importance_score": 0.7477,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8895,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-19T10:44:53.159771Z",
+      "latest_at": "2026-08-19T10:44:53.159771Z",
+      "primary_item": {
+        "id": "814146f7fae78dc96ea1f9833126b6bf9ad5bb7f",
+        "title": "国内首个人工与AI客服协同国家标准将于9月1日实施",
+        "title_zh": "国内首个人工与AI客服协同国家标准将于9月1日实施",
+        "title_ja": "中国初のマニュアルとAIの顧客サービス連携に関する国家標準が9月1日に施行される",
+        "title_en": null,
+        "title_original": "国内首个人工与AI客服协同国家标准将于9月1日实施",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30476",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-19T18:52:20.872908Z"
       }
     },
     {
@@ -904,16 +958,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7459,
-      "importance": 0.7459,
-      "importance_score": 0.7459,
+      "score": 0.7428,
+      "importance": 0.7428,
+      "importance_score": 0.7428,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9961,
+        "recency": 0.9788,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -940,7 +994,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T17:40:45.219766Z"
+        "scored_at": "2026-08-19T18:52:20.872908Z"
       }
     },
     {
@@ -993,16 +1047,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7995,
-      "importance": 0.7995,
-      "importance_score": 0.7995,
+      "score": 0.7971,
+      "importance": 0.7971,
+      "importance_score": 0.7971,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7526,
+        "recency": 0.7395,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1031,7 +1085,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T17:40:45.219766Z"
+        "scored_at": "2026-08-19T18:52:20.872908Z"
       }
     },
     {
@@ -1084,16 +1138,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.728,
-      "importance": 0.728,
-      "importance_score": 0.728,
+      "score": 0.7257,
+      "importance": 0.7257,
+      "importance_score": 0.7257,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7469,
+        "recency": 0.7339,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1120,96 +1174,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T17:40:45.219766Z"
-      }
-    },
-    {
-      "story_id": "story_5de36c6f8e14",
-      "title": "OpenRouter 宣布加入 Stripe / OpenRouter is Joining Stripe",
-      "title_ja": "OpenRouter が Stripe に参加",
-      "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
-      "primary_url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
-      "source": "OpenRouter：Announcements（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8732726468509cd30f5eab7dae15d780f21dcdde",
-          "title": "OpenRouter 宣布加入 Stripe / OpenRouter is Joining Stripe",
-          "title_zh": "OpenRouter 宣布加入 Stripe",
-          "title_ja": "OpenRouter が Stripe に参加",
-          "title_en": "OpenRouter is Joining Stripe",
-          "title_original": "OpenRouter is Joining Stripe",
-          "summary": "OpenRouter 宣布与 Stripe 合并，以加速推动全球经济增长。OpenRouter 目前每日处理来自 400 多个 AI 模型的 10+ 万亿 token，服务超 1000 万开发者与公司，自成立以来推理量每年至少增长 10 倍。合并后 OpenRouter 将继续以原名、原使命独立运营，产品与路线图不变，路由决策仍以用户利益为先，交易预计在未来数周内完成。",
-          "summary_ja": "OpenRouter は、世界経済の成長を加速するために Stripe との合併を発表しました。 OpenRouter は現在、400 を超える AI モデルから毎日 10 兆を超えるトークンを処理し、1,000 万を超える開発者や企業にサービスを提供しており、その推論量は設立以来、毎年少なくとも 10 倍に増加しています。合併後、OpenRouter は元の名前と使命の下で引き続き独立して運営されます。その製品とロードマップは変わりません。ルーティングの決定は、引き続きユーザーの関心に基づいて行われます。この取引は今後数週間以内に完了する予定です。",
-          "recommend_reason_zh": null,
-          "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
-          "source": "OpenRouter：Announcements（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-19T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenRouter：Announcements（RSS）"
-      ],
-      "items": [
-        {
-          "id": "8732726468509cd30f5eab7dae15d780f21dcdde",
-          "title": "OpenRouter 宣布加入 Stripe / OpenRouter is Joining Stripe",
-          "title_zh": "OpenRouter 宣布加入 Stripe",
-          "title_ja": "OpenRouter が Stripe に参加",
-          "title_en": "OpenRouter is Joining Stripe",
-          "title_original": "OpenRouter is Joining Stripe",
-          "summary": "OpenRouter 宣布与 Stripe 合并，以加速推动全球经济增长。OpenRouter 目前每日处理来自 400 多个 AI 模型的 10+ 万亿 token，服务超 1000 万开发者与公司，自成立以来推理量每年至少增长 10 倍。合并后 OpenRouter 将继续以原名、原使命独立运营，产品与路线图不变，路由决策仍以用户利益为先，交易预计在未来数周内完成。",
-          "summary_ja": "OpenRouter は、世界経済の成長を加速するために Stripe との合併を発表しました。 OpenRouter は現在、400 を超える AI モデルから毎日 10 兆を超えるトークンを処理し、1,000 万を超える開発者や企業にサービスを提供しており、その推論量は設立以来、毎年少なくとも 10 倍に増加しています。合併後、OpenRouter は元の名前と使命の下で引き続き独立して運営されます。その製品とロードマップは変わりません。ルーティングの決定は、引き続きユーザーの関心に基づいて行われます。この取引は今後数週間以内に完了する予定です。",
-          "recommend_reason_zh": null,
-          "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
-          "source": "OpenRouter：Announcements（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-19T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7271,
-      "importance": 0.7271,
-      "importance_score": 0.7271,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7751,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-19T00:00:00Z",
-      "latest_at": "2026-08-19T00:00:00Z",
-      "primary_item": {
-        "id": "8732726468509cd30f5eab7dae15d780f21dcdde",
-        "title": "OpenRouter 宣布加入 Stripe / OpenRouter is Joining Stripe",
-        "title_zh": "OpenRouter 宣布加入 Stripe",
-        "title_ja": "OpenRouter が Stripe に参加",
-        "title_en": "OpenRouter is Joining Stripe",
-        "title_original": "OpenRouter is Joining Stripe",
-        "summary": "OpenRouter 宣布与 Stripe 合并，以加速推动全球经济增长。OpenRouter 目前每日处理来自 400 多个 AI 模型的 10+ 万亿 token，服务超 1000 万开发者与公司，自成立以来推理量每年至少增长 10 倍。合并后 OpenRouter 将继续以原名、原使命独立运营，产品与路线图不变，路由决策仍以用户利益为先，交易预计在未来数周内完成。",
-        "summary_ja": "OpenRouter は、世界経済の成長を加速するために Stripe との合併を発表しました。 OpenRouter は現在、400 を超える AI モデルから毎日 10 兆を超えるトークンを処理し、1,000 万を超える開発者や企業にサービスを提供しており、その推論量は設立以来、毎年少なくとも 10 倍に増加しています。合併後、OpenRouter は元の名前と使命の下で引き続き独立して運営されます。その製品とロードマップは変わりません。ルーティングの決定は、引き続きユーザーの関心に基づいて行われます。この取引は今後数週間以内に完了する予定です。",
-        "recommend_reason_zh": null,
-        "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
-        "source": "OpenRouter：Announcements（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-19T17:40:45.219766Z"
+        "scored_at": "2026-08-19T18:52:20.872908Z"
       }
     },
     {
@@ -1262,16 +1227,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.727,
-      "importance": 0.727,
-      "importance_score": 0.727,
+      "score": 0.7247,
+      "importance": 0.7247,
+      "importance_score": 0.7247,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.758,
+        "recency": 0.7448,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1298,7 +1263,96 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T17:40:45.219766Z"
+        "scored_at": "2026-08-19T18:52:20.872908Z"
+      }
+    },
+    {
+      "story_id": "story_5de36c6f8e14",
+      "title": "OpenRouter 宣布加入 Stripe / OpenRouter is Joining Stripe",
+      "title_ja": "OpenRouter が Stripe に参加",
+      "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
+      "primary_url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
+      "source": "OpenRouter：Announcements（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8732726468509cd30f5eab7dae15d780f21dcdde",
+          "title": "OpenRouter 宣布加入 Stripe / OpenRouter is Joining Stripe",
+          "title_zh": "OpenRouter 宣布加入 Stripe",
+          "title_ja": "OpenRouter が Stripe に参加",
+          "title_en": "OpenRouter is Joining Stripe",
+          "title_original": "OpenRouter is Joining Stripe",
+          "summary": "OpenRouter 宣布与 Stripe 合并，以加速推动全球经济增长。OpenRouter 目前每日处理来自 400 多个 AI 模型的 10+ 万亿 token，服务超 1000 万开发者与公司，自成立以来推理量每年至少增长 10 倍。合并后 OpenRouter 将继续以原名、原使命独立运营，产品与路线图不变，路由决策仍以用户利益为先，交易预计在未来数周内完成。",
+          "summary_ja": "OpenRouter は、世界経済の成長を加速するために Stripe との合併を発表しました。 OpenRouter は現在、400 を超える AI モデルから毎日 10 兆を超えるトークンを処理し、1,000 万を超える開発者や企業にサービスを提供しており、その推論量は設立以来、毎年少なくとも 10 倍に増加しています。合併後、OpenRouter は元の名前と使命の下で引き続き独立して運営されます。その製品とロードマップは変わりません。ルーティングの決定は、引き続きユーザーの関心に基づいて行われます。この取引は今後数週間以内に完了する予定です。",
+          "recommend_reason_zh": null,
+          "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
+          "source": "OpenRouter：Announcements（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-19T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenRouter：Announcements（RSS）"
+      ],
+      "items": [
+        {
+          "id": "8732726468509cd30f5eab7dae15d780f21dcdde",
+          "title": "OpenRouter 宣布加入 Stripe / OpenRouter is Joining Stripe",
+          "title_zh": "OpenRouter 宣布加入 Stripe",
+          "title_ja": "OpenRouter が Stripe に参加",
+          "title_en": "OpenRouter is Joining Stripe",
+          "title_original": "OpenRouter is Joining Stripe",
+          "summary": "OpenRouter 宣布与 Stripe 合并，以加速推动全球经济增长。OpenRouter 目前每日处理来自 400 多个 AI 模型的 10+ 万亿 token，服务超 1000 万开发者与公司，自成立以来推理量每年至少增长 10 倍。合并后 OpenRouter 将继续以原名、原使命独立运营，产品与路线图不变，路由决策仍以用户利益为先，交易预计在未来数周内完成。",
+          "summary_ja": "OpenRouter は、世界経済の成長を加速するために Stripe との合併を発表しました。 OpenRouter は現在、400 を超える AI モデルから毎日 10 兆を超えるトークンを処理し、1,000 万を超える開発者や企業にサービスを提供しており、その推論量は設立以来、毎年少なくとも 10 倍に増加しています。合併後、OpenRouter は元の名前と使命の下で引き続き独立して運営されます。その製品とロードマップは変わりません。ルーティングの決定は、引き続きユーザーの関心に基づいて行われます。この取引は今後数週間以内に完了する予定です。",
+          "recommend_reason_zh": null,
+          "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
+          "source": "OpenRouter：Announcements（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-19T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7247,
+      "importance": 0.7247,
+      "importance_score": 0.7247,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7616,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-19T00:00:00Z",
+      "latest_at": "2026-08-19T00:00:00Z",
+      "primary_item": {
+        "id": "8732726468509cd30f5eab7dae15d780f21dcdde",
+        "title": "OpenRouter 宣布加入 Stripe / OpenRouter is Joining Stripe",
+        "title_zh": "OpenRouter 宣布加入 Stripe",
+        "title_ja": "OpenRouter が Stripe に参加",
+        "title_en": "OpenRouter is Joining Stripe",
+        "title_original": "OpenRouter is Joining Stripe",
+        "summary": "OpenRouter 宣布与 Stripe 合并，以加速推动全球经济增长。OpenRouter 目前每日处理来自 400 多个 AI 模型的 10+ 万亿 token，服务超 1000 万开发者与公司，自成立以来推理量每年至少增长 10 倍。合并后 OpenRouter 将继续以原名、原使命独立运营，产品与路线图不变，路由决策仍以用户利益为先，交易预计在未来数周内完成。",
+        "summary_ja": "OpenRouter は、世界経済の成長を加速するために Stripe との合併を発表しました。 OpenRouter は現在、400 を超える AI モデルから毎日 10 兆を超えるトークンを処理し、1,000 万を超える開発者や企業にサービスを提供しており、その推論量は設立以来、毎年少なくとも 10 倍に増加しています。合併後、OpenRouter は元の名前と使命の下で引き続き独立して運営されます。その製品とロードマップは変わりません。ルーティングの決定は、引き続きユーザーの関心に基づいて行われます。この取引は今後数週間以内に完了する予定です。",
+        "recommend_reason_zh": null,
+        "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
+        "source": "OpenRouter：Announcements（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-19T18:52:20.872908Z"
       }
     },
     {
@@ -1384,16 +1438,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7235,
-      "importance": 0.7235,
-      "importance_score": 0.7235,
+      "score": 0.7212,
+      "importance": 0.7212,
+      "importance_score": 0.7212,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7327,
+        "recency": 0.7199,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1421,7 +1475,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T17:40:45.219766Z"
+        "scored_at": "2026-08-19T18:52:20.872908Z"
       }
     },
     {
@@ -1474,22 +1528,21 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7505,
-      "importance": 0.7505,
-      "importance_score": 0.7505,
+      "score": 0.7477,
+      "importance": 0.7477,
+      "importance_score": 0.7477,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9053,
+        "recency": 0.8895,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-19T10:44:53.159771Z",
       "latest_at": "2026-08-19T10:44:53.159771Z",
@@ -1511,7 +1564,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T17:40:45.219766Z"
+        "scored_at": "2026-08-19T18:52:20.872908Z"
       }
     },
     {
@@ -1564,16 +1617,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8018,
-      "importance": 0.8018,
-      "importance_score": 0.8018,
+      "score": 0.7995,
+      "importance": 0.7995,
+      "importance_score": 0.7995,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7211,
+        "recency": 0.7086,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1602,7 +1655,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T17:40:45.219766Z"
+        "scored_at": "2026-08-19T18:52:20.872908Z"
       }
     },
     {
@@ -1655,16 +1708,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7462,
-      "importance": 0.7462,
-      "importance_score": 0.7462,
+      "score": 0.7434,
+      "importance": 0.7434,
+      "importance_score": 0.7434,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8812,
+        "recency": 0.8658,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1691,7 +1744,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T17:40:45.219766Z"
+        "scored_at": "2026-08-19T18:52:20.872908Z"
       }
     },
     {
@@ -1744,16 +1797,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7439,
-      "importance": 0.7439,
-      "importance_score": 0.7439,
+      "score": 0.7412,
+      "importance": 0.7412,
+      "importance_score": 0.7412,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8684,
+        "recency": 0.8533,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1780,96 +1833,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T17:40:45.219766Z"
-      }
-    },
-    {
-      "story_id": "story_98aa2734f33e",
-      "title": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
-      "title_ja": "クロード・コードのクォータボーナスが延長され、Anthropic は 50% 増加を長期計画に変える可能性がある",
-      "url": "https://www.aibase.com/news/30469",
-      "primary_url": "https://www.aibase.com/news/30469",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e259b42ca40193b533c06c789a21a62a1affb1f3",
-          "title": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
-          "title_zh": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
-          "title_ja": "クロード・コードのクォータボーナスが延長され、Anthropic は 50% 増加を長期計画に変える可能性がある",
-          "title_en": null,
-          "title_original": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30469",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-19T07:52:16.238111Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "e259b42ca40193b533c06c789a21a62a1affb1f3",
-          "title": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
-          "title_zh": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
-          "title_ja": "クロード・コードのクォータボーナスが延長され、Anthropic は 50% 増加を長期計画に変える可能性がある",
-          "title_en": null,
-          "title_original": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30469",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-19T07:52:16.238111Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7439,
-      "importance": 0.7439,
-      "importance_score": 0.7439,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8684,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-19T07:52:16.238111Z",
-      "latest_at": "2026-08-19T07:52:16.238111Z",
-      "primary_item": {
-        "id": "e259b42ca40193b533c06c789a21a62a1affb1f3",
-        "title": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
-        "title_zh": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
-        "title_ja": "クロード・コードのクォータボーナスが延長され、Anthropic は 50% 増加を長期計画に変える可能性がある",
-        "title_en": null,
-        "title_original": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30469",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-19T17:40:45.219766Z"
+        "scored_at": "2026-08-19T18:52:20.872908Z"
       }
     }
   ]
