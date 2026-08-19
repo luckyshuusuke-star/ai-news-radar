@@ -1,8 +1,99 @@
 {
-  "generated_at": "2026-08-19T16:45:00.397533Z",
+  "generated_at": "2026-08-19T17:38:23.992141Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_6f961ee70bee",
+      "title": "为前沿模型提供零数据保留 / Offering Zero Data Retention for frontier models",
+      "title_ja": "フロンティアモデル向けにゼロデータ保持を提供",
+      "url": "https://openai.com/index/our-commitment-to-zero-data-retention",
+      "primary_url": "https://openai.com/index/our-commitment-to-zero-data-retention",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "46965e823de9b7acb79bd178929f626ff0a15306",
+          "title": "为前沿模型提供零数据保留 / Offering Zero Data Retention for frontier models",
+          "title_zh": "为前沿模型提供零数据保留",
+          "title_ja": "フロンティアモデル向けにゼロデータ保持を提供",
+          "title_en": "Offering Zero Data Retention for frontier models",
+          "title_original": "Offering Zero Data Retention for frontier models",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/our-commitment-to-zero-data-retention",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-19T19:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "46965e823de9b7acb79bd178929f626ff0a15306",
+          "title": "为前沿模型提供零数据保留 / Offering Zero Data Retention for frontier models",
+          "title_zh": "为前沿模型提供零数据保留",
+          "title_ja": "フロンティアモデル向けにゼロデータ保持を提供",
+          "title_en": "Offering Zero Data Retention for frontier models",
+          "title_original": "Offering Zero Data Retention for frontier models",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/our-commitment-to-zero-data-retention",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-19T19:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.852,
+      "importance": 0.852,
+      "importance_score": 0.852,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-19T17:38:23.992141Z",
+      "latest_at": "2026-08-19T17:38:23.992141Z",
+      "primary_item": {
+        "id": "46965e823de9b7acb79bd178929f626ff0a15306",
+        "title": "为前沿模型提供零数据保留 / Offering Zero Data Retention for frontier models",
+        "title_zh": "为前沿模型提供零数据保留",
+        "title_ja": "フロンティアモデル向けにゼロデータ保持を提供",
+        "title_en": "Offering Zero Data Retention for frontier models",
+        "title_original": "Offering Zero Data Retention for frontier models",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/our-commitment-to-zero-data-retention",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-19T17:40:45.219766Z"
+      }
+    },
     {
       "story_id": "story_be580d9263f2",
       "title": "Liquid AI 发布 LFM2.5 系列 QAD Q4_0 量化检查点，恢复 97% 精度损失 / LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
@@ -53,16 +144,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8525,
-      "importance": 0.8525,
-      "importance_score": 0.8525,
+      "score": 0.8503,
+      "importance": 0.8503,
+      "importance_score": 0.8503,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9585,
+        "recency": 0.9462,
         "story_heat": 0.0
       },
       "category": "official",
@@ -91,98 +182,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T16:45:54.075812Z"
-      }
-    },
-    {
-      "story_id": "story_fe9df585279b",
-      "title": "Replit 使用 GPT-5.6 Luna 扩展了软件创建的范围 / Replit expands access to software creation with GPT-5.6 Luna",
-      "title_ja": "Replit、GPT-5.6 Luna によるソフトウェア作成へのアクセスを拡大",
-      "url": "https://openai.com/index/replit",
-      "primary_url": "https://openai.com/index/replit",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d71879ede3f1afde8a969f61c2b4f4fabe2c6ba5",
-          "title": "Replit 使用 GPT-5.6 Luna 扩展了软件创建的范围 / Replit expands access to software creation with GPT-5.6 Luna",
-          "title_zh": "Replit 使用 GPT-5.6 Luna 扩展了软件创建的范围",
-          "title_ja": "Replit、GPT-5.6 Luna によるソフトウェア作成へのアクセスを拡大",
-          "title_en": "Replit expands access to software creation with GPT-5.6 Luna",
-          "title_original": "Replit expands access to software creation with GPT-5.6 Luna",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/replit",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-19T07:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "d71879ede3f1afde8a969f61c2b4f4fabe2c6ba5",
-          "title": "Replit 使用 GPT-5.6 Luna 扩展了软件创建的范围 / Replit expands access to software creation with GPT-5.6 Luna",
-          "title_zh": "Replit 使用 GPT-5.6 Luna 扩展了软件创建的范围",
-          "title_ja": "Replit、GPT-5.6 Luna によるソフトウェア作成へのアクセスを拡大",
-          "title_en": "Replit expands access to software creation with GPT-5.6 Luna",
-          "title_original": "Replit expands access to software creation with GPT-5.6 Luna",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/replit",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-19T07:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8364,
-      "importance": 0.8364,
-      "importance_score": 0.8364,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8687,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-19T07:00:00Z",
-      "latest_at": "2026-08-19T07:00:00Z",
-      "primary_item": {
-        "id": "d71879ede3f1afde8a969f61c2b4f4fabe2c6ba5",
-        "title": "Replit 使用 GPT-5.6 Luna 扩展了软件创建的范围 / Replit expands access to software creation with GPT-5.6 Luna",
-        "title_zh": "Replit 使用 GPT-5.6 Luna 扩展了软件创建的范围",
-        "title_ja": "Replit、GPT-5.6 Luna によるソフトウェア作成へのアクセスを拡大",
-        "title_en": "Replit expands access to software creation with GPT-5.6 Luna",
-        "title_original": "Replit expands access to software creation with GPT-5.6 Luna",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/replit",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-19T16:45:54.075812Z"
+        "scored_at": "2026-08-19T17:40:45.219766Z"
       }
     },
     {
@@ -235,16 +235,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8344,
-      "importance": 0.8344,
-      "importance_score": 0.8344,
+      "score": 0.8322,
+      "importance": 0.8322,
+      "importance_score": 0.8322,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9466,
+        "recency": 0.9345,
         "story_heat": 0.0
       },
       "category": "official",
@@ -273,7 +273,98 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T16:45:54.075812Z"
+        "scored_at": "2026-08-19T17:40:45.219766Z"
+      }
+    },
+    {
+      "story_id": "story_fe9df585279b",
+      "title": "Replit 使用 GPT-5.6 Luna 扩展了软件创建的范围 / Replit expands access to software creation with GPT-5.6 Luna",
+      "title_ja": "Replit、GPT-5.6 Luna によるソフトウェア作成へのアクセスを拡大",
+      "url": "https://openai.com/index/replit",
+      "primary_url": "https://openai.com/index/replit",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d71879ede3f1afde8a969f61c2b4f4fabe2c6ba5",
+          "title": "Replit 使用 GPT-5.6 Luna 扩展了软件创建的范围 / Replit expands access to software creation with GPT-5.6 Luna",
+          "title_zh": "Replit 使用 GPT-5.6 Luna 扩展了软件创建的范围",
+          "title_ja": "Replit、GPT-5.6 Luna によるソフトウェア作成へのアクセスを拡大",
+          "title_en": "Replit expands access to software creation with GPT-5.6 Luna",
+          "title_original": "Replit expands access to software creation with GPT-5.6 Luna",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/replit",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-19T07:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "d71879ede3f1afde8a969f61c2b4f4fabe2c6ba5",
+          "title": "Replit 使用 GPT-5.6 Luna 扩展了软件创建的范围 / Replit expands access to software creation with GPT-5.6 Luna",
+          "title_zh": "Replit 使用 GPT-5.6 Luna 扩展了软件创建的范围",
+          "title_ja": "Replit、GPT-5.6 Luna によるソフトウェア作成へのアクセスを拡大",
+          "title_en": "Replit expands access to software creation with GPT-5.6 Luna",
+          "title_original": "Replit expands access to software creation with GPT-5.6 Luna",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/replit",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-19T07:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8344,
+      "importance": 0.8344,
+      "importance_score": 0.8344,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8576,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-19T07:00:00Z",
+      "latest_at": "2026-08-19T07:00:00Z",
+      "primary_item": {
+        "id": "d71879ede3f1afde8a969f61c2b4f4fabe2c6ba5",
+        "title": "Replit 使用 GPT-5.6 Luna 扩展了软件创建的范围 / Replit expands access to software creation with GPT-5.6 Luna",
+        "title_zh": "Replit 使用 GPT-5.6 Luna 扩展了软件创建的范围",
+        "title_ja": "Replit、GPT-5.6 Luna によるソフトウェア作成へのアクセスを拡大",
+        "title_en": "Replit expands access to software creation with GPT-5.6 Luna",
+        "title_original": "Replit expands access to software creation with GPT-5.6 Luna",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/replit",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-19T17:40:45.219766Z"
       }
     },
     {
@@ -359,16 +450,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8349,
-      "importance": 0.8349,
-      "importance_score": 0.8349,
+      "score": 0.8332,
+      "importance": 0.8332,
+      "importance_score": 0.8332,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7217,
+        "recency": 0.7124,
         "story_heat": 0.25
       },
       "category": "official",
@@ -398,98 +489,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T16:45:54.075812Z"
-      }
-    },
-    {
-      "story_id": "story_2766b33897bf",
-      "title": "ChatGPT 广告扩展到整个欧洲 / ChatGPT Ads expands across Europe",
-      "title_ja": "ChatGPT 広告がヨーロッパ全土に拡大",
-      "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
-      "primary_url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "3373e5b71d44d2fb2c9adfe68ac3d16edc5d3a01",
-          "title": "ChatGPT 广告扩展到整个欧洲 / ChatGPT Ads expands across Europe",
-          "title_zh": "ChatGPT 广告扩展到整个欧洲",
-          "title_ja": "ChatGPT 広告がヨーロッパ全土に拡大",
-          "title_en": "ChatGPT Ads expands across Europe",
-          "title_original": "ChatGPT Ads expands across Europe",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-18T22:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "3373e5b71d44d2fb2c9adfe68ac3d16edc5d3a01",
-          "title": "ChatGPT 广告扩展到整个欧洲 / ChatGPT Ads expands across Europe",
-          "title_zh": "ChatGPT 广告扩展到整个欧洲",
-          "title_ja": "ChatGPT 広告がヨーロッパ全土に拡大",
-          "title_en": "ChatGPT Ads expands across Europe",
-          "title_original": "ChatGPT Ads expands across Europe",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-18T22:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8173,
-      "importance": 0.8173,
-      "importance_score": 0.8173,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7628,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-18T22:00:00Z",
-      "latest_at": "2026-08-18T22:00:00Z",
-      "primary_item": {
-        "id": "3373e5b71d44d2fb2c9adfe68ac3d16edc5d3a01",
-        "title": "ChatGPT 广告扩展到整个欧洲 / ChatGPT Ads expands across Europe",
-        "title_zh": "ChatGPT 广告扩展到整个欧洲",
-        "title_ja": "ChatGPT 広告がヨーロッパ全土に拡大",
-        "title_en": "ChatGPT Ads expands across Europe",
-        "title_original": "ChatGPT Ads expands across Europe",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-19T16:45:54.075812Z"
+        "scored_at": "2026-08-19T17:40:45.219766Z"
       }
     },
     {
@@ -542,16 +542,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8124,
-      "importance": 0.8124,
-      "importance_score": 0.8124,
+      "score": 0.8106,
+      "importance": 0.8106,
+      "importance_score": 0.8106,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7801,
+        "recency": 0.7701,
         "story_heat": 0.0
       },
       "category": "official",
@@ -580,7 +580,98 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T16:45:54.075812Z"
+        "scored_at": "2026-08-19T17:40:45.219766Z"
+      }
+    },
+    {
+      "story_id": "story_2766b33897bf",
+      "title": "ChatGPT 广告扩展到整个欧洲 / ChatGPT Ads expands across Europe",
+      "title_ja": "ChatGPT 広告がヨーロッパ全土に拡大",
+      "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+      "primary_url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "3373e5b71d44d2fb2c9adfe68ac3d16edc5d3a01",
+          "title": "ChatGPT 广告扩展到整个欧洲 / ChatGPT Ads expands across Europe",
+          "title_zh": "ChatGPT 广告扩展到整个欧洲",
+          "title_ja": "ChatGPT 広告がヨーロッパ全土に拡大",
+          "title_en": "ChatGPT Ads expands across Europe",
+          "title_original": "ChatGPT Ads expands across Europe",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T22:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "3373e5b71d44d2fb2c9adfe68ac3d16edc5d3a01",
+          "title": "ChatGPT 广告扩展到整个欧洲 / ChatGPT Ads expands across Europe",
+          "title_zh": "ChatGPT 广告扩展到整个欧洲",
+          "title_ja": "ChatGPT 広告がヨーロッパ全土に拡大",
+          "title_en": "ChatGPT Ads expands across Europe",
+          "title_original": "ChatGPT Ads expands across Europe",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T22:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8156,
+      "importance": 0.8156,
+      "importance_score": 0.8156,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7531,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-18T22:00:00Z",
+      "latest_at": "2026-08-18T22:00:00Z",
+      "primary_item": {
+        "id": "3373e5b71d44d2fb2c9adfe68ac3d16edc5d3a01",
+        "title": "ChatGPT 广告扩展到整个欧洲 / ChatGPT Ads expands across Europe",
+        "title_zh": "ChatGPT 广告扩展到整个欧洲",
+        "title_ja": "ChatGPT 広告がヨーロッパ全土に拡大",
+        "title_en": "ChatGPT Ads expands across Europe",
+        "title_original": "ChatGPT Ads expands across Europe",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-19T17:40:45.219766Z"
       }
     },
     {
@@ -633,16 +724,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
+      "score": 0.7505,
+      "importance": 0.7505,
+      "importance_score": 0.7505,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.917,
+        "recency": 0.9053,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -670,7 +761,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T16:45:54.075812Z"
+        "scored_at": "2026-08-19T17:40:45.219766Z"
       }
     },
     {
@@ -723,16 +814,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7521,
-      "importance": 0.7521,
-      "importance_score": 0.7521,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7972,
+        "recency": 0.7871,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -760,98 +851,96 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T16:45:54.075812Z"
+        "scored_at": "2026-08-19T17:40:45.219766Z"
       }
     },
     {
-      "story_id": "story_17c97873294f",
-      "title": "加强国家安全民主监督 / Strengthening democratic oversight in national security",
-      "title_ja": "国家安全保障における民主的監視の強化",
-      "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-      "primary_url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_0151b8de64e8",
+      "title": "OpenRouter 加入 Stripe 加速多模型使命 / OpenRouter is joining Stripe. We started OpenRouter with a simple mission： intelligence should be m…",
+      "title_ja": "OpenRouter が Stripe に参加します。私たちは単純な使命を持って OpenRouter を開始しました: インテリジェンスは…",
+      "url": "https://x.com/OpenRouter/status/2090127246430216403",
+      "primary_url": "https://x.com/OpenRouter/status/2090127246430216403",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "0c27098fe00776484fc7428d7541fc78ed2ed378",
-          "title": "加强国家安全民主监督 / Strengthening democratic oversight in national security",
-          "title_zh": "加强国家安全民主监督",
-          "title_ja": "国家安全保障における民主的監視の強化",
-          "title_en": "Strengthening democratic oversight in national security",
-          "title_original": "Strengthening democratic oversight in national security",
-          "summary": null,
-          "summary_ja": null,
+          "id": "a3b0f3289268c53b32dae7345a5e0667e7af2f0b",
+          "title": "OpenRouter 加入 Stripe 加速多模型使命 / OpenRouter is joining Stripe. We started OpenRouter with a simple mission： intelligence should be m…",
+          "title_zh": "OpenRouter 加入 Stripe 加速多模型使命",
+          "title_ja": "OpenRouter が Stripe に参加します。私たちは単純な使命を持って OpenRouter を開始しました: インテリジェンスは…",
+          "title_en": "OpenRouter is joining Stripe. We started OpenRouter with a simple mission： intelligence should be m…",
+          "title_original": "OpenRouter is joining Stripe. We started OpenRouter with a simple mission： intelligence should be m…",
+          "summary": "OpenRouter 正在加入 Stripe。\n\n我们创立 OpenRouter 时怀揣一个简单的使命：智能应当是多元模型的。如今，我们是最大的 AI 市场与网关，每天在 400 多个模型上处理 10T+ token。\n\n加入 @Stripe 让我们有机会加速这一使命。",
+          "summary_ja": "OpenRouter が Stripe に参加します。\n\n私たちは、インテリジェンスはマルチモデルでなければならないというシンプルな使命を持って OpenRouter を設立しました。現在、当社は最大の AI マーケットプレイスおよびゲートウェイであり、毎日 400 を超えるモデルで 10T 以上のトークンを処理しています。\n\n@Stripe に参加することで、この使命を加速する機会が得られます。",
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-18T19:00:00Z"
+          "url": "https://x.com/OpenRouter/status/2090127246430216403",
+          "source": "X：OpenRouter (@OpenRouter)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-19T17:22:22Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "X：OpenRouter (@OpenRouter)"
       ],
       "items": [
         {
-          "id": "0c27098fe00776484fc7428d7541fc78ed2ed378",
-          "title": "加强国家安全民主监督 / Strengthening democratic oversight in national security",
-          "title_zh": "加强国家安全民主监督",
-          "title_ja": "国家安全保障における民主的監視の強化",
-          "title_en": "Strengthening democratic oversight in national security",
-          "title_original": "Strengthening democratic oversight in national security",
-          "summary": null,
-          "summary_ja": null,
+          "id": "a3b0f3289268c53b32dae7345a5e0667e7af2f0b",
+          "title": "OpenRouter 加入 Stripe 加速多模型使命 / OpenRouter is joining Stripe. We started OpenRouter with a simple mission： intelligence should be m…",
+          "title_zh": "OpenRouter 加入 Stripe 加速多模型使命",
+          "title_ja": "OpenRouter が Stripe に参加します。私たちは単純な使命を持って OpenRouter を開始しました: インテリジェンスは…",
+          "title_en": "OpenRouter is joining Stripe. We started OpenRouter with a simple mission： intelligence should be m…",
+          "title_original": "OpenRouter is joining Stripe. We started OpenRouter with a simple mission： intelligence should be m…",
+          "summary": "OpenRouter 正在加入 Stripe。\n\n我们创立 OpenRouter 时怀揣一个简单的使命：智能应当是多元模型的。如今，我们是最大的 AI 市场与网关，每天在 400 多个模型上处理 10T+ token。\n\n加入 @Stripe 让我们有机会加速这一使命。",
+          "summary_ja": "OpenRouter が Stripe に参加します。\n\n私たちは、インテリジェンスはマルチモデルでなければならないというシンプルな使命を持って OpenRouter を設立しました。現在、当社は最大の AI マーケットプレイスおよびゲートウェイであり、毎日 400 を超えるモデルで 10T 以上のトークンを処理しています。\n\n@Stripe に参加することで、この使命を加速する機会が得られます。",
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-18T19:00:00Z"
+          "url": "https://x.com/OpenRouter/status/2090127246430216403",
+          "source": "X：OpenRouter (@OpenRouter)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-19T17:22:22Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8035,
-      "importance": 0.8035,
-      "importance_score": 0.8035,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
+      "score": 0.7459,
+      "importance": 0.7459,
+      "importance_score": 0.7459,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7305,
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9961,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-18T19:00:00Z",
-      "latest_at": "2026-08-18T19:00:00Z",
+      "earliest_at": "2026-08-19T17:22:22Z",
+      "latest_at": "2026-08-19T17:22:22Z",
       "primary_item": {
-        "id": "0c27098fe00776484fc7428d7541fc78ed2ed378",
-        "title": "加强国家安全民主监督 / Strengthening democratic oversight in national security",
-        "title_zh": "加强国家安全民主监督",
-        "title_ja": "国家安全保障における民主的監視の強化",
-        "title_en": "Strengthening democratic oversight in national security",
-        "title_original": "Strengthening democratic oversight in national security",
-        "summary": null,
-        "summary_ja": null,
+        "id": "a3b0f3289268c53b32dae7345a5e0667e7af2f0b",
+        "title": "OpenRouter 加入 Stripe 加速多模型使命 / OpenRouter is joining Stripe. We started OpenRouter with a simple mission： intelligence should be m…",
+        "title_zh": "OpenRouter 加入 Stripe 加速多模型使命",
+        "title_ja": "OpenRouter が Stripe に参加します。私たちは単純な使命を持って OpenRouter を開始しました: インテリジェンスは…",
+        "title_en": "OpenRouter is joining Stripe. We started OpenRouter with a simple mission： intelligence should be m…",
+        "title_original": "OpenRouter is joining Stripe. We started OpenRouter with a simple mission： intelligence should be m…",
+        "summary": "OpenRouter 正在加入 Stripe。\n\n我们创立 OpenRouter 时怀揣一个简单的使命：智能应当是多元模型的。如今，我们是最大的 AI 市场与网关，每天在 400 多个模型上处理 10T+ token。\n\n加入 @Stripe 让我们有机会加速这一使命。",
+        "summary_ja": "OpenRouter が Stripe に参加します。\n\n私たちは、インテリジェンスはマルチモデルでなければならないというシンプルな使命を持って OpenRouter を設立しました。現在、当社は最大の AI マーケットプレイスおよびゲートウェイであり、毎日 400 を超えるモデルで 10T 以上のトークンを処理しています。\n\n@Stripe に参加することで、この使命を加速する機会が得られます。",
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "url": "https://x.com/OpenRouter/status/2090127246430216403",
+        "source": "X：OpenRouter (@OpenRouter)",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T16:45:54.075812Z"
+        "scored_at": "2026-08-19T17:40:45.219766Z"
       }
     },
     {
@@ -904,16 +993,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8012,
-      "importance": 0.8012,
-      "importance_score": 0.8012,
+      "score": 0.7995,
+      "importance": 0.7995,
+      "importance_score": 0.7995,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7623,
+        "recency": 0.7526,
         "story_heat": 0.0
       },
       "category": "official",
@@ -942,7 +1031,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T16:45:54.075812Z"
+        "scored_at": "2026-08-19T17:40:45.219766Z"
       }
     },
     {
@@ -995,16 +1084,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7298,
-      "importance": 0.7298,
-      "importance_score": 0.7298,
+      "score": 0.728,
+      "importance": 0.728,
+      "importance_score": 0.728,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7566,
+        "recency": 0.7469,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1031,7 +1120,96 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T16:45:54.075812Z"
+        "scored_at": "2026-08-19T17:40:45.219766Z"
+      }
+    },
+    {
+      "story_id": "story_5de36c6f8e14",
+      "title": "OpenRouter 宣布加入 Stripe / OpenRouter is Joining Stripe",
+      "title_ja": "OpenRouter が Stripe に参加",
+      "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
+      "primary_url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
+      "source": "OpenRouter：Announcements（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8732726468509cd30f5eab7dae15d780f21dcdde",
+          "title": "OpenRouter 宣布加入 Stripe / OpenRouter is Joining Stripe",
+          "title_zh": "OpenRouter 宣布加入 Stripe",
+          "title_ja": "OpenRouter が Stripe に参加",
+          "title_en": "OpenRouter is Joining Stripe",
+          "title_original": "OpenRouter is Joining Stripe",
+          "summary": "OpenRouter 宣布与 Stripe 合并，以加速推动全球经济增长。OpenRouter 目前每日处理来自 400 多个 AI 模型的 10+ 万亿 token，服务超 1000 万开发者与公司，自成立以来推理量每年至少增长 10 倍。合并后 OpenRouter 将继续以原名、原使命独立运营，产品与路线图不变，路由决策仍以用户利益为先，交易预计在未来数周内完成。",
+          "summary_ja": "OpenRouter は、世界経済の成長を加速するために Stripe との合併を発表しました。 OpenRouter は現在、400 を超える AI モデルから毎日 10 兆を超えるトークンを処理し、1,000 万を超える開発者や企業にサービスを提供しており、その推論量は設立以来、毎年少なくとも 10 倍に増加しています。合併後、OpenRouter は元の名前と使命の下で引き続き独立して運営されます。その製品とロードマップは変わりません。ルーティングの決定は、引き続きユーザーの関心に基づいて行われます。この取引は今後数週間以内に完了する予定です。",
+          "recommend_reason_zh": null,
+          "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
+          "source": "OpenRouter：Announcements（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-19T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenRouter：Announcements（RSS）"
+      ],
+      "items": [
+        {
+          "id": "8732726468509cd30f5eab7dae15d780f21dcdde",
+          "title": "OpenRouter 宣布加入 Stripe / OpenRouter is Joining Stripe",
+          "title_zh": "OpenRouter 宣布加入 Stripe",
+          "title_ja": "OpenRouter が Stripe に参加",
+          "title_en": "OpenRouter is Joining Stripe",
+          "title_original": "OpenRouter is Joining Stripe",
+          "summary": "OpenRouter 宣布与 Stripe 合并，以加速推动全球经济增长。OpenRouter 目前每日处理来自 400 多个 AI 模型的 10+ 万亿 token，服务超 1000 万开发者与公司，自成立以来推理量每年至少增长 10 倍。合并后 OpenRouter 将继续以原名、原使命独立运营，产品与路线图不变，路由决策仍以用户利益为先，交易预计在未来数周内完成。",
+          "summary_ja": "OpenRouter は、世界経済の成長を加速するために Stripe との合併を発表しました。 OpenRouter は現在、400 を超える AI モデルから毎日 10 兆を超えるトークンを処理し、1,000 万を超える開発者や企業にサービスを提供しており、その推論量は設立以来、毎年少なくとも 10 倍に増加しています。合併後、OpenRouter は元の名前と使命の下で引き続き独立して運営されます。その製品とロードマップは変わりません。ルーティングの決定は、引き続きユーザーの関心に基づいて行われます。この取引は今後数週間以内に完了する予定です。",
+          "recommend_reason_zh": null,
+          "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
+          "source": "OpenRouter：Announcements（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-19T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7271,
+      "importance": 0.7271,
+      "importance_score": 0.7271,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7751,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-19T00:00:00Z",
+      "latest_at": "2026-08-19T00:00:00Z",
+      "primary_item": {
+        "id": "8732726468509cd30f5eab7dae15d780f21dcdde",
+        "title": "OpenRouter 宣布加入 Stripe / OpenRouter is Joining Stripe",
+        "title_zh": "OpenRouter 宣布加入 Stripe",
+        "title_ja": "OpenRouter が Stripe に参加",
+        "title_en": "OpenRouter is Joining Stripe",
+        "title_original": "OpenRouter is Joining Stripe",
+        "summary": "OpenRouter 宣布与 Stripe 合并，以加速推动全球经济增长。OpenRouter 目前每日处理来自 400 多个 AI 模型的 10+ 万亿 token，服务超 1000 万开发者与公司，自成立以来推理量每年至少增长 10 倍。合并后 OpenRouter 将继续以原名、原使命独立运营，产品与路线图不变，路由决策仍以用户利益为先，交易预计在未来数周内完成。",
+        "summary_ja": "OpenRouter は、世界経済の成長を加速するために Stripe との合併を発表しました。 OpenRouter は現在、400 を超える AI モデルから毎日 10 兆を超えるトークンを処理し、1,000 万を超える開発者や企業にサービスを提供しており、その推論量は設立以来、毎年少なくとも 10 倍に増加しています。合併後、OpenRouter は元の名前と使命の下で引き続き独立して運営されます。その製品とロードマップは変わりません。ルーティングの決定は、引き続きユーザーの関心に基づいて行われます。この取引は今後数週間以内に完了する予定です。",
+        "recommend_reason_zh": null,
+        "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
+        "source": "OpenRouter：Announcements（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-19T17:40:45.219766Z"
       }
     },
     {
@@ -1084,16 +1262,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7288,
-      "importance": 0.7288,
-      "importance_score": 0.7288,
+      "score": 0.727,
+      "importance": 0.727,
+      "importance_score": 0.727,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7678,
+        "recency": 0.758,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1120,7 +1298,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T16:45:54.075812Z"
+        "scored_at": "2026-08-19T17:40:45.219766Z"
       }
     },
     {
@@ -1206,16 +1384,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7252,
-      "importance": 0.7252,
-      "importance_score": 0.7252,
+      "score": 0.7235,
+      "importance": 0.7235,
+      "importance_score": 0.7235,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7422,
+        "recency": 0.7327,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1243,7 +1421,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T16:45:54.075812Z"
+        "scored_at": "2026-08-19T17:40:45.219766Z"
       }
     },
     {
@@ -1296,16 +1474,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
+      "score": 0.7505,
+      "importance": 0.7505,
+      "importance_score": 0.7505,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.917,
+        "recency": 0.9053,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1333,7 +1511,98 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T16:45:54.075812Z"
+        "scored_at": "2026-08-19T17:40:45.219766Z"
+      }
+    },
+    {
+      "story_id": "story_17c97873294f",
+      "title": "加强国家安全民主监督 / Strengthening democratic oversight in national security",
+      "title_ja": "国家安全保障における民主的監視の強化",
+      "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+      "primary_url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "0c27098fe00776484fc7428d7541fc78ed2ed378",
+          "title": "加强国家安全民主监督 / Strengthening democratic oversight in national security",
+          "title_zh": "加强国家安全民主监督",
+          "title_ja": "国家安全保障における民主的監視の強化",
+          "title_en": "Strengthening democratic oversight in national security",
+          "title_original": "Strengthening democratic oversight in national security",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T19:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "0c27098fe00776484fc7428d7541fc78ed2ed378",
+          "title": "加强国家安全民主监督 / Strengthening democratic oversight in national security",
+          "title_zh": "加强国家安全民主监督",
+          "title_ja": "国家安全保障における民主的監視の強化",
+          "title_en": "Strengthening democratic oversight in national security",
+          "title_original": "Strengthening democratic oversight in national security",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T19:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8018,
+      "importance": 0.8018,
+      "importance_score": 0.8018,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7211,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-18T19:00:00Z",
+      "latest_at": "2026-08-18T19:00:00Z",
+      "primary_item": {
+        "id": "0c27098fe00776484fc7428d7541fc78ed2ed378",
+        "title": "加强国家安全民主监督 / Strengthening democratic oversight in national security",
+        "title_zh": "加强国家安全民主监督",
+        "title_ja": "国家安全保障における民主的監視の強化",
+        "title_en": "Strengthening democratic oversight in national security",
+        "title_original": "Strengthening democratic oversight in national security",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-19T17:40:45.219766Z"
       }
     },
     {
@@ -1386,16 +1655,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7483,
-      "importance": 0.7483,
-      "importance_score": 0.7483,
+      "score": 0.7462,
+      "importance": 0.7462,
+      "importance_score": 0.7462,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8926,
+        "recency": 0.8812,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1422,7 +1691,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T16:45:54.075812Z"
+        "scored_at": "2026-08-19T17:40:45.219766Z"
       }
     },
     {
@@ -1475,16 +1744,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7459,
-      "importance": 0.7459,
-      "importance_score": 0.7459,
+      "score": 0.7439,
+      "importance": 0.7439,
+      "importance_score": 0.7439,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8797,
+        "recency": 0.8684,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1511,7 +1780,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T16:45:54.075812Z"
+        "scored_at": "2026-08-19T17:40:45.219766Z"
       }
     },
     {
@@ -1564,16 +1833,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7459,
-      "importance": 0.7459,
-      "importance_score": 0.7459,
+      "score": 0.7439,
+      "importance": 0.7439,
+      "importance_score": 0.7439,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8797,
+        "recency": 0.8684,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1600,340 +1869,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-19T16:45:54.075812Z"
-      }
-    },
-    {
-      "story_id": "story_45688a44d097",
-      "title": "Mozilla升级Firefox智能窗口，新增AI标签管理与网页检索",
-      "title_ja": "Mozilla、Firefox スマート ウィンドウをアップグレードし、AI タグ管理と Web 検索を追加",
-      "url": "https://www.aibase.com/news/30471",
-      "primary_url": "https://www.aibase.com/news/30471",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "64622246d891b2a6212e0aeb4b827582ba1a930f",
-          "title": "Mozilla升级Firefox智能窗口，新增AI标签管理与网页检索",
-          "title_zh": "Mozilla升级Firefox智能窗口，新增AI标签管理与网页检索",
-          "title_ja": "Mozilla、Firefox スマート ウィンドウをアップグレードし、AI タグ管理と Web 検索を追加",
-          "title_en": null,
-          "title_original": "Mozilla升级Firefox智能窗口，新增AI标签管理与网页检索",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30471",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-19T07:52:16.238111Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "64622246d891b2a6212e0aeb4b827582ba1a930f",
-          "title": "Mozilla升级Firefox智能窗口，新增AI标签管理与网页检索",
-          "title_zh": "Mozilla升级Firefox智能窗口，新增AI标签管理与网页检索",
-          "title_ja": "Mozilla、Firefox スマート ウィンドウをアップグレードし、AI タグ管理と Web 検索を追加",
-          "title_en": null,
-          "title_original": "Mozilla升级Firefox智能窗口，新增AI标签管理与网页检索",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30471",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-19T07:52:16.238111Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7459,
-      "importance": 0.7459,
-      "importance_score": 0.7459,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8797,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-19T07:52:16.238111Z",
-      "latest_at": "2026-08-19T07:52:16.238111Z",
-      "primary_item": {
-        "id": "64622246d891b2a6212e0aeb4b827582ba1a930f",
-        "title": "Mozilla升级Firefox智能窗口，新增AI标签管理与网页检索",
-        "title_zh": "Mozilla升级Firefox智能窗口，新增AI标签管理与网页检索",
-        "title_ja": "Mozilla、Firefox スマート ウィンドウをアップグレードし、AI タグ管理と Web 検索を追加",
-        "title_en": null,
-        "title_original": "Mozilla升级Firefox智能窗口，新增AI标签管理与网页检索",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30471",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-19T16:45:54.075812Z"
-      }
-    },
-    {
-      "story_id": "story_2fde9a0593e5",
-      "title": "程序员福利再加码！Anthropic官方宣布Claude Code每周50%额度加成延长至8月31日",
-      "title_ja": "プログラマーにとってさらなるメリット！ Anthropic は、Claude Code の毎週 50% クォータ ボーナスが 8 月 31 日まで延長されることを正式に発表しました",
-      "url": "https://www.aibase.com/news/30472",
-      "primary_url": "https://www.aibase.com/news/30472",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a4d9e9e15ac34e42d19dd60ff2304955299ceb48",
-          "title": "程序员福利再加码！Anthropic官方宣布Claude Code每周50%额度加成延长至8月31日",
-          "title_zh": "程序员福利再加码！Anthropic官方宣布Claude Code每周50%额度加成延长至8月31日",
-          "title_ja": "プログラマーにとってさらなるメリット！ Anthropic は、Claude Code の毎週 50% クォータ ボーナスが 8 月 31 日まで延長されることを正式に発表しました",
-          "title_en": null,
-          "title_original": "程序员福利再加码！Anthropic官方宣布Claude Code每周50%额度加成延长至8月31日",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30472",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-19T07:52:16.238111Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "a4d9e9e15ac34e42d19dd60ff2304955299ceb48",
-          "title": "程序员福利再加码！Anthropic官方宣布Claude Code每周50%额度加成延长至8月31日",
-          "title_zh": "程序员福利再加码！Anthropic官方宣布Claude Code每周50%额度加成延长至8月31日",
-          "title_ja": "プログラマーにとってさらなるメリット！ Anthropic は、Claude Code の毎週 50% クォータ ボーナスが 8 月 31 日まで延長されることを正式に発表しました",
-          "title_en": null,
-          "title_original": "程序员福利再加码！Anthropic官方宣布Claude Code每周50%额度加成延长至8月31日",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30472",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-19T07:52:16.238111Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7459,
-      "importance": 0.7459,
-      "importance_score": 0.7459,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8797,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-19T07:52:16.238111Z",
-      "latest_at": "2026-08-19T07:52:16.238111Z",
-      "primary_item": {
-        "id": "a4d9e9e15ac34e42d19dd60ff2304955299ceb48",
-        "title": "程序员福利再加码！Anthropic官方宣布Claude Code每周50%额度加成延长至8月31日",
-        "title_zh": "程序员福利再加码！Anthropic官方宣布Claude Code每周50%额度加成延长至8月31日",
-        "title_ja": "プログラマーにとってさらなるメリット！ Anthropic は、Claude Code の毎週 50% クォータ ボーナスが 8 月 31 日まで延長されることを正式に発表しました",
-        "title_en": null,
-        "title_original": "程序员福利再加码！Anthropic官方宣布Claude Code每周50%额度加成延长至8月31日",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30472",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-19T16:45:54.075812Z"
-      }
-    },
-    {
-      "story_id": "story_ea98d8ec85c1",
-      "title": "Show HN: 任何 HuggingFace 模型的交互式动画化架构",
-      "title_ja": "HN を表示: あらゆる HuggingFace モデルのインタラクティブ アニメーション アーキテクチャ",
-      "url": "https://modelmap.cc",
-      "primary_url": "https://modelmap.cc",
-      "source": "modelmap.cc",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "bbf9ed8869a84a1686e549eda7323711347e035f",
-          "title": "Show HN: 任何 HuggingFace 模型的交互式动画化架构",
-          "title_zh": "Show HN: 任何 HuggingFace 模型的交互式动画化架构",
-          "title_ja": "HN を表示: あらゆる HuggingFace モデルのインタラクティブ アニメーション アーキテクチャ",
-          "title_en": null,
-          "title_original": "Show HN: 任何 HuggingFace 模型的交互式动画化架构",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://modelmap.cc",
-          "source": "modelmap.cc",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-19T14:46:17.538000Z"
-        },
-        {
-          "id": "b4b67ac97e0642a017c5a559fd2b1aa629d300b6",
-          "title": "Show HN：任何 HuggingFace 模型的交互式动画架构 / Show HN: Interactive, animated architecture of any HuggingFace models",
-          "title_zh": "Show HN：任何 HuggingFace 模型的交互式动画架构",
-          "title_ja": "HN を表示: HuggingFace モデルのインタラクティブなアニメーション アーキテクチャ",
-          "title_en": "Show HN: Interactive, animated architecture of any HuggingFace models",
-          "title_original": "Show HN: Interactive, animated architecture of any HuggingFace models",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49354664",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-19T01:37:37.013000Z"
-        },
-        {
-          "id": "d721d9e46c122042220d433f88afb0e9d639ce21",
-          "title": "Show HN: 任何 HuggingFace 模型的交互式动画化架构 / Show HN: Interactive, animated architecture of any HuggingFace models",
-          "title_zh": "Show HN: 任何 HuggingFace 模型的交互式动画化架构",
-          "title_ja": "HN を表示: HuggingFace モデルのインタラクティブなアニメーション アーキテクチャ",
-          "title_en": "Show HN: Interactive, animated architecture of any HuggingFace models",
-          "title_original": "Show HN: Interactive, animated architecture of any HuggingFace models",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://modelmap.cc",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-18T23:57:36Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "modelmap.cc"
-      ],
-      "items": [
-        {
-          "id": "bbf9ed8869a84a1686e549eda7323711347e035f",
-          "title": "Show HN: 任何 HuggingFace 模型的交互式动画化架构",
-          "title_zh": "Show HN: 任何 HuggingFace 模型的交互式动画化架构",
-          "title_ja": "HN を表示: あらゆる HuggingFace モデルのインタラクティブ アニメーション アーキテクチャ",
-          "title_en": null,
-          "title_original": "Show HN: 任何 HuggingFace 模型的交互式动画化架构",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://modelmap.cc",
-          "source": "modelmap.cc",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-19T14:46:17.538000Z"
-        },
-        {
-          "id": "b4b67ac97e0642a017c5a559fd2b1aa629d300b6",
-          "title": "Show HN：任何 HuggingFace 模型的交互式动画架构 / Show HN: Interactive, animated architecture of any HuggingFace models",
-          "title_zh": "Show HN：任何 HuggingFace 模型的交互式动画架构",
-          "title_ja": "HN を表示: HuggingFace モデルのインタラクティブなアニメーション アーキテクチャ",
-          "title_en": "Show HN: Interactive, animated architecture of any HuggingFace models",
-          "title_original": "Show HN: Interactive, animated architecture of any HuggingFace models",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49354664",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-19T01:37:37.013000Z"
-        },
-        {
-          "id": "d721d9e46c122042220d433f88afb0e9d639ce21",
-          "title": "Show HN: 任何 HuggingFace 模型的交互式动画化架构 / Show HN: Interactive, animated architecture of any HuggingFace models",
-          "title_zh": "Show HN: 任何 HuggingFace 模型的交互式动画化架构",
-          "title_ja": "HN を表示: HuggingFace モデルのインタラクティブなアニメーション アーキテクチャ",
-          "title_en": "Show HN: Interactive, animated architecture of any HuggingFace models",
-          "title_original": "Show HN: Interactive, animated architecture of any HuggingFace models",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://modelmap.cc",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-18T23:57:36Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5657,
-      "importance": 0.5657,
-      "importance_score": 0.5657,
-      "importance_label": "多源热议",
-      "importance_label_ja": "複数ソースで話題",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9718,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-18T23:57:36Z",
-      "latest_at": "2026-08-19T14:46:17.538000Z",
-      "primary_item": {
-        "id": "bbf9ed8869a84a1686e549eda7323711347e035f",
-        "title": "Show HN: 任何 HuggingFace 模型的交互式动画化架构",
-        "title_zh": "Show HN: 任何 HuggingFace 模型的交互式动画化架构",
-        "title_ja": "HN を表示: あらゆる HuggingFace モデルのインタラクティブ アニメーション アーキテクチャ",
-        "title_en": null,
-        "title_original": "Show HN: 任何 HuggingFace 模型的交互式动画化架构",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://modelmap.cc",
-        "source": "modelmap.cc",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-19T16:45:54.075812Z"
+        "scored_at": "2026-08-19T17:40:45.219766Z"
       }
     }
   ]
