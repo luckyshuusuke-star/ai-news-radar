@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-20T17:43:23.885429Z",
+  "generated_at": "2026-08-20T18:57:10.820631Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_666a236350be",
-      "title": "使用 LFM2.5-DSpark 将推理速度提高 3.2 倍 / Up to 3.2x Faster Inference with LFM2.5-DSpark",
+      "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍 / Up to 3.2x Faster Inference with LFM2.5-DSpark",
       "title_ja": "LFM2.5-DSpark による最大 3.2 倍の高速推論",
       "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
       "primary_url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
@@ -14,8 +14,8 @@
       "sources": [
         {
           "id": "8a28e486c5c80d8b81f7ef6434b41bc0d3758f07",
-          "title": "使用 LFM2.5-DSpark 将推理速度提高 3.2 倍 / Up to 3.2x Faster Inference with LFM2.5-DSpark",
-          "title_zh": "使用 LFM2.5-DSpark 将推理速度提高 3.2 倍",
+          "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍 / Up to 3.2x Faster Inference with LFM2.5-DSpark",
+          "title_zh": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍",
           "title_ja": "LFM2.5-DSpark による最大 3.2 倍の高速推論",
           "title_en": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
           "title_original": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
@@ -36,8 +36,8 @@
       "items": [
         {
           "id": "8a28e486c5c80d8b81f7ef6434b41bc0d3758f07",
-          "title": "使用 LFM2.5-DSpark 将推理速度提高 3.2 倍 / Up to 3.2x Faster Inference with LFM2.5-DSpark",
-          "title_zh": "使用 LFM2.5-DSpark 将推理速度提高 3.2 倍",
+          "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍 / Up to 3.2x Faster Inference with LFM2.5-DSpark",
+          "title_zh": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍",
           "title_ja": "LFM2.5-DSpark による最大 3.2 倍の高速推論",
           "title_en": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
           "title_original": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
@@ -53,16 +53,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8578,
-      "importance": 0.8578,
-      "importance_score": 0.8578,
+      "score": 0.8547,
+      "importance": 0.8547,
+      "importance_score": 0.8547,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9879,
+        "recency": 0.9705,
         "story_heat": 0.0
       },
       "category": "official",
@@ -75,8 +75,8 @@
       "latest_at": "2026-08-20T16:52:57Z",
       "primary_item": {
         "id": "8a28e486c5c80d8b81f7ef6434b41bc0d3758f07",
-        "title": "使用 LFM2.5-DSpark 将推理速度提高 3.2 倍 / Up to 3.2x Faster Inference with LFM2.5-DSpark",
-        "title_zh": "使用 LFM2.5-DSpark 将推理速度提高 3.2 倍",
+        "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍 / Up to 3.2x Faster Inference with LFM2.5-DSpark",
+        "title_zh": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍",
         "title_ja": "LFM2.5-DSpark による最大 3.2 倍の高速推論",
         "title_en": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
         "title_original": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
@@ -91,33 +91,33 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T17:48:23.763441Z"
+        "scored_at": "2026-08-20T18:58:16.292997Z"
       }
     },
     {
-      "story_id": "story_185e96d8c2f8",
-      "title": "代码扫描添加了缓解警报解除原因 / Code scanning adds a mitigated alert dismissal reason",
-      "title_ja": "コードスキャンにより、緩和されたアラート解除理由が追加される",
-      "url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
-      "primary_url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
+      "story_id": "story_13b553da3c26",
+      "title": "Windows 11 arm64 VS2026 镜像正式发布 / Windows 11 arm64 VS2026 image generally available",
+      "title_ja": "Windows 11 arm64 VS2026 イメージが一般公開されました",
+      "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "f4c17395c04a766662eb04284b415ce431dd4390",
-          "title": "代码扫描添加了缓解警报解除原因 / Code scanning adds a mitigated alert dismissal reason",
-          "title_zh": "代码扫描添加了缓解警报解除原因",
-          "title_ja": "コードスキャンにより、緩和されたアラート解除理由が追加される",
-          "title_en": "Code scanning adds a mitigated alert dismissal reason",
-          "title_original": "Code scanning adds a mitigated alert dismissal reason",
+          "id": "e3d7b1a7c89459a1e7f611544f5024ba1b88f489",
+          "title": "Windows 11 arm64 VS2026 镜像正式发布 / Windows 11 arm64 VS2026 image generally available",
+          "title_zh": "Windows 11 arm64 VS2026 镜像正式发布",
+          "title_ja": "Windows 11 arm64 VS2026 イメージが一般公開されました",
+          "title_en": "Windows 11 arm64 VS2026 image generally available",
+          "title_original": "Windows 11 arm64 VS2026 image generally available",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
+          "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-20T15:14:31Z"
+          "published_at": "2026-08-20T17:52:38Z"
         }
       ],
       "source_count": 1,
@@ -126,34 +126,34 @@
       ],
       "items": [
         {
-          "id": "f4c17395c04a766662eb04284b415ce431dd4390",
-          "title": "代码扫描添加了缓解警报解除原因 / Code scanning adds a mitigated alert dismissal reason",
-          "title_zh": "代码扫描添加了缓解警报解除原因",
-          "title_ja": "コードスキャンにより、緩和されたアラート解除理由が追加される",
-          "title_en": "Code scanning adds a mitigated alert dismissal reason",
-          "title_original": "Code scanning adds a mitigated alert dismissal reason",
+          "id": "e3d7b1a7c89459a1e7f611544f5024ba1b88f489",
+          "title": "Windows 11 arm64 VS2026 镜像正式发布 / Windows 11 arm64 VS2026 image generally available",
+          "title_zh": "Windows 11 arm64 VS2026 镜像正式发布",
+          "title_ja": "Windows 11 arm64 VS2026 イメージが一般公開されました",
+          "title_en": "Windows 11 arm64 VS2026 image generally available",
+          "title_original": "Windows 11 arm64 VS2026 image generally available",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
+          "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-20T15:14:31Z"
+          "published_at": "2026-08-20T17:52:38Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8377,
-      "importance": 0.8377,
-      "importance_score": 0.8377,
+      "score": 0.8412,
+      "importance": 0.8412,
+      "importance_score": 0.8412,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9648,
+        "recency": 0.9846,
         "story_heat": 0.0
       },
       "category": "official",
@@ -162,19 +162,19 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-20T15:14:31Z",
-      "latest_at": "2026-08-20T15:14:31Z",
+      "earliest_at": "2026-08-20T17:52:38Z",
+      "latest_at": "2026-08-20T17:52:38Z",
       "primary_item": {
-        "id": "f4c17395c04a766662eb04284b415ce431dd4390",
-        "title": "代码扫描添加了缓解警报解除原因 / Code scanning adds a mitigated alert dismissal reason",
-        "title_zh": "代码扫描添加了缓解警报解除原因",
-        "title_ja": "コードスキャンにより、緩和されたアラート解除理由が追加される",
-        "title_en": "Code scanning adds a mitigated alert dismissal reason",
-        "title_original": "Code scanning adds a mitigated alert dismissal reason",
+        "id": "e3d7b1a7c89459a1e7f611544f5024ba1b88f489",
+        "title": "Windows 11 arm64 VS2026 镜像正式发布 / Windows 11 arm64 VS2026 image generally available",
+        "title_zh": "Windows 11 arm64 VS2026 镜像正式发布",
+        "title_ja": "Windows 11 arm64 VS2026 イメージが一般公開されました",
+        "title_en": "Windows 11 arm64 VS2026 image generally available",
+        "title_original": "Windows 11 arm64 VS2026 image generally available",
         "summary": null,
         "summary_ja": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
+        "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -182,7 +182,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T17:48:23.763441Z"
+        "scored_at": "2026-08-20T18:58:16.292997Z"
       }
     },
     {
@@ -235,16 +235,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8294,
-      "importance": 0.8294,
-      "importance_score": 0.8294,
+      "score": 0.8269,
+      "importance": 0.8269,
+      "importance_score": 0.8269,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7742,
+        "recency": 0.7606,
         "story_heat": 0.0
       },
       "category": "official",
@@ -273,7 +273,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T17:48:23.763441Z"
+        "scored_at": "2026-08-20T18:58:16.292997Z"
       }
     },
     {
@@ -326,16 +326,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8194,
-      "importance": 0.8194,
-      "importance_score": 0.8194,
+      "score": 0.8169,
+      "importance": 0.8169,
+      "importance_score": 0.8169,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7742,
+        "recency": 0.7606,
         "story_heat": 0.0
       },
       "category": "official",
@@ -364,33 +364,33 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T17:48:23.763441Z"
+        "scored_at": "2026-08-20T18:58:16.292997Z"
       }
     },
     {
-      "story_id": "story_6bffb665747e",
-      "title": "在审核日志中跟踪 GitHub 代码质量启用更改 / Track GitHub Code Quality enablement changes in the audit log",
-      "title_ja": "GitHub Code Quality 有効化の変更を監査ログで追跡する",
-      "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
-      "primary_url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
+      "story_id": "story_185e96d8c2f8",
+      "title": "代码扫描添加了缓解警报解除原因 / Code scanning adds a mitigated alert dismissal reason",
+      "title_ja": "コードスキャンにより、緩和されたアラート解除理由が追加される",
+      "url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
+      "primary_url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "1cc18a7327743210494631f42c24107a27ce2aff",
-          "title": "在审核日志中跟踪 GitHub 代码质量启用更改 / Track GitHub Code Quality enablement changes in the audit log",
-          "title_zh": "在审核日志中跟踪 GitHub 代码质量启用更改",
-          "title_ja": "GitHub Code Quality 有効化の変更を監査ログで追跡する",
-          "title_en": "Track GitHub Code Quality enablement changes in the audit log",
-          "title_original": "Track GitHub Code Quality enablement changes in the audit log",
+          "id": "f4c17395c04a766662eb04284b415ce431dd4390",
+          "title": "代码扫描添加了缓解警报解除原因 / Code scanning adds a mitigated alert dismissal reason",
+          "title_zh": "代码扫描添加了缓解警报解除原因",
+          "title_ja": "コードスキャンにより、緩和されたアラート解除理由が追加される",
+          "title_en": "Code scanning adds a mitigated alert dismissal reason",
+          "title_original": "Code scanning adds a mitigated alert dismissal reason",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
+          "url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-20T14:28:41Z"
+          "published_at": "2026-08-20T15:14:31Z"
         }
       ],
       "source_count": 1,
@@ -399,34 +399,34 @@
       ],
       "items": [
         {
-          "id": "1cc18a7327743210494631f42c24107a27ce2aff",
-          "title": "在审核日志中跟踪 GitHub 代码质量启用更改 / Track GitHub Code Quality enablement changes in the audit log",
-          "title_zh": "在审核日志中跟踪 GitHub 代码质量启用更改",
-          "title_ja": "GitHub Code Quality 有効化の変更を監査ログで追跡する",
-          "title_en": "Track GitHub Code Quality enablement changes in the audit log",
-          "title_original": "Track GitHub Code Quality enablement changes in the audit log",
+          "id": "f4c17395c04a766662eb04284b415ce431dd4390",
+          "title": "代码扫描添加了缓解警报解除原因 / Code scanning adds a mitigated alert dismissal reason",
+          "title_zh": "代码扫描添加了缓解警报解除原因",
+          "title_ja": "コードスキャンにより、緩和されたアラート解除理由が追加される",
+          "title_en": "Code scanning adds a mitigated alert dismissal reason",
+          "title_original": "Code scanning adds a mitigated alert dismissal reason",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
+          "url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-20T14:28:41Z"
+          "published_at": "2026-08-20T15:14:31Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8358,
-      "importance": 0.8358,
-      "importance_score": 0.8358,
+      "score": 0.8346,
+      "importance": 0.8346,
+      "importance_score": 0.8346,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9542,
+        "recency": 0.9478,
         "story_heat": 0.0
       },
       "category": "official",
@@ -435,19 +435,19 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-20T14:28:41Z",
-      "latest_at": "2026-08-20T14:28:41Z",
+      "earliest_at": "2026-08-20T15:14:31Z",
+      "latest_at": "2026-08-20T15:14:31Z",
       "primary_item": {
-        "id": "1cc18a7327743210494631f42c24107a27ce2aff",
-        "title": "在审核日志中跟踪 GitHub 代码质量启用更改 / Track GitHub Code Quality enablement changes in the audit log",
-        "title_zh": "在审核日志中跟踪 GitHub 代码质量启用更改",
-        "title_ja": "GitHub Code Quality 有効化の変更を監査ログで追跡する",
-        "title_en": "Track GitHub Code Quality enablement changes in the audit log",
-        "title_original": "Track GitHub Code Quality enablement changes in the audit log",
+        "id": "f4c17395c04a766662eb04284b415ce431dd4390",
+        "title": "代码扫描添加了缓解警报解除原因 / Code scanning adds a mitigated alert dismissal reason",
+        "title_zh": "代码扫描添加了缓解警报解除原因",
+        "title_ja": "コードスキャンにより、緩和されたアラート解除理由が追加される",
+        "title_en": "Code scanning adds a mitigated alert dismissal reason",
+        "title_original": "Code scanning adds a mitigated alert dismissal reason",
         "summary": null,
         "summary_ja": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
+        "url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -455,98 +455,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T17:48:23.763441Z"
-      }
-    },
-    {
-      "story_id": "story_c773429fa020",
-      "title": "适合初学者的 GitHub Copilot 应用程序：管理您的工作 / GitHub Copilot app for Beginners: Managing your work",
-      "title_ja": "初心者向け GitHub Copilot アプリ: 作業の管理",
-      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
-      "primary_url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b9db6e949ee8eb8a7ffc8c1b6c3687e407eca048",
-          "title": "适合初学者的 GitHub Copilot 应用程序：管理您的工作 / GitHub Copilot app for Beginners: Managing your work",
-          "title_zh": "适合初学者的 GitHub Copilot 应用程序：管理您的工作",
-          "title_ja": "初心者向け GitHub Copilot アプリ: 作業の管理",
-          "title_en": "GitHub Copilot app for Beginners: Managing your work",
-          "title_original": "GitHub Copilot app for Beginners: Managing your work",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-19T17:50:23Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub AI & ML"
-      ],
-      "items": [
-        {
-          "id": "b9db6e949ee8eb8a7ffc8c1b6c3687e407eca048",
-          "title": "适合初学者的 GitHub Copilot 应用程序：管理您的工作 / GitHub Copilot app for Beginners: Managing your work",
-          "title_zh": "适合初学者的 GitHub Copilot 应用程序：管理您的工作",
-          "title_ja": "初心者向け GitHub Copilot アプリ: 作業の管理",
-          "title_en": "GitHub Copilot app for Beginners: Managing your work",
-          "title_original": "GitHub Copilot app for Beginners: Managing your work",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-19T17:50:23Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7995,
-      "importance": 0.7995,
-      "importance_score": 0.7995,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7083,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-19T17:50:23Z",
-      "latest_at": "2026-08-19T17:50:23Z",
-      "primary_item": {
-        "id": "b9db6e949ee8eb8a7ffc8c1b6c3687e407eca048",
-        "title": "适合初学者的 GitHub Copilot 应用程序：管理您的工作 / GitHub Copilot app for Beginners: Managing your work",
-        "title_zh": "适合初学者的 GitHub Copilot 应用程序：管理您的工作",
-        "title_ja": "初心者向け GitHub Copilot アプリ: 作業の管理",
-        "title_en": "GitHub Copilot app for Beginners: Managing your work",
-        "title_original": "GitHub Copilot app for Beginners: Managing your work",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-20T17:48:23.763441Z"
+        "scored_at": "2026-08-20T18:58:16.292997Z"
       }
     },
     {
@@ -599,16 +508,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7967,
-      "importance": 0.7967,
-      "importance_score": 0.7967,
+      "score": 0.7936,
+      "importance": 0.7936,
+      "importance_score": 0.7936,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9759,
+        "recency": 0.9587,
         "story_heat": 0.0
       },
       "category": "official",
@@ -636,7 +545,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T17:48:23.763441Z"
+        "scored_at": "2026-08-20T18:58:16.292997Z"
       }
     },
     {
@@ -689,16 +598,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7936,
-      "importance": 0.7936,
-      "importance_score": 0.7936,
+      "score": 0.7914,
+      "importance": 0.7914,
+      "importance_score": 0.7914,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7203,
+        "recency": 0.7076,
         "story_heat": 0.0
       },
       "category": "official",
@@ -727,7 +636,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T17:48:23.763441Z"
+        "scored_at": "2026-08-20T18:58:16.292997Z"
       }
     },
     {
@@ -780,16 +689,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8358,
-      "importance": 0.8358,
-      "importance_score": 0.8358,
+      "score": 0.8328,
+      "importance": 0.8328,
+      "importance_score": 0.8328,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9544,
+        "recency": 0.9376,
         "story_heat": 0.0
       },
       "category": "official",
@@ -818,7 +727,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T17:48:23.763441Z"
+        "scored_at": "2026-08-20T18:58:16.292997Z"
       }
     },
     {
@@ -871,16 +780,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8016,
-      "importance": 0.8016,
-      "importance_score": 0.8016,
+      "score": 0.7994,
+      "importance": 0.7994,
+      "importance_score": 0.7994,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7203,
+        "recency": 0.7076,
         "story_heat": 0.0
       },
       "category": "official",
@@ -909,7 +818,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T17:48:23.763441Z"
+        "scored_at": "2026-08-20T18:58:16.292997Z"
       }
     },
     {
@@ -962,22 +871,21 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7504,
-      "importance": 0.7504,
-      "importance_score": 0.7504,
+      "score": 0.7475,
+      "importance": 0.7475,
+      "importance_score": 0.7475,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9043,
+        "recency": 0.8884,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-20T10:45:24.553399Z",
       "latest_at": "2026-08-20T10:45:24.553399Z",
@@ -999,7 +907,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T17:48:23.763441Z"
+        "scored_at": "2026-08-20T18:58:16.292997Z"
       }
     },
     {
@@ -1052,16 +960,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7481,
-      "importance": 0.7481,
-      "importance_score": 0.7481,
+      "score": 0.7452,
+      "importance": 0.7452,
+      "importance_score": 0.7452,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8914,
+        "recency": 0.8757,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1088,7 +996,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T17:48:23.763441Z"
+        "scored_at": "2026-08-20T18:58:16.292997Z"
       }
     },
     {
@@ -1174,16 +1082,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7474,
-      "importance": 0.7474,
-      "importance_score": 0.7474,
+      "score": 0.745,
+      "importance": 0.745,
+      "importance_score": 0.745,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7489,
+        "recency": 0.7357,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1211,7 +1119,187 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T17:48:23.763441Z"
+        "scored_at": "2026-08-20T18:58:16.292997Z"
+      }
+    },
+    {
+      "story_id": "story_6bffb665747e",
+      "title": "在审核日志中跟踪 GitHub 代码质量启用更改 / Track GitHub Code Quality enablement changes in the audit log",
+      "title_ja": "GitHub Code Quality 有効化の変更を監査ログで追跡する",
+      "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
+      "primary_url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "1cc18a7327743210494631f42c24107a27ce2aff",
+          "title": "在审核日志中跟踪 GitHub 代码质量启用更改 / Track GitHub Code Quality enablement changes in the audit log",
+          "title_zh": "在审核日志中跟踪 GitHub 代码质量启用更改",
+          "title_ja": "GitHub Code Quality 有効化の変更を監査ログで追跡する",
+          "title_en": "Track GitHub Code Quality enablement changes in the audit log",
+          "title_original": "Track GitHub Code Quality enablement changes in the audit log",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-20T14:28:41Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "1cc18a7327743210494631f42c24107a27ce2aff",
+          "title": "在审核日志中跟踪 GitHub 代码质量启用更改 / Track GitHub Code Quality enablement changes in the audit log",
+          "title_zh": "在审核日志中跟踪 GitHub 代码质量启用更改",
+          "title_ja": "GitHub Code Quality 有効化の変更を監査ログで追跡する",
+          "title_en": "Track GitHub Code Quality enablement changes in the audit log",
+          "title_original": "Track GitHub Code Quality enablement changes in the audit log",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-20T14:28:41Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8327,
+      "importance": 0.8327,
+      "importance_score": 0.8327,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9374,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-20T14:28:41Z",
+      "latest_at": "2026-08-20T14:28:41Z",
+      "primary_item": {
+        "id": "1cc18a7327743210494631f42c24107a27ce2aff",
+        "title": "在审核日志中跟踪 GitHub 代码质量启用更改 / Track GitHub Code Quality enablement changes in the audit log",
+        "title_zh": "在审核日志中跟踪 GitHub 代码质量启用更改",
+        "title_ja": "GitHub Code Quality 有効化の変更を監査ログで追跡する",
+        "title_en": "Track GitHub Code Quality enablement changes in the audit log",
+        "title_original": "Track GitHub Code Quality enablement changes in the audit log",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-20T18:58:16.292997Z"
+      }
+    },
+    {
+      "story_id": "story_a623b326864e",
+      "title": "AlloyDB ScaNN 如何将向量搜索扩展到 100 亿向量 / How AlloyDB ScaNN scales vector search to 10 billion vectors",
+      "title_ja": "AlloyDB ScaNN がベクトル検索を 100 億ベクトルに拡張する方法",
+      "url": "https://cloud.google.com/blog/products/databases/alloydb-scann-index-four-level-tree-improves-vector-search",
+      "primary_url": "https://cloud.google.com/blog/products/databases/alloydb-scann-index-four-level-tree-improves-vector-search",
+      "source": "Google Cloud：Databases（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e1dd7332969dac2ee00003cfa01feb6cf9840e10",
+          "title": "AlloyDB ScaNN 如何将向量搜索扩展到 100 亿向量 / How AlloyDB ScaNN scales vector search to 10 billion vectors",
+          "title_zh": "AlloyDB ScaNN 如何将向量搜索扩展到 100 亿向量",
+          "title_ja": "AlloyDB ScaNN がベクトル検索を 100 億ベクトルに拡張する方法",
+          "title_en": "How AlloyDB ScaNN scales vector search to 10 billion vectors",
+          "title_original": "How AlloyDB ScaNN scales vector search to 10 billion vectors",
+          "summary": "AlloyDB 的 ScaNN 索引现已支持超过 100 亿向量的规模，通过全新的四层树架构（预览版）实现，将查询复杂度从 O（N^1/2） 降至 O（N^1/4）。内部测试中，该架构在 100 亿向量规模下可实现 p95 延迟不超过 51 毫秒、召回率达 95%。该功能可通过快速入门指南部署，新用户可享受 30 天免费试用。",
+          "summary_ja": "AlloyDB の ScaNN インデックスは、新しい 4 層ツリー アーキテクチャ (プレビュー) を通じて実装され、100 億を超えるベクトルのスケールをサポートするようになり、クエリの複雑さが O(N^1/2) から O(N^1/4) に軽減されます。内部テストでは、このアーキテクチャは、100 億ベクトルの規模で 51 ミリ秒以下の p95 レイテンシーと 95% の再現率を達成できます。この機能はクイック スタート ガイドを通じて導入でき、新規ユーザーは 30 日間の無料トライアルを利用できます。",
+          "recommend_reason_zh": null,
+          "url": "https://cloud.google.com/blog/products/databases/alloydb-scann-index-four-level-tree-improves-vector-search",
+          "source": "Google Cloud：Databases（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-20T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google Cloud：Databases（RSS）"
+      ],
+      "items": [
+        {
+          "id": "e1dd7332969dac2ee00003cfa01feb6cf9840e10",
+          "title": "AlloyDB ScaNN 如何将向量搜索扩展到 100 亿向量 / How AlloyDB ScaNN scales vector search to 10 billion vectors",
+          "title_zh": "AlloyDB ScaNN 如何将向量搜索扩展到 100 亿向量",
+          "title_ja": "AlloyDB ScaNN がベクトル検索を 100 億ベクトルに拡張する方法",
+          "title_en": "How AlloyDB ScaNN scales vector search to 10 billion vectors",
+          "title_original": "How AlloyDB ScaNN scales vector search to 10 billion vectors",
+          "summary": "AlloyDB 的 ScaNN 索引现已支持超过 100 亿向量的规模，通过全新的四层树架构（预览版）实现，将查询复杂度从 O（N^1/2） 降至 O（N^1/4）。内部测试中，该架构在 100 亿向量规模下可实现 p95 延迟不超过 51 毫秒、召回率达 95%。该功能可通过快速入门指南部署，新用户可享受 30 天免费试用。",
+          "summary_ja": "AlloyDB の ScaNN インデックスは、新しい 4 層ツリー アーキテクチャ (プレビュー) を通じて実装され、100 億を超えるベクトルのスケールをサポートするようになり、クエリの複雑さが O(N^1/2) から O(N^1/4) に軽減されます。内部テストでは、このアーキテクチャは、100 億ベクトルの規模で 51 ミリ秒以下の p95 レイテンシーと 95% の再現率を達成できます。この機能はクイック スタート ガイドを通じて導入でき、新規ユーザーは 30 日間の無料トライアルを利用できます。",
+          "recommend_reason_zh": null,
+          "url": "https://cloud.google.com/blog/products/databases/alloydb-scann-index-four-level-tree-improves-vector-search",
+          "source": "Google Cloud：Databases（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-20T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7391,
+      "importance": 0.7391,
+      "importance_score": 0.7391,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9583,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-20T16:00:00Z",
+      "latest_at": "2026-08-20T16:00:00Z",
+      "primary_item": {
+        "id": "e1dd7332969dac2ee00003cfa01feb6cf9840e10",
+        "title": "AlloyDB ScaNN 如何将向量搜索扩展到 100 亿向量 / How AlloyDB ScaNN scales vector search to 10 billion vectors",
+        "title_zh": "AlloyDB ScaNN 如何将向量搜索扩展到 100 亿向量",
+        "title_ja": "AlloyDB ScaNN がベクトル検索を 100 億ベクトルに拡張する方法",
+        "title_en": "How AlloyDB ScaNN scales vector search to 10 billion vectors",
+        "title_original": "How AlloyDB ScaNN scales vector search to 10 billion vectors",
+        "summary": "AlloyDB 的 ScaNN 索引现已支持超过 100 亿向量的规模，通过全新的四层树架构（预览版）实现，将查询复杂度从 O（N^1/2） 降至 O（N^1/4）。内部测试中，该架构在 100 亿向量规模下可实现 p95 延迟不超过 51 毫秒、召回率达 95%。该功能可通过快速入门指南部署，新用户可享受 30 天免费试用。",
+        "summary_ja": "AlloyDB の ScaNN インデックスは、新しい 4 層ツリー アーキテクチャ (プレビュー) を通じて実装され、100 億を超えるベクトルのスケールをサポートするようになり、クエリの複雑さが O(N^1/2) から O(N^1/4) に軽減されます。内部テストでは、このアーキテクチャは、100 億ベクトルの規模で 51 ミリ秒以下の p95 レイテンシーと 95% の再現率を達成できます。この機能はクイック スタート ガイドを通じて導入でき、新規ユーザーは 30 日間の無料トライアルを利用できます。",
+        "recommend_reason_zh": null,
+        "url": "https://cloud.google.com/blog/products/databases/alloydb-scann-index-four-level-tree-improves-vector-search",
+        "source": "Google Cloud：Databases（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-20T18:58:16.292997Z"
       }
     },
     {
@@ -1264,16 +1352,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7358,
-      "importance": 0.7358,
-      "importance_score": 0.7358,
+      "score": 0.7328,
+      "importance": 0.7328,
+      "importance_score": 0.7328,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9401,
+        "recency": 0.9236,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1300,7 +1388,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T17:48:23.763441Z"
+        "scored_at": "2026-08-20T18:58:16.292997Z"
       }
     },
     {
@@ -1353,16 +1441,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7482,
-      "importance": 0.7482,
-      "importance_score": 0.7482,
+      "score": 0.7453,
+      "importance": 0.7453,
+      "importance_score": 0.7453,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.892,
+        "recency": 0.8763,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1389,98 +1477,96 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T17:48:23.763441Z"
+        "scored_at": "2026-08-20T18:58:16.292997Z"
       }
     },
     {
-      "story_id": "story_c2a932b4c177",
-      "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-      "title_ja": "CodeQL 2.26.3 は GitHub Actions クエリと JavaScript モデリングを改善します",
-      "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
-      "primary_url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_3416d3016502",
+      "title": "Anthropic 如何开展 AI 教学 / Anthropic's approach to teaching and learning AI",
+      "title_ja": "AI の教育と学習に対する Anthropic のアプローチ",
+      "url": "https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai",
+      "primary_url": "https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai",
+      "source": "Claude：Blog（网页）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "33dd888158164d0c0121116d57a69affc7df6950",
-          "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-          "title_zh": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模",
-          "title_ja": "CodeQL 2.26.3 は GitHub Actions クエリと JavaScript モデリングを改善します",
-          "title_en": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-          "title_original": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-          "summary": null,
-          "summary_ja": null,
+          "id": "dd38bd3d207f43c21bdd7b391bb4a791651609c7",
+          "title": "Anthropic 如何开展 AI 教学 / Anthropic's approach to teaching and learning AI",
+          "title_zh": "Anthropic 如何开展 AI 教学",
+          "title_ja": "AI の教育と学習に対する Anthropic のアプローチ",
+          "title_en": "Anthropic's approach to teaching and learning AI",
+          "title_original": "Anthropic's approach to teaching and learning AI",
+          "summary": "Anthropic 发布 Claude Academy，为全球数百万用户提供 AI 教学资源，帮助其安全、有效地使用 AI。该学院课程借鉴其内部员工培训方法，包括 4D AI Fluency Framework 及\"ever-boarding\"持续学习项目，并强调以问题为中心、培养持久思维模式而非特定操作行为。",
+          "summary_ja": "Anthropic は、世界中の何百万ものユーザーに AI の安全かつ効果的な使用を支援する AI 教育リソースを提供するために、Claude Academy を立ち上げました。アカデミーのカリキュラムは、4D AI Fluency Framework や「エバーボーディング」継続学習プログラムなどの社内スタッフのトレーニング方法を活用しており、特定の運用行動よりも問題に焦点を当て、永続的な考え方を養うことに重点を置いています。",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-19T21:09:30Z"
+          "url": "https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-20T17:56:58.396000Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "Claude：Blog（网页）"
       ],
       "items": [
         {
-          "id": "33dd888158164d0c0121116d57a69affc7df6950",
-          "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-          "title_zh": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模",
-          "title_ja": "CodeQL 2.26.3 は GitHub Actions クエリと JavaScript モデリングを改善します",
-          "title_en": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-          "title_original": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-          "summary": null,
-          "summary_ja": null,
+          "id": "dd38bd3d207f43c21bdd7b391bb4a791651609c7",
+          "title": "Anthropic 如何开展 AI 教学 / Anthropic's approach to teaching and learning AI",
+          "title_zh": "Anthropic 如何开展 AI 教学",
+          "title_ja": "AI の教育と学習に対する Anthropic のアプローチ",
+          "title_en": "Anthropic's approach to teaching and learning AI",
+          "title_original": "Anthropic's approach to teaching and learning AI",
+          "summary": "Anthropic 发布 Claude Academy，为全球数百万用户提供 AI 教学资源，帮助其安全、有效地使用 AI。该学院课程借鉴其内部员工培训方法，包括 4D AI Fluency Framework 及\"ever-boarding\"持续学习项目，并强调以问题为中心、培养持久思维模式而非特定操作行为。",
+          "summary_ja": "Anthropic は、世界中の何百万ものユーザーに AI の安全かつ効果的な使用を支援する AI 教育リソースを提供するために、Claude Academy を立ち上げました。アカデミーのカリキュラムは、4D AI Fluency Framework や「エバーボーディング」継続学習プログラムなどの社内スタッフのトレーニング方法を活用しており、特定の運用行動よりも問題に焦点を当て、永続的な考え方を養うことに重点を置いています。",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-19T21:09:30Z"
+          "url": "https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-20T17:56:58.396000Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7978,
-      "importance": 0.7978,
-      "importance_score": 0.7978,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
+      "score": 0.729,
+      "importance": 0.729,
+      "importance_score": 0.729,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7431,
+        "editorial": 0.6,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9856,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-19T21:09:30Z",
-      "latest_at": "2026-08-19T21:09:30Z",
+      "earliest_at": "2026-08-20T17:56:58.396000Z",
+      "latest_at": "2026-08-20T17:56:58.396000Z",
       "primary_item": {
-        "id": "33dd888158164d0c0121116d57a69affc7df6950",
-        "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-        "title_zh": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模",
-        "title_ja": "CodeQL 2.26.3 は GitHub Actions クエリと JavaScript モデリングを改善します",
-        "title_en": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-        "title_original": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-        "summary": null,
-        "summary_ja": null,
+        "id": "dd38bd3d207f43c21bdd7b391bb4a791651609c7",
+        "title": "Anthropic 如何开展 AI 教学 / Anthropic's approach to teaching and learning AI",
+        "title_zh": "Anthropic 如何开展 AI 教学",
+        "title_ja": "AI の教育と学習に対する Anthropic のアプローチ",
+        "title_en": "Anthropic's approach to teaching and learning AI",
+        "title_original": "Anthropic's approach to teaching and learning AI",
+        "summary": "Anthropic 发布 Claude Academy，为全球数百万用户提供 AI 教学资源，帮助其安全、有效地使用 AI。该学院课程借鉴其内部员工培训方法，包括 4D AI Fluency Framework 及\"ever-boarding\"持续学习项目，并强调以问题为中心、培养持久思维模式而非特定操作行为。",
+        "summary_ja": "Anthropic は、世界中の何百万ものユーザーに AI の安全かつ効果的な使用を支援する AI 教育リソースを提供するために、Claude Academy を立ち上げました。アカデミーのカリキュラムは、4D AI Fluency Framework や「エバーボーディング」継続学習プログラムなどの社内スタッフのトレーニング方法を活用しており、特定の運用行動よりも問題に焦点を当て、永続的な考え方を養うことに重点を置いています。",
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "url": "https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai",
+        "source": "Claude：Blog（网页）",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T17:48:23.763441Z"
+        "scored_at": "2026-08-20T18:58:16.292997Z"
       }
     },
     {
@@ -1533,16 +1619,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7245,
-      "importance": 0.7245,
-      "importance_score": 0.7245,
+      "score": 0.7221,
+      "importance": 0.7221,
+      "importance_score": 0.7221,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7774,
+        "recency": 0.7638,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1569,7 +1655,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T17:48:23.763441Z"
+        "scored_at": "2026-08-20T18:58:16.292997Z"
       }
     },
     {
@@ -1622,16 +1708,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7461,
-      "importance": 0.7461,
-      "importance_score": 0.7461,
+      "score": 0.7433,
+      "importance": 0.7433,
+      "importance_score": 0.7433,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8806,
+        "recency": 0.8651,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1658,185 +1744,98 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T17:48:23.763441Z"
+        "scored_at": "2026-08-20T18:58:16.292997Z"
       }
     },
     {
-      "story_id": "story_56e8099b2502",
-      "title": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
-      "title_ja": "Tongyi Qianwen から公式に親指を立てます! Unsloth Dynamic V3 は Qwen3.8-27B をより小型かつスマートにし、1 ビット バージョンは 8GB のメモリで実行可能",
-      "url": "https://www.aibase.com/news/30504",
-      "primary_url": "https://www.aibase.com/news/30504",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_c2a932b4c177",
+      "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+      "title_ja": "CodeQL 2.26.3 は GitHub Actions クエリと JavaScript モデリングを改善します",
+      "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
+      "primary_url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "f831d58f78f8830e2e01e7f3763f9be5633036fa",
-          "title": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
-          "title_zh": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
-          "title_ja": "Tongyi Qianwen から公式に親指を立てます! Unsloth Dynamic V3 は Qwen3.8-27B をより小型かつスマートにし、1 ビット バージョンは 8GB のメモリで実行可能",
-          "title_en": null,
-          "title_original": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
+          "id": "33dd888158164d0c0121116d57a69affc7df6950",
+          "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+          "title_zh": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模",
+          "title_ja": "CodeQL 2.26.3 は GitHub Actions クエリと JavaScript モデリングを改善します",
+          "title_en": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+          "title_original": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30504",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T08:55:09.311363Z"
+          "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-19T21:09:30Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "f831d58f78f8830e2e01e7f3763f9be5633036fa",
-          "title": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
-          "title_zh": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
-          "title_ja": "Tongyi Qianwen から公式に親指を立てます! Unsloth Dynamic V3 は Qwen3.8-27B をより小型かつスマートにし、1 ビット バージョンは 8GB のメモリで実行可能",
-          "title_en": null,
-          "title_original": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
+          "id": "33dd888158164d0c0121116d57a69affc7df6950",
+          "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+          "title_zh": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模",
+          "title_ja": "CodeQL 2.26.3 は GitHub Actions クエリと JavaScript モデリングを改善します",
+          "title_en": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+          "title_original": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30504",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T08:55:09.311363Z"
+          "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-19T21:09:30Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7461,
-      "importance": 0.7461,
-      "importance_score": 0.7461,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
+      "score": 0.7954,
+      "importance": 0.7954,
+      "importance_score": 0.7954,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8806,
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.73,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
-        "high_ai_relevance"
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-20T08:55:09.311363Z",
-      "latest_at": "2026-08-20T08:55:09.311363Z",
+      "earliest_at": "2026-08-19T21:09:30Z",
+      "latest_at": "2026-08-19T21:09:30Z",
       "primary_item": {
-        "id": "f831d58f78f8830e2e01e7f3763f9be5633036fa",
-        "title": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
-        "title_zh": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
-        "title_ja": "Tongyi Qianwen から公式に親指を立てます! Unsloth Dynamic V3 は Qwen3.8-27B をより小型かつスマートにし、1 ビット バージョンは 8GB のメモリで実行可能",
-        "title_en": null,
-        "title_original": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
+        "id": "33dd888158164d0c0121116d57a69affc7df6950",
+        "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+        "title_zh": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模",
+        "title_ja": "CodeQL 2.26.3 は GitHub Actions クエリと JavaScript モデリングを改善します",
+        "title_en": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+        "title_original": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
         "summary": null,
         "summary_ja": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30504",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-20T17:48:23.763441Z"
-      }
-    },
-    {
-      "story_id": "story_a6a38128dce9",
-      "title": "MiniMax Design发布:用自然语言“指挥”视频创作，告别逐帧编辑",
-      "title_ja": "MiniMax Design リリース: 自然言語を使用してビデオ作成を「命令」し、フレームごとの編集に別れを告げる",
-      "url": "https://www.aibase.com/news/30503",
-      "primary_url": "https://www.aibase.com/news/30503",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "5fc805e27b6f5edee03c07254eefbe8d2fc8a942",
-          "title": "MiniMax Design发布:用自然语言“指挥”视频创作，告别逐帧编辑",
-          "title_zh": "MiniMax Design发布:用自然语言“指挥”视频创作，告别逐帧编辑",
-          "title_ja": "MiniMax Design リリース: 自然言語を使用してビデオ作成を「命令」し、フレームごとの編集に別れを告げる",
-          "title_en": null,
-          "title_original": "MiniMax Design发布:用自然语言“指挥”视频创作，告别逐帧编辑",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30503",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T07:55:00.931692Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "5fc805e27b6f5edee03c07254eefbe8d2fc8a942",
-          "title": "MiniMax Design发布:用自然语言“指挥”视频创作，告别逐帧编辑",
-          "title_zh": "MiniMax Design发布:用自然语言“指挥”视频创作，告别逐帧编辑",
-          "title_ja": "MiniMax Design リリース: 自然言語を使用してビデオ作成を「命令」し、フレームごとの編集に別れを告げる",
-          "title_en": null,
-          "title_original": "MiniMax Design发布:用自然语言“指挥”视频创作，告别逐帧编辑",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30503",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T07:55:00.931692Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7438,
-      "importance": 0.7438,
-      "importance_score": 0.7438,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.868,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-20T07:55:00.931692Z",
-      "latest_at": "2026-08-20T07:55:00.931692Z",
-      "primary_item": {
-        "id": "5fc805e27b6f5edee03c07254eefbe8d2fc8a942",
-        "title": "MiniMax Design发布:用自然语言“指挥”视频创作，告别逐帧编辑",
-        "title_zh": "MiniMax Design发布:用自然语言“指挥”视频创作，告别逐帧编辑",
-        "title_ja": "MiniMax Design リリース: 自然言語を使用してビデオ作成を「命令」し、フレームごとの編集に別れを告げる",
-        "title_en": null,
-        "title_original": "MiniMax Design发布:用自然语言“指挥”视频创作，告别逐帧编辑",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30503",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-20T17:48:23.763441Z"
+        "scored_at": "2026-08-20T18:58:16.292997Z"
       }
     }
   ]
