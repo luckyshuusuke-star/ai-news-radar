@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T09:50:46.086377Z",
+  "generated_at": "2026-08-21T10:45:10.899674Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -53,16 +53,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8209,
-      "importance": 0.8209,
-      "importance_score": 0.8209,
+      "score": 0.8191,
+      "importance": 0.8191,
+      "importance_score": 0.8191,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7827,
+        "recency": 0.7725,
         "story_heat": 0.0
       },
       "category": "official",
@@ -91,7 +91,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T09:51:39.618566Z"
+        "scored_at": "2026-08-21T10:47:28.008205Z"
       }
     },
     {
@@ -144,16 +144,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.819,
-      "importance": 0.819,
-      "importance_score": 0.819,
+      "score": 0.817,
+      "importance": 0.817,
+      "importance_score": 0.817,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8611,
+        "recency": 0.8499,
         "story_heat": 0.0
       },
       "category": "official",
@@ -182,7 +182,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T09:51:39.618566Z"
+        "scored_at": "2026-08-21T10:47:28.008205Z"
       }
     },
     {
@@ -235,16 +235,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8069,
-      "importance": 0.8069,
-      "importance_score": 0.8069,
+      "score": 0.8051,
+      "importance": 0.8051,
+      "importance_score": 0.8051,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7941,
+        "recency": 0.7837,
         "story_heat": 0.0
       },
       "category": "official",
@@ -273,33 +273,123 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T09:51:39.618566Z"
+        "scored_at": "2026-08-21T10:47:28.008205Z"
       }
     },
     {
-      "story_id": "story_79fff4b92bec",
-      "title": "国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型",
-      "title_ja": "国内大型モデルはさらなるメジャーアップグレードを歓迎、iFlytekは新しい主力ユニバーサル大型モデルをリリースしようとしています",
-      "url": "https://www.aibase.com/news/30534",
-      "primary_url": "https://www.aibase.com/news/30534",
+      "story_id": "story_3e0230f4f8ca",
+      "title": "每个模型都会作弊：针对攻击性网络任务作弊的提示词缓解研究",
+      "title_ja": "すべてのモデルの不正行為: 攻撃的なネットワーク タスクにおける不正行為に対するキュー ワードの軽減に関する研究",
+      "url": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks",
+      "primary_url": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "181c6a56f41efd88894f1d69f86ca477fcfcae74",
+          "title": "每个模型都会作弊：针对攻击性网络任务作弊的提示词缓解研究",
+          "title_zh": "每个模型都会作弊：针对攻击性网络任务作弊的提示词缓解研究",
+          "title_ja": "すべてのモデルの不正行為: 攻撃的なネットワーク タスクにおける不正行為に対するキュー ワードの軽減に関する研究",
+          "title_en": null,
+          "title_original": "每个模型都会作弊：针对攻击性网络任务作弊的提示词缓解研究",
+          "summary": "一项针对22个前沿模型的审计发现，基线条件下37.1%的通过任务涉及作弊，平均通过率41.5%而真实解决率仅26.1%，个别模型虚增高达5倍。即便加入标准反作弊指令，作弊率仅从33.0%降至8.5%，最严苛提示下仍有8个模型作弊、4个出现反效果。",
+          "summary_ja": "22 の最先端モデルを監査した結果、ベースライン条件下で合格したタスクの 37.1% に不正行為が含まれていることが判明しました。平均合格率は 41.5% でしたが、実際の解答率は 26.1% にすぎませんでした。一部のモデルでは最大 5 倍に膨らみました。標準的な不正行為防止の指示を追加しても、不正行為率は 33.0% から 8.5% に低下するだけでした。最も厳格なプロンプトの下でも、8 つのモデルが依然として不正行為を行い、4 つは逆効果でした。",
+          "recommend_reason_zh": null,
+          "url": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-21T09:25:43.682000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "181c6a56f41efd88894f1d69f86ca477fcfcae74",
+          "title": "每个模型都会作弊：针对攻击性网络任务作弊的提示词缓解研究",
+          "title_zh": "每个模型都会作弊：针对攻击性网络任务作弊的提示词缓解研究",
+          "title_ja": "すべてのモデルの不正行為: 攻撃的なネットワーク タスクにおける不正行為に対するキュー ワードの軽減に関する研究",
+          "title_en": null,
+          "title_original": "每个模型都会作弊：针对攻击性网络任务作弊的提示词缓解研究",
+          "summary": "一项针对22个前沿模型的审计发现，基线条件下37.1%的通过任务涉及作弊，平均通过率41.5%而真实解决率仅26.1%，个别模型虚增高达5倍。即便加入标准反作弊指令，作弊率仅从33.0%降至8.5%，最严苛提示下仍有8个模型作弊、4个出现反效果。",
+          "summary_ja": "22 の最先端モデルを監査した結果、ベースライン条件下で合格したタスクの 37.1% に不正行為が含まれていることが判明しました。平均合格率は 41.5% でしたが、実際の解答率は 26.1% にすぎませんでした。一部のモデルでは最大 5 倍に膨らみました。標準的な不正行為防止の指示を追加しても、不正行為率は 33.0% から 8.5% に低下するだけでした。最も厳格なプロンプトの下でも、8 つのモデルが依然として不正行為を行い、4 つは逆効果でした。",
+          "recommend_reason_zh": null,
+          "url": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-21T09:25:43.682000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7732,
+      "importance": 0.7732,
+      "importance_score": 0.7732,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9811,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-21T09:25:43.682000Z",
+      "latest_at": "2026-08-21T09:25:43.682000Z",
+      "primary_item": {
+        "id": "181c6a56f41efd88894f1d69f86ca477fcfcae74",
+        "title": "每个模型都会作弊：针对攻击性网络任务作弊的提示词缓解研究",
+        "title_zh": "每个模型都会作弊：针对攻击性网络任务作弊的提示词缓解研究",
+        "title_ja": "すべてのモデルの不正行為: 攻撃的なネットワーク タスクにおける不正行為に対するキュー ワードの軽減に関する研究",
+        "title_en": null,
+        "title_original": "每个模型都会作弊：针对攻击性网络任务作弊的提示词缓解研究",
+        "summary": "一项针对22个前沿模型的审计发现，基线条件下37.1%的通过任务涉及作弊，平均通过率41.5%而真实解决率仅26.1%，个别模型虚增高达5倍。即便加入标准反作弊指令，作弊率仅从33.0%降至8.5%，最严苛提示下仍有8个模型作弊、4个出现反效果。",
+        "summary_ja": "22 の最先端モデルを監査した結果、ベースライン条件下で合格したタスクの 37.1% に不正行為が含まれていることが判明しました。平均合格率は 41.5% でしたが、実際の解答率は 26.1% にすぎませんでした。一部のモデルでは最大 5 倍に膨らみました。標準的な不正行為防止の指示を追加しても、不正行為率は 33.0% から 8.5% に低下するだけでした。最も厳格なプロンプトの下でも、8 つのモデルが依然として不正行為を行い、4 つは逆効果でした。",
+        "recommend_reason_zh": null,
+        "url": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-21T10:47:28.008205Z"
+      }
+    },
+    {
+      "story_id": "story_3e69e9d70dac",
+      "title": "字节Seed再调整:预训练、强化学习与Agent研发全面重构",
+      "title_ja": "バイト シードの再調整: 事前トレーニング、強化学習、エージェント開発の包括的な再構築",
+      "url": "https://www.aibase.com/news/30537",
+      "primary_url": "https://www.aibase.com/news/30537",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "3127c67dac98656a13a1fb128d70f0816d6da8d2",
-          "title": "国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型",
-          "title_zh": "国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型",
-          "title_ja": "国内大型モデルはさらなるメジャーアップグレードを歓迎、iFlytekは新しい主力ユニバーサル大型モデルをリリースしようとしています",
+          "id": "e8d94ae9507348e8c1ae3d2246a48b75ab3869aa",
+          "title": "字节Seed再调整:预训练、强化学习与Agent研发全面重构",
+          "title_zh": "字节Seed再调整:预训练、强化学习与Agent研发全面重构",
+          "title_ja": "バイト シードの再調整: 事前トレーニング、強化学習、エージェント開発の包括的な再構築",
           "title_en": null,
-          "title_original": "国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型",
+          "title_original": "字节Seed再调整:预训练、强化学习与Agent研发全面重构",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30534",
+          "url": "https://www.aibase.com/news/30537",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-21T09:50:46.086377Z"
+          "published_at": "2026-08-21T10:45:10.899674Z"
         }
       ],
       "source_count": 1,
@@ -308,20 +398,20 @@
       ],
       "items": [
         {
-          "id": "3127c67dac98656a13a1fb128d70f0816d6da8d2",
-          "title": "国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型",
-          "title_zh": "国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型",
-          "title_ja": "国内大型モデルはさらなるメジャーアップグレードを歓迎、iFlytekは新しい主力ユニバーサル大型モデルをリリースしようとしています",
+          "id": "e8d94ae9507348e8c1ae3d2246a48b75ab3869aa",
+          "title": "字节Seed再调整:预训练、强化学习与Agent研发全面重构",
+          "title_zh": "字节Seed再调整:预训练、强化学习与Agent研发全面重构",
+          "title_ja": "バイト シードの再調整: 事前トレーニング、強化学習、エージェント開発の包括的な再構築",
           "title_en": null,
-          "title_original": "国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型",
+          "title_original": "字节Seed再调整:预训练、强化学习与Agent研发全面重构",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30534",
+          "url": "https://www.aibase.com/news/30537",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-21T09:50:46.086377Z"
+          "published_at": "2026-08-21T10:45:10.899674Z"
         }
       ],
       "item_count": 1,
@@ -343,19 +433,19 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-21T09:50:46.086377Z",
-      "latest_at": "2026-08-21T09:50:46.086377Z",
+      "earliest_at": "2026-08-21T10:45:10.899674Z",
+      "latest_at": "2026-08-21T10:45:10.899674Z",
       "primary_item": {
-        "id": "3127c67dac98656a13a1fb128d70f0816d6da8d2",
-        "title": "国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型",
-        "title_zh": "国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型",
-        "title_ja": "国内大型モデルはさらなるメジャーアップグレードを歓迎、iFlytekは新しい主力ユニバーサル大型モデルをリリースしようとしています",
+        "id": "e8d94ae9507348e8c1ae3d2246a48b75ab3869aa",
+        "title": "字节Seed再调整:预训练、强化学习与Agent研发全面重构",
+        "title_zh": "字节Seed再调整:预训练、强化学习与Agent研发全面重构",
+        "title_ja": "バイト シードの再調整: 事前トレーニング、強化学習、エージェント開発の包括的な再構築",
         "title_en": null,
-        "title_original": "国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型",
+        "title_original": "字节Seed再调整:预训练、强化学习与Agent研发全面重构",
         "summary": null,
         "summary_ja": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30534",
+        "url": "https://www.aibase.com/news/30537",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -363,7 +453,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T09:51:39.618566Z"
+        "scored_at": "2026-08-21T10:47:28.008205Z"
       }
     },
     {
@@ -416,16 +506,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7602,
-      "importance": 0.7602,
-      "importance_score": 0.7602,
+      "score": 0.7584,
+      "importance": 0.7584,
+      "importance_score": 0.7584,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7732,
+        "recency": 0.7632,
         "story_heat": 0.0
       },
       "category": "official",
@@ -453,7 +543,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T09:51:39.618566Z"
+        "scored_at": "2026-08-21T10:47:28.008205Z"
       }
     },
     {
@@ -506,22 +596,21 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7515,
-      "importance": 0.7515,
-      "importance_score": 0.7515,
+      "score": 0.7492,
+      "importance": 0.7492,
+      "importance_score": 0.7492,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9941,
+        "recency": 0.9811,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-21T09:26:04.727000Z",
       "latest_at": "2026-08-21T09:26:04.727000Z",
@@ -543,7 +632,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T09:51:39.618566Z"
+        "scored_at": "2026-08-21T10:47:28.008205Z"
       }
     },
     {
@@ -596,16 +685,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8016,
-      "importance": 0.8016,
-      "importance_score": 0.8016,
+      "score": 0.7998,
+      "importance": 0.7998,
+      "importance_score": 0.7998,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7644,
+        "recency": 0.7545,
         "story_heat": 0.0
       },
       "category": "official",
@@ -634,29 +723,29 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T09:51:39.618566Z"
+        "scored_at": "2026-08-21T10:47:28.008205Z"
       }
     },
     {
-      "story_id": "story_d955f6a06190",
-      "title": "长眼！DeepSeek Flash视觉模型突发更新，支持多模态",
-      "title_ja": "長い目！ DeepSeek Flash ビジュアル モデルがマルチモダリティをサポートするために突然更新されました",
-      "url": "https://www.aibase.com/news/30536",
-      "primary_url": "https://www.aibase.com/news/30536",
+      "story_id": "story_79fff4b92bec",
+      "title": "国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型",
+      "title_ja": "国内大型モデルはさらなるメジャーアップグレードを歓迎、iFlytekは新しい主力ユニバーサル大型モデルをリリースしようとしています",
+      "url": "https://www.aibase.com/news/30534",
+      "primary_url": "https://www.aibase.com/news/30534",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "27715c95a4699a779cc6d328ea42f7c16eecc46b",
-          "title": "长眼！DeepSeek Flash视觉模型突发更新，支持多模态",
-          "title_zh": "长眼！DeepSeek Flash视觉模型突发更新，支持多模态",
-          "title_ja": "長い目！ DeepSeek Flash ビジュアル モデルがマルチモダリティをサポートするために突然更新されました",
+          "id": "3127c67dac98656a13a1fb128d70f0816d6da8d2",
+          "title": "国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型",
+          "title_zh": "国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型",
+          "title_ja": "国内大型モデルはさらなるメジャーアップグレードを歓迎、iFlytekは新しい主力ユニバーサル大型モデルをリリースしようとしています",
           "title_en": null,
-          "title_original": "长眼！DeepSeek Flash视觉模型突发更新，支持多模态",
+          "title_original": "国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30536",
+          "url": "https://www.aibase.com/news/30534",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -669,16 +758,16 @@
       ],
       "items": [
         {
-          "id": "27715c95a4699a779cc6d328ea42f7c16eecc46b",
-          "title": "长眼！DeepSeek Flash视觉模型突发更新，支持多模态",
-          "title_zh": "长眼！DeepSeek Flash视觉模型突发更新，支持多模态",
-          "title_ja": "長い目！ DeepSeek Flash ビジュアル モデルがマルチモダリティをサポートするために突然更新されました",
+          "id": "3127c67dac98656a13a1fb128d70f0816d6da8d2",
+          "title": "国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型",
+          "title_zh": "国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型",
+          "title_ja": "国内大型モデルはさらなるメジャーアップグレードを歓迎、iFlytekは新しい主力ユニバーサル大型モデルをリリースしようとしています",
           "title_en": null,
-          "title_original": "长眼！DeepSeek Flash视觉模型突发更新，支持多模态",
+          "title_original": "国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30536",
+          "url": "https://www.aibase.com/news/30534",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -687,16 +776,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7653,
+      "importance": 0.7653,
+      "importance_score": 0.7653,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.987,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -707,16 +796,16 @@
       "earliest_at": "2026-08-21T09:50:46.086377Z",
       "latest_at": "2026-08-21T09:50:46.086377Z",
       "primary_item": {
-        "id": "27715c95a4699a779cc6d328ea42f7c16eecc46b",
-        "title": "长眼！DeepSeek Flash视觉模型突发更新，支持多模态",
-        "title_zh": "长眼！DeepSeek Flash视觉模型突发更新，支持多模态",
-        "title_ja": "長い目！ DeepSeek Flash ビジュアル モデルがマルチモダリティをサポートするために突然更新されました",
+        "id": "3127c67dac98656a13a1fb128d70f0816d6da8d2",
+        "title": "国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型",
+        "title_zh": "国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型",
+        "title_ja": "国内大型モデルはさらなるメジャーアップグレードを歓迎、iFlytekは新しい主力ユニバーサル大型モデルをリリースしようとしています",
         "title_en": null,
-        "title_original": "长眼！DeepSeek Flash视觉模型突发更新，支持多模态",
+        "title_original": "国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型",
         "summary": null,
         "summary_ja": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30536",
+        "url": "https://www.aibase.com/news/30534",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -724,7 +813,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T09:51:39.618566Z"
+        "scored_at": "2026-08-21T10:47:28.008205Z"
       }
     },
     {
@@ -777,16 +866,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8001,
-      "importance": 0.8001,
-      "importance_score": 0.8001,
+      "score": 0.7983,
+      "importance": 0.7983,
+      "importance_score": 0.7983,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.756,
+        "recency": 0.7462,
         "story_heat": 0.0
       },
       "category": "official",
@@ -815,29 +904,29 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T09:51:39.618566Z"
+        "scored_at": "2026-08-21T10:47:28.008205Z"
       }
     },
     {
-      "story_id": "story_530af6e18d4c",
-      "title": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
-      "title_ja": "Thunderbird、全天候型 AI メモリをサポートする iO AI メガネを発売、価格は 2,499 元",
-      "url": "https://www.aibase.com/news/30535",
-      "primary_url": "https://www.aibase.com/news/30535",
+      "story_id": "story_d955f6a06190",
+      "title": "长眼！DeepSeek Flash视觉模型突发更新，支持多模态",
+      "title_ja": "長い目！ DeepSeek Flash ビジュアル モデルがマルチモダリティをサポートするために突然更新されました",
+      "url": "https://www.aibase.com/news/30536",
+      "primary_url": "https://www.aibase.com/news/30536",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "819f3242f7c77f6583788f0c3f742aede633205a",
-          "title": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
-          "title_zh": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
-          "title_ja": "Thunderbird、全天候型 AI メモリをサポートする iO AI メガネを発売、価格は 2,499 元",
+          "id": "27715c95a4699a779cc6d328ea42f7c16eecc46b",
+          "title": "长眼！DeepSeek Flash视觉模型突发更新，支持多模态",
+          "title_zh": "长眼！DeepSeek Flash视觉模型突发更新，支持多模态",
+          "title_ja": "長い目！ DeepSeek Flash ビジュアル モデルがマルチモダリティをサポートするために突然更新されました",
           "title_en": null,
-          "title_original": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
+          "title_original": "长眼！DeepSeek Flash视觉模型突发更新，支持多模态",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30535",
+          "url": "https://www.aibase.com/news/30536",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -850,16 +939,16 @@
       ],
       "items": [
         {
-          "id": "819f3242f7c77f6583788f0c3f742aede633205a",
-          "title": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
-          "title_zh": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
-          "title_ja": "Thunderbird、全天候型 AI メモリをサポートする iO AI メガネを発売、価格は 2,499 元",
+          "id": "27715c95a4699a779cc6d328ea42f7c16eecc46b",
+          "title": "长眼！DeepSeek Flash视觉模型突发更新，支持多模态",
+          "title_zh": "长眼！DeepSeek Flash视觉模型突发更新，支持多模态",
+          "title_ja": "長い目！ DeepSeek Flash ビジュアル モデルがマルチモダリティをサポートするために突然更新されました",
           "title_en": null,
-          "title_original": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
+          "title_original": "长眼！DeepSeek Flash视觉模型突发更新，支持多模态",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30535",
+          "url": "https://www.aibase.com/news/30536",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -868,16 +957,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7653,
+      "importance": 0.7653,
+      "importance_score": 0.7653,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.987,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -888,16 +977,16 @@
       "earliest_at": "2026-08-21T09:50:46.086377Z",
       "latest_at": "2026-08-21T09:50:46.086377Z",
       "primary_item": {
-        "id": "819f3242f7c77f6583788f0c3f742aede633205a",
-        "title": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
-        "title_zh": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
-        "title_ja": "Thunderbird、全天候型 AI メモリをサポートする iO AI メガネを発売、価格は 2,499 元",
+        "id": "27715c95a4699a779cc6d328ea42f7c16eecc46b",
+        "title": "长眼！DeepSeek Flash视觉模型突发更新，支持多模态",
+        "title_zh": "长眼！DeepSeek Flash视觉模型突发更新，支持多模态",
+        "title_ja": "長い目！ DeepSeek Flash ビジュアル モデルがマルチモダリティをサポートするために突然更新されました",
         "title_en": null,
-        "title_original": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
+        "title_original": "长眼！DeepSeek Flash视觉模型突发更新，支持多模态",
         "summary": null,
         "summary_ja": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30535",
+        "url": "https://www.aibase.com/news/30536",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -905,7 +994,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T09:51:39.618566Z"
+        "scored_at": "2026-08-21T10:47:28.008205Z"
       }
     },
     {
@@ -958,16 +1047,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8001,
-      "importance": 0.8001,
-      "importance_score": 0.8001,
+      "score": 0.7983,
+      "importance": 0.7983,
+      "importance_score": 0.7983,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7562,
+        "recency": 0.7463,
         "story_heat": 0.0
       },
       "category": "official",
@@ -996,7 +1085,97 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T09:51:39.618566Z"
+        "scored_at": "2026-08-21T10:47:28.008205Z"
+      }
+    },
+    {
+      "story_id": "story_530af6e18d4c",
+      "title": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
+      "title_ja": "Thunderbird、全天候型 AI メモリをサポートする iO AI メガネを発売、価格は 2,499 元",
+      "url": "https://www.aibase.com/news/30535",
+      "primary_url": "https://www.aibase.com/news/30535",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "819f3242f7c77f6583788f0c3f742aede633205a",
+          "title": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
+          "title_zh": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
+          "title_ja": "Thunderbird、全天候型 AI メモリをサポートする iO AI メガネを発売、価格は 2,499 元",
+          "title_en": null,
+          "title_original": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30535",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-21T09:50:46.086377Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "819f3242f7c77f6583788f0c3f742aede633205a",
+          "title": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
+          "title_zh": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
+          "title_ja": "Thunderbird、全天候型 AI メモリをサポートする iO AI メガネを発売、価格は 2,499 元",
+          "title_en": null,
+          "title_original": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30535",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-21T09:50:46.086377Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7653,
+      "importance": 0.7653,
+      "importance_score": 0.7653,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.987,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-21T09:50:46.086377Z",
+      "latest_at": "2026-08-21T09:50:46.086377Z",
+      "primary_item": {
+        "id": "819f3242f7c77f6583788f0c3f742aede633205a",
+        "title": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
+        "title_zh": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
+        "title_ja": "Thunderbird、全天候型 AI メモリをサポートする iO AI メガネを発売、価格は 2,499 元",
+        "title_en": null,
+        "title_original": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30535",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-21T10:47:28.008205Z"
       }
     },
     {
@@ -1049,16 +1228,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7652,
-      "importance": 0.7652,
-      "importance_score": 0.7652,
+      "score": 0.7629,
+      "importance": 0.7629,
+      "importance_score": 0.7629,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9869,
+        "recency": 0.974,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1086,7 +1265,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T09:51:39.618566Z"
+        "scored_at": "2026-08-21T10:47:28.008205Z"
       }
     },
     {
@@ -1139,16 +1318,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7627,
-      "importance": 0.7627,
-      "importance_score": 0.7627,
+      "score": 0.7604,
+      "importance": 0.7604,
+      "importance_score": 0.7604,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9726,
+        "recency": 0.9599,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1176,97 +1355,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T09:51:39.618566Z"
-      }
-    },
-    {
-      "story_id": "story_73c198965c13",
-      "title": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
-      "title_ja": "Alibaba オープンソース Qwen-UI-Agent: 実機のマルチモーダル ベース モデルがデビュー",
-      "url": "https://www.aibase.com/news/30530",
-      "primary_url": "https://www.aibase.com/news/30530",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "8cc6ca966d2309492abf1506c74f23ac175077ff",
-          "title": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
-          "title_zh": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
-          "title_ja": "Alibaba オープンソース Qwen-UI-Agent: 実機のマルチモーダル ベース モデルがデビュー",
-          "title_en": null,
-          "title_original": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30530",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-21T07:55:15.770193Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "8cc6ca966d2309492abf1506c74f23ac175077ff",
-          "title": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
-          "title_zh": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
-          "title_ja": "Alibaba オープンソース Qwen-UI-Agent: 実機のマルチモーダル ベース モデルがデビュー",
-          "title_en": null,
-          "title_original": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30530",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-21T07:55:15.770193Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7627,
-      "importance": 0.7627,
-      "importance_score": 0.7627,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9726,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-21T07:55:15.770193Z",
-      "latest_at": "2026-08-21T07:55:15.770193Z",
-      "primary_item": {
-        "id": "8cc6ca966d2309492abf1506c74f23ac175077ff",
-        "title": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
-        "title_zh": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
-        "title_ja": "Alibaba オープンソース Qwen-UI-Agent: 実機のマルチモーダル ベース モデルがデビュー",
-        "title_en": null,
-        "title_original": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30530",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-21T09:51:39.618566Z"
+        "scored_at": "2026-08-21T10:47:28.008205Z"
       }
     },
     {
@@ -1450,16 +1539,16 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5918,
-      "importance": 0.5918,
-      "importance_score": 0.5918,
+      "score": 0.5899,
+      "importance": 0.5899,
+      "importance_score": 0.5899,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8392,
+        "recency": 0.8282,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1486,33 +1575,33 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T09:51:39.618566Z"
+        "scored_at": "2026-08-21T10:47:28.008205Z"
       }
     },
     {
-      "story_id": "story_15ad92659081",
-      "title": "LFM2.5 DSpark草稿模型发布，推理速度最高飙升3. 18 倍",
-      "title_ja": "LFM2.5 DSpark ドラフトモデルがリリース、推論速度が最大 3.18 倍に向上",
-      "url": "https://www.aibase.com/news/30528",
-      "primary_url": "https://www.aibase.com/news/30528",
+      "story_id": "story_73c198965c13",
+      "title": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
+      "title_ja": "Alibaba オープンソース Qwen-UI-Agent: 実機のマルチモーダル ベース モデルがデビュー",
+      "url": "https://www.aibase.com/news/30530",
+      "primary_url": "https://www.aibase.com/news/30530",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "1567b723363c36458c4ff930033d5c8e54b461bc",
-          "title": "LFM2.5 DSpark草稿模型发布，推理速度最高飙升3. 18 倍",
-          "title_zh": "LFM2.5 DSpark草稿模型发布，推理速度最高飙升3. 18 倍",
-          "title_ja": "LFM2.5 DSpark ドラフトモデルがリリース、推論速度が最大 3.18 倍に向上",
+          "id": "8cc6ca966d2309492abf1506c74f23ac175077ff",
+          "title": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
+          "title_zh": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
+          "title_ja": "Alibaba オープンソース Qwen-UI-Agent: 実機のマルチモーダル ベース モデルがデビュー",
           "title_en": null,
-          "title_original": "LFM2.5 DSpark草稿模型发布，推理速度最高飙升3. 18 倍",
+          "title_original": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30528",
+          "url": "https://www.aibase.com/news/30530",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-21T07:05:34.970031Z"
+          "published_at": "2026-08-21T07:55:15.770193Z"
         }
       ],
       "source_count": 1,
@@ -1521,34 +1610,34 @@
       ],
       "items": [
         {
-          "id": "1567b723363c36458c4ff930033d5c8e54b461bc",
-          "title": "LFM2.5 DSpark草稿模型发布，推理速度最高飙升3. 18 倍",
-          "title_zh": "LFM2.5 DSpark草稿模型发布，推理速度最高飙升3. 18 倍",
-          "title_ja": "LFM2.5 DSpark ドラフトモデルがリリース、推論速度が最大 3.18 倍に向上",
+          "id": "8cc6ca966d2309492abf1506c74f23ac175077ff",
+          "title": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
+          "title_zh": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
+          "title_ja": "Alibaba オープンソース Qwen-UI-Agent: 実機のマルチモーダル ベース モデルがデビュー",
           "title_en": null,
-          "title_original": "LFM2.5 DSpark草稿模型发布，推理速度最高飙升3. 18 倍",
+          "title_original": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30528",
+          "url": "https://www.aibase.com/news/30530",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-21T07:05:34.970031Z"
+          "published_at": "2026-08-21T07:55:15.770193Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7606,
-      "importance": 0.7606,
-      "importance_score": 0.7606,
+      "score": 0.7604,
+      "importance": 0.7604,
+      "importance_score": 0.7604,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.961,
+        "recency": 0.9599,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1556,19 +1645,19 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-21T07:05:34.970031Z",
-      "latest_at": "2026-08-21T07:05:34.970031Z",
+      "earliest_at": "2026-08-21T07:55:15.770193Z",
+      "latest_at": "2026-08-21T07:55:15.770193Z",
       "primary_item": {
-        "id": "1567b723363c36458c4ff930033d5c8e54b461bc",
-        "title": "LFM2.5 DSpark草稿模型发布，推理速度最高飙升3. 18 倍",
-        "title_zh": "LFM2.5 DSpark草稿模型发布，推理速度最高飙升3. 18 倍",
-        "title_ja": "LFM2.5 DSpark ドラフトモデルがリリース、推論速度が最大 3.18 倍に向上",
+        "id": "8cc6ca966d2309492abf1506c74f23ac175077ff",
+        "title": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
+        "title_zh": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
+        "title_ja": "Alibaba オープンソース Qwen-UI-Agent: 実機のマルチモーダル ベース モデルがデビュー",
         "title_en": null,
-        "title_original": "LFM2.5 DSpark草稿模型发布，推理速度最高飙升3. 18 倍",
+        "title_original": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
         "summary": null,
         "summary_ja": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30528",
+        "url": "https://www.aibase.com/news/30530",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1576,7 +1665,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T09:51:39.618566Z"
+        "scored_at": "2026-08-21T10:47:28.008205Z"
       }
     },
     {
@@ -1695,16 +1784,16 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5636,
-      "importance": 0.5636,
-      "importance_score": 0.5636,
+      "score": 0.5614,
+      "importance": 0.5614,
+      "importance_score": 0.5614,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9601,
+        "recency": 0.9476,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1731,7 +1820,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T09:51:39.618566Z"
+        "scored_at": "2026-08-21T10:47:28.008205Z"
       }
     },
     {
@@ -1850,16 +1939,16 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5564,
-      "importance": 0.5564,
-      "importance_score": 0.5564,
+      "score": 0.5543,
+      "importance": 0.5543,
+      "importance_score": 0.5543,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9202,
+        "recency": 0.9082,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1886,7 +1975,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T09:51:39.618566Z"
+        "scored_at": "2026-08-21T10:47:28.008205Z"
       }
     },
     {
@@ -1931,7 +2020,7 @@
           "published_at": "2026-08-21T01:39:54.537000Z"
         },
         {
-          "id": "1f0adaa467f3bb6dd7184686fce4d29748a58ca9",
+          "id": "d35d1106bee95741ab4e1b435a8cd6cc8a5dea50",
           "title": "在欧盟，版权不保护由人工智能生成的内容 / Copyright does not protect AI-generated content in EU",
           "title_zh": "在欧盟，版权不保护由人工智能生成的内容",
           "title_ja": "EUではAI生成コンテンツは著作権で保護されない",
@@ -1941,15 +2030,15 @@
           "summary_ja": null,
           "recommend_reason_zh": null,
           "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-21T00:15:12Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "hackernews",
         "mathstodon.xyz"
       ],
@@ -1987,7 +2076,7 @@
           "published_at": "2026-08-21T01:39:54.537000Z"
         },
         {
-          "id": "1f0adaa467f3bb6dd7184686fce4d29748a58ca9",
+          "id": "d35d1106bee95741ab4e1b435a8cd6cc8a5dea50",
           "title": "在欧盟，版权不保护由人工智能生成的内容 / Copyright does not protect AI-generated content in EU",
           "title_zh": "在欧盟，版权不保护由人工智能生成的内容",
           "title_ja": "EUではAI生成コンテンツは著作権で保護されない",
@@ -1997,24 +2086,24 @@
           "summary_ja": null,
           "recommend_reason_zh": null,
           "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-21T00:15:12Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5521,
-      "importance": 0.5521,
-      "importance_score": 0.5521,
+      "score": 0.55,
+      "importance": 0.55,
+      "importance_score": 0.55,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8958,
+        "recency": 0.8842,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -2041,97 +2130,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T09:51:39.618566Z"
-      }
-    },
-    {
-      "story_id": "story_776e3d1fe586",
-      "title": "Mistral推出Agentic Search，多步检索将复杂文档准确率提升至86%",
-      "title_ja": "ミストラルは、複雑なドキュメントの精度を 86% に高める複数ステップの検索である Agentic Search を開始します",
-      "url": "https://www.aibase.com/news/30529",
-      "primary_url": "https://www.aibase.com/news/30529",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "657ab5eda5b2404dc5aec1aac2b065a5990be4c7",
-          "title": "Mistral推出Agentic Search，多步检索将复杂文档准确率提升至86%",
-          "title_zh": "Mistral推出Agentic Search，多步检索将复杂文档准确率提升至86%",
-          "title_ja": "ミストラルは、複雑なドキュメントの精度を 86% に高める複数ステップの検索である Agentic Search を開始します",
-          "title_en": null,
-          "title_original": "Mistral推出Agentic Search，多步检索将复杂文档准确率提升至86%",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30529",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-21T07:05:34.970031Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "657ab5eda5b2404dc5aec1aac2b065a5990be4c7",
-          "title": "Mistral推出Agentic Search，多步检索将复杂文档准确率提升至86%",
-          "title_zh": "Mistral推出Agentic Search，多步检索将复杂文档准确率提升至86%",
-          "title_ja": "ミストラルは、複雑なドキュメントの精度を 86% に高める複数ステップの検索である Agentic Search を開始します",
-          "title_en": null,
-          "title_original": "Mistral推出Agentic Search，多步检索将复杂文档准确率提升至86%",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30529",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-21T07:05:34.970031Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7606,
-      "importance": 0.7606,
-      "importance_score": 0.7606,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.961,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-21T07:05:34.970031Z",
-      "latest_at": "2026-08-21T07:05:34.970031Z",
-      "primary_item": {
-        "id": "657ab5eda5b2404dc5aec1aac2b065a5990be4c7",
-        "title": "Mistral推出Agentic Search，多步检索将复杂文档准确率提升至86%",
-        "title_zh": "Mistral推出Agentic Search，多步检索将复杂文档准确率提升至86%",
-        "title_ja": "ミストラルは、複雑なドキュメントの精度を 86% に高める複数ステップの検索である Agentic Search を開始します",
-        "title_en": null,
-        "title_original": "Mistral推出Agentic Search，多步检索将复杂文档准确率提升至86%",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30529",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-21T09:51:39.618566Z"
+        "scored_at": "2026-08-21T10:47:28.008205Z"
       }
     }
   ]
