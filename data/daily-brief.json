@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T10:45:10.899674Z",
+  "generated_at": "2026-08-21T11:38:52.132303Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -53,16 +53,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8191,
-      "importance": 0.8191,
-      "importance_score": 0.8191,
+      "score": 0.8173,
+      "importance": 0.8173,
+      "importance_score": 0.8173,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7725,
+        "recency": 0.7626,
         "story_heat": 0.0
       },
       "category": "official",
@@ -91,7 +91,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T10:47:28.008205Z"
+        "scored_at": "2026-08-21T11:39:57.370365Z"
       }
     },
     {
@@ -144,16 +144,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.817,
-      "importance": 0.817,
-      "importance_score": 0.817,
+      "score": 0.815,
+      "importance": 0.815,
+      "importance_score": 0.815,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8499,
+        "recency": 0.839,
         "story_heat": 0.0
       },
       "category": "official",
@@ -182,7 +182,164 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T10:47:28.008205Z"
+        "scored_at": "2026-08-21T11:39:57.370365Z"
+      }
+    },
+    {
+      "story_id": "story_1942460359a8",
+      "title": "DeepSeek-V4-Flash-Vision-Exp 发布",
+      "title_ja": "DeepSeek-V4-Flash-Vision-Exp リリース",
+      "url": "https://api-docs.deepseek.com/zh-cn/updates",
+      "primary_url": "https://api-docs.deepseek.com/zh-cn/updates",
+      "source": "DeepSeek：API 更新日志",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "3292523df0d3dc1a19bfb08fadf619c3e5dabd12",
+          "title": "DeepSeek-V4-Flash-Vision-Exp 发布",
+          "title_zh": "DeepSeek-V4-Flash-Vision-Exp 发布",
+          "title_ja": "DeepSeek-V4-Flash-Vision-Exp リリース",
+          "title_en": null,
+          "title_original": "DeepSeek-V4-Flash-Vision-Exp 发布",
+          "summary": "DeepSeek 上线实验性多模态视觉理解模型 DeepSeek-V4-Flash-Vision-Exp，可通过设置 model='deepseek-v4-flash-vision-exp' 在 API 平台访问。",
+          "summary_ja": "DeepSeek は、実験的なマルチモーダル視覚理解モデル DeepSeek-V4-Flash-Vision-Exp を起動します。これは、model='deepseek-v4-flash-vision-exp' を設定することで API プラットフォームでアクセスできます。",
+          "recommend_reason_zh": null,
+          "url": "https://api-docs.deepseek.com/zh-cn/updates",
+          "source": "DeepSeek：API 更新日志",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-21T09:26:04.727000Z"
+        },
+        {
+          "id": "c0e5aa36939a18104f0fbf98078d162328862503",
+          "title": "DeepSeek-v4-flash-vision-exp",
+          "title_zh": null,
+          "title_ja": "DeepSeek-v4-フラッシュビジョン-exp",
+          "title_en": "DeepSeek-v4-flash-vision-exp",
+          "title_original": "DeepSeek-v4-flash-vision-exp",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49386163",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-21T11:39:13.920000Z"
+        },
+        {
+          "id": "a12b55b02d9bf63d772eb34c75c073566b570131",
+          "title": "DeepSeek-v4-flash-vision-exp",
+          "title_zh": null,
+          "title_ja": "DeepSeek-v4-フラッシュビジョン-exp",
+          "title_en": "DeepSeek-v4-flash-vision-exp",
+          "title_original": "DeepSeek-v4-flash-vision-exp",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://api-docs.deepseek.com/guides/vision",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-21T10:33:56Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "DeepSeek：API 更新日志",
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "3292523df0d3dc1a19bfb08fadf619c3e5dabd12",
+          "title": "DeepSeek-V4-Flash-Vision-Exp 发布",
+          "title_zh": "DeepSeek-V4-Flash-Vision-Exp 发布",
+          "title_ja": "DeepSeek-V4-Flash-Vision-Exp リリース",
+          "title_en": null,
+          "title_original": "DeepSeek-V4-Flash-Vision-Exp 发布",
+          "summary": "DeepSeek 上线实验性多模态视觉理解模型 DeepSeek-V4-Flash-Vision-Exp，可通过设置 model='deepseek-v4-flash-vision-exp' 在 API 平台访问。",
+          "summary_ja": "DeepSeek は、実験的なマルチモーダル視覚理解モデル DeepSeek-V4-Flash-Vision-Exp を起動します。これは、model='deepseek-v4-flash-vision-exp' を設定することで API プラットフォームでアクセスできます。",
+          "recommend_reason_zh": null,
+          "url": "https://api-docs.deepseek.com/zh-cn/updates",
+          "source": "DeepSeek：API 更新日志",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-21T09:26:04.727000Z"
+        },
+        {
+          "id": "c0e5aa36939a18104f0fbf98078d162328862503",
+          "title": "DeepSeek-v4-flash-vision-exp",
+          "title_zh": null,
+          "title_ja": "DeepSeek-v4-フラッシュビジョン-exp",
+          "title_en": "DeepSeek-v4-flash-vision-exp",
+          "title_original": "DeepSeek-v4-flash-vision-exp",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49386163",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-21T11:39:13.920000Z"
+        },
+        {
+          "id": "a12b55b02d9bf63d772eb34c75c073566b570131",
+          "title": "DeepSeek-v4-flash-vision-exp",
+          "title_zh": null,
+          "title_ja": "DeepSeek-v4-フラッシュビジョン-exp",
+          "title_en": "DeepSeek-v4-flash-vision-exp",
+          "title_original": "DeepSeek-v4-flash-vision-exp",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://api-docs.deepseek.com/guides/vision",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-21T10:33:56Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.7969,
+      "importance": 0.7969,
+      "importance_score": 0.7969,
+      "importance_label": "多源热议",
+      "importance_label_ja": "複数ソースで話題",
+      "importance_breakdown": {
+        "editorial": 0.67,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9685,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-21T09:26:04.727000Z",
+      "latest_at": "2026-08-21T11:39:13.920000Z",
+      "primary_item": {
+        "id": "3292523df0d3dc1a19bfb08fadf619c3e5dabd12",
+        "title": "DeepSeek-V4-Flash-Vision-Exp 发布",
+        "title_zh": "DeepSeek-V4-Flash-Vision-Exp 发布",
+        "title_ja": "DeepSeek-V4-Flash-Vision-Exp リリース",
+        "title_en": null,
+        "title_original": "DeepSeek-V4-Flash-Vision-Exp 发布",
+        "summary": "DeepSeek 上线实验性多模态视觉理解模型 DeepSeek-V4-Flash-Vision-Exp，可通过设置 model='deepseek-v4-flash-vision-exp' 在 API 平台访问。",
+        "summary_ja": "DeepSeek は、実験的なマルチモーダル視覚理解モデル DeepSeek-V4-Flash-Vision-Exp を起動します。これは、model='deepseek-v4-flash-vision-exp' を設定することで API プラットフォームでアクセスできます。",
+        "recommend_reason_zh": null,
+        "url": "https://api-docs.deepseek.com/zh-cn/updates",
+        "source": "DeepSeek：API 更新日志",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-21T11:39:57.370365Z"
       }
     },
     {
@@ -235,16 +392,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8051,
-      "importance": 0.8051,
-      "importance_score": 0.8051,
+      "score": 0.8033,
+      "importance": 0.8033,
+      "importance_score": 0.8033,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7837,
+        "recency": 0.7737,
         "story_heat": 0.0
       },
       "category": "official",
@@ -273,7 +430,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T10:47:28.008205Z"
+        "scored_at": "2026-08-21T11:39:57.370365Z"
       }
     },
     {
@@ -326,16 +483,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7732,
-      "importance": 0.7732,
-      "importance_score": 0.7732,
+      "score": 0.7709,
+      "importance": 0.7709,
+      "importance_score": 0.7709,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9811,
+        "recency": 0.9685,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -363,7 +520,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T10:47:28.008205Z"
+        "scored_at": "2026-08-21T11:39:57.370365Z"
       }
     },
     {
@@ -416,16 +573,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7653,
+      "importance": 0.7653,
+      "importance_score": 0.7653,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9872,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -453,7 +610,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T10:47:28.008205Z"
+        "scored_at": "2026-08-21T11:39:57.370365Z"
       }
     },
     {
@@ -506,16 +663,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7584,
-      "importance": 0.7584,
-      "importance_score": 0.7584,
+      "score": 0.7566,
+      "importance": 0.7566,
+      "importance_score": 0.7566,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7632,
+        "recency": 0.7534,
         "story_heat": 0.0
       },
       "category": "official",
@@ -543,96 +700,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T10:47:28.008205Z"
-      }
-    },
-    {
-      "story_id": "story_1942460359a8",
-      "title": "DeepSeek-V4-Flash-Vision-Exp 发布",
-      "title_ja": "DeepSeek-V4-Flash-Vision-Exp リリース",
-      "url": "https://api-docs.deepseek.com/zh-cn/updates",
-      "primary_url": "https://api-docs.deepseek.com/zh-cn/updates",
-      "source": "DeepSeek：API 更新日志",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "3292523df0d3dc1a19bfb08fadf619c3e5dabd12",
-          "title": "DeepSeek-V4-Flash-Vision-Exp 发布",
-          "title_zh": "DeepSeek-V4-Flash-Vision-Exp 发布",
-          "title_ja": "DeepSeek-V4-Flash-Vision-Exp リリース",
-          "title_en": null,
-          "title_original": "DeepSeek-V4-Flash-Vision-Exp 发布",
-          "summary": "DeepSeek 上线实验性多模态视觉理解模型 DeepSeek-V4-Flash-Vision-Exp，可通过设置 model='deepseek-v4-flash-vision-exp' 在 API 平台访问。",
-          "summary_ja": "DeepSeek は、実験的なマルチモーダル視覚理解モデル DeepSeek-V4-Flash-Vision-Exp を起動します。これは、model='deepseek-v4-flash-vision-exp' を設定することで API プラットフォームでアクセスできます。",
-          "recommend_reason_zh": null,
-          "url": "https://api-docs.deepseek.com/zh-cn/updates",
-          "source": "DeepSeek：API 更新日志",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-21T09:26:04.727000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "DeepSeek：API 更新日志"
-      ],
-      "items": [
-        {
-          "id": "3292523df0d3dc1a19bfb08fadf619c3e5dabd12",
-          "title": "DeepSeek-V4-Flash-Vision-Exp 发布",
-          "title_zh": "DeepSeek-V4-Flash-Vision-Exp 发布",
-          "title_ja": "DeepSeek-V4-Flash-Vision-Exp リリース",
-          "title_en": null,
-          "title_original": "DeepSeek-V4-Flash-Vision-Exp 发布",
-          "summary": "DeepSeek 上线实验性多模态视觉理解模型 DeepSeek-V4-Flash-Vision-Exp，可通过设置 model='deepseek-v4-flash-vision-exp' 在 API 平台访问。",
-          "summary_ja": "DeepSeek は、実験的なマルチモーダル視覚理解モデル DeepSeek-V4-Flash-Vision-Exp を起動します。これは、model='deepseek-v4-flash-vision-exp' を設定することで API プラットフォームでアクセスできます。",
-          "recommend_reason_zh": null,
-          "url": "https://api-docs.deepseek.com/zh-cn/updates",
-          "source": "DeepSeek：API 更新日志",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-21T09:26:04.727000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7492,
-      "importance": 0.7492,
-      "importance_score": 0.7492,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9811,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-21T09:26:04.727000Z",
-      "latest_at": "2026-08-21T09:26:04.727000Z",
-      "primary_item": {
-        "id": "3292523df0d3dc1a19bfb08fadf619c3e5dabd12",
-        "title": "DeepSeek-V4-Flash-Vision-Exp 发布",
-        "title_zh": "DeepSeek-V4-Flash-Vision-Exp 发布",
-        "title_ja": "DeepSeek-V4-Flash-Vision-Exp リリース",
-        "title_en": null,
-        "title_original": "DeepSeek-V4-Flash-Vision-Exp 发布",
-        "summary": "DeepSeek 上线实验性多模态视觉理解模型 DeepSeek-V4-Flash-Vision-Exp，可通过设置 model='deepseek-v4-flash-vision-exp' 在 API 平台访问。",
-        "summary_ja": "DeepSeek は、実験的なマルチモーダル視覚理解モデル DeepSeek-V4-Flash-Vision-Exp を起動します。これは、model='deepseek-v4-flash-vision-exp' を設定することで API プラットフォームでアクセスできます。",
-        "recommend_reason_zh": null,
-        "url": "https://api-docs.deepseek.com/zh-cn/updates",
-        "source": "DeepSeek：API 更新日志",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-21T10:47:28.008205Z"
+        "scored_at": "2026-08-21T11:39:57.370365Z"
       }
     },
     {
@@ -685,16 +753,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7998,
-      "importance": 0.7998,
-      "importance_score": 0.7998,
+      "score": 0.7981,
+      "importance": 0.7981,
+      "importance_score": 0.7981,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7545,
+        "recency": 0.7448,
         "story_heat": 0.0
       },
       "category": "official",
@@ -723,7 +791,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T10:47:28.008205Z"
+        "scored_at": "2026-08-21T11:39:57.370365Z"
       }
     },
     {
@@ -776,16 +844,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7653,
-      "importance": 0.7653,
-      "importance_score": 0.7653,
+      "score": 0.763,
+      "importance": 0.763,
+      "importance_score": 0.763,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.987,
+        "recency": 0.9743,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -813,7 +881,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T10:47:28.008205Z"
+        "scored_at": "2026-08-21T11:39:57.370365Z"
       }
     },
     {
@@ -866,16 +934,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7983,
-      "importance": 0.7983,
-      "importance_score": 0.7983,
+      "score": 0.7966,
+      "importance": 0.7966,
+      "importance_score": 0.7966,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7462,
+        "recency": 0.7366,
         "story_heat": 0.0
       },
       "category": "official",
@@ -904,7 +972,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T10:47:28.008205Z"
+        "scored_at": "2026-08-21T11:39:57.370365Z"
       }
     },
     {
@@ -957,16 +1025,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7653,
-      "importance": 0.7653,
-      "importance_score": 0.7653,
+      "score": 0.763,
+      "importance": 0.763,
+      "importance_score": 0.763,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.987,
+        "recency": 0.9743,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -994,7 +1062,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T10:47:28.008205Z"
+        "scored_at": "2026-08-21T11:39:57.370365Z"
       }
     },
     {
@@ -1047,16 +1115,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7983,
-      "importance": 0.7983,
-      "importance_score": 0.7983,
+      "score": 0.7966,
+      "importance": 0.7966,
+      "importance_score": 0.7966,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7463,
+        "recency": 0.7367,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1085,7 +1153,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T10:47:28.008205Z"
+        "scored_at": "2026-08-21T11:39:57.370365Z"
       }
     },
     {
@@ -1138,16 +1206,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7653,
-      "importance": 0.7653,
-      "importance_score": 0.7653,
+      "score": 0.763,
+      "importance": 0.763,
+      "importance_score": 0.763,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.987,
+        "recency": 0.9743,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1175,7 +1243,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T10:47:28.008205Z"
+        "scored_at": "2026-08-21T11:39:57.370365Z"
       }
     },
     {
@@ -1228,16 +1296,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7629,
-      "importance": 0.7629,
-      "importance_score": 0.7629,
+      "score": 0.7607,
+      "importance": 0.7607,
+      "importance_score": 0.7607,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.974,
+        "recency": 0.9615,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1265,7 +1333,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T10:47:28.008205Z"
+        "scored_at": "2026-08-21T11:39:57.370365Z"
       }
     },
     {
@@ -1318,16 +1386,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7604,
-      "importance": 0.7604,
-      "importance_score": 0.7604,
+      "score": 0.7582,
+      "importance": 0.7582,
+      "importance_score": 0.7582,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9599,
+        "recency": 0.9476,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1355,7 +1423,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T10:47:28.008205Z"
+        "scored_at": "2026-08-21T11:39:57.370365Z"
       }
     },
     {
@@ -1539,16 +1607,16 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5899,
-      "importance": 0.5899,
-      "importance_score": 0.5899,
+      "score": 0.588,
+      "importance": 0.588,
+      "importance_score": 0.588,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8282,
+        "recency": 0.8176,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1575,7 +1643,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T10:47:28.008205Z"
+        "scored_at": "2026-08-21T11:39:57.370365Z"
       }
     },
     {
@@ -1628,16 +1696,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7604,
-      "importance": 0.7604,
-      "importance_score": 0.7604,
+      "score": 0.7582,
+      "importance": 0.7582,
+      "importance_score": 0.7582,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9599,
+        "recency": 0.9476,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1665,7 +1733,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T10:47:28.008205Z"
+        "scored_at": "2026-08-21T11:39:57.370365Z"
       }
     },
     {
@@ -1784,16 +1852,16 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5614,
-      "importance": 0.5614,
-      "importance_score": 0.5614,
+      "score": 0.5592,
+      "importance": 0.5592,
+      "importance_score": 0.5592,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9476,
+        "recency": 0.9354,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1820,7 +1888,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T10:47:28.008205Z"
+        "scored_at": "2026-08-21T11:39:57.370365Z"
       }
     },
     {
@@ -1939,16 +2007,16 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5543,
-      "importance": 0.5543,
-      "importance_score": 0.5543,
+      "score": 0.5522,
+      "importance": 0.5522,
+      "importance_score": 0.5522,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9082,
+        "recency": 0.8966,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1975,7 +2043,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T10:47:28.008205Z"
+        "scored_at": "2026-08-21T11:39:57.370365Z"
       }
     },
     {
@@ -2094,16 +2162,16 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.55,
-      "importance": 0.55,
-      "importance_score": 0.55,
+      "score": 0.5479,
+      "importance": 0.5479,
+      "importance_score": 0.5479,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8842,
+        "recency": 0.8728,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -2130,7 +2198,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-21T10:47:28.008205Z"
+        "scored_at": "2026-08-21T11:39:57.370365Z"
       }
     }
   ]
