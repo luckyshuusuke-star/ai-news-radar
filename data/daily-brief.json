@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T18:47:15.785925Z",
+  "generated_at": "2026-08-22T19:33:03.400794Z",
   "window_hours": 24,
   "total_items": 8,
   "items": [
@@ -53,16 +53,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7531,
-      "importance": 0.7531,
-      "importance_score": 0.7531,
+      "score": 0.7513,
+      "importance": 0.7513,
+      "importance_score": 0.7513,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9363,
+        "recency": 0.926,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -90,7 +90,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T18:48:00.817555Z"
+        "scored_at": "2026-08-22T19:44:11.065604Z"
       }
     },
     {
@@ -209,16 +209,16 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5666,
-      "importance": 0.5666,
-      "importance_score": 0.5666,
+      "score": 0.5647,
+      "importance": 0.5647,
+      "importance_score": 0.5647,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9767,
+        "recency": 0.966,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -245,7 +245,129 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T18:48:00.817555Z"
+        "scored_at": "2026-08-22T19:44:11.065604Z"
+      }
+    },
+    {
+      "story_id": "story_1b8b8b782f3a",
+      "title": "中国机器人1亿次冲刺跑速超过尤塞恩·博尔特的世界纪录 / Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
+      "title_ja": "中国のロボットが1億走走をウサイン・ボルトの世界記録より速く走る",
+      "url": "https://news.ycombinator.com/item?id=49399642",
+      "primary_url": "https://news.ycombinator.com/item?id=49399642",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "7ae963cdfe7665e0ab25518a8804682b1d4ead67",
+          "title": "中国机器人1亿次冲刺跑速超过尤塞恩·博尔特的世界纪录 / Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
+          "title_zh": "中国机器人1亿次冲刺跑速超过尤塞恩·博尔特的世界纪录",
+          "title_ja": "中国のロボットが1億走走をウサイン・ボルトの世界記録より速く走る",
+          "title_en": "Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
+          "title_original": "Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49399642",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-22T19:05:40.131000Z"
+        },
+        {
+          "id": "ef1ac03c09bb8eff067942d548cd947f445b2980",
+          "title": "中国机器人1亿次冲刺跑速超过尤塞恩·博尔特的世界纪录 / Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
+          "title_zh": "中国机器人1亿次冲刺跑速超过尤塞恩·博尔特的世界纪录",
+          "title_ja": "中国のロボットが1億走走をウサイン・ボルトの世界記録より速く走る",
+          "title_en": "Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
+          "title_original": "Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theguardian.com/sport/2026/aug/22/chinese-robot-runs-100m-sprint-quicker-usain-bolt-world-record",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-22T13:39:07Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "7ae963cdfe7665e0ab25518a8804682b1d4ead67",
+          "title": "中国机器人1亿次冲刺跑速超过尤塞恩·博尔特的世界纪录 / Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
+          "title_zh": "中国机器人1亿次冲刺跑速超过尤塞恩·博尔特的世界纪录",
+          "title_ja": "中国のロボットが1億走走をウサイン・ボルトの世界記録より速く走る",
+          "title_en": "Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
+          "title_original": "Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49399642",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-22T19:05:40.131000Z"
+        },
+        {
+          "id": "ef1ac03c09bb8eff067942d548cd947f445b2980",
+          "title": "中国机器人1亿次冲刺跑速超过尤塞恩·博尔特的世界纪录 / Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
+          "title_zh": "中国机器人1亿次冲刺跑速超过尤塞恩·博尔特的世界纪录",
+          "title_ja": "中国のロボットが1億走走をウサイン・ボルトの世界記録より速く走る",
+          "title_en": "Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
+          "title_original": "Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theguardian.com/sport/2026/aug/22/chinese-robot-runs-100m-sprint-quicker-usain-bolt-world-record",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-22T13:39:07Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5446,
+      "importance": 0.5446,
+      "importance_score": 0.5446,
+      "importance_label": "值得关注",
+      "importance_label_ja": "要注目",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9934,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-22T13:39:07Z",
+      "latest_at": "2026-08-22T19:05:40.131000Z",
+      "primary_item": {
+        "id": "7ae963cdfe7665e0ab25518a8804682b1d4ead67",
+        "title": "中国机器人1亿次冲刺跑速超过尤塞恩·博尔特的世界纪录 / Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
+        "title_zh": "中国机器人1亿次冲刺跑速超过尤塞恩·博尔特的世界纪录",
+        "title_ja": "中国のロボットが1億走走をウサイン・ボルトの世界記録より速く走る",
+        "title_en": "Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
+        "title_original": "Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49399642",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-22T19:44:11.065604Z"
       }
     },
     {
@@ -330,16 +452,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5453,
-      "importance": 0.5453,
-      "importance_score": 0.5453,
+      "score": 0.5433,
+      "importance": 0.5433,
+      "importance_score": 0.5433,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9972,
+        "recency": 0.9863,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -366,7 +488,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T18:48:00.817555Z"
+        "scored_at": "2026-08-22T19:44:11.065604Z"
       }
     },
     {
@@ -395,7 +517,7 @@
           "published_at": "2026-08-22T17:11:08.754000Z"
         },
         {
-          "id": "00cfeb92a44fb91620deb3d7f679e17afae6e96f",
+          "id": "41337639170e8377fa3ca0c7fc5d554d61e9b0d8",
           "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
           "title_zh": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素",
           "title_ja": "人間的なIPO申請はAIの反発をリスク要因として示すだろうと情報筋が語る",
@@ -405,15 +527,15 @@
           "summary_ja": null,
           "recommend_reason_zh": null,
           "url": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-22T16:23:09Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
@@ -434,7 +556,7 @@
           "published_at": "2026-08-22T17:11:08.754000Z"
         },
         {
-          "id": "00cfeb92a44fb91620deb3d7f679e17afae6e96f",
+          "id": "41337639170e8377fa3ca0c7fc5d554d61e9b0d8",
           "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
           "title_zh": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素",
           "title_ja": "人間的なIPO申請はAIの反発をリスク要因として示すだろうと情報筋が語る",
@@ -444,24 +566,24 @@
           "summary_ja": null,
           "recommend_reason_zh": null,
           "url": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-22T16:23:09Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5417,
-      "importance": 0.5417,
-      "importance_score": 0.5417,
+      "score": 0.5398,
+      "importance": 0.5398,
+      "importance_score": 0.5398,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9771,
+        "recency": 0.9664,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -488,7 +610,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T18:48:00.817555Z"
+        "scored_at": "2026-08-22T19:44:11.065604Z"
       }
     },
     {
@@ -574,16 +696,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5367,
-      "importance": 0.5367,
-      "importance_score": 0.5367,
+      "score": 0.5348,
+      "importance": 0.5348,
+      "importance_score": 0.5348,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9492,
+        "recency": 0.9388,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -610,7 +732,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T18:48:00.817555Z"
+        "scored_at": "2026-08-22T19:44:11.065604Z"
       }
     },
     {
@@ -696,16 +818,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.517,
-      "importance": 0.517,
-      "importance_score": 0.517,
+      "score": 0.5154,
+      "importance": 0.5154,
+      "importance_score": 0.5154,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8402,
+        "recency": 0.831,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -732,129 +854,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T18:48:00.817555Z"
-      }
-    },
-    {
-      "story_id": "story_6330aea85a01",
-      "title": "将 Claude Mythos 5 的网络安全功能带给更多防御者 / Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
-      "title_ja": "Claude Mythos 5 のサイバーセキュリティ機能をより多くの防御者に提供",
-      "url": "https://news.ycombinator.com/item?id=49392331",
-      "primary_url": "https://news.ycombinator.com/item?id=49392331",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "971dde61ec78c8703764ec06ef6c60b4d8ec5efb",
-          "title": "将 Claude Mythos 5 的网络安全功能带给更多防御者 / Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
-          "title_zh": "将 Claude Mythos 5 的网络安全功能带给更多防御者",
-          "title_ja": "Claude Mythos 5 のサイバーセキュリティ機能をより多くの防御者に提供",
-          "title_en": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
-          "title_original": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49392331",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-21T20:38:56.068000Z"
-        },
-        {
-          "id": "331265edd529fd98aac44fbe554e59c57cd04594",
-          "title": "将 Claude Mythos 5 的网络安全功能带给更多防御者 / Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
-          "title_zh": "将 Claude Mythos 5 的网络安全功能带给更多防御者",
-          "title_ja": "Claude Mythos 5 のサイバーセキュリティ機能をより多くの防御者に提供",
-          "title_en": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
-          "title_original": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-21T18:48:28Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "971dde61ec78c8703764ec06ef6c60b4d8ec5efb",
-          "title": "将 Claude Mythos 5 的网络安全功能带给更多防御者 / Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
-          "title_zh": "将 Claude Mythos 5 的网络安全功能带给更多防御者",
-          "title_ja": "Claude Mythos 5 のサイバーセキュリティ機能をより多くの防御者に提供",
-          "title_en": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
-          "title_original": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49392331",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-21T20:38:56.068000Z"
-        },
-        {
-          "id": "331265edd529fd98aac44fbe554e59c57cd04594",
-          "title": "将 Claude Mythos 5 的网络安全功能带给更多防御者 / Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
-          "title_zh": "将 Claude Mythos 5 的网络安全功能带给更多防御者",
-          "title_ja": "Claude Mythos 5 のサイバーセキュリティ機能をより多くの防御者に提供",
-          "title_en": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
-          "title_original": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-21T18:48:28Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4965,
-      "importance": 0.4965,
-      "importance_score": 0.4965,
-      "importance_label": "值得关注",
-      "importance_label_ja": "要注目",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7264,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-21T18:48:28Z",
-      "latest_at": "2026-08-21T20:38:56.068000Z",
-      "primary_item": {
-        "id": "971dde61ec78c8703764ec06ef6c60b4d8ec5efb",
-        "title": "将 Claude Mythos 5 的网络安全功能带给更多防御者 / Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
-        "title_zh": "将 Claude Mythos 5 的网络安全功能带给更多防御者",
-        "title_ja": "Claude Mythos 5 のサイバーセキュリティ機能をより多くの防御者に提供",
-        "title_en": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
-        "title_original": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49392331",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-22T18:48:00.817555Z"
+        "scored_at": "2026-08-22T19:44:11.065604Z"
       }
     },
     {
@@ -940,16 +940,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4965,
-      "importance": 0.4965,
-      "importance_score": 0.4965,
+      "score": 0.4951,
+      "importance": 0.4951,
+      "importance_score": 0.4951,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7264,
+        "recency": 0.7184,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -976,7 +976,7 @@
       "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T18:48:00.817555Z"
+        "scored_at": "2026-08-22T19:44:11.065604Z"
       }
     }
   ]
