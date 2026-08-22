@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T17:34:07.912663Z",
+  "generated_at": "2026-08-22T18:47:15.785925Z",
   "window_hours": 24,
   "total_items": 8,
   "items": [
@@ -53,16 +53,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7561,
-      "importance": 0.7561,
-      "importance_score": 0.7561,
+      "score": 0.7531,
+      "importance": 0.7531,
+      "importance_score": 0.7531,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9529,
+        "recency": 0.9363,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -90,130 +90,283 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T17:34:46.844071Z"
+        "scored_at": "2026-08-22T18:48:00.817555Z"
       }
     },
     {
-      "story_id": "story_6330aea85a01",
-      "title": "Claude Mythos 5 网络安全能力扩展至更多防御者 / Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
-      "title_ja": "Claude Mythos 5 のサイバーセキュリティ機能をより多くの防御者に提供",
-      "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
-      "primary_url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
-      "source": "Claude：Blog（网页）",
-      "source_name": "AI HOT",
+      "story_id": "story_ede39af7c879",
+      "title": "新的MCP路线图",
+      "title_ja": "新しい MCP ロードマップ",
+      "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
+      "primary_url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
+      "source": "blog.modelcontextprotocol.io",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "dfc628933c54c7064a20996ac1c3d860e718d025",
-          "title": "Claude Mythos 5 网络安全能力扩展至更多防御者 / Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
-          "title_zh": "Claude Mythos 5 网络安全能力扩展至更多防御者",
-          "title_ja": "Claude Mythos 5 のサイバーセキュリティ機能をより多くの防御者に提供",
-          "title_en": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
-          "title_original": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
-          "summary": "Anthropic 宣布 Claude Mythos 5 现已集成至 Claude Security，并即将登陆合作伙伴的网络安全防御工具。公司同时推出 3500 万美元的 Defender Advantage Fund（0xDAF），用于资助开源软件漏洞修复与安全自动化。",
-          "summary_ja": "Anthropic は、Claude Mythos 5 が Claude Security に統合され、間もなくパートナーのサイバーセキュリティ防御ツールで利用可能になると発表しました。同社はまた、オープンソース ソフトウェアの脆弱性修復とセキュリティ自動化に資金を提供するために、3,500 万ドルの Defender Advantage Fund (0xDAF) を立ち上げました。",
-          "recommend_reason_zh": null,
-          "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-21T17:58:29.461000Z"
-        },
-        {
-          "id": "971dde61ec78c8703764ec06ef6c60b4d8ec5efb",
-          "title": "将 Claude Mythos 5 的网络安全功能带给更多防御者 / Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
-          "title_zh": "将 Claude Mythos 5 的网络安全功能带给更多防御者",
-          "title_ja": "Claude Mythos 5 のサイバーセキュリティ機能をより多くの防御者に提供",
-          "title_en": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
-          "title_original": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+          "id": "4a6634b6d5a9ea7db1689332343baee2481ebb88",
+          "title": "新的MCP路线图",
+          "title_zh": "新的MCP路线图",
+          "title_ja": "新しい MCP ロードマップ",
+          "title_en": null,
+          "title_original": "新的MCP路线图",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49392331",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-21T20:38:56.068000Z"
+          "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
+          "source": "blog.modelcontextprotocol.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-22T17:09:20.269000Z"
+        },
+        {
+          "id": "a35f67c1e673bf06079df9d1a4aac299036b2ebf",
+          "title": "新的MCP路线图 / New MCP Roadmap",
+          "title_zh": "新的MCP路线图",
+          "title_ja": "新しい MCP ロードマップ",
+          "title_en": "New MCP Roadmap",
+          "title_original": "New MCP Roadmap",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-22T13:31:34Z"
+        },
+        {
+          "id": "9e684754ff065321bb00f0fbac4c424271f909be",
+          "title": "新的MCP路线图 / The New MCP Roadmap",
+          "title_zh": "新的MCP路线图",
+          "title_ja": "新しい MCP ロードマップ",
+          "title_en": "The New MCP Roadmap",
+          "title_original": "The New MCP Roadmap",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-22T13:31:34Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
-        "Claude：Blog（网页）",
-        "hackernews"
+        "Hacker News",
+        "Hacker News (黑客新闻)",
+        "blog.modelcontextprotocol.io"
       ],
       "items": [
         {
-          "id": "dfc628933c54c7064a20996ac1c3d860e718d025",
-          "title": "Claude Mythos 5 网络安全能力扩展至更多防御者 / Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
-          "title_zh": "Claude Mythos 5 网络安全能力扩展至更多防御者",
-          "title_ja": "Claude Mythos 5 のサイバーセキュリティ機能をより多くの防御者に提供",
-          "title_en": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
-          "title_original": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
-          "summary": "Anthropic 宣布 Claude Mythos 5 现已集成至 Claude Security，并即将登陆合作伙伴的网络安全防御工具。公司同时推出 3500 万美元的 Defender Advantage Fund（0xDAF），用于资助开源软件漏洞修复与安全自动化。",
-          "summary_ja": "Anthropic は、Claude Mythos 5 が Claude Security に統合され、間もなくパートナーのサイバーセキュリティ防御ツールで利用可能になると発表しました。同社はまた、オープンソース ソフトウェアの脆弱性修復とセキュリティ自動化に資金を提供するために、3,500 万ドルの Defender Advantage Fund (0xDAF) を立ち上げました。",
-          "recommend_reason_zh": null,
-          "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-21T17:58:29.461000Z"
-        },
-        {
-          "id": "971dde61ec78c8703764ec06ef6c60b4d8ec5efb",
-          "title": "将 Claude Mythos 5 的网络安全功能带给更多防御者 / Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
-          "title_zh": "将 Claude Mythos 5 的网络安全功能带给更多防御者",
-          "title_ja": "Claude Mythos 5 のサイバーセキュリティ機能をより多くの防御者に提供",
-          "title_en": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
-          "title_original": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+          "id": "4a6634b6d5a9ea7db1689332343baee2481ebb88",
+          "title": "新的MCP路线图",
+          "title_zh": "新的MCP路线图",
+          "title_ja": "新しい MCP ロードマップ",
+          "title_en": null,
+          "title_original": "新的MCP路线图",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49392331",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-21T20:38:56.068000Z"
+          "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
+          "source": "blog.modelcontextprotocol.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-22T17:09:20.269000Z"
+        },
+        {
+          "id": "a35f67c1e673bf06079df9d1a4aac299036b2ebf",
+          "title": "新的MCP路线图 / New MCP Roadmap",
+          "title_zh": "新的MCP路线图",
+          "title_ja": "新しい MCP ロードマップ",
+          "title_en": "New MCP Roadmap",
+          "title_original": "New MCP Roadmap",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-22T13:31:34Z"
+        },
+        {
+          "id": "9e684754ff065321bb00f0fbac4c424271f909be",
+          "title": "新的MCP路线图 / The New MCP Roadmap",
+          "title_zh": "新的MCP路线图",
+          "title_ja": "新しい MCP ロードマップ",
+          "title_en": "The New MCP Roadmap",
+          "title_original": "The New MCP Roadmap",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-22T13:31:34Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7076,
-      "importance": 0.7076,
-      "importance_score": 0.7076,
-      "importance_label": "值得关注",
-      "importance_label_ja": "要注目",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5666,
+      "importance": 0.5666,
+      "importance_score": 0.5666,
+      "importance_label": "多源热议",
+      "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
-        "editorial": 0.61,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7113,
-        "story_heat": 0.25
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9767,
+        "story_heat": 0.5
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-08-21T17:58:29.461000Z",
-      "latest_at": "2026-08-21T20:38:56.068000Z",
+      "earliest_at": "2026-08-22T13:31:34Z",
+      "latest_at": "2026-08-22T17:09:20.269000Z",
       "primary_item": {
-        "id": "dfc628933c54c7064a20996ac1c3d860e718d025",
-        "title": "Claude Mythos 5 网络安全能力扩展至更多防御者 / Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
-        "title_zh": "Claude Mythos 5 网络安全能力扩展至更多防御者",
-        "title_ja": "Claude Mythos 5 のサイバーセキュリティ機能をより多くの防御者に提供",
-        "title_en": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
-        "title_original": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
-        "summary": "Anthropic 宣布 Claude Mythos 5 现已集成至 Claude Security，并即将登陆合作伙伴的网络安全防御工具。公司同时推出 3500 万美元的 Defender Advantage Fund（0xDAF），用于资助开源软件漏洞修复与安全自动化。",
-        "summary_ja": "Anthropic は、Claude Mythos 5 が Claude Security に統合され、間もなくパートナーのサイバーセキュリティ防御ツールで利用可能になると発表しました。同社はまた、オープンソース ソフトウェアの脆弱性修復とセキュリティ自動化に資金を提供するために、3,500 万ドルの Defender Advantage Fund (0xDAF) を立ち上げました。",
+        "id": "4a6634b6d5a9ea7db1689332343baee2481ebb88",
+        "title": "新的MCP路线图",
+        "title_zh": "新的MCP路线图",
+        "title_ja": "新しい MCP ロードマップ",
+        "title_en": null,
+        "title_original": "新的MCP路线图",
+        "summary": null,
+        "summary_ja": null,
         "recommend_reason_zh": null,
-        "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
-        "source": "Claude：Blog（网页）",
-        "source_name": "AI HOT"
+        "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
+        "source": "blog.modelcontextprotocol.io",
+        "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T17:34:46.844071Z"
+        "scored_at": "2026-08-22T18:48:00.817555Z"
+      }
+    },
+    {
+      "story_id": "story_e2695a874548",
+      "title": "New MCP Roadmap",
+      "title_ja": "新しい MCP ロードマップ",
+      "url": "https://news.ycombinator.com/item?id=49399591",
+      "primary_url": "https://news.ycombinator.com/item?id=49399591",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "0e2f077268aed88fb421f88ae4403517bd3b6e31",
+          "title": "New MCP Roadmap",
+          "title_zh": null,
+          "title_ja": "新しい MCP ロードマップ",
+          "title_en": "New MCP Roadmap",
+          "title_original": "New MCP Roadmap",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49399591",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-22T18:35:38.893000Z"
+        },
+        {
+          "id": "126ccb3ea5663b832f20fec048de1ac591d03ec8",
+          "title": "The New MCP Roadmap",
+          "title_zh": null,
+          "title_ja": "新しい MCP ロードマップ",
+          "title_en": "The New MCP Roadmap",
+          "title_original": "The New MCP Roadmap",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49399591",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-22T14:10:19.326000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "0e2f077268aed88fb421f88ae4403517bd3b6e31",
+          "title": "New MCP Roadmap",
+          "title_zh": null,
+          "title_ja": "新しい MCP ロードマップ",
+          "title_en": "New MCP Roadmap",
+          "title_original": "New MCP Roadmap",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49399591",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-22T18:35:38.893000Z"
+        },
+        {
+          "id": "126ccb3ea5663b832f20fec048de1ac591d03ec8",
+          "title": "The New MCP Roadmap",
+          "title_zh": null,
+          "title_ja": "新しい MCP ロードマップ",
+          "title_en": "The New MCP Roadmap",
+          "title_original": "The New MCP Roadmap",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49399591",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-22T14:10:19.326000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5453,
+      "importance": 0.5453,
+      "importance_score": 0.5453,
+      "importance_label": "值得关注",
+      "importance_label_ja": "要注目",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9972,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-22T14:10:19.326000Z",
+      "latest_at": "2026-08-22T18:35:38.893000Z",
+      "primary_item": {
+        "id": "0e2f077268aed88fb421f88ae4403517bd3b6e31",
+        "title": "New MCP Roadmap",
+        "title_zh": null,
+        "title_ja": "新しい MCP ロードマップ",
+        "title_en": "New MCP Roadmap",
+        "title_original": "New MCP Roadmap",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49399591",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-22T18:48:00.817555Z"
       }
     },
     {
@@ -299,16 +452,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5448,
-      "importance": 0.5448,
-      "importance_score": 0.5448,
+      "score": 0.5417,
+      "importance": 0.5417,
+      "importance_score": 0.5417,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9945,
+        "recency": 0.9771,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -335,129 +488,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T17:34:46.844071Z"
-      }
-    },
-    {
-      "story_id": "story_e106ae18d313",
-      "title": "新的MCP路线图",
-      "title_ja": "新しい MCP ロードマップ",
-      "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
-      "primary_url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
-      "source": "blog.modelcontextprotocol.io",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "4a6634b6d5a9ea7db1689332343baee2481ebb88",
-          "title": "新的MCP路线图",
-          "title_zh": "新的MCP路线图",
-          "title_ja": "新しい MCP ロードマップ",
-          "title_en": null,
-          "title_original": "新的MCP路线图",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
-          "source": "blog.modelcontextprotocol.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-22T17:09:20.269000Z"
-        },
-        {
-          "id": "9e684754ff065321bb00f0fbac4c424271f909be",
-          "title": "新的MCP路线图 / The New MCP Roadmap",
-          "title_zh": "新的MCP路线图",
-          "title_ja": "新しい MCP ロードマップ",
-          "title_en": "The New MCP Roadmap",
-          "title_original": "The New MCP Roadmap",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-22T13:31:34Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "blog.modelcontextprotocol.io"
-      ],
-      "items": [
-        {
-          "id": "4a6634b6d5a9ea7db1689332343baee2481ebb88",
-          "title": "新的MCP路线图",
-          "title_zh": "新的MCP路线图",
-          "title_ja": "新しい MCP ロードマップ",
-          "title_en": null,
-          "title_original": "新的MCP路线图",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
-          "source": "blog.modelcontextprotocol.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-22T17:09:20.269000Z"
-        },
-        {
-          "id": "9e684754ff065321bb00f0fbac4c424271f909be",
-          "title": "新的MCP路线图 / The New MCP Roadmap",
-          "title_zh": "新的MCP路线图",
-          "title_ja": "新しい MCP ロードマップ",
-          "title_en": "The New MCP Roadmap",
-          "title_original": "The New MCP Roadmap",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-22T13:31:34Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5447,
-      "importance": 0.5447,
-      "importance_score": 0.5447,
-      "importance_label": "值得关注",
-      "importance_label_ja": "要注目",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9941,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-22T13:31:34Z",
-      "latest_at": "2026-08-22T17:09:20.269000Z",
-      "primary_item": {
-        "id": "4a6634b6d5a9ea7db1689332343baee2481ebb88",
-        "title": "新的MCP路线图",
-        "title_zh": "新的MCP路线图",
-        "title_ja": "新しい MCP ロードマップ",
-        "title_en": null,
-        "title_original": "新的MCP路线图",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
-        "source": "blog.modelcontextprotocol.io",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-22T17:34:46.844071Z"
+        "scored_at": "2026-08-22T18:48:00.817555Z"
       }
     },
     {
@@ -543,16 +574,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5397,
-      "importance": 0.5397,
-      "importance_score": 0.5397,
+      "score": 0.5367,
+      "importance": 0.5367,
+      "importance_score": 0.5367,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9661,
+        "recency": 0.9492,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -579,129 +610,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T17:34:46.844071Z"
-      }
-    },
-    {
-      "story_id": "story_b1246b4b0729",
-      "title": "人工智能提高了家庭作业分数，但考试分数却下降了 / AI Boosted Homework Scores, Then Exam Scores Dropped",
-      "title_ja": "AIによって宿題の点数が上がったものの、試験の点数が下がった",
-      "url": "https://news.slashdot.org/story/26/08/21/1951227/ai-boosted-homework-scores-then-exam-scores-dropped",
-      "primary_url": "https://news.slashdot.org/story/26/08/21/1951227/ai-boosted-homework-scores-then-exam-scores-dropped",
-      "source": "Slashdot",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "11d756e585cde87457b7a7ab64787465dbf9847a",
-          "title": "人工智能提高了家庭作业分数，但考试分数却下降了 / AI Boosted Homework Scores, Then Exam Scores Dropped",
-          "title_zh": "人工智能提高了家庭作业分数，但考试分数却下降了",
-          "title_ja": "AIによって宿題の点数が上がったものの、試験の点数が下がった",
-          "title_en": "AI Boosted Homework Scores, Then Exam Scores Dropped",
-          "title_original": "AI Boosted Homework Scores, Then Exam Scores Dropped",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.slashdot.org/story/26/08/21/1951227/ai-boosted-homework-scores-then-exam-scores-dropped",
-          "source": "Slashdot",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-21T20:00:00Z"
-        },
-        {
-          "id": "db4894f377385d87a3519bb6ace4cd2ab62b8a0e",
-          "title": "人工智能提高了家庭作业成绩，但考试成绩却下降了：研究 / AI boosted homework scores, then exam scores dropped: study",
-          "title_zh": "人工智能提高了家庭作业成绩，但考试成绩却下降了：研究",
-          "title_ja": "AI により宿題の得点は上がったが、試験の得点は下がった：研究",
-          "title_en": "AI boosted homework scores, then exam scores dropped: study",
-          "title_original": "AI boosted homework scores, then exam scores dropped: study",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49357530",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-21T18:31:56.086000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Slashdot",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "11d756e585cde87457b7a7ab64787465dbf9847a",
-          "title": "人工智能提高了家庭作业分数，但考试分数却下降了 / AI Boosted Homework Scores, Then Exam Scores Dropped",
-          "title_zh": "人工智能提高了家庭作业分数，但考试分数却下降了",
-          "title_ja": "AIによって宿題の点数が上がったものの、試験の点数が下がった",
-          "title_en": "AI Boosted Homework Scores, Then Exam Scores Dropped",
-          "title_original": "AI Boosted Homework Scores, Then Exam Scores Dropped",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.slashdot.org/story/26/08/21/1951227/ai-boosted-homework-scores-then-exam-scores-dropped",
-          "source": "Slashdot",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-21T20:00:00Z"
-        },
-        {
-          "id": "db4894f377385d87a3519bb6ace4cd2ab62b8a0e",
-          "title": "人工智能提高了家庭作业成绩，但考试成绩却下降了：研究 / AI boosted homework scores, then exam scores dropped: study",
-          "title_zh": "人工智能提高了家庭作业成绩，但考试成绩却下降了：研究",
-          "title_ja": "AI により宿題の得点は上がったが、試験の得点は下がった：研究",
-          "title_en": "AI boosted homework scores, then exam scores dropped: study",
-          "title_original": "AI boosted homework scores, then exam scores dropped: study",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49357530",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-21T18:31:56.086000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4976,
-      "importance": 0.4976,
-      "importance_score": 0.4976,
-      "importance_label": "值得关注",
-      "importance_label_ja": "要注目",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7324,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-21T18:31:56.086000Z",
-      "latest_at": "2026-08-21T20:00:00Z",
-      "primary_item": {
-        "id": "11d756e585cde87457b7a7ab64787465dbf9847a",
-        "title": "人工智能提高了家庭作业分数，但考试分数却下降了 / AI Boosted Homework Scores, Then Exam Scores Dropped",
-        "title_zh": "人工智能提高了家庭作业分数，但考试分数却下降了",
-        "title_ja": "AIによって宿題の点数が上がったものの、試験の点数が下がった",
-        "title_en": "AI Boosted Homework Scores, Then Exam Scores Dropped",
-        "title_original": "AI Boosted Homework Scores, Then Exam Scores Dropped",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.slashdot.org/story/26/08/21/1951227/ai-boosted-homework-scores-then-exam-scores-dropped",
-        "source": "Slashdot",
-        "source_name": "TechURLs"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-22T17:34:46.844071Z"
+        "scored_at": "2026-08-22T18:48:00.817555Z"
       }
     },
     {
@@ -787,16 +696,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5197,
-      "importance": 0.5197,
-      "importance_score": 0.5197,
+      "score": 0.517,
+      "importance": 0.517,
+      "importance_score": 0.517,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8552,
+        "recency": 0.8402,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -823,7 +732,129 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T17:34:46.844071Z"
+        "scored_at": "2026-08-22T18:48:00.817555Z"
+      }
+    },
+    {
+      "story_id": "story_6330aea85a01",
+      "title": "将 Claude Mythos 5 的网络安全功能带给更多防御者 / Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+      "title_ja": "Claude Mythos 5 のサイバーセキュリティ機能をより多くの防御者に提供",
+      "url": "https://news.ycombinator.com/item?id=49392331",
+      "primary_url": "https://news.ycombinator.com/item?id=49392331",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "971dde61ec78c8703764ec06ef6c60b4d8ec5efb",
+          "title": "将 Claude Mythos 5 的网络安全功能带给更多防御者 / Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+          "title_zh": "将 Claude Mythos 5 的网络安全功能带给更多防御者",
+          "title_ja": "Claude Mythos 5 のサイバーセキュリティ機能をより多くの防御者に提供",
+          "title_en": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+          "title_original": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49392331",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-21T20:38:56.068000Z"
+        },
+        {
+          "id": "331265edd529fd98aac44fbe554e59c57cd04594",
+          "title": "将 Claude Mythos 5 的网络安全功能带给更多防御者 / Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+          "title_zh": "将 Claude Mythos 5 的网络安全功能带给更多防御者",
+          "title_ja": "Claude Mythos 5 のサイバーセキュリティ機能をより多くの防御者に提供",
+          "title_en": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+          "title_original": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-21T18:48:28Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "971dde61ec78c8703764ec06ef6c60b4d8ec5efb",
+          "title": "将 Claude Mythos 5 的网络安全功能带给更多防御者 / Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+          "title_zh": "将 Claude Mythos 5 的网络安全功能带给更多防御者",
+          "title_ja": "Claude Mythos 5 のサイバーセキュリティ機能をより多くの防御者に提供",
+          "title_en": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+          "title_original": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49392331",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-21T20:38:56.068000Z"
+        },
+        {
+          "id": "331265edd529fd98aac44fbe554e59c57cd04594",
+          "title": "将 Claude Mythos 5 的网络安全功能带给更多防御者 / Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+          "title_zh": "将 Claude Mythos 5 的网络安全功能带给更多防御者",
+          "title_ja": "Claude Mythos 5 のサイバーセキュリティ機能をより多くの防御者に提供",
+          "title_en": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+          "title_original": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-21T18:48:28Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4965,
+      "importance": 0.4965,
+      "importance_score": 0.4965,
+      "importance_label": "值得关注",
+      "importance_label_ja": "要注目",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7264,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-21T18:48:28Z",
+      "latest_at": "2026-08-21T20:38:56.068000Z",
+      "primary_item": {
+        "id": "971dde61ec78c8703764ec06ef6c60b4d8ec5efb",
+        "title": "将 Claude Mythos 5 的网络安全功能带给更多防御者 / Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+        "title_zh": "将 Claude Mythos 5 的网络安全功能带给更多防御者",
+        "title_ja": "Claude Mythos 5 のサイバーセキュリティ機能をより多くの防御者に提供",
+        "title_en": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+        "title_original": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49392331",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 0,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-22T18:48:00.817555Z"
       }
     },
     {
@@ -909,16 +940,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4989,
-      "importance": 0.4989,
-      "importance_score": 0.4989,
+      "score": 0.4965,
+      "importance": 0.4965,
+      "importance_score": 0.4965,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7393,
+        "recency": 0.7264,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -945,7 +976,7 @@
       "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T17:34:46.844071Z"
+        "scored_at": "2026-08-22T18:48:00.817555Z"
       }
     }
   ]
