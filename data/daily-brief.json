@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-22T12:58:31.340918Z",
+  "generated_at": "2026-08-22T13:43:07.638203Z",
   "window_hours": 24,
-  "total_items": 14,
+  "total_items": 13,
   "items": [
     {
       "story_id": "story_f852499667bc",
@@ -53,16 +53,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8052,
-      "importance": 0.8052,
-      "importance_score": 0.8052,
+      "score": 0.8038,
+      "importance": 0.8038,
+      "importance_score": 0.8038,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.74,
+        "recency": 0.7321,
         "story_heat": 0.0
       },
       "category": "official",
@@ -91,7 +91,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T13:01:06.414044Z"
+        "scored_at": "2026-08-22T13:43:48.534105Z"
       }
     },
     {
@@ -144,16 +144,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8051,
-      "importance": 0.8051,
-      "importance_score": 0.8051,
+      "score": 0.8037,
+      "importance": 0.8037,
+      "importance_score": 0.8037,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7393,
+        "recency": 0.7314,
         "story_heat": 0.0
       },
       "category": "official",
@@ -182,7 +182,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T13:01:06.414044Z"
+        "scored_at": "2026-08-22T13:43:48.534105Z"
       }
     },
     {
@@ -235,16 +235,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7998,
-      "importance": 0.7998,
-      "importance_score": 0.7998,
+      "score": 0.7984,
+      "importance": 0.7984,
+      "importance_score": 0.7984,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7546,
+        "recency": 0.7465,
         "story_heat": 0.0
       },
       "category": "official",
@@ -273,96 +273,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T13:01:06.414044Z"
-      }
-    },
-    {
-      "story_id": "story_ab204c545599",
-      "title": "AI 原生 SDLC 实战手册：Anthropic 如何用 Claude 重塑软件开发生命周期 / The AI-Native SDLC playbook",
-      "title_ja": "AI ネイティブ SDLC プレイブック",
-      "url": "https://claude.com/blog/the-ai-native-sdlc-playbook",
-      "primary_url": "https://claude.com/blog/the-ai-native-sdlc-playbook",
-      "source": "Claude：Blog（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "005c8d0ec7d674a738e61cb654fbac11082cdba3",
-          "title": "AI 原生 SDLC 实战手册：Anthropic 如何用 Claude 重塑软件开发生命周期 / The AI-Native SDLC playbook",
-          "title_zh": "AI 原生 SDLC 实战手册：Anthropic 如何用 Claude 重塑软件开发生命周期",
-          "title_ja": "AI ネイティブ SDLC プレイブック",
-          "title_en": "The AI-Native SDLC playbook",
-          "title_original": "The AI-Native SDLC playbook",
-          "summary": "Anthropic 发布 AI 原生 SDLC 实战手册，提出将传统六阶段软件开发生命周期重构为 AI 嵌入各环节的闭环流程。手册指出，当代码不再是瓶颈时，规划、审查、部署等人速环节成为新约束，需通过 Claude 将需求压缩为 intent.md、以技能编码标准、用持续评测替代阶段门禁，并保留人工对关键代码的审查。",
-          "summary_ja": "Anthropic は、AI ネイティブの SDLC 実践マニュアルをリリースし、従来の 6 段階のソフトウェア開発ライフ サイクルを、各リンクに AI が組み込まれた閉ループ プロセスに再構築することを提案しました。マニュアルでは、コードがボトルネックでなくなると、計画、レビュー、展開などの人間のスピードでのリンクが新たな制約になると指摘しています。クロードは、要件をtent.mdに圧縮し、スキルコーディング標準を使用し、ステージゲートを継続的評価に置き換え、重要なコードの手動レビューを維持する必要があります。",
-          "recommend_reason_zh": null,
-          "url": "https://claude.com/blog/the-ai-native-sdlc-playbook",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-21T14:28:27.351000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Claude：Blog（网页）"
-      ],
-      "items": [
-        {
-          "id": "005c8d0ec7d674a738e61cb654fbac11082cdba3",
-          "title": "AI 原生 SDLC 实战手册：Anthropic 如何用 Claude 重塑软件开发生命周期 / The AI-Native SDLC playbook",
-          "title_zh": "AI 原生 SDLC 实战手册：Anthropic 如何用 Claude 重塑软件开发生命周期",
-          "title_ja": "AI ネイティブ SDLC プレイブック",
-          "title_en": "The AI-Native SDLC playbook",
-          "title_original": "The AI-Native SDLC playbook",
-          "summary": "Anthropic 发布 AI 原生 SDLC 实战手册，提出将传统六阶段软件开发生命周期重构为 AI 嵌入各环节的闭环流程。手册指出，当代码不再是瓶颈时，规划、审查、部署等人速环节成为新约束，需通过 Claude 将需求压缩为 intent.md、以技能编码标准、用持续评测替代阶段门禁，并保留人工对关键代码的审查。",
-          "summary_ja": "Anthropic は、AI ネイティブの SDLC 実践マニュアルをリリースし、従来の 6 段階のソフトウェア開発ライフ サイクルを、各リンクに AI が組み込まれた閉ループ プロセスに再構築することを提案しました。マニュアルでは、コードがボトルネックでなくなると、計画、レビュー、展開などの人間のスピードでのリンクが新たな制約になると指摘しています。クロードは、要件をtent.mdに圧縮し、スキルコーディング標準を使用し、ステージゲートを継続的評価に置き換え、重要なコードの手動レビューを維持する必要があります。",
-          "recommend_reason_zh": null,
-          "url": "https://claude.com/blog/the-ai-native-sdlc-playbook",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-21T14:28:27.351000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7207,
-      "importance": 0.7207,
-      "importance_score": 0.7207,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7226,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-21T14:28:27.351000Z",
-      "latest_at": "2026-08-21T14:28:27.351000Z",
-      "primary_item": {
-        "id": "005c8d0ec7d674a738e61cb654fbac11082cdba3",
-        "title": "AI 原生 SDLC 实战手册：Anthropic 如何用 Claude 重塑软件开发生命周期 / The AI-Native SDLC playbook",
-        "title_zh": "AI 原生 SDLC 实战手册：Anthropic 如何用 Claude 重塑软件开发生命周期",
-        "title_ja": "AI ネイティブ SDLC プレイブック",
-        "title_en": "The AI-Native SDLC playbook",
-        "title_original": "The AI-Native SDLC playbook",
-        "summary": "Anthropic 发布 AI 原生 SDLC 实战手册，提出将传统六阶段软件开发生命周期重构为 AI 嵌入各环节的闭环流程。手册指出，当代码不再是瓶颈时，规划、审查、部署等人速环节成为新约束，需通过 Claude 将需求压缩为 intent.md、以技能编码标准、用持续评测替代阶段门禁，并保留人工对关键代码的审查。",
-        "summary_ja": "Anthropic は、AI ネイティブの SDLC 実践マニュアルをリリースし、従来の 6 段階のソフトウェア開発ライフ サイクルを、各リンクに AI が組み込まれた閉ループ プロセスに再構築することを提案しました。マニュアルでは、コードがボトルネックでなくなると、計画、レビュー、展開などの人間のスピードでのリンクが新たな制約になると指摘しています。クロードは、要件をtent.mdに圧縮し、スキルコーディング標準を使用し、ステージゲートを継続的評価に置き換え、重要なコードの手動レビューを維持する必要があります。",
-        "recommend_reason_zh": null,
-        "url": "https://claude.com/blog/the-ai-native-sdlc-playbook",
-        "source": "Claude：Blog（网页）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-22T13:01:06.414044Z"
+        "scored_at": "2026-08-22T13:43:48.534105Z"
       }
     },
     {
@@ -448,16 +359,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7164,
-      "importance": 0.7164,
-      "importance_score": 0.7164,
+      "score": 0.7149,
+      "importance": 0.7149,
+      "importance_score": 0.7149,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.76,
+        "recency": 0.7519,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -485,7 +396,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T13:01:06.414044Z"
+        "scored_at": "2026-08-22T13:43:48.534105Z"
       }
     },
     {
@@ -636,16 +547,16 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5537,
-      "importance": 0.5537,
-      "importance_score": 0.5537,
+      "score": 0.5522,
+      "importance": 0.5522,
+      "importance_score": 0.5522,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7662,
+        "recency": 0.758,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -672,7 +583,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T13:01:06.414044Z"
+        "scored_at": "2026-08-22T13:43:48.534105Z"
       }
     },
     {
@@ -824,16 +735,16 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5515,
-      "importance": 0.5515,
-      "importance_score": 0.5515,
+      "score": 0.5501,
+      "importance": 0.5501,
+      "importance_score": 0.5501,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7541,
+        "recency": 0.746,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -860,7 +771,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T13:01:06.414044Z"
+        "scored_at": "2026-08-22T13:43:48.534105Z"
       }
     },
     {
@@ -946,16 +857,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5187,
-      "importance": 0.5187,
-      "importance_score": 0.5187,
+      "score": 0.5171,
+      "importance": 0.5171,
+      "importance_score": 0.5171,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8496,
+        "recency": 0.8405,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -982,7 +893,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T13:01:06.414044Z"
+        "scored_at": "2026-08-22T13:43:48.534105Z"
       }
     },
     {
@@ -1068,16 +979,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5067,
-      "importance": 0.5067,
-      "importance_score": 0.5067,
+      "score": 0.5052,
+      "importance": 0.5052,
+      "importance_score": 0.5052,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7826,
+        "recency": 0.7742,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1104,7 +1015,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T13:01:06.414044Z"
+        "scored_at": "2026-08-22T13:43:48.534105Z"
       }
     },
     {
@@ -1190,16 +1101,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5303,
-      "importance": 0.5303,
-      "importance_score": 0.5303,
+      "score": 0.5285,
+      "importance": 0.5285,
+      "importance_score": 0.5285,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9138,
+        "recency": 0.904,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1226,7 +1137,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T13:01:06.414044Z"
+        "scored_at": "2026-08-22T13:43:48.534105Z"
       }
     },
     {
@@ -1255,7 +1166,7 @@
           "published_at": "2026-08-21T20:38:56.068000Z"
         },
         {
-          "id": "e6e4e69b79be74fb13870de708c097f9048d2b45",
+          "id": "48aa24f65578ce52e3984df7eead950686309a55",
           "title": "快速印象：比 Claude 使用 Codex 多的一周 / Quick impressions: A week of using Codex more than Claude",
           "title_zh": "快速印象：比 Claude 使用 Codex 多的一周",
           "title_ja": "簡単な感想: クロードよりも Codex を使用した 1 週間",
@@ -1265,15 +1176,15 @@
           "summary_ja": null,
           "recommend_reason_zh": null,
           "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-21T19:51:48Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
@@ -1294,7 +1205,7 @@
           "published_at": "2026-08-21T20:38:56.068000Z"
         },
         {
-          "id": "e6e4e69b79be74fb13870de708c097f9048d2b45",
+          "id": "48aa24f65578ce52e3984df7eead950686309a55",
           "title": "快速印象：比 Claude 使用 Codex 多的一周 / Quick impressions: A week of using Codex more than Claude",
           "title_zh": "快速印象：比 Claude 使用 Codex 多的一周",
           "title_ja": "簡単な感想: クロードよりも Codex を使用した 1 週間",
@@ -1304,24 +1215,24 @@
           "summary_ja": null,
           "recommend_reason_zh": null,
           "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-21T19:51:48Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.508,
-      "importance": 0.508,
-      "importance_score": 0.508,
+      "score": 0.5065,
+      "importance": 0.5065,
+      "importance_score": 0.5065,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.79,
+        "recency": 0.7815,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1348,7 +1259,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T13:01:06.414044Z"
+        "scored_at": "2026-08-22T13:43:48.534105Z"
       }
     },
     {
@@ -1434,16 +1345,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5037,
-      "importance": 0.5037,
-      "importance_score": 0.5037,
+      "score": 0.5022,
+      "importance": 0.5022,
+      "importance_score": 0.5022,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7662,
+        "recency": 0.758,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1470,7 +1381,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T13:01:06.414044Z"
+        "scored_at": "2026-08-22T13:43:48.534105Z"
       }
     },
     {
@@ -1556,16 +1467,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5017,
-      "importance": 0.5017,
-      "importance_score": 0.5017,
+      "score": 0.5003,
+      "importance": 0.5003,
+      "importance_score": 0.5003,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7552,
+        "recency": 0.7471,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1592,7 +1503,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T13:01:06.414044Z"
+        "scored_at": "2026-08-22T13:43:48.534105Z"
       }
     },
     {
@@ -1678,16 +1589,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4979,
-      "importance": 0.4979,
-      "importance_score": 0.4979,
+      "score": 0.4965,
+      "importance": 0.4965,
+      "importance_score": 0.4965,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7337,
+        "recency": 0.7258,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1714,7 +1625,7 @@
       "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-22T13:01:06.414044Z"
+        "scored_at": "2026-08-22T13:43:48.534105Z"
       }
     }
   ]
