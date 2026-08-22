@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-22T16:38:39.233652Z",
+  "generated_at": "2026-08-22T17:34:07.912663Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-08-22",
-  "count_today": 4,
+  "count_today": 5,
   "updates_today": [
     {
       "date": "2026-08-22",
@@ -38,9 +38,17 @@
       "url": "https://waytoagi.feishu.cn/wiki/XnvHwYGRTifyWWkQHubca2xjn3b?from=from_copylink",
       "title_ja": "DSH: Minke v0.2.0 がリリースされました",
       "summary_ja": "Minke v0.2.0 は、DeepSeek Harness アーキテクチャをベースにしており、Cordis プラグイン ツリーで拡張されており、モバイル端末によるローカル エージェント ホストのリモート制御を実現します。従来の画面投影は使用せず、タスク、ファイル、端末のステータスのみを同期します。プロジェクトとオペレーティング環境は引き続きローカル コンピューターに保持されます。具体的な開発内容を見ていきましょう！"
+    },
+    {
+      "date": "2026-08-22",
+      "title": "Agent 自进化：从经验到可验证的能力增长",
+      "summary": "Agent会反思、会写 Skill、会改Harness，好像越来越强。但经验到底有没有被写进长期生效的Prompt、Memory、Tool、Workflow、Harness 或模型参数？有没有在没见过的任务上变好？有没有通过回归、安全、成本和可恢复性检查？这篇文章拆解了Agent自进化的边界和一些未解问题。",
+      "url": "https://waytoagi.feishu.cn/wiki/HQ6dwkiakiDrgkkMVoHcGjFOn4b?from=from_copylink",
+      "title_ja": "エージェントの自己進化: 経験から検証可能な能力の成長へ",
+      "summary_ja": "エージェントは反映したり、スキルを書き込んだり、ハーネスを変更したりすることができ、どんどん強くなっているようです。しかし、その経験は長期的なプロンプト、メモリ、ツール、ワークフロー、ハーネス、またはモデルのパラメーターに書き込まれていますか?これまで見たことのないタスクでは上達しましたか?回帰、セキュリティ、コスト、回復可能性のチェックに合格していますか?この記事では、エージェントの自己進化の境界といくつかの未解決の質問を詳しく説明します。"
     }
   ],
-  "count_7d": 35,
+  "count_7d": 36,
   "updates_7d": [
     {
       "date": "2026-08-22",
@@ -73,6 +81,14 @@
       "url": "https://waytoagi.feishu.cn/wiki/XnvHwYGRTifyWWkQHubca2xjn3b?from=from_copylink",
       "title_ja": "DSH: Minke v0.2.0 がリリースされました",
       "summary_ja": "Minke v0.2.0 は、DeepSeek Harness アーキテクチャをベースにしており、Cordis プラグイン ツリーで拡張されており、モバイル端末によるローカル エージェント ホストのリモート制御を実現します。従来の画面投影は使用せず、タスク、ファイル、端末のステータスのみを同期します。プロジェクトとオペレーティング環境は引き続きローカル コンピューターに保持されます。具体的な開発内容を見ていきましょう！"
+    },
+    {
+      "date": "2026-08-22",
+      "title": "Agent 自进化：从经验到可验证的能力增长",
+      "summary": "Agent会反思、会写 Skill、会改Harness，好像越来越强。但经验到底有没有被写进长期生效的Prompt、Memory、Tool、Workflow、Harness 或模型参数？有没有在没见过的任务上变好？有没有通过回归、安全、成本和可恢复性检查？这篇文章拆解了Agent自进化的边界和一些未解问题。",
+      "url": "https://waytoagi.feishu.cn/wiki/HQ6dwkiakiDrgkkMVoHcGjFOn4b?from=from_copylink",
+      "title_ja": "エージェントの自己進化: 経験から検証可能な能力の成長へ",
+      "summary_ja": "エージェントは反映したり、スキルを書き込んだり、ハーネスを変更したりすることができ、どんどん強くなっているようです。しかし、その経験は長期的なプロンプト、メモリ、ツール、ワークフロー、ハーネス、またはモデルのパラメーターに書き込まれていますか?これまで見たことのないタスクでは上達しましたか?回帰、セキュリティ、コスト、回復可能性のチェックに合格していますか?この記事では、エージェントの自己進化の境界といくつかの未解決の質問を詳しく説明します。"
     },
     {
       "date": "2026-08-21",
