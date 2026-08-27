@@ -1,32 +1,123 @@
 {
-  "generated_at": "2026-08-26T03:16:26.762490Z",
+  "generated_at": "2026-08-27T03:17:05.894771Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_4b7b151c884e",
-      "title": "How to evaluate LLMs before production",
+      "story_id": "story_9ce6c77929a1",
+      "title": "Enterprise-managed settings now support autoUpdate for plugin marketplaces",
       "title_ja": null,
-      "url": "https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production",
-      "primary_url": "https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production",
+      "url": "https://github.blog/changelog/2026-08-26-enterprise-managed-settings-now-support-autoupdate-for-plugin-marketplaces",
+      "primary_url": "https://github.blog/changelog/2026-08-26-enterprise-managed-settings-now-support-autoupdate-for-plugin-marketplaces",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "0b352926382a3b72aa546056fb2768bf799ee0d8",
+          "title": "Enterprise-managed settings now support autoUpdate for plugin marketplaces",
+          "title_zh": null,
+          "title_ja": null,
+          "title_en": "Enterprise-managed settings now support autoUpdate for plugin marketplaces",
+          "title_original": "Enterprise-managed settings now support autoUpdate for plugin marketplaces",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-26-enterprise-managed-settings-now-support-autoupdate-for-plugin-marketplaces",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-27T01:52:19Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "0b352926382a3b72aa546056fb2768bf799ee0d8",
+          "title": "Enterprise-managed settings now support autoUpdate for plugin marketplaces",
+          "title_zh": null,
+          "title_ja": null,
+          "title_en": "Enterprise-managed settings now support autoUpdate for plugin marketplaces",
+          "title_original": "Enterprise-managed settings now support autoUpdate for plugin marketplaces",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-26-enterprise-managed-settings-now-support-autoupdate-for-plugin-marketplaces",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-27T01:52:19Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8404,
+      "importance": 0.8404,
+      "importance_score": 0.8404,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9798,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-27T01:52:19Z",
+      "latest_at": "2026-08-27T01:52:19Z",
+      "primary_item": {
+        "id": "0b352926382a3b72aa546056fb2768bf799ee0d8",
+        "title": "Enterprise-managed settings now support autoUpdate for plugin marketplaces",
+        "title_zh": null,
+        "title_ja": null,
+        "title_en": "Enterprise-managed settings now support autoUpdate for plugin marketplaces",
+        "title_original": "Enterprise-managed settings now support autoUpdate for plugin marketplaces",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-08-26-enterprise-managed-settings-now-support-autoupdate-for-plugin-marketplaces",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-27T03:56:48.480555Z"
+      }
+    },
+    {
+      "story_id": "story_719767637d52",
+      "title": "GitHub Copilot app for Beginners: Automate Dependabot pull request triage",
+      "title_ja": null,
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-automate-dependabot-pull-request-triage",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-automate-dependabot-pull-request-triage",
       "source": "GitHub AI & ML",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "58d5f4b9ce327f354e841596ecbe42febb9706ac",
-          "title": "How to evaluate LLMs before production",
+          "id": "9d66b2c682d2944a6349232e1abe3b19cc7d39f1",
+          "title": "GitHub Copilot app for Beginners: Automate Dependabot pull request triage",
           "title_zh": null,
           "title_ja": null,
-          "title_en": "How to evaluate LLMs before production",
-          "title_original": "How to evaluate LLMs before production",
+          "title_en": "GitHub Copilot app for Beginners: Automate Dependabot pull request triage",
+          "title_original": "GitHub Copilot app for Beginners: Automate Dependabot pull request triage",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production",
+          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-automate-dependabot-pull-request-triage",
           "source": "GitHub AI & ML",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-25T21:35:11Z"
+          "published_at": "2026-08-26T20:12:53Z"
         }
       ],
       "source_count": 1,
@@ -35,34 +126,34 @@
       ],
       "items": [
         {
-          "id": "58d5f4b9ce327f354e841596ecbe42febb9706ac",
-          "title": "How to evaluate LLMs before production",
+          "id": "9d66b2c682d2944a6349232e1abe3b19cc7d39f1",
+          "title": "GitHub Copilot app for Beginners: Automate Dependabot pull request triage",
           "title_zh": null,
           "title_ja": null,
-          "title_en": "How to evaluate LLMs before production",
-          "title_original": "How to evaluate LLMs before production",
+          "title_en": "GitHub Copilot app for Beginners: Automate Dependabot pull request triage",
+          "title_original": "GitHub Copilot app for Beginners: Automate Dependabot pull request triage",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production",
+          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-automate-dependabot-pull-request-triage",
           "source": "GitHub AI & ML",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-25T21:35:11Z"
+          "published_at": "2026-08-26T20:12:53Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8438,
-      "importance": 0.8438,
-      "importance_score": 0.8438,
+      "score": 0.8345,
+      "importance": 0.8345,
+      "importance_score": 0.8345,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.9211,
+        "ai_relevance": 0.91,
+        "recency": 0.9029,
         "story_heat": 0.0
       },
       "category": "official",
@@ -71,19 +162,19 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-25T21:35:11Z",
-      "latest_at": "2026-08-25T21:35:11Z",
+      "earliest_at": "2026-08-26T20:12:53Z",
+      "latest_at": "2026-08-26T20:12:53Z",
       "primary_item": {
-        "id": "58d5f4b9ce327f354e841596ecbe42febb9706ac",
-        "title": "How to evaluate LLMs before production",
+        "id": "9d66b2c682d2944a6349232e1abe3b19cc7d39f1",
+        "title": "GitHub Copilot app for Beginners: Automate Dependabot pull request triage",
         "title_zh": null,
         "title_ja": null,
-        "title_en": "How to evaluate LLMs before production",
-        "title_original": "How to evaluate LLMs before production",
+        "title_en": "GitHub Copilot app for Beginners: Automate Dependabot pull request triage",
+        "title_original": "GitHub Copilot app for Beginners: Automate Dependabot pull request triage",
         "summary": null,
         "summary_ja": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production",
+        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-automate-dependabot-pull-request-triage",
         "source": "GitHub AI & ML",
         "source_name": "Official AI Updates"
       },
@@ -91,160 +182,69 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-26T03:55:55.681999Z"
+        "scored_at": "2026-08-27T03:56:48.480555Z"
       }
     },
     {
-      "story_id": "story_2e1e1831ce49",
-      "title": "Granite 4.2 LLMs: How They're Built",
+      "story_id": "story_93586c9b901c",
+      "title": "Gemini 3.5 Transcribe 发布：面向实时语音交互的高精度语音转文本模型 / Intelligent transcription with Gemini 3.5 Transcribe",
       "title_ja": null,
-      "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
-      "primary_url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
-      "source": "Hugging Face Blog",
+      "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe",
+      "primary_url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe",
+      "source": "Google DeepMind",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "b343f39bfe6c0fcb583e96ace127b7456d9cc623",
-          "title": "Granite 4.2 LLMs: How They're Built",
-          "title_zh": null,
+          "id": "edaf458d83ab7c8fe035f85664aa2cb09ede175c",
+          "title": "Gemini 3.5 Transcribe 发布：面向实时语音交互的高精度语音转文本模型 / Intelligent transcription with Gemini 3.5 Transcribe",
+          "title_zh": "Gemini 3.5 Transcribe 发布：面向实时语音交互的高精度语音转文本模型",
           "title_ja": null,
-          "title_en": "Granite 4.2 LLMs: How They're Built",
-          "title_original": "Granite 4.2 LLMs: How They're Built",
+          "title_en": "Intelligent transcription with Gemini 3.5 Transcribe",
+          "title_original": "Intelligent transcription with Gemini 3.5 Transcribe",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
-          "source": "Hugging Face Blog",
+          "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe",
+          "source": "Google DeepMind",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-25T15:14:14Z"
+          "published_at": "2026-08-26T17:01:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hugging Face Blog"
+        "Google DeepMind"
       ],
       "items": [
         {
-          "id": "b343f39bfe6c0fcb583e96ace127b7456d9cc623",
-          "title": "Granite 4.2 LLMs: How They're Built",
-          "title_zh": null,
+          "id": "edaf458d83ab7c8fe035f85664aa2cb09ede175c",
+          "title": "Gemini 3.5 Transcribe 发布：面向实时语音交互的高精度语音转文本模型 / Intelligent transcription with Gemini 3.5 Transcribe",
+          "title_zh": "Gemini 3.5 Transcribe 发布：面向实时语音交互的高精度语音转文本模型",
           "title_ja": null,
-          "title_en": "Granite 4.2 LLMs: How They're Built",
-          "title_original": "Granite 4.2 LLMs: How They're Built",
+          "title_en": "Intelligent transcription with Gemini 3.5 Transcribe",
+          "title_original": "Intelligent transcription with Gemini 3.5 Transcribe",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
-          "source": "Hugging Face Blog",
+          "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe",
+          "source": "Google DeepMind",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-25T15:14:14Z"
+          "published_at": "2026-08-26T17:01:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8393,
-      "importance": 0.8393,
-      "importance_score": 0.8393,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.99,
-        "recency": 0.8404,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-25T15:14:14Z",
-      "latest_at": "2026-08-25T15:14:14Z",
-      "primary_item": {
-        "id": "b343f39bfe6c0fcb583e96ace127b7456d9cc623",
-        "title": "Granite 4.2 LLMs: How They're Built",
-        "title_zh": null,
-        "title_ja": null,
-        "title_en": "Granite 4.2 LLMs: How They're Built",
-        "title_original": "Granite 4.2 LLMs: How They're Built",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-26T03:55:55.681999Z"
-      }
-    },
-    {
-      "story_id": "story_72c69d1ef3c2",
-      "title": "GitHub Copilot app Customize tab is generally available",
-      "title_ja": null,
-      "url": "https://github.blog/changelog/2026-08-25-github-copilot-app-customize-tab-is-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-08-25-github-copilot-app-customize-tab-is-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "41c71e65ed28f30547f0ccf29c9cec56c4722a48",
-          "title": "GitHub Copilot app Customize tab is generally available",
-          "title_zh": null,
-          "title_ja": null,
-          "title_en": "GitHub Copilot app Customize tab is generally available",
-          "title_original": "GitHub Copilot app Customize tab is generally available",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-25-github-copilot-app-customize-tab-is-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-25T20:05:26Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "41c71e65ed28f30547f0ccf29c9cec56c4722a48",
-          "title": "GitHub Copilot app Customize tab is generally available",
-          "title_zh": null,
-          "title_ja": null,
-          "title_en": "GitHub Copilot app Customize tab is generally available",
-          "title_original": "GitHub Copilot app Customize tab is generally available",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-25-github-copilot-app-customize-tab-is-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-25T20:05:26Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8343,
-      "importance": 0.8343,
-      "importance_score": 0.8343,
+      "score": 0.8272,
+      "importance": 0.8272,
+      "importance_score": 0.8272,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9015,
+        "recency": 0.8622,
         "story_heat": 0.0
       },
       "category": "official",
@@ -253,396 +253,89 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-25T20:05:26Z",
-      "latest_at": "2026-08-25T20:05:26Z",
+      "earliest_at": "2026-08-26T17:01:00Z",
+      "latest_at": "2026-08-26T17:01:00Z",
       "primary_item": {
-        "id": "41c71e65ed28f30547f0ccf29c9cec56c4722a48",
-        "title": "GitHub Copilot app Customize tab is generally available",
-        "title_zh": null,
+        "id": "edaf458d83ab7c8fe035f85664aa2cb09ede175c",
+        "title": "Gemini 3.5 Transcribe 发布：面向实时语音交互的高精度语音转文本模型 / Intelligent transcription with Gemini 3.5 Transcribe",
+        "title_zh": "Gemini 3.5 Transcribe 发布：面向实时语音交互的高精度语音转文本模型",
         "title_ja": null,
-        "title_en": "GitHub Copilot app Customize tab is generally available",
-        "title_original": "GitHub Copilot app Customize tab is generally available",
+        "title_en": "Intelligent transcription with Gemini 3.5 Transcribe",
+        "title_original": "Intelligent transcription with Gemini 3.5 Transcribe",
         "summary": null,
         "summary_ja": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-25-github-copilot-app-customize-tab-is-generally-available",
-        "source": "GitHub Changelog",
+        "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe",
+        "source": "Google DeepMind",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-26T03:55:55.681999Z"
+        "scored_at": "2026-08-27T03:56:48.480555Z"
       }
     },
     {
-      "story_id": "story_b95e33dbd1e9",
-      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+      "story_id": "story_6b30649509f4",
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
       "title_ja": null,
-      "url": "https://openai.com/index/jalapeno-first-results",
-      "primary_url": "https://openai.com/index/jalapeno-first-results",
+      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+      "primary_url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "b3bde5a716f5cd02908984c8fb28a797c214d23e",
-          "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+          "id": "588215148c3b72c0715d264ed0cc70f6b4fdc9e9",
+          "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
           "title_zh": null,
           "title_ja": null,
-          "title_en": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-          "title_original": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+          "title_en": "Bringing ChatGPT for Teachers to more U.S. school districts",
+          "title_original": "Bringing ChatGPT for Teachers to more U.S. school districts",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/jalapeno-first-results",
+          "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-25T07:00:00Z"
-        },
-        {
-          "id": "41a3b35044428ad51fdf46c06a544e2679420c47",
-          "title": "Jalapeño's results show industry-leading speed and efficiency in AI inference",
-          "title_zh": null,
-          "title_ja": null,
-          "title_en": "Jalapeño's results show industry-leading speed and efficiency in AI inference",
-          "title_original": "Jalapeño's results show industry-leading speed and efficiency in AI inference",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/jalapeno-first-results",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-25T14:33:46Z"
+          "published_at": "2026-08-26T10:00:00Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热",
         "OpenAI News"
       ],
       "items": [
         {
-          "id": "b3bde5a716f5cd02908984c8fb28a797c214d23e",
-          "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+          "id": "588215148c3b72c0715d264ed0cc70f6b4fdc9e9",
+          "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
           "title_zh": null,
           "title_ja": null,
-          "title_en": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-          "title_original": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+          "title_en": "Bringing ChatGPT for Teachers to more U.S. school districts",
+          "title_original": "Bringing ChatGPT for Teachers to more U.S. school districts",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/jalapeno-first-results",
+          "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-25T07:00:00Z"
-        },
-        {
-          "id": "41a3b35044428ad51fdf46c06a544e2679420c47",
-          "title": "Jalapeño's results show industry-leading speed and efficiency in AI inference",
-          "title_zh": null,
-          "title_ja": null,
-          "title_en": "Jalapeño's results show industry-leading speed and efficiency in AI inference",
-          "title_original": "Jalapeño's results show industry-leading speed and efficiency in AI inference",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/jalapeno-first-results",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-25T14:33:46Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8313,
-      "importance": 0.8313,
-      "importance_score": 0.8313,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7462,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-25T07:00:00Z",
-      "latest_at": "2026-08-25T14:33:46Z",
-      "primary_item": {
-        "id": "b3bde5a716f5cd02908984c8fb28a797c214d23e",
-        "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-        "title_zh": null,
-        "title_ja": null,
-        "title_en": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-        "title_original": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/jalapeno-first-results",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-26T03:55:55.681999Z"
-      }
-    },
-    {
-      "story_id": "story_e7853aaebb60",
-      "title": "5 ways to upgrade your home decor with Google Search",
-      "title_ja": null,
-      "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips",
-      "primary_url": "https://blog.google/products-and-platforms/products/search/home-decor-tips",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "0b2841eb6231ab409e73135b67fdec5ef997d3e2",
-          "title": "5 ways to upgrade your home decor with Google Search",
-          "title_zh": null,
-          "title_ja": null,
-          "title_en": "5 ways to upgrade your home decor with Google Search",
-          "title_original": "5 ways to upgrade your home decor with Google Search",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-25T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "0b2841eb6231ab409e73135b67fdec5ef997d3e2",
-          "title": "5 ways to upgrade your home decor with Google Search",
-          "title_zh": null,
-          "title_ja": null,
-          "title_en": "5 ways to upgrade your home decor with Google Search",
-          "title_original": "5 ways to upgrade your home decor with Google Search",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-25T16:00:00Z"
+          "published_at": "2026-08-26T10:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.817,
-      "importance": 0.817,
-      "importance_score": 0.817,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8498,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-25T16:00:00Z",
-      "latest_at": "2026-08-25T16:00:00Z",
-      "primary_item": {
-        "id": "0b2841eb6231ab409e73135b67fdec5ef997d3e2",
-        "title": "5 ways to upgrade your home decor with Google Search",
-        "title_zh": null,
-        "title_ja": null,
-        "title_en": "5 ways to upgrade your home decor with Google Search",
-        "title_original": "5 ways to upgrade your home decor with Google Search",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-26T03:55:55.681999Z"
-      }
-    },
-    {
-      "story_id": "story_95764e895938",
-      "title": "Rule insights dashboard generally available",
-      "title_ja": null,
-      "url": "https://github.blog/changelog/2026-08-25-rule-insights-dashboard-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-08-25-rule-insights-dashboard-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "ec43b42734b117b10beb78d90f9227d90f41ef16",
-          "title": "Rule insights dashboard generally available",
-          "title_zh": null,
-          "title_ja": null,
-          "title_en": "Rule insights dashboard generally available",
-          "title_original": "Rule insights dashboard generally available",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-25-rule-insights-dashboard-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-25T20:05:35Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "ec43b42734b117b10beb78d90f9227d90f41ef16",
-          "title": "Rule insights dashboard generally available",
-          "title_zh": null,
-          "title_ja": null,
-          "title_en": "Rule insights dashboard generally available",
-          "title_original": "Rule insights dashboard generally available",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-25-rule-insights-dashboard-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-25T20:05:35Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8263,
-      "importance": 0.8263,
-      "importance_score": 0.8263,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9015,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-25T20:05:35Z",
-      "latest_at": "2026-08-25T20:05:35Z",
-      "primary_item": {
-        "id": "ec43b42734b117b10beb78d90f9227d90f41ef16",
-        "title": "Rule insights dashboard generally available",
-        "title_zh": null,
-        "title_ja": null,
-        "title_en": "Rule insights dashboard generally available",
-        "title_original": "Rule insights dashboard generally available",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-25-rule-insights-dashboard-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-26T03:55:55.681999Z"
-      }
-    },
-    {
-      "story_id": "story_6411634610d0",
-      "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-      "title_ja": null,
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
-      "primary_url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "04b618df28b926c9c0332e417c3ad4705c0212a1",
-          "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-          "title_zh": null,
-          "title_ja": null,
-          "title_en": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-          "title_original": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-25T11:39:24Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "04b618df28b926c9c0332e417c3ad4705c0212a1",
-          "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-          "title_zh": null,
-          "title_ja": null,
-          "title_en": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-          "title_original": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-25T11:39:24Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8237,
-      "importance": 0.8237,
-      "importance_score": 0.8237,
+      "score": 0.8202,
+      "importance": 0.8202,
+      "importance_score": 0.8202,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7981,
+        "recency": 0.7791,
         "story_heat": 0.0
       },
       "category": "official",
@@ -651,53 +344,516 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-25T11:39:24Z",
-      "latest_at": "2026-08-25T11:39:24Z",
+      "earliest_at": "2026-08-26T10:00:00Z",
+      "latest_at": "2026-08-26T10:00:00Z",
       "primary_item": {
-        "id": "04b618df28b926c9c0332e417c3ad4705c0212a1",
-        "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+        "id": "588215148c3b72c0715d264ed0cc70f6b4fdc9e9",
+        "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
         "title_zh": null,
         "title_ja": null,
-        "title_en": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-        "title_original": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+        "title_en": "Bringing ChatGPT for Teachers to more U.S. school districts",
+        "title_original": "Bringing ChatGPT for Teachers to more U.S. school districts",
         "summary": null,
         "summary_ja": null,
         "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
-        "source": "Hugging Face Blog",
+        "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-26T03:55:55.681999Z"
+        "scored_at": "2026-08-27T03:56:48.480555Z"
       }
     },
     {
-      "story_id": "story_6e67842f0f7e",
-      "title": "The full stack behind abundant intelligence",
+      "story_id": "story_6e7dda5dd069",
+      "title": "Global model policy generally available",
       "title_ja": null,
-      "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
-      "primary_url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+      "url": "https://github.blog/changelog/2026-08-26-global-model-policy-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-08-26-global-model-policy-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "89f20d10d9d0041fcaaea3ea5d5cbf235b722cf7",
+          "title": "Global model policy generally available",
+          "title_zh": null,
+          "title_ja": null,
+          "title_en": "Global model policy generally available",
+          "title_original": "Global model policy generally available",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-26-global-model-policy-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-26T22:08:38Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "89f20d10d9d0041fcaaea3ea5d5cbf235b722cf7",
+          "title": "Global model policy generally available",
+          "title_zh": null,
+          "title_ja": null,
+          "title_en": "Global model policy generally available",
+          "title_original": "Global model policy generally available",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-26-global-model-policy-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-26T22:08:38Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8311,
+      "importance": 0.8311,
+      "importance_score": 0.8311,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9284,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-26T22:08:38Z",
+      "latest_at": "2026-08-26T22:08:38Z",
+      "primary_item": {
+        "id": "89f20d10d9d0041fcaaea3ea5d5cbf235b722cf7",
+        "title": "Global model policy generally available",
+        "title_zh": null,
+        "title_ja": null,
+        "title_en": "Global model policy generally available",
+        "title_original": "Global model policy generally available",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-08-26-global-model-policy-generally-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-27T03:56:48.480555Z"
+      }
+    },
+    {
+      "story_id": "story_65b8c3701ee0",
+      "title": "亚马逊将英伟达芯片订单增至三倍，新增200万颗GPU / Amazon just tripled its order of Nvidia chips over 'surging demand'",
+      "title_ja": null,
+      "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand",
+      "primary_url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "303e0a383b264c189fec59ad3c7439a8a7e20b55",
+          "title": "亚马逊将英伟达芯片订单增至三倍，新增200万颗GPU / Amazon just tripled its order of Nvidia chips over 'surging demand'",
+          "title_zh": "亚马逊将英伟达芯片订单增至三倍，新增200万颗GPU",
+          "title_ja": null,
+          "title_en": "Amazon just tripled its order of Nvidia chips over 'surging demand'",
+          "title_original": "Amazon just tripled its order of Nvidia chips over 'surging demand'",
+          "summary": "亚马逊与英伟达宣布扩大合作，将在2027和2028年为AWS数据中心新增200万颗GPU芯片，包括Blackwell Ultra、Rubin和Rubin Ultra。此前五个月亚马逊刚同意部署超100万颗英伟达GPU，英伟达称此后\"需求超出预期\"。双方未披露财务条款，但按GPU单价估算交易价值达数百亿美元。",
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-26T23:47:18Z"
+        },
+        {
+          "id": "cf64781523aac0cdf7b376425854e1e76a9f0a03",
+          "title": "亚马逊将英伟达芯片订单增至三倍，新增200万颗GPU / Amazon just tripled its order of Nvidia chips over ‘surging demand’",
+          "title_zh": "亚马逊将英伟达芯片订单增至三倍，新增200万颗GPU",
+          "title_ja": null,
+          "title_en": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
+          "title_original": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-26T23:47:18Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch AI",
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "303e0a383b264c189fec59ad3c7439a8a7e20b55",
+          "title": "亚马逊将英伟达芯片订单增至三倍，新增200万颗GPU / Amazon just tripled its order of Nvidia chips over 'surging demand'",
+          "title_zh": "亚马逊将英伟达芯片订单增至三倍，新增200万颗GPU",
+          "title_ja": null,
+          "title_en": "Amazon just tripled its order of Nvidia chips over 'surging demand'",
+          "title_original": "Amazon just tripled its order of Nvidia chips over 'surging demand'",
+          "summary": "亚马逊与英伟达宣布扩大合作，将在2027和2028年为AWS数据中心新增200万颗GPU芯片，包括Blackwell Ultra、Rubin和Rubin Ultra。此前五个月亚马逊刚同意部署超100万颗英伟达GPU，英伟达称此后\"需求超出预期\"。双方未披露财务条款，但按GPU单价估算交易价值达数百亿美元。",
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-26T23:47:18Z"
+        },
+        {
+          "id": "cf64781523aac0cdf7b376425854e1e76a9f0a03",
+          "title": "亚马逊将英伟达芯片订单增至三倍，新增200万颗GPU / Amazon just tripled its order of Nvidia chips over ‘surging demand’",
+          "title_zh": "亚马逊将英伟达芯片订单增至三倍，新增200万颗GPU",
+          "title_ja": null,
+          "title_en": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
+          "title_original": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-26T23:47:18Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7957,
+      "importance": 0.7957,
+      "importance_score": 0.7957,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9508,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-26T23:47:18Z",
+      "latest_at": "2026-08-26T23:47:18Z",
+      "primary_item": {
+        "id": "303e0a383b264c189fec59ad3c7439a8a7e20b55",
+        "title": "亚马逊将英伟达芯片订单增至三倍，新增200万颗GPU / Amazon just tripled its order of Nvidia chips over 'surging demand'",
+        "title_zh": "亚马逊将英伟达芯片订单增至三倍，新增200万颗GPU",
+        "title_ja": null,
+        "title_en": "Amazon just tripled its order of Nvidia chips over 'surging demand'",
+        "title_original": "Amazon just tripled its order of Nvidia chips over 'surging demand'",
+        "summary": "亚马逊与英伟达宣布扩大合作，将在2027和2028年为AWS数据中心新增200万颗GPU芯片，包括Blackwell Ultra、Rubin和Rubin Ultra。此前五个月亚马逊刚同意部署超100万颗英伟达GPU，英伟达称此后\"需求超出预期\"。双方未披露财务条款，但按GPU单价估算交易价值达数百亿美元。",
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-27T03:56:48.480555Z"
+      }
+    },
+    {
+      "story_id": "story_5b62f6af7f72",
+      "title": "以色列资助的假美国智库试图利用AI进行宣传",
+      "title_ja": null,
+      "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
+      "primary_url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4885376f482f17e357c3cc0163dfa0cf7b713dd4",
+          "title": "以色列资助的假美国智库试图利用AI进行宣传",
+          "title_zh": "以色列资助的假美国智库试图利用AI进行宣传",
+          "title_ja": null,
+          "title_en": null,
+          "title_original": "以色列资助的假美国智库试图利用AI进行宣传",
+          "summary": "一个打着\"汉诺威公共政策研究所\"旗号的亲以色列网站，在九天内发布了124篇、超56万字的报告，旨在优化内容以引导ChatGPT等AI聊天机器人引用其亲以观点。该网站由美国公司Piro Inc依据《外国代理人登记法》为以色列政府分发内容，其背后是以色列政府数千万美元资助、经Havas Media等第三方转手的更广泛宣传行动。",
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-26T14:05:28.706000Z"
+        },
+        {
+          "id": "28827361f20d91352021d756755dba29a3b2772b",
+          "title": "以色列资助的假美国智库试图利用AI进行宣传 / Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
+          "title_zh": "以色列资助的假美国智库试图利用AI进行宣传",
+          "title_ja": null,
+          "title_en": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
+          "title_original": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-26T12:11:19Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "4885376f482f17e357c3cc0163dfa0cf7b713dd4",
+          "title": "以色列资助的假美国智库试图利用AI进行宣传",
+          "title_zh": "以色列资助的假美国智库试图利用AI进行宣传",
+          "title_ja": null,
+          "title_en": null,
+          "title_original": "以色列资助的假美国智库试图利用AI进行宣传",
+          "summary": "一个打着\"汉诺威公共政策研究所\"旗号的亲以色列网站，在九天内发布了124篇、超56万字的报告，旨在优化内容以引导ChatGPT等AI聊天机器人引用其亲以观点。该网站由美国公司Piro Inc依据《外国代理人登记法》为以色列政府分发内容，其背后是以色列政府数千万美元资助、经Havas Media等第三方转手的更广泛宣传行动。",
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-26T14:05:28.706000Z"
+        },
+        {
+          "id": "28827361f20d91352021d756755dba29a3b2772b",
+          "title": "以色列资助的假美国智库试图利用AI进行宣传 / Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
+          "title_zh": "以色列资助的假美国智库试图利用AI进行宣传",
+          "title_ja": null,
+          "title_en": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
+          "title_original": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-26T12:11:19Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7914,
+      "importance": 0.7914,
+      "importance_score": 0.7914,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.82,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8265,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-26T12:11:19Z",
+      "latest_at": "2026-08-26T14:05:28.706000Z",
+      "primary_item": {
+        "id": "4885376f482f17e357c3cc0163dfa0cf7b713dd4",
+        "title": "以色列资助的假美国智库试图利用AI进行宣传",
+        "title_zh": "以色列资助的假美国智库试图利用AI进行宣传",
+        "title_ja": null,
+        "title_en": null,
+        "title_original": "以色列资助的假美国智库试图利用AI进行宣传",
+        "summary": "一个打着\"汉诺威公共政策研究所\"旗号的亲以色列网站，在九天内发布了124篇、超56万字的报告，旨在优化内容以引导ChatGPT等AI聊天机器人引用其亲以观点。该网站由美国公司Piro Inc依据《外国代理人登记法》为以色列政府分发内容，其背后是以色列政府数千万美元资助、经Havas Media等第三方转手的更广泛宣传行动。",
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-27T03:56:48.480555Z"
+      }
+    },
+    {
+      "story_id": "story_7cf7f5b5f125",
+      "title": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览 / Qwen3.8-Flash-Next： A New Architecture， Towards Ultimate Cost-Efficiency",
+      "title_ja": null,
+      "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
+      "primary_url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
+      "source": "Qwen：Blog Retrieval（API）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e26a51bb54313b977caff74c043731ed56dc444a",
+          "title": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览 / Qwen3.8-Flash-Next： A New Architecture， Towards Ultimate Cost-Efficiency",
+          "title_zh": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览",
+          "title_ja": null,
+          "title_en": "Qwen3.8-Flash-Next： A New Architecture， Towards Ultimate Cost-Efficiency",
+          "title_original": "Qwen3.8-Flash-Next： A New Architecture， Towards Ultimate Cost-Efficiency",
+          "summary": "通义千问开源 Qwen3.8-Flash-Next，一款多模态 MoE 模型，也是 Qwen4 架构的早期预览。该模型采用 GDN + QSA 混合注意力等四项升级，总参数 125B，每 token 激活 6B，训练成本约为 Qwen3.7-Plus 的 1/9，编码与办公任务能力更强。",
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
+          "source": "Qwen：Blog Retrieval（API）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-26T12:30:00Z"
+        },
+        {
+          "id": "5b704af96d16dec9cc401b169dc8d074cc0b52db",
+          "title": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览 / Qwen3.8-Flash-Next",
+          "title_zh": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览",
+          "title_ja": null,
+          "title_en": "Qwen3.8-Flash-Next",
+          "title_original": "Qwen3.8-Flash-Next",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-26T12:52:12Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Qwen：Blog Retrieval（API）"
+      ],
+      "items": [
+        {
+          "id": "e26a51bb54313b977caff74c043731ed56dc444a",
+          "title": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览 / Qwen3.8-Flash-Next： A New Architecture， Towards Ultimate Cost-Efficiency",
+          "title_zh": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览",
+          "title_ja": null,
+          "title_en": "Qwen3.8-Flash-Next： A New Architecture， Towards Ultimate Cost-Efficiency",
+          "title_original": "Qwen3.8-Flash-Next： A New Architecture， Towards Ultimate Cost-Efficiency",
+          "summary": "通义千问开源 Qwen3.8-Flash-Next，一款多模态 MoE 模型，也是 Qwen4 架构的早期预览。该模型采用 GDN + QSA 混合注意力等四项升级，总参数 125B，每 token 激活 6B，训练成本约为 Qwen3.7-Plus 的 1/9，编码与办公任务能力更强。",
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
+          "source": "Qwen：Blog Retrieval（API）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-26T12:30:00Z"
+        },
+        {
+          "id": "5b704af96d16dec9cc401b169dc8d074cc0b52db",
+          "title": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览 / Qwen3.8-Flash-Next",
+          "title_zh": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览",
+          "title_ja": null,
+          "title_en": "Qwen3.8-Flash-Next",
+          "title_original": "Qwen3.8-Flash-Next",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-26T12:52:12Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.791,
+      "importance": 0.791,
+      "importance_score": 0.791,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.83,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8077,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-26T12:30:00Z",
+      "latest_at": "2026-08-26T12:52:12Z",
+      "primary_item": {
+        "id": "e26a51bb54313b977caff74c043731ed56dc444a",
+        "title": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览 / Qwen3.8-Flash-Next： A New Architecture， Towards Ultimate Cost-Efficiency",
+        "title_zh": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览",
+        "title_ja": null,
+        "title_en": "Qwen3.8-Flash-Next： A New Architecture， Towards Ultimate Cost-Efficiency",
+        "title_original": "Qwen3.8-Flash-Next： A New Architecture， Towards Ultimate Cost-Efficiency",
+        "summary": "通义千问开源 Qwen3.8-Flash-Next，一款多模态 MoE 模型，也是 Qwen4 架构的早期预览。该模型采用 GDN + QSA 混合注意力等四项升级，总参数 125B，每 token 激活 6B，训练成本约为 Qwen3.7-Plus 的 1/9，编码与办公任务能力更强。",
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
+        "source": "Qwen：Blog Retrieval（API）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-27T03:56:48.480555Z"
+      }
+    },
+    {
+      "story_id": "story_716a4067630f",
+      "title": "Learning never stops: How AI makes learning continuous",
+      "title_ja": null,
+      "url": "https://openai.com/index/learning-never-stops",
+      "primary_url": "https://openai.com/index/learning-never-stops",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "c11537df89677eb075157ecdbf835a264160de84",
-          "title": "The full stack behind abundant intelligence",
+          "id": "b0d741202592d07d3ecf5eb0cfc756b9803bf7d9",
+          "title": "Learning never stops: How AI makes learning continuous",
           "title_zh": null,
           "title_ja": null,
-          "title_en": "The full stack behind abundant intelligence",
-          "title_original": "The full stack behind abundant intelligence",
+          "title_en": "Learning never stops: How AI makes learning continuous",
+          "title_original": "Learning never stops: How AI makes learning continuous",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+          "url": "https://openai.com/index/learning-never-stops",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-25T07:05:00Z"
+          "published_at": "2026-08-26T10:00:00Z"
         }
       ],
       "source_count": 1,
@@ -706,34 +862,34 @@
       ],
       "items": [
         {
-          "id": "c11537df89677eb075157ecdbf835a264160de84",
-          "title": "The full stack behind abundant intelligence",
+          "id": "b0d741202592d07d3ecf5eb0cfc756b9803bf7d9",
+          "title": "Learning never stops: How AI makes learning continuous",
           "title_zh": null,
           "title_ja": null,
-          "title_en": "The full stack behind abundant intelligence",
-          "title_original": "The full stack behind abundant intelligence",
+          "title_en": "Learning never stops: How AI makes learning continuous",
+          "title_original": "Learning never stops: How AI makes learning continuous",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+          "url": "https://openai.com/index/learning-never-stops",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-25T07:05:00Z"
+          "published_at": "2026-08-26T10:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8065,
-      "importance": 0.8065,
-      "importance_score": 0.8065,
+      "score": 0.8122,
+      "importance": 0.8122,
+      "importance_score": 0.8122,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7471,
+        "recency": 0.7791,
         "story_heat": 0.0
       },
       "category": "official",
@@ -742,19 +898,19 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-25T07:05:00Z",
-      "latest_at": "2026-08-25T07:05:00Z",
+      "earliest_at": "2026-08-26T10:00:00Z",
+      "latest_at": "2026-08-26T10:00:00Z",
       "primary_item": {
-        "id": "c11537df89677eb075157ecdbf835a264160de84",
-        "title": "The full stack behind abundant intelligence",
+        "id": "b0d741202592d07d3ecf5eb0cfc756b9803bf7d9",
+        "title": "Learning never stops: How AI makes learning continuous",
         "title_zh": null,
         "title_ja": null,
-        "title_en": "The full stack behind abundant intelligence",
-        "title_original": "The full stack behind abundant intelligence",
+        "title_en": "Learning never stops: How AI makes learning continuous",
+        "title_original": "Learning never stops: How AI makes learning continuous",
         "summary": null,
         "summary_ja": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+        "url": "https://openai.com/index/learning-never-stops",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -762,33 +918,393 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-26T03:55:55.681999Z"
+        "scored_at": "2026-08-27T03:56:48.480555Z"
       }
     },
     {
-      "story_id": "story_ddb1a121f62b",
-      "title": "Anthropic 冲击全球最大 IPO：画 30 万亿美元市场蓝图，估值锚定 2 万亿",
+      "story_id": "story_ddd2368b2c0c",
+      "title": "Qwen3.8-Flash 开源，Qwen4 架构预览 / API is live on QwenCloud： https://www.qwencloud.com/models/qwen3.8-flash 🙌Let's build something！",
       "title_ja": null,
-      "url": "https://www.aibase.com/news/30610",
-      "primary_url": "https://www.aibase.com/news/30610",
+      "url": "https://x.com/Alibaba_Qwen/status/2092636376990990503",
+      "primary_url": "https://x.com/Alibaba_Qwen/status/2092636376990990503",
+      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2a56b9a1d4c0f7eb496a4c3f9cb9d16edeac8570",
+          "title": "Qwen3.8-Flash 开源，Qwen4 架构预览 / API is live on QwenCloud： https://www.qwencloud.com/models/qwen3.8-flash 🙌Let's build something！",
+          "title_zh": "Qwen3.8-Flash 开源，Qwen4 架构预览",
+          "title_ja": null,
+          "title_en": "API is live on QwenCloud： https://www.qwencloud.com/models/qwen3.8-flash 🙌Let's build something！",
+          "title_original": "API is live on QwenCloud： https://www.qwencloud.com/models/qwen3.8-flash 🙌Let's build something！",
+          "summary": "通义千问发布 Qwen3.8-Flash，一款多模态 MoE 模型，作为 Qwen4 架构的早期预览并开放权重。该模型总参数 125B，每 token 仅激活 6B，训练成本仅为 Qwen3.7-Plus 的 1/9，性能全面超越后者。生产版 API 定价 $0.16/1M 输入 tokens 和 $0.47/1M 输出 tokens，原生上下文 262K，可扩展至 1M。",
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://x.com/Alibaba_Qwen/status/2092636376990990503",
+          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-26T15:32:46Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：通义千问 / Qwen (@Alibaba_Qwen)"
+      ],
+      "items": [
+        {
+          "id": "2a56b9a1d4c0f7eb496a4c3f9cb9d16edeac8570",
+          "title": "Qwen3.8-Flash 开源，Qwen4 架构预览 / API is live on QwenCloud： https://www.qwencloud.com/models/qwen3.8-flash 🙌Let's build something！",
+          "title_zh": "Qwen3.8-Flash 开源，Qwen4 架构预览",
+          "title_ja": null,
+          "title_en": "API is live on QwenCloud： https://www.qwencloud.com/models/qwen3.8-flash 🙌Let's build something！",
+          "title_original": "API is live on QwenCloud： https://www.qwencloud.com/models/qwen3.8-flash 🙌Let's build something！",
+          "summary": "通义千问发布 Qwen3.8-Flash，一款多模态 MoE 模型，作为 Qwen4 架构的早期预览并开放权重。该模型总参数 125B，每 token 仅激活 6B，训练成本仅为 Qwen3.7-Plus 的 1/9，性能全面超越后者。生产版 API 定价 $0.16/1M 输入 tokens 和 $0.47/1M 输出 tokens，原生上下文 262K，可扩展至 1M。",
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://x.com/Alibaba_Qwen/status/2092636376990990503",
+          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-26T15:32:46Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7755,
+      "importance": 0.7755,
+      "importance_score": 0.7755,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.84,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8441,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-26T15:32:46Z",
+      "latest_at": "2026-08-26T15:32:46Z",
+      "primary_item": {
+        "id": "2a56b9a1d4c0f7eb496a4c3f9cb9d16edeac8570",
+        "title": "Qwen3.8-Flash 开源，Qwen4 架构预览 / API is live on QwenCloud： https://www.qwencloud.com/models/qwen3.8-flash 🙌Let's build something！",
+        "title_zh": "Qwen3.8-Flash 开源，Qwen4 架构预览",
+        "title_ja": null,
+        "title_en": "API is live on QwenCloud： https://www.qwencloud.com/models/qwen3.8-flash 🙌Let's build something！",
+        "title_original": "API is live on QwenCloud： https://www.qwencloud.com/models/qwen3.8-flash 🙌Let's build something！",
+        "summary": "通义千问发布 Qwen3.8-Flash，一款多模态 MoE 模型，作为 Qwen4 架构的早期预览并开放权重。该模型总参数 125B，每 token 仅激活 6B，训练成本仅为 Qwen3.7-Plus 的 1/9，性能全面超越后者。生产版 API 定价 $0.16/1M 输入 tokens 和 $0.47/1M 输出 tokens，原生上下文 262K，可扩展至 1M。",
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://x.com/Alibaba_Qwen/status/2092636376990990503",
+        "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-27T03:56:48.480555Z"
+      }
+    },
+    {
+      "story_id": "story_8368ac600900",
+      "title": "GlucoFM：面向连续血糖监测的基础模型 / GlucoFM： Foundation model for continuous glucose monitoring",
+      "title_ja": null,
+      "url": "https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring",
+      "primary_url": "https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring",
+      "source": "Google Research：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "3a6a47a17e494dfd39de13d6efcac9c0a4edf513",
+          "title": "GlucoFM：面向连续血糖监测的基础模型 / GlucoFM： Foundation model for continuous glucose monitoring",
+          "title_zh": "GlucoFM：面向连续血糖监测的基础模型",
+          "title_ja": null,
+          "title_en": "GlucoFM： Foundation model for continuous glucose monitoring",
+          "title_original": "GlucoFM： Foundation model for continuous glucose monitoring",
+          "summary": "Google Research 推出 GlucoFM，一款轻量级自监督 CGM 基础模型，采用双流设计分别建模缓慢血糖趋势与短期波动。在四个队列、七项临床预测任务的 14 项评估中，其 PR-AUC 较最优 GluFormer 变体平均高出 5.8 个百分点，并在 PPGR 预测中取得最低 MAE。模型在 109，066 小时无标注 CGM 数据上预训练，具备跨数据集迁移与少样本适应能力。",
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring",
+          "source": "Google Research：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-26T20:10:19.416000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google Research：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "3a6a47a17e494dfd39de13d6efcac9c0a4edf513",
+          "title": "GlucoFM：面向连续血糖监测的基础模型 / GlucoFM： Foundation model for continuous glucose monitoring",
+          "title_zh": "GlucoFM：面向连续血糖监测的基础模型",
+          "title_ja": null,
+          "title_en": "GlucoFM： Foundation model for continuous glucose monitoring",
+          "title_original": "GlucoFM： Foundation model for continuous glucose monitoring",
+          "summary": "Google Research 推出 GlucoFM，一款轻量级自监督 CGM 基础模型，采用双流设计分别建模缓慢血糖趋势与短期波动。在四个队列、七项临床预测任务的 14 项评估中，其 PR-AUC 较最优 GluFormer 变体平均高出 5.8 个百分点，并在 PPGR 预测中取得最低 MAE。模型在 109，066 小时无标注 CGM 数据上预训练，具备跨数据集迁移与少样本适应能力。",
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring",
+          "source": "Google Research：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-26T20:10:19.416000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7714,
+      "importance": 0.7714,
+      "importance_score": 0.7714,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
+      "importance_breakdown": {
+        "editorial": 0.63,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.9024,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-26T20:10:19.416000Z",
+      "latest_at": "2026-08-26T20:10:19.416000Z",
+      "primary_item": {
+        "id": "3a6a47a17e494dfd39de13d6efcac9c0a4edf513",
+        "title": "GlucoFM：面向连续血糖监测的基础模型 / GlucoFM： Foundation model for continuous glucose monitoring",
+        "title_zh": "GlucoFM：面向连续血糖监测的基础模型",
+        "title_ja": null,
+        "title_en": "GlucoFM： Foundation model for continuous glucose monitoring",
+        "title_original": "GlucoFM： Foundation model for continuous glucose monitoring",
+        "summary": "Google Research 推出 GlucoFM，一款轻量级自监督 CGM 基础模型，采用双流设计分别建模缓慢血糖趋势与短期波动。在四个队列、七项临床预测任务的 14 项评估中，其 PR-AUC 较最优 GluFormer 变体平均高出 5.8 个百分点，并在 PPGR 预测中取得最低 MAE。模型在 109，066 小时无标注 CGM 数据上预训练，具备跨数据集迁移与少样本适应能力。",
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring",
+        "source": "Google Research：Blog（网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-27T03:56:48.480555Z"
+      }
+    },
+    {
+      "story_id": "story_741a74c53da2",
+      "title": "GLM-5.3-Flash 开源：320B 总参数、AA 指数 57 分，定价为 Opus 4.8 的 1/40",
+      "title_ja": null,
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494157&idx=1&sn=6837b15a07d2518842eb6c6b53a3eb3c",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494157&idx=1&sn=6837b15a07d2518842eb6c6b53a3eb3c",
+      "source": "公众号：智谱（GLM）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c746200b2ef4819b5c374166fd2b65ff4ccaeec1",
+          "title": "GLM-5.3-Flash 开源：320B 总参数、AA 指数 57 分，定价为 Opus 4.8 的 1/40",
+          "title_zh": "GLM-5.3-Flash 开源：320B 总参数、AA 指数 57 分，定价为 Opus 4.8 的 1/40",
+          "title_ja": null,
+          "title_en": null,
+          "title_original": "GLM-5.3-Flash 开源：320B 总参数、AA 指数 57 分，定价为 Opus 4.8 的 1/40",
+          "summary": "智谱上线并开源 GLM-5.3-Flash（320B-A18B），这是 GLM-5 系列首个原生多模态模型，AA 综合智能指数 57 分，与 Claude Opus 4.8 持平。其定价为 GLM-5.3 的 1/10，限时折扣内为 Opus 4.8 的 1/40，并已接入 ZCode 等平台开放 API 调用。该模型采用稀疏注意力与线性注意力混合架构，推理服务已跑在国产芯片集群上。",
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494157&idx=1&sn=6837b15a07d2518842eb6c6b53a3eb3c",
+          "source": "公众号：智谱（GLM）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-26T14:11:33Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：智谱（GLM）"
+      ],
+      "items": [
+        {
+          "id": "c746200b2ef4819b5c374166fd2b65ff4ccaeec1",
+          "title": "GLM-5.3-Flash 开源：320B 总参数、AA 指数 57 分，定价为 Opus 4.8 的 1/40",
+          "title_zh": "GLM-5.3-Flash 开源：320B 总参数、AA 指数 57 分，定价为 Opus 4.8 的 1/40",
+          "title_ja": null,
+          "title_en": null,
+          "title_original": "GLM-5.3-Flash 开源：320B 总参数、AA 指数 57 分，定价为 Opus 4.8 的 1/40",
+          "summary": "智谱上线并开源 GLM-5.3-Flash（320B-A18B），这是 GLM-5 系列首个原生多模态模型，AA 综合智能指数 57 分，与 Claude Opus 4.8 持平。其定价为 GLM-5.3 的 1/10，限时折扣内为 Opus 4.8 的 1/40，并已接入 ZCode 等平台开放 API 调用。该模型采用稀疏注意力与线性注意力混合架构，推理服务已跑在国产芯片集群上。",
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494157&idx=1&sn=6837b15a07d2518842eb6c6b53a3eb3c",
+          "source": "公众号：智谱（GLM）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-26T14:11:33Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7696,
+      "importance": 0.7696,
+      "importance_score": 0.7696,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.83,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8277,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-26T14:11:33Z",
+      "latest_at": "2026-08-26T14:11:33Z",
+      "primary_item": {
+        "id": "c746200b2ef4819b5c374166fd2b65ff4ccaeec1",
+        "title": "GLM-5.3-Flash 开源：320B 总参数、AA 指数 57 分，定价为 Opus 4.8 的 1/40",
+        "title_zh": "GLM-5.3-Flash 开源：320B 总参数、AA 指数 57 分，定价为 Opus 4.8 的 1/40",
+        "title_ja": null,
+        "title_en": null,
+        "title_original": "GLM-5.3-Flash 开源：320B 总参数、AA 指数 57 分，定价为 Opus 4.8 的 1/40",
+        "summary": "智谱上线并开源 GLM-5.3-Flash（320B-A18B），这是 GLM-5 系列首个原生多模态模型，AA 综合智能指数 57 分，与 Claude Opus 4.8 持平。其定价为 GLM-5.3 的 1/10，限时折扣内为 Opus 4.8 的 1/40，并已接入 ZCode 等平台开放 API 调用。该模型采用稀疏注意力与线性注意力混合架构，推理服务已跑在国产芯片集群上。",
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494157&idx=1&sn=6837b15a07d2518842eb6c6b53a3eb3c",
+        "source": "公众号：智谱（GLM）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-27T03:56:48.480555Z"
+      }
+    },
+    {
+      "story_id": "story_bd3d56dfd62c",
+      "title": "英伟达预计 2028 财年营收同比增 70%，黄仁勋称实际需求远高于此",
+      "title_ja": null,
+      "url": "https://www.ithome.com/0/994/807.htm",
+      "primary_url": "https://www.ithome.com/0/994/807.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4bc41732e256a41dd77e07cdfc954c6ad2729c5a",
+          "title": "英伟达预计 2028 财年营收同比增 70%，黄仁勋称实际需求远高于此",
+          "title_zh": "英伟达预计 2028 财年营收同比增 70%，黄仁勋称实际需求远高于此",
+          "title_ja": null,
+          "title_en": null,
+          "title_original": "英伟达预计 2028 财年营收同比增 70%，黄仁勋称实际需求远高于此",
+          "summary": "英伟达预计 2028 财年销售额同比增长约 70%，CEO 黄仁勋称实际市场需求远高于这一数字，增速主要受供应能力限制。公司同时宣布将在 2027 至 2028 年向 AWS 额外供应 200 万块 GPU。第二季度营收同比增长 106% 至 962.2 亿美元，连续第 13 个季度创下营收纪录。",
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/994/807.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-27T00:20:11Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "4bc41732e256a41dd77e07cdfc954c6ad2729c5a",
+          "title": "英伟达预计 2028 财年营收同比增 70%，黄仁勋称实际需求远高于此",
+          "title_zh": "英伟达预计 2028 财年营收同比增 70%，黄仁勋称实际需求远高于此",
+          "title_ja": null,
+          "title_en": null,
+          "title_original": "英伟达预计 2028 财年营收同比增 70%，黄仁勋称实际需求远高于此",
+          "summary": "英伟达预计 2028 财年销售额同比增长约 70%，CEO 黄仁勋称实际市场需求远高于这一数字，增速主要受供应能力限制。公司同时宣布将在 2027 至 2028 年向 AWS 额外供应 200 万块 GPU。第二季度营收同比增长 106% 至 962.2 亿美元，连续第 13 个季度创下营收纪录。",
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/994/807.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-27T00:20:11Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7691,
+      "importance": 0.7691,
+      "importance_score": 0.7691,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9583,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-27T00:20:11Z",
+      "latest_at": "2026-08-27T00:20:11Z",
+      "primary_item": {
+        "id": "4bc41732e256a41dd77e07cdfc954c6ad2729c5a",
+        "title": "英伟达预计 2028 财年营收同比增 70%，黄仁勋称实际需求远高于此",
+        "title_zh": "英伟达预计 2028 财年营收同比增 70%，黄仁勋称实际需求远高于此",
+        "title_ja": null,
+        "title_en": null,
+        "title_original": "英伟达预计 2028 财年营收同比增 70%，黄仁勋称实际需求远高于此",
+        "summary": "英伟达预计 2028 财年销售额同比增长约 70%，CEO 黄仁勋称实际市场需求远高于这一数字，增速主要受供应能力限制。公司同时宣布将在 2027 至 2028 年向 AWS 额外供应 200 万块 GPU。第二季度营收同比增长 106% 至 962.2 亿美元，连续第 13 个季度创下营收纪录。",
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/0/994/807.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-27T03:56:48.480555Z"
+      }
+    },
+    {
+      "story_id": "story_744c13587872",
+      "title": "23 岁创始人带 AI 助理 Instinct 估值飙至 25 亿，半年融 3.5 亿美元",
+      "title_ja": null,
+      "url": "https://www.aibase.com/news/30656",
+      "primary_url": "https://www.aibase.com/news/30656",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "c36d75ce522bea77bb66afccc0ad9e7dd20c7d84",
-          "title": "Anthropic 冲击全球最大 IPO：画 30 万亿美元市场蓝图，估值锚定 2 万亿",
-          "title_zh": "Anthropic 冲击全球最大 IPO：画 30 万亿美元市场蓝图，估值锚定 2 万亿",
+          "id": "fd527c4a9222774905eb119f844a89a773600632",
+          "title": "23 岁创始人带 AI 助理 Instinct 估值飙至 25 亿，半年融 3.5 亿美元",
+          "title_zh": "23 岁创始人带 AI 助理 Instinct 估值飙至 25 亿，半年融 3.5 亿美元",
           "title_ja": null,
           "title_en": null,
-          "title_original": "Anthropic 冲击全球最大 IPO：画 30 万亿美元市场蓝图，估值锚定 2 万亿",
+          "title_original": "23 岁创始人带 AI 助理 Instinct 估值飙至 25 亿，半年融 3.5 亿美元",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30610",
+          "url": "https://www.aibase.com/news/30656",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-26T03:16:26.762490Z"
+          "published_at": "2026-08-27T03:17:05.894771Z"
         }
       ],
       "source_count": 1,
@@ -797,20 +1313,20 @@
       ],
       "items": [
         {
-          "id": "c36d75ce522bea77bb66afccc0ad9e7dd20c7d84",
-          "title": "Anthropic 冲击全球最大 IPO：画 30 万亿美元市场蓝图，估值锚定 2 万亿",
-          "title_zh": "Anthropic 冲击全球最大 IPO：画 30 万亿美元市场蓝图，估值锚定 2 万亿",
+          "id": "fd527c4a9222774905eb119f844a89a773600632",
+          "title": "23 岁创始人带 AI 助理 Instinct 估值飙至 25 亿，半年融 3.5 亿美元",
+          "title_zh": "23 岁创始人带 AI 助理 Instinct 估值飙至 25 亿，半年融 3.5 亿美元",
           "title_ja": null,
           "title_en": null,
-          "title_original": "Anthropic 冲击全球最大 IPO：画 30 万亿美元市场蓝图，估值锚定 2 万亿",
+          "title_original": "23 岁创始人带 AI 助理 Instinct 估值飙至 25 亿，半年融 3.5 亿美元",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30610",
+          "url": "https://www.aibase.com/news/30656",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-26T03:16:26.762490Z"
+          "published_at": "2026-08-27T03:17:05.894771Z"
         }
       ],
       "item_count": 1,
@@ -832,19 +1348,19 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-26T03:16:26.762490Z",
-      "latest_at": "2026-08-26T03:16:26.762490Z",
+      "earliest_at": "2026-08-27T03:17:05.894771Z",
+      "latest_at": "2026-08-27T03:17:05.894771Z",
       "primary_item": {
-        "id": "c36d75ce522bea77bb66afccc0ad9e7dd20c7d84",
-        "title": "Anthropic 冲击全球最大 IPO：画 30 万亿美元市场蓝图，估值锚定 2 万亿",
-        "title_zh": "Anthropic 冲击全球最大 IPO：画 30 万亿美元市场蓝图，估值锚定 2 万亿",
+        "id": "fd527c4a9222774905eb119f844a89a773600632",
+        "title": "23 岁创始人带 AI 助理 Instinct 估值飙至 25 亿，半年融 3.5 亿美元",
+        "title_zh": "23 岁创始人带 AI 助理 Instinct 估值飙至 25 亿，半年融 3.5 亿美元",
         "title_ja": null,
         "title_en": null,
-        "title_original": "Anthropic 冲击全球最大 IPO：画 30 万亿美元市场蓝图，估值锚定 2 万亿",
+        "title_original": "23 岁创始人带 AI 助理 Instinct 估值飙至 25 亿，半年融 3.5 亿美元",
         "summary": null,
         "summary_ja": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30610",
+        "url": "https://www.aibase.com/news/30656",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -852,33 +1368,33 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-26T03:55:55.681999Z"
+        "scored_at": "2026-08-27T03:56:48.480555Z"
       }
     },
     {
-      "story_id": "story_0536ff6c73c5",
-      "title": "Block users directly from security advisories",
+      "story_id": "story_f59066749bc2",
+      "title": "GitHub Apps can now access enterprise billing data",
       "title_ja": null,
-      "url": "https://github.blog/changelog/2026-08-25-block-users-directly-from-security-advisories",
-      "primary_url": "https://github.blog/changelog/2026-08-25-block-users-directly-from-security-advisories",
+      "url": "https://github.blog/changelog/2026-08-26-github-apps-can-now-access-enterprise-billing-data",
+      "primary_url": "https://github.blog/changelog/2026-08-26-github-apps-can-now-access-enterprise-billing-data",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "ddf97cc4234c61cbe446eb6957d1046445f13b83",
-          "title": "Block users directly from security advisories",
+          "id": "6ac74add2e2b88cf6811aaf7f5b39af7eec97b73",
+          "title": "GitHub Apps can now access enterprise billing data",
           "title_zh": null,
           "title_ja": null,
-          "title_en": "Block users directly from security advisories",
-          "title_original": "Block users directly from security advisories",
+          "title_en": "GitHub Apps can now access enterprise billing data",
+          "title_original": "GitHub Apps can now access enterprise billing data",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-25-block-users-directly-from-security-advisories",
+          "url": "https://github.blog/changelog/2026-08-26-github-apps-can-now-access-enterprise-billing-data",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-25T18:38:57Z"
+          "published_at": "2026-08-26T12:18:59Z"
         }
       ],
       "source_count": 1,
@@ -887,34 +1403,34 @@
       ],
       "items": [
         {
-          "id": "ddf97cc4234c61cbe446eb6957d1046445f13b83",
-          "title": "Block users directly from security advisories",
+          "id": "6ac74add2e2b88cf6811aaf7f5b39af7eec97b73",
+          "title": "GitHub Apps can now access enterprise billing data",
           "title_zh": null,
           "title_ja": null,
-          "title_en": "Block users directly from security advisories",
-          "title_original": "Block users directly from security advisories",
+          "title_en": "GitHub Apps can now access enterprise billing data",
+          "title_original": "GitHub Apps can now access enterprise billing data",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-25-block-users-directly-from-security-advisories",
+          "url": "https://github.blog/changelog/2026-08-26-github-apps-can-now-access-enterprise-billing-data",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-25T18:38:57Z"
+          "published_at": "2026-08-26T12:18:59Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8229,
-      "importance": 0.8229,
-      "importance_score": 0.8229,
+      "score": 0.809,
+      "importance": 0.809,
+      "importance_score": 0.809,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8829,
+        "recency": 0.8056,
         "story_heat": 0.0
       },
       "category": "official",
@@ -923,19 +1439,19 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-25T18:38:57Z",
-      "latest_at": "2026-08-25T18:38:57Z",
+      "earliest_at": "2026-08-26T12:18:59Z",
+      "latest_at": "2026-08-26T12:18:59Z",
       "primary_item": {
-        "id": "ddf97cc4234c61cbe446eb6957d1046445f13b83",
-        "title": "Block users directly from security advisories",
+        "id": "6ac74add2e2b88cf6811aaf7f5b39af7eec97b73",
+        "title": "GitHub Apps can now access enterprise billing data",
         "title_zh": null,
         "title_ja": null,
-        "title_en": "Block users directly from security advisories",
-        "title_original": "Block users directly from security advisories",
+        "title_en": "GitHub Apps can now access enterprise billing data",
+        "title_original": "GitHub Apps can now access enterprise billing data",
         "summary": null,
         "summary_ja": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-25-block-users-directly-from-security-advisories",
+        "url": "https://github.blog/changelog/2026-08-26-github-apps-can-now-access-enterprise-billing-data",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -943,392 +1459,33 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-26T03:55:55.681999Z"
+        "scored_at": "2026-08-27T03:56:48.480555Z"
       }
     },
     {
-      "story_id": "story_e1c25592fe2f",
-      "title": "WeatherNext 预测气旋：提前五天预警五级飓风 / https://x.com/i/article/2092249927812337664",
+      "story_id": "story_a3eb56560645",
+      "title": "Claude in Chrome 正式全面上线 / Claude in Chrome is generally available",
       "title_ja": null,
-      "url": "https://x.com/GoogleAI/status/2092275116503707733",
-      "primary_url": "https://x.com/GoogleAI/status/2092275116503707733",
-      "source": "X：Google AI (@GoogleAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5ae985e719104741d17e0406d4efd8ff4e4b64cf",
-          "title": "WeatherNext 预测气旋：提前五天预警五级飓风 / https://x.com/i/article/2092249927812337664",
-          "title_zh": "WeatherNext 预测气旋：提前五天预警五级飓风",
-          "title_ja": null,
-          "title_en": "https://x.com/i/article/2092249927812337664",
-          "title_original": "https://x.com/i/article/2092249927812337664",
-          "summary": "Google AI 发布 WeatherNext 气旋预测模型，可同时预测风暴路径、强度和规模，比现有系统多提供一整天的预警时间。该模型在 2025 飓风季实战测试中，提前五天预测飓风 Melissa 在牙买加的五级登陆，系美国国家飓风中心首次实时使用 AI 模型。模型单场风暴可生成多达 1000 次模拟，代码与权重已开源。",
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://x.com/GoogleAI/status/2092275116503707733",
-          "source": "X：Google AI (@GoogleAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-25T15:37:15Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Google AI (@GoogleAI)"
-      ],
-      "items": [
-        {
-          "id": "5ae985e719104741d17e0406d4efd8ff4e4b64cf",
-          "title": "WeatherNext 预测气旋：提前五天预警五级飓风 / https://x.com/i/article/2092249927812337664",
-          "title_zh": "WeatherNext 预测气旋：提前五天预警五级飓风",
-          "title_ja": null,
-          "title_en": "https://x.com/i/article/2092249927812337664",
-          "title_original": "https://x.com/i/article/2092249927812337664",
-          "summary": "Google AI 发布 WeatherNext 气旋预测模型，可同时预测风暴路径、强度和规模，比现有系统多提供一整天的预警时间。该模型在 2025 飓风季实战测试中，提前五天预测飓风 Melissa 在牙买加的五级登陆，系美国国家飓风中心首次实时使用 AI 模型。模型单场风暴可生成多达 1000 次模拟，代码与权重已开源。",
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://x.com/GoogleAI/status/2092275116503707733",
-          "source": "X：Google AI (@GoogleAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-25T15:37:15Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7427,
-      "importance": 0.7427,
-      "importance_score": 0.7427,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8451,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-25T15:37:15Z",
-      "latest_at": "2026-08-25T15:37:15Z",
-      "primary_item": {
-        "id": "5ae985e719104741d17e0406d4efd8ff4e4b64cf",
-        "title": "WeatherNext 预测气旋：提前五天预警五级飓风 / https://x.com/i/article/2092249927812337664",
-        "title_zh": "WeatherNext 预测气旋：提前五天预警五级飓风",
-        "title_ja": null,
-        "title_en": "https://x.com/i/article/2092249927812337664",
-        "title_original": "https://x.com/i/article/2092249927812337664",
-        "summary": "Google AI 发布 WeatherNext 气旋预测模型，可同时预测风暴路径、强度和规模，比现有系统多提供一整天的预警时间。该模型在 2025 飓风季实战测试中，提前五天预测飓风 Melissa 在牙买加的五级登陆，系美国国家飓风中心首次实时使用 AI 模型。模型单场风暴可生成多达 1000 次模拟，代码与权重已开源。",
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://x.com/GoogleAI/status/2092275116503707733",
-        "source": "X：Google AI (@GoogleAI)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-26T03:55:55.681999Z"
-      }
-    },
-    {
-      "story_id": "story_75763b44f1d0",
-      "title": "Anthropic打通Claude与Cowork记忆系统 消除跨工作流重复交互痛点",
-      "title_ja": null,
-      "url": "https://www.aibase.com/news/30616",
-      "primary_url": "https://www.aibase.com/news/30616",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "9368440e611a9fce578f5bd421db31c12ebe2eec",
-          "title": "Anthropic打通Claude与Cowork记忆系统 消除跨工作流重复交互痛点",
-          "title_zh": "Anthropic打通Claude与Cowork记忆系统 消除跨工作流重复交互痛点",
-          "title_ja": null,
-          "title_en": null,
-          "title_original": "Anthropic打通Claude与Cowork记忆系统 消除跨工作流重复交互痛点",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30616",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-26T03:16:26.762490Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "9368440e611a9fce578f5bd421db31c12ebe2eec",
-          "title": "Anthropic打通Claude与Cowork记忆系统 消除跨工作流重复交互痛点",
-          "title_zh": "Anthropic打通Claude与Cowork记忆系统 消除跨工作流重复交互痛点",
-          "title_ja": null,
-          "title_en": null,
-          "title_original": "Anthropic打通Claude与Cowork记忆系统 消除跨工作流重复交互痛点",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30616",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-26T03:16:26.762490Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-26T03:16:26.762490Z",
-      "latest_at": "2026-08-26T03:16:26.762490Z",
-      "primary_item": {
-        "id": "9368440e611a9fce578f5bd421db31c12ebe2eec",
-        "title": "Anthropic打通Claude与Cowork记忆系统 消除跨工作流重复交互痛点",
-        "title_zh": "Anthropic打通Claude与Cowork记忆系统 消除跨工作流重复交互痛点",
-        "title_ja": null,
-        "title_en": null,
-        "title_original": "Anthropic打通Claude与Cowork记忆系统 消除跨工作流重复交互痛点",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30616",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-26T03:55:55.681999Z"
-      }
-    },
-    {
-      "story_id": "story_2ae3bbe5c601",
-      "title": "Push rules in rulesets now support path exceptions",
-      "title_ja": null,
-      "url": "https://github.blog/changelog/2026-08-25-push-rules-in-rulesets-now-support-path-exceptions",
-      "primary_url": "https://github.blog/changelog/2026-08-25-push-rules-in-rulesets-now-support-path-exceptions",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e1c4eac73d8d8b63b5ddd2c669c78b7c2842a6c9",
-          "title": "Push rules in rulesets now support path exceptions",
-          "title_zh": null,
-          "title_ja": null,
-          "title_en": "Push rules in rulesets now support path exceptions",
-          "title_original": "Push rules in rulesets now support path exceptions",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-25-push-rules-in-rulesets-now-support-path-exceptions",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-25T17:40:15Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "e1c4eac73d8d8b63b5ddd2c669c78b7c2842a6c9",
-          "title": "Push rules in rulesets now support path exceptions",
-          "title_zh": null,
-          "title_ja": null,
-          "title_en": "Push rules in rulesets now support path exceptions",
-          "title_original": "Push rules in rulesets now support path exceptions",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-25-push-rules-in-rulesets-now-support-path-exceptions",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-25T17:40:15Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8207,
-      "importance": 0.8207,
-      "importance_score": 0.8207,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8705,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-25T17:40:15Z",
-      "latest_at": "2026-08-25T17:40:15Z",
-      "primary_item": {
-        "id": "e1c4eac73d8d8b63b5ddd2c669c78b7c2842a6c9",
-        "title": "Push rules in rulesets now support path exceptions",
-        "title_zh": null,
-        "title_ja": null,
-        "title_en": "Push rules in rulesets now support path exceptions",
-        "title_original": "Push rules in rulesets now support path exceptions",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-25-push-rules-in-rulesets-now-support-path-exceptions",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-26T03:55:55.681999Z"
-      }
-    },
-    {
-      "story_id": "story_6ccc5b93e71a",
-      "title": "OpenWorker 新版发布，内置网络安全智能体 / OpenWorker -- an open source agent that doesn't just chat but completes tasks on your laptop -- just…",
-      "title_ja": null,
-      "url": "https://x.com/AndrewYNg/status/2092315079576555806",
-      "primary_url": "https://x.com/AndrewYNg/status/2092315079576555806",
-      "source": "X：Andrew Ng（DeepLearning.AI 创始人） (@AndrewYNg)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d1d7d8b4938352b2de83fe45b4d0d2ec94555d49",
-          "title": "OpenWorker 新版发布，内置网络安全智能体 / OpenWorker -- an open source agent that doesn't just chat but completes tasks on your laptop -- just…",
-          "title_zh": "OpenWorker 新版发布，内置网络安全智能体",
-          "title_ja": null,
-          "title_en": "OpenWorker -- an open source agent that doesn't just chat but completes tasks on your laptop -- just…",
-          "title_original": "OpenWorker -- an open source agent that doesn't just chat but completes tasks on your laptop -- just…",
-          "summary": "Andrew Ng 旗下开源智能体 OpenWorker 发布新版，强化安全工作流。其 harness 完全开源，安全团队可审计无后门。新版内置代码漏洞扫描、依赖供应链注入检测和云安全配置检查三类网络安全智能体，并支持本地运行开源权重模型以保护敏感代码。",
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://x.com/AndrewYNg/status/2092315079576555806",
-          "source": "X：Andrew Ng（DeepLearning.AI 创始人） (@AndrewYNg)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-25T18:16:02Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Andrew Ng（DeepLearning.AI 创始人） (@AndrewYNg)"
-      ],
-      "items": [
-        {
-          "id": "d1d7d8b4938352b2de83fe45b4d0d2ec94555d49",
-          "title": "OpenWorker 新版发布，内置网络安全智能体 / OpenWorker -- an open source agent that doesn't just chat but completes tasks on your laptop -- just…",
-          "title_zh": "OpenWorker 新版发布，内置网络安全智能体",
-          "title_ja": null,
-          "title_en": "OpenWorker -- an open source agent that doesn't just chat but completes tasks on your laptop -- just…",
-          "title_original": "OpenWorker -- an open source agent that doesn't just chat but completes tasks on your laptop -- just…",
-          "summary": "Andrew Ng 旗下开源智能体 OpenWorker 发布新版，强化安全工作流。其 harness 完全开源，安全团队可审计无后门。新版内置代码漏洞扫描、依赖供应链注入检测和云安全配置检查三类网络安全智能体，并支持本地运行开源权重模型以保护敏感代码。",
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://x.com/AndrewYNg/status/2092315079576555806",
-          "source": "X：Andrew Ng（DeepLearning.AI 创始人） (@AndrewYNg)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-25T18:16:02Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7306,
-      "importance": 0.7306,
-      "importance_score": 0.7306,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.878,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-25T18:16:02Z",
-      "latest_at": "2026-08-25T18:16:02Z",
-      "primary_item": {
-        "id": "d1d7d8b4938352b2de83fe45b4d0d2ec94555d49",
-        "title": "OpenWorker 新版发布，内置网络安全智能体 / OpenWorker -- an open source agent that doesn't just chat but completes tasks on your laptop -- just…",
-        "title_zh": "OpenWorker 新版发布，内置网络安全智能体",
-        "title_ja": null,
-        "title_en": "OpenWorker -- an open source agent that doesn't just chat but completes tasks on your laptop -- just…",
-        "title_original": "OpenWorker -- an open source agent that doesn't just chat but completes tasks on your laptop -- just…",
-        "summary": "Andrew Ng 旗下开源智能体 OpenWorker 发布新版，强化安全工作流。其 harness 完全开源，安全团队可审计无后门。新版内置代码漏洞扫描、依赖供应链注入检测和云安全配置检查三类网络安全智能体，并支持本地运行开源权重模型以保护敏感代码。",
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://x.com/AndrewYNg/status/2092315079576555806",
-        "source": "X：Andrew Ng（DeepLearning.AI 创始人） (@AndrewYNg)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-26T03:55:55.681999Z"
-      }
-    },
-    {
-      "story_id": "story_fb0dc79a0364",
-      "title": "Claude 记忆功能全面打通聊天与 Cowork，用户可逐条查看和编辑 / Claude's memory works everywhere， and you decide what's in it",
-      "title_ja": null,
-      "url": "https://claude.com/blog/claudes-memory-works-everywhere-and-you-decide-whats-in-it",
-      "primary_url": "https://claude.com/blog/claudes-memory-works-everywhere-and-you-decide-whats-in-it",
+      "url": "https://claude.com/blog/claude-in-chrome-generally-available",
+      "primary_url": "https://claude.com/blog/claude-in-chrome-generally-available",
       "source": "Claude：Blog（网页）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "a4abeec045a4d6f73b7bd3f023a245e64406b37c",
-          "title": "Claude 记忆功能全面打通聊天与 Cowork，用户可逐条查看和编辑 / Claude's memory works everywhere， and you decide what's in it",
-          "title_zh": "Claude 记忆功能全面打通聊天与 Cowork，用户可逐条查看和编辑",
+          "id": "22af8ad13634d242eac2b6750476413f3696325a",
+          "title": "Claude in Chrome 正式全面上线 / Claude in Chrome is generally available",
+          "title_zh": "Claude in Chrome 正式全面上线",
           "title_ja": null,
-          "title_en": "Claude's memory works everywhere， and you decide what's in it",
-          "title_original": "Claude's memory works everywhere， and you decide what's in it",
-          "summary": "Claude 即日起将聊天与 Claude Cowork 的记忆统一，用户在任一场景对话时都能调用此前积累的上下文，减少重复解释。记忆会在聊天过程中实时更新，用户可在 Memory 设置中按主题查看、编辑或删除每条记忆。健康、信仰等敏感话题默认不存储，但可在设置中开启，且敏感识别号、犯罪记录等始终不会被保存。",
+          "title_en": "Claude in Chrome is generally available",
+          "title_original": "Claude in Chrome is generally available",
+          "summary": "Anthropic 宣布 Claude in Chrome 现已面向所有付费 Claude 套餐全面开放，Claude 可在浏览器中自主执行操作，无需逐步审批。系统通过安全分类器在每次操作前验证其安全性及是否符合用户请求，并强化了针对提示注入攻击的防御。最新评测显示，在启用探测与安全分类器后，自 Opus 4.8 起的所有模型均未出现攻击成功案例。",
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://claude.com/blog/claudes-memory-works-everywhere-and-you-decide-whats-in-it",
+          "url": "https://claude.com/blog/claude-in-chrome-generally-available",
           "source": "Claude：Blog（网页）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-25T18:02:04.743000Z"
+          "published_at": "2026-08-26T18:02:41.262000Z"
         }
       ],
       "source_count": 1,
@@ -1337,31 +1494,31 @@
       ],
       "items": [
         {
-          "id": "a4abeec045a4d6f73b7bd3f023a245e64406b37c",
-          "title": "Claude 记忆功能全面打通聊天与 Cowork，用户可逐条查看和编辑 / Claude's memory works everywhere， and you decide what's in it",
-          "title_zh": "Claude 记忆功能全面打通聊天与 Cowork，用户可逐条查看和编辑",
+          "id": "22af8ad13634d242eac2b6750476413f3696325a",
+          "title": "Claude in Chrome 正式全面上线 / Claude in Chrome is generally available",
+          "title_zh": "Claude in Chrome 正式全面上线",
           "title_ja": null,
-          "title_en": "Claude's memory works everywhere， and you decide what's in it",
-          "title_original": "Claude's memory works everywhere， and you decide what's in it",
-          "summary": "Claude 即日起将聊天与 Claude Cowork 的记忆统一，用户在任一场景对话时都能调用此前积累的上下文，减少重复解释。记忆会在聊天过程中实时更新，用户可在 Memory 设置中按主题查看、编辑或删除每条记忆。健康、信仰等敏感话题默认不存储，但可在设置中开启，且敏感识别号、犯罪记录等始终不会被保存。",
+          "title_en": "Claude in Chrome is generally available",
+          "title_original": "Claude in Chrome is generally available",
+          "summary": "Anthropic 宣布 Claude in Chrome 现已面向所有付费 Claude 套餐全面开放，Claude 可在浏览器中自主执行操作，无需逐步审批。系统通过安全分类器在每次操作前验证其安全性及是否符合用户请求，并强化了针对提示注入攻击的防御。最新评测显示，在启用探测与安全分类器后，自 Opus 4.8 起的所有模型均未出现攻击成功案例。",
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://claude.com/blog/claudes-memory-works-everywhere-and-you-decide-whats-in-it",
+          "url": "https://claude.com/blog/claude-in-chrome-generally-available",
           "source": "Claude：Blog（网页）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-25T18:02:04.743000Z"
+          "published_at": "2026-08-26T18:02:41.262000Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7301,
-      "importance": 0.7301,
-      "importance_score": 0.7301,
+      "score": 0.7451,
+      "importance": 0.7451,
+      "importance_score": 0.7451,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
-        "editorial": 0.67,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
         "recency": 0.8751,
@@ -1371,19 +1528,19 @@
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-25T18:02:04.743000Z",
-      "latest_at": "2026-08-25T18:02:04.743000Z",
+      "earliest_at": "2026-08-26T18:02:41.262000Z",
+      "latest_at": "2026-08-26T18:02:41.262000Z",
       "primary_item": {
-        "id": "a4abeec045a4d6f73b7bd3f023a245e64406b37c",
-        "title": "Claude 记忆功能全面打通聊天与 Cowork，用户可逐条查看和编辑 / Claude's memory works everywhere， and you decide what's in it",
-        "title_zh": "Claude 记忆功能全面打通聊天与 Cowork，用户可逐条查看和编辑",
+        "id": "22af8ad13634d242eac2b6750476413f3696325a",
+        "title": "Claude in Chrome 正式全面上线 / Claude in Chrome is generally available",
+        "title_zh": "Claude in Chrome 正式全面上线",
         "title_ja": null,
-        "title_en": "Claude's memory works everywhere， and you decide what's in it",
-        "title_original": "Claude's memory works everywhere， and you decide what's in it",
-        "summary": "Claude 即日起将聊天与 Claude Cowork 的记忆统一，用户在任一场景对话时都能调用此前积累的上下文，减少重复解释。记忆会在聊天过程中实时更新，用户可在 Memory 设置中按主题查看、编辑或删除每条记忆。健康、信仰等敏感话题默认不存储，但可在设置中开启，且敏感识别号、犯罪记录等始终不会被保存。",
+        "title_en": "Claude in Chrome is generally available",
+        "title_original": "Claude in Chrome is generally available",
+        "summary": "Anthropic 宣布 Claude in Chrome 现已面向所有付费 Claude 套餐全面开放，Claude 可在浏览器中自主执行操作，无需逐步审批。系统通过安全分类器在每次操作前验证其安全性及是否符合用户请求，并强化了针对提示注入攻击的防御。最新评测显示，在启用探测与安全分类器后，自 Opus 4.8 起的所有模型均未出现攻击成功案例。",
         "summary_ja": null,
         "recommend_reason_zh": null,
-        "url": "https://claude.com/blog/claudes-memory-works-everywhere-and-you-decide-whats-in-it",
+        "url": "https://claude.com/blog/claude-in-chrome-generally-available",
         "source": "Claude：Blog（网页）",
         "source_name": "AI HOT"
       },
@@ -1391,33 +1548,33 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-26T03:55:55.681999Z"
+        "scored_at": "2026-08-27T03:56:48.480555Z"
       }
     },
     {
-      "story_id": "story_2d94419379a3",
-      "title": "Claude 记忆打通 Cowork 与聊天：背景一次说明，两端共享",
+      "story_id": "story_24cf37da0e5a",
+      "title": "Anthropic 豪掷 450 亿美元租 Nscale 算力，2027 年底启用 Vera Rubin 芯片",
       "title_ja": null,
-      "url": "https://www.aibase.com/news/30620",
-      "primary_url": "https://www.aibase.com/news/30620",
+      "url": "https://www.aibase.com/news/30652",
+      "primary_url": "https://www.aibase.com/news/30652",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "af0fc95266c31572566e3e423e81ae7fef73a31e",
-          "title": "Claude 记忆打通 Cowork 与聊天：背景一次说明，两端共享",
-          "title_zh": "Claude 记忆打通 Cowork 与聊天：背景一次说明，两端共享",
+          "id": "855962370e8bcde755a8c50652136b363b1793b3",
+          "title": "Anthropic 豪掷 450 亿美元租 Nscale 算力，2027 年底启用 Vera Rubin 芯片",
+          "title_zh": "Anthropic 豪掷 450 亿美元租 Nscale 算力，2027 年底启用 Vera Rubin 芯片",
           "title_ja": null,
           "title_en": null,
-          "title_original": "Claude 记忆打通 Cowork 与聊天：背景一次说明，两端共享",
+          "title_original": "Anthropic 豪掷 450 亿美元租 Nscale 算力，2027 年底启用 Vera Rubin 芯片",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30620",
+          "url": "https://www.aibase.com/news/30652",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-26T03:16:26.762490Z"
+          "published_at": "2026-08-27T03:17:05.894771Z"
         }
       ],
       "source_count": 1,
@@ -1426,20 +1583,20 @@
       ],
       "items": [
         {
-          "id": "af0fc95266c31572566e3e423e81ae7fef73a31e",
-          "title": "Claude 记忆打通 Cowork 与聊天：背景一次说明，两端共享",
-          "title_zh": "Claude 记忆打通 Cowork 与聊天：背景一次说明，两端共享",
+          "id": "855962370e8bcde755a8c50652136b363b1793b3",
+          "title": "Anthropic 豪掷 450 亿美元租 Nscale 算力，2027 年底启用 Vera Rubin 芯片",
+          "title_zh": "Anthropic 豪掷 450 亿美元租 Nscale 算力，2027 年底启用 Vera Rubin 芯片",
           "title_ja": null,
           "title_en": null,
-          "title_original": "Claude 记忆打通 Cowork 与聊天：背景一次说明，两端共享",
+          "title_original": "Anthropic 豪掷 450 亿美元租 Nscale 算力，2027 年底启用 Vera Rubin 芯片",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30620",
+          "url": "https://www.aibase.com/news/30652",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-26T03:16:26.762490Z"
+          "published_at": "2026-08-27T03:17:05.894771Z"
         }
       ],
       "item_count": 1,
@@ -1461,19 +1618,19 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-26T03:16:26.762490Z",
-      "latest_at": "2026-08-26T03:16:26.762490Z",
+      "earliest_at": "2026-08-27T03:17:05.894771Z",
+      "latest_at": "2026-08-27T03:17:05.894771Z",
       "primary_item": {
-        "id": "af0fc95266c31572566e3e423e81ae7fef73a31e",
-        "title": "Claude 记忆打通 Cowork 与聊天：背景一次说明，两端共享",
-        "title_zh": "Claude 记忆打通 Cowork 与聊天：背景一次说明，两端共享",
+        "id": "855962370e8bcde755a8c50652136b363b1793b3",
+        "title": "Anthropic 豪掷 450 亿美元租 Nscale 算力，2027 年底启用 Vera Rubin 芯片",
+        "title_zh": "Anthropic 豪掷 450 亿美元租 Nscale 算力，2027 年底启用 Vera Rubin 芯片",
         "title_ja": null,
         "title_en": null,
-        "title_original": "Claude 记忆打通 Cowork 与聊天：背景一次说明，两端共享",
+        "title_original": "Anthropic 豪掷 450 亿美元租 Nscale 算力，2027 年底启用 Vera Rubin 芯片",
         "summary": null,
         "summary_ja": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30620",
+        "url": "https://www.aibase.com/news/30652",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1481,69 +1638,158 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-26T03:55:55.681999Z"
+        "scored_at": "2026-08-27T03:56:48.480555Z"
       }
     },
     {
-      "story_id": "story_93a0e7b8cdf0",
-      "title": "Claude重磅升级：Cowork与日常聊天实现数据互通",
+      "story_id": "story_809ef9d986bc",
+      "title": "Anthropic 开放 Claude 真实使用数据供外部独立研究，公布试点结果 / Enabling independent research on how people use Claude",
       "title_ja": null,
-      "url": "https://www.aibase.com/news/30617",
-      "primary_url": "https://www.aibase.com/news/30617",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "url": "https://www.anthropic.com/research/enabling-independent-research",
+      "primary_url": "https://www.anthropic.com/research/enabling-independent-research",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "51da4e7bd2352cfab563bf96885a614ff4951f40",
-          "title": "Claude重磅升级：Cowork与日常聊天实现数据互通",
-          "title_zh": "Claude重磅升级：Cowork与日常聊天实现数据互通",
+          "id": "098f6cf77d5fa58ef362e1940d0e887881c51ba7",
+          "title": "Anthropic 开放 Claude 真实使用数据供外部独立研究，公布试点结果 / Enabling independent research on how people use Claude",
+          "title_zh": "Anthropic 开放 Claude 真实使用数据供外部独立研究，公布试点结果",
           "title_ja": null,
-          "title_en": null,
-          "title_original": "Claude重磅升级：Cowork与日常聊天实现数据互通",
-          "summary": null,
+          "title_en": "Enabling independent research on how people use Claude",
+          "title_original": "Enabling independent research on how people use Claude",
+          "summary": "Anthropic 今年春季启动试点，通过隐私保护工具 Anthropic Insights（原 Clio）向斯坦福大学 SALT Lab、牛津大学人类信息处理实验室及 METR 三个外部机构开放约 25 万段 2026 年 4-5 月的 Claude.ai 或 Claude Code 对话数据，供其独立设计研究并公开发布结果。",
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30617",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-26T03:16:26.762490Z"
+          "url": "https://www.anthropic.com/research/enabling-independent-research",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-26T17:30:30.074000Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "Anthropic：Research（发表成果 · 网页）"
       ],
       "items": [
         {
-          "id": "51da4e7bd2352cfab563bf96885a614ff4951f40",
-          "title": "Claude重磅升级：Cowork与日常聊天实现数据互通",
-          "title_zh": "Claude重磅升级：Cowork与日常聊天实现数据互通",
+          "id": "098f6cf77d5fa58ef362e1940d0e887881c51ba7",
+          "title": "Anthropic 开放 Claude 真实使用数据供外部独立研究，公布试点结果 / Enabling independent research on how people use Claude",
+          "title_zh": "Anthropic 开放 Claude 真实使用数据供外部独立研究，公布试点结果",
           "title_ja": null,
-          "title_en": null,
-          "title_original": "Claude重磅升级：Cowork与日常聊天实现数据互通",
-          "summary": null,
+          "title_en": "Enabling independent research on how people use Claude",
+          "title_original": "Enabling independent research on how people use Claude",
+          "summary": "Anthropic 今年春季启动试点，通过隐私保护工具 Anthropic Insights（原 Clio）向斯坦福大学 SALT Lab、牛津大学人类信息处理实验室及 METR 三个外部机构开放约 25 万段 2026 年 4-5 月的 Claude.ai 或 Claude Code 对话数据，供其独立设计研究并公开发布结果。",
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30617",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-26T03:16:26.762490Z"
+          "url": "https://www.anthropic.com/research/enabling-independent-research",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-26T17:30:30.074000Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7349,
+      "importance": 0.7349,
+      "importance_score": 0.7349,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8683,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-26T17:30:30.074000Z",
+      "latest_at": "2026-08-26T17:30:30.074000Z",
+      "primary_item": {
+        "id": "098f6cf77d5fa58ef362e1940d0e887881c51ba7",
+        "title": "Anthropic 开放 Claude 真实使用数据供外部独立研究，公布试点结果 / Enabling independent research on how people use Claude",
+        "title_zh": "Anthropic 开放 Claude 真实使用数据供外部独立研究，公布试点结果",
+        "title_ja": null,
+        "title_en": "Enabling independent research on how people use Claude",
+        "title_original": "Enabling independent research on how people use Claude",
+        "summary": "Anthropic 今年春季启动试点，通过隐私保护工具 Anthropic Insights（原 Clio）向斯坦福大学 SALT Lab、牛津大学人类信息处理实验室及 METR 三个外部机构开放约 25 万段 2026 年 4-5 月的 Claude.ai 或 Claude Code 对话数据，供其独立设计研究并公开发布结果。",
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.anthropic.com/research/enabling-independent-research",
+        "source": "Anthropic：Research（发表成果 · 网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-27T03:56:48.480555Z"
+      }
+    },
+    {
+      "story_id": "story_f3aa89b80469",
+      "title": "英伟达 2027 财年半年报归母净利润 1180.1 亿美元，同比增长 161.1%",
+      "title_ja": null,
+      "url": "https://www.ithome.com/0/994/791.htm",
+      "primary_url": "https://www.ithome.com/0/994/791.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d91126ff51738b67487fedc83e98ecb07c436f27",
+          "title": "英伟达 2027 财年半年报归母净利润 1180.1 亿美元，同比增长 161.1%",
+          "title_zh": "英伟达 2027 财年半年报归母净利润 1180.1 亿美元，同比增长 161.1%",
+          "title_ja": null,
+          "title_en": null,
+          "title_original": "英伟达 2027 财年半年报归母净利润 1180.1 亿美元，同比增长 161.1%",
+          "summary": "英伟达发布 2027 财年半年报，上半年营收 1778.37 亿美元，归母净利润 1180.1 亿美元，同比增长 161.1%，GAAP 毛利率 75%。第二财季营收 962.21 亿美元，同比增长 106%，环比增长 18%，归母净利润 596.88 亿美元，同比增长 126%。数据中心业务第二季度收入 890.23 亿美元，同比增长 117%，Vera Rubin 平台已进入全面量产。",
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/994/791.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-26T20:25:54Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "d91126ff51738b67487fedc83e98ecb07c436f27",
+          "title": "英伟达 2027 财年半年报归母净利润 1180.1 亿美元，同比增长 161.1%",
+          "title_zh": "英伟达 2027 财年半年报归母净利润 1180.1 亿美元，同比增长 161.1%",
+          "title_ja": null,
+          "title_en": null,
+          "title_original": "英伟达 2027 财年半年报归母净利润 1180.1 亿美元，同比增长 161.1%",
+          "summary": "英伟达发布 2027 财年半年报，上半年营收 1778.37 亿美元，归母净利润 1180.1 亿美元，同比增长 161.1%，GAAP 毛利率 75%。第二财季营收 962.21 亿美元，同比增长 106%，环比增长 18%，归母净利润 596.88 亿美元，同比增长 126%。数据中心业务第二季度收入 890.23 亿美元，同比增长 117%，Vera Rubin 平台已进入全面量产。",
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/994/791.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-26T20:25:54Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7566,
+      "importance": 0.7566,
+      "importance_score": 0.7566,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9058,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1551,89 +1797,89 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-26T03:16:26.762490Z",
-      "latest_at": "2026-08-26T03:16:26.762490Z",
+      "earliest_at": "2026-08-26T20:25:54Z",
+      "latest_at": "2026-08-26T20:25:54Z",
       "primary_item": {
-        "id": "51da4e7bd2352cfab563bf96885a614ff4951f40",
-        "title": "Claude重磅升级：Cowork与日常聊天实现数据互通",
-        "title_zh": "Claude重磅升级：Cowork与日常聊天实现数据互通",
+        "id": "d91126ff51738b67487fedc83e98ecb07c436f27",
+        "title": "英伟达 2027 财年半年报归母净利润 1180.1 亿美元，同比增长 161.1%",
+        "title_zh": "英伟达 2027 财年半年报归母净利润 1180.1 亿美元，同比增长 161.1%",
         "title_ja": null,
         "title_en": null,
-        "title_original": "Claude重磅升级：Cowork与日常聊天实现数据互通",
-        "summary": null,
+        "title_original": "英伟达 2027 财年半年报归母净利润 1180.1 亿美元，同比增长 161.1%",
+        "summary": "英伟达发布 2027 财年半年报，上半年营收 1778.37 亿美元，归母净利润 1180.1 亿美元，同比增长 161.1%，GAAP 毛利率 75%。第二财季营收 962.21 亿美元，同比增长 106%，环比增长 18%，归母净利润 596.88 亿美元，同比增长 126%。数据中心业务第二季度收入 890.23 亿美元，同比增长 117%，Vera Rubin 平台已进入全面量产。",
         "summary_ja": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30617",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://www.ithome.com/0/994/791.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-26T03:55:55.681999Z"
+        "scored_at": "2026-08-27T03:56:48.480555Z"
       }
     },
     {
-      "story_id": "story_c8633ab3e5f7",
-      "title": "OpenAI自研Jalapeno芯片曝光：性能测试全面反超GB300",
+      "story_id": "story_0d7369bae4aa",
+      "title": "C2PA相机经不起现实的考验：Android端可被root攻击伪造签名",
       "title_ja": null,
-      "url": "https://www.aibase.com/news/30612",
-      "primary_url": "https://www.aibase.com/news/30612",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
+      "primary_url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "3f49dc0298aba80744e4fd094e68222f01aa18c9",
-          "title": "OpenAI自研Jalapeno芯片曝光：性能测试全面反超GB300",
-          "title_zh": "OpenAI自研Jalapeno芯片曝光：性能测试全面反超GB300",
+          "id": "2394468a8ea996b819314588cee1f91572cc0a31",
+          "title": "C2PA相机经不起现实的考验：Android端可被root攻击伪造签名",
+          "title_zh": "C2PA相机经不起现实的考验：Android端可被root攻击伪造签名",
           "title_ja": null,
           "title_en": null,
-          "title_original": "OpenAI自研Jalapeno芯片曝光：性能测试全面反超GB300",
-          "summary": null,
+          "title_original": "C2PA相机经不起现实的考验：Android端可被root攻击伪造签名",
+          "summary": "安全研究员David Buchanan指出，C2PA相机认证在Android平台上可被攻破。通过root权限提升漏洞（如CVE-2026-43499），攻击者可利用StrongBox硬件签名任意数据，伪造C2PA签名图像和视频，且无需硬件攻击。该问题无法通过常规补丁修复，已提前90天向相关方报告。",
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30612",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-26T03:16:26.762490Z"
+          "url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-26T14:05:27.506000Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "Hacker News 热门（buzzing.cc 中文翻译）"
       ],
       "items": [
         {
-          "id": "3f49dc0298aba80744e4fd094e68222f01aa18c9",
-          "title": "OpenAI自研Jalapeno芯片曝光：性能测试全面反超GB300",
-          "title_zh": "OpenAI自研Jalapeno芯片曝光：性能测试全面反超GB300",
+          "id": "2394468a8ea996b819314588cee1f91572cc0a31",
+          "title": "C2PA相机经不起现实的考验：Android端可被root攻击伪造签名",
+          "title_zh": "C2PA相机经不起现实的考验：Android端可被root攻击伪造签名",
           "title_ja": null,
           "title_en": null,
-          "title_original": "OpenAI自研Jalapeno芯片曝光：性能测试全面反超GB300",
-          "summary": null,
+          "title_original": "C2PA相机经不起现实的考验：Android端可被root攻击伪造签名",
+          "summary": "安全研究员David Buchanan指出，C2PA相机认证在Android平台上可被攻破。通过root权限提升漏洞（如CVE-2026-43499），攻击者可利用StrongBox硬件签名任意数据，伪造C2PA签名图像和视频，且无需硬件攻击。该问题无法通过常规补丁修复，已提前90天向相关方报告。",
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30612",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-26T03:16:26.762490Z"
+          "url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-26T14:05:27.506000Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7514,
+      "importance": 0.7514,
+      "importance_score": 0.7514,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8265,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1641,207 +1887,27 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-26T03:16:26.762490Z",
-      "latest_at": "2026-08-26T03:16:26.762490Z",
+      "earliest_at": "2026-08-26T14:05:27.506000Z",
+      "latest_at": "2026-08-26T14:05:27.506000Z",
       "primary_item": {
-        "id": "3f49dc0298aba80744e4fd094e68222f01aa18c9",
-        "title": "OpenAI自研Jalapeno芯片曝光：性能测试全面反超GB300",
-        "title_zh": "OpenAI自研Jalapeno芯片曝光：性能测试全面反超GB300",
+        "id": "2394468a8ea996b819314588cee1f91572cc0a31",
+        "title": "C2PA相机经不起现实的考验：Android端可被root攻击伪造签名",
+        "title_zh": "C2PA相机经不起现实的考验：Android端可被root攻击伪造签名",
         "title_ja": null,
         "title_en": null,
-        "title_original": "OpenAI自研Jalapeno芯片曝光：性能测试全面反超GB300",
-        "summary": null,
+        "title_original": "C2PA相机经不起现实的考验：Android端可被root攻击伪造签名",
+        "summary": "安全研究员David Buchanan指出，C2PA相机认证在Android平台上可被攻破。通过root权限提升漏洞（如CVE-2026-43499），攻击者可利用StrongBox硬件签名任意数据，伪造C2PA签名图像和视频，且无需硬件攻击。该问题无法通过常规补丁修复，已提前90天向相关方报告。",
         "summary_ja": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30612",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-26T03:55:55.681999Z"
-      }
-    },
-    {
-      "story_id": "story_ca9e0be58fae",
-      "title": "Stability AI 完成 7600 万美元 B 轮：EA 与三大唱片巨头齐押注",
-      "title_ja": null,
-      "url": "https://www.aibase.com/news/30627",
-      "primary_url": "https://www.aibase.com/news/30627",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "970deee819eb74f62f66cf1aa3fb7d948e150dc1",
-          "title": "Stability AI 完成 7600 万美元 B 轮：EA 与三大唱片巨头齐押注",
-          "title_zh": "Stability AI 完成 7600 万美元 B 轮：EA 与三大唱片巨头齐押注",
-          "title_ja": null,
-          "title_en": null,
-          "title_original": "Stability AI 完成 7600 万美元 B 轮：EA 与三大唱片巨头齐押注",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30627",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-26T03:16:26.762490Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "970deee819eb74f62f66cf1aa3fb7d948e150dc1",
-          "title": "Stability AI 完成 7600 万美元 B 轮：EA 与三大唱片巨头齐押注",
-          "title_zh": "Stability AI 完成 7600 万美元 B 轮：EA 与三大唱片巨头齐押注",
-          "title_ja": null,
-          "title_en": null,
-          "title_original": "Stability AI 完成 7600 万美元 B 轮：EA 与三大唱片巨头齐押注",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30627",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-26T03:16:26.762490Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-26T03:16:26.762490Z",
-      "latest_at": "2026-08-26T03:16:26.762490Z",
-      "primary_item": {
-        "id": "970deee819eb74f62f66cf1aa3fb7d948e150dc1",
-        "title": "Stability AI 完成 7600 万美元 B 轮：EA 与三大唱片巨头齐押注",
-        "title_zh": "Stability AI 完成 7600 万美元 B 轮：EA 与三大唱片巨头齐押注",
-        "title_ja": null,
-        "title_en": null,
-        "title_original": "Stability AI 完成 7600 万美元 B 轮：EA 与三大唱片巨头齐押注",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30627",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-26T03:55:55.681999Z"
-      }
-    },
-    {
-      "story_id": "story_c85babc6606f",
-      "title": "Stability AI完成7600万美元B轮融资 索尼与环球音乐等巨头参投",
-      "title_ja": null,
-      "url": "https://www.aibase.com/news/30613",
-      "primary_url": "https://www.aibase.com/news/30613",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "4fd13cbb353295cfa777659619655a6ea3373553",
-          "title": "Stability AI完成7600万美元B轮融资 索尼与环球音乐等巨头参投",
-          "title_zh": "Stability AI完成7600万美元B轮融资 索尼与环球音乐等巨头参投",
-          "title_ja": null,
-          "title_en": null,
-          "title_original": "Stability AI完成7600万美元B轮融资 索尼与环球音乐等巨头参投",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30613",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-26T03:16:26.762490Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "4fd13cbb353295cfa777659619655a6ea3373553",
-          "title": "Stability AI完成7600万美元B轮融资 索尼与环球音乐等巨头参投",
-          "title_zh": "Stability AI完成7600万美元B轮融资 索尼与环球音乐等巨头参投",
-          "title_ja": null,
-          "title_en": null,
-          "title_original": "Stability AI完成7600万美元B轮融资 索尼与环球音乐等巨头参投",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30613",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-26T03:16:26.762490Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-26T03:16:26.762490Z",
-      "latest_at": "2026-08-26T03:16:26.762490Z",
-      "primary_item": {
-        "id": "4fd13cbb353295cfa777659619655a6ea3373553",
-        "title": "Stability AI完成7600万美元B轮融资 索尼与环球音乐等巨头参投",
-        "title_zh": "Stability AI完成7600万美元B轮融资 索尼与环球音乐等巨头参投",
-        "title_ja": null,
-        "title_en": null,
-        "title_original": "Stability AI完成7600万美元B轮融资 索尼与环球音乐等巨头参投",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30613",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-26T03:55:55.681999Z"
+        "scored_at": "2026-08-27T03:56:48.480555Z"
       }
     }
   ]
