@@ -1,63 +1,95 @@
 {
-  "generated_at": "2026-08-29T15:37:24.806263Z",
+  "generated_at": "2026-08-29T19:23:40.719757Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-08-28",
-  "count_today": 6,
+  "latest_date": "2026-08-29",
+  "count_today": 5,
   "updates_today": [
     {
-      "date": "2026-08-28",
-      "title": "吴恩达：AI 工程技能图谱：软件工程基础",
-      "summary": "Agent可以帮你写代码，但真正决定项目能不能跑稳的，还是数据、架构、安全、部署、监控和扩展这些基本功。",
-      "url": "https://waytoagi.feishu.cn/wiki/G3IwwW1AIibAqokzMUOcx1QHnif?from=from_copylink",
+      "date": "2026-08-29",
+      "title": "第四次GEO公开课：官网正在成为GEO主阵地：从企业事实到AI引用，官网GEO实战公开课",
+      "summary": "GEO公开课第四期把官网GEO拆成一条可落地生产线：整理企业知识库，梳理用户问题，把答案放进产品页、案例页、对比页，再围绕“可见、可信、可引用”持续复测AI引用、询盘和转化。这套系统建立以后，价值也会超出 GEO。销售可以用，客服可以查，新员工可以学，市场和公关能够共享统一口径，AI 也能获得稳定的一手信息。快来试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/AMQ6woRYsiAEsdknDugcGGlQn7d?from=from_copylink",
       "title_ja": null,
       "summary_ja": null
     },
     {
-      "date": "2026-08-28",
-      "title": "一人公司做到数百万美元：从验证、产品到获客的完整系统丨Product Faculty",
-      "summary": "内容分发工具Blotato的开发者Sabrina用一条30秒TikTok验证需求，把第一版砍到只剩一个功能，上线10天做到1万美元月度经常性收入，不到两年把业务做到了数百万美元年收入。AI帮她压缩执行成本，但产品判断、功能取舍和责任始终在人手里。想知道“一人公司”怎么少踩坑、先跑出确定性，可以认真看看她每一步的具体做法。",
-      "url": "https://waytoagi.feishu.cn/wiki/KzqdwEd1piv3HgkxlZCcWcAgnog?from=from_copylink",
+      "date": "2026-08-29",
+      "title": "图解大语言模型部署",
+      "summary": "很多人自己部署大模型时，最容易只盯参数量和显卡型号，结果发现：并发排队、长上下文掉速、成本也算不清。这篇文章把TTFT、TPOT、吞吐、KV Cache、P95/P99、量化、硬件选型讲得很清晰，或许对你有帮助！",
+      "url": "https://waytoagi.feishu.cn/wiki/AhyFwQxkYikUgtk4WzYc8mPNnme?from=from_copylink",
       "title_ja": null,
       "summary_ja": null
     },
     {
-      "date": "2026-08-28",
-      "title": "WorkBuddy 超保姆级入门教程-附图解实操 【万字长文】",
-      "summary": "这篇WorkBuddy 超保姆级入门教程就是给小白准备的：从下载安装到第一次打开界面，哪些按钮该看、哪些入口先不用管、怎么照着截图跑通第一个任务，都会一步步拆清楚。",
-      "url": "https://waytoagi.feishu.cn/wiki/Y6ZewCbWhiEx5jkE53kcVgKTnQh?from=from_copylink",
+      "date": "2026-08-29",
+      "title": "吴恩达：AI最大的机遇并不在你想象的地方丨Silicon Valley Girl",
+      "summary": "过去十多年，吴恩达参与创建Google Brain、联合创办Coursera，并通过机器学习课程教过约800万名学习者。这其中的很多人对AI的注意力还停留在“岗位会不会被替代”、“AGI 会不会失控”这些大问题里。而在吴恩达看来，未来职场的核心竞争力，不在于谁会调用工具，更在于谁能发现问题、构建解决方案，并对结果负责。",
+      "url": "https://waytoagi.feishu.cn/wiki/Uxx8woTKri5sPAkyfpEcOAU9nFg?from=from_copylink",
       "title_ja": null,
       "summary_ja": null
     },
     {
-      "date": "2026-08-28",
-      "title": "KV、前缀、提示词与语义缓存：LLM 中四类缓存的清晰解析",
-      "summary": "这篇文章把KV缓存、前缀缓存、提示词缓存、语义缓存拆得很清楚。你需要了解的是你的输入token在哪里被重新计算，以及如何应对。本文从基本原理出发，覆盖四层缓存及其权衡、它们交互时会发生什么，以及阻碍缓存复用的五个最常见问题。",
-      "url": "https://waytoagi.feishu.cn/wiki/OHAPwy71RidXi5kMWYFchCDhnzb?from=from_copylink",
+      "date": "2026-08-29",
+      "title": "WebMCP 详解",
+      "summary": "谷歌和微软很少达成一致。但现在它们正在构建同样的东西来修复智能体访问网页的问题，这可能是多年来网络最大的变革。一起来看看！",
+      "url": "https://waytoagi.feishu.cn/wiki/FR9KwNj6ZiG23XkLEOTcsP4InGh?from=from_copylink",
       "title_ja": null,
       "summary_ja": null
     },
     {
-      "date": "2026-08-28",
-      "title": "Codex 进阶应用教程：普通人最常用的 10 个工作场景",
-      "summary": "Codex 适合处理有明确材料、具体步骤和可检查结果的任务。它可以读取文件、整理信息、运行命令、操作网页和软件，也可以把反复出现的要求保存成固定流程。下面十个场景按照普通人的实际使用顺序展开。每一节都会讲清任务为什么容易出错、怎样交给 Codex，以及完成以后检查什么。",
-      "url": "https://waytoagi.feishu.cn/wiki/SXPwwEYhRiBY9AkEwUWc22GmnFd?from=from_copylink",
-      "title_ja": null,
-      "summary_ja": null
-    },
-    {
-      "date": "2026-08-28",
-      "title": "10 个 Skill 搭建日更爆文的公众号写作系统",
-      "summary": "如果你也想做自媒体的话，作者这篇文章不容错过！作者把三年400多篇原创经验拆成了10个Skill，覆盖账号定位、爆款分析、每日选题、长短文写作、标题生成、封面配图、逻辑图和整篇排版，还延伸到视频复用、多平台分发。想把日更爆文的，可以试试这套流程。",
-      "url": "https://waytoagi.feishu.cn/wiki/MfWUwQc6piE3aWk2B2kcsJ0unZg?from=from_copylink",
+      "date": "2026-08-29",
+      "title": "Warp 如何让 Agent 自我进化",
+      "summary": "让 Agent 做Code Review，最容易出现的卡点是它不懂你的项目习惯、团队规范和历史踩坑；你这次提醒过的问题，下次它可能照样忘。Warp这个终端工具一开始让 Agent review 代码，效果并不理想。后来换了个更聪明的做法：用两个 Skill 跑闭环，一个负责审代码，一个自动收集工程师在 PR 里的高质量评论，再把这些真实反馈反向更新审查 Skill。人只需要照常写评论，Agent 就能持续吸收团队经验。",
+      "url": "https://waytoagi.feishu.cn/wiki/ImjdwSjdAiUosTkGgTTcX5jQnxd?from=from_copylink",
       "title_ja": null,
       "summary_ja": null
     }
   ],
-  "count_7d": 36,
+  "count_7d": 34,
   "updates_7d": [
+    {
+      "date": "2026-08-29",
+      "title": "第四次GEO公开课：官网正在成为GEO主阵地：从企业事实到AI引用，官网GEO实战公开课",
+      "summary": "GEO公开课第四期把官网GEO拆成一条可落地生产线：整理企业知识库，梳理用户问题，把答案放进产品页、案例页、对比页，再围绕“可见、可信、可引用”持续复测AI引用、询盘和转化。这套系统建立以后，价值也会超出 GEO。销售可以用，客服可以查，新员工可以学，市场和公关能够共享统一口径，AI 也能获得稳定的一手信息。快来试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/AMQ6woRYsiAEsdknDugcGGlQn7d?from=from_copylink",
+      "title_ja": null,
+      "summary_ja": null
+    },
+    {
+      "date": "2026-08-29",
+      "title": "图解大语言模型部署",
+      "summary": "很多人自己部署大模型时，最容易只盯参数量和显卡型号，结果发现：并发排队、长上下文掉速、成本也算不清。这篇文章把TTFT、TPOT、吞吐、KV Cache、P95/P99、量化、硬件选型讲得很清晰，或许对你有帮助！",
+      "url": "https://waytoagi.feishu.cn/wiki/AhyFwQxkYikUgtk4WzYc8mPNnme?from=from_copylink",
+      "title_ja": null,
+      "summary_ja": null
+    },
+    {
+      "date": "2026-08-29",
+      "title": "吴恩达：AI最大的机遇并不在你想象的地方丨Silicon Valley Girl",
+      "summary": "过去十多年，吴恩达参与创建Google Brain、联合创办Coursera，并通过机器学习课程教过约800万名学习者。这其中的很多人对AI的注意力还停留在“岗位会不会被替代”、“AGI 会不会失控”这些大问题里。而在吴恩达看来，未来职场的核心竞争力，不在于谁会调用工具，更在于谁能发现问题、构建解决方案，并对结果负责。",
+      "url": "https://waytoagi.feishu.cn/wiki/Uxx8woTKri5sPAkyfpEcOAU9nFg?from=from_copylink",
+      "title_ja": null,
+      "summary_ja": null
+    },
+    {
+      "date": "2026-08-29",
+      "title": "WebMCP 详解",
+      "summary": "谷歌和微软很少达成一致。但现在它们正在构建同样的东西来修复智能体访问网页的问题，这可能是多年来网络最大的变革。一起来看看！",
+      "url": "https://waytoagi.feishu.cn/wiki/FR9KwNj6ZiG23XkLEOTcsP4InGh?from=from_copylink",
+      "title_ja": null,
+      "summary_ja": null
+    },
+    {
+      "date": "2026-08-29",
+      "title": "Warp 如何让 Agent 自我进化",
+      "summary": "让 Agent 做Code Review，最容易出现的卡点是它不懂你的项目习惯、团队规范和历史踩坑；你这次提醒过的问题，下次它可能照样忘。Warp这个终端工具一开始让 Agent review 代码，效果并不理想。后来换了个更聪明的做法：用两个 Skill 跑闭环，一个负责审代码，一个自动收集工程师在 PR 里的高质量评论，再把这些真实反馈反向更新审查 Skill。人只需要照常写评论，Agent 就能持续吸收团队经验。",
+      "url": "https://waytoagi.feishu.cn/wiki/ImjdwSjdAiUosTkGgTTcX5jQnxd?from=from_copylink",
+      "title_ja": null,
+      "summary_ja": null
+    },
     {
       "date": "2026-08-28",
       "title": "吴恩达：AI 工程技能图谱：软件工程基础",
@@ -289,62 +321,6 @@
       "url": "https://waytoagi.feishu.cn/wiki/MuEYwFlKfinkHmkbsd4caLgKnfd?from=from_copylink",
       "title_ja": "AIミュージックウィークリー W.A 042",
       "summary_ja": "今週の AI 音楽に関して最も注目すべき点は、「その生成効果がより曲に近い」ことから、著作権、流通、ロゴ、制作ツールの再構築へと移りました。ユニバーサル ミュージックは、単一レベルの二次創作権と AI 特許の輸出を開始しました。 Apple Musicは間もなくAI生成の音楽タグを追加する予定で、業界の著作権規制は加速している。 DAW プラグイン、MIDI へのオーディオ、オフライン プレイリスト、オープンソースの歌唱合成など、多くの実用的なクリエイティブ ツールがメジャー アップデートされました。また、モデルの評価、歌とダンスのビデオ、象徴的な音楽のセグメンテーションなどをカバーする 5 つの最先端の論文もあります。"
-    },
-    {
-      "date": "2026-08-23",
-      "title": "给我 10 分钟，我教你掌握 Claude Code 的 80%。",
-      "summary": "很多人看到Claude Code的第一反应是：这不是写代码的吗？终端、命令、插件一堆，小白很容易还没开始就被劝退。这篇文章是一个营销人173天的实操复盘，把Claude Code拆成了普通人也能上手的工作系统。",
-      "url": "https://waytoagi.feishu.cn/wiki/XiIlwVRoZimHXikV9crcVuSsnBe?from=from_copylink",
-      "title_ja": "10 分いただければ、クロード コードの 80% をマスターできるように教えます。",
-      "summary_ja": "クロード コードを見たとき、多くの人が最初に抱く反応は次のとおりです。「これはコードを書く人ではないのですか?」ターミナル、コマンド、プラグインがたくさんあるため、初心者は始める前にやめてしまう可能性があります。この記事は、マーケティング担当者による 173 日間の実践的なレビューであり、クロード コードを一般の人が使用できる実用的なシステムに分解しています。"
-    },
-    {
-      "date": "2026-08-23",
-      "title": "第一性原理拆解：生图提示词究竟该怎么写？",
-      "summary": "很多人生图一翻车，就开始疯狂加风格词、镜头词、材质词，提示词越写越长，结果主体还是歪、文字还是乱。作者从第一性原理出发，带你看懂生图提示词究竟该怎么写？",
-      "url": "https://waytoagi.feishu.cn/wiki/KdvGwS9UDiFM2ckPjSxcW9NPnwB?from=from_copylink",
-      "title_ja": "第一原理解体：絵を描くためのプロンプトワードをどう書くか？",
-      "summary_ja": "多くの人生写真は、それらがひっくり返されるとすぐに、スタイルの言葉、レンズの言葉、素材の言葉を狂ったように追加し始めます。プロンプトの言葉がどんどん長くなっていきます。その結果、本体は曲がったままで、テキストは汚いままです。著者は第一原則から始めて、絵を描くためのプロンプトワードの書き方を理解するのに役立ちます。"
-    },
-    {
-      "date": "2026-08-23",
-      "title": "从零开始，搭建你的 Harness，定制化懂你的 Agent",
-      "summary": "这篇文章很适合刚开始用Agent、但总觉得“它不懂你”的人看。作者围绕Harness做了3个 Skill帮你搭建一个懂你的个人Agent：star帮你从零搭个人工作目录，better从安全、上下文、工具、记忆、学习五层做体检，view则把本地文件和Skill变成可视化工作台。",
-      "url": "https://waytoagi.feishu.cn/wiki/Q9pIwvAJxiSru3k4SsLcDMKhnDh?from=from_copylink",
-      "title_ja": "ゼロから始めてハーネスを構築し、あなたを理解するエージェントをカスタマイズします",
-      "summary_ja": "この記事は、Agent を使い始めたばかりだけど「よくわからない」と感じている人に最適です。著者は、Harness を中心に、自分を理解するパーソナル エージェントを構築するのに役立つ 3 つのスキルを構築しました。star は、個人の作業ディレクトリをゼロから構築するのに役立ち、セキュリティ、コンテキスト、ツール、メモリ、学習の 5 つの層からの物理的検査をより適切に実行し、view はローカル ファイルとスキルを視覚的なワークベンチに変換します。"
-    },
-    {
-      "date": "2026-08-23",
-      "title": "从零开发一个 DeepSeek Harness 插件",
-      "summary": "这篇文章是作者亲手做了一个插件并发布到GitHub的完整复盘：从 5 分钟跑通第一个插件，到踩过的两个真实的坑，到配置化、打包、发布。全程实操，命令可复制。",
-      "url": "https://waytoagi.feishu.cn/wiki/Ph2mwxxPCiwf2bkSfTrcGHd7nCf?from=from_copylink",
-      "title_ja": "DeepSeek Harness プラグインを最初から開発する",
-      "summary_ja": "この記事は、著者が個人的に作成して GitHub に公開したプラグインの完全なレビューです。最初のプラグインを 5 分で実行するところから、2 つの実際の落とし穴を通過して、設定、パッケージ化、公開するところまでをまとめています。プロセス全体は実用的であり、コマンドはコピーできます。"
-    },
-    {
-      "date": "2026-08-23",
-      "title": "万字长文｜Codex 从入门到精通",
-      "summary": "第一次打开 Codex，真正容易卡住的是眼前这些区域分别管什么：项目和任务有什么区别，Local、Worktree、Cloud 该选哪个，Plan 是不是必须开，权限应该给到哪里，Plugins、Skills、MCP 又为什么同时存在。作者这篇教程就从这些基础问题讲起，先把界面、按钮、工作区和常用能力认清，再判断哪些扩展功能值得接入。",
-      "url": "https://waytoagi.feishu.cn/wiki/XbCCwsMQSipBdvknK2fcGuipnQh?from=from_copylink",
-      "title_ja": "10,000ワードの長文記事｜初心者から上級者までコーデックス",
-      "summary_ja": "Codex を初めて開くとき、本当に行き詰まりやすいのは、目の前にある領域が何を担当しているのか、つまりプロジェクトとタスクの違いは何なのか、ローカル、ワークツリー、クラウドのどれを選択すべきか、プランを開く必要があるかどうか、どこに権限を与える必要があるのか​​、プラグイン、スキル、MCP が同時に存在する理由などです。著者によるこのチュートリアルは、これらの基本的な問題から始まります。まず、インターフェイス、ボタン、ワークスペース、および共通機能を理解してから、どの拡張機能にアクセスする価値があるかを判断します。"
-    },
-    {
-      "date": "2026-08-23",
-      "title": "Codex 斜杠命令完全指南：别再只会 /model 和 /status",
-      "summary": "Codex 的斜杠命令相当于它的“控制面板”：提示词负责描述你想完成什么，斜杠命令负责控制 Codex 如何工作。作者这篇文章详细拆解了Codex CLI当前内置的全部斜杠命令，并补充了IDE扩展与桌面端特有命令。",
-      "url": "https://waytoagi.feishu.cn/wiki/InCcwEeg7iRYfjkmR7DcWdilnWd?from=from_copylink",
-      "title_ja": "Codex スラッシュ コマンドの完全ガイド: もう /model と /status だけではありません",
-      "summary_ja": "Codex のスラッシュ コマンドは「コントロール パネル」として機能します。プロンプトの単語は達成したい内容を説明し、スラッシュ コマンドは Codex の動作を制御します。著者によるこの記事では、現在 Codex CLI に組み込まれているすべてのスラッシュ コマンドを詳細に説明し、IDE 拡張機能とデスクトップ固有のコマンドを追加します。"
-    },
-    {
-      "date": "2026-08-23",
-      "title": "8.17—8.23｜本周AI 论文精选",
-      "summary": "本周精选的10篇AI论文转向“运行框架、Skill、记忆、自我改进和成本控制到底靠不靠谱”。Agent Lightning和ClawGym讲怎么在真实框架里训练Agent；Skill Trigger Bottleneck、Demystifying Agent Skills讲Skill太多后怎么触发、怎么写才有用；Harness-Level Forgetting和Fragile Self-Improvement则提醒大家，自我改进很容易变成过拟合和遗忘。",
-      "url": "https://waytoagi.feishu.cn/wiki/M0f9wV2gBiQGC3kGADDcOElvn0b?from=from_copylink",
-      "title_ja": "8.17—8.23｜今週の厳選された AI 論文",
-      "summary_ja": "今週選ばれた 10 本の AI 論文は、「運用フレームワーク、スキル、記憶力、自己改善、コスト管理が信頼できるかどうか」に焦点を当てています。 Agent Lightning と ClawGym が、実際のフレームワークでエージェントをトレーニングする方法について話します。 「スキル トリガーのボトルネック」と「エージェント スキルの謎を解く」では、スキルが多すぎる場合にトリガーする方法と、それらを便利に作成する方法について説明します。ハーネスレベルの忘却と脆弱な自己改善は、自己改善が容易に過剰適合と忘却に変わる可能性があることを誰にでも思い出させます。"
     }
   ],
   "warning": null,
