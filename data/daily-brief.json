@@ -1,8 +1,513 @@
 {
-  "generated_at": "2026-09-03T14:32:22.869053Z",
+  "generated_at": "2026-09-03T18:36:28.689769Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_6129f245443c",
+      "title": "NVIDIA 宣布以 129.303 亿美元收购 Hugging Face / NVIDIA to Acquire Hugging Face",
+      "title_ja": "NVIDIA、Hugging Faceを買収へ",
+      "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face",
+      "primary_url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face",
+      "source": "NVIDIA Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "97039d8f5eae769457f61ad241d373cd2c617626",
+          "title": "NVIDIA 宣布以 129.303 亿美元收购 Hugging Face / NVIDIA to Acquire Hugging Face",
+          "title_zh": "NVIDIA 宣布以 129.303 亿美元收购 Hugging Face",
+          "title_ja": "NVIDIA、Hugging Faceを買収へ",
+          "title_en": "NVIDIA to Acquire Hugging Face",
+          "title_original": "NVIDIA to Acquire Hugging Face",
+          "summary": "NVIDIA 宣布已同意以 12，930，300，000 美元收购 Hugging Face，黄仁勋在官方博客公布了这一消息。Hugging Face 目前有超过 1800 万开发者，托管超过 300 万个模型、50 万个数据集和 100 万个应用，服务超过 20 万家企业。",
+          "summary_ja": "NVIDIA は、Hugging Face を 129 億 3,030 万ドルで買収することに合意したと発表しました。 Jen-Hsun Huang氏は自身の公式ブログでこのニュースを発表した。 Hugging Face には現在 1,800 万人以上の開発者がおり、300 万以上のモデル、50 万のデータセット、100 万のアプリケーションをホストし、20 万以上の企業にサービスを提供しています。",
+          "recommend_reason_zh": null,
+          "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face",
+          "source": "NVIDIA Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-03T11:59:49Z"
+        },
+        {
+          "id": "e2207106467f84db1ca3a7e022f83a56bef44289",
+          "title": "英伟达将收购Hugging Face",
+          "title_zh": "英伟达将收购Hugging Face",
+          "title_ja": null,
+          "title_en": null,
+          "title_original": "英伟达将收购Hugging Face",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face",
+          "source": "blogs.nvidia.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-03T14:57:29.191000Z"
+        },
+        {
+          "id": "c34ecfce4127b33bc31e5ac97e15386469e96c44",
+          "title": "Nvidia to acquire Hugging Face",
+          "title_zh": null,
+          "title_ja": null,
+          "title_en": "Nvidia to acquire Hugging Face",
+          "title_original": "Nvidia to acquire Hugging Face",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49548952",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-03T14:32:46.827000Z"
+        },
+        {
+          "id": "8f028038f61ddb44cc28ff40a4e49bf55b818af0",
+          "title": "Nvidia to acquire Hugging Face",
+          "title_zh": null,
+          "title_ja": null,
+          "title_en": "Nvidia to acquire Hugging Face",
+          "title_original": "Nvidia to acquire Hugging Face",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-03T12:10:33Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "NVIDIA Blog（RSS）",
+        "blogs.nvidia.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "97039d8f5eae769457f61ad241d373cd2c617626",
+          "title": "NVIDIA 宣布以 129.303 亿美元收购 Hugging Face / NVIDIA to Acquire Hugging Face",
+          "title_zh": "NVIDIA 宣布以 129.303 亿美元收购 Hugging Face",
+          "title_ja": "NVIDIA、Hugging Faceを買収へ",
+          "title_en": "NVIDIA to Acquire Hugging Face",
+          "title_original": "NVIDIA to Acquire Hugging Face",
+          "summary": "NVIDIA 宣布已同意以 12，930，300，000 美元收购 Hugging Face，黄仁勋在官方博客公布了这一消息。Hugging Face 目前有超过 1800 万开发者，托管超过 300 万个模型、50 万个数据集和 100 万个应用，服务超过 20 万家企业。",
+          "summary_ja": "NVIDIA は、Hugging Face を 129 億 3,030 万ドルで買収することに合意したと発表しました。 Jen-Hsun Huang氏は自身の公式ブログでこのニュースを発表した。 Hugging Face には現在 1,800 万人以上の開発者がおり、300 万以上のモデル、50 万のデータセット、100 万のアプリケーションをホストし、20 万以上の企業にサービスを提供しています。",
+          "recommend_reason_zh": null,
+          "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face",
+          "source": "NVIDIA Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-03T11:59:49Z"
+        },
+        {
+          "id": "e2207106467f84db1ca3a7e022f83a56bef44289",
+          "title": "英伟达将收购Hugging Face",
+          "title_zh": "英伟达将收购Hugging Face",
+          "title_ja": null,
+          "title_en": null,
+          "title_original": "英伟达将收购Hugging Face",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face",
+          "source": "blogs.nvidia.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-03T14:57:29.191000Z"
+        },
+        {
+          "id": "c34ecfce4127b33bc31e5ac97e15386469e96c44",
+          "title": "Nvidia to acquire Hugging Face",
+          "title_zh": null,
+          "title_ja": null,
+          "title_en": "Nvidia to acquire Hugging Face",
+          "title_original": "Nvidia to acquire Hugging Face",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49548952",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-03T14:32:46.827000Z"
+        },
+        {
+          "id": "8f028038f61ddb44cc28ff40a4e49bf55b818af0",
+          "title": "Nvidia to acquire Hugging Face",
+          "title_zh": null,
+          "title_ja": null,
+          "title_en": "Nvidia to acquire Hugging Face",
+          "title_original": "Nvidia to acquire Hugging Face",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-03T12:10:33Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.8832,
+      "importance": 0.8832,
+      "importance_score": 0.8832,
+      "importance_label": "多源热议",
+      "importance_label_ja": "複数ソースで話題",
+      "importance_breakdown": {
+        "editorial": 0.91,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9089,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-03T11:59:49Z",
+      "latest_at": "2026-09-03T14:57:29.191000Z",
+      "primary_item": {
+        "id": "97039d8f5eae769457f61ad241d373cd2c617626",
+        "title": "NVIDIA 宣布以 129.303 亿美元收购 Hugging Face / NVIDIA to Acquire Hugging Face",
+        "title_zh": "NVIDIA 宣布以 129.303 亿美元收购 Hugging Face",
+        "title_ja": "NVIDIA、Hugging Faceを買収へ",
+        "title_en": "NVIDIA to Acquire Hugging Face",
+        "title_original": "NVIDIA to Acquire Hugging Face",
+        "summary": "NVIDIA 宣布已同意以 12，930，300，000 美元收购 Hugging Face，黄仁勋在官方博客公布了这一消息。Hugging Face 目前有超过 1800 万开发者，托管超过 300 万个模型、50 万个数据集和 100 万个应用，服务超过 20 万家企业。",
+        "summary_ja": "NVIDIA は、Hugging Face を 129 億 3,030 万ドルで買収することに合意したと発表しました。 Jen-Hsun Huang氏は自身の公式ブログでこのニュースを発表した。 Hugging Face には現在 1,800 万人以上の開発者がおり、300 万以上のモデル、50 万のデータセット、100 万のアプリケーションをホストし、20 万以上の企業にサービスを提供しています。",
+        "recommend_reason_zh": null,
+        "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face",
+        "source": "NVIDIA Blog（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-03T19:11:00.831390Z"
+      }
+    },
+    {
+      "story_id": "story_a0931d161b21",
+      "title": "Google DeepMind 发布 WeatherNext 3 全球天气 AI 模型， hourly 更新且分辨率较上一代提升约 5 倍 / Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+      "title_ja": null,
+      "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model",
+      "primary_url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "afa803390cdebde1bac464b957ac4ea1b8e326ac",
+          "title": "Google DeepMind 发布 WeatherNext 3 全球天气 AI 模型， hourly 更新且分辨率较上一代提升约 5 倍 / Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+          "title_zh": "Google DeepMind 发布 WeatherNext 3 全球天气 AI 模型， hourly 更新且分辨率较上一代提升约 5 倍",
+          "title_ja": null,
+          "title_en": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+          "title_original": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-03T15:02:08Z"
+        },
+        {
+          "id": "2ce61cfe8316633c46e8daecde2604beec30c201",
+          "title": "Google DeepMind 发布 WeatherNext 3 全球天气 AI 模型， hourly 更新且分辨率较上一代提升约 5 倍 / Introducing WeatherNext 3， our most advanced and accurate global weather AI model",
+          "title_zh": "Google DeepMind 发布 WeatherNext 3 全球天气 AI 模型， hourly 更新且分辨率较上一代提升约 5 倍",
+          "title_ja": null,
+          "title_en": "Introducing WeatherNext 3， our most advanced and accurate global weather AI model",
+          "title_original": "Introducing WeatherNext 3， our most advanced and accurate global weather AI model",
+          "summary": "Google DeepMind 与 Google Research 发布 WeatherNext 3，称其为迄今最先进的全球天气 AI 模型，经 Brightband 独立实时评估。",
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model",
+          "source": "Google DeepMind：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-03T15:02:08Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Google DeepMind",
+        "Google DeepMind：Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "afa803390cdebde1bac464b957ac4ea1b8e326ac",
+          "title": "Google DeepMind 发布 WeatherNext 3 全球天气 AI 模型， hourly 更新且分辨率较上一代提升约 5 倍 / Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+          "title_zh": "Google DeepMind 发布 WeatherNext 3 全球天气 AI 模型， hourly 更新且分辨率较上一代提升约 5 倍",
+          "title_ja": null,
+          "title_en": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+          "title_original": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-03T15:02:08Z"
+        },
+        {
+          "id": "2ce61cfe8316633c46e8daecde2604beec30c201",
+          "title": "Google DeepMind 发布 WeatherNext 3 全球天气 AI 模型， hourly 更新且分辨率较上一代提升约 5 倍 / Introducing WeatherNext 3， our most advanced and accurate global weather AI model",
+          "title_zh": "Google DeepMind 发布 WeatherNext 3 全球天气 AI 模型， hourly 更新且分辨率较上一代提升约 5 倍",
+          "title_ja": null,
+          "title_en": "Introducing WeatherNext 3， our most advanced and accurate global weather AI model",
+          "title_original": "Introducing WeatherNext 3， our most advanced and accurate global weather AI model",
+          "summary": "Google DeepMind 与 Google Research 发布 WeatherNext 3，称其为迄今最先进的全球天气 AI 模型，经 Brightband 独立实时评估。",
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model",
+          "source": "Google DeepMind：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-03T15:02:08Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8599,
+      "importance": 0.8599,
+      "importance_score": 0.8599,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9497,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-03T15:02:08Z",
+      "latest_at": "2026-09-03T15:02:08Z",
+      "primary_item": {
+        "id": "afa803390cdebde1bac464b957ac4ea1b8e326ac",
+        "title": "Google DeepMind 发布 WeatherNext 3 全球天气 AI 模型， hourly 更新且分辨率较上一代提升约 5 倍 / Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+        "title_zh": "Google DeepMind 发布 WeatherNext 3 全球天气 AI 模型， hourly 更新且分辨率较上一代提升约 5 倍",
+        "title_ja": null,
+        "title_en": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+        "title_original": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model",
+        "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-03T19:11:00.831390Z"
+      }
+    },
+    {
+      "story_id": "story_09f1f8cfa0a6",
+      "title": "IFM 发布 K2 Horizon 六款开源模型，覆盖 0.9B 到 375B-A23B 并开放完整训练生命周期",
+      "title_ja": null,
+      "url": "https://ifm.ai/blog/k2",
+      "primary_url": "https://ifm.ai/blog/k2",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "bccf86bca547ad2854e02715a6fd8cb79de70012",
+          "title": "IFM 发布 K2 Horizon 六款开源模型，覆盖 0.9B 到 375B-A23B 并开放完整训练生命周期",
+          "title_zh": "IFM 发布 K2 Horizon 六款开源模型，覆盖 0.9B 到 375B-A23B 并开放完整训练生命周期",
+          "title_ja": null,
+          "title_en": null,
+          "title_original": "IFM 发布 K2 Horizon 六款开源模型，覆盖 0.9B 到 375B-A23B 并开放完整训练生命周期",
+          "summary": "IFM 发布 K2 Horizon 模型系列，共六个模型：375B-A23B、36B-A4B、32B、7B、3.7B 和 0.9B，均以 Apache 2.0 开源，其中 0.9B、3.7B 和 7B 宣称在其规模上达到 SOTA，36B-A4B 采用新提出的稀疏注意力架构 MoVA。",
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://ifm.ai/blog/k2",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-03T17:35:09.004000Z"
+        },
+        {
+          "id": "a358cf099e44b982be454303e9e521b6774fd746",
+          "title": "K2 Horizon：前沿性能，极致开放",
+          "title_zh": "K2 Horizon：前沿性能，极致开放",
+          "title_ja": null,
+          "title_en": null,
+          "title_original": "K2 Horizon：前沿性能，极致开放",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://ifm.ai/blog/k2",
+          "source": "ifm.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-03T17:35:09.004000Z"
+        },
+        {
+          "id": "fb3b63c85ca3b40e5286916917da70cc4360812f",
+          "title": "IFM 发布 K2 Horizon 六款开源模型，覆盖 0.9B 到 375B-A23B 并开放完整训练生命周期 / K2 Horizon: A connected fleet of six open models",
+          "title_zh": "IFM 发布 K2 Horizon 六款开源模型，覆盖 0.9B 到 375B-A23B 并开放完整训练生命周期",
+          "title_ja": null,
+          "title_en": "K2 Horizon: A connected fleet of six open models",
+          "title_original": "K2 Horizon: A connected fleet of six open models",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://ifm.ai/blog/k2",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-03T15:36:43Z"
+        },
+        {
+          "id": "7cfa6350b9aa58b9e7b373f7e8f88d414b6f392b",
+          "title": "IFM 发布 K2 Horizon 六款开源模型，覆盖 0.9B 到 375B-A23B 并开放完整训练生命周期 / K2 Horizon: Frontier Performance, Radically Open",
+          "title_zh": "IFM 发布 K2 Horizon 六款开源模型，覆盖 0.9B 到 375B-A23B 并开放完整训练生命周期",
+          "title_ja": null,
+          "title_en": "K2 Horizon: Frontier Performance, Radically Open",
+          "title_original": "K2 Horizon: Frontier Performance, Radically Open",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://ifm.ai/blog/k2",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-03T15:36:43Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News",
+        "Hacker News (黑客新闻)",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "ifm.ai"
+      ],
+      "items": [
+        {
+          "id": "bccf86bca547ad2854e02715a6fd8cb79de70012",
+          "title": "IFM 发布 K2 Horizon 六款开源模型，覆盖 0.9B 到 375B-A23B 并开放完整训练生命周期",
+          "title_zh": "IFM 发布 K2 Horizon 六款开源模型，覆盖 0.9B 到 375B-A23B 并开放完整训练生命周期",
+          "title_ja": null,
+          "title_en": null,
+          "title_original": "IFM 发布 K2 Horizon 六款开源模型，覆盖 0.9B 到 375B-A23B 并开放完整训练生命周期",
+          "summary": "IFM 发布 K2 Horizon 模型系列，共六个模型：375B-A23B、36B-A4B、32B、7B、3.7B 和 0.9B，均以 Apache 2.0 开源，其中 0.9B、3.7B 和 7B 宣称在其规模上达到 SOTA，36B-A4B 采用新提出的稀疏注意力架构 MoVA。",
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://ifm.ai/blog/k2",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-03T17:35:09.004000Z"
+        },
+        {
+          "id": "a358cf099e44b982be454303e9e521b6774fd746",
+          "title": "K2 Horizon：前沿性能，极致开放",
+          "title_zh": "K2 Horizon：前沿性能，极致开放",
+          "title_ja": null,
+          "title_en": null,
+          "title_original": "K2 Horizon：前沿性能，极致开放",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://ifm.ai/blog/k2",
+          "source": "ifm.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-03T17:35:09.004000Z"
+        },
+        {
+          "id": "fb3b63c85ca3b40e5286916917da70cc4360812f",
+          "title": "IFM 发布 K2 Horizon 六款开源模型，覆盖 0.9B 到 375B-A23B 并开放完整训练生命周期 / K2 Horizon: A connected fleet of six open models",
+          "title_zh": "IFM 发布 K2 Horizon 六款开源模型，覆盖 0.9B 到 375B-A23B 并开放完整训练生命周期",
+          "title_ja": null,
+          "title_en": "K2 Horizon: A connected fleet of six open models",
+          "title_original": "K2 Horizon: A connected fleet of six open models",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://ifm.ai/blog/k2",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-03T15:36:43Z"
+        },
+        {
+          "id": "7cfa6350b9aa58b9e7b373f7e8f88d414b6f392b",
+          "title": "IFM 发布 K2 Horizon 六款开源模型，覆盖 0.9B 到 375B-A23B 并开放完整训练生命周期 / K2 Horizon: Frontier Performance, Radically Open",
+          "title_zh": "IFM 发布 K2 Horizon 六款开源模型，覆盖 0.9B 到 375B-A23B 并开放完整训练生命周期",
+          "title_ja": null,
+          "title_en": "K2 Horizon: Frontier Performance, Radically Open",
+          "title_original": "K2 Horizon: Frontier Performance, Radically Open",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://ifm.ai/blog/k2",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-03T15:36:43Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.858,
+      "importance": 0.858,
+      "importance_score": 0.858,
+      "importance_label": "多源热议",
+      "importance_label_ja": "複数ソースで話題",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9853,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-03T15:36:43Z",
+      "latest_at": "2026-09-03T17:35:09.004000Z",
+      "primary_item": {
+        "id": "bccf86bca547ad2854e02715a6fd8cb79de70012",
+        "title": "IFM 发布 K2 Horizon 六款开源模型，覆盖 0.9B 到 375B-A23B 并开放完整训练生命周期",
+        "title_zh": "IFM 发布 K2 Horizon 六款开源模型，覆盖 0.9B 到 375B-A23B 并开放完整训练生命周期",
+        "title_ja": null,
+        "title_en": null,
+        "title_original": "IFM 发布 K2 Horizon 六款开源模型，覆盖 0.9B 到 375B-A23B 并开放完整训练生命周期",
+        "summary": "IFM 发布 K2 Horizon 模型系列，共六个模型：375B-A23B、36B-A4B、32B、7B、3.7B 和 0.9B，均以 Apache 2.0 开源，其中 0.9B、3.7B 和 7B 宣称在其规模上达到 SOTA，36B-A4B 采用新提出的稀疏注意力架构 MoVA。",
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://ifm.ai/blog/k2",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-03T19:11:00.831390Z"
+      }
+    },
     {
       "story_id": "story_16469548a272",
       "title": "NeoMME：高效的多模态本地多语言编码器 / NeoMME: an efficient Multimodal-native and Multilingual Encoder",
@@ -53,16 +558,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8566,
-      "importance": 0.8566,
-      "importance_score": 0.8566,
+      "score": 0.8466,
+      "importance": 0.8466,
+      "importance_score": 0.8466,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9813,
+        "recency": 0.9253,
         "story_heat": 0.0
       },
       "category": "official",
@@ -91,102 +596,466 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-03T14:36:12.043536Z"
+        "scored_at": "2026-09-03T19:11:00.831390Z"
       }
     },
     {
-      "story_id": "story_6129f245443c",
-      "title": "NVIDIA 宣布以 129.303 亿美元收购 Hugging Face / NVIDIA to Acquire Hugging Face",
-      "title_ja": "NVIDIA、Hugging Faceを買収へ",
-      "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face",
-      "primary_url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face",
-      "source": "NVIDIA Blog（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_9dd7043831a5",
+      "title": "GitHub Copilot app for Beginners: Run several agents at once",
+      "title_ja": null,
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "97039d8f5eae769457f61ad241d373cd2c617626",
-          "title": "NVIDIA 宣布以 129.303 亿美元收购 Hugging Face / NVIDIA to Acquire Hugging Face",
-          "title_zh": "NVIDIA 宣布以 129.303 亿美元收购 Hugging Face",
-          "title_ja": "NVIDIA、Hugging Faceを買収へ",
-          "title_en": "NVIDIA to Acquire Hugging Face",
-          "title_original": "NVIDIA to Acquire Hugging Face",
-          "summary": "NVIDIA 宣布已同意以 12，930，300，000 美元收购 Hugging Face，黄仁勋在官方博客公布了这一消息。Hugging Face 目前有超过 1800 万开发者，托管超过 300 万个模型、50 万个数据集和 100 万个应用，服务超过 20 万家企业。",
-          "summary_ja": "NVIDIA は、Hugging Face を 129 億 3,030 万ドルで買収することに合意したと発表しました。 Jen-Hsun Huang氏は自身の公式ブログでこのニュースを発表した。 Hugging Face には現在 1,800 万人以上の開発者がおり、300 万以上のモデル、50 万のデータセット、100 万のアプリケーションをホストし、20 万以上の企業にサービスを提供しています。",
-          "recommend_reason_zh": null,
-          "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face",
-          "source": "NVIDIA Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-03T11:59:49Z"
-        },
-        {
-          "id": "c34ecfce4127b33bc31e5ac97e15386469e96c44",
-          "title": "Nvidia to Acquire Hugging Face",
+          "id": "f989ccabdf30490b91437d7eac958d0034f29c12",
+          "title": "GitHub Copilot app for Beginners: Run several agents at once",
           "title_zh": null,
-          "title_ja": "Nvidia、Hugging Faceを買収へ",
-          "title_en": "Nvidia to Acquire Hugging Face",
-          "title_original": "Nvidia to Acquire Hugging Face",
+          "title_ja": null,
+          "title_en": "GitHub Copilot app for Beginners: Run several agents at once",
+          "title_original": "GitHub Copilot app for Beginners: Run several agents at once",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49548952",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-03T14:32:46.827000Z"
+          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-03T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "f989ccabdf30490b91437d7eac958d0034f29c12",
+          "title": "GitHub Copilot app for Beginners: Run several agents at once",
+          "title_zh": null,
+          "title_ja": null,
+          "title_en": "GitHub Copilot app for Beginners: Run several agents at once",
+          "title_original": "GitHub Copilot app for Beginners: Run several agents at once",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-03T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8453,
+      "importance": 0.8453,
+      "importance_score": 0.8453,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.963,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-03T16:00:00Z",
+      "latest_at": "2026-09-03T16:00:00Z",
+      "primary_item": {
+        "id": "f989ccabdf30490b91437d7eac958d0034f29c12",
+        "title": "GitHub Copilot app for Beginners: Run several agents at once",
+        "title_zh": null,
+        "title_ja": null,
+        "title_en": "GitHub Copilot app for Beginners: Run several agents at once",
+        "title_original": "GitHub Copilot app for Beginners: Run several agents at once",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-03T19:11:00.831390Z"
+      }
+    },
+    {
+      "story_id": "story_7818dad3e51c",
+      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "title_ja": null,
+      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "primary_url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "97571262e3a4fd28731feca8d4432b94bd632bb2",
+          "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+          "title_zh": null,
+          "title_ja": null,
+          "title_en": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+          "title_original": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-03T12:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "97571262e3a4fd28731feca8d4432b94bd632bb2",
+          "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+          "title_zh": null,
+          "title_ja": null,
+          "title_en": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+          "title_original": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-03T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8436,
+      "importance": 0.8436,
+      "importance_score": 0.8436,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.909,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-03T12:00:00Z",
+      "latest_at": "2026-09-03T12:00:00Z",
+      "primary_item": {
+        "id": "97571262e3a4fd28731feca8d4432b94bd632bb2",
+        "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+        "title_zh": null,
+        "title_ja": null,
+        "title_en": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+        "title_original": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-03T19:11:00.831390Z"
+      }
+    },
+    {
+      "story_id": "story_a2abf8f2364e",
+      "title": "Reopening Copilot Business and Enterprise signups",
+      "title_ja": null,
+      "url": "https://github.blog/changelog/2026-09-03-reopening-copilot-business-and-enterprise-signups",
+      "primary_url": "https://github.blog/changelog/2026-09-03-reopening-copilot-business-and-enterprise-signups",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "58c350b00aa87902ab0ee194138f013d6df316d3",
+          "title": "Reopening Copilot Business and Enterprise signups",
+          "title_zh": null,
+          "title_ja": null,
+          "title_en": "Reopening Copilot Business and Enterprise signups",
+          "title_original": "Reopening Copilot Business and Enterprise signups",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-03-reopening-copilot-business-and-enterprise-signups",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-03T14:40:43Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "58c350b00aa87902ab0ee194138f013d6df316d3",
+          "title": "Reopening Copilot Business and Enterprise signups",
+          "title_zh": null,
+          "title_ja": null,
+          "title_en": "Reopening Copilot Business and Enterprise signups",
+          "title_original": "Reopening Copilot Business and Enterprise signups",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-03-reopening-copilot-business-and-enterprise-signups",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-03T14:40:43Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8421,
+      "importance": 0.8421,
+      "importance_score": 0.8421,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9448,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-03T14:40:43Z",
+      "latest_at": "2026-09-03T14:40:43Z",
+      "primary_item": {
+        "id": "58c350b00aa87902ab0ee194138f013d6df316d3",
+        "title": "Reopening Copilot Business and Enterprise signups",
+        "title_zh": null,
+        "title_ja": null,
+        "title_en": "Reopening Copilot Business and Enterprise signups",
+        "title_original": "Reopening Copilot Business and Enterprise signups",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-03-reopening-copilot-business-and-enterprise-signups",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-03T19:11:00.831390Z"
+      }
+    },
+    {
+      "story_id": "story_0a991ead0e43",
+      "title": "Codex CLI 0.153.0",
+      "title_ja": null,
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "bb85c2474327fd3868ec4d226718a0570ac11485",
+          "title": "Codex CLI 0.153.0",
+          "title_zh": null,
+          "title_ja": null,
+          "title_en": "Codex CLI 0.153.0",
+          "title_original": "Codex CLI 0.153.0",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-03T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "bb85c2474327fd3868ec4d226718a0570ac11485",
+          "title": "Codex CLI 0.153.0",
+          "title_zh": null,
+          "title_ja": null,
+          "title_en": "Codex CLI 0.153.0",
+          "title_original": "Codex CLI 0.153.0",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-03T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8236,
+      "importance": 0.8236,
+      "importance_score": 0.8236,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.7644,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-03T00:00:00Z",
+      "latest_at": "2026-09-03T00:00:00Z",
+      "primary_item": {
+        "id": "bb85c2474327fd3868ec4d226718a0570ac11485",
+        "title": "Codex CLI 0.153.0",
+        "title_zh": null,
+        "title_ja": null,
+        "title_en": "Codex CLI 0.153.0",
+        "title_original": "Codex CLI 0.153.0",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-03T19:11:00.831390Z"
+      }
+    },
+    {
+      "story_id": "story_8353153e05c5",
+      "title": "OpenAI 发布新模型 Astra，主打计算机与浏览器操作但因 opaque recurrence 引发争议 / OpenAI launches Astra， its powerful （and controversial） new model",
+      "title_ja": null,
+      "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model",
+      "primary_url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "69e08950184371e02181cb3758418f7128170d5f",
+          "title": "OpenAI 发布新模型 Astra，主打计算机与浏览器操作但因 opaque recurrence 引发争议 / OpenAI launches Astra， its powerful （and controversial） new model",
+          "title_zh": "OpenAI 发布新模型 Astra，主打计算机与浏览器操作但因 opaque recurrence 引发争议",
+          "title_ja": null,
+          "title_en": "OpenAI launches Astra， its powerful （and controversial） new model",
+          "title_original": "OpenAI launches Astra， its powerful （and controversial） new model",
+          "summary": "OpenAI 发布最新模型 Astra，称其为迄今最强大模型，主打计算机和浏览器操作，先面向 Daybreak 网络安全计划客户开放，随后一周内覆盖 Pro、Plus、Enterprise、Business 付费账户及 API。",
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-03T18:01:45Z"
+        },
+        {
+          "id": "ebc7b6add10553056ab29a942d379a905bda06a3",
+          "title": "OpenAI 发布新模型 Astra，主打计算机与浏览器操作但因 opaque recurrence 引发争议 / OpenAI launches Astra, its powerful (and controversial) new model",
+          "title_zh": "OpenAI 发布新模型 Astra，主打计算机与浏览器操作但因 opaque recurrence 引发争议",
+          "title_ja": null,
+          "title_en": "OpenAI launches Astra, its powerful (and controversial) new model",
+          "title_original": "OpenAI launches Astra, its powerful (and controversial) new model",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-03T18:01:45Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "NVIDIA Blog（RSS）",
-        "hackernews"
+        "TechCrunch AI",
+        "TechCrunch：AI（RSS）"
       ],
       "items": [
         {
-          "id": "97039d8f5eae769457f61ad241d373cd2c617626",
-          "title": "NVIDIA 宣布以 129.303 亿美元收购 Hugging Face / NVIDIA to Acquire Hugging Face",
-          "title_zh": "NVIDIA 宣布以 129.303 亿美元收购 Hugging Face",
-          "title_ja": "NVIDIA、Hugging Faceを買収へ",
-          "title_en": "NVIDIA to Acquire Hugging Face",
-          "title_original": "NVIDIA to Acquire Hugging Face",
-          "summary": "NVIDIA 宣布已同意以 12，930，300，000 美元收购 Hugging Face，黄仁勋在官方博客公布了这一消息。Hugging Face 目前有超过 1800 万开发者，托管超过 300 万个模型、50 万个数据集和 100 万个应用，服务超过 20 万家企业。",
-          "summary_ja": "NVIDIA は、Hugging Face を 129 億 3,030 万ドルで買収することに合意したと発表しました。 Jen-Hsun Huang氏は自身の公式ブログでこのニュースを発表した。 Hugging Face には現在 1,800 万人以上の開発者がおり、300 万以上のモデル、50 万のデータセット、100 万のアプリケーションをホストし、20 万以上の企業にサービスを提供しています。",
+          "id": "69e08950184371e02181cb3758418f7128170d5f",
+          "title": "OpenAI 发布新模型 Astra，主打计算机与浏览器操作但因 opaque recurrence 引发争议 / OpenAI launches Astra， its powerful （and controversial） new model",
+          "title_zh": "OpenAI 发布新模型 Astra，主打计算机与浏览器操作但因 opaque recurrence 引发争议",
+          "title_ja": null,
+          "title_en": "OpenAI launches Astra， its powerful （and controversial） new model",
+          "title_original": "OpenAI launches Astra， its powerful （and controversial） new model",
+          "summary": "OpenAI 发布最新模型 Astra，称其为迄今最强大模型，主打计算机和浏览器操作，先面向 Daybreak 网络安全计划客户开放，随后一周内覆盖 Pro、Plus、Enterprise、Business 付费账户及 API。",
+          "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face",
-          "source": "NVIDIA Blog（RSS）",
+          "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model",
+          "source": "TechCrunch：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-03T11:59:49Z"
+          "published_at": "2026-09-03T18:01:45Z"
         },
         {
-          "id": "c34ecfce4127b33bc31e5ac97e15386469e96c44",
-          "title": "Nvidia to Acquire Hugging Face",
-          "title_zh": null,
-          "title_ja": "Nvidia、Hugging Faceを買収へ",
-          "title_en": "Nvidia to Acquire Hugging Face",
-          "title_original": "Nvidia to Acquire Hugging Face",
+          "id": "ebc7b6add10553056ab29a942d379a905bda06a3",
+          "title": "OpenAI 发布新模型 Astra，主打计算机与浏览器操作但因 opaque recurrence 引发争议 / OpenAI launches Astra, its powerful (and controversial) new model",
+          "title_zh": "OpenAI 发布新模型 Astra，主打计算机与浏览器操作但因 opaque recurrence 引发争议",
+          "title_ja": null,
+          "title_en": "OpenAI launches Astra, its powerful (and controversial) new model",
+          "title_original": "OpenAI launches Astra, its powerful (and controversial) new model",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49548952",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-03T14:32:46.827000Z"
+          "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-03T18:01:45Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8431,
-      "importance": 0.8431,
-      "importance_score": 0.8431,
+      "score": 0.8181,
+      "importance": 0.8181,
+      "importance_score": 0.8181,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
-        "editorial": 0.91,
+        "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9639,
+        "recency": 0.9917,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -195,27 +1064,208 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-03T11:59:49Z",
-      "latest_at": "2026-09-03T14:32:46.827000Z",
+      "earliest_at": "2026-09-03T18:01:45Z",
+      "latest_at": "2026-09-03T18:01:45Z",
       "primary_item": {
-        "id": "97039d8f5eae769457f61ad241d373cd2c617626",
-        "title": "NVIDIA 宣布以 129.303 亿美元收购 Hugging Face / NVIDIA to Acquire Hugging Face",
-        "title_zh": "NVIDIA 宣布以 129.303 亿美元收购 Hugging Face",
-        "title_ja": "NVIDIA、Hugging Faceを買収へ",
-        "title_en": "NVIDIA to Acquire Hugging Face",
-        "title_original": "NVIDIA to Acquire Hugging Face",
-        "summary": "NVIDIA 宣布已同意以 12，930，300，000 美元收购 Hugging Face，黄仁勋在官方博客公布了这一消息。Hugging Face 目前有超过 1800 万开发者，托管超过 300 万个模型、50 万个数据集和 100 万个应用，服务超过 20 万家企业。",
-        "summary_ja": "NVIDIA は、Hugging Face を 129 億 3,030 万ドルで買収することに合意したと発表しました。 Jen-Hsun Huang氏は自身の公式ブログでこのニュースを発表した。 Hugging Face には現在 1,800 万人以上の開発者がおり、300 万以上のモデル、50 万のデータセット、100 万のアプリケーションをホストし、20 万以上の企業にサービスを提供しています。",
+        "id": "69e08950184371e02181cb3758418f7128170d5f",
+        "title": "OpenAI 发布新模型 Astra，主打计算机与浏览器操作但因 opaque recurrence 引发争议 / OpenAI launches Astra， its powerful （and controversial） new model",
+        "title_zh": "OpenAI 发布新模型 Astra，主打计算机与浏览器操作但因 opaque recurrence 引发争议",
+        "title_ja": null,
+        "title_en": "OpenAI launches Astra， its powerful （and controversial） new model",
+        "title_original": "OpenAI launches Astra， its powerful （and controversial） new model",
+        "summary": "OpenAI 发布最新模型 Astra，称其为迄今最强大模型，主打计算机和浏览器操作，先面向 Daybreak 网络安全计划客户开放，随后一周内覆盖 Pro、Plus、Enterprise、Business 付费账户及 API。",
+        "summary_ja": null,
         "recommend_reason_zh": null,
-        "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face",
-        "source": "NVIDIA Blog（RSS）",
+        "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model",
+        "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-03T14:36:12.043536Z"
+        "scored_at": "2026-09-03T19:11:00.831390Z"
+      }
+    },
+    {
+      "story_id": "story_292f9a159399",
+      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "title_ja": null,
+      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "primary_url": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e9bf1c019727a4b6a36074a113cd08534b1fc298",
+          "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+          "title_zh": null,
+          "title_ja": null,
+          "title_en": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+          "title_original": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-03T12:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "e9bf1c019727a4b6a36074a113cd08534b1fc298",
+          "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+          "title_zh": null,
+          "title_ja": null,
+          "title_en": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+          "title_original": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-03T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8436,
+      "importance": 0.8436,
+      "importance_score": 0.8436,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.909,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-03T12:00:00Z",
+      "latest_at": "2026-09-03T12:00:00Z",
+      "primary_item": {
+        "id": "e9bf1c019727a4b6a36074a113cd08534b1fc298",
+        "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+        "title_zh": null,
+        "title_ja": null,
+        "title_en": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+        "title_original": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-03T19:11:00.831390Z"
+      }
+    },
+    {
+      "story_id": "story_999000e5a49c",
+      "title": "NVIDIA 宣布收购 Hugging Face，Sundar Pichai 祝贺并称将强化开源模型生态 / Congrats @JensenHuang @ClementDelangue for this great outcome！ We were investors in Huggingface and …",
+      "title_ja": null,
+      "url": "https://x.com/sundarpichai/status/2095569375373984139",
+      "primary_url": "https://x.com/sundarpichai/status/2095569375373984139",
+      "source": "X：Sundar Pichai (@sundarpichai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "37b8199c7eb252d4e6fd74cd183f65867bebde0a",
+          "title": "NVIDIA 宣布收购 Hugging Face，Sundar Pichai 祝贺并称将强化开源模型生态 / Congrats @JensenHuang @ClementDelangue for this great outcome！ We were investors in Huggingface and …",
+          "title_zh": "NVIDIA 宣布收购 Hugging Face，Sundar Pichai 祝贺并称将强化开源模型生态",
+          "title_ja": null,
+          "title_en": "Congrats @JensenHuang @ClementDelangue for this great outcome！ We were investors in Huggingface and …",
+          "title_original": "Congrats @JensenHuang @ClementDelangue for this great outcome！ We were investors in Huggingface and …",
+          "summary": "NVIDIA 宣布收购 Hugging Face，黄仁勋称开源模型能强化安全与网络安全、加速创新与扩散，并让开发者、初创公司、大学、行业和国家都能构建和定制 AI。",
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://x.com/sundarpichai/status/2095569375373984139",
+          "source": "X：Sundar Pichai (@sundarpichai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-03T17:47:27Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Sundar Pichai (@sundarpichai)"
+      ],
+      "items": [
+        {
+          "id": "37b8199c7eb252d4e6fd74cd183f65867bebde0a",
+          "title": "NVIDIA 宣布收购 Hugging Face，Sundar Pichai 祝贺并称将强化开源模型生态 / Congrats @JensenHuang @ClementDelangue for this great outcome！ We were investors in Huggingface and …",
+          "title_zh": "NVIDIA 宣布收购 Hugging Face，Sundar Pichai 祝贺并称将强化开源模型生态",
+          "title_ja": null,
+          "title_en": "Congrats @JensenHuang @ClementDelangue for this great outcome！ We were investors in Huggingface and …",
+          "title_original": "Congrats @JensenHuang @ClementDelangue for this great outcome！ We were investors in Huggingface and …",
+          "summary": "NVIDIA 宣布收购 Hugging Face，黄仁勋称开源模型能强化安全与网络安全、加速创新与扩散，并让开发者、初创公司、大学、行业和国家都能构建和定制 AI。",
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://x.com/sundarpichai/status/2095569375373984139",
+          "source": "X：Sundar Pichai (@sundarpichai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-03T17:47:27Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8105,
+      "importance": 0.8105,
+      "importance_score": 0.8105,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.87,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9883,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-03T17:47:27Z",
+      "latest_at": "2026-09-03T17:47:27Z",
+      "primary_item": {
+        "id": "37b8199c7eb252d4e6fd74cd183f65867bebde0a",
+        "title": "NVIDIA 宣布收购 Hugging Face，Sundar Pichai 祝贺并称将强化开源模型生态 / Congrats @JensenHuang @ClementDelangue for this great outcome！ We were investors in Huggingface and …",
+        "title_zh": "NVIDIA 宣布收购 Hugging Face，Sundar Pichai 祝贺并称将强化开源模型生态",
+        "title_ja": null,
+        "title_en": "Congrats @JensenHuang @ClementDelangue for this great outcome！ We were investors in Huggingface and …",
+        "title_original": "Congrats @JensenHuang @ClementDelangue for this great outcome！ We were investors in Huggingface and …",
+        "summary": "NVIDIA 宣布收购 Hugging Face，黄仁勋称开源模型能强化安全与网络安全、加速创新与扩散，并让开发者、初创公司、大学、行业和国家都能构建和定制 AI。",
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://x.com/sundarpichai/status/2095569375373984139",
+        "source": "X：Sundar Pichai (@sundarpichai)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-03T19:11:00.831390Z"
       }
     },
     {
@@ -268,16 +1318,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8428,
-      "importance": 0.8428,
-      "importance_score": 0.8428,
+      "score": 0.8326,
+      "importance": 0.8326,
+      "importance_score": 0.8326,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9934,
+        "recency": 0.9367,
         "story_heat": 0.0
       },
       "category": "official",
@@ -306,7 +1356,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-03T14:36:12.043536Z"
+        "scored_at": "2026-09-03T19:11:00.831390Z"
       }
     },
     {
@@ -425,16 +1475,16 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.836,
-      "importance": 0.836,
-      "importance_score": 0.836,
+      "score": 0.8271,
+      "importance": 0.8271,
+      "importance_score": 0.8271,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8691,
+        "recency": 0.8195,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -463,280 +1513,97 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-03T14:36:12.043536Z"
+        "scored_at": "2026-09-03T19:11:00.831390Z"
       }
     },
     {
-      "story_id": "story_0a991ead0e43",
-      "title": "Codex CLI 0.153.0",
+      "story_id": "story_92d6f576b32f",
+      "title": "OpenAI 发布 GPT-6 Astra，初期仅向 Daybreak Access 组织开放 / OPENAI 🔥： GPT-6 Astra will initially be available only to organizations in its Daybreak Access prog…",
       "title_ja": null,
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
+      "url": "https://x.com/testingcatalog/status/2095578972335542742",
+      "primary_url": "https://x.com/testingcatalog/status/2095578972335542742",
+      "source": "X：Testing Catalog (@testingcatalog)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "bb85c2474327fd3868ec4d226718a0570ac11485",
-          "title": "Codex CLI 0.153.0",
-          "title_zh": null,
+          "id": "1b3b10ead32491e02a27d250cc6e1e6139162f2c",
+          "title": "OpenAI 发布 GPT-6 Astra，初期仅向 Daybreak Access 组织开放 / OPENAI 🔥： GPT-6 Astra will initially be available only to organizations in its Daybreak Access prog…",
+          "title_zh": "OpenAI 发布 GPT-6 Astra，初期仅向 Daybreak Access 组织开放",
           "title_ja": null,
-          "title_en": "Codex CLI 0.153.0",
-          "title_original": "Codex CLI 0.153.0",
-          "summary": null,
+          "title_en": "OPENAI 🔥： GPT-6 Astra will initially be available only to organizations in its Daybreak Access prog…",
+          "title_original": "OPENAI 🔥： GPT-6 Astra will initially be available only to organizations in its Daybreak Access prog…",
+          "summary": "OpenAI 发布 GPT-6 Astra，初期仅向 Daybreak Access 计划中的组织开放，未来几天将陆续推送给所有 Plus、Pro、Business 和 Enterprise 用户。",
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-03T00:00:00Z"
+          "url": "https://x.com/testingcatalog/status/2095578972335542742",
+          "source": "X：Testing Catalog (@testingcatalog)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-03T18:25:35Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI Codex Changelog"
+        "X：Testing Catalog (@testingcatalog)"
       ],
       "items": [
         {
-          "id": "bb85c2474327fd3868ec4d226718a0570ac11485",
-          "title": "Codex CLI 0.153.0",
-          "title_zh": null,
+          "id": "1b3b10ead32491e02a27d250cc6e1e6139162f2c",
+          "title": "OpenAI 发布 GPT-6 Astra，初期仅向 Daybreak Access 组织开放 / OPENAI 🔥： GPT-6 Astra will initially be available only to organizations in its Daybreak Access prog…",
+          "title_zh": "OpenAI 发布 GPT-6 Astra，初期仅向 Daybreak Access 组织开放",
           "title_ja": null,
-          "title_en": "Codex CLI 0.153.0",
-          "title_original": "Codex CLI 0.153.0",
-          "summary": null,
+          "title_en": "OPENAI 🔥： GPT-6 Astra will initially be available only to organizations in its Daybreak Access prog…",
+          "title_original": "OPENAI 🔥： GPT-6 Astra will initially be available only to organizations in its Daybreak Access prog…",
+          "summary": "OpenAI 发布 GPT-6 Astra，初期仅向 Daybreak Access 计划中的组织开放，未来几天将陆续推送给所有 Plus、Pro、Business 和 Enterprise 用户。",
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-03T00:00:00Z"
+          "url": "https://x.com/testingcatalog/status/2095578972335542742",
+          "source": "X：Testing Catalog (@testingcatalog)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-03T18:25:35Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8319,
-      "importance": 0.8319,
-      "importance_score": 0.8319,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
+      "score": 0.7941,
+      "importance": 0.7941,
+      "importance_score": 0.7941,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.8106,
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9974,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-03T00:00:00Z",
-      "latest_at": "2026-09-03T00:00:00Z",
+      "earliest_at": "2026-09-03T18:25:35Z",
+      "latest_at": "2026-09-03T18:25:35Z",
       "primary_item": {
-        "id": "bb85c2474327fd3868ec4d226718a0570ac11485",
-        "title": "Codex CLI 0.153.0",
-        "title_zh": null,
+        "id": "1b3b10ead32491e02a27d250cc6e1e6139162f2c",
+        "title": "OpenAI 发布 GPT-6 Astra，初期仅向 Daybreak Access 组织开放 / OPENAI 🔥： GPT-6 Astra will initially be available only to organizations in its Daybreak Access prog…",
+        "title_zh": "OpenAI 发布 GPT-6 Astra，初期仅向 Daybreak Access 组织开放",
         "title_ja": null,
-        "title_en": "Codex CLI 0.153.0",
-        "title_original": "Codex CLI 0.153.0",
-        "summary": null,
+        "title_en": "OPENAI 🔥： GPT-6 Astra will initially be available only to organizations in its Daybreak Access prog…",
+        "title_original": "OPENAI 🔥： GPT-6 Astra will initially be available only to organizations in its Daybreak Access prog…",
+        "summary": "OpenAI 发布 GPT-6 Astra，初期仅向 Daybreak Access 计划中的组织开放，未来几天将陆续推送给所有 Plus、Pro、Business 和 Enterprise 用户。",
         "summary_ja": null,
         "recommend_reason_zh": null,
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
+        "url": "https://x.com/testingcatalog/status/2095578972335542742",
+        "source": "X：Testing Catalog (@testingcatalog)",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-03T14:36:12.043536Z"
-      }
-    },
-    {
-      "story_id": "story_e619346b2b34",
-      "title": "解读新的人工智能术语：循环、安全带、小队、爬山……天哪！ / Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
-      "title_ja": null,
-      "url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my",
-      "primary_url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "eb4df786d1aec47add0795e6aa4efa1c6622ca2b",
-          "title": "解读新的人工智能术语：循环、安全带、小队、爬山……天哪！ / Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
-          "title_zh": "解读新的人工智能术语：循环、安全带、小队、爬山……天哪！",
-          "title_ja": null,
-          "title_en": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
-          "title_original": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-02T21:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub AI & ML"
-      ],
-      "items": [
-        {
-          "id": "eb4df786d1aec47add0795e6aa4efa1c6622ca2b",
-          "title": "解读新的人工智能术语：循环、安全带、小队、爬山……天哪！ / Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
-          "title_zh": "解读新的人工智能术语：循环、安全带、小队、爬山……天哪！",
-          "title_ja": null,
-          "title_en": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
-          "title_original": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-02T21:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8037,
-      "importance": 0.8037,
-      "importance_score": 0.8037,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7762,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-02T21:00:00Z",
-      "latest_at": "2026-09-02T21:00:00Z",
-      "primary_item": {
-        "id": "eb4df786d1aec47add0795e6aa4efa1c6622ca2b",
-        "title": "解读新的人工智能术语：循环、安全带、小队、爬山……天哪！ / Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
-        "title_zh": "解读新的人工智能术语：循环、安全带、小队、爬山……天哪！",
-        "title_ja": null,
-        "title_en": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
-        "title_original": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-03T14:36:12.043536Z"
-      }
-    },
-    {
-      "story_id": "story_0fd4fc0249e5",
-      "title": "Google DeepMind 发布 Gemini 3.8 Flash 与 3.8 Flash Cyber 两款新模型 / Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
-      "title_ja": null,
-      "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber",
-      "primary_url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "bd563b2236eec5a4715fcd7bc0eeaccbb60fcc68",
-          "title": "Google DeepMind 发布 Gemini 3.8 Flash 与 3.8 Flash Cyber 两款新模型 / Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
-          "title_zh": "Google DeepMind 发布 Gemini 3.8 Flash 与 3.8 Flash Cyber 两款新模型",
-          "title_ja": null,
-          "title_en": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
-          "title_original": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-02T16:18:31Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google DeepMind"
-      ],
-      "items": [
-        {
-          "id": "bd563b2236eec5a4715fcd7bc0eeaccbb60fcc68",
-          "title": "Google DeepMind 发布 Gemini 3.8 Flash 与 3.8 Flash Cyber 两款新模型 / Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
-          "title_zh": "Google DeepMind 发布 Gemini 3.8 Flash 与 3.8 Flash Cyber 两款新模型",
-          "title_ja": null,
-          "title_en": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
-          "title_original": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-02T16:18:31Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8026,
-      "importance": 0.8026,
-      "importance_score": 0.8026,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7254,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-02T16:18:31Z",
-      "latest_at": "2026-09-02T16:18:31Z",
-      "primary_item": {
-        "id": "bd563b2236eec5a4715fcd7bc0eeaccbb60fcc68",
-        "title": "Google DeepMind 发布 Gemini 3.8 Flash 与 3.8 Flash Cyber 两款新模型 / Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
-        "title_zh": "Google DeepMind 发布 Gemini 3.8 Flash 与 3.8 Flash Cyber 两款新模型",
-        "title_ja": null,
-        "title_en": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
-        "title_original": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber",
-        "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-03T14:36:12.043536Z"
+        "scored_at": "2026-09-03T19:11:00.831390Z"
       }
     },
     {
@@ -789,16 +1656,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8259,
-      "importance": 0.8259,
-      "importance_score": 0.8259,
+      "score": 0.8176,
+      "importance": 0.8176,
+      "importance_score": 0.8176,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8106,
+        "recency": 0.7644,
         "story_heat": 0.0
       },
       "category": "official",
@@ -827,215 +1694,33 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-03T14:36:12.043536Z"
+        "scored_at": "2026-09-03T19:11:00.831390Z"
       }
     },
     {
-      "story_id": "story_4351f146e887",
-      "title": "Proactive cyber defense for governments and enterprises",
+      "story_id": "story_e619346b2b34",
+      "title": "解读新的人工智能术语：循环、安全带、小队、爬山……天哪！ / Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
       "title_ja": null,
-      "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "6a6e98d2615f2621f30dd301faf751798e988daa",
-          "title": "Proactive cyber defense for governments and enterprises",
-          "title_zh": null,
-          "title_ja": null,
-          "title_en": "Proactive cyber defense for governments and enterprises",
-          "title_original": "Proactive cyber defense for governments and enterprises",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-02T15:40:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "6a6e98d2615f2621f30dd301faf751798e988daa",
-          "title": "Proactive cyber defense for governments and enterprises",
-          "title_zh": null,
-          "title_ja": null,
-          "title_en": "Proactive cyber defense for governments and enterprises",
-          "title_original": "Proactive cyber defense for governments and enterprises",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-02T15:40:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7934,
-      "importance": 0.7934,
-      "importance_score": 0.7934,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7187,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-02T15:40:00Z",
-      "latest_at": "2026-09-02T15:40:00Z",
-      "primary_item": {
-        "id": "6a6e98d2615f2621f30dd301faf751798e988daa",
-        "title": "Proactive cyber defense for governments and enterprises",
-        "title_zh": null,
-        "title_ja": null,
-        "title_en": "Proactive cyber defense for governments and enterprises",
-        "title_original": "Proactive cyber defense for governments and enterprises",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-03T14:36:12.043536Z"
-      }
-    },
-    {
-      "story_id": "story_f2e8c1eb7be1",
-      "title": "Copilot 应用程序和 CLI 中通常提供内容排除 / Content exclusions generally available in Copilot app and CLI",
-      "title_ja": null,
-      "url": "https://github.blog/changelog/2026-09-02-content-exclusions-generally-available-in-copilot-app-and-cli",
-      "primary_url": "https://github.blog/changelog/2026-09-02-content-exclusions-generally-available-in-copilot-app-and-cli",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f99c5aaf224a9ee03e3bf2a2c1a36c5765c17b7d",
-          "title": "Copilot 应用程序和 CLI 中通常提供内容排除 / Content exclusions generally available in Copilot app and CLI",
-          "title_zh": "Copilot 应用程序和 CLI 中通常提供内容排除",
-          "title_ja": null,
-          "title_en": "Content exclusions generally available in Copilot app and CLI",
-          "title_original": "Content exclusions generally available in Copilot app and CLI",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-02-content-exclusions-generally-available-in-copilot-app-and-cli",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-02T18:14:23Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "f99c5aaf224a9ee03e3bf2a2c1a36c5765c17b7d",
-          "title": "Copilot 应用程序和 CLI 中通常提供内容排除 / Content exclusions generally available in Copilot app and CLI",
-          "title_zh": "Copilot 应用程序和 CLI 中通常提供内容排除",
-          "title_ja": null,
-          "title_en": "Content exclusions generally available in Copilot app and CLI",
-          "title_original": "Content exclusions generally available in Copilot app and CLI",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-02-content-exclusions-generally-available-in-copilot-app-and-cli",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-02T18:14:23Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8063,
-      "importance": 0.8063,
-      "importance_score": 0.8063,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7459,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-02T18:14:23Z",
-      "latest_at": "2026-09-02T18:14:23Z",
-      "primary_item": {
-        "id": "f99c5aaf224a9ee03e3bf2a2c1a36c5765c17b7d",
-        "title": "Copilot 应用程序和 CLI 中通常提供内容排除 / Content exclusions generally available in Copilot app and CLI",
-        "title_zh": "Copilot 应用程序和 CLI 中通常提供内容排除",
-        "title_ja": null,
-        "title_en": "Content exclusions generally available in Copilot app and CLI",
-        "title_original": "Content exclusions generally available in Copilot app and CLI",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-02-content-exclusions-generally-available-in-copilot-app-and-cli",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-03T14:36:12.043536Z"
-      }
-    },
-    {
-      "story_id": "story_f465e2b91312",
-      "title": "GitHub Copilot 如何在不牺牲任务质量的前提下降低 AI 编码成本 / How we make AI coding more cost efficient without sacrificing task quality",
-      "title_ja": null,
-      "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality",
-      "primary_url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality",
+      "url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my",
+      "primary_url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my",
       "source": "GitHub AI & ML",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "264bb763f013e5868a70b4c5afb1043560d1c225",
-          "title": "GitHub Copilot 如何在不牺牲任务质量的前提下降低 AI 编码成本 / How we make AI coding more cost efficient without sacrificing task quality",
-          "title_zh": "GitHub Copilot 如何在不牺牲任务质量的前提下降低 AI 编码成本",
+          "id": "eb4df786d1aec47add0795e6aa4efa1c6622ca2b",
+          "title": "解读新的人工智能术语：循环、安全带、小队、爬山……天哪！ / Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
+          "title_zh": "解读新的人工智能术语：循环、安全带、小队、爬山……天哪！",
           "title_ja": null,
-          "title_en": "How we make AI coding more cost efficient without sacrificing task quality",
-          "title_original": "How we make AI coding more cost efficient without sacrificing task quality",
+          "title_en": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
+          "title_original": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality",
+          "url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my",
           "source": "GitHub AI & ML",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-02T18:00:00Z"
+          "published_at": "2026-09-02T21:00:00Z"
         }
       ],
       "source_count": 1,
@@ -1044,34 +1729,34 @@
       ],
       "items": [
         {
-          "id": "264bb763f013e5868a70b4c5afb1043560d1c225",
-          "title": "GitHub Copilot 如何在不牺牲任务质量的前提下降低 AI 编码成本 / How we make AI coding more cost efficient without sacrificing task quality",
-          "title_zh": "GitHub Copilot 如何在不牺牲任务质量的前提下降低 AI 编码成本",
+          "id": "eb4df786d1aec47add0795e6aa4efa1c6622ca2b",
+          "title": "解读新的人工智能术语：循环、安全带、小队、爬山……天哪！ / Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
+          "title_zh": "解读新的人工智能术语：循环、安全带、小队、爬山……天哪！",
           "title_ja": null,
-          "title_en": "How we make AI coding more cost efficient without sacrificing task quality",
-          "title_original": "How we make AI coding more cost efficient without sacrificing task quality",
+          "title_en": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
+          "title_original": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality",
+          "url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my",
           "source": "GitHub AI & ML",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-02T18:00:00Z"
+          "published_at": "2026-09-02T21:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7978,
-      "importance": 0.7978,
-      "importance_score": 0.7978,
+      "score": 0.7958,
+      "importance": 0.7958,
+      "importance_score": 0.7958,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7433,
+        "recency": 0.732,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1080,19 +1765,19 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-02T18:00:00Z",
-      "latest_at": "2026-09-02T18:00:00Z",
+      "earliest_at": "2026-09-02T21:00:00Z",
+      "latest_at": "2026-09-02T21:00:00Z",
       "primary_item": {
-        "id": "264bb763f013e5868a70b4c5afb1043560d1c225",
-        "title": "GitHub Copilot 如何在不牺牲任务质量的前提下降低 AI 编码成本 / How we make AI coding more cost efficient without sacrificing task quality",
-        "title_zh": "GitHub Copilot 如何在不牺牲任务质量的前提下降低 AI 编码成本",
+        "id": "eb4df786d1aec47add0795e6aa4efa1c6622ca2b",
+        "title": "解读新的人工智能术语：循环、安全带、小队、爬山……天哪！ / Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
+        "title_zh": "解读新的人工智能术语：循环、安全带、小队、爬山……天哪！",
         "title_ja": null,
-        "title_en": "How we make AI coding more cost efficient without sacrificing task quality",
-        "title_original": "How we make AI coding more cost efficient without sacrificing task quality",
+        "title_en": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
+        "title_original": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
         "summary": null,
         "summary_ja": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality",
+        "url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my",
         "source": "GitHub AI & ML",
         "source_name": "Official AI Updates"
       },
@@ -1100,97 +1785,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-03T14:36:12.043536Z"
-      }
-    },
-    {
-      "story_id": "story_31e02ba82db7",
-      "title": "AI 辅助 3 周干完 12 年的活：Paint.NET 首次登陆 Linux，靠自研方案绕过 Direct2D",
-      "title_ja": "AI 支援による 12 年間の作業が 3 週間で完了: Paint.NET が初めて Linux に上陸し、Direct2D をバイパスする自社開発ソリューションに依存",
-      "url": "https://www.aibase.com/news/30806",
-      "primary_url": "https://www.aibase.com/news/30806",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "dc0beb8776ccfb4a655a65d751c44317fbbdc68e",
-          "title": "AI 辅助 3 周干完 12 年的活：Paint.NET 首次登陆 Linux，靠自研方案绕过 Direct2D",
-          "title_zh": "AI 辅助 3 周干完 12 年的活：Paint.NET 首次登陆 Linux，靠自研方案绕过 Direct2D",
-          "title_ja": "AI 支援による 12 年間の作業が 3 週間で完了: Paint.NET が初めて Linux に上陸し、Direct2D をバイパスする自社開発ソリューションに依存",
-          "title_en": null,
-          "title_original": "AI 辅助 3 周干完 12 年的活：Paint.NET 首次登陆 Linux，靠自研方案绕过 Direct2D",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30806",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-03T14:32:22.869053Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "dc0beb8776ccfb4a655a65d751c44317fbbdc68e",
-          "title": "AI 辅助 3 周干完 12 年的活：Paint.NET 首次登陆 Linux，靠自研方案绕过 Direct2D",
-          "title_zh": "AI 辅助 3 周干完 12 年的活：Paint.NET 首次登陆 Linux，靠自研方案绕过 Direct2D",
-          "title_ja": "AI 支援による 12 年間の作業が 3 週間で完了: Paint.NET が初めて Linux に上陸し、Direct2D をバイパスする自社開発ソリューションに依存",
-          "title_en": null,
-          "title_original": "AI 辅助 3 周干完 12 年的活：Paint.NET 首次登陆 Linux，靠自研方案绕过 Direct2D",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30806",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-03T14:32:22.869053Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-03T14:32:22.869053Z",
-      "latest_at": "2026-09-03T14:32:22.869053Z",
-      "primary_item": {
-        "id": "dc0beb8776ccfb4a655a65d751c44317fbbdc68e",
-        "title": "AI 辅助 3 周干完 12 年的活：Paint.NET 首次登陆 Linux，靠自研方案绕过 Direct2D",
-        "title_zh": "AI 辅助 3 周干完 12 年的活：Paint.NET 首次登陆 Linux，靠自研方案绕过 Direct2D",
-        "title_ja": "AI 支援による 12 年間の作業が 3 週間で完了: Paint.NET が初めて Linux に上陸し、Direct2D をバイパスする自社開発ソリューションに依存",
-        "title_en": null,
-        "title_original": "AI 辅助 3 周干完 12 年的活：Paint.NET 首次登陆 Linux，靠自研方案绕过 Direct2D",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30806",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-03T14:36:12.043536Z"
+        "scored_at": "2026-09-03T19:11:00.831390Z"
       }
     },
     {
@@ -1243,16 +1838,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8259,
-      "importance": 0.8259,
-      "importance_score": 0.8259,
+      "score": 0.8176,
+      "importance": 0.8176,
+      "importance_score": 0.8176,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8106,
+        "recency": 0.7644,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1281,7 +1876,187 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-03T14:36:12.043536Z"
+        "scored_at": "2026-09-03T19:11:00.831390Z"
+      }
+    },
+    {
+      "story_id": "story_31e02ba82db7",
+      "title": "AI 辅助 3 周干完 12 年的活：Paint.NET 首次登陆 Linux，靠自研方案绕过 Direct2D",
+      "title_ja": "AI 支援による 12 年間の作業が 3 週間で完了: Paint.NET が初めて Linux に上陸し、Direct2D をバイパスする自社開発ソリューションに依存",
+      "url": "https://www.aibase.com/news/30806",
+      "primary_url": "https://www.aibase.com/news/30806",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "dc0beb8776ccfb4a655a65d751c44317fbbdc68e",
+          "title": "AI 辅助 3 周干完 12 年的活：Paint.NET 首次登陆 Linux，靠自研方案绕过 Direct2D",
+          "title_zh": "AI 辅助 3 周干完 12 年的活：Paint.NET 首次登陆 Linux，靠自研方案绕过 Direct2D",
+          "title_ja": "AI 支援による 12 年間の作業が 3 週間で完了: Paint.NET が初めて Linux に上陸し、Direct2D をバイパスする自社開発ソリューションに依存",
+          "title_en": null,
+          "title_original": "AI 辅助 3 周干完 12 年的活：Paint.NET 首次登陆 Linux，靠自研方案绕过 Direct2D",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30806",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-03T14:32:22.869053Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "dc0beb8776ccfb4a655a65d751c44317fbbdc68e",
+          "title": "AI 辅助 3 周干完 12 年的活：Paint.NET 首次登陆 Linux，靠自研方案绕过 Direct2D",
+          "title_zh": "AI 辅助 3 周干完 12 年的活：Paint.NET 首次登陆 Linux，靠自研方案绕过 Direct2D",
+          "title_ja": "AI 支援による 12 年間の作業が 3 週間で完了: Paint.NET が初めて Linux に上陸し、Direct2D をバイパスする自社開発ソリューションに依存",
+          "title_en": null,
+          "title_original": "AI 辅助 3 周干完 12 年的活：Paint.NET 首次登陆 Linux，靠自研方案绕过 Direct2D",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30806",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-03T14:32:22.869053Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7573,
+      "importance": 0.7573,
+      "importance_score": 0.7573,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9429,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-03T14:32:22.869053Z",
+      "latest_at": "2026-09-03T14:32:22.869053Z",
+      "primary_item": {
+        "id": "dc0beb8776ccfb4a655a65d751c44317fbbdc68e",
+        "title": "AI 辅助 3 周干完 12 年的活：Paint.NET 首次登陆 Linux，靠自研方案绕过 Direct2D",
+        "title_zh": "AI 辅助 3 周干完 12 年的活：Paint.NET 首次登陆 Linux，靠自研方案绕过 Direct2D",
+        "title_ja": "AI 支援による 12 年間の作業が 3 週間で完了: Paint.NET が初めて Linux に上陸し、Direct2D をバイパスする自社開発ソリューションに依存",
+        "title_en": null,
+        "title_original": "AI 辅助 3 周干完 12 年的活：Paint.NET 首次登陆 Linux，靠自研方案绕过 Direct2D",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30806",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-03T19:11:00.831390Z"
+      }
+    },
+    {
+      "story_id": "story_3550a4d29815",
+      "title": "Google Cloud 教你用 Cloud Run instances 以每月 $5.70 搭建常驻 Agent / Build a Long-Running Agent in the Cloud for $5.70/Month",
+      "title_ja": null,
+      "url": "https://dev.to/googleai/build-a-long-running-agent-in-the-cloud-for-570month-113c",
+      "primary_url": "https://dev.to/googleai/build-a-long-running-agent-in-the-cloud-for-570month-113c",
+      "source": "Google AI：DEV 作者专属（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "7644cc4f7c123462364a8d80cc849d1979a28df8",
+          "title": "Google Cloud 教你用 Cloud Run instances 以每月 $5.70 搭建常驻 Agent / Build a Long-Running Agent in the Cloud for $5.70/Month",
+          "title_zh": "Google Cloud 教你用 Cloud Run instances 以每月 $5.70 搭建常驻 Agent",
+          "title_ja": null,
+          "title_en": "Build a Long-Running Agent in the Cloud for $5.70/Month",
+          "title_original": "Build a Long-Running Agent in the Cloud for $5.70/Month",
+          "summary": "Shir Meir Lador 在 Google AI 开发者博客介绍如何用 Cloud Run instances 以每月 $5.70（1 vCPU、1Gi 内存、共享 CPU）在云端 24/7 运行常驻 Agent。",
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://dev.to/googleai/build-a-long-running-agent-in-the-cloud-for-570month-113c",
+          "source": "Google AI：DEV 作者专属（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-03T15:54:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI：DEV 作者专属（RSS）"
+      ],
+      "items": [
+        {
+          "id": "7644cc4f7c123462364a8d80cc849d1979a28df8",
+          "title": "Google Cloud 教你用 Cloud Run instances 以每月 $5.70 搭建常驻 Agent / Build a Long-Running Agent in the Cloud for $5.70/Month",
+          "title_zh": "Google Cloud 教你用 Cloud Run instances 以每月 $5.70 搭建常驻 Agent",
+          "title_ja": null,
+          "title_en": "Build a Long-Running Agent in the Cloud for $5.70/Month",
+          "title_original": "Build a Long-Running Agent in the Cloud for $5.70/Month",
+          "summary": "Shir Meir Lador 在 Google AI 开发者博客介绍如何用 Cloud Run instances 以每月 $5.70（1 vCPU、1Gi 内存、共享 CPU）在云端 24/7 运行常驻 Agent。",
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://dev.to/googleai/build-a-long-running-agent-in-the-cloud-for-570month-113c",
+          "source": "Google AI：DEV 作者专属（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-03T15:54:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7547,
+      "importance": 0.7547,
+      "importance_score": 0.7547,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9619,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-03T15:54:57Z",
+      "latest_at": "2026-09-03T15:54:57Z",
+      "primary_item": {
+        "id": "7644cc4f7c123462364a8d80cc849d1979a28df8",
+        "title": "Google Cloud 教你用 Cloud Run instances 以每月 $5.70 搭建常驻 Agent / Build a Long-Running Agent in the Cloud for $5.70/Month",
+        "title_zh": "Google Cloud 教你用 Cloud Run instances 以每月 $5.70 搭建常驻 Agent",
+        "title_ja": null,
+        "title_en": "Build a Long-Running Agent in the Cloud for $5.70/Month",
+        "title_original": "Build a Long-Running Agent in the Cloud for $5.70/Month",
+        "summary": "Shir Meir Lador 在 Google AI 开发者博客介绍如何用 Cloud Run instances 以每月 $5.70（1 vCPU、1Gi 内存、共享 CPU）在云端 24/7 运行常驻 Agent。",
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://dev.to/googleai/build-a-long-running-agent-in-the-cloud-for-570month-113c",
+        "source": "Google AI：DEV 作者专属（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-03T19:11:00.831390Z"
       }
     },
     {
@@ -1334,22 +2109,21 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7542,
-      "importance": 0.7542,
-      "importance_score": 0.7542,
+      "score": 0.7459,
+      "importance": 0.7459,
+      "importance_score": 0.7459,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8087,
+        "recency": 0.7625,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-02T23:50:05Z",
       "latest_at": "2026-09-02T23:50:05Z",
@@ -1371,580 +2145,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-03T14:36:12.043536Z"
-      }
-    },
-    {
-      "story_id": "story_11dab6202ba6",
-      "title": "Meta 发布 Muse Spark 1.3，Intelligence Index 得 61-62 分逼近 Claude 与 GPT-5.6 / It's worth really grasping this： in a very short time， the race between OpenAI and Anthropic has tur…",
-      "title_ja": null,
-      "url": "https://x.com/kimmonismus/status/2095265444999410146",
-      "primary_url": "https://x.com/kimmonismus/status/2095265444999410146",
-      "source": "X：Kim (@kimmonismus)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8d54c9435dccfb28ee0d5c0b588314b1b4d4257d",
-          "title": "Meta 发布 Muse Spark 1.3，Intelligence Index 得 61-62 分逼近 Claude 与 GPT-5.6 / It's worth really grasping this： in a very short time， the race between OpenAI and Anthropic has tur…",
-          "title_zh": "Meta 发布 Muse Spark 1.3，Intelligence Index 得 61-62 分逼近 Claude 与 GPT-5.6",
-          "title_ja": null,
-          "title_en": "It's worth really grasping this： in a very short time， the race between OpenAI and Anthropic has tur…",
-          "title_original": "It's worth really grasping this： in a very short time， the race between OpenAI and Anthropic has tur…",
-          "summary": "Meta 发布 Muse Spark 1.3，为五个月内第四个 Muse Spark 版本。max 变体（合作伙伴限时预览）在 Artificial Analysis Intelligence Index 得 62 分。",
-          "summary_ja": "Meta は、5 か月で 4 番目の Muse Spark バージョンである Muse Spark 1.3 をリリースします。最大バリアント (期間限定のパートナー プレビュー) は、人工分析インテリジェンス インデックスで 62 ポイントを獲得しています。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/kimmonismus/status/2095265444999410146",
-          "source": "X：Kim (@kimmonismus)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-02T21:39:44Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Kim (@kimmonismus)"
-      ],
-      "items": [
-        {
-          "id": "8d54c9435dccfb28ee0d5c0b588314b1b4d4257d",
-          "title": "Meta 发布 Muse Spark 1.3，Intelligence Index 得 61-62 分逼近 Claude 与 GPT-5.6 / It's worth really grasping this： in a very short time， the race between OpenAI and Anthropic has tur…",
-          "title_zh": "Meta 发布 Muse Spark 1.3，Intelligence Index 得 61-62 分逼近 Claude 与 GPT-5.6",
-          "title_ja": null,
-          "title_en": "It's worth really grasping this： in a very short time， the race between OpenAI and Anthropic has tur…",
-          "title_original": "It's worth really grasping this： in a very short time， the race between OpenAI and Anthropic has tur…",
-          "summary": "Meta 发布 Muse Spark 1.3，为五个月内第四个 Muse Spark 版本。max 变体（合作伙伴限时预览）在 Artificial Analysis Intelligence Index 得 62 分。",
-          "summary_ja": "Meta は、5 か月で 4 番目の Muse Spark バージョンである Muse Spark 1.3 をリリースします。最大バリアント (期間限定のパートナー プレビュー) は、人工分析インテリジェンス インデックスで 62 ポイントを獲得しています。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/kimmonismus/status/2095265444999410146",
-          "source": "X：Kim (@kimmonismus)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-02T21:39:44Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7467,
-      "importance": 0.7467,
-      "importance_score": 0.7467,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7837,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-02T21:39:44Z",
-      "latest_at": "2026-09-02T21:39:44Z",
-      "primary_item": {
-        "id": "8d54c9435dccfb28ee0d5c0b588314b1b4d4257d",
-        "title": "Meta 发布 Muse Spark 1.3，Intelligence Index 得 61-62 分逼近 Claude 与 GPT-5.6 / It's worth really grasping this： in a very short time， the race between OpenAI and Anthropic has tur…",
-        "title_zh": "Meta 发布 Muse Spark 1.3，Intelligence Index 得 61-62 分逼近 Claude 与 GPT-5.6",
-        "title_ja": null,
-        "title_en": "It's worth really grasping this： in a very short time， the race between OpenAI and Anthropic has tur…",
-        "title_original": "It's worth really grasping this： in a very short time， the race between OpenAI and Anthropic has tur…",
-        "summary": "Meta 发布 Muse Spark 1.3，为五个月内第四个 Muse Spark 版本。max 变体（合作伙伴限时预览）在 Artificial Analysis Intelligence Index 得 62 分。",
-        "summary_ja": "Meta は、5 か月で 4 番目の Muse Spark バージョンである Muse Spark 1.3 をリリースします。最大バリアント (期間限定のパートナー プレビュー) は、人工分析インテリジェンス インデックスで 62 ポイントを獲得しています。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/kimmonismus/status/2095265444999410146",
-        "source": "X：Kim (@kimmonismus)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-03T14:36:12.043536Z"
-      }
-    },
-    {
-      "story_id": "story_bbd546f9bbd7",
-      "title": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑 / Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…",
-      "title_ja": "クロードは、Claude Cowork と Claude Code でバックグラウンドでコンピュータを使用できるようになりました。何かを与えてください…",
-      "url": "https://x.com/claudeai/status/2095226833293685100",
-      "primary_url": "https://x.com/claudeai/status/2095226833293685100",
-      "source": "X：Claude (@claudeai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0ce46662b32840e889b83f1ce4f580a14d2d3ab2",
-          "title": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑 / Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…",
-          "title_zh": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑",
-          "title_ja": "クロードは、Claude Cowork と Claude Code でバックグラウンドでコンピュータを使用できるようになりました。何かを与えてください…",
-          "title_en": "Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…",
-          "title_original": "Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…",
-          "summary": "Claude 官方宣布 Claude Cowork 和 Claude Code 新增后台使用电脑的能力。用户把任务交给 Claude 后，它会像人一样点击、输入和打开应用，用户可同时去做其他事。",
-          "summary_ja": "Claude は、Claude Cowork と Claude Code にバックグラウンドでコンピューターを使用する機能を追加したことを正式に発表しました。ユーザーがクロードにタスクを与えると、クロードは人間のようにクリック、入力し、アプリを開きますが、ユーザーは同時に他のことを行うことができます。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/claudeai/status/2095226833293685100",
-          "source": "X：Claude (@claudeai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-02T19:06:19Z"
-        },
-        {
-          "id": "8776f547892fba51390e8accae55f5eb6dc5fbe1",
-          "title": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑 / Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it something to do on your desktop and Claude clicks, types, and opens apps just like you would, while you work on something el...",
-          "title_zh": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑",
-          "title_ja": null,
-          "title_en": "Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it something to do on your desktop and Claude clicks, types, and opens apps just like you would, while you work on something el...",
-          "title_original": "Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it something to do on your desktop and Claude clicks, types, and opens apps just like you would, while you work on something el...",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://x.com/claudeai/status/2095226833293685100",
-          "source": "Follow Builders · X · Claude",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-09-02T19:06:19Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Follow Builders · X · Claude",
-        "X：Claude (@claudeai)"
-      ],
-      "items": [
-        {
-          "id": "0ce46662b32840e889b83f1ce4f580a14d2d3ab2",
-          "title": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑 / Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…",
-          "title_zh": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑",
-          "title_ja": "クロードは、Claude Cowork と Claude Code でバックグラウンドでコンピュータを使用できるようになりました。何かを与えてください…",
-          "title_en": "Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…",
-          "title_original": "Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…",
-          "summary": "Claude 官方宣布 Claude Cowork 和 Claude Code 新增后台使用电脑的能力。用户把任务交给 Claude 后，它会像人一样点击、输入和打开应用，用户可同时去做其他事。",
-          "summary_ja": "Claude は、Claude Cowork と Claude Code にバックグラウンドでコンピューターを使用する機能を追加したことを正式に発表しました。ユーザーがクロードにタスクを与えると、クロードは人間のようにクリック、入力し、アプリを開きますが、ユーザーは同時に他のことを行うことができます。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/claudeai/status/2095226833293685100",
-          "source": "X：Claude (@claudeai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-02T19:06:19Z"
-        },
-        {
-          "id": "8776f547892fba51390e8accae55f5eb6dc5fbe1",
-          "title": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑 / Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it something to do on your desktop and Claude clicks, types, and opens apps just like you would, while you work on something el...",
-          "title_zh": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑",
-          "title_ja": null,
-          "title_en": "Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it something to do on your desktop and Claude clicks, types, and opens apps just like you would, while you work on something el...",
-          "title_original": "Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it something to do on your desktop and Claude clicks, types, and opens apps just like you would, while you work on something el...",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://x.com/claudeai/status/2095226833293685100",
-          "source": "Follow Builders · X · Claude",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-09-02T19:06:19Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7456,
-      "importance": 0.7456,
-      "importance_score": 0.7456,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7553,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-02T19:06:19Z",
-      "latest_at": "2026-09-02T19:06:19Z",
-      "primary_item": {
-        "id": "0ce46662b32840e889b83f1ce4f580a14d2d3ab2",
-        "title": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑 / Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…",
-        "title_zh": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑",
-        "title_ja": "クロードは、Claude Cowork と Claude Code でバックグラウンドでコンピュータを使用できるようになりました。何かを与えてください…",
-        "title_en": "Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…",
-        "title_original": "Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…",
-        "summary": "Claude 官方宣布 Claude Cowork 和 Claude Code 新增后台使用电脑的能力。用户把任务交给 Claude 后，它会像人一样点击、输入和打开应用，用户可同时去做其他事。",
-        "summary_ja": "Claude は、Claude Cowork と Claude Code にバックグラウンドでコンピューターを使用する機能を追加したことを正式に発表しました。ユーザーがクロードにタスクを与えると、クロードは人間のようにクリック、入力し、アプリを開きますが、ユーザーは同時に他のことを行うことができます。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/claudeai/status/2095226833293685100",
-        "source": "X：Claude (@claudeai)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-03T14:36:12.043536Z"
-      }
-    },
-    {
-      "story_id": "story_fa76f0c850c4",
-      "title": "企业管理的设置支持任何默认模型 / Enterprise-managed settings support any default model",
-      "title_ja": null,
-      "url": "https://github.blog/changelog/2026-09-02-enterprise-managed-settings-support-any-default-model",
-      "primary_url": "https://github.blog/changelog/2026-09-02-enterprise-managed-settings-support-any-default-model",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "568de570ec0e2b50fb98f313a460557d380af1d4",
-          "title": "企业管理的设置支持任何默认模型 / Enterprise-managed settings support any default model",
-          "title_zh": "企业管理的设置支持任何默认模型",
-          "title_ja": null,
-          "title_en": "Enterprise-managed settings support any default model",
-          "title_original": "Enterprise-managed settings support any default model",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-02-enterprise-managed-settings-support-any-default-model",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-02T18:51:12Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "568de570ec0e2b50fb98f313a460557d380af1d4",
-          "title": "企业管理的设置支持任何默认模型 / Enterprise-managed settings support any default model",
-          "title_zh": "企业管理的设置支持任何默认模型",
-          "title_ja": null,
-          "title_en": "Enterprise-managed settings support any default model",
-          "title_original": "Enterprise-managed settings support any default model",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-02-enterprise-managed-settings-support-any-default-model",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-02T18:51:12Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7995,
-      "importance": 0.7995,
-      "importance_score": 0.7995,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7526,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-02T18:51:12Z",
-      "latest_at": "2026-09-02T18:51:12Z",
-      "primary_item": {
-        "id": "568de570ec0e2b50fb98f313a460557d380af1d4",
-        "title": "企业管理的设置支持任何默认模型 / Enterprise-managed settings support any default model",
-        "title_zh": "企业管理的设置支持任何默认模型",
-        "title_ja": null,
-        "title_en": "Enterprise-managed settings support any default model",
-        "title_original": "Enterprise-managed settings support any default model",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-02-enterprise-managed-settings-support-any-default-model",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-03T14:36:12.043536Z"
-      }
-    },
-    {
-      "story_id": "story_2c2daa3a2671",
-      "title": "OpenAI 首席科学家回应“AI 推理不透明”争议：复杂度没出现跳跃式增长",
-      "title_ja": "OpenAI の主任科学者が「AI 推論の不透明さ」論争に返答: 複雑さの飛躍的な変化はない",
-      "url": "https://www.aibase.com/news/30810",
-      "primary_url": "https://www.aibase.com/news/30810",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "1c8a080d8cbcd30cbbf4c56f8caf7636c769eded",
-          "title": "OpenAI 首席科学家回应“AI 推理不透明”争议：复杂度没出现跳跃式增长",
-          "title_zh": "OpenAI 首席科学家回应“AI 推理不透明”争议：复杂度没出现跳跃式增长",
-          "title_ja": "OpenAI の主任科学者が「AI 推論の不透明さ」論争に返答: 複雑さの飛躍的な変化はない",
-          "title_en": null,
-          "title_original": "OpenAI 首席科学家回应“AI 推理不透明”争议：复杂度没出现跳跃式增长",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30810",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-03T14:32:22.869053Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "1c8a080d8cbcd30cbbf4c56f8caf7636c769eded",
-          "title": "OpenAI 首席科学家回应“AI 推理不透明”争议：复杂度没出现跳跃式增长",
-          "title_zh": "OpenAI 首席科学家回应“AI 推理不透明”争议：复杂度没出现跳跃式增长",
-          "title_ja": "OpenAI の主任科学者が「AI 推論の不透明さ」論争に返答: 複雑さの飛躍的な変化はない",
-          "title_en": null,
-          "title_original": "OpenAI 首席科学家回应“AI 推理不透明”争议：复杂度没出现跳跃式增长",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30810",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-03T14:32:22.869053Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-03T14:32:22.869053Z",
-      "latest_at": "2026-09-03T14:32:22.869053Z",
-      "primary_item": {
-        "id": "1c8a080d8cbcd30cbbf4c56f8caf7636c769eded",
-        "title": "OpenAI 首席科学家回应“AI 推理不透明”争议：复杂度没出现跳跃式增长",
-        "title_zh": "OpenAI 首席科学家回应“AI 推理不透明”争议：复杂度没出现跳跃式增长",
-        "title_ja": "OpenAI の主任科学者が「AI 推論の不透明さ」論争に返答: 複雑さの飛躍的な変化はない",
-        "title_en": null,
-        "title_original": "OpenAI 首席科学家回应“AI 推理不透明”争议：复杂度没出现跳跃式增长",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30810",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-03T14:36:12.043536Z"
-      }
-    },
-    {
-      "story_id": "story_edf252f7cb9c",
-      "title": "通过 100 个 GRPO 步骤微调 350M 模型以获得更好的结构化输出 / Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-      "title_ja": null,
-      "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-      "primary_url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "1d46fee4f597d8725792eef4fe9221191a315dd5",
-          "title": "通过 100 个 GRPO 步骤微调 350M 模型以获得更好的结构化输出 / Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-          "title_zh": "通过 100 个 GRPO 步骤微调 350M 模型以获得更好的结构化输出",
-          "title_ja": null,
-          "title_en": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-          "title_original": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-03T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "1d46fee4f597d8725792eef4fe9221191a315dd5",
-          "title": "通过 100 个 GRPO 步骤微调 350M 模型以获得更好的结构化输出 / Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-          "title_zh": "通过 100 个 GRPO 步骤微调 350M 模型以获得更好的结构化输出",
-          "title_ja": null,
-          "title_en": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-          "title_original": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-03T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8259,
-      "importance": 0.8259,
-      "importance_score": 0.8259,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8106,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-03T00:00:00Z",
-      "latest_at": "2026-09-03T00:00:00Z",
-      "primary_item": {
-        "id": "1d46fee4f597d8725792eef4fe9221191a315dd5",
-        "title": "通过 100 个 GRPO 步骤微调 350M 模型以获得更好的结构化输出 / Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-        "title_zh": "通过 100 个 GRPO 步骤微调 350M 模型以获得更好的结构化输出",
-        "title_ja": null,
-        "title_en": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-        "title_original": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-03T14:36:12.043536Z"
-      }
-    },
-    {
-      "story_id": "story_4b4aed6fd75e",
-      "title": "Google 总结 AI Agents Challenge 中最强提交背后的 4 个工程模式 / 4 engineering patterns behind the strongest AI Agents Challenge submissions",
-      "title_ja": null,
-      "url": "https://developers.googleblog.com/4-engineering-patterns-behind-the-strongest-ai-agents-challenge-submissions",
-      "primary_url": "https://developers.googleblog.com/4-engineering-patterns-behind-the-strongest-ai-agents-challenge-submissions",
-      "source": "Google Developers Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9d102a4b917627276b10b1649979cbb2377e9144",
-          "title": "Google 总结 AI Agents Challenge 中最强提交背后的 4 个工程模式 / 4 engineering patterns behind the strongest AI Agents Challenge submissions",
-          "title_zh": "Google 总结 AI Agents Challenge 中最强提交背后的 4 个工程模式",
-          "title_ja": null,
-          "title_en": "4 engineering patterns behind the strongest AI Agents Challenge submissions",
-          "title_original": "4 engineering patterns behind the strongest AI Agents Challenge submissions",
-          "summary": "Google 复盘 AI Agents Challenge 赛事，从各赛道头部提交中提炼出四个工程模式：双向 MCP、事件驱动并发、同标准回退和分层路由。",
-          "summary_ja": "Google は AI Agents Challenge イベントをレビューし、各トラックの主要な提出物から 4 つのエンジニアリング モデル (双方向 MCP、イベント駆動型同時実行性、同一標準フォールバック、階層ルーティング) を抽出しました。",
-          "recommend_reason_zh": null,
-          "url": "https://developers.googleblog.com/4-engineering-patterns-behind-the-strongest-ai-agents-challenge-submissions",
-          "source": "Google Developers Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-02T16:29:43.634000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google Developers Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "9d102a4b917627276b10b1649979cbb2377e9144",
-          "title": "Google 总结 AI Agents Challenge 中最强提交背后的 4 个工程模式 / 4 engineering patterns behind the strongest AI Agents Challenge submissions",
-          "title_zh": "Google 总结 AI Agents Challenge 中最强提交背后的 4 个工程模式",
-          "title_ja": null,
-          "title_en": "4 engineering patterns behind the strongest AI Agents Challenge submissions",
-          "title_original": "4 engineering patterns behind the strongest AI Agents Challenge submissions",
-          "summary": "Google 复盘 AI Agents Challenge 赛事，从各赛道头部提交中提炼出四个工程模式：双向 MCP、事件驱动并发、同标准回退和分层路由。",
-          "summary_ja": "Google は AI Agents Challenge イベントをレビューし、各トラックの主要な提出物から 4 つのエンジニアリング モデル (双方向 MCP、イベント駆動型同時実行性、同一標準フォールバック、階層ルーティング) を抽出しました。",
-          "recommend_reason_zh": null,
-          "url": "https://developers.googleblog.com/4-engineering-patterns-behind-the-strongest-ai-agents-challenge-submissions",
-          "source": "Google Developers Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-02T16:29:43.634000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7339,
-      "importance": 0.7339,
-      "importance_score": 0.7339,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
-      "importance_breakdown": {
-        "editorial": 0.61,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7274,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-02T16:29:43.634000Z",
-      "latest_at": "2026-09-02T16:29:43.634000Z",
-      "primary_item": {
-        "id": "9d102a4b917627276b10b1649979cbb2377e9144",
-        "title": "Google 总结 AI Agents Challenge 中最强提交背后的 4 个工程模式 / 4 engineering patterns behind the strongest AI Agents Challenge submissions",
-        "title_zh": "Google 总结 AI Agents Challenge 中最强提交背后的 4 个工程模式",
-        "title_ja": null,
-        "title_en": "4 engineering patterns behind the strongest AI Agents Challenge submissions",
-        "title_original": "4 engineering patterns behind the strongest AI Agents Challenge submissions",
-        "summary": "Google 复盘 AI Agents Challenge 赛事，从各赛道头部提交中提炼出四个工程模式：双向 MCP、事件驱动并发、同标准回退和分层路由。",
-        "summary_ja": "Google は AI Agents Challenge イベントをレビューし、各トラックの主要な提出物から 4 つのエンジニアリング モデル (双方向 MCP、イベント駆動型同時実行性、同一標準フォールバック、階層ルーティング) を抽出しました。",
-        "recommend_reason_zh": null,
-        "url": "https://developers.googleblog.com/4-engineering-patterns-behind-the-strongest-ai-agents-challenge-submissions",
-        "source": "Google Developers Blog（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-03T14:36:12.043536Z"
+        "scored_at": "2026-09-03T19:11:00.831390Z"
       }
     }
   ]
