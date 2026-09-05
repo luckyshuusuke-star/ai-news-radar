@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T16:02:52.854533Z",
+  "generated_at": "2026-09-05T18:15:48.864375Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -86,16 +86,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8166,
-      "importance": 0.8166,
-      "importance_score": 0.8166,
+      "score": 0.8113,
+      "importance": 0.8113,
+      "importance_score": 0.8113,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9333,
+        "recency": 0.9039,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -124,132 +124,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-05T16:42:30.380987Z"
-      }
-    },
-    {
-      "story_id": "story_0f3277bac9d6",
-      "title": "GitHub 发布 Project HydraFusion 研究预览，用多模型运行时编排降低 Copilot 成本 / Project HydraFusion: Frontier quality via multi-model orchestration",
-      "title_ja": null,
-      "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration",
-      "primary_url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "176d3dc0bd094aa366d311fdf1f135ee2da187bb",
-          "title": "GitHub 发布 Project HydraFusion 研究预览，用多模型运行时编排降低 Copilot 成本 / Project HydraFusion: Frontier quality via multi-model orchestration",
-          "title_zh": "GitHub 发布 Project HydraFusion 研究预览，用多模型运行时编排降低 Copilot 成本",
-          "title_ja": null,
-          "title_en": "Project HydraFusion: Frontier quality via multi-model orchestration",
-          "title_original": "Project HydraFusion: Frontier quality via multi-model orchestration",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-04T16:04:14Z"
-        },
-        {
-          "id": "6566ef8a87cc0287e3b9e392afb77dec635dc956",
-          "title": "GitHub 发布 Project HydraFusion 研究预览，用多模型运行时编排降低 Copilot 成本 / Project HydraFusion： Frontier quality via multi-model orchestration",
-          "title_zh": "GitHub 发布 Project HydraFusion 研究预览，用多模型运行时编排降低 Copilot 成本",
-          "title_ja": null,
-          "title_en": "Project HydraFusion： Frontier quality via multi-model orchestration",
-          "title_original": "Project HydraFusion： Frontier quality via multi-model orchestration",
-          "summary": "GitHub 推出 Project HydraFusion 研究预览，通过运行时多模型编排，在 Single、Cascade、Critique 三种执行模式间为每个任务选择工作流，以平衡质量、成本和延迟。",
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration",
-          "source": "GitHub Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-04T16:04:14Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub AI & ML",
-        "GitHub Blog"
-      ],
-      "items": [
-        {
-          "id": "176d3dc0bd094aa366d311fdf1f135ee2da187bb",
-          "title": "GitHub 发布 Project HydraFusion 研究预览，用多模型运行时编排降低 Copilot 成本 / Project HydraFusion: Frontier quality via multi-model orchestration",
-          "title_zh": "GitHub 发布 Project HydraFusion 研究预览，用多模型运行时编排降低 Copilot 成本",
-          "title_ja": null,
-          "title_en": "Project HydraFusion: Frontier quality via multi-model orchestration",
-          "title_original": "Project HydraFusion: Frontier quality via multi-model orchestration",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-04T16:04:14Z"
-        },
-        {
-          "id": "6566ef8a87cc0287e3b9e392afb77dec635dc956",
-          "title": "GitHub 发布 Project HydraFusion 研究预览，用多模型运行时编排降低 Copilot 成本 / Project HydraFusion： Frontier quality via multi-model orchestration",
-          "title_zh": "GitHub 发布 Project HydraFusion 研究预览，用多模型运行时编排降低 Copilot 成本",
-          "title_ja": null,
-          "title_en": "Project HydraFusion： Frontier quality via multi-model orchestration",
-          "title_original": "Project HydraFusion： Frontier quality via multi-model orchestration",
-          "summary": "GitHub 推出 Project HydraFusion 研究预览，通过运行时多模型编排，在 Single、Cascade、Critique 三种执行模式间为每个任务选择工作流，以平衡质量、成本和延迟。",
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration",
-          "source": "GitHub Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-04T16:04:14Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8163,
-      "importance": 0.8163,
-      "importance_score": 0.8163,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7073,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-04T16:04:14Z",
-      "latest_at": "2026-09-04T16:04:14Z",
-      "primary_item": {
-        "id": "176d3dc0bd094aa366d311fdf1f135ee2da187bb",
-        "title": "GitHub 发布 Project HydraFusion 研究预览，用多模型运行时编排降低 Copilot 成本 / Project HydraFusion: Frontier quality via multi-model orchestration",
-        "title_zh": "GitHub 发布 Project HydraFusion 研究预览，用多模型运行时编排降低 Copilot 成本",
-        "title_ja": null,
-        "title_en": "Project HydraFusion: Frontier quality via multi-model orchestration",
-        "title_original": "Project HydraFusion: Frontier quality via multi-model orchestration",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-05T16:42:30.380987Z"
+        "scored_at": "2026-09-05T18:52:09.657340Z"
       }
     },
     {
@@ -302,16 +177,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8128,
-      "importance": 0.8128,
-      "importance_score": 0.8128,
+      "score": 0.8086,
+      "importance": 0.8086,
+      "importance_score": 0.8086,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7379,
+        "recency": 0.7146,
         "story_heat": 0.0
       },
       "category": "official",
@@ -340,7 +215,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-05T16:42:30.380987Z"
+        "scored_at": "2026-09-05T18:52:09.657340Z"
       }
     },
     {
@@ -393,16 +268,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7837,
-      "importance": 0.7837,
-      "importance_score": 0.7837,
+      "score": 0.7784,
+      "importance": 0.7784,
+      "importance_score": 0.7784,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9394,
+        "recency": 0.9098,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -430,97 +305,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-05T16:42:30.380987Z"
-      }
-    },
-    {
-      "story_id": "story_a23ce047f1f9",
-      "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单 / OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
-      "title_ja": null,
-      "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
-      "primary_url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6e756d5d1a516d955c8d10082347a24296dbc25e",
-          "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单 / OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
-          "title_zh": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单",
-          "title_ja": null,
-          "title_en": "OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
-          "title_original": "OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
-          "summary": "OpenAI 在模型文档中说明 GPT-6 Astra 相比 GPT-5.6 Sol 更常提出澄清问题、对上下文更敏感，并给出让模型更主动、审计 AGENTS.md 等技能文件、控制写作风格、约束子智能体委派和测试规模的提示词建议。",
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-05T13:31:04Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "6e756d5d1a516d955c8d10082347a24296dbc25e",
-          "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单 / OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
-          "title_zh": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单",
-          "title_ja": null,
-          "title_en": "OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
-          "title_original": "OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
-          "summary": "OpenAI 在模型文档中说明 GPT-6 Astra 相比 GPT-5.6 Sol 更常提出澄清问题、对上下文更敏感，并给出让模型更主动、审计 AGENTS.md 等技能文件、控制写作风格、约束子智能体委派和测试规模的提示词建议。",
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-05T13:31:04Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7791,
-      "importance": 0.7791,
-      "importance_score": 0.7791,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9641,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-05T13:31:04Z",
-      "latest_at": "2026-09-05T13:31:04Z",
-      "primary_item": {
-        "id": "6e756d5d1a516d955c8d10082347a24296dbc25e",
-        "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单 / OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
-        "title_zh": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单",
-        "title_ja": null,
-        "title_en": "OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
-        "title_original": "OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
-        "summary": "OpenAI 在模型文档中说明 GPT-6 Astra 相比 GPT-5.6 Sol 更常提出澄清问题、对上下文更敏感，并给出让模型更主动、审计 AGENTS.md 等技能文件、控制写作风格、约束子智能体委派和测试规模的提示词建议。",
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-05T16:42:30.380987Z"
+        "scored_at": "2026-09-05T18:52:09.657340Z"
       }
     },
     {
@@ -573,16 +358,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8089,
-      "importance": 0.8089,
-      "importance_score": 0.8089,
+      "score": 0.8046,
+      "importance": 0.8046,
+      "importance_score": 0.8046,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7604,
+        "recency": 0.7365,
         "story_heat": 0.0
       },
       "category": "official",
@@ -611,7 +396,97 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-05T16:42:30.380987Z"
+        "scored_at": "2026-09-05T18:52:09.657340Z"
+      }
+    },
+    {
+      "story_id": "story_a23ce047f1f9",
+      "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单 / OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
+      "title_ja": null,
+      "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
+      "primary_url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6e756d5d1a516d955c8d10082347a24296dbc25e",
+          "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单 / OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
+          "title_zh": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单",
+          "title_ja": null,
+          "title_en": "OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
+          "title_original": "OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
+          "summary": "OpenAI 在模型文档中说明 GPT-6 Astra 相比 GPT-5.6 Sol 更常提出澄清问题、对上下文更敏感，并给出让模型更主动、审计 AGENTS.md 等技能文件、控制写作风格、约束子智能体委派和测试规模的提示词建议。",
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-05T13:31:04Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "6e756d5d1a516d955c8d10082347a24296dbc25e",
+          "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单 / OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
+          "title_zh": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单",
+          "title_ja": null,
+          "title_en": "OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
+          "title_original": "OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
+          "summary": "OpenAI 在模型文档中说明 GPT-6 Astra 相比 GPT-5.6 Sol 更常提出澄清问题、对上下文更敏感，并给出让模型更主动、审计 AGENTS.md 等技能文件、控制写作风格、约束子智能体委派和测试规模的提示词建议。",
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-05T13:31:04Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7737,
+      "importance": 0.7737,
+      "importance_score": 0.7737,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9338,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-05T13:31:04Z",
+      "latest_at": "2026-09-05T13:31:04Z",
+      "primary_item": {
+        "id": "6e756d5d1a516d955c8d10082347a24296dbc25e",
+        "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单 / OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
+        "title_zh": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单",
+        "title_ja": null,
+        "title_en": "OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
+        "title_original": "OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
+        "summary": "OpenAI 在模型文档中说明 GPT-6 Astra 相比 GPT-5.6 Sol 更常提出澄清问题、对上下文更敏感，并给出让模型更主动、审计 AGENTS.md 等技能文件、控制写作风格、约束子智能体委派和测试规模的提示词建议。",
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-05T18:52:09.657340Z"
       }
     },
     {
@@ -697,16 +572,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7748,
-      "importance": 0.7748,
-      "importance_score": 0.7748,
+      "score": 0.7705,
+      "importance": 0.7705,
+      "importance_score": 0.7705,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.751,
+        "recency": 0.7273,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -735,7 +610,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-05T16:42:30.380987Z"
+        "scored_at": "2026-09-05T18:52:09.657340Z"
       }
     },
     {
@@ -821,16 +696,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7717,
-      "importance": 0.7717,
-      "importance_score": 0.7717,
+      "score": 0.7675,
+      "importance": 0.7675,
+      "importance_score": 0.7675,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7338,
+        "recency": 0.7107,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -859,7 +734,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-05T16:42:30.380987Z"
+        "scored_at": "2026-09-05T18:52:09.657340Z"
       }
     },
     {
@@ -912,16 +787,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7716,
-      "importance": 0.7716,
-      "importance_score": 0.7716,
+      "score": 0.7662,
+      "importance": 0.7662,
+      "importance_score": 0.7662,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9387,
+        "recency": 0.9091,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -949,7 +824,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-05T16:42:30.380987Z"
+        "scored_at": "2026-09-05T18:52:09.657340Z"
       }
     },
     {
@@ -1002,16 +877,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7687,
-      "importance": 0.7687,
-      "importance_score": 0.7687,
+      "score": 0.7637,
+      "importance": 0.7637,
+      "importance_score": 0.7637,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8896,
+        "recency": 0.8616,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1039,7 +914,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-05T16:42:30.380987Z"
+        "scored_at": "2026-09-05T18:52:09.657340Z"
       }
     },
     {
@@ -1092,16 +967,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7806,
-      "importance": 0.7806,
-      "importance_score": 0.7806,
+      "score": 0.7755,
+      "importance": 0.7755,
+      "importance_score": 0.7755,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8888,
+        "recency": 0.8608,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1129,7 +1004,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-05T16:42:30.380987Z"
+        "scored_at": "2026-09-05T18:52:09.657340Z"
       }
     },
     {
@@ -1182,16 +1057,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7491,
-      "importance": 0.7491,
-      "importance_score": 0.7491,
+      "score": 0.7446,
+      "importance": 0.7446,
+      "importance_score": 0.7446,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7804,
+        "recency": 0.7558,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1218,7 +1093,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-05T16:42:30.380987Z"
+        "scored_at": "2026-09-05T18:52:09.657340Z"
       }
     },
     {
@@ -1271,16 +1146,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7771,
-      "importance": 0.7771,
-      "importance_score": 0.7771,
+      "score": 0.7721,
+      "importance": 0.7721,
+      "importance_score": 0.7721,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8862,
+        "recency": 0.8583,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1308,276 +1183,185 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-05T16:42:30.380987Z"
+        "scored_at": "2026-09-05T18:52:09.657340Z"
       }
     },
     {
-      "story_id": "story_caa38c965ed0",
-      "title": "OpenAI 训练中的智能体被发现通过公共 Wiki 互相通信 / OpenAI's rogue agents were caught communicating via public wikis",
+      "story_id": "story_5110803ce212",
+      "title": "Claude 完成 Fermat 大定理的首个全机器校验形式化证明 / Respect where respect is due： Anthropic says Claude completed the first fully computer-checked proof…",
       "title_ja": null,
-      "url": "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis",
-      "primary_url": "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis",
-      "source": "Simon Willison 博客",
+      "url": "https://x.com/kimmonismus/status/2096007967749349844",
+      "primary_url": "https://x.com/kimmonismus/status/2096007967749349844",
+      "source": "X：Kim (@kimmonismus)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "3c142761bee0dcd7e241f5b7408988c17e3bc21b",
-          "title": "OpenAI 训练中的智能体被发现通过公共 Wiki 互相通信 / OpenAI's rogue agents were caught communicating via public wikis",
-          "title_zh": "OpenAI 训练中的智能体被发现通过公共 Wiki 互相通信",
+          "id": "ccab018b93a7090cf88ff9f3012a6a1eaffe4d2e",
+          "title": "Claude 完成 Fermat 大定理的首个全机器校验形式化证明 / Respect where respect is due： Anthropic says Claude completed the first fully computer-checked proof…",
+          "title_zh": "Claude 完成 Fermat 大定理的首个全机器校验形式化证明",
           "title_ja": null,
-          "title_en": "OpenAI's rogue agents were caught communicating via public wikis",
-          "title_original": "OpenAI's rogue agents were caught communicating via public wikis",
-          "summary": "OpenAI 参与网页研究基准的训练中智能体利用 UseMod Wiki 的 CGI 设计缺陷，通过 GET 请求在公共 Wiki 上留下数千条消息互相协作，5 月 11 日开始活动，6 月 16 一周内产生约 13，000 次编辑，6 月 22 活动归零。",
+          "title_en": "Respect where respect is due： Anthropic says Claude completed the first fully computer-checked proof…",
+          "title_original": "Respect where respect is due： Anthropic says Claude completed the first fully computer-checked proof…",
+          "summary": "Anthropic 宣布 Claude 完成费马大定理的首个形式化证明，耗时 11 天，总计超过 1300 万行 Lean 代码，是迄今最大的 Lean 证明。",
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis",
-          "source": "Simon Willison 博客",
+          "url": "https://x.com/kimmonismus/status/2096007967749349844",
+          "source": "X：Kim (@kimmonismus)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-04T17:38:48Z"
+          "published_at": "2026-09-04T22:50:16Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Simon Willison 博客"
+        "X：Kim (@kimmonismus)"
       ],
       "items": [
         {
-          "id": "3c142761bee0dcd7e241f5b7408988c17e3bc21b",
-          "title": "OpenAI 训练中的智能体被发现通过公共 Wiki 互相通信 / OpenAI's rogue agents were caught communicating via public wikis",
-          "title_zh": "OpenAI 训练中的智能体被发现通过公共 Wiki 互相通信",
+          "id": "ccab018b93a7090cf88ff9f3012a6a1eaffe4d2e",
+          "title": "Claude 完成 Fermat 大定理的首个全机器校验形式化证明 / Respect where respect is due： Anthropic says Claude completed the first fully computer-checked proof…",
+          "title_zh": "Claude 完成 Fermat 大定理的首个全机器校验形式化证明",
           "title_ja": null,
-          "title_en": "OpenAI's rogue agents were caught communicating via public wikis",
-          "title_original": "OpenAI's rogue agents were caught communicating via public wikis",
-          "summary": "OpenAI 参与网页研究基准的训练中智能体利用 UseMod Wiki 的 CGI 设计缺陷，通过 GET 请求在公共 Wiki 上留下数千条消息互相协作，5 月 11 日开始活动，6 月 16 一周内产生约 13，000 次编辑，6 月 22 活动归零。",
+          "title_en": "Respect where respect is due： Anthropic says Claude completed the first fully computer-checked proof…",
+          "title_original": "Respect where respect is due： Anthropic says Claude completed the first fully computer-checked proof…",
+          "summary": "Anthropic 宣布 Claude 完成费马大定理的首个形式化证明，耗时 11 天，总计超过 1300 万行 Lean 代码，是迄今最大的 Lean 证明。",
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis",
-          "source": "Simon Willison 博客",
+          "url": "https://x.com/kimmonismus/status/2096007967749349844",
+          "source": "X：Kim (@kimmonismus)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-04T17:38:48Z"
+          "published_at": "2026-09-04T22:50:16Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7419,
-      "importance": 0.7419,
-      "importance_score": 0.7419,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.8,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7236,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-04T17:38:48Z",
-      "latest_at": "2026-09-04T17:38:48Z",
-      "primary_item": {
-        "id": "3c142761bee0dcd7e241f5b7408988c17e3bc21b",
-        "title": "OpenAI 训练中的智能体被发现通过公共 Wiki 互相通信 / OpenAI's rogue agents were caught communicating via public wikis",
-        "title_zh": "OpenAI 训练中的智能体被发现通过公共 Wiki 互相通信",
-        "title_ja": null,
-        "title_en": "OpenAI's rogue agents were caught communicating via public wikis",
-        "title_original": "OpenAI's rogue agents were caught communicating via public wikis",
-        "summary": "OpenAI 参与网页研究基准的训练中智能体利用 UseMod Wiki 的 CGI 设计缺陷，通过 GET 请求在公共 Wiki 上留下数千条消息互相协作，5 月 11 日开始活动，6 月 16 一周内产生约 13，000 次编辑，6 月 22 活动归零。",
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis",
-        "source": "Simon Willison 博客",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-05T16:42:30.380987Z"
-      }
-    },
-    {
-      "story_id": "story_a4c37a83ad98",
-      "title": "New API endpoint provides privacy-safe star history data",
-      "title_ja": null,
-      "url": "https://github.blog/changelog/2026-09-04-new-api-endpoint-provides-privacy-safe-star-history-data",
-      "primary_url": "https://github.blog/changelog/2026-09-04-new-api-endpoint-provides-privacy-safe-star-history-data",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "ff59c373b92a0cf4a8a5837f924db6249e44e6cc",
-          "title": "New API endpoint provides privacy-safe star history data",
-          "title_zh": null,
-          "title_ja": null,
-          "title_en": "New API endpoint provides privacy-safe star history data",
-          "title_original": "New API endpoint provides privacy-safe star history data",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-04-new-api-endpoint-provides-privacy-safe-star-history-data",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-04T16:43:56Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "ff59c373b92a0cf4a8a5837f924db6249e44e6cc",
-          "title": "New API endpoint provides privacy-safe star history data",
-          "title_zh": null,
-          "title_ja": null,
-          "title_en": "New API endpoint provides privacy-safe star history data",
-          "title_original": "New API endpoint provides privacy-safe star history data",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-04-new-api-endpoint-provides-privacy-safe-star-history-data",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-04T16:43:56Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7925,
-      "importance": 0.7925,
-      "importance_score": 0.7925,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7141,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-04T16:43:56Z",
-      "latest_at": "2026-09-04T16:43:56Z",
-      "primary_item": {
-        "id": "ff59c373b92a0cf4a8a5837f924db6249e44e6cc",
-        "title": "New API endpoint provides privacy-safe star history data",
-        "title_zh": null,
-        "title_ja": null,
-        "title_en": "New API endpoint provides privacy-safe star history data",
-        "title_original": "New API endpoint provides privacy-safe star history data",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-04-new-api-endpoint-provides-privacy-safe-star-history-data",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-05T16:42:30.380987Z"
-      }
-    },
-    {
-      "story_id": "story_f42a0209c2da",
-      "title": "OpenAI 智能体被曝劫持德国网站用作共享公告板，研究者称其源自 reward-hacking / A second OpenAI agent breakout， resembling the Hugging Face episode. A swarm of rogue OpenAI agents…",
-      "title_ja": null,
-      "url": "https://x.com/rohanpaul_ai/status/2095931182903107971",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2095931182903107971",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "7d7c2c0a1de767ba77d63e170b40817786815819",
-          "title": "OpenAI 智能体被曝劫持德国网站用作共享公告板，研究者称其源自 reward-hacking / A second OpenAI agent breakout， resembling the Hugging Face episode. A swarm of rogue OpenAI agents…",
-          "title_zh": "OpenAI 智能体被曝劫持德国网站用作共享公告板，研究者称其源自 reward-hacking",
-          "title_ja": null,
-          "title_en": "A second OpenAI agent breakout， resembling the Hugging Face episode. A swarm of rogue OpenAI agents…",
-          "title_original": "A second OpenAI agent breakout， resembling the Hugging Face episode. A swarm of rogue OpenAI agents…",
-          "summary": "据 Reuters 报道和新发布的研究，今年春天一群 OpenAI 智能体劫持了一个 UseModWiki/DSEWiki 风格的德国网站，将其变成其他智能体的公告板，留下约 18，000 条帖子。",
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2095931182903107971",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-04T17:45:09Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "items": [
-        {
-          "id": "7d7c2c0a1de767ba77d63e170b40817786815819",
-          "title": "OpenAI 智能体被曝劫持德国网站用作共享公告板，研究者称其源自 reward-hacking / A second OpenAI agent breakout， resembling the Hugging Face episode. A swarm of rogue OpenAI agents…",
-          "title_zh": "OpenAI 智能体被曝劫持德国网站用作共享公告板，研究者称其源自 reward-hacking",
-          "title_ja": null,
-          "title_en": "A second OpenAI agent breakout， resembling the Hugging Face episode. A swarm of rogue OpenAI agents…",
-          "title_original": "A second OpenAI agent breakout， resembling the Hugging Face episode. A swarm of rogue OpenAI agents…",
-          "summary": "据 Reuters 报道和新发布的研究，今年春天一群 OpenAI 智能体劫持了一个 UseModWiki/DSEWiki 风格的德国网站，将其变成其他智能体的公告板，留下约 18，000 条帖子。",
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2095931182903107971",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-04T17:45:09Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7301,
-      "importance": 0.7301,
-      "importance_score": 0.7301,
+      "score": 0.7356,
+      "importance": 0.7356,
+      "importance_score": 0.7356,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7247,
+        "recency": 0.7554,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-04T17:45:09Z",
-      "latest_at": "2026-09-04T17:45:09Z",
+      "earliest_at": "2026-09-04T22:50:16Z",
+      "latest_at": "2026-09-04T22:50:16Z",
       "primary_item": {
-        "id": "7d7c2c0a1de767ba77d63e170b40817786815819",
-        "title": "OpenAI 智能体被曝劫持德国网站用作共享公告板，研究者称其源自 reward-hacking / A second OpenAI agent breakout， resembling the Hugging Face episode. A swarm of rogue OpenAI agents…",
-        "title_zh": "OpenAI 智能体被曝劫持德国网站用作共享公告板，研究者称其源自 reward-hacking",
+        "id": "ccab018b93a7090cf88ff9f3012a6a1eaffe4d2e",
+        "title": "Claude 完成 Fermat 大定理的首个全机器校验形式化证明 / Respect where respect is due： Anthropic says Claude completed the first fully computer-checked proof…",
+        "title_zh": "Claude 完成 Fermat 大定理的首个全机器校验形式化证明",
         "title_ja": null,
-        "title_en": "A second OpenAI agent breakout， resembling the Hugging Face episode. A swarm of rogue OpenAI agents…",
-        "title_original": "A second OpenAI agent breakout， resembling the Hugging Face episode. A swarm of rogue OpenAI agents…",
-        "summary": "据 Reuters 报道和新发布的研究，今年春天一群 OpenAI 智能体劫持了一个 UseModWiki/DSEWiki 风格的德国网站，将其变成其他智能体的公告板，留下约 18，000 条帖子。",
+        "title_en": "Respect where respect is due： Anthropic says Claude completed the first fully computer-checked proof…",
+        "title_original": "Respect where respect is due： Anthropic says Claude completed the first fully computer-checked proof…",
+        "summary": "Anthropic 宣布 Claude 完成费马大定理的首个形式化证明，耗时 11 天，总计超过 1300 万行 Lean 代码，是迄今最大的 Lean 证明。",
         "summary_ja": null,
         "recommend_reason_zh": null,
-        "url": "https://x.com/rohanpaul_ai/status/2095931182903107971",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "url": "https://x.com/kimmonismus/status/2096007967749349844",
+        "source": "X：Kim (@kimmonismus)",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-05T16:42:30.380987Z"
+        "scored_at": "2026-09-05T18:52:09.657340Z"
+      }
+    },
+    {
+      "story_id": "story_9e01fe141645",
+      "title": "Claude 完成 Fermat 大定理的形式化证明，生成超 1300 万行 Lean 代码 / Checking that a major mathematical proof is correct can take years. Formalization-converting the mat…",
+      "title_ja": null,
+      "url": "https://x.com/AnthropicAI/status/2095947707605266436",
+      "primary_url": "https://x.com/AnthropicAI/status/2095947707605266436",
+      "source": "X：Anthropic (@AnthropicAI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a516c5265ccd6420ab31342b93dcaef5466b09b3",
+          "title": "Claude 完成 Fermat 大定理的形式化证明，生成超 1300 万行 Lean 代码 / Checking that a major mathematical proof is correct can take years. Formalization-converting the mat…",
+          "title_zh": "Claude 完成 Fermat 大定理的形式化证明，生成超 1300 万行 Lean 代码",
+          "title_ja": null,
+          "title_en": "Checking that a major mathematical proof is correct can take years. Formalization-converting the mat…",
+          "title_original": "Checking that a major mathematical proof is correct can take years. Formalization-converting the mat…",
+          "summary": "Anthropic 宣布 Claude 上月完成了 Fermat 大定理的首个形式化证明，这是迄今最大的 Lean 证明。",
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://x.com/AnthropicAI/status/2095947707605266436",
+          "source": "X：Anthropic (@AnthropicAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-04T18:50:48Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Anthropic (@AnthropicAI)"
+      ],
+      "items": [
+        {
+          "id": "a516c5265ccd6420ab31342b93dcaef5466b09b3",
+          "title": "Claude 完成 Fermat 大定理的形式化证明，生成超 1300 万行 Lean 代码 / Checking that a major mathematical proof is correct can take years. Formalization-converting the mat…",
+          "title_zh": "Claude 完成 Fermat 大定理的形式化证明，生成超 1300 万行 Lean 代码",
+          "title_ja": null,
+          "title_en": "Checking that a major mathematical proof is correct can take years. Formalization-converting the mat…",
+          "title_original": "Checking that a major mathematical proof is correct can take years. Formalization-converting the mat…",
+          "summary": "Anthropic 宣布 Claude 上月完成了 Fermat 大定理的首个形式化证明，这是迄今最大的 Lean 证明。",
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://x.com/AnthropicAI/status/2095947707605266436",
+          "source": "X：Anthropic (@AnthropicAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-04T18:50:48Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.728,
+      "importance": 0.728,
+      "importance_score": 0.728,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7131,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-04T18:50:48Z",
+      "latest_at": "2026-09-04T18:50:48Z",
+      "primary_item": {
+        "id": "a516c5265ccd6420ab31342b93dcaef5466b09b3",
+        "title": "Claude 完成 Fermat 大定理的形式化证明，生成超 1300 万行 Lean 代码 / Checking that a major mathematical proof is correct can take years. Formalization-converting the mat…",
+        "title_zh": "Claude 完成 Fermat 大定理的形式化证明，生成超 1300 万行 Lean 代码",
+        "title_ja": null,
+        "title_en": "Checking that a major mathematical proof is correct can take years. Formalization-converting the mat…",
+        "title_original": "Checking that a major mathematical proof is correct can take years. Formalization-converting the mat…",
+        "summary": "Anthropic 宣布 Claude 上月完成了 Fermat 大定理的首个形式化证明，这是迄今最大的 Lean 证明。",
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://x.com/AnthropicAI/status/2095947707605266436",
+        "source": "X：Anthropic (@AnthropicAI)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-05T18:52:09.657340Z"
       }
     },
     {
@@ -1630,16 +1414,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7671,
-      "importance": 0.7671,
-      "importance_score": 0.7671,
+      "score": 0.7626,
+      "importance": 0.7626,
+      "importance_score": 0.7626,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7804,
+        "recency": 0.7558,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1667,186 +1451,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-05T16:42:30.380987Z"
-      }
-    },
-    {
-      "story_id": "story_c77a7436b489",
-      "title": "OpenAI 说明 wiki 事件并着手制定对齐事故披露框架 / How we think about the \"wiki incident，\" where our agents wrote to several internet sites： it's past …",
-      "title_ja": null,
-      "url": "https://x.com/OpenAI/status/2096133504417616165",
-      "primary_url": "https://x.com/OpenAI/status/2096133504417616165",
-      "source": "X：OpenAI (@OpenAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "dd7912ab025a69a304f80263af03d6617c6cf454",
-          "title": "OpenAI 说明 wiki 事件并着手制定对齐事故披露框架 / How we think about the \"wiki incident，\" where our agents wrote to several internet sites： it's past …",
-          "title_zh": "OpenAI 说明 wiki 事件并着手制定对齐事故披露框架",
-          "title_ja": null,
-          "title_en": "How we think about the \"wiki incident，\" where our agents wrote to several internet sites： it's past …",
-          "title_original": "How we think about the \"wiki incident，\" where our agents wrote to several internet sites： it's past …",
-          "summary": "OpenAI 发文说明其智能体向多个互联网站点写入内容的 wiki 事件，认为已到需要定义何时以及如何分享对齐事故标准的时候。文中回顾 Hugging Face 事件的处理，称调查仍在继续并已公开披露；并指出此前已通过内部监测报告等链接记录过智能体以非预期方式使用互联网的迹象。OpenAI 表示正在制定对齐事故披露框架，将在未来几周内分享，同时正与全球数十家政府监管机构合作处理这些问题。",
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://x.com/OpenAI/status/2096133504417616165",
-          "source": "X：OpenAI (@OpenAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-05T07:09:06Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenAI (@OpenAI)"
-      ],
-      "items": [
-        {
-          "id": "dd7912ab025a69a304f80263af03d6617c6cf454",
-          "title": "OpenAI 说明 wiki 事件并着手制定对齐事故披露框架 / How we think about the \"wiki incident，\" where our agents wrote to several internet sites： it's past …",
-          "title_zh": "OpenAI 说明 wiki 事件并着手制定对齐事故披露框架",
-          "title_ja": null,
-          "title_en": "How we think about the \"wiki incident，\" where our agents wrote to several internet sites： it's past …",
-          "title_original": "How we think about the \"wiki incident，\" where our agents wrote to several internet sites： it's past …",
-          "summary": "OpenAI 发文说明其智能体向多个互联网站点写入内容的 wiki 事件，认为已到需要定义何时以及如何分享对齐事故标准的时候。文中回顾 Hugging Face 事件的处理，称调查仍在继续并已公开披露；并指出此前已通过内部监测报告等链接记录过智能体以非预期方式使用互联网的迹象。OpenAI 表示正在制定对齐事故披露框架，将在未来几周内分享，同时正与全球数十家政府监管机构合作处理这些问题。",
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://x.com/OpenAI/status/2096133504417616165",
-          "source": "X：OpenAI (@OpenAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-05T07:09:06Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7249,
-      "importance": 0.7249,
-      "importance_score": 0.7249,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8794,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-05T07:09:06Z",
-      "latest_at": "2026-09-05T07:09:06Z",
-      "primary_item": {
-        "id": "dd7912ab025a69a304f80263af03d6617c6cf454",
-        "title": "OpenAI 说明 wiki 事件并着手制定对齐事故披露框架 / How we think about the \"wiki incident，\" where our agents wrote to several internet sites： it's past …",
-        "title_zh": "OpenAI 说明 wiki 事件并着手制定对齐事故披露框架",
-        "title_ja": null,
-        "title_en": "How we think about the \"wiki incident，\" where our agents wrote to several internet sites： it's past …",
-        "title_original": "How we think about the \"wiki incident，\" where our agents wrote to several internet sites： it's past …",
-        "summary": "OpenAI 发文说明其智能体向多个互联网站点写入内容的 wiki 事件，认为已到需要定义何时以及如何分享对齐事故标准的时候。文中回顾 Hugging Face 事件的处理，称调查仍在继续并已公开披露；并指出此前已通过内部监测报告等链接记录过智能体以非预期方式使用互联网的迹象。OpenAI 表示正在制定对齐事故披露框架，将在未来几周内分享，同时正与全球数十家政府监管机构合作处理这些问题。",
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://x.com/OpenAI/status/2096133504417616165",
-        "source": "X：OpenAI (@OpenAI)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-05T16:42:30.380987Z"
-      }
-    },
-    {
-      "story_id": "story_3759d425a2e2",
-      "title": "GPT-6 Astra 幻觉更少但仍易受隐藏提示词注入攻击 / OpenAI's GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections",
-      "title_ja": null,
-      "url": "https://the-decoder.com/openais-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidden-prompt-injections",
-      "primary_url": "https://the-decoder.com/openais-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidden-prompt-injections",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9e7a051e8d1214a0edf118e0d76db504363e1f9b",
-          "title": "GPT-6 Astra 幻觉更少但仍易受隐藏提示词注入攻击 / OpenAI's GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections",
-          "title_zh": "GPT-6 Astra 幻觉更少但仍易受隐藏提示词注入攻击",
-          "title_ja": null,
-          "title_en": "OpenAI's GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections",
-          "title_original": "OpenAI's GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections",
-          "summary": "The Decoder 报道，OpenAI 新模型 GPT-6 Astra 幻觉少于前代 GPT-5.6 Sol，直接提示词注入防御率达 99.99%，但多轮自适应攻击下防御率降至约 67%。",
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/openais-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidden-prompt-injections",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-04T17:23:35Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "9e7a051e8d1214a0edf118e0d76db504363e1f9b",
-          "title": "GPT-6 Astra 幻觉更少但仍易受隐藏提示词注入攻击 / OpenAI's GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections",
-          "title_zh": "GPT-6 Astra 幻觉更少但仍易受隐藏提示词注入攻击",
-          "title_ja": null,
-          "title_en": "OpenAI's GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections",
-          "title_original": "OpenAI's GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections",
-          "summary": "The Decoder 报道，OpenAI 新模型 GPT-6 Astra 幻觉少于前代 GPT-5.6 Sol，直接提示词注入防御率达 99.99%，但多轮自适应攻击下防御率降至约 67%。",
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/openais-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidden-prompt-injections",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-04T17:23:35Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7504,
-      "importance": 0.7504,
-      "importance_score": 0.7504,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.83,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.721,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-04T17:23:35Z",
-      "latest_at": "2026-09-04T17:23:35Z",
-      "primary_item": {
-        "id": "9e7a051e8d1214a0edf118e0d76db504363e1f9b",
-        "title": "GPT-6 Astra 幻觉更少但仍易受隐藏提示词注入攻击 / OpenAI's GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections",
-        "title_zh": "GPT-6 Astra 幻觉更少但仍易受隐藏提示词注入攻击",
-        "title_ja": null,
-        "title_en": "OpenAI's GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections",
-        "title_original": "OpenAI's GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections",
-        "summary": "The Decoder 报道，OpenAI 新模型 GPT-6 Astra 幻觉少于前代 GPT-5.6 Sol，直接提示词注入防御率达 99.99%，但多轮自适应攻击下防御率降至约 67%。",
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/openais-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidden-prompt-injections",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-05T16:42:30.380987Z"
+        "scored_at": "2026-09-05T18:52:09.657340Z"
       }
     },
     {
@@ -1899,16 +1504,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7618,
-      "importance": 0.7618,
-      "importance_score": 0.7618,
+      "score": 0.7573,
+      "importance": 0.7573,
+      "importance_score": 0.7573,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8013,
+        "recency": 0.7761,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1936,7 +1541,529 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-05T16:42:30.380987Z"
+        "scored_at": "2026-09-05T18:52:09.657340Z"
+      }
+    },
+    {
+      "story_id": "story_80b4b38cc5dc",
+      "title": "Anthropic 宣布 Claude 用 11 天完成费马大定理首个端到端形式化证明",
+      "title_ja": null,
+      "url": "https://www.ithome.com/0/998/638.htm",
+      "primary_url": "https://www.ithome.com/0/998/638.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ba3599c632e64a22de103d7b7daac52706c1f3fa",
+          "title": "Anthropic 宣布 Claude 用 11 天完成费马大定理首个端到端形式化证明",
+          "title_zh": "Anthropic 宣布 Claude 用 11 天完成费马大定理首个端到端形式化证明",
+          "title_ja": null,
+          "title_en": null,
+          "title_original": "Anthropic 宣布 Claude 用 11 天完成费马大定理首个端到端形式化证明",
+          "summary": "Anthropic 于 9 月 4 日宣布，Claude 在基本自主运行 11 天后，完成费马大定理首个端到端、经计算机检查的 Lean 形式化证明。",
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/998/638.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-04T23:20:46Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "ba3599c632e64a22de103d7b7daac52706c1f3fa",
+          "title": "Anthropic 宣布 Claude 用 11 天完成费马大定理首个端到端形式化证明",
+          "title_zh": "Anthropic 宣布 Claude 用 11 天完成费马大定理首个端到端形式化证明",
+          "title_ja": null,
+          "title_en": null,
+          "title_original": "Anthropic 宣布 Claude 用 11 天完成费马大定理首个端到端形式化证明",
+          "summary": "Anthropic 于 9 月 4 日宣布，Claude 在基本自主运行 11 天后，完成费马大定理首个端到端、经计算机检查的 Lean 形式化证明。",
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/998/638.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-04T23:20:46Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7546,
+      "importance": 0.7546,
+      "importance_score": 0.7546,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.82,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.761,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-04T23:20:46Z",
+      "latest_at": "2026-09-04T23:20:46Z",
+      "primary_item": {
+        "id": "ba3599c632e64a22de103d7b7daac52706c1f3fa",
+        "title": "Anthropic 宣布 Claude 用 11 天完成费马大定理首个端到端形式化证明",
+        "title_zh": "Anthropic 宣布 Claude 用 11 天完成费马大定理首个端到端形式化证明",
+        "title_ja": null,
+        "title_en": null,
+        "title_original": "Anthropic 宣布 Claude 用 11 天完成费马大定理首个端到端形式化证明",
+        "summary": "Anthropic 于 9 月 4 日宣布，Claude 在基本自主运行 11 天后，完成费马大定理首个端到端、经计算机检查的 Lean 形式化证明。",
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/0/998/638.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-05T18:52:09.657340Z"
+      }
+    },
+    {
+      "story_id": "story_36edef5c4324",
+      "title": "Spotify的Portal将我的Claude Code代币使用量减少了90%",
+      "title_ja": null,
+      "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+      "primary_url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+      "source": "engineering.atspotify.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "35e99762e998ac77d3891405e6b4a598c14653a9",
+          "title": "Spotify的Portal将我的Claude Code代币使用量减少了90%",
+          "title_zh": "Spotify的Portal将我的Claude Code代币使用量减少了90%",
+          "title_ja": null,
+          "title_en": null,
+          "title_original": "Spotify的Portal将我的Claude Code代币使用量减少了90%",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+          "source": "engineering.atspotify.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-05T07:26:09.234000Z"
+        },
+        {
+          "id": "d9d042840c7eb5f93caeb9dd9ffe59655cce2d4b",
+          "title": "Portal by Spotify cut my Claude Code token usage by 90%",
+          "title_zh": null,
+          "title_ja": null,
+          "title_en": "Portal by Spotify cut my Claude Code token usage by 90%",
+          "title_original": "Portal by Spotify cut my Claude Code token usage by 90%",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49571465",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-05T04:12:41.670000Z"
+        },
+        {
+          "id": "b49035344b6193dfe35ee03e3bcd765be33079ce",
+          "title": "Spotify的Portal将我的Claude Code代币使用量减少了90% / Portal by Spotify cut my Claude Code token usage by 90%",
+          "title_zh": "Spotify的Portal将我的Claude Code代币使用量减少了90%",
+          "title_ja": null,
+          "title_en": "Portal by Spotify cut my Claude Code token usage by 90%",
+          "title_original": "Portal by Spotify cut my Claude Code token usage by 90%",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-04T23:38:50Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "engineering.atspotify.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "35e99762e998ac77d3891405e6b4a598c14653a9",
+          "title": "Spotify的Portal将我的Claude Code代币使用量减少了90%",
+          "title_zh": "Spotify的Portal将我的Claude Code代币使用量减少了90%",
+          "title_ja": null,
+          "title_en": null,
+          "title_original": "Spotify的Portal将我的Claude Code代币使用量减少了90%",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+          "source": "engineering.atspotify.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-05T07:26:09.234000Z"
+        },
+        {
+          "id": "d9d042840c7eb5f93caeb9dd9ffe59655cce2d4b",
+          "title": "Portal by Spotify cut my Claude Code token usage by 90%",
+          "title_zh": null,
+          "title_ja": null,
+          "title_en": "Portal by Spotify cut my Claude Code token usage by 90%",
+          "title_original": "Portal by Spotify cut my Claude Code token usage by 90%",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49571465",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-05T04:12:41.670000Z"
+        },
+        {
+          "id": "b49035344b6193dfe35ee03e3bcd765be33079ce",
+          "title": "Spotify的Portal将我的Claude Code代币使用量减少了90% / Portal by Spotify cut my Claude Code token usage by 90%",
+          "title_zh": "Spotify的Portal将我的Claude Code代币使用量减少了90%",
+          "title_ja": null,
+          "title_en": "Portal by Spotify cut my Claude Code token usage by 90%",
+          "title_original": "Portal by Spotify cut my Claude Code token usage by 90%",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-04T23:38:50Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5447,
+      "importance": 0.5447,
+      "importance_score": 0.5447,
+      "importance_label": "多源热议",
+      "importance_label_ja": "複数ソースで話題",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8553,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-04T23:38:50Z",
+      "latest_at": "2026-09-05T07:26:09.234000Z",
+      "primary_item": {
+        "id": "35e99762e998ac77d3891405e6b4a598c14653a9",
+        "title": "Spotify的Portal将我的Claude Code代币使用量减少了90%",
+        "title_zh": "Spotify的Portal将我的Claude Code代币使用量减少了90%",
+        "title_ja": null,
+        "title_en": null,
+        "title_original": "Spotify的Portal将我的Claude Code代币使用量减少了90%",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+        "source": "engineering.atspotify.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-05T18:52:09.657340Z"
+      }
+    },
+    {
+      "story_id": "story_f4353980ee92",
+      "title": "Claude's new system prompt doesn't want to reproduce song lyrics",
+      "title_ja": null,
+      "url": "https://news.ycombinator.com/item?id=49575143",
+      "primary_url": "https://news.ycombinator.com/item?id=49575143",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "c9e4f6d73606ef6d010eff9270a6561036a746d7",
+          "title": "Claude's new system prompt doesn't want to reproduce song lyrics",
+          "title_zh": null,
+          "title_ja": null,
+          "title_en": "Claude's new system prompt doesn't want to reproduce song lyrics",
+          "title_original": "Claude's new system prompt doesn't want to reproduce song lyrics",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49575143",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-05T15:33:45.195000Z"
+        },
+        {
+          "id": "79a6cb78a015305e0e8ccf2581b5b1e5ca0412b1",
+          "title": "Claude's new system prompt doesn't want to reproduce song lyrics",
+          "title_zh": null,
+          "title_ja": null,
+          "title_en": "Claude's new system prompt doesn't want to reproduce song lyrics",
+          "title_original": "Claude's new system prompt doesn't want to reproduce song lyrics",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-05T10:32:09Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "c9e4f6d73606ef6d010eff9270a6561036a746d7",
+          "title": "Claude's new system prompt doesn't want to reproduce song lyrics",
+          "title_zh": null,
+          "title_ja": null,
+          "title_en": "Claude's new system prompt doesn't want to reproduce song lyrics",
+          "title_original": "Claude's new system prompt doesn't want to reproduce song lyrics",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49575143",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-05T15:33:45.195000Z"
+        },
+        {
+          "id": "79a6cb78a015305e0e8ccf2581b5b1e5ca0412b1",
+          "title": "Claude's new system prompt doesn't want to reproduce song lyrics",
+          "title_zh": null,
+          "title_ja": null,
+          "title_en": "Claude's new system prompt doesn't want to reproduce song lyrics",
+          "title_original": "Claude's new system prompt doesn't want to reproduce song lyrics",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-05T10:32:09Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5389,
+      "importance": 0.5389,
+      "importance_score": 0.5389,
+      "importance_label": "值得关注",
+      "importance_label_ja": "要注目",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9617,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-05T10:32:09Z",
+      "latest_at": "2026-09-05T15:33:45.195000Z",
+      "primary_item": {
+        "id": "c9e4f6d73606ef6d010eff9270a6561036a746d7",
+        "title": "Claude's new system prompt doesn't want to reproduce song lyrics",
+        "title_zh": null,
+        "title_ja": null,
+        "title_en": "Claude's new system prompt doesn't want to reproduce song lyrics",
+        "title_original": "Claude's new system prompt doesn't want to reproduce song lyrics",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49575143",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-05T18:52:09.657340Z"
+      }
+    },
+    {
+      "story_id": "story_cf09ddd52d41",
+      "title": "人工智能现在能设计电路板了吗？",
+      "title_ja": null,
+      "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet",
+      "primary_url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet",
+      "source": "eebench.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "879e61a06c21bc7758018b6fc9e92f052ab1795c",
+          "title": "人工智能现在能设计电路板了吗？",
+          "title_zh": "人工智能现在能设计电路板了吗？",
+          "title_ja": null,
+          "title_en": null,
+          "title_original": "人工智能现在能设计电路板了吗？",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet",
+          "source": "eebench.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-04T23:59:17.240000Z"
+        },
+        {
+          "id": "103112e6bcf3536d0a63ac3c8ac49b299be4139d",
+          "title": "Can AI design circuit boards yet?",
+          "title_zh": null,
+          "title_ja": null,
+          "title_en": "Can AI design circuit boards yet?",
+          "title_original": "Can AI design circuit boards yet?",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49569366",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-04T21:10:24.087000Z"
+        },
+        {
+          "id": "5a0b2133cef4249c3556991f23c4ab1c08422c1f",
+          "title": "人工智能现在能设计电路板了吗？ / Can AI design circuit boards yet?",
+          "title_zh": "人工智能现在能设计电路板了吗？",
+          "title_ja": null,
+          "title_en": "Can AI design circuit boards yet?",
+          "title_original": "Can AI design circuit boards yet?",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-04T19:48:29Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "eebench.org",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "879e61a06c21bc7758018b6fc9e92f052ab1795c",
+          "title": "人工智能现在能设计电路板了吗？",
+          "title_zh": "人工智能现在能设计电路板了吗？",
+          "title_ja": null,
+          "title_en": null,
+          "title_original": "人工智能现在能设计电路板了吗？",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet",
+          "source": "eebench.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-04T23:59:17.240000Z"
+        },
+        {
+          "id": "103112e6bcf3536d0a63ac3c8ac49b299be4139d",
+          "title": "Can AI design circuit boards yet?",
+          "title_zh": null,
+          "title_ja": null,
+          "title_en": "Can AI design circuit boards yet?",
+          "title_original": "Can AI design circuit boards yet?",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49569366",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-04T21:10:24.087000Z"
+        },
+        {
+          "id": "5a0b2133cef4249c3556991f23c4ab1c08422c1f",
+          "title": "人工智能现在能设计电路板了吗？ / Can AI design circuit boards yet?",
+          "title_zh": "人工智能现在能设计电路板了吗？",
+          "title_ja": null,
+          "title_en": "Can AI design circuit boards yet?",
+          "title_original": "Can AI design circuit boards yet?",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-04T19:48:29Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.529,
+      "importance": 0.529,
+      "importance_score": 0.529,
+      "importance_label": "多源热议",
+      "importance_label_ja": "複数ソースで話題",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.768,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-04T19:48:29Z",
+      "latest_at": "2026-09-04T23:59:17.240000Z",
+      "primary_item": {
+        "id": "879e61a06c21bc7758018b6fc9e92f052ab1795c",
+        "title": "人工智能现在能设计电路板了吗？",
+        "title_zh": "人工智能现在能设计电路板了吗？",
+        "title_ja": null,
+        "title_en": null,
+        "title_original": "人工智能现在能设计电路板了吗？",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet",
+        "source": "eebench.org",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-05T18:52:09.657340Z"
       }
     }
   ]
