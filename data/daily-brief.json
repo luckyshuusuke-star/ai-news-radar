@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T11:14:01.903475Z",
+  "generated_at": "2026-09-08T15:06:08.588864Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -59,10 +59,27 @@
           "source_name": "Info Flow",
           "site_id": "iris",
           "published_at": "2026-09-08T05:06:23Z"
+        },
+        {
+          "id": "8e190181b6c1c5d04ece2e4e2a266e969ad1d7b7",
+          "title": "Mistral 完成 30 亿欧元 D 轮融资，估值超 210 亿欧元 / Mistral raises €3B to make sovereign, open-weight AI the technology frontier",
+          "title_zh": "Mistral 完成 30 亿欧元 D 轮融资，估值超 210 亿欧元",
+          "title_ja": null,
+          "title_en": "Mistral raises €3B to make sovereign, open-weight AI the technology frontier",
+          "title_original": "Mistral raises €3B to make sovereign, open-weight AI the technology frontier",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-08T05:06:23Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 4,
       "source_names": [
+        "Hacker News",
         "Hacker News (黑客新闻)",
         "Mistral AI：News（网页）",
         "mistral.ai"
@@ -115,21 +132,37 @@
           "source_name": "Info Flow",
           "site_id": "iris",
           "published_at": "2026-09-08T05:06:23Z"
+        },
+        {
+          "id": "8e190181b6c1c5d04ece2e4e2a266e969ad1d7b7",
+          "title": "Mistral 完成 30 亿欧元 D 轮融资，估值超 210 亿欧元 / Mistral raises €3B to make sovereign, open-weight AI the technology frontier",
+          "title_zh": "Mistral 完成 30 亿欧元 D 轮融资，估值超 210 亿欧元",
+          "title_ja": null,
+          "title_en": "Mistral raises €3B to make sovereign, open-weight AI the technology frontier",
+          "title_original": "Mistral raises €3B to make sovereign, open-weight AI the technology frontier",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-08T05:06:23Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8528,
-      "importance": 0.8528,
-      "importance_score": 0.8528,
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.8688,
+      "importance": 0.8688,
+      "importance_score": 0.8688,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9269,
-        "story_heat": 0.5
+        "recency": 0.8765,
+        "story_heat": 0.75
       },
       "category": "official",
       "reasons": [
@@ -157,7 +190,371 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T11:52:33.985068Z"
+        "scored_at": "2026-09-08T15:45:55.479385Z"
+      }
+    },
+    {
+      "story_id": "story_e9c8b7eef4d1",
+      "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+      "title_ja": null,
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+      "primary_url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "50d984ced7249d24ee585d7fe58912c5f4a5dad0",
+          "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+          "title_zh": null,
+          "title_ja": null,
+          "title_en": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+          "title_original": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-08T14:23:07Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "50d984ced7249d24ee585d7fe58912c5f4a5dad0",
+          "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+          "title_zh": null,
+          "title_ja": null,
+          "title_en": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+          "title_original": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-08T14:23:07Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8581,
+      "importance": 0.8581,
+      "importance_score": 0.8581,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9897,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-08T14:23:07Z",
+      "latest_at": "2026-09-08T14:23:07Z",
+      "primary_item": {
+        "id": "50d984ced7249d24ee585d7fe58912c5f4a5dad0",
+        "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+        "title_zh": null,
+        "title_ja": null,
+        "title_en": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+        "title_original": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-08T15:45:55.479385Z"
+      }
+    },
+    {
+      "story_id": "story_be047988843b",
+      "title": "The Work Now Within Reach",
+      "title_ja": null,
+      "url": "https://openai.com/index/the-work-now-within-reach",
+      "primary_url": "https://openai.com/index/the-work-now-within-reach",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "0c225103d8bbdb274acb89884cf1925952614089",
+          "title": "The Work Now Within Reach",
+          "title_zh": null,
+          "title_ja": null,
+          "title_en": "The Work Now Within Reach",
+          "title_original": "The Work Now Within Reach",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/the-work-now-within-reach",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-08T13:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "0c225103d8bbdb274acb89884cf1925952614089",
+          "title": "The Work Now Within Reach",
+          "title_zh": null,
+          "title_ja": null,
+          "title_en": "The Work Now Within Reach",
+          "title_original": "The Work Now Within Reach",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/the-work-now-within-reach",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-08T13:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8466,
+      "importance": 0.8466,
+      "importance_score": 0.8466,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9701,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-08T13:00:00Z",
+      "latest_at": "2026-09-08T13:00:00Z",
+      "primary_item": {
+        "id": "0c225103d8bbdb274acb89884cf1925952614089",
+        "title": "The Work Now Within Reach",
+        "title_zh": null,
+        "title_ja": null,
+        "title_en": "The Work Now Within Reach",
+        "title_original": "The Work Now Within Reach",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/the-work-now-within-reach",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-08T15:45:55.479385Z"
+      }
+    },
+    {
+      "story_id": "story_a927f6f1604a",
+      "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+      "title_ja": null,
+      "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome",
+      "primary_url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "bd408293d32e3b3ed026e5399e9e52f6ca55576d",
+          "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+          "title_zh": null,
+          "title_ja": null,
+          "title_en": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+          "title_original": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-08T14:00:15Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google DeepMind"
+      ],
+      "items": [
+        {
+          "id": "bd408293d32e3b3ed026e5399e9e52f6ca55576d",
+          "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+          "title_zh": null,
+          "title_ja": null,
+          "title_en": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+          "title_original": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-08T14:00:15Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8412,
+      "importance": 0.8412,
+      "importance_score": 0.8412,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9843,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-08T14:00:15Z",
+      "latest_at": "2026-09-08T14:00:15Z",
+      "primary_item": {
+        "id": "bd408293d32e3b3ed026e5399e9e52f6ca55576d",
+        "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+        "title_zh": null,
+        "title_ja": null,
+        "title_en": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+        "title_original": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome",
+        "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-08T15:45:55.479385Z"
+      }
+    },
+    {
+      "story_id": "story_bac4ec48b080",
+      "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+      "title_ja": null,
+      "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+      "primary_url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "93b14de03a3f2eafbd624b721df4b902bc60f879",
+          "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+          "title_zh": null,
+          "title_ja": null,
+          "title_en": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+          "title_original": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-08T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "93b14de03a3f2eafbd624b721df4b902bc60f879",
+          "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+          "title_zh": null,
+          "title_ja": null,
+          "title_en": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+          "title_original": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-08T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8167,
+      "importance": 0.8167,
+      "importance_score": 0.8167,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8041,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-08T00:00:00Z",
+      "latest_at": "2026-09-08T00:00:00Z",
+      "primary_item": {
+        "id": "93b14de03a3f2eafbd624b721df4b902bc60f879",
+        "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+        "title_zh": null,
+        "title_ja": null,
+        "title_en": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+        "title_original": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-08T15:45:55.479385Z"
       }
     },
     {
@@ -210,16 +607,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7877,
-      "importance": 0.7877,
-      "importance_score": 0.7877,
+      "score": 0.7785,
+      "importance": 0.7785,
+      "importance_score": 0.7785,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9452,
+        "recency": 0.8939,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -247,7 +644,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T11:52:33.985068Z"
+        "scored_at": "2026-09-08T15:45:55.479385Z"
       }
     },
     {
@@ -300,16 +697,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7578,
+      "importance": 0.7578,
+      "importance_score": 0.7578,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9457,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -337,7 +734,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T11:52:33.985068Z"
+        "scored_at": "2026-09-08T15:45:55.479385Z"
       }
     },
     {
@@ -390,22 +787,21 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7533,
-      "importance": 0.7533,
-      "importance_score": 0.7533,
+      "score": 0.7449,
+      "importance": 0.7449,
+      "importance_score": 0.7449,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8538,
+        "recency": 0.8074,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-08T00:17:23Z",
       "latest_at": "2026-09-08T00:17:23Z",
@@ -427,7 +823,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T11:52:33.985068Z"
+        "scored_at": "2026-09-08T15:45:55.479385Z"
       }
     },
     {
@@ -480,16 +876,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7404,
-      "importance": 0.7404,
-      "importance_score": 0.7404,
+      "score": 0.7327,
+      "importance": 0.7327,
+      "importance_score": 0.7327,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7821,
+        "recency": 0.7396,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -516,7 +912,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T11:52:33.985068Z"
+        "scored_at": "2026-09-08T15:45:55.479385Z"
       }
     },
     {
@@ -569,16 +965,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7578,
+      "importance": 0.7578,
+      "importance_score": 0.7578,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9457,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -606,7 +1002,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T11:52:33.985068Z"
+        "scored_at": "2026-09-08T15:45:55.479385Z"
       }
     },
     {
@@ -659,16 +1055,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7312,
-      "importance": 0.7312,
-      "importance_score": 0.7312,
+      "score": 0.7223,
+      "importance": 0.7223,
+      "importance_score": 0.7223,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9145,
+        "recency": 0.8648,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -695,7 +1091,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T11:52:33.985068Z"
+        "scored_at": "2026-09-08T15:45:55.479385Z"
       }
     },
     {
@@ -748,16 +1144,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7578,
+      "importance": 0.7578,
+      "importance_score": 0.7578,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9457,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -785,7 +1181,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T11:52:33.985068Z"
+        "scored_at": "2026-09-08T15:45:55.479385Z"
       }
     },
     {
@@ -838,16 +1234,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7578,
+      "importance": 0.7578,
+      "importance_score": 0.7578,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9457,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -875,7 +1271,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T11:52:33.985068Z"
+        "scored_at": "2026-09-08T15:45:55.479385Z"
       }
     },
     {
@@ -928,16 +1324,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7578,
+      "importance": 0.7578,
+      "importance_score": 0.7578,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9457,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -965,7 +1361,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T11:52:33.985068Z"
+        "scored_at": "2026-09-08T15:45:55.479385Z"
       }
     },
     {
@@ -1018,16 +1414,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7578,
+      "importance": 0.7578,
+      "importance_score": 0.7578,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9457,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1055,7 +1451,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T11:52:33.985068Z"
+        "scored_at": "2026-09-08T15:45:55.479385Z"
       }
     },
     {
@@ -1108,16 +1504,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7578,
+      "importance": 0.7578,
+      "importance_score": 0.7578,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9457,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1145,7 +1541,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T11:52:33.985068Z"
+        "scored_at": "2026-09-08T15:45:55.479385Z"
       }
     },
     {
@@ -1198,16 +1594,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7578,
+      "importance": 0.7578,
+      "importance_score": 0.7578,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9457,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1235,7 +1631,129 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T11:52:33.985068Z"
+        "scored_at": "2026-09-08T15:45:55.479385Z"
+      }
+    },
+    {
+      "story_id": "story_7874794ade94",
+      "title": "LibreOffice在声明其不具备AI功能后，下载量创下新纪录",
+      "title_ja": null,
+      "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai",
+      "primary_url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai",
+      "source": "manualdousuario.net",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "ea5b9f3e472f47c8024c42fa26364412b9d8764a",
+          "title": "LibreOffice在声明其不具备AI功能后，下载量创下新纪录",
+          "title_zh": "LibreOffice在声明其不具备AI功能后，下载量创下新纪录",
+          "title_ja": null,
+          "title_en": null,
+          "title_original": "LibreOffice在声明其不具备AI功能后，下载量创下新纪录",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai",
+          "source": "manualdousuario.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-08T14:42:54.403000Z"
+        },
+        {
+          "id": "026b1efde653c15a8a6455ed7ebe6e2ca673bf78",
+          "title": "LibreOffice在声明其不具备AI功能后，下载量创下新纪录 / LibreOffice breaks download records after declaring it has no AI features",
+          "title_zh": "LibreOffice在声明其不具备AI功能后，下载量创下新纪录",
+          "title_ja": null,
+          "title_en": "LibreOffice breaks download records after declaring it has no AI features",
+          "title_original": "LibreOffice breaks download records after declaring it has no AI features",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-08T14:05:57Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "manualdousuario.net"
+      ],
+      "items": [
+        {
+          "id": "ea5b9f3e472f47c8024c42fa26364412b9d8764a",
+          "title": "LibreOffice在声明其不具备AI功能后，下载量创下新纪录",
+          "title_zh": "LibreOffice在声明其不具备AI功能后，下载量创下新纪录",
+          "title_ja": null,
+          "title_en": null,
+          "title_original": "LibreOffice在声明其不具备AI功能后，下载量创下新纪录",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai",
+          "source": "manualdousuario.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-08T14:42:54.403000Z"
+        },
+        {
+          "id": "026b1efde653c15a8a6455ed7ebe6e2ca673bf78",
+          "title": "LibreOffice在声明其不具备AI功能后，下载量创下新纪录 / LibreOffice breaks download records after declaring it has no AI features",
+          "title_zh": "LibreOffice在声明其不具备AI功能后，下载量创下新纪录",
+          "title_ja": null,
+          "title_en": "LibreOffice breaks download records after declaring it has no AI features",
+          "title_original": "LibreOffice breaks download records after declaring it has no AI features",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-08T14:05:57Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5448,
+      "importance": 0.5448,
+      "importance_score": 0.5448,
+      "importance_label": "值得关注",
+      "importance_label_ja": "要注目",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9944,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-08T14:05:57Z",
+      "latest_at": "2026-09-08T14:42:54.403000Z",
+      "primary_item": {
+        "id": "ea5b9f3e472f47c8024c42fa26364412b9d8764a",
+        "title": "LibreOffice在声明其不具备AI功能后，下载量创下新纪录",
+        "title_zh": "LibreOffice在声明其不具备AI功能后，下载量创下新纪录",
+        "title_ja": null,
+        "title_en": null,
+        "title_original": "LibreOffice在声明其不具备AI功能后，下载量创下新纪录",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai",
+        "source": "manualdousuario.net",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-08T15:45:55.479385Z"
       }
     },
     {
@@ -1321,16 +1839,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.534,
-      "importance": 0.534,
-      "importance_score": 0.534,
+      "score": 0.5249,
+      "importance": 0.5249,
+      "importance_score": 0.5249,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9346,
+        "recency": 0.8838,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1357,7 +1875,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T11:52:33.985068Z"
+        "scored_at": "2026-09-08T15:45:55.479385Z"
       }
     },
     {
@@ -1410,16 +1928,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7578,
+      "importance": 0.7578,
+      "importance_score": 0.7578,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9457,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1447,521 +1965,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T11:52:33.985068Z"
-      }
-    },
-    {
-      "story_id": "story_66898bf564bc",
-      "title": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。",
-      "title_ja": null,
-      "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
-      "primary_url": "https://mcpherrin.ca/2026/09/07/rsa.html",
-      "source": "mcpherrin.ca",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "ddcf367323ae23486eadd57d59dc6db09a037139",
-          "title": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。",
-          "title_zh": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。",
-          "title_ja": null,
-          "title_en": null,
-          "title_original": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
-          "source": "mcpherrin.ca",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-08T02:51:51.808000Z"
-        },
-        {
-          "id": "08da2142657f98da837d7f4e1fb61f9bb6c427e5",
-          "title": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。 / I've factored the RSA keys of a Certificate Authority from the 90s",
-          "title_zh": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。",
-          "title_ja": null,
-          "title_en": "I've factored the RSA keys of a Certificate Authority from the 90s",
-          "title_original": "I've factored the RSA keys of a Certificate Authority from the 90s",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-08T01:16:59Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "mcpherrin.ca"
-      ],
-      "items": [
-        {
-          "id": "ddcf367323ae23486eadd57d59dc6db09a037139",
-          "title": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。",
-          "title_zh": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。",
-          "title_ja": null,
-          "title_en": null,
-          "title_original": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
-          "source": "mcpherrin.ca",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-08T02:51:51.808000Z"
-        },
-        {
-          "id": "08da2142657f98da837d7f4e1fb61f9bb6c427e5",
-          "title": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。 / I've factored the RSA keys of a Certificate Authority from the 90s",
-          "title_zh": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。",
-          "title_ja": null,
-          "title_en": "I've factored the RSA keys of a Certificate Authority from the 90s",
-          "title_original": "I've factored the RSA keys of a Certificate Authority from the 90s",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-08T01:16:59Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5253,
-      "importance": 0.5253,
-      "importance_score": 0.5253,
-      "importance_label": "值得关注",
-      "importance_label_ja": "要注目",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8862,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-08T01:16:59Z",
-      "latest_at": "2026-09-08T02:51:51.808000Z",
-      "primary_item": {
-        "id": "ddcf367323ae23486eadd57d59dc6db09a037139",
-        "title": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。",
-        "title_zh": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。",
-        "title_ja": null,
-        "title_en": null,
-        "title_original": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
-        "source": "mcpherrin.ca",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-08T11:52:33.985068Z"
-      }
-    },
-    {
-      "story_id": "story_0d185dfe820c",
-      "title": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制",
-      "title_ja": null,
-      "url": "https://news.ycombinator.com/item?id=49600233",
-      "primary_url": "https://news.ycombinator.com/item?id=49600233",
-      "source": "news.ycombinator.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "cb9c787070b7baa0c02b7b923d1b553f350b9b9a",
-          "title": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制",
-          "title_zh": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制",
-          "title_ja": null,
-          "title_en": null,
-          "title_original": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49600233",
-          "source": "news.ycombinator.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-07T18:58:53.306000Z"
-        },
-        {
-          "id": "4af3554a87533c58236162d04fdb1fc3aeb7f813",
-          "title": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制 / Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
-          "title_zh": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制",
-          "title_ja": null,
-          "title_en": "Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
-          "title_original": "Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49600233",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-07T16:40:32Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "news.ycombinator.com"
-      ],
-      "items": [
-        {
-          "id": "cb9c787070b7baa0c02b7b923d1b553f350b9b9a",
-          "title": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制",
-          "title_zh": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制",
-          "title_ja": null,
-          "title_en": null,
-          "title_original": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49600233",
-          "source": "news.ycombinator.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-07T18:58:53.306000Z"
-        },
-        {
-          "id": "4af3554a87533c58236162d04fdb1fc3aeb7f813",
-          "title": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制 / Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
-          "title_zh": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制",
-          "title_ja": null,
-          "title_en": "Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
-          "title_original": "Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49600233",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-07T16:40:32Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5081,
-      "importance": 0.5081,
-      "importance_score": 0.5081,
-      "importance_label": "值得关注",
-      "importance_label_ja": "要注目",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7908,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-07T16:40:32Z",
-      "latest_at": "2026-09-07T18:58:53.306000Z",
-      "primary_item": {
-        "id": "cb9c787070b7baa0c02b7b923d1b553f350b9b9a",
-        "title": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制",
-        "title_zh": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制",
-        "title_ja": null,
-        "title_en": null,
-        "title_original": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49600233",
-        "source": "news.ycombinator.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-08T11:52:33.985068Z"
-      }
-    },
-    {
-      "story_id": "story_292bbb5879c6",
-      "title": "AI医疗版图大扩张：Anthropic 持续加码，密集收购与布局生物技术赛道",
-      "title_ja": null,
-      "url": "https://www.aibase.com/news/30889",
-      "primary_url": "https://www.aibase.com/news/30889",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c305e8b256f5fe2b9bed331d2d673760b20a34de",
-          "title": "AI医疗版图大扩张：Anthropic 持续加码，密集收购与布局生物技术赛道",
-          "title_zh": "AI医疗版图大扩张：Anthropic 持续加码，密集收购与布局生物技术赛道",
-          "title_ja": null,
-          "title_en": null,
-          "title_original": "AI医疗版图大扩张：Anthropic 持续加码，密集收购与布局生物技术赛道",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30889",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-08T05:56:21.392139Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "c305e8b256f5fe2b9bed331d2d673760b20a34de",
-          "title": "AI医疗版图大扩张：Anthropic 持续加码，密集收购与布局生物技术赛道",
-          "title_zh": "AI医疗版图大扩张：Anthropic 持续加码，密集收购与布局生物技术赛道",
-          "title_ja": null,
-          "title_en": null,
-          "title_original": "AI医疗版图大扩张：Anthropic 持续加码，密集收购与布局生物技术赛道",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30889",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-08T05:56:21.392139Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7544,
-      "importance": 0.7544,
-      "importance_score": 0.7544,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9264,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-08T05:56:21.392139Z",
-      "latest_at": "2026-09-08T05:56:21.392139Z",
-      "primary_item": {
-        "id": "c305e8b256f5fe2b9bed331d2d673760b20a34de",
-        "title": "AI医疗版图大扩张：Anthropic 持续加码，密集收购与布局生物技术赛道",
-        "title_zh": "AI医疗版图大扩张：Anthropic 持续加码，密集收购与布局生物技术赛道",
-        "title_ja": null,
-        "title_en": null,
-        "title_original": "AI医疗版图大扩张：Anthropic 持续加码，密集收购与布局生物技术赛道",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30889",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-08T11:52:33.985068Z"
-      }
-    },
-    {
-      "story_id": "story_09dc0563f0f1",
-      "title": "AI彻底击碎“人机验证”：GPT-6 Astra零失误通关48个游戏关卡",
-      "title_ja": null,
-      "url": "https://www.aibase.com/news/30887",
-      "primary_url": "https://www.aibase.com/news/30887",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "503d621bbccc8384a07a1452dc59b29e4720e17b",
-          "title": "AI彻底击碎“人机验证”：GPT-6 Astra零失误通关48个游戏关卡",
-          "title_zh": "AI彻底击碎“人机验证”：GPT-6 Astra零失误通关48个游戏关卡",
-          "title_ja": null,
-          "title_en": null,
-          "title_original": "AI彻底击碎“人机验证”：GPT-6 Astra零失误通关48个游戏关卡",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30887",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-08T05:56:21.392139Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "503d621bbccc8384a07a1452dc59b29e4720e17b",
-          "title": "AI彻底击碎“人机验证”：GPT-6 Astra零失误通关48个游戏关卡",
-          "title_zh": "AI彻底击碎“人机验证”：GPT-6 Astra零失误通关48个游戏关卡",
-          "title_ja": null,
-          "title_en": null,
-          "title_original": "AI彻底击碎“人机验证”：GPT-6 Astra零失误通关48个游戏关卡",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30887",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-08T05:56:21.392139Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7544,
-      "importance": 0.7544,
-      "importance_score": 0.7544,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9264,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-08T05:56:21.392139Z",
-      "latest_at": "2026-09-08T05:56:21.392139Z",
-      "primary_item": {
-        "id": "503d621bbccc8384a07a1452dc59b29e4720e17b",
-        "title": "AI彻底击碎“人机验证”：GPT-6 Astra零失误通关48个游戏关卡",
-        "title_zh": "AI彻底击碎“人机验证”：GPT-6 Astra零失误通关48个游戏关卡",
-        "title_ja": null,
-        "title_en": null,
-        "title_original": "AI彻底击碎“人机验证”：GPT-6 Astra零失误通关48个游戏关卡",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30887",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-08T11:52:33.985068Z"
-      }
-    },
-    {
-      "story_id": "story_ec24c847b7a7",
-      "title": "AI换脸拟声、大数据杀熟迎来最严司法规矩：最高法发布首部涉人工智能纠纷案件意见",
-      "title_ja": null,
-      "url": "https://www.aibase.com/news/30897",
-      "primary_url": "https://www.aibase.com/news/30897",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "5befd144b4fb3cdfcc3a95c10a12d36c7661d23f",
-          "title": "AI换脸拟声、大数据杀熟迎来最严司法规矩：最高法发布首部涉人工智能纠纷案件意见",
-          "title_zh": "AI换脸拟声、大数据杀熟迎来最严司法规矩：最高法发布首部涉人工智能纠纷案件意见",
-          "title_ja": null,
-          "title_en": null,
-          "title_original": "AI换脸拟声、大数据杀熟迎来最严司法规矩：最高法发布首部涉人工智能纠纷案件意见",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30897",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-08T05:56:21.392139Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "5befd144b4fb3cdfcc3a95c10a12d36c7661d23f",
-          "title": "AI换脸拟声、大数据杀熟迎来最严司法规矩：最高法发布首部涉人工智能纠纷案件意见",
-          "title_zh": "AI换脸拟声、大数据杀熟迎来最严司法规矩：最高法发布首部涉人工智能纠纷案件意见",
-          "title_ja": null,
-          "title_en": null,
-          "title_original": "AI换脸拟声、大数据杀熟迎来最严司法规矩：最高法发布首部涉人工智能纠纷案件意见",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30897",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-08T05:56:21.392139Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7544,
-      "importance": 0.7544,
-      "importance_score": 0.7544,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9264,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-08T05:56:21.392139Z",
-      "latest_at": "2026-09-08T05:56:21.392139Z",
-      "primary_item": {
-        "id": "5befd144b4fb3cdfcc3a95c10a12d36c7661d23f",
-        "title": "AI换脸拟声、大数据杀熟迎来最严司法规矩：最高法发布首部涉人工智能纠纷案件意见",
-        "title_zh": "AI换脸拟声、大数据杀熟迎来最严司法规矩：最高法发布首部涉人工智能纠纷案件意见",
-        "title_ja": null,
-        "title_en": null,
-        "title_original": "AI换脸拟声、大数据杀熟迎来最严司法规矩：最高法发布首部涉人工智能纠纷案件意见",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30897",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-08T11:52:33.985068Z"
+        "scored_at": "2026-09-08T15:45:55.479385Z"
       }
     }
   ]
