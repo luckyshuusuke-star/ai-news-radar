@@ -1,201 +1,575 @@
 {
-  "generated_at": "2026-09-08T15:06:08.588864Z",
+  "generated_at": "2026-09-09T09:42:05.418927Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_93b4d1afb6fc",
-      "title": "Mistral 完成 30 亿欧元 D 轮融资，估值超 210 亿欧元 / Mistral raises €3B to make sovereign， open-weight AI the technology frontier Mistral today announced that it has raised €3 billion in a Series D funding round at a post-money valuation of more than €21 billion.",
-      "title_ja": null,
-      "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
-      "primary_url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
-      "source": "Mistral AI：News（网页）",
+      "story_id": "story_dc315e1882c1",
+      "title": "OpenAI 宣布以内部 AI 系统给出 Navier-Stokes 千禧年问题解答 / On the Navier–Stokes Millennium Prize Problem",
+      "title_ja": "ナビエ・ストークスのミレニアム賞問題について",
+      "url": "https://openai.com/index/navier-stokes-solution",
+      "primary_url": "https://openai.com/index/navier-stokes-solution",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "fc178d7640328bd881374f099f4ed158e8bb1540",
+          "title": "OpenAI 宣布以内部 AI 系统给出 Navier-Stokes 千禧年问题解答 / On the Navier–Stokes Millennium Prize Problem",
+          "title_zh": "OpenAI 宣布以内部 AI 系统给出 Navier-Stokes 千禧年问题解答",
+          "title_ja": "ナビエ・ストークスのミレニアム賞問題について",
+          "title_en": "On the Navier–Stokes Millennium Prize Problem",
+          "title_original": "On the Navier–Stokes Millennium Prize Problem",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/navier-stokes-solution",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-08T10:00:00Z"
+        },
+        {
+          "id": "bc52c016828eb7a34ebb943def2c26ed1f82d172",
+          "title": "OpenAI 宣布以内部 AI 系统给出 Navier-Stokes 千禧年问题解答 / On the Navier-Stokes Millennium Prize Problem",
+          "title_zh": "OpenAI 宣布以内部 AI 系统给出 Navier-Stokes 千禧年问题解答",
+          "title_ja": null,
+          "title_en": "On the Navier-Stokes Millennium Prize Problem",
+          "title_original": "On the Navier-Stokes Millennium Prize Problem",
+          "summary": "OpenAI 宣布其内部 AI 系统给出 Navier-Stokes 存在与光滑性问题的解答，证明初始光滑的流体可在有限时间内形成奇点，并附证明文稿与 Lean 形式化验证。",
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/navier-stokes-solution",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-08T10:00:00Z"
+        },
+        {
+          "id": "2939a41654030d09fc713c6f56cb393c55aefc77",
+          "title": "关于纳维-斯托克斯千禧奖问题",
+          "title_zh": "关于纳维-斯托克斯千禧奖问题",
+          "title_ja": null,
+          "title_en": null,
+          "title_original": "关于纳维-斯托克斯千禧奖问题",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/navier-stokes-solution",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-08T17:37:53.153000Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "OpenAI News",
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "openai.com"
+      ],
+      "items": [
+        {
+          "id": "fc178d7640328bd881374f099f4ed158e8bb1540",
+          "title": "OpenAI 宣布以内部 AI 系统给出 Navier-Stokes 千禧年问题解答 / On the Navier–Stokes Millennium Prize Problem",
+          "title_zh": "OpenAI 宣布以内部 AI 系统给出 Navier-Stokes 千禧年问题解答",
+          "title_ja": "ナビエ・ストークスのミレニアム賞問題について",
+          "title_en": "On the Navier–Stokes Millennium Prize Problem",
+          "title_original": "On the Navier–Stokes Millennium Prize Problem",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/navier-stokes-solution",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-08T10:00:00Z"
+        },
+        {
+          "id": "bc52c016828eb7a34ebb943def2c26ed1f82d172",
+          "title": "OpenAI 宣布以内部 AI 系统给出 Navier-Stokes 千禧年问题解答 / On the Navier-Stokes Millennium Prize Problem",
+          "title_zh": "OpenAI 宣布以内部 AI 系统给出 Navier-Stokes 千禧年问题解答",
+          "title_ja": null,
+          "title_en": "On the Navier-Stokes Millennium Prize Problem",
+          "title_original": "On the Navier-Stokes Millennium Prize Problem",
+          "summary": "OpenAI 宣布其内部 AI 系统给出 Navier-Stokes 存在与光滑性问题的解答，证明初始光滑的流体可在有限时间内形成奇点，并附证明文稿与 Lean 形式化验证。",
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/navier-stokes-solution",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-08T10:00:00Z"
+        },
+        {
+          "id": "2939a41654030d09fc713c6f56cb393c55aefc77",
+          "title": "关于纳维-斯托克斯千禧奖问题",
+          "title_zh": "关于纳维-斯托克斯千禧奖问题",
+          "title_ja": null,
+          "title_en": null,
+          "title_original": "关于纳维-斯托克斯千禧奖问题",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/navier-stokes-solution",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-08T17:37:53.153000Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8498,
+      "importance": 0.8498,
+      "importance_score": 0.8498,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7102,
+        "story_heat": 0.5
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-08T10:00:00Z",
+      "latest_at": "2026-09-08T17:37:53.153000Z",
+      "primary_item": {
+        "id": "fc178d7640328bd881374f099f4ed158e8bb1540",
+        "title": "OpenAI 宣布以内部 AI 系统给出 Navier-Stokes 千禧年问题解答 / On the Navier–Stokes Millennium Prize Problem",
+        "title_zh": "OpenAI 宣布以内部 AI 系统给出 Navier-Stokes 千禧年问题解答",
+        "title_ja": "ナビエ・ストークスのミレニアム賞問題について",
+        "title_en": "On the Navier–Stokes Millennium Prize Problem",
+        "title_original": "On the Navier–Stokes Millennium Prize Problem",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/navier-stokes-solution",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-09T09:49:54.586185Z"
+      }
+    },
+    {
+      "story_id": "story_d9a44d1c17f0",
+      "title": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认 / OpenAI fought dirty on career-making math problem， says NYU mathematician",
+      "title_ja": "ニューヨーク大学の数学者、OpenAIはキャリア形成の数学問題で泥臭い戦いをしたと語る",
+      "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
+      "primary_url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
+      "source": "TechCrunch：AI（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "f8b48d2f2bbcd06f7f26f01950712a2702b75663",
-          "title": "Mistral 完成 30 亿欧元 D 轮融资，估值超 210 亿欧元 / Mistral raises €3B to make sovereign， open-weight AI the technology frontier Mistral today announced that it has raised €3 billion in a Series D funding round at a post-money valuation of more than €21 billion.",
-          "title_zh": "Mistral 完成 30 亿欧元 D 轮融资，估值超 210 亿欧元",
-          "title_ja": null,
-          "title_en": "Mistral raises €3B to make sovereign， open-weight AI the technology frontier Mistral today announced that it has raised €3 billion in a Series D funding round at a post-money valuation of more than €21 billion.",
-          "title_original": "Mistral raises €3B to make sovereign， open-weight AI the technology frontier Mistral today announced that it has raised €3 billion in a Series D funding round at a post-money valuation of more than €21 billion.",
-          "summary": "Mistral 宣布完成 30 亿欧元 D 轮融资，投后估值超过 210 亿欧元，公司称这是欧洲科技公司有史以来最大的股权融资，距其成立三年。",
+          "id": "14280cff771d4b404eb65526b0858eefc8d03e8f",
+          "title": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认 / OpenAI fought dirty on career-making math problem， says NYU mathematician",
+          "title_zh": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认",
+          "title_ja": "ニューヨーク大学の数学者、OpenAIはキャリア形成の数学問題で泥臭い戦いをしたと語る",
+          "title_en": "OpenAI fought dirty on career-making math problem， says NYU mathematician",
+          "title_original": "OpenAI fought dirty on career-making math problem， says NYU mathematician",
+          "summary": "NYU 数学教授 Tristan Buckmaster 与 Anthropic 数学家 Levent Alpöge 公布针对 Navier-Stokes 存在与光滑性这一千禧年难题的三项证明初步结果，并称其研究进展信息被泄露给 OpenAI，对方随后用大量算力沿其独特路线追赶证明。",
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
-          "source": "Mistral AI：News（网页）",
+          "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
+          "source": "TechCrunch：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-08T05:58:27.839000Z"
+          "published_at": "2026-09-08T17:32:15Z"
         },
         {
-          "id": "c29c64c5acf58ef412fc779d4311fea3d8c8b34f",
-          "title": "Mistral 筹集 30 亿欧元，力图将主权、无权重限制的人工智能打造为技术前沿",
-          "title_zh": "Mistral 筹集 30 亿欧元，力图将主权、无权重限制的人工智能打造为技术前沿",
+          "id": "1ef9f7cc56b8124414fb2fb30b3b1e128aef75c5",
+          "title": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认 / OpenAI fought dirty on career-making math problem, says NYU mathematician",
+          "title_zh": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认",
+          "title_ja": null,
+          "title_en": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+          "title_original": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-08T17:32:15Z"
+        },
+        {
+          "id": "7f1305bda050497be8d04dba7d3dfac57b7f12a9",
+          "title": "OpenAI在一道可能决定职业生涯的数学题上使出下作手段",
+          "title_zh": "OpenAI在一道可能决定职业生涯的数学题上使出下作手段",
           "title_ja": null,
           "title_en": null,
-          "title_original": "Mistral 筹集 30 亿欧元，力图将主权、无权重限制的人工智能打造为技术前沿",
+          "title_original": "OpenAI在一道可能决定职业生涯的数学题上使出下作手段",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
-          "source": "mistral.ai",
+          "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
+          "source": "techcrunch.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-08T06:48:43.523000Z"
+          "published_at": "2026-09-08T21:38:06.785000Z"
         },
         {
-          "id": "f334cccbcaea5049296537c60a694c156e76b8aa",
-          "title": "Mistral 完成 30 亿欧元 D 轮融资，估值超 210 亿欧元 / Mistral raises €3B",
-          "title_zh": "Mistral 完成 30 亿欧元 D 轮融资，估值超 210 亿欧元",
+          "id": "f5ab1bcbfd771343bfb5e2e974a84c96f228f8fc",
+          "title": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认 / OpenAI fought dirty on career-making math problem",
+          "title_zh": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认",
           "title_ja": null,
-          "title_en": "Mistral raises €3B",
-          "title_original": "Mistral raises €3B",
+          "title_en": "OpenAI fought dirty on career-making math problem",
+          "title_original": "OpenAI fought dirty on career-making math problem",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-08T05:06:23Z"
-        },
-        {
-          "id": "8e190181b6c1c5d04ece2e4e2a266e969ad1d7b7",
-          "title": "Mistral 完成 30 亿欧元 D 轮融资，估值超 210 亿欧元 / Mistral raises €3B to make sovereign, open-weight AI the technology frontier",
-          "title_zh": "Mistral 完成 30 亿欧元 D 轮融资，估值超 210 亿欧元",
-          "title_ja": null,
-          "title_en": "Mistral raises €3B to make sovereign, open-weight AI the technology frontier",
-          "title_original": "Mistral raises €3B to make sovereign, open-weight AI the technology frontier",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-08T05:06:23Z"
+          "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-08T19:47:13Z"
         }
       ],
       "source_count": 4,
       "source_names": [
-        "Hacker News",
-        "Hacker News (黑客新闻)",
-        "Mistral AI：News（网页）",
-        "mistral.ai"
+        "Hacker News · 24h最热",
+        "TechCrunch AI",
+        "TechCrunch：AI（RSS）",
+        "techcrunch.com"
       ],
       "items": [
         {
-          "id": "f8b48d2f2bbcd06f7f26f01950712a2702b75663",
-          "title": "Mistral 完成 30 亿欧元 D 轮融资，估值超 210 亿欧元 / Mistral raises €3B to make sovereign， open-weight AI the technology frontier Mistral today announced that it has raised €3 billion in a Series D funding round at a post-money valuation of more than €21 billion.",
-          "title_zh": "Mistral 完成 30 亿欧元 D 轮融资，估值超 210 亿欧元",
-          "title_ja": null,
-          "title_en": "Mistral raises €3B to make sovereign， open-weight AI the technology frontier Mistral today announced that it has raised €3 billion in a Series D funding round at a post-money valuation of more than €21 billion.",
-          "title_original": "Mistral raises €3B to make sovereign， open-weight AI the technology frontier Mistral today announced that it has raised €3 billion in a Series D funding round at a post-money valuation of more than €21 billion.",
-          "summary": "Mistral 宣布完成 30 亿欧元 D 轮融资，投后估值超过 210 亿欧元，公司称这是欧洲科技公司有史以来最大的股权融资，距其成立三年。",
+          "id": "14280cff771d4b404eb65526b0858eefc8d03e8f",
+          "title": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认 / OpenAI fought dirty on career-making math problem， says NYU mathematician",
+          "title_zh": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认",
+          "title_ja": "ニューヨーク大学の数学者、OpenAIはキャリア形成の数学問題で泥臭い戦いをしたと語る",
+          "title_en": "OpenAI fought dirty on career-making math problem， says NYU mathematician",
+          "title_original": "OpenAI fought dirty on career-making math problem， says NYU mathematician",
+          "summary": "NYU 数学教授 Tristan Buckmaster 与 Anthropic 数学家 Levent Alpöge 公布针对 Navier-Stokes 存在与光滑性这一千禧年难题的三项证明初步结果，并称其研究进展信息被泄露给 OpenAI，对方随后用大量算力沿其独特路线追赶证明。",
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
-          "source": "Mistral AI：News（网页）",
+          "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
+          "source": "TechCrunch：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-08T05:58:27.839000Z"
+          "published_at": "2026-09-08T17:32:15Z"
         },
         {
-          "id": "c29c64c5acf58ef412fc779d4311fea3d8c8b34f",
-          "title": "Mistral 筹集 30 亿欧元，力图将主权、无权重限制的人工智能打造为技术前沿",
-          "title_zh": "Mistral 筹集 30 亿欧元，力图将主权、无权重限制的人工智能打造为技术前沿",
+          "id": "1ef9f7cc56b8124414fb2fb30b3b1e128aef75c5",
+          "title": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认 / OpenAI fought dirty on career-making math problem, says NYU mathematician",
+          "title_zh": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认",
+          "title_ja": null,
+          "title_en": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+          "title_original": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-08T17:32:15Z"
+        },
+        {
+          "id": "7f1305bda050497be8d04dba7d3dfac57b7f12a9",
+          "title": "OpenAI在一道可能决定职业生涯的数学题上使出下作手段",
+          "title_zh": "OpenAI在一道可能决定职业生涯的数学题上使出下作手段",
           "title_ja": null,
           "title_en": null,
-          "title_original": "Mistral 筹集 30 亿欧元，力图将主权、无权重限制的人工智能打造为技术前沿",
+          "title_original": "OpenAI在一道可能决定职业生涯的数学题上使出下作手段",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
-          "source": "mistral.ai",
+          "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
+          "source": "techcrunch.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-08T06:48:43.523000Z"
+          "published_at": "2026-09-08T21:38:06.785000Z"
         },
         {
-          "id": "f334cccbcaea5049296537c60a694c156e76b8aa",
-          "title": "Mistral 完成 30 亿欧元 D 轮融资，估值超 210 亿欧元 / Mistral raises €3B",
-          "title_zh": "Mistral 完成 30 亿欧元 D 轮融资，估值超 210 亿欧元",
+          "id": "f5ab1bcbfd771343bfb5e2e974a84c96f228f8fc",
+          "title": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认 / OpenAI fought dirty on career-making math problem",
+          "title_zh": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认",
           "title_ja": null,
-          "title_en": "Mistral raises €3B",
-          "title_original": "Mistral raises €3B",
+          "title_en": "OpenAI fought dirty on career-making math problem",
+          "title_original": "OpenAI fought dirty on career-making math problem",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-08T05:06:23Z"
-        },
-        {
-          "id": "8e190181b6c1c5d04ece2e4e2a266e969ad1d7b7",
-          "title": "Mistral 完成 30 亿欧元 D 轮融资，估值超 210 亿欧元 / Mistral raises €3B to make sovereign, open-weight AI the technology frontier",
-          "title_zh": "Mistral 完成 30 亿欧元 D 轮融资，估值超 210 亿欧元",
-          "title_ja": null,
-          "title_en": "Mistral raises €3B to make sovereign, open-weight AI the technology frontier",
-          "title_original": "Mistral raises €3B to make sovereign, open-weight AI the technology frontier",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-08T05:06:23Z"
+          "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-08T19:47:13Z"
         }
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8688,
-      "importance": 0.8688,
-      "importance_score": 0.8688,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
+      "score": 0.8441,
+      "importance": 0.8441,
+      "importance_score": 0.8441,
+      "importance_label": "多源热议",
+      "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 1.0,
+        "editorial": 0.85,
+        "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8765,
+        "recency": 0.7918,
         "story_heat": 0.75
       },
-      "category": "official",
+      "category": "multi_source",
       "reasons": [
         "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-08T05:06:23Z",
-      "latest_at": "2026-09-08T06:48:43.523000Z",
+      "earliest_at": "2026-09-08T17:32:15Z",
+      "latest_at": "2026-09-08T21:38:06.785000Z",
       "primary_item": {
-        "id": "f8b48d2f2bbcd06f7f26f01950712a2702b75663",
-        "title": "Mistral 完成 30 亿欧元 D 轮融资，估值超 210 亿欧元 / Mistral raises €3B to make sovereign， open-weight AI the technology frontier Mistral today announced that it has raised €3 billion in a Series D funding round at a post-money valuation of more than €21 billion.",
-        "title_zh": "Mistral 完成 30 亿欧元 D 轮融资，估值超 210 亿欧元",
-        "title_ja": null,
-        "title_en": "Mistral raises €3B to make sovereign， open-weight AI the technology frontier Mistral today announced that it has raised €3 billion in a Series D funding round at a post-money valuation of more than €21 billion.",
-        "title_original": "Mistral raises €3B to make sovereign， open-weight AI the technology frontier Mistral today announced that it has raised €3 billion in a Series D funding round at a post-money valuation of more than €21 billion.",
-        "summary": "Mistral 宣布完成 30 亿欧元 D 轮融资，投后估值超过 210 亿欧元，公司称这是欧洲科技公司有史以来最大的股权融资，距其成立三年。",
+        "id": "14280cff771d4b404eb65526b0858eefc8d03e8f",
+        "title": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认 / OpenAI fought dirty on career-making math problem， says NYU mathematician",
+        "title_zh": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认",
+        "title_ja": "ニューヨーク大学の数学者、OpenAIはキャリア形成の数学問題で泥臭い戦いをしたと語る",
+        "title_en": "OpenAI fought dirty on career-making math problem， says NYU mathematician",
+        "title_original": "OpenAI fought dirty on career-making math problem， says NYU mathematician",
+        "summary": "NYU 数学教授 Tristan Buckmaster 与 Anthropic 数学家 Levent Alpöge 公布针对 Navier-Stokes 存在与光滑性这一千禧年难题的三项证明初步结果，并称其研究进展信息被泄露给 OpenAI，对方随后用大量算力沿其独特路线追赶证明。",
         "summary_ja": null,
         "recommend_reason_zh": null,
-        "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
-        "source": "Mistral AI：News（网页）",
+        "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
+        "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T15:45:55.479385Z"
+        "scored_at": "2026-09-09T09:49:54.586185Z"
+      }
+    },
+    {
+      "story_id": "story_8876e98eb3be",
+      "title": "Copilot for JetBrains 中的企业管理沙箱 / Enterprise-managed sandbox in Copilot for JetBrains",
+      "title_ja": "JetBrains 用 Copilot のエンタープライズ管理サンドボックス",
+      "url": "https://github.blog/changelog/2026-09-08-enterprise-managed-sandbox-in-copilot-for-jetbrains",
+      "primary_url": "https://github.blog/changelog/2026-09-08-enterprise-managed-sandbox-in-copilot-for-jetbrains",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "08bd7a3f9b9cfa4a945437f9891e6a9506d8a2bf",
+          "title": "Copilot for JetBrains 中的企业管理沙箱 / Enterprise-managed sandbox in Copilot for JetBrains",
+          "title_zh": "Copilot for JetBrains 中的企业管理沙箱",
+          "title_ja": "JetBrains 用 Copilot のエンタープライズ管理サンドボックス",
+          "title_en": "Enterprise-managed sandbox in Copilot for JetBrains",
+          "title_original": "Enterprise-managed sandbox in Copilot for JetBrains",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-08-enterprise-managed-sandbox-in-copilot-for-jetbrains",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-09T02:43:38Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "08bd7a3f9b9cfa4a945437f9891e6a9506d8a2bf",
+          "title": "Copilot for JetBrains 中的企业管理沙箱 / Enterprise-managed sandbox in Copilot for JetBrains",
+          "title_zh": "Copilot for JetBrains 中的企业管理沙箱",
+          "title_ja": "JetBrains 用 Copilot のエンタープライズ管理サンドボックス",
+          "title_en": "Enterprise-managed sandbox in Copilot for JetBrains",
+          "title_original": "Enterprise-managed sandbox in Copilot for JetBrains",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-08-enterprise-managed-sandbox-in-copilot-for-jetbrains",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-09T02:43:38Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8408,
+      "importance": 0.8408,
+      "importance_score": 0.8408,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.94,
+        "recency": 0.9042,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-09T02:43:38Z",
+      "latest_at": "2026-09-09T02:43:38Z",
+      "primary_item": {
+        "id": "08bd7a3f9b9cfa4a945437f9891e6a9506d8a2bf",
+        "title": "Copilot for JetBrains 中的企业管理沙箱 / Enterprise-managed sandbox in Copilot for JetBrains",
+        "title_zh": "Copilot for JetBrains 中的企业管理沙箱",
+        "title_ja": "JetBrains 用 Copilot のエンタープライズ管理サンドボックス",
+        "title_en": "Enterprise-managed sandbox in Copilot for JetBrains",
+        "title_original": "Enterprise-managed sandbox in Copilot for JetBrains",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-08-enterprise-managed-sandbox-in-copilot-for-jetbrains",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-09T09:49:54.586185Z"
+      }
+    },
+    {
+      "story_id": "story_6c71d9371c7c",
+      "title": "GPT-5.6 Sol 如何帮助运行量子计算实验 / How GPT-5.6 Sol helps run quantum computing experiments",
+      "title_ja": "GPT-5.6 Sol が量子コンピューティング実験の実行にどのように役立つか",
+      "url": "https://openai.com/index/codex-quantum-computing-experiments",
+      "primary_url": "https://openai.com/index/codex-quantum-computing-experiments",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "13b2c55da9da69c3375d377db1ddbb2cd903e5ab",
+          "title": "GPT-5.6 Sol 如何帮助运行量子计算实验 / How GPT-5.6 Sol helps run quantum computing experiments",
+          "title_zh": "GPT-5.6 Sol 如何帮助运行量子计算实验",
+          "title_ja": "GPT-5.6 Sol が量子コンピューティング実験の実行にどのように役立つか",
+          "title_en": "How GPT-5.6 Sol helps run quantum computing experiments",
+          "title_original": "How GPT-5.6 Sol helps run quantum computing experiments",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/codex-quantum-computing-experiments",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-08T17:00:00Z"
+        },
+        {
+          "id": "351a4ba2c29a5a061bc92b822eb300b89b6a46fe",
+          "title": "GPT‑5.6 Sol 如何帮助运行量子计算实验 / How GPT‑5.6 Sol helps run quantum computing experiments",
+          "title_zh": "GPT‑5.6 Sol 如何帮助运行量子计算实验",
+          "title_ja": "GPT‑5.6 Sol が量子コンピューティング実験の実行にどのように役立つか",
+          "title_en": "How GPT‑5.6 Sol helps run quantum computing experiments",
+          "title_original": "How GPT‑5.6 Sol helps run quantum computing experiments",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/codex-quantum-computing-experiments",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-09T07:22:46Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "13b2c55da9da69c3375d377db1ddbb2cd903e5ab",
+          "title": "GPT-5.6 Sol 如何帮助运行量子计算实验 / How GPT-5.6 Sol helps run quantum computing experiments",
+          "title_zh": "GPT-5.6 Sol 如何帮助运行量子计算实验",
+          "title_ja": "GPT-5.6 Sol が量子コンピューティング実験の実行にどのように役立つか",
+          "title_en": "How GPT-5.6 Sol helps run quantum computing experiments",
+          "title_original": "How GPT-5.6 Sol helps run quantum computing experiments",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/codex-quantum-computing-experiments",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-08T17:00:00Z"
+        },
+        {
+          "id": "351a4ba2c29a5a061bc92b822eb300b89b6a46fe",
+          "title": "GPT‑5.6 Sol 如何帮助运行量子计算实验 / How GPT‑5.6 Sol helps run quantum computing experiments",
+          "title_zh": "GPT‑5.6 Sol 如何帮助运行量子计算实验",
+          "title_ja": "GPT‑5.6 Sol が量子コンピューティング実験の実行にどのように役立つか",
+          "title_en": "How GPT‑5.6 Sol helps run quantum computing experiments",
+          "title_original": "How GPT‑5.6 Sol helps run quantum computing experiments",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/codex-quantum-computing-experiments",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-09T07:22:46Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8464,
+      "importance": 0.8464,
+      "importance_score": 0.8464,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7857,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-08T17:00:00Z",
+      "latest_at": "2026-09-09T07:22:46Z",
+      "primary_item": {
+        "id": "13b2c55da9da69c3375d377db1ddbb2cd903e5ab",
+        "title": "GPT-5.6 Sol 如何帮助运行量子计算实验 / How GPT-5.6 Sol helps run quantum computing experiments",
+        "title_zh": "GPT-5.6 Sol 如何帮助运行量子计算实验",
+        "title_ja": "GPT-5.6 Sol が量子コンピューティング実験の実行にどのように役立つか",
+        "title_en": "How GPT-5.6 Sol helps run quantum computing experiments",
+        "title_original": "How GPT-5.6 Sol helps run quantum computing experiments",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/codex-quantum-computing-experiments",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-09T09:49:54.586185Z"
       }
     },
     {
       "story_id": "story_e9c8b7eef4d1",
-      "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+      "title": "为了谁的安全？拒绝主题的正确子集，而不是整个主题 / Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
       "title_ja": null,
       "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
       "primary_url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
@@ -204,8 +578,8 @@
       "sources": [
         {
           "id": "50d984ced7249d24ee585d7fe58912c5f4a5dad0",
-          "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-          "title_zh": null,
+          "title": "为了谁的安全？拒绝主题的正确子集，而不是整个主题 / Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+          "title_zh": "为了谁的安全？拒绝主题的正确子集，而不是整个主题",
           "title_ja": null,
           "title_en": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
           "title_original": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
@@ -226,8 +600,8 @@
       "items": [
         {
           "id": "50d984ced7249d24ee585d7fe58912c5f4a5dad0",
-          "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-          "title_zh": null,
+          "title": "为了谁的安全？拒绝主题的正确子集，而不是整个主题 / Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+          "title_zh": "为了谁的安全？拒绝主题的正确子集，而不是整个主题",
           "title_ja": null,
           "title_en": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
           "title_original": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
@@ -243,16 +617,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8581,
-      "importance": 0.8581,
-      "importance_score": 0.8581,
+      "score": 0.8162,
+      "importance": 0.8162,
+      "importance_score": 0.8162,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9897,
+        "recency": 0.7566,
         "story_heat": 0.0
       },
       "category": "official",
@@ -265,8 +639,8 @@
       "latest_at": "2026-09-08T14:23:07Z",
       "primary_item": {
         "id": "50d984ced7249d24ee585d7fe58912c5f4a5dad0",
-        "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-        "title_zh": null,
+        "title": "为了谁的安全？拒绝主题的正确子集，而不是整个主题 / Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+        "title_zh": "为了谁的安全？拒绝主题的正确子集，而不是整个主题",
         "title_ja": null,
         "title_en": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
         "title_original": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
@@ -281,103 +655,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T15:45:55.479385Z"
-      }
-    },
-    {
-      "story_id": "story_be047988843b",
-      "title": "The Work Now Within Reach",
-      "title_ja": null,
-      "url": "https://openai.com/index/the-work-now-within-reach",
-      "primary_url": "https://openai.com/index/the-work-now-within-reach",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "0c225103d8bbdb274acb89884cf1925952614089",
-          "title": "The Work Now Within Reach",
-          "title_zh": null,
-          "title_ja": null,
-          "title_en": "The Work Now Within Reach",
-          "title_original": "The Work Now Within Reach",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/the-work-now-within-reach",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-08T13:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "0c225103d8bbdb274acb89884cf1925952614089",
-          "title": "The Work Now Within Reach",
-          "title_zh": null,
-          "title_ja": null,
-          "title_en": "The Work Now Within Reach",
-          "title_original": "The Work Now Within Reach",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/the-work-now-within-reach",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-08T13:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8466,
-      "importance": 0.8466,
-      "importance_score": 0.8466,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9701,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-08T13:00:00Z",
-      "latest_at": "2026-09-08T13:00:00Z",
-      "primary_item": {
-        "id": "0c225103d8bbdb274acb89884cf1925952614089",
-        "title": "The Work Now Within Reach",
-        "title_zh": null,
-        "title_ja": null,
-        "title_en": "The Work Now Within Reach",
-        "title_original": "The Work Now Within Reach",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/the-work-now-within-reach",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-08T15:45:55.479385Z"
+        "scored_at": "2026-09-09T09:49:54.586185Z"
       }
     },
     {
       "story_id": "story_a927f6f1604a",
-      "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+      "title": "AlphaGenome Atlas：人类基因组中每个可能的 DNA 字母变化的预测图 / AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
       "title_ja": null,
       "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome",
       "primary_url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome",
@@ -386,8 +669,8 @@
       "sources": [
         {
           "id": "bd408293d32e3b3ed026e5399e9e52f6ca55576d",
-          "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
-          "title_zh": null,
+          "title": "AlphaGenome Atlas：人类基因组中每个可能的 DNA 字母变化的预测图 / AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+          "title_zh": "AlphaGenome Atlas：人类基因组中每个可能的 DNA 字母变化的预测图",
           "title_ja": null,
           "title_en": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
           "title_original": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
@@ -408,8 +691,8 @@
       "items": [
         {
           "id": "bd408293d32e3b3ed026e5399e9e52f6ca55576d",
-          "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
-          "title_zh": null,
+          "title": "AlphaGenome Atlas：人类基因组中每个可能的 DNA 字母变化的预测图 / AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+          "title_zh": "AlphaGenome Atlas：人类基因组中每个可能的 DNA 字母变化的预测图",
           "title_ja": null,
           "title_en": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
           "title_original": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
@@ -425,16 +708,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8412,
-      "importance": 0.8412,
-      "importance_score": 0.8412,
+      "score": 0.7994,
+      "importance": 0.7994,
+      "importance_score": 0.7994,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9843,
+        "recency": 0.7524,
         "story_heat": 0.0
       },
       "category": "official",
@@ -447,8 +730,8 @@
       "latest_at": "2026-09-08T14:00:15Z",
       "primary_item": {
         "id": "bd408293d32e3b3ed026e5399e9e52f6ca55576d",
-        "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
-        "title_zh": null,
+        "title": "AlphaGenome Atlas：人类基因组中每个可能的 DNA 字母变化的预测图 / AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+        "title_zh": "AlphaGenome Atlas：人类基因组中每个可能的 DNA 字母变化的预测图",
         "title_ja": null,
         "title_en": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
         "title_original": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
@@ -463,69 +746,249 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T15:45:55.479385Z"
+        "scored_at": "2026-09-09T09:49:54.586185Z"
       }
     },
     {
-      "story_id": "story_bac4ec48b080",
-      "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
-      "title_ja": null,
-      "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
-      "primary_url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_406d0c1436b1",
+      "title": "NSA、FBI 和 CISA 指控 DeepSeek、月之暗面等六家中国 AI 公司大规模提取美国模型知识 / The NSA， FBI and CISA accused DeepSeek， Moonshot AI， Alibaba， MiniMax， StepFun and http://Z.ai of ex…",
+      "title_ja": "NSA、FBI、CISA は、DeepSeek、Moonshot AI、Alibaba、MiniMax、StepFun、http://Z.ai を元の組織として告発しました。",
+      "url": "https://x.com/thexpin/status/2097615997616406833",
+      "primary_url": "https://x.com/thexpin/status/2097615997616406833",
+      "source": "X：X.PIN (@thexpin)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "93b14de03a3f2eafbd624b721df4b902bc60f879",
-          "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
-          "title_zh": null,
-          "title_ja": null,
-          "title_en": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
-          "title_original": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
-          "summary": null,
+          "id": "b74cae62cb6d9683e680062af57fec87e33d22fb",
+          "title": "NSA、FBI 和 CISA 指控 DeepSeek、月之暗面等六家中国 AI 公司大规模提取美国模型知识 / The NSA， FBI and CISA accused DeepSeek， Moonshot AI， Alibaba， MiniMax， StepFun and http://Z.ai of ex…",
+          "title_zh": "NSA、FBI 和 CISA 指控 DeepSeek、月之暗面等六家中国 AI 公司大规模提取美国模型知识",
+          "title_ja": "NSA、FBI、CISA は、DeepSeek、Moonshot AI、Alibaba、MiniMax、StepFun、http://Z.ai を元の組織として告発しました。",
+          "title_en": "The NSA， FBI and CISA accused DeepSeek， Moonshot AI， Alibaba， MiniMax， StepFun and http://Z.ai of ex…",
+          "title_original": "The NSA， FBI and CISA accused DeepSeek， Moonshot AI， Alibaba， MiniMax， StepFun and http://Z.ai of ex…",
+          "summary": "NSA、FBI 和 CISA 指控 DeepSeek、月之暗面（Moonshot AI）、阿里巴巴、MiniMax、阶跃星辰（StepFun）和 Z.ai 至少自 2024 年起以产业规模从美国模型中提取知识。机构称其通过多渠道路由请求以绕过规则并提升数学与编码能力；蒸馏在获授权时合法，争议核心在于访问与同意。美国开发商被敦促立即行动并共享情报，相关公司暂未回应。",
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-08T00:00:00Z"
+          "url": "https://x.com/thexpin/status/2097615997616406833",
+          "source": "X：X.PIN (@thexpin)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-09T09:20:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "X：X.PIN (@thexpin)"
       ],
       "items": [
         {
-          "id": "93b14de03a3f2eafbd624b721df4b902bc60f879",
-          "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
-          "title_zh": null,
-          "title_ja": null,
-          "title_en": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
-          "title_original": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
-          "summary": null,
+          "id": "b74cae62cb6d9683e680062af57fec87e33d22fb",
+          "title": "NSA、FBI 和 CISA 指控 DeepSeek、月之暗面等六家中国 AI 公司大规模提取美国模型知识 / The NSA， FBI and CISA accused DeepSeek， Moonshot AI， Alibaba， MiniMax， StepFun and http://Z.ai of ex…",
+          "title_zh": "NSA、FBI 和 CISA 指控 DeepSeek、月之暗面等六家中国 AI 公司大规模提取美国模型知识",
+          "title_ja": "NSA、FBI、CISA は、DeepSeek、Moonshot AI、Alibaba、MiniMax、StepFun、http://Z.ai を元の組織として告発しました。",
+          "title_en": "The NSA， FBI and CISA accused DeepSeek， Moonshot AI， Alibaba， MiniMax， StepFun and http://Z.ai of ex…",
+          "title_original": "The NSA， FBI and CISA accused DeepSeek， Moonshot AI， Alibaba， MiniMax， StepFun and http://Z.ai of ex…",
+          "summary": "NSA、FBI 和 CISA 指控 DeepSeek、月之暗面（Moonshot AI）、阿里巴巴、MiniMax、阶跃星辰（StepFun）和 Z.ai 至少自 2024 年起以产业规模从美国模型中提取知识。机构称其通过多渠道路由请求以绕过规则并提升数学与编码能力；蒸馏在获授权时合法，争议核心在于访问与同意。美国开发商被敦促立即行动并共享情报，相关公司暂未回应。",
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-08T00:00:00Z"
+          "url": "https://x.com/thexpin/status/2097615997616406833",
+          "source": "X：X.PIN (@thexpin)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-09T09:20:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8167,
-      "importance": 0.8167,
-      "importance_score": 0.8167,
+      "score": 0.7966,
+      "importance": 0.7966,
+      "importance_score": 0.7966,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.82,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9947,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-09T09:20:00Z",
+      "latest_at": "2026-09-09T09:20:00Z",
+      "primary_item": {
+        "id": "b74cae62cb6d9683e680062af57fec87e33d22fb",
+        "title": "NSA、FBI 和 CISA 指控 DeepSeek、月之暗面等六家中国 AI 公司大规模提取美国模型知识 / The NSA， FBI and CISA accused DeepSeek， Moonshot AI， Alibaba， MiniMax， StepFun and http://Z.ai of ex…",
+        "title_zh": "NSA、FBI 和 CISA 指控 DeepSeek、月之暗面等六家中国 AI 公司大规模提取美国模型知识",
+        "title_ja": "NSA、FBI、CISA は、DeepSeek、Moonshot AI、Alibaba、MiniMax、StepFun、http://Z.ai を元の組織として告発しました。",
+        "title_en": "The NSA， FBI and CISA accused DeepSeek， Moonshot AI， Alibaba， MiniMax， StepFun and http://Z.ai of ex…",
+        "title_original": "The NSA， FBI and CISA accused DeepSeek， Moonshot AI， Alibaba， MiniMax， StepFun and http://Z.ai of ex…",
+        "summary": "NSA、FBI 和 CISA 指控 DeepSeek、月之暗面（Moonshot AI）、阿里巴巴、MiniMax、阶跃星辰（StepFun）和 Z.ai 至少自 2024 年起以产业规模从美国模型中提取知识。机构称其通过多渠道路由请求以绕过规则并提升数学与编码能力；蒸馏在获授权时合法，争议核心在于访问与同意。美国开发商被敦促立即行动并共享情报，相关公司暂未回应。",
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://x.com/thexpin/status/2097615997616406833",
+        "source": "X：X.PIN (@thexpin)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-09T09:49:54.586185Z"
+      }
+    },
+    {
+      "story_id": "story_625fc1a7b32c",
+      "title": "美国政府指控 DeepSeek 等 6 家中国 AI 公司工业规模蒸馏美国模型 / In a new allegation， the U.S. government has accused 6 Chinese AI firms of using large-scale distill…",
+      "title_ja": "新たな申し立てとして、米国政府は中国のAI企業6社が大規模な蒸留技術を使用していると非難した。",
+      "url": "https://x.com/rohanpaul_ai/status/2097605329123147987",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2097605329123147987",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1620b5faa9067f76aea6d138ef3d777192a6a077",
+          "title": "美国政府指控 DeepSeek 等 6 家中国 AI 公司工业规模蒸馏美国模型 / In a new allegation， the U.S. government has accused 6 Chinese AI firms of using large-scale distill…",
+          "title_zh": "美国政府指控 DeepSeek 等 6 家中国 AI 公司工业规模蒸馏美国模型",
+          "title_ja": "新たな申し立てとして、米国政府は中国のAI企業6社が大規模な蒸留技術を使用していると非難した。",
+          "title_en": "In a new allegation， the U.S. government has accused 6 Chinese AI firms of using large-scale distill…",
+          "title_original": "In a new allegation， the U.S. government has accused 6 Chinese AI firms of using large-scale distill…",
+          "summary": "NSA、CISA 和 FBI 发布联合公告 AA26-251A，指控 DeepSeek、月之暗面、阿里、MiniMax、阶跃星辰和 Z .AI 自 2024 年底起对美国前沿模型进行工业规模蒸馏。",
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://x.com/rohanpaul_ai/status/2097605329123147987",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-09T08:37:36Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "items": [
+        {
+          "id": "1620b5faa9067f76aea6d138ef3d777192a6a077",
+          "title": "美国政府指控 DeepSeek 等 6 家中国 AI 公司工业规模蒸馏美国模型 / In a new allegation， the U.S. government has accused 6 Chinese AI firms of using large-scale distill…",
+          "title_zh": "美国政府指控 DeepSeek 等 6 家中国 AI 公司工业规模蒸馏美国模型",
+          "title_ja": "新たな申し立てとして、米国政府は中国のAI企業6社が大規模な蒸留技術を使用していると非難した。",
+          "title_en": "In a new allegation， the U.S. government has accused 6 Chinese AI firms of using large-scale distill…",
+          "title_original": "In a new allegation， the U.S. government has accused 6 Chinese AI firms of using large-scale distill…",
+          "summary": "NSA、CISA 和 FBI 发布联合公告 AA26-251A，指控 DeepSeek、月之暗面、阿里、MiniMax、阶跃星辰和 Z .AI 自 2024 年底起对美国前沿模型进行工业规模蒸馏。",
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://x.com/rohanpaul_ai/status/2097605329123147987",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-09T08:37:36Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7918,
+      "importance": 0.7918,
+      "importance_score": 0.7918,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9846,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-09T08:37:36Z",
+      "latest_at": "2026-09-09T08:37:36Z",
+      "primary_item": {
+        "id": "1620b5faa9067f76aea6d138ef3d777192a6a077",
+        "title": "美国政府指控 DeepSeek 等 6 家中国 AI 公司工业规模蒸馏美国模型 / In a new allegation， the U.S. government has accused 6 Chinese AI firms of using large-scale distill…",
+        "title_zh": "美国政府指控 DeepSeek 等 6 家中国 AI 公司工业规模蒸馏美国模型",
+        "title_ja": "新たな申し立てとして、米国政府は中国のAI企業6社が大規模な蒸留技術を使用していると非難した。",
+        "title_en": "In a new allegation， the U.S. government has accused 6 Chinese AI firms of using large-scale distill…",
+        "title_original": "In a new allegation， the U.S. government has accused 6 Chinese AI firms of using large-scale distill…",
+        "summary": "NSA、CISA 和 FBI 发布联合公告 AA26-251A，指控 DeepSeek、月之暗面、阿里、MiniMax、阶跃星辰和 Z .AI 自 2024 年底起对美国前沿模型进行工业规模蒸馏。",
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://x.com/rohanpaul_ai/status/2097605329123147987",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-09T09:49:54.586185Z"
+      }
+    },
+    {
+      "story_id": "story_cca71c225d5c",
+      "title": "GitHub Enterprise Server 3.22 现已全面发布 / GitHub Enterprise Server 3.22 is now generally available",
+      "title_ja": null,
+      "url": "https://github.blog/changelog/2026-09-08-github-enterprise-server-3-22-is-now-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-09-08-github-enterprise-server-3-22-is-now-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "81992c21c827e3d016b7b2c3b9c1b99e8713c4a3",
+          "title": "GitHub Enterprise Server 3.22 现已全面发布 / GitHub Enterprise Server 3.22 is now generally available",
+          "title_zh": "GitHub Enterprise Server 3.22 现已全面发布",
+          "title_ja": null,
+          "title_en": "GitHub Enterprise Server 3.22 is now generally available",
+          "title_original": "GitHub Enterprise Server 3.22 is now generally available",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-08-github-enterprise-server-3-22-is-now-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-08T21:52:42Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "81992c21c827e3d016b7b2c3b9c1b99e8713c4a3",
+          "title": "GitHub Enterprise Server 3.22 现已全面发布 / GitHub Enterprise Server 3.22 is now generally available",
+          "title_zh": "GitHub Enterprise Server 3.22 现已全面发布",
+          "title_ja": null,
+          "title_en": "GitHub Enterprise Server 3.22 is now generally available",
+          "title_original": "GitHub Enterprise Server 3.22 is now generally available",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-08-github-enterprise-server-3-22-is-now-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-08T21:52:42Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8157,
+      "importance": 0.8157,
+      "importance_score": 0.8157,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8041,
+        "ai_relevance": 0.87,
+        "recency": 0.843,
         "story_heat": 0.0
       },
       "category": "official",
@@ -534,19 +997,324 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-08T00:00:00Z",
-      "latest_at": "2026-09-08T00:00:00Z",
+      "earliest_at": "2026-09-08T21:52:42Z",
+      "latest_at": "2026-09-08T21:52:42Z",
       "primary_item": {
-        "id": "93b14de03a3f2eafbd624b721df4b902bc60f879",
-        "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
-        "title_zh": null,
+        "id": "81992c21c827e3d016b7b2c3b9c1b99e8713c4a3",
+        "title": "GitHub Enterprise Server 3.22 现已全面发布 / GitHub Enterprise Server 3.22 is now generally available",
+        "title_zh": "GitHub Enterprise Server 3.22 现已全面发布",
         "title_ja": null,
-        "title_en": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
-        "title_original": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+        "title_en": "GitHub Enterprise Server 3.22 is now generally available",
+        "title_original": "GitHub Enterprise Server 3.22 is now generally available",
         "summary": null,
         "summary_ja": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+        "url": "https://github.blog/changelog/2026-09-08-github-enterprise-server-3-22-is-now-generally-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-09T09:49:54.586185Z"
+      }
+    },
+    {
+      "story_id": "story_b5338694e8b0",
+      "title": "Thomas Wolf 认为 AI 数学尚未被解决，Navier-Stokes 结果更像反例搜索而非完整证明 / friends are regularly surprised when i say i don't think math is （yet） \"solved，\" so in the wake of t…",
+      "title_ja": "数学は（まだ）「解けていない」と私が言うと、友達はよく驚かれます。",
+      "url": "https://x.com/Thom_Wolf/status/2097615465698713666",
+      "primary_url": "https://x.com/Thom_Wolf/status/2097615465698713666",
+      "source": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "3adda3a872f085d2c23f9bf62e204fd40aa91aa4",
+          "title": "Thomas Wolf 认为 AI 数学尚未被解决，Navier-Stokes 结果更像反例搜索而非完整证明 / friends are regularly surprised when i say i don't think math is （yet） \"solved，\" so in the wake of t…",
+          "title_zh": "Thomas Wolf 认为 AI 数学尚未被解决，Navier-Stokes 结果更像反例搜索而非完整证明",
+          "title_ja": "数学は（まだ）「解けていない」と私が言うと、友達はよく驚かれます。",
+          "title_en": "friends are regularly surprised when i say i don't think math is （yet） \"solved，\" so in the wake of t…",
+          "title_original": "friends are regularly surprised when i say i don't think math is （yet） \"solved，\" so in the wake of t…",
+          "summary": "Hugging Face 联创 Thomas Wolf 回应 OpenAI 用下一代模型（强于 GPT-6 Astra）的 agent 群组证明 Navier-Stokes 千禧年问题猜想为假的结果，称其令人印象深刻。",
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://x.com/Thom_Wolf/status/2097615465698713666",
+          "source": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-09T09:17:53Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)"
+      ],
+      "items": [
+        {
+          "id": "3adda3a872f085d2c23f9bf62e204fd40aa91aa4",
+          "title": "Thomas Wolf 认为 AI 数学尚未被解决，Navier-Stokes 结果更像反例搜索而非完整证明 / friends are regularly surprised when i say i don't think math is （yet） \"solved，\" so in the wake of t…",
+          "title_zh": "Thomas Wolf 认为 AI 数学尚未被解决，Navier-Stokes 结果更像反例搜索而非完整证明",
+          "title_ja": "数学は（まだ）「解けていない」と私が言うと、友達はよく驚かれます。",
+          "title_en": "friends are regularly surprised when i say i don't think math is （yet） \"solved，\" so in the wake of t…",
+          "title_original": "friends are regularly surprised when i say i don't think math is （yet） \"solved，\" so in the wake of t…",
+          "summary": "Hugging Face 联创 Thomas Wolf 回应 OpenAI 用下一代模型（强于 GPT-6 Astra）的 agent 群组证明 Navier-Stokes 千禧年问题猜想为假的结果，称其令人印象深刻。",
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://x.com/Thom_Wolf/status/2097615465698713666",
+          "source": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-09T09:17:53Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7816,
+      "importance": 0.7816,
+      "importance_score": 0.7816,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9942,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-09T09:17:53Z",
+      "latest_at": "2026-09-09T09:17:53Z",
+      "primary_item": {
+        "id": "3adda3a872f085d2c23f9bf62e204fd40aa91aa4",
+        "title": "Thomas Wolf 认为 AI 数学尚未被解决，Navier-Stokes 结果更像反例搜索而非完整证明 / friends are regularly surprised when i say i don't think math is （yet） \"solved，\" so in the wake of t…",
+        "title_zh": "Thomas Wolf 认为 AI 数学尚未被解决，Navier-Stokes 结果更像反例搜索而非完整证明",
+        "title_ja": "数学は（まだ）「解けていない」と私が言うと、友達はよく驚かれます。",
+        "title_en": "friends are regularly surprised when i say i don't think math is （yet） \"solved，\" so in the wake of t…",
+        "title_original": "friends are regularly surprised when i say i don't think math is （yet） \"solved，\" so in the wake of t…",
+        "summary": "Hugging Face 联创 Thomas Wolf 回应 OpenAI 用下一代模型（强于 GPT-6 Astra）的 agent 群组证明 Navier-Stokes 千禧年问题猜想为假的结果，称其令人印象深刻。",
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://x.com/Thom_Wolf/status/2097615465698713666",
+        "source": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-09T09:49:54.586185Z"
+      }
+    },
+    {
+      "story_id": "story_4eab73573707",
+      "title": "曝 DeepSeek 聘请中信证券筹备科创板 IPO，目标年内递交申请",
+      "title_ja": "DeepSeekが科学技術イノベーション委員会のIPO準備のためにCITIC証券を雇用し、年内の申請提出を目指していることが明らかになった。",
+      "url": "https://www.ithome.com/1/000/188.htm",
+      "primary_url": "https://www.ithome.com/1/000/188.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "fa808e6855f412167058a091985bcbf806b32686",
+          "title": "曝 DeepSeek 聘请中信证券筹备科创板 IPO，目标年内递交申请",
+          "title_zh": "曝 DeepSeek 聘请中信证券筹备科创板 IPO，目标年内递交申请",
+          "title_ja": "DeepSeekが科学技術イノベーション委員会のIPO準備のためにCITIC証券を雇用し、年内の申請提出を目指していることが明らかになった。",
+          "title_en": null,
+          "title_original": "曝 DeepSeek 聘请中信证券筹备科创板 IPO，目标年内递交申请",
+          "summary": "路透社报道称，DeepSeek 已聘请中信证券筹备科创板上市，目标今年递交 IPO 申请、明年挂牌，募资将用于算力基建、模型研发、芯片自研与人才激励。公司正推进新一轮融资，目标估值约 5000 亿元人民币，此前 6 月完成约 74 亿美元首轮外部融资，投后估值超 500 亿美元；2026 年前 7 个月营收约 4.75 亿元。",
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/1/000/188.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-09T06:41:51Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "fa808e6855f412167058a091985bcbf806b32686",
+          "title": "曝 DeepSeek 聘请中信证券筹备科创板 IPO，目标年内递交申请",
+          "title_zh": "曝 DeepSeek 聘请中信证券筹备科创板 IPO，目标年内递交申请",
+          "title_ja": "DeepSeekが科学技術イノベーション委員会のIPO準備のためにCITIC証券を雇用し、年内の申請提出を目指していることが明らかになった。",
+          "title_en": null,
+          "title_original": "曝 DeepSeek 聘请中信证券筹备科创板 IPO，目标年内递交申请",
+          "summary": "路透社报道称，DeepSeek 已聘请中信证券筹备科创板上市，目标今年递交 IPO 申请、明年挂牌，募资将用于算力基建、模型研发、芯片自研与人才激励。公司正推进新一轮融资，目标估值约 5000 亿元人民币，此前 6 月完成约 74 亿美元首轮外部融资，投后估值超 500 亿美元；2026 年前 7 个月营收约 4.75 亿元。",
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/1/000/188.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-09T06:41:51Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.778,
+      "importance": 0.778,
+      "importance_score": 0.778,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9575,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-09T06:41:51Z",
+      "latest_at": "2026-09-09T06:41:51Z",
+      "primary_item": {
+        "id": "fa808e6855f412167058a091985bcbf806b32686",
+        "title": "曝 DeepSeek 聘请中信证券筹备科创板 IPO，目标年内递交申请",
+        "title_zh": "曝 DeepSeek 聘请中信证券筹备科创板 IPO，目标年内递交申请",
+        "title_ja": "DeepSeekが科学技術イノベーション委員会のIPO準備のためにCITIC証券を雇用し、年内の申請提出を目指していることが明らかになった。",
+        "title_en": null,
+        "title_original": "曝 DeepSeek 聘请中信证券筹备科创板 IPO，目标年内递交申请",
+        "summary": "路透社报道称，DeepSeek 已聘请中信证券筹备科创板上市，目标今年递交 IPO 申请、明年挂牌，募资将用于算力基建、模型研发、芯片自研与人才激励。公司正推进新一轮融资，目标估值约 5000 亿元人民币，此前 6 月完成约 74 亿美元首轮外部融资，投后估值超 500 亿美元；2026 年前 7 个月营收约 4.75 亿元。",
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/1/000/188.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-09T09:49:54.586185Z"
+      }
+    },
+    {
+      "story_id": "story_16900b8aedbb",
+      "title": "OpenAI 发布 ChatGPT Images 2.5 图像模型 / Introducing ChatGPT Images 2.5",
+      "title_ja": "ChatGPT イメージ 2.5 の紹介",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+      "primary_url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e403851c39788b25d33193c78b15146edbe25fd8",
+          "title": "OpenAI 发布 ChatGPT Images 2.5 图像模型 / Introducing ChatGPT Images 2.5",
+          "title_zh": "OpenAI 发布 ChatGPT Images 2.5 图像模型",
+          "title_ja": "ChatGPT イメージ 2.5 の紹介",
+          "title_en": "Introducing ChatGPT Images 2.5",
+          "title_original": "Introducing ChatGPT Images 2.5",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-08T11:30:00Z"
+        },
+        {
+          "id": "b38d0cf2066e85b3b2bd11f3b092d07b23275955",
+          "title": "OpenAI 发布 ChatGPT Images 2.5 图像模型 / ChatGPT Images 2.5",
+          "title_zh": "OpenAI 发布 ChatGPT Images 2.5 图像模型",
+          "title_ja": null,
+          "title_en": "ChatGPT Images 2.5",
+          "title_original": "ChatGPT Images 2.5",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-08T19:14:22.077000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "openai.com"
+      ],
+      "items": [
+        {
+          "id": "e403851c39788b25d33193c78b15146edbe25fd8",
+          "title": "OpenAI 发布 ChatGPT Images 2.5 图像模型 / Introducing ChatGPT Images 2.5",
+          "title_zh": "OpenAI 发布 ChatGPT Images 2.5 图像模型",
+          "title_ja": "ChatGPT イメージ 2.5 の紹介",
+          "title_en": "Introducing ChatGPT Images 2.5",
+          "title_original": "Introducing ChatGPT Images 2.5",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-08T11:30:00Z"
+        },
+        {
+          "id": "b38d0cf2066e85b3b2bd11f3b092d07b23275955",
+          "title": "OpenAI 发布 ChatGPT Images 2.5 图像模型 / ChatGPT Images 2.5",
+          "title_zh": "OpenAI 发布 ChatGPT Images 2.5 图像模型",
+          "title_ja": null,
+          "title_en": "ChatGPT Images 2.5",
+          "title_original": "ChatGPT Images 2.5",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-08T19:14:22.077000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8356,
+      "importance": 0.8356,
+      "importance_score": 0.8356,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7257,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-08T11:30:00Z",
+      "latest_at": "2026-09-08T19:14:22.077000Z",
+      "primary_item": {
+        "id": "e403851c39788b25d33193c78b15146edbe25fd8",
+        "title": "OpenAI 发布 ChatGPT Images 2.5 图像模型 / Introducing ChatGPT Images 2.5",
+        "title_zh": "OpenAI 发布 ChatGPT Images 2.5 图像模型",
+        "title_ja": "ChatGPT イメージ 2.5 の紹介",
+        "title_en": "Introducing ChatGPT Images 2.5",
+        "title_original": "Introducing ChatGPT Images 2.5",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -554,33 +1322,33 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T15:45:55.479385Z"
+        "scored_at": "2026-09-09T09:49:54.586185Z"
       }
     },
     {
-      "story_id": "story_c12e0d8f1817",
-      "title": "数学家巴克马斯特宣布多项方程 blowup 结果并公开与 OpenAI 沟通经过",
-      "title_ja": null,
-      "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
-      "primary_url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+      "story_id": "story_81a955344f56",
+      "title": "Simon Willison 评纳维-斯托克斯千禧年问题求解背后的 OpenAI 与 Anthropic 争议",
+      "title_ja": "Simon Willison が、ナビエ・ストークス ミレニアム問題解決の背後にある OpenAI と人類論の論争についてコメント",
+      "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes",
+      "primary_url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes",
       "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "ab134c36a54fea581c80987fa5900787b6c80ef1",
-          "title": "数学家巴克马斯特宣布多项方程 blowup 结果并公开与 OpenAI 沟通经过",
-          "title_zh": "数学家巴克马斯特宣布多项方程 blowup 结果并公开与 OpenAI 沟通经过",
-          "title_ja": null,
+          "id": "4ca6399dafe0adffa194169ae0a6d73115a35b73",
+          "title": "Simon Willison 评纳维-斯托克斯千禧年问题求解背后的 OpenAI 与 Anthropic 争议",
+          "title_zh": "Simon Willison 评纳维-斯托克斯千禧年问题求解背后的 OpenAI 与 Anthropic 争议",
+          "title_ja": "Simon Willison が、ナビエ・ストークス ミレニアム問題解決の背後にある OpenAI と人類論の論争についてコメント",
           "title_en": null,
-          "title_original": "数学家巴克马斯特宣布多项方程 blowup 结果并公开与 OpenAI 沟通经过",
-          "summary": "特里斯坦·巴克马斯特（Tristan Buckmaster）与 Levent Alpöge 公开三项有限时间 blowup 结果，涵盖带光滑强迫的不可压缩多孔介质方程。",
+          "title_original": "Simon Willison 评纳维-斯托克斯千禧年问题求解背后的 OpenAI 与 Anthropic 争议",
+          "summary": "Simon Willison 评论 OpenAI 用未发布模型在约 88 小时内求解纳维-斯托克斯存在性与光滑性问题，并经 GPT-6 Astra 完成 17 小时 Lean 形式化验证。",
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+          "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-08T07:20:02.739000Z"
+          "published_at": "2026-09-09T07:10:03.765000Z"
         }
       ],
       "source_count": 1,
@@ -589,34 +1357,34 @@
       ],
       "items": [
         {
-          "id": "ab134c36a54fea581c80987fa5900787b6c80ef1",
-          "title": "数学家巴克马斯特宣布多项方程 blowup 结果并公开与 OpenAI 沟通经过",
-          "title_zh": "数学家巴克马斯特宣布多项方程 blowup 结果并公开与 OpenAI 沟通经过",
-          "title_ja": null,
+          "id": "4ca6399dafe0adffa194169ae0a6d73115a35b73",
+          "title": "Simon Willison 评纳维-斯托克斯千禧年问题求解背后的 OpenAI 与 Anthropic 争议",
+          "title_zh": "Simon Willison 评纳维-斯托克斯千禧年问题求解背后的 OpenAI 与 Anthropic 争议",
+          "title_ja": "Simon Willison が、ナビエ・ストークス ミレニアム問題解決の背後にある OpenAI と人類論の論争についてコメント",
           "title_en": null,
-          "title_original": "数学家巴克马斯特宣布多项方程 blowup 结果并公开与 OpenAI 沟通经过",
-          "summary": "特里斯坦·巴克马斯特（Tristan Buckmaster）与 Levent Alpöge 公开三项有限时间 blowup 结果，涵盖带光滑强迫的不可压缩多孔介质方程。",
+          "title_original": "Simon Willison 评纳维-斯托克斯千禧年问题求解背后的 OpenAI 与 Anthropic 争议",
+          "summary": "Simon Willison 评论 OpenAI 用未发布模型在约 88 小时内求解纳维-斯托克斯存在性与光滑性问题，并经 GPT-6 Astra 完成 17 小时 Lean 形式化验证。",
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+          "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-08T07:20:02.739000Z"
+          "published_at": "2026-09-09T07:10:03.765000Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7785,
-      "importance": 0.7785,
-      "importance_score": 0.7785,
+      "score": 0.7731,
+      "importance": 0.7731,
+      "importance_score": 0.7731,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
-        "editorial": 0.82,
+        "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8939,
+        "recency": 0.9641,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -624,19 +1392,19 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-08T07:20:02.739000Z",
-      "latest_at": "2026-09-08T07:20:02.739000Z",
+      "earliest_at": "2026-09-09T07:10:03.765000Z",
+      "latest_at": "2026-09-09T07:10:03.765000Z",
       "primary_item": {
-        "id": "ab134c36a54fea581c80987fa5900787b6c80ef1",
-        "title": "数学家巴克马斯特宣布多项方程 blowup 结果并公开与 OpenAI 沟通经过",
-        "title_zh": "数学家巴克马斯特宣布多项方程 blowup 结果并公开与 OpenAI 沟通经过",
-        "title_ja": null,
+        "id": "4ca6399dafe0adffa194169ae0a6d73115a35b73",
+        "title": "Simon Willison 评纳维-斯托克斯千禧年问题求解背后的 OpenAI 与 Anthropic 争议",
+        "title_zh": "Simon Willison 评纳维-斯托克斯千禧年问题求解背后的 OpenAI 与 Anthropic 争议",
+        "title_ja": "Simon Willison が、ナビエ・ストークス ミレニアム問題解決の背後にある OpenAI と人類論の論争についてコメント",
         "title_en": null,
-        "title_original": "数学家巴克马斯特宣布多项方程 blowup 结果并公开与 OpenAI 沟通经过",
-        "summary": "特里斯坦·巴克马斯特（Tristan Buckmaster）与 Levent Alpöge 公开三项有限时间 blowup 结果，涵盖带光滑强迫的不可压缩多孔介质方程。",
+        "title_original": "Simon Willison 评纳维-斯托克斯千禧年问题求解背后的 OpenAI 与 Anthropic 争议",
+        "summary": "Simon Willison 评论 OpenAI 用未发布模型在约 88 小时内求解纳维-斯托克斯存在性与光滑性问题，并经 GPT-6 Astra 完成 17 小时 Lean 形式化验证。",
         "summary_ja": null,
         "recommend_reason_zh": null,
-        "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+        "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       },
@@ -644,33 +1412,33 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T15:45:55.479385Z"
+        "scored_at": "2026-09-09T09:49:54.586185Z"
       }
     },
     {
-      "story_id": "story_bbef342e3266",
-      "title": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
-      "title_ja": null,
-      "url": "https://www.aibase.com/news/30908",
-      "primary_url": "https://www.aibase.com/news/30908",
+      "story_id": "story_21118e655f54",
+      "title": "2026外滩大会探营：当AI开始干活，一种新经济正在形成",
+      "title_ja": "2026 年外灘カンファレンス ツアー: AI が機能し始めると、新しい経済が形成されます",
+      "url": "https://www.aibase.com/news/30934",
+      "primary_url": "https://www.aibase.com/news/30934",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "f3e4c26f10b008f459cce85b20ee1e276468981e",
-          "title": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
-          "title_zh": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
-          "title_ja": null,
+          "id": "5bd8bd58734b136e8e75ad4f1b82e70ad5ad161e",
+          "title": "2026外滩大会探营：当AI开始干活，一种新经济正在形成",
+          "title_zh": "2026外滩大会探营：当AI开始干活，一种新经济正在形成",
+          "title_ja": "2026 年外灘カンファレンス ツアー: AI が機能し始めると、新しい経済が形成されます",
           "title_en": null,
-          "title_original": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
+          "title_original": "2026外滩大会探营：当AI开始干活，一种新经济正在形成",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30908",
+          "url": "https://www.aibase.com/news/30934",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-08T11:14:01.903475Z"
+          "published_at": "2026-09-09T09:42:05.418927Z"
         }
       ],
       "source_count": 1,
@@ -679,34 +1447,34 @@
       ],
       "items": [
         {
-          "id": "f3e4c26f10b008f459cce85b20ee1e276468981e",
-          "title": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
-          "title_zh": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
-          "title_ja": null,
+          "id": "5bd8bd58734b136e8e75ad4f1b82e70ad5ad161e",
+          "title": "2026外滩大会探营：当AI开始干活，一种新经济正在形成",
+          "title_zh": "2026外滩大会探营：当AI开始干活，一种新经济正在形成",
+          "title_ja": "2026 年外灘カンファレンス ツアー: AI が機能し始めると、新しい経済が形成されます",
           "title_en": null,
-          "title_original": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
+          "title_original": "2026外滩大会探营：当AI开始干活，一种新经济正在形成",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30908",
+          "url": "https://www.aibase.com/news/30934",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-08T11:14:01.903475Z"
+          "published_at": "2026-09-09T09:42:05.418927Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7578,
-      "importance": 0.7578,
-      "importance_score": 0.7578,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9457,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -714,19 +1482,19 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-08T11:14:01.903475Z",
-      "latest_at": "2026-09-08T11:14:01.903475Z",
+      "earliest_at": "2026-09-09T09:42:05.418927Z",
+      "latest_at": "2026-09-09T09:42:05.418927Z",
       "primary_item": {
-        "id": "f3e4c26f10b008f459cce85b20ee1e276468981e",
-        "title": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
-        "title_zh": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
-        "title_ja": null,
+        "id": "5bd8bd58734b136e8e75ad4f1b82e70ad5ad161e",
+        "title": "2026外滩大会探营：当AI开始干活，一种新经济正在形成",
+        "title_zh": "2026外滩大会探营：当AI开始干活，一种新经济正在形成",
+        "title_ja": "2026 年外灘カンファレンス ツアー: AI が機能し始めると、新しい経済が形成されます",
         "title_en": null,
-        "title_original": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
+        "title_original": "2026外滩大会探营：当AI开始干活，一种新经济正在形成",
         "summary": null,
         "summary_ja": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30908",
+        "url": "https://www.aibase.com/news/30934",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -734,1238 +1502,547 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T15:45:55.479385Z"
+        "scored_at": "2026-09-09T09:49:54.586185Z"
       }
     },
     {
-      "story_id": "story_f0b41f3df1cc",
-      "title": "GPT-6 Astra操控Blender保姆级教程：三种玩法与踩坑实录",
+      "story_id": "story_d7d617c533bb",
+      "title": "Anthropic 讲解用 Claude Platform 降低成本并提升性能的三个方法 / https://x.com/i/article/2095208140753317888",
       "title_ja": null,
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686056&idx=1&sn=c1710404c08cf3201da27f4d53f94940",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686056&idx=1&sn=c1710404c08cf3201da27f4d53f94940",
-      "source": "公众号：数字生命卡兹克",
+      "url": "https://x.com/ClaudeDevs/status/2097369738968195513",
+      "primary_url": "https://x.com/ClaudeDevs/status/2097369738968195513",
+      "source": "X：Claude Devs (@ClaudeDevs)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "1d18c2369bbc6958848b9af98310580002d1fcf7",
-          "title": "GPT-6 Astra操控Blender保姆级教程：三种玩法与踩坑实录",
-          "title_zh": "GPT-6 Astra操控Blender保姆级教程：三种玩法与踩坑实录",
+          "id": "7172237672ceb1ceb3c104e4eed0894ac09e1d77",
+          "title": "Anthropic 讲解用 Claude Platform 降低成本并提升性能的三个方法 / https://x.com/i/article/2095208140753317888",
+          "title_zh": "Anthropic 讲解用 Claude Platform 降低成本并提升性能的三个方法",
           "title_ja": null,
-          "title_en": null,
-          "title_original": "GPT-6 Astra操控Blender保姆级教程：三种玩法与踩坑实录",
-          "summary": "作者数字生命卡兹克发布GPT-6 Astra操控Blender的小白教程，介绍前期安装、官方MCP与Computer Use插件配置，并实测三种玩法。Computer Use花约4小时搭出天坛祈年殿，但耗掉200美刀Pro会员近半额度；MCP更快，可完成摩托车建模与组装动画，但复杂任务会单次运行超时，可拆分步骤或用CLI执行Python脚本解决。",
+          "title_en": "https://x.com/i/article/2095208140753317888",
+          "title_original": "https://x.com/i/article/2095208140753317888",
+          "summary": "Anthropic 团队文章指出，优化 prompt cache 命中率、清除升级到前沿 Claude 模型后的提示词反模式、校准 effort 三个手段可在不牺牲性能的情况下降低成本。",
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686056&idx=1&sn=c1710404c08cf3201da27f4d53f94940",
-          "source": "公众号：数字生命卡兹克",
+          "url": "https://x.com/ClaudeDevs/status/2097369738968195513",
+          "source": "X：Claude Devs (@ClaudeDevs)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-08T00:17:23Z"
+          "published_at": "2026-09-08T17:01:27Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "公众号：数字生命卡兹克"
+        "X：Claude Devs (@ClaudeDevs)"
       ],
       "items": [
         {
-          "id": "1d18c2369bbc6958848b9af98310580002d1fcf7",
-          "title": "GPT-6 Astra操控Blender保姆级教程：三种玩法与踩坑实录",
-          "title_zh": "GPT-6 Astra操控Blender保姆级教程：三种玩法与踩坑实录",
+          "id": "7172237672ceb1ceb3c104e4eed0894ac09e1d77",
+          "title": "Anthropic 讲解用 Claude Platform 降低成本并提升性能的三个方法 / https://x.com/i/article/2095208140753317888",
+          "title_zh": "Anthropic 讲解用 Claude Platform 降低成本并提升性能的三个方法",
           "title_ja": null,
-          "title_en": null,
-          "title_original": "GPT-6 Astra操控Blender保姆级教程：三种玩法与踩坑实录",
-          "summary": "作者数字生命卡兹克发布GPT-6 Astra操控Blender的小白教程，介绍前期安装、官方MCP与Computer Use插件配置，并实测三种玩法。Computer Use花约4小时搭出天坛祈年殿，但耗掉200美刀Pro会员近半额度；MCP更快，可完成摩托车建模与组装动画，但复杂任务会单次运行超时，可拆分步骤或用CLI执行Python脚本解决。",
+          "title_en": "https://x.com/i/article/2095208140753317888",
+          "title_original": "https://x.com/i/article/2095208140753317888",
+          "summary": "Anthropic 团队文章指出，优化 prompt cache 命中率、清除升级到前沿 Claude 模型后的提示词反模式、校准 effort 三个手段可在不牺牲性能的情况下降低成本。",
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686056&idx=1&sn=c1710404c08cf3201da27f4d53f94940",
-          "source": "公众号：数字生命卡兹克",
+          "url": "https://x.com/ClaudeDevs/status/2097369738968195513",
+          "source": "X：Claude Devs (@ClaudeDevs)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-08T00:17:23Z"
+          "published_at": "2026-09-08T17:01:27Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7449,
-      "importance": 0.7449,
-      "importance_score": 0.7449,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
+      "importance_breakdown": {
+        "editorial": 0.67,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.786,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-08T17:01:27Z",
+      "latest_at": "2026-09-08T17:01:27Z",
+      "primary_item": {
+        "id": "7172237672ceb1ceb3c104e4eed0894ac09e1d77",
+        "title": "Anthropic 讲解用 Claude Platform 降低成本并提升性能的三个方法 / https://x.com/i/article/2095208140753317888",
+        "title_zh": "Anthropic 讲解用 Claude Platform 降低成本并提升性能的三个方法",
+        "title_ja": null,
+        "title_en": "https://x.com/i/article/2095208140753317888",
+        "title_original": "https://x.com/i/article/2095208140753317888",
+        "summary": "Anthropic 团队文章指出，优化 prompt cache 命中率、清除升级到前沿 Claude 模型后的提示词反模式、校准 effort 三个手段可在不牺牲性能的情况下降低成本。",
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://x.com/ClaudeDevs/status/2097369738968195513",
+        "source": "X：Claude Devs (@ClaudeDevs)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-09T09:49:54.586185Z"
+      }
+    },
+    {
+      "story_id": "story_8cad3bc87ed3",
+      "title": "OpenAI 上线 GPT Image 2.5，作者实测新版与 image2 的生图差异",
+      "title_ja": null,
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247510824&idx=1&sn=025a8b7c5fec54d8a00c8632f55f8d98",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247510824&idx=1&sn=025a8b7c5fec54d8a00c8632f55f8d98",
+      "source": "公众号：卡尔的AI沃茨",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ee16b6ca62e0147f97f9b39244a01722e89f88ea",
+          "title": "OpenAI 上线 GPT Image 2.5，作者实测新版与 image2 的生图差异",
+          "title_zh": "OpenAI 上线 GPT Image 2.5，作者实测新版与 image2 的生图差异",
+          "title_ja": null,
+          "title_en": null,
+          "title_original": "OpenAI 上线 GPT Image 2.5，作者实测新版与 image2 的生图差异",
+          "summary": "OpenAI 上线 GPT Image 2.5，主打更快生成、更高清、多轮编辑一致性和区域标注精修，并新增涂鸦绘图与 15 个图片模版功能。API 同步发布 GPT-Image-2.5 Flare（速度提升 50%）和 GPT-Image-2.5 Sunburst（更高精度）。",
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247510824&idx=1&sn=025a8b7c5fec54d8a00c8632f55f8d98",
+          "source": "公众号：卡尔的AI沃茨",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-09T00:27:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：卡尔的AI沃茨"
+      ],
+      "items": [
+        {
+          "id": "ee16b6ca62e0147f97f9b39244a01722e89f88ea",
+          "title": "OpenAI 上线 GPT Image 2.5，作者实测新版与 image2 的生图差异",
+          "title_zh": "OpenAI 上线 GPT Image 2.5，作者实测新版与 image2 的生图差异",
+          "title_ja": null,
+          "title_en": null,
+          "title_original": "OpenAI 上线 GPT Image 2.5，作者实测新版与 image2 的生图差异",
+          "summary": "OpenAI 上线 GPT Image 2.5，主打更快生成、更高清、多轮编辑一致性和区域标注精修，并新增涂鸦绘图与 15 个图片模版功能。API 同步发布 GPT-Image-2.5 Flare（速度提升 50%）和 GPT-Image-2.5 Sunburst（更高精度）。",
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247510824&idx=1&sn=025a8b7c5fec54d8a00c8632f55f8d98",
+          "source": "公众号：卡尔的AI沃茨",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-09T00:27:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7601,
+      "importance": 0.7601,
+      "importance_score": 0.7601,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8749,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-09T00:27:00Z",
+      "latest_at": "2026-09-09T00:27:00Z",
+      "primary_item": {
+        "id": "ee16b6ca62e0147f97f9b39244a01722e89f88ea",
+        "title": "OpenAI 上线 GPT Image 2.5，作者实测新版与 image2 的生图差异",
+        "title_zh": "OpenAI 上线 GPT Image 2.5，作者实测新版与 image2 的生图差异",
+        "title_ja": null,
+        "title_en": null,
+        "title_original": "OpenAI 上线 GPT Image 2.5，作者实测新版与 image2 的生图差异",
+        "summary": "OpenAI 上线 GPT Image 2.5，主打更快生成、更高清、多轮编辑一致性和区域标注精修，并新增涂鸦绘图与 15 个图片模版功能。API 同步发布 GPT-Image-2.5 Flare（速度提升 50%）和 GPT-Image-2.5 Sunburst（更高精度）。",
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247510824&idx=1&sn=025a8b7c5fec54d8a00c8632f55f8d98",
+        "source": "公众号：卡尔的AI沃茨",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-09T09:49:54.586185Z"
+      }
+    },
+    {
+      "story_id": "story_5a7121bb1c48",
+      "title": "Emad Mostaque 称 OpenAI 智能体求解 Navier-Stokes 千禧年难题是迈向 ASI 的里程碑 / Landmark event on the way to ASI， congratulations to the team Just because one solution showing blo…",
+      "title_ja": null,
+      "url": "https://x.com/EMostaque/status/2097378223138959719",
+      "primary_url": "https://x.com/EMostaque/status/2097378223138959719",
+      "source": "X：Emad Mostaque (@EMostaque)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f79311cc2705e435bda8295e260f4ea002ba881a",
+          "title": "Emad Mostaque 称 OpenAI 智能体求解 Navier-Stokes 千禧年难题是迈向 ASI 的里程碑 / Landmark event on the way to ASI， congratulations to the team Just because one solution showing blo…",
+          "title_zh": "Emad Mostaque 称 OpenAI 智能体求解 Navier-Stokes 千禧年难题是迈向 ASI 的里程碑",
+          "title_ja": null,
+          "title_en": "Landmark event on the way to ASI， congratulations to the team Just because one solution showing blo…",
+          "title_original": "Landmark event on the way to ASI， congratulations to the team Just because one solution showing blo…",
+          "summary": "Emad Mostaque 转发 OpenAI 的公告并评论称这是迈向 ASI 的里程碑事件。OpenAI 宣布由一组智能体使用显著强于 GPT-6 Astra 的下一代模型，给出了 Navier-Stokes 千禧年大奖难题的一个 blow up 解，该问题涉及三维光滑流体运动的描述是否会崩溃，约 90 年未解。",
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://x.com/EMostaque/status/2097378223138959719",
+          "source": "X：Emad Mostaque (@EMostaque)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-08T17:35:10Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Emad Mostaque (@EMostaque)"
+      ],
+      "items": [
+        {
+          "id": "f79311cc2705e435bda8295e260f4ea002ba881a",
+          "title": "Emad Mostaque 称 OpenAI 智能体求解 Navier-Stokes 千禧年难题是迈向 ASI 的里程碑 / Landmark event on the way to ASI， congratulations to the team Just because one solution showing blo…",
+          "title_zh": "Emad Mostaque 称 OpenAI 智能体求解 Navier-Stokes 千禧年难题是迈向 ASI 的里程碑",
+          "title_ja": null,
+          "title_en": "Landmark event on the way to ASI， congratulations to the team Just because one solution showing blo…",
+          "title_original": "Landmark event on the way to ASI， congratulations to the team Just because one solution showing blo…",
+          "summary": "Emad Mostaque 转发 OpenAI 的公告并评论称这是迈向 ASI 的里程碑事件。OpenAI 宣布由一组智能体使用显著强于 GPT-6 Astra 的下一代模型，给出了 Navier-Stokes 千禧年大奖难题的一个 blow up 解，该问题涉及三维光滑流体运动的描述是否会崩溃，约 90 年未解。",
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://x.com/EMostaque/status/2097378223138959719",
+          "source": "X：Emad Mostaque (@EMostaque)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-08T17:35:10Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7512,
+      "importance": 0.7512,
+      "importance_score": 0.7512,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7924,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-08T17:35:10Z",
+      "latest_at": "2026-09-08T17:35:10Z",
+      "primary_item": {
+        "id": "f79311cc2705e435bda8295e260f4ea002ba881a",
+        "title": "Emad Mostaque 称 OpenAI 智能体求解 Navier-Stokes 千禧年难题是迈向 ASI 的里程碑 / Landmark event on the way to ASI， congratulations to the team Just because one solution showing blo…",
+        "title_zh": "Emad Mostaque 称 OpenAI 智能体求解 Navier-Stokes 千禧年难题是迈向 ASI 的里程碑",
+        "title_ja": null,
+        "title_en": "Landmark event on the way to ASI， congratulations to the team Just because one solution showing blo…",
+        "title_original": "Landmark event on the way to ASI， congratulations to the team Just because one solution showing blo…",
+        "summary": "Emad Mostaque 转发 OpenAI 的公告并评论称这是迈向 ASI 的里程碑事件。OpenAI 宣布由一组智能体使用显著强于 GPT-6 Astra 的下一代模型，给出了 Navier-Stokes 千禧年大奖难题的一个 blow up 解，该问题涉及三维光滑流体运动的描述是否会崩溃，约 90 年未解。",
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://x.com/EMostaque/status/2097378223138959719",
+        "source": "X：Emad Mostaque (@EMostaque)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-09T09:49:54.586185Z"
+      }
+    },
+    {
+      "story_id": "story_5e97ad7fadc2",
+      "title": "Noam Brown 评 OpenAI 用智能体求解 Navier-Stokes 千禧年难题：成本会快速下降 / Yes， this result cost millions of dollars. But remember that when @OpenAI announced o3 it cost ~$50…",
+      "title_ja": null,
+      "url": "https://x.com/polynoamial/status/2097375837670785447",
+      "primary_url": "https://x.com/polynoamial/status/2097375837670785447",
+      "source": "X：Noam Brown (@polynoamial)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "47b37f9f50650824879d0035f54ecddd7a33d01c",
+          "title": "Noam Brown 评 OpenAI 用智能体求解 Navier-Stokes 千禧年难题：成本会快速下降 / Yes， this result cost millions of dollars. But remember that when @OpenAI announced o3 it cost ~$50…",
+          "title_zh": "Noam Brown 评 OpenAI 用智能体求解 Navier-Stokes 千禧年难题：成本会快速下降",
+          "title_ja": null,
+          "title_en": "Yes， this result cost millions of dollars. But remember that when @OpenAI announced o3 it cost ~$50…",
+          "title_original": "Yes， this result cost millions of dollars. But remember that when @OpenAI announced o3 it cost ~$50…",
+          "summary": "Noam Brown 就 OpenAI 宣布以智能体组合求解 Navier-Stokes 千禧年大奖难题发表看法，承认这次证明花费数百万美元，但认为成本会快速下降。",
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://x.com/polynoamial/status/2097375837670785447",
+          "source": "X：Noam Brown (@polynoamial)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-08T17:25:41Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Noam Brown (@polynoamial)"
+      ],
+      "items": [
+        {
+          "id": "47b37f9f50650824879d0035f54ecddd7a33d01c",
+          "title": "Noam Brown 评 OpenAI 用智能体求解 Navier-Stokes 千禧年难题：成本会快速下降 / Yes， this result cost millions of dollars. But remember that when @OpenAI announced o3 it cost ~$50…",
+          "title_zh": "Noam Brown 评 OpenAI 用智能体求解 Navier-Stokes 千禧年难题：成本会快速下降",
+          "title_ja": null,
+          "title_en": "Yes， this result cost millions of dollars. But remember that when @OpenAI announced o3 it cost ~$50…",
+          "title_original": "Yes， this result cost millions of dollars. But remember that when @OpenAI announced o3 it cost ~$50…",
+          "summary": "Noam Brown 就 OpenAI 宣布以智能体组合求解 Navier-Stokes 千禧年大奖难题发表看法，承认这次证明花费数百万美元，但认为成本会快速下降。",
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://x.com/polynoamial/status/2097375837670785447",
+          "source": "X：Noam Brown (@polynoamial)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-08T17:25:41Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7479,
+      "importance": 0.7479,
+      "importance_score": 0.7479,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7906,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-08T17:25:41Z",
+      "latest_at": "2026-09-08T17:25:41Z",
+      "primary_item": {
+        "id": "47b37f9f50650824879d0035f54ecddd7a33d01c",
+        "title": "Noam Brown 评 OpenAI 用智能体求解 Navier-Stokes 千禧年难题：成本会快速下降 / Yes， this result cost millions of dollars. But remember that when @OpenAI announced o3 it cost ~$50…",
+        "title_zh": "Noam Brown 评 OpenAI 用智能体求解 Navier-Stokes 千禧年难题：成本会快速下降",
+        "title_ja": null,
+        "title_en": "Yes， this result cost millions of dollars. But remember that when @OpenAI announced o3 it cost ~$50…",
+        "title_original": "Yes， this result cost millions of dollars. But remember that when @OpenAI announced o3 it cost ~$50…",
+        "summary": "Noam Brown 就 OpenAI 宣布以智能体组合求解 Navier-Stokes 千禧年大奖难题发表看法，承认这次证明花费数百万美元，但认为成本会快速下降。",
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://x.com/polynoamial/status/2097375837670785447",
+        "source": "X：Noam Brown (@polynoamial)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-09T09:49:54.586185Z"
+      }
+    },
+    {
+      "story_id": "story_d1fac00d58a7",
+      "title": "New customer portal help.github.com",
+      "title_ja": null,
+      "url": "https://github.blog/changelog/2026-09-08-new-customer-portal-help-github-com",
+      "primary_url": "https://github.blog/changelog/2026-09-08-new-customer-portal-help-github-com",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5042a82818d0c9db796c36bd230e9ec34d144b25",
+          "title": "New customer portal help.github.com",
+          "title_zh": null,
+          "title_ja": null,
+          "title_en": "New customer portal help.github.com",
+          "title_original": "New customer portal help.github.com",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-08-new-customer-portal-help-github-com",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-08T18:00:10Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "5042a82818d0c9db796c36bd230e9ec34d144b25",
+          "title": "New customer portal help.github.com",
+          "title_zh": null,
+          "title_ja": null,
+          "title_en": "New customer portal help.github.com",
+          "title_original": "New customer portal help.github.com",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-08-new-customer-portal-help-github-com",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-08T18:00:10Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8075,
+      "importance": 0.8075,
+      "importance_score": 0.8075,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7972,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-08T18:00:10Z",
+      "latest_at": "2026-09-08T18:00:10Z",
+      "primary_item": {
+        "id": "5042a82818d0c9db796c36bd230e9ec34d144b25",
+        "title": "New customer portal help.github.com",
+        "title_zh": null,
+        "title_ja": null,
+        "title_en": "New customer portal help.github.com",
+        "title_original": "New customer portal help.github.com",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-08-new-customer-portal-help-github-com",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-09T09:49:54.586185Z"
+      }
+    },
+    {
+      "story_id": "story_cc30c02dca56",
+      "title": "《The Intercept》披露美国国防部曾要求 OpenAI 提供对军事指令最低拒绝率的特别版 AI",
+      "title_ja": "「ザ・インターセプト」は、米国国防総省がOpenAIに対し、軍事命令の拒否率が最も低い特別バージョンのAIを提供するよう要請したことを明らかにした。",
+      "url": "https://www.ithome.com/1/000/277.htm",
+      "primary_url": "https://www.ithome.com/1/000/277.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "bcea9ff3278a72a45b3fee6a836cc966c89b7d3f",
+          "title": "《The Intercept》披露美国国防部曾要求 OpenAI 提供对军事指令最低拒绝率的特别版 AI",
+          "title_zh": "《The Intercept》披露美国国防部曾要求 OpenAI 提供对军事指令最低拒绝率的特别版 AI",
+          "title_ja": "「ザ・インターセプト」は、米国国防総省がOpenAIに対し、軍事命令の拒否率が最も低い特別バージョンのAIを提供するよう要請したことを明らかにした。",
+          "title_en": null,
+          "title_original": "《The Intercept》披露美国国防部曾要求 OpenAI 提供对军事指令最低拒绝率的特别版 AI",
+          "summary": "《The Intercept》通过 FOIA 诉讼获得的文件显示，美国国防部曾在 P00003 合同中要求 OpenAI 提供对军事指令具有最低拒绝率的特别版模型，双方对此均否认，称该文件只是草案。五角大楼律师一度确认其为正式版本后多次改口，OpenAI 已于 2 月 27 日签署允许部署到美军机密网络的最新版协议。",
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/1/000/277.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-09T08:00:26Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "bcea9ff3278a72a45b3fee6a836cc966c89b7d3f",
+          "title": "《The Intercept》披露美国国防部曾要求 OpenAI 提供对军事指令最低拒绝率的特别版 AI",
+          "title_zh": "《The Intercept》披露美国国防部曾要求 OpenAI 提供对军事指令最低拒绝率的特别版 AI",
+          "title_ja": "「ザ・インターセプト」は、米国国防総省がOpenAIに対し、軍事命令の拒否率が最も低い特別バージョンのAIを提供するよう要請したことを明らかにした。",
+          "title_en": null,
+          "title_original": "《The Intercept》披露美国国防部曾要求 OpenAI 提供对军事指令最低拒绝率的特别版 AI",
+          "summary": "《The Intercept》通过 FOIA 诉讼获得的文件显示，美国国防部曾在 P00003 合同中要求 OpenAI 提供对军事指令具有最低拒绝率的特别版模型，双方对此均否认，称该文件只是草案。五角大楼律师一度确认其为正式版本后多次改口，OpenAI 已于 2 月 27 日签署允许部署到美军机密网络的最新版协议。",
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/1/000/277.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-09T08:00:26Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7752,
+      "importance": 0.7752,
+      "importance_score": 0.7752,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8074,
+        "recency": 0.9758,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-08T00:17:23Z",
-      "latest_at": "2026-09-08T00:17:23Z",
+      "earliest_at": "2026-09-09T08:00:26Z",
+      "latest_at": "2026-09-09T08:00:26Z",
       "primary_item": {
-        "id": "1d18c2369bbc6958848b9af98310580002d1fcf7",
-        "title": "GPT-6 Astra操控Blender保姆级教程：三种玩法与踩坑实录",
-        "title_zh": "GPT-6 Astra操控Blender保姆级教程：三种玩法与踩坑实录",
-        "title_ja": null,
+        "id": "bcea9ff3278a72a45b3fee6a836cc966c89b7d3f",
+        "title": "《The Intercept》披露美国国防部曾要求 OpenAI 提供对军事指令最低拒绝率的特别版 AI",
+        "title_zh": "《The Intercept》披露美国国防部曾要求 OpenAI 提供对军事指令最低拒绝率的特别版 AI",
+        "title_ja": "「ザ・インターセプト」は、米国国防総省がOpenAIに対し、軍事命令の拒否率が最も低い特別バージョンのAIを提供するよう要請したことを明らかにした。",
         "title_en": null,
-        "title_original": "GPT-6 Astra操控Blender保姆级教程：三种玩法与踩坑实录",
-        "summary": "作者数字生命卡兹克发布GPT-6 Astra操控Blender的小白教程，介绍前期安装、官方MCP与Computer Use插件配置，并实测三种玩法。Computer Use花约4小时搭出天坛祈年殿，但耗掉200美刀Pro会员近半额度；MCP更快，可完成摩托车建模与组装动画，但复杂任务会单次运行超时，可拆分步骤或用CLI执行Python脚本解决。",
+        "title_original": "《The Intercept》披露美国国防部曾要求 OpenAI 提供对军事指令最低拒绝率的特别版 AI",
+        "summary": "《The Intercept》通过 FOIA 诉讼获得的文件显示，美国国防部曾在 P00003 合同中要求 OpenAI 提供对军事指令具有最低拒绝率的特别版模型，双方对此均否认，称该文件只是草案。五角大楼律师一度确认其为正式版本后多次改口，OpenAI 已于 2 月 27 日签署允许部署到美军机密网络的最新版协议。",
         "summary_ja": null,
         "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686056&idx=1&sn=c1710404c08cf3201da27f4d53f94940",
-        "source": "公众号：数字生命卡兹克",
+        "url": "https://www.ithome.com/1/000/277.htm",
+        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-08T15:45:55.479385Z"
-      }
-    },
-    {
-      "story_id": "story_d83ab5c62da4",
-      "title": "Anthropic 据报道签约高达 5170 亿美元算力协议，锁定至少 14.8 GW 算力 / Anthropic reportedly signs $517 billion in compute deals after Dario Amodei warned rivals about reckless risk",
-      "title_ja": null,
-      "url": "https://the-decoder.com/anthropic-reportedly-signs-517-billion-in-compute-deals-after-dario-amodei-warned-rivals-about-reckless-risk",
-      "primary_url": "https://the-decoder.com/anthropic-reportedly-signs-517-billion-in-compute-deals-after-dario-amodei-warned-rivals-about-reckless-risk",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "95c41e8a2290a22e2e6aa56dbf94af123d8c0335",
-          "title": "Anthropic 据报道签约高达 5170 亿美元算力协议，锁定至少 14.8 GW 算力 / Anthropic reportedly signs $517 billion in compute deals after Dario Amodei warned rivals about reckless risk",
-          "title_zh": "Anthropic 据报道签约高达 5170 亿美元算力协议，锁定至少 14.8 GW 算力",
-          "title_ja": null,
-          "title_en": "Anthropic reportedly signs $517 billion in compute deals after Dario Amodei warned rivals about reckless risk",
-          "title_original": "Anthropic reportedly signs $517 billion in compute deals after Dario Amodei warned rivals about reckless risk",
-          "summary": "据 The Information 报道，Anthropic 在十一个月内签署了价值高达 5170 亿美元的算力合同，自 2025 年 10 月以来锁定至少 14.8 GW 算力，并计划自建数据中心。",
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/anthropic-reportedly-signs-517-billion-in-compute-deals-after-dario-amodei-warned-rivals-about-reckless-risk",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-07T18:12:41Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "95c41e8a2290a22e2e6aa56dbf94af123d8c0335",
-          "title": "Anthropic 据报道签约高达 5170 亿美元算力协议，锁定至少 14.8 GW 算力 / Anthropic reportedly signs $517 billion in compute deals after Dario Amodei warned rivals about reckless risk",
-          "title_zh": "Anthropic 据报道签约高达 5170 亿美元算力协议，锁定至少 14.8 GW 算力",
-          "title_ja": null,
-          "title_en": "Anthropic reportedly signs $517 billion in compute deals after Dario Amodei warned rivals about reckless risk",
-          "title_original": "Anthropic reportedly signs $517 billion in compute deals after Dario Amodei warned rivals about reckless risk",
-          "summary": "据 The Information 报道，Anthropic 在十一个月内签署了价值高达 5170 亿美元的算力合同，自 2025 年 10 月以来锁定至少 14.8 GW 算力，并计划自建数据中心。",
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/anthropic-reportedly-signs-517-billion-in-compute-deals-after-dario-amodei-warned-rivals-about-reckless-risk",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-07T18:12:41Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7327,
-      "importance": 0.7327,
-      "importance_score": 0.7327,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7396,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-07T18:12:41Z",
-      "latest_at": "2026-09-07T18:12:41Z",
-      "primary_item": {
-        "id": "95c41e8a2290a22e2e6aa56dbf94af123d8c0335",
-        "title": "Anthropic 据报道签约高达 5170 亿美元算力协议，锁定至少 14.8 GW 算力 / Anthropic reportedly signs $517 billion in compute deals after Dario Amodei warned rivals about reckless risk",
-        "title_zh": "Anthropic 据报道签约高达 5170 亿美元算力协议，锁定至少 14.8 GW 算力",
-        "title_ja": null,
-        "title_en": "Anthropic reportedly signs $517 billion in compute deals after Dario Amodei warned rivals about reckless risk",
-        "title_original": "Anthropic reportedly signs $517 billion in compute deals after Dario Amodei warned rivals about reckless risk",
-        "summary": "据 The Information 报道，Anthropic 在十一个月内签署了价值高达 5170 亿美元的算力合同，自 2025 年 10 月以来锁定至少 14.8 GW 算力，并计划自建数据中心。",
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/anthropic-reportedly-signs-517-billion-in-compute-deals-after-dario-amodei-warned-rivals-about-reckless-risk",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-08T15:45:55.479385Z"
-      }
-    },
-    {
-      "story_id": "story_2a18f45ec375",
-      "title": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
-      "title_ja": null,
-      "url": "https://www.aibase.com/news/30905",
-      "primary_url": "https://www.aibase.com/news/30905",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f813c706b0c65860122151300c79e21147e3b6b6",
-          "title": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
-          "title_zh": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
-          "title_ja": null,
-          "title_en": null,
-          "title_original": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30905",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-08T11:14:01.903475Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "f813c706b0c65860122151300c79e21147e3b6b6",
-          "title": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
-          "title_zh": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
-          "title_ja": null,
-          "title_en": null,
-          "title_original": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30905",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-08T11:14:01.903475Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7578,
-      "importance": 0.7578,
-      "importance_score": 0.7578,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9457,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-08T11:14:01.903475Z",
-      "latest_at": "2026-09-08T11:14:01.903475Z",
-      "primary_item": {
-        "id": "f813c706b0c65860122151300c79e21147e3b6b6",
-        "title": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
-        "title_zh": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
-        "title_ja": null,
-        "title_en": null,
-        "title_original": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30905",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-08T15:45:55.479385Z"
-      }
-    },
-    {
-      "story_id": "story_bb164dc88d54",
-      "title": "Mistral AI 宣布 30 亿欧元 D 轮融资 / Today marks a major step for Mistral： we're announcing a €3B Series D， the largest equity round ever…",
-      "title_ja": null,
-      "url": "https://x.com/MistralAI/status/2097188835897586083",
-      "primary_url": "https://x.com/MistralAI/status/2097188835897586083",
-      "source": "X：Mistral AI (@MistralAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "edbaa2ac38bd4d18bd8d1551a7b92a8b54461b5b",
-          "title": "Mistral AI 宣布 30 亿欧元 D 轮融资 / Today marks a major step for Mistral： we're announcing a €3B Series D， the largest equity round ever…",
-          "title_zh": "Mistral AI 宣布 30 亿欧元 D 轮融资",
-          "title_ja": null,
-          "title_en": "Today marks a major step for Mistral： we're announcing a €3B Series D， the largest equity round ever…",
-          "title_original": "Today marks a major step for Mistral： we're announcing a €3B Series D， the largest equity round ever…",
-          "summary": "Mistral AI 官方宣布完成 30 亿欧元 D 轮融资，公司称这是欧洲科技公司有史以来规模最大的股权融资，距离其创立仅三年。",
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://x.com/MistralAI/status/2097188835897586083",
-          "source": "X：Mistral AI (@MistralAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-08T05:02:37Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Mistral AI (@MistralAI)"
-      ],
-      "items": [
-        {
-          "id": "edbaa2ac38bd4d18bd8d1551a7b92a8b54461b5b",
-          "title": "Mistral AI 宣布 30 亿欧元 D 轮融资 / Today marks a major step for Mistral： we're announcing a €3B Series D， the largest equity round ever…",
-          "title_zh": "Mistral AI 宣布 30 亿欧元 D 轮融资",
-          "title_ja": null,
-          "title_en": "Today marks a major step for Mistral： we're announcing a €3B Series D， the largest equity round ever…",
-          "title_original": "Today marks a major step for Mistral： we're announcing a €3B Series D， the largest equity round ever…",
-          "summary": "Mistral AI 官方宣布完成 30 亿欧元 D 轮融资，公司称这是欧洲科技公司有史以来规模最大的股权融资，距离其创立仅三年。",
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://x.com/MistralAI/status/2097188835897586083",
-          "source": "X：Mistral AI (@MistralAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-08T05:02:37Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7223,
-      "importance": 0.7223,
-      "importance_score": 0.7223,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8648,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-08T05:02:37Z",
-      "latest_at": "2026-09-08T05:02:37Z",
-      "primary_item": {
-        "id": "edbaa2ac38bd4d18bd8d1551a7b92a8b54461b5b",
-        "title": "Mistral AI 宣布 30 亿欧元 D 轮融资 / Today marks a major step for Mistral： we're announcing a €3B Series D， the largest equity round ever…",
-        "title_zh": "Mistral AI 宣布 30 亿欧元 D 轮融资",
-        "title_ja": null,
-        "title_en": "Today marks a major step for Mistral： we're announcing a €3B Series D， the largest equity round ever…",
-        "title_original": "Today marks a major step for Mistral： we're announcing a €3B Series D， the largest equity round ever…",
-        "summary": "Mistral AI 官方宣布完成 30 亿欧元 D 轮融资，公司称这是欧洲科技公司有史以来规模最大的股权融资，距离其创立仅三年。",
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://x.com/MistralAI/status/2097188835897586083",
-        "source": "X：Mistral AI (@MistralAI)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-08T15:45:55.479385Z"
-      }
-    },
-    {
-      "story_id": "story_613d849d5200",
-      "title": "DeepSeek V4.1-Flash内测：更强的视觉智能，更极致的速度与成本",
-      "title_ja": null,
-      "url": "https://www.aibase.com/news/30911",
-      "primary_url": "https://www.aibase.com/news/30911",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "fca343610ea50224e783418e5186b3f2329bff06",
-          "title": "DeepSeek V4.1-Flash内测：更强的视觉智能，更极致的速度与成本",
-          "title_zh": "DeepSeek V4.1-Flash内测：更强的视觉智能，更极致的速度与成本",
-          "title_ja": null,
-          "title_en": null,
-          "title_original": "DeepSeek V4.1-Flash内测：更强的视觉智能，更极致的速度与成本",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30911",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-08T11:14:01.903475Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "fca343610ea50224e783418e5186b3f2329bff06",
-          "title": "DeepSeek V4.1-Flash内测：更强的视觉智能，更极致的速度与成本",
-          "title_zh": "DeepSeek V4.1-Flash内测：更强的视觉智能，更极致的速度与成本",
-          "title_ja": null,
-          "title_en": null,
-          "title_original": "DeepSeek V4.1-Flash内测：更强的视觉智能，更极致的速度与成本",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30911",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-08T11:14:01.903475Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7578,
-      "importance": 0.7578,
-      "importance_score": 0.7578,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9457,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-08T11:14:01.903475Z",
-      "latest_at": "2026-09-08T11:14:01.903475Z",
-      "primary_item": {
-        "id": "fca343610ea50224e783418e5186b3f2329bff06",
-        "title": "DeepSeek V4.1-Flash内测：更强的视觉智能，更极致的速度与成本",
-        "title_zh": "DeepSeek V4.1-Flash内测：更强的视觉智能，更极致的速度与成本",
-        "title_ja": null,
-        "title_en": null,
-        "title_original": "DeepSeek V4.1-Flash内测：更强的视觉智能，更极致的速度与成本",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30911",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-08T15:45:55.479385Z"
-      }
-    },
-    {
-      "story_id": "story_5a74dd9516c1",
-      "title": "DeepSeek 一次性放出 150 个岗位：Harness 团队急招工程师，规模膨胀倒逼后端重写",
-      "title_ja": null,
-      "url": "https://www.aibase.com/news/30906",
-      "primary_url": "https://www.aibase.com/news/30906",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "547a898a428bde7c6214d47235a5d3149578eec7",
-          "title": "DeepSeek 一次性放出 150 个岗位：Harness 团队急招工程师，规模膨胀倒逼后端重写",
-          "title_zh": "DeepSeek 一次性放出 150 个岗位：Harness 团队急招工程师，规模膨胀倒逼后端重写",
-          "title_ja": null,
-          "title_en": null,
-          "title_original": "DeepSeek 一次性放出 150 个岗位：Harness 团队急招工程师，规模膨胀倒逼后端重写",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30906",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-08T11:14:01.903475Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "547a898a428bde7c6214d47235a5d3149578eec7",
-          "title": "DeepSeek 一次性放出 150 个岗位：Harness 团队急招工程师，规模膨胀倒逼后端重写",
-          "title_zh": "DeepSeek 一次性放出 150 个岗位：Harness 团队急招工程师，规模膨胀倒逼后端重写",
-          "title_ja": null,
-          "title_en": null,
-          "title_original": "DeepSeek 一次性放出 150 个岗位：Harness 团队急招工程师，规模膨胀倒逼后端重写",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30906",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-08T11:14:01.903475Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7578,
-      "importance": 0.7578,
-      "importance_score": 0.7578,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9457,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-08T11:14:01.903475Z",
-      "latest_at": "2026-09-08T11:14:01.903475Z",
-      "primary_item": {
-        "id": "547a898a428bde7c6214d47235a5d3149578eec7",
-        "title": "DeepSeek 一次性放出 150 个岗位：Harness 团队急招工程师，规模膨胀倒逼后端重写",
-        "title_zh": "DeepSeek 一次性放出 150 个岗位：Harness 团队急招工程师，规模膨胀倒逼后端重写",
-        "title_ja": null,
-        "title_en": null,
-        "title_original": "DeepSeek 一次性放出 150 个岗位：Harness 团队急招工程师，规模膨胀倒逼后端重写",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30906",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-08T15:45:55.479385Z"
-      }
-    },
-    {
-      "story_id": "story_c4fe9c5ef178",
-      "title": "DeepSeek招募150名资深工程师 重点加码Agent工程化与DSec基建",
-      "title_ja": null,
-      "url": "https://www.aibase.com/news/30904",
-      "primary_url": "https://www.aibase.com/news/30904",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "dc832ff9a37af0980f7c26ba41b71593ca695b6a",
-          "title": "DeepSeek招募150名资深工程师 重点加码Agent工程化与DSec基建",
-          "title_zh": "DeepSeek招募150名资深工程师 重点加码Agent工程化与DSec基建",
-          "title_ja": null,
-          "title_en": null,
-          "title_original": "DeepSeek招募150名资深工程师 重点加码Agent工程化与DSec基建",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30904",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-08T11:14:01.903475Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "dc832ff9a37af0980f7c26ba41b71593ca695b6a",
-          "title": "DeepSeek招募150名资深工程师 重点加码Agent工程化与DSec基建",
-          "title_zh": "DeepSeek招募150名资深工程师 重点加码Agent工程化与DSec基建",
-          "title_ja": null,
-          "title_en": null,
-          "title_original": "DeepSeek招募150名资深工程师 重点加码Agent工程化与DSec基建",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30904",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-08T11:14:01.903475Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7578,
-      "importance": 0.7578,
-      "importance_score": 0.7578,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9457,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-08T11:14:01.903475Z",
-      "latest_at": "2026-09-08T11:14:01.903475Z",
-      "primary_item": {
-        "id": "dc832ff9a37af0980f7c26ba41b71593ca695b6a",
-        "title": "DeepSeek招募150名资深工程师 重点加码Agent工程化与DSec基建",
-        "title_zh": "DeepSeek招募150名资深工程师 重点加码Agent工程化与DSec基建",
-        "title_ja": null,
-        "title_en": null,
-        "title_original": "DeepSeek招募150名资深工程师 重点加码Agent工程化与DSec基建",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30904",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-08T15:45:55.479385Z"
-      }
-    },
-    {
-      "story_id": "story_b8ab7c1cffe5",
-      "title": "Meta智能体AI“Muse”开启封闭测试 支持跨应用与个人财务管理",
-      "title_ja": null,
-      "url": "https://www.aibase.com/news/30902",
-      "primary_url": "https://www.aibase.com/news/30902",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e80d30f63dba35a2a8ddab451690725bfd852924",
-          "title": "Meta智能体AI“Muse”开启封闭测试 支持跨应用与个人财务管理",
-          "title_zh": "Meta智能体AI“Muse”开启封闭测试 支持跨应用与个人财务管理",
-          "title_ja": null,
-          "title_en": null,
-          "title_original": "Meta智能体AI“Muse”开启封闭测试 支持跨应用与个人财务管理",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30902",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-08T11:14:01.903475Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "e80d30f63dba35a2a8ddab451690725bfd852924",
-          "title": "Meta智能体AI“Muse”开启封闭测试 支持跨应用与个人财务管理",
-          "title_zh": "Meta智能体AI“Muse”开启封闭测试 支持跨应用与个人财务管理",
-          "title_ja": null,
-          "title_en": null,
-          "title_original": "Meta智能体AI“Muse”开启封闭测试 支持跨应用与个人财务管理",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30902",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-08T11:14:01.903475Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7578,
-      "importance": 0.7578,
-      "importance_score": 0.7578,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9457,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-08T11:14:01.903475Z",
-      "latest_at": "2026-09-08T11:14:01.903475Z",
-      "primary_item": {
-        "id": "e80d30f63dba35a2a8ddab451690725bfd852924",
-        "title": "Meta智能体AI“Muse”开启封闭测试 支持跨应用与个人财务管理",
-        "title_zh": "Meta智能体AI“Muse”开启封闭测试 支持跨应用与个人财务管理",
-        "title_ja": null,
-        "title_en": null,
-        "title_original": "Meta智能体AI“Muse”开启封闭测试 支持跨应用与个人财务管理",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30902",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-08T15:45:55.479385Z"
-      }
-    },
-    {
-      "story_id": "story_c2b11cb2bdaf",
-      "title": "微软发布 Project Opal：只说目标，AI 连干数小时帮你交付成品",
-      "title_ja": null,
-      "url": "https://www.aibase.com/news/30909",
-      "primary_url": "https://www.aibase.com/news/30909",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "62aa0f196288f1b64101b2c2a1fc76d4fa5685ae",
-          "title": "微软发布 Project Opal：只说目标，AI 连干数小时帮你交付成品",
-          "title_zh": "微软发布 Project Opal：只说目标，AI 连干数小时帮你交付成品",
-          "title_ja": null,
-          "title_en": null,
-          "title_original": "微软发布 Project Opal：只说目标，AI 连干数小时帮你交付成品",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30909",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-08T11:14:01.903475Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "62aa0f196288f1b64101b2c2a1fc76d4fa5685ae",
-          "title": "微软发布 Project Opal：只说目标，AI 连干数小时帮你交付成品",
-          "title_zh": "微软发布 Project Opal：只说目标，AI 连干数小时帮你交付成品",
-          "title_ja": null,
-          "title_en": null,
-          "title_original": "微软发布 Project Opal：只说目标，AI 连干数小时帮你交付成品",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30909",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-08T11:14:01.903475Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7578,
-      "importance": 0.7578,
-      "importance_score": 0.7578,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9457,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-08T11:14:01.903475Z",
-      "latest_at": "2026-09-08T11:14:01.903475Z",
-      "primary_item": {
-        "id": "62aa0f196288f1b64101b2c2a1fc76d4fa5685ae",
-        "title": "微软发布 Project Opal：只说目标，AI 连干数小时帮你交付成品",
-        "title_zh": "微软发布 Project Opal：只说目标，AI 连干数小时帮你交付成品",
-        "title_ja": null,
-        "title_en": null,
-        "title_original": "微软发布 Project Opal：只说目标，AI 连干数小时帮你交付成品",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30909",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-08T15:45:55.479385Z"
-      }
-    },
-    {
-      "story_id": "story_02408f2e99e2",
-      "title": "联合国高级专员警告：AI 对人类构成“生存性”风险，呼吁设不可逾越的红线",
-      "title_ja": null,
-      "url": "https://www.aibase.com/news/30903",
-      "primary_url": "https://www.aibase.com/news/30903",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f36efbb93e3ab573792fe68dcd7400da8ee75096",
-          "title": "联合国高级专员警告：AI 对人类构成“生存性”风险，呼吁设不可逾越的红线",
-          "title_zh": "联合国高级专员警告：AI 对人类构成“生存性”风险，呼吁设不可逾越的红线",
-          "title_ja": null,
-          "title_en": null,
-          "title_original": "联合国高级专员警告：AI 对人类构成“生存性”风险，呼吁设不可逾越的红线",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30903",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-08T11:14:01.903475Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "f36efbb93e3ab573792fe68dcd7400da8ee75096",
-          "title": "联合国高级专员警告：AI 对人类构成“生存性”风险，呼吁设不可逾越的红线",
-          "title_zh": "联合国高级专员警告：AI 对人类构成“生存性”风险，呼吁设不可逾越的红线",
-          "title_ja": null,
-          "title_en": null,
-          "title_original": "联合国高级专员警告：AI 对人类构成“生存性”风险，呼吁设不可逾越的红线",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30903",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-08T11:14:01.903475Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7578,
-      "importance": 0.7578,
-      "importance_score": 0.7578,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9457,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-08T11:14:01.903475Z",
-      "latest_at": "2026-09-08T11:14:01.903475Z",
-      "primary_item": {
-        "id": "f36efbb93e3ab573792fe68dcd7400da8ee75096",
-        "title": "联合国高级专员警告：AI 对人类构成“生存性”风险，呼吁设不可逾越的红线",
-        "title_zh": "联合国高级专员警告：AI 对人类构成“生存性”风险，呼吁设不可逾越的红线",
-        "title_ja": null,
-        "title_en": null,
-        "title_original": "联合国高级专员警告：AI 对人类构成“生存性”风险，呼吁设不可逾越的红线",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30903",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-08T15:45:55.479385Z"
-      }
-    },
-    {
-      "story_id": "story_7874794ade94",
-      "title": "LibreOffice在声明其不具备AI功能后，下载量创下新纪录",
-      "title_ja": null,
-      "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai",
-      "primary_url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai",
-      "source": "manualdousuario.net",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "ea5b9f3e472f47c8024c42fa26364412b9d8764a",
-          "title": "LibreOffice在声明其不具备AI功能后，下载量创下新纪录",
-          "title_zh": "LibreOffice在声明其不具备AI功能后，下载量创下新纪录",
-          "title_ja": null,
-          "title_en": null,
-          "title_original": "LibreOffice在声明其不具备AI功能后，下载量创下新纪录",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai",
-          "source": "manualdousuario.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-08T14:42:54.403000Z"
-        },
-        {
-          "id": "026b1efde653c15a8a6455ed7ebe6e2ca673bf78",
-          "title": "LibreOffice在声明其不具备AI功能后，下载量创下新纪录 / LibreOffice breaks download records after declaring it has no AI features",
-          "title_zh": "LibreOffice在声明其不具备AI功能后，下载量创下新纪录",
-          "title_ja": null,
-          "title_en": "LibreOffice breaks download records after declaring it has no AI features",
-          "title_original": "LibreOffice breaks download records after declaring it has no AI features",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-08T14:05:57Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "manualdousuario.net"
-      ],
-      "items": [
-        {
-          "id": "ea5b9f3e472f47c8024c42fa26364412b9d8764a",
-          "title": "LibreOffice在声明其不具备AI功能后，下载量创下新纪录",
-          "title_zh": "LibreOffice在声明其不具备AI功能后，下载量创下新纪录",
-          "title_ja": null,
-          "title_en": null,
-          "title_original": "LibreOffice在声明其不具备AI功能后，下载量创下新纪录",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai",
-          "source": "manualdousuario.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-08T14:42:54.403000Z"
-        },
-        {
-          "id": "026b1efde653c15a8a6455ed7ebe6e2ca673bf78",
-          "title": "LibreOffice在声明其不具备AI功能后，下载量创下新纪录 / LibreOffice breaks download records after declaring it has no AI features",
-          "title_zh": "LibreOffice在声明其不具备AI功能后，下载量创下新纪录",
-          "title_ja": null,
-          "title_en": "LibreOffice breaks download records after declaring it has no AI features",
-          "title_original": "LibreOffice breaks download records after declaring it has no AI features",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-08T14:05:57Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5448,
-      "importance": 0.5448,
-      "importance_score": 0.5448,
-      "importance_label": "值得关注",
-      "importance_label_ja": "要注目",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9944,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-08T14:05:57Z",
-      "latest_at": "2026-09-08T14:42:54.403000Z",
-      "primary_item": {
-        "id": "ea5b9f3e472f47c8024c42fa26364412b9d8764a",
-        "title": "LibreOffice在声明其不具备AI功能后，下载量创下新纪录",
-        "title_zh": "LibreOffice在声明其不具备AI功能后，下载量创下新纪录",
-        "title_ja": null,
-        "title_en": null,
-        "title_original": "LibreOffice在声明其不具备AI功能后，下载量创下新纪录",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai",
-        "source": "manualdousuario.net",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-08T15:45:55.479385Z"
-      }
-    },
-    {
-      "story_id": "story_a50e1ce26ddb",
-      "title": "AI模型运营了真实的业务：它们开具了总额为12,431美元的虚假发票，亏损了3,200美元",
-      "title_ja": null,
-      "url": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
-      "primary_url": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
-      "source": "www.bottlenecklabs.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "dba2a5967d198610c1be8b3bc7bac55a115b97a9",
-          "title": "AI模型运营了真实的业务：它们开具了总额为12,431美元的虚假发票，亏损了3,200美元",
-          "title_zh": "AI模型运营了真实的业务：它们开具了总额为12,431美元的虚假发票，亏损了3,200美元",
-          "title_ja": null,
-          "title_en": null,
-          "title_original": "AI模型运营了真实的业务：它们开具了总额为12,431美元的虚假发票，亏损了3,200美元",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
-          "source": "www.bottlenecklabs.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-08T06:33:02.028000Z"
-        },
-        {
-          "id": "639b0a274e579aa8fbcd697bbe5c515cbd93e974",
-          "title": "AI模型运营了真实的业务：它们开具了总额为12,431美元的虚假发票，亏损了3,200美元 / AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200",
-          "title_zh": "AI模型运营了真实的业务：它们开具了总额为12,431美元的虚假发票，亏损了3,200美元",
-          "title_ja": null,
-          "title_en": "AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200",
-          "title_original": "AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-07T18:24:32Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "www.bottlenecklabs.com"
-      ],
-      "items": [
-        {
-          "id": "dba2a5967d198610c1be8b3bc7bac55a115b97a9",
-          "title": "AI模型运营了真实的业务：它们开具了总额为12,431美元的虚假发票，亏损了3,200美元",
-          "title_zh": "AI模型运营了真实的业务：它们开具了总额为12,431美元的虚假发票，亏损了3,200美元",
-          "title_ja": null,
-          "title_en": null,
-          "title_original": "AI模型运营了真实的业务：它们开具了总额为12,431美元的虚假发票，亏损了3,200美元",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
-          "source": "www.bottlenecklabs.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-08T06:33:02.028000Z"
-        },
-        {
-          "id": "639b0a274e579aa8fbcd697bbe5c515cbd93e974",
-          "title": "AI模型运营了真实的业务：它们开具了总额为12,431美元的虚假发票，亏损了3,200美元 / AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200",
-          "title_zh": "AI模型运营了真实的业务：它们开具了总额为12,431美元的虚假发票，亏损了3,200美元",
-          "title_ja": null,
-          "title_en": "AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200",
-          "title_original": "AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-07T18:24:32Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5249,
-      "importance": 0.5249,
-      "importance_score": 0.5249,
-      "importance_label": "值得关注",
-      "importance_label_ja": "要注目",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8838,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-07T18:24:32Z",
-      "latest_at": "2026-09-08T06:33:02.028000Z",
-      "primary_item": {
-        "id": "dba2a5967d198610c1be8b3bc7bac55a115b97a9",
-        "title": "AI模型运营了真实的业务：它们开具了总额为12,431美元的虚假发票，亏损了3,200美元",
-        "title_zh": "AI模型运营了真实的业务：它们开具了总额为12,431美元的虚假发票，亏损了3,200美元",
-        "title_ja": null,
-        "title_en": null,
-        "title_original": "AI模型运营了真实的业务：它们开具了总额为12,431美元的虚假发票，亏损了3,200美元",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
-        "source": "www.bottlenecklabs.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-08T15:45:55.479385Z"
-      }
-    },
-    {
-      "story_id": "story_540d9571c139",
-      "title": "马斯克杀入Copilot主场：Grok Bot 深度接管微软账号",
-      "title_ja": null,
-      "url": "https://www.aibase.com/news/30907",
-      "primary_url": "https://www.aibase.com/news/30907",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "7e5ca1e93371e3375cbee5740ef14012670f4600",
-          "title": "马斯克杀入Copilot主场：Grok Bot 深度接管微软账号",
-          "title_zh": "马斯克杀入Copilot主场：Grok Bot 深度接管微软账号",
-          "title_ja": null,
-          "title_en": null,
-          "title_original": "马斯克杀入Copilot主场：Grok Bot 深度接管微软账号",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30907",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-08T11:14:01.903475Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "7e5ca1e93371e3375cbee5740ef14012670f4600",
-          "title": "马斯克杀入Copilot主场：Grok Bot 深度接管微软账号",
-          "title_zh": "马斯克杀入Copilot主场：Grok Bot 深度接管微软账号",
-          "title_ja": null,
-          "title_en": null,
-          "title_original": "马斯克杀入Copilot主场：Grok Bot 深度接管微软账号",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30907",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-08T11:14:01.903475Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7578,
-      "importance": 0.7578,
-      "importance_score": 0.7578,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9457,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-08T11:14:01.903475Z",
-      "latest_at": "2026-09-08T11:14:01.903475Z",
-      "primary_item": {
-        "id": "7e5ca1e93371e3375cbee5740ef14012670f4600",
-        "title": "马斯克杀入Copilot主场：Grok Bot 深度接管微软账号",
-        "title_zh": "马斯克杀入Copilot主场：Grok Bot 深度接管微软账号",
-        "title_ja": null,
-        "title_en": null,
-        "title_original": "马斯克杀入Copilot主场：Grok Bot 深度接管微软账号",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30907",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-08T15:45:55.479385Z"
+        "scored_at": "2026-09-09T09:49:54.586185Z"
       }
     }
   ]
