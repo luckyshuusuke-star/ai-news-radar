@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-12T19:18:12.995631Z",
+  "generated_at": "2026-09-12T22:14:55.309878Z",
   "window_hours": 24,
-  "total_items": 13,
+  "total_items": 12,
   "items": [
     {
       "story_id": "story_86ff3d2b9b70",
@@ -71,8 +71,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-12T19:18:12.995631Z",
-      "latest_at": "2026-09-12T19:18:12.995631Z",
+      "earliest_at": "2026-09-12T22:14:55.309878Z",
+      "latest_at": "2026-09-12T22:14:55.309878Z",
       "primary_item": {
         "id": "54b29e5d6f4765b0653d6e5e22c91217d622018b",
         "title": "Perplexity 信任 GPT-6 Astra 的端到端系统 / Perplexity trusts GPT-6 Astra with end-to-end systems",
@@ -91,7 +91,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T19:20:20.597946Z"
+        "scored_at": "2026-09-12T22:31:53.940384Z"
       }
     },
     {
@@ -144,16 +144,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8355,
-      "importance": 0.8355,
-      "importance_score": 0.8355,
+      "score": 0.8282,
+      "importance": 0.8282,
+      "importance_score": 0.8282,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9751,
+        "recency": 0.9345,
         "story_heat": 0.0
       },
       "category": "official",
@@ -181,98 +181,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T19:20:20.597946Z"
-      }
-    },
-    {
-      "story_id": "story_adeb9fe0ee2f",
-      "title": "将 VS Code Agent 添加到 Copilot 使用指标 / Add VS Code Agents to Copilot usage metrics",
-      "title_ja": "VS Code エージェントを Copilot 使用状況メトリクスに追加する",
-      "url": "https://github.blog/changelog/2026-09-11-add-vs-code-agents-to-copilot-usage-metrics",
-      "primary_url": "https://github.blog/changelog/2026-09-11-add-vs-code-agents-to-copilot-usage-metrics",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "6a28b4e26cc701066b0b877350ad6928fee9bfe5",
-          "title": "将 VS Code Agent 添加到 Copilot 使用指标 / Add VS Code Agents to Copilot usage metrics",
-          "title_zh": "将 VS Code Agent 添加到 Copilot 使用指标",
-          "title_ja": "VS Code エージェントを Copilot 使用状況メトリクスに追加する",
-          "title_en": "Add VS Code Agents to Copilot usage metrics",
-          "title_original": "Add VS Code Agents to Copilot usage metrics",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-11-add-vs-code-agents-to-copilot-usage-metrics",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-11T21:30:30Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "6a28b4e26cc701066b0b877350ad6928fee9bfe5",
-          "title": "将 VS Code Agent 添加到 Copilot 使用指标 / Add VS Code Agents to Copilot usage metrics",
-          "title_zh": "将 VS Code Agent 添加到 Copilot 使用指标",
-          "title_ja": "VS Code エージェントを Copilot 使用状況メトリクスに追加する",
-          "title_en": "Add VS Code Agents to Copilot usage metrics",
-          "title_original": "Add VS Code Agents to Copilot usage metrics",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-11-add-vs-code-agents-to-copilot-usage-metrics",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-11T21:30:30Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8034,
-      "importance": 0.8034,
-      "importance_score": 0.8034,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.73,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-11T21:30:30Z",
-      "latest_at": "2026-09-11T21:30:30Z",
-      "primary_item": {
-        "id": "6a28b4e26cc701066b0b877350ad6928fee9bfe5",
-        "title": "将 VS Code Agent 添加到 Copilot 使用指标 / Add VS Code Agents to Copilot usage metrics",
-        "title_zh": "将 VS Code Agent 添加到 Copilot 使用指标",
-        "title_ja": "VS Code エージェントを Copilot 使用状況メトリクスに追加する",
-        "title_en": "Add VS Code Agents to Copilot usage metrics",
-        "title_original": "Add VS Code Agents to Copilot usage metrics",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-11-add-vs-code-agents-to-copilot-usage-metrics",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-12T19:20:20.597946Z"
+        "scored_at": "2026-09-12T22:31:53.940384Z"
       }
     },
     {
@@ -317,7 +226,7 @@
           "published_at": "2026-09-12T00:24:20.561000Z"
         },
         {
-          "id": "110eb19a25743edb2e4f8f58fa11886c22b1768a",
+          "id": "15ed8b49c1e9e405322e75e29b17c4a0469db713",
           "title": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析 / OpenAI agents carried out an undisclosed attack on RubyGems",
           "title_zh": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析",
           "title_ja": "OpenAI エージェントが RubyGems に対して非公開の攻撃を実行",
@@ -327,15 +236,15 @@
           "summary_ja": null,
           "recommend_reason_zh": null,
           "url": "https://www.rubyhack.ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-11T23:17:42Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "www.rubyhack.ai"
       ],
@@ -373,7 +282,7 @@
           "published_at": "2026-09-12T00:24:20.561000Z"
         },
         {
-          "id": "110eb19a25743edb2e4f8f58fa11886c22b1768a",
+          "id": "15ed8b49c1e9e405322e75e29b17c4a0469db713",
           "title": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析 / OpenAI agents carried out an undisclosed attack on RubyGems",
           "title_zh": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析",
           "title_ja": "OpenAI エージェントが RubyGems に対して非公開の攻撃を実行",
@@ -383,24 +292,24 @@
           "summary_ja": null,
           "recommend_reason_zh": null,
           "url": "https://www.rubyhack.ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-11T23:17:42Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8016,
-      "importance": 0.8016,
-      "importance_score": 0.8016,
+      "score": 0.7959,
+      "importance": 0.7959,
+      "importance_score": 0.7959,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7612,
+        "recency": 0.7295,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -429,7 +338,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T19:20:20.597946Z"
+        "scored_at": "2026-09-12T22:31:53.940384Z"
       }
     },
     {
@@ -548,16 +457,16 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7911,
-      "importance": 0.7911,
-      "importance_score": 0.7911,
+      "score": 0.7853,
+      "importance": 0.7853,
+      "importance_score": 0.7853,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7864,
+        "recency": 0.7536,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -586,98 +495,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T19:20:20.597946Z"
-      }
-    },
-    {
-      "story_id": "story_bbf03c6dd45c",
-      "title": "Copilot 代码审查中的自动解析和分析更新 / Auto-resolution and analysis updates in Copilot code review",
-      "title_ja": "Copilot コードレビューの自動解決と分析の更新",
-      "url": "https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review",
-      "primary_url": "https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "eb40e36e6a9a04e2c03ce1e5fef7636434e1b494",
-          "title": "Copilot 代码审查中的自动解析和分析更新 / Auto-resolution and analysis updates in Copilot code review",
-          "title_zh": "Copilot 代码审查中的自动解析和分析更新",
-          "title_ja": "Copilot コードレビューの自動解決と分析の更新",
-          "title_en": "Auto-resolution and analysis updates in Copilot code review",
-          "title_original": "Auto-resolution and analysis updates in Copilot code review",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-11T20:00:07Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "eb40e36e6a9a04e2c03ce1e5fef7636434e1b494",
-          "title": "Copilot 代码审查中的自动解析和分析更新 / Auto-resolution and analysis updates in Copilot code review",
-          "title_zh": "Copilot 代码审查中的自动解析和分析更新",
-          "title_ja": "Copilot コードレビューの自動解決と分析の更新",
-          "title_en": "Auto-resolution and analysis updates in Copilot code review",
-          "title_original": "Auto-resolution and analysis updates in Copilot code review",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-11T20:00:07Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8006,
-      "importance": 0.8006,
-      "importance_score": 0.8006,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7143,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-11T20:00:07Z",
-      "latest_at": "2026-09-11T20:00:07Z",
-      "primary_item": {
-        "id": "eb40e36e6a9a04e2c03ce1e5fef7636434e1b494",
-        "title": "Copilot 代码审查中的自动解析和分析更新 / Auto-resolution and analysis updates in Copilot code review",
-        "title_zh": "Copilot 代码审查中的自动解析和分析更新",
-        "title_ja": "Copilot コードレビューの自動解決と分析の更新",
-        "title_en": "Auto-resolution and analysis updates in Copilot code review",
-        "title_original": "Auto-resolution and analysis updates in Copilot code review",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-12T19:20:20.597946Z"
+        "scored_at": "2026-09-12T22:31:53.940384Z"
       }
     },
     {
@@ -730,16 +548,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7665,
-      "importance": 0.7665,
-      "importance_score": 0.7665,
+      "score": 0.7593,
+      "importance": 0.7593,
+      "importance_score": 0.7593,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9605,
+        "recency": 0.9205,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -767,7 +585,187 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T19:20:20.597946Z"
+        "scored_at": "2026-09-12T22:31:53.940384Z"
+      }
+    },
+    {
+      "story_id": "story_b87018eebc80",
+      "title": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间 / If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
+      "title_ja": null,
+      "url": "https://x.com/trq212/status/2098860941391872132",
+      "primary_url": "https://x.com/trq212/status/2098860941391872132",
+      "source": "X：Thariq (@trq212)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c2560befab7f82dffe6d7cde42df3a486bec135f",
+          "title": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间 / If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
+          "title_zh": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间",
+          "title_ja": null,
+          "title_en": "If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
+          "title_original": "If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
+          "summary": "Anthropic 的 Thariq 转发并支持 Dario Amodei 的新文章《We Must Pace the Frontier》，后者提出 AI 行业应放缓的三部分计划，并承诺向第三方评估者提供永久的员工级系统访问权限。",
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://x.com/trq212/status/2098860941391872132",
+          "source": "X：Thariq (@trq212)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-12T19:46:58Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Thariq (@trq212)"
+      ],
+      "items": [
+        {
+          "id": "c2560befab7f82dffe6d7cde42df3a486bec135f",
+          "title": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间 / If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
+          "title_zh": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间",
+          "title_ja": null,
+          "title_en": "If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
+          "title_original": "If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
+          "summary": "Anthropic 的 Thariq 转发并支持 Dario Amodei 的新文章《We Must Pace the Frontier》，后者提出 AI 行业应放缓的三部分计划，并承诺向第三方评估者提供永久的员工级系统访问权限。",
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://x.com/trq212/status/2098860941391872132",
+          "source": "X：Thariq (@trq212)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-12T19:46:58Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7583,
+      "importance": 0.7583,
+      "importance_score": 0.7583,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.965,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-12T19:46:58Z",
+      "latest_at": "2026-09-12T19:46:58Z",
+      "primary_item": {
+        "id": "c2560befab7f82dffe6d7cde42df3a486bec135f",
+        "title": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间 / If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
+        "title_zh": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间",
+        "title_ja": null,
+        "title_en": "If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
+        "title_original": "If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
+        "summary": "Anthropic 的 Thariq 转发并支持 Dario Amodei 的新文章《We Must Pace the Frontier》，后者提出 AI 行业应放缓的三部分计划，并承诺向第三方评估者提供永久的员工级系统访问权限。",
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://x.com/trq212/status/2098860941391872132",
+        "source": "X：Thariq (@trq212)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-12T22:31:53.940384Z"
+      }
+    },
+    {
+      "story_id": "story_f01e6682c6a0",
+      "title": "Dario Amodei 发文呼吁 AI 行业放慢前沿速度并公布三步计划 / Please read this essay. The transformative potential of AI to bring immense benefits to the world r…",
+      "title_ja": null,
+      "url": "https://x.com/PeterMcCrory/status/2098868931071226252",
+      "primary_url": "https://x.com/PeterMcCrory/status/2098868931071226252",
+      "source": "X：Peter McCrory（Anthropic 首席经济学家，@PeterMcCrory）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "fc265156e1361beb3a5e3d57c63b75562d60c0d6",
+          "title": "Dario Amodei 发文呼吁 AI 行业放慢前沿速度并公布三步计划 / Please read this essay. The transformative potential of AI to bring immense benefits to the world r…",
+          "title_zh": "Dario Amodei 发文呼吁 AI 行业放慢前沿速度并公布三步计划",
+          "title_ja": null,
+          "title_en": "Please read this essay. The transformative potential of AI to bring immense benefits to the world r…",
+          "title_original": "Please read this essay. The transformative potential of AI to bring immense benefits to the world r…",
+          "summary": "Dario Amodei 发布新文章 We Must Pace the Frontier，主张 AI 行业应放慢速度，并提出三部分计划。Anthropic 单方面承诺第一步，为第三方评估者提供永久的员工级系统访问权限，以核实安全措施执行、报告事故并评估训练期间模型的 alignment。",
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://x.com/PeterMcCrory/status/2098868931071226252",
+          "source": "X：Peter McCrory（Anthropic 首席经济学家，@PeterMcCrory）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-12T20:18:42Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Peter McCrory（Anthropic 首席经济学家，@PeterMcCrory）"
+      ],
+      "items": [
+        {
+          "id": "fc265156e1361beb3a5e3d57c63b75562d60c0d6",
+          "title": "Dario Amodei 发文呼吁 AI 行业放慢前沿速度并公布三步计划 / Please read this essay. The transformative potential of AI to bring immense benefits to the world r…",
+          "title_zh": "Dario Amodei 发文呼吁 AI 行业放慢前沿速度并公布三步计划",
+          "title_ja": null,
+          "title_en": "Please read this essay. The transformative potential of AI to bring immense benefits to the world r…",
+          "title_original": "Please read this essay. The transformative potential of AI to bring immense benefits to the world r…",
+          "summary": "Dario Amodei 发布新文章 We Must Pace the Frontier，主张 AI 行业应放慢速度，并提出三部分计划。Anthropic 单方面承诺第一步，为第三方评估者提供永久的员工级系统访问权限，以核实安全措施执行、报告事故并评估训练期间模型的 alignment。",
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://x.com/PeterMcCrory/status/2098868931071226252",
+          "source": "X：Peter McCrory（Anthropic 首席经济学家，@PeterMcCrory）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-12T20:18:42Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7566,
+      "importance": 0.7566,
+      "importance_score": 0.7566,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9724,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-12T20:18:42Z",
+      "latest_at": "2026-09-12T20:18:42Z",
+      "primary_item": {
+        "id": "fc265156e1361beb3a5e3d57c63b75562d60c0d6",
+        "title": "Dario Amodei 发文呼吁 AI 行业放慢前沿速度并公布三步计划 / Please read this essay. The transformative potential of AI to bring immense benefits to the world r…",
+        "title_zh": "Dario Amodei 发文呼吁 AI 行业放慢前沿速度并公布三步计划",
+        "title_ja": null,
+        "title_en": "Please read this essay. The transformative potential of AI to bring immense benefits to the world r…",
+        "title_original": "Please read this essay. The transformative potential of AI to bring immense benefits to the world r…",
+        "summary": "Dario Amodei 发布新文章 We Must Pace the Frontier，主张 AI 行业应放慢速度，并提出三部分计划。Anthropic 单方面承诺第一步，为第三方评估者提供永久的员工级系统访问权限，以核实安全措施执行、报告事故并评估训练期间模型的 alignment。",
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://x.com/PeterMcCrory/status/2098868931071226252",
+        "source": "X：Peter McCrory（Anthropic 首席经济学家，@PeterMcCrory）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-12T22:31:53.940384Z"
       }
     },
     {
@@ -820,16 +818,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7489,
-      "importance": 0.7489,
-      "importance_score": 0.7489,
+      "score": 0.7416,
+      "importance": 0.7416,
+      "importance_score": 0.7416,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9625,
+        "recency": 0.9224,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -856,7 +854,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T19:20:20.597946Z"
+        "scored_at": "2026-09-12T22:31:53.940384Z"
       }
     },
     {
@@ -909,16 +907,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7376,
-      "importance": 0.7376,
-      "importance_score": 0.7376,
+      "score": 0.732,
+      "importance": 0.732,
+      "importance_score": 0.732,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.75,
+        "recency": 0.7187,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -945,121 +943,121 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T19:20:20.597946Z"
+        "scored_at": "2026-09-12T22:31:53.940384Z"
       }
     },
     {
-      "story_id": "story_af7463ba7929",
-      "title": "Y Combinator 的 Garry Tan 希望美国开放式人工智能实验室也能“提炼”前沿模型 / Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
-      "title_ja": "Y CombinatorのGarry Tan氏は、米国の無差別AI研究所にもフロンティアモデルを「蒸留」してもらいたいと考えている",
-      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
-      "primary_url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
+      "story_id": "story_449833896f65",
+      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+      "title_ja": null,
+      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
+      "primary_url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
       "source": "TechCrunch AI",
       "source_name": "Curated Media",
       "sources": [
         {
-          "id": "f350545885690297233c2f6244ab2de359b1991c",
-          "title": "Y Combinator 的 Garry Tan 希望美国开放式人工智能实验室也能“提炼”前沿模型 / Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
-          "title_zh": "Y Combinator 的 Garry Tan 希望美国开放式人工智能实验室也能“提炼”前沿模型",
-          "title_ja": "Y CombinatorのGarry Tan氏は、米国の無差別AI研究所にもフロンティアモデルを「蒸留」してもらいたいと考えている",
-          "title_en": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
-          "title_original": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+          "id": "126dd4f2f9cb9d0dc87f8281a71a0e85ec28afcf",
+          "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+          "title_zh": null,
+          "title_ja": null,
+          "title_en": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+          "title_original": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
+          "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
           "source": "TechCrunch AI",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-09-11T20:59:47Z"
+          "published_at": "2026-09-12T20:19:16Z"
         },
         {
-          "id": "157e40196f3ae3f12dbe37d79de590b017ae54a1",
-          "title": "Y Combinator 的 Garry Tan 希望美国开放式人工智能实验室也能“提炼”前沿模型 / Y Combinator’s Garry Tan wants U.S. open-weight AI labs to ‘distill’ frontier models, too",
-          "title_zh": "Y Combinator 的 Garry Tan 希望美国开放式人工智能实验室也能“提炼”前沿模型",
-          "title_ja": "Yコンビネーターのギャリー・タン氏は、米国の無差別AI研究所にもフロンティアモデルを「蒸留」してもらいたいと考えている",
-          "title_en": "Y Combinator’s Garry Tan wants U.S. open-weight AI labs to ‘distill’ frontier models, too",
-          "title_original": "Y Combinator’s Garry Tan wants U.S. open-weight AI labs to ‘distill’ frontier models, too",
+          "id": "86bb588c47cf8749a6c9a05905f2ca5c26a0d0ec",
+          "title": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
+          "title_zh": null,
+          "title_ja": null,
+          "title_en": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
+          "title_original": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-11T20:59:47Z"
+          "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-12T20:28:29Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "TechCrunch",
+        "Hacker News (黑客新闻)",
         "TechCrunch AI"
       ],
       "items": [
         {
-          "id": "f350545885690297233c2f6244ab2de359b1991c",
-          "title": "Y Combinator 的 Garry Tan 希望美国开放式人工智能实验室也能“提炼”前沿模型 / Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
-          "title_zh": "Y Combinator 的 Garry Tan 希望美国开放式人工智能实验室也能“提炼”前沿模型",
-          "title_ja": "Y CombinatorのGarry Tan氏は、米国の無差別AI研究所にもフロンティアモデルを「蒸留」してもらいたいと考えている",
-          "title_en": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
-          "title_original": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+          "id": "126dd4f2f9cb9d0dc87f8281a71a0e85ec28afcf",
+          "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+          "title_zh": null,
+          "title_ja": null,
+          "title_en": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+          "title_original": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
+          "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
           "source": "TechCrunch AI",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-09-11T20:59:47Z"
+          "published_at": "2026-09-12T20:19:16Z"
         },
         {
-          "id": "157e40196f3ae3f12dbe37d79de590b017ae54a1",
-          "title": "Y Combinator 的 Garry Tan 希望美国开放式人工智能实验室也能“提炼”前沿模型 / Y Combinator’s Garry Tan wants U.S. open-weight AI labs to ‘distill’ frontier models, too",
-          "title_zh": "Y Combinator 的 Garry Tan 希望美国开放式人工智能实验室也能“提炼”前沿模型",
-          "title_ja": "Yコンビネーターのギャリー・タン氏は、米国の無差別AI研究所にもフロンティアモデルを「蒸留」してもらいたいと考えている",
-          "title_en": "Y Combinator’s Garry Tan wants U.S. open-weight AI labs to ‘distill’ frontier models, too",
-          "title_original": "Y Combinator’s Garry Tan wants U.S. open-weight AI labs to ‘distill’ frontier models, too",
+          "id": "86bb588c47cf8749a6c9a05905f2ca5c26a0d0ec",
+          "title": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
+          "title_zh": null,
+          "title_ja": null,
+          "title_en": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
+          "title_original": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-11T20:59:47Z"
+          "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-12T20:28:29Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5992,
-      "importance": 0.5992,
-      "importance_score": 0.5992,
+      "score": 0.6563,
+      "importance": 0.6563,
+      "importance_score": 0.6563,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
-        "editorial": 0.5472,
+        "editorial": 0.5688,
         "source_tier": 0.58,
-        "ai_relevance": 0.76,
-        "recency": 0.7246,
+        "ai_relevance": 0.79,
+        "recency": 0.9725,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-11T20:59:47Z",
-      "latest_at": "2026-09-11T20:59:47Z",
+      "earliest_at": "2026-09-12T20:19:16Z",
+      "latest_at": "2026-09-12T20:28:29Z",
       "primary_item": {
-        "id": "f350545885690297233c2f6244ab2de359b1991c",
-        "title": "Y Combinator 的 Garry Tan 希望美国开放式人工智能实验室也能“提炼”前沿模型 / Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
-        "title_zh": "Y Combinator 的 Garry Tan 希望美国开放式人工智能实验室也能“提炼”前沿模型",
-        "title_ja": "Y CombinatorのGarry Tan氏は、米国の無差別AI研究所にもフロンティアモデルを「蒸留」してもらいたいと考えている",
-        "title_en": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
-        "title_original": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+        "id": "126dd4f2f9cb9d0dc87f8281a71a0e85ec28afcf",
+        "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+        "title_zh": null,
+        "title_ja": null,
+        "title_en": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+        "title_original": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
         "summary": null,
         "summary_ja": null,
         "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
+        "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
         "source": "TechCrunch AI",
         "source_name": "Curated Media"
       },
@@ -1067,7 +1065,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T19:20:20.597946Z"
+        "scored_at": "2026-09-12T22:31:53.940384Z"
       }
     },
     {
@@ -1076,11 +1074,11 @@
       "title_ja": "人類のボス、ダリオ・アモデイがAI開発のスピードを緩めるよう呼びかけ",
       "url": "https://www.bbc.com/news/articles/c14dpgm0rg4o",
       "primary_url": "https://www.bbc.com/news/articles/c14dpgm0rg4o",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "4e5baa8df153440b5a918547666cd68901d6207c",
+          "id": "bf571b6f49e6677daf67408759a15d6ec4b42227",
           "title": "人类老板 Dario Amodei 呼吁放慢人工智能发展速度 / Anthropic boss Dario Amodei calls for AI development to slow down",
           "title_zh": "人类老板 Dario Amodei 呼吁放慢人工智能发展速度",
           "title_ja": "人類のボス、ダリオ・アモデイがAI開発のスピードを緩めるよう呼びかけ",
@@ -1090,9 +1088,9 @@
           "summary_ja": null,
           "recommend_reason_zh": null,
           "url": "https://www.bbc.com/news/articles/c14dpgm0rg4o",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-12T16:56:52Z"
         },
         {
@@ -1115,11 +1113,11 @@
       "source_count": 2,
       "source_names": [
         "BBC News",
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "items": [
         {
-          "id": "4e5baa8df153440b5a918547666cd68901d6207c",
+          "id": "bf571b6f49e6677daf67408759a15d6ec4b42227",
           "title": "人类老板 Dario Amodei 呼吁放慢人工智能发展速度 / Anthropic boss Dario Amodei calls for AI development to slow down",
           "title_zh": "人类老板 Dario Amodei 呼吁放慢人工智能发展速度",
           "title_ja": "人類のボス、ダリオ・アモデイがAI開発のスピードを緩めるよう呼びかけ",
@@ -1129,9 +1127,9 @@
           "summary_ja": null,
           "recommend_reason_zh": null,
           "url": "https://www.bbc.com/news/articles/c14dpgm0rg4o",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-12T16:56:52Z"
         },
         {
@@ -1153,16 +1151,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5398,
-      "importance": 0.5398,
-      "importance_score": 0.5398,
+      "score": 0.5325,
+      "importance": 0.5325,
+      "importance_score": 0.5325,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9666,
+        "recency": 0.9263,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1172,7 +1170,7 @@
       "earliest_at": "2026-09-12T15:37:39Z",
       "latest_at": "2026-09-12T16:56:52Z",
       "primary_item": {
-        "id": "4e5baa8df153440b5a918547666cd68901d6207c",
+        "id": "bf571b6f49e6677daf67408759a15d6ec4b42227",
         "title": "人类老板 Dario Amodei 呼吁放慢人工智能发展速度 / Anthropic boss Dario Amodei calls for AI development to slow down",
         "title_zh": "人类老板 Dario Amodei 呼吁放慢人工智能发展速度",
         "title_ja": "人類のボス、ダリオ・アモデイがAI開発のスピードを緩めるよう呼びかけ",
@@ -1182,14 +1180,14 @@
         "summary_ja": null,
         "recommend_reason_zh": null,
         "url": "https://www.bbc.com/news/articles/c14dpgm0rg4o",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T19:20:20.597946Z"
+        "scored_at": "2026-09-12T22:31:53.940384Z"
       }
     },
     {
@@ -1275,16 +1273,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.539,
-      "importance": 0.539,
-      "importance_score": 0.539,
+      "score": 0.5318,
+      "importance": 0.5318,
+      "importance_score": 0.5318,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.962,
+        "recency": 0.922,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1311,129 +1309,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T19:20:20.597946Z"
-      }
-    },
-    {
-      "story_id": "story_e95b34cb28f9",
-      "title": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
-      "title_ja": "AI 研究者が、私たちが再帰的な自己改善からどれだけ離れているかについて議論します",
-      "url": "https://www.dwarkesh.com/p/john-beren-charlie",
-      "primary_url": "https://www.dwarkesh.com/p/john-beren-charlie",
-      "source": "www.dwarkesh.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "6240b19a7bc85e883a73b6f030565b00ccfd380f",
-          "title": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
-          "title_zh": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
-          "title_ja": "AI 研究者が、私たちが再帰的な自己改善からどれだけ離れているかについて議論します",
-          "title_en": null,
-          "title_original": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.dwarkesh.com/p/john-beren-charlie",
-          "source": "www.dwarkesh.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-12T08:31:36.686000Z"
-        },
-        {
-          "id": "2ac0315c36a085ca73eff64770a1f3faa6b99045",
-          "title": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论 / AI researchers debate how close we are to recursive self-improvement",
-          "title_zh": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
-          "title_ja": null,
-          "title_en": "AI researchers debate how close we are to recursive self-improvement",
-          "title_original": "AI researchers debate how close we are to recursive self-improvement",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.dwarkesh.com/p/john-beren-charlie",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-11T21:35:29Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "www.dwarkesh.com"
-      ],
-      "items": [
-        {
-          "id": "6240b19a7bc85e883a73b6f030565b00ccfd380f",
-          "title": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
-          "title_zh": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
-          "title_ja": "AI 研究者が、私たちが再帰的な自己改善からどれだけ離れているかについて議論します",
-          "title_en": null,
-          "title_original": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.dwarkesh.com/p/john-beren-charlie",
-          "source": "www.dwarkesh.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-12T08:31:36.686000Z"
-        },
-        {
-          "id": "2ac0315c36a085ca73eff64770a1f3faa6b99045",
-          "title": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论 / AI researchers debate how close we are to recursive self-improvement",
-          "title_zh": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
-          "title_ja": null,
-          "title_en": "AI researchers debate how close we are to recursive self-improvement",
-          "title_original": "AI researchers debate how close we are to recursive self-improvement",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.dwarkesh.com/p/john-beren-charlie",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-11T21:35:29Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5199,
-      "importance": 0.5199,
-      "importance_score": 0.5199,
-      "importance_label": "值得关注",
-      "importance_label_ja": "要注目",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8559,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-11T21:35:29Z",
-      "latest_at": "2026-09-12T08:31:36.686000Z",
-      "primary_item": {
-        "id": "6240b19a7bc85e883a73b6f030565b00ccfd380f",
-        "title": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
-        "title_zh": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
-        "title_ja": "AI 研究者が、私たちが再帰的な自己改善からどれだけ離れているかについて議論します",
-        "title_en": null,
-        "title_original": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.dwarkesh.com/p/john-beren-charlie",
-        "source": "www.dwarkesh.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-12T19:20:20.597946Z"
+        "scored_at": "2026-09-12T22:31:53.940384Z"
       }
     }
   ]
