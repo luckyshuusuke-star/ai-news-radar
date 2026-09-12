@@ -1,55 +1,95 @@
 {
-  "generated_at": "2026-09-12T17:07:25.050211Z",
+  "generated_at": "2026-09-12T19:18:12.995631Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-09-10",
-  "count_today": 5,
+  "latest_date": "2026-09-12",
+  "count_today": 4,
   "updates_today": [
     {
-      "date": "2026-09-10",
-      "title": "非工程师怎么用好 Grok Bot？",
-      "summary": "作者把散落在Grok Bot官方企业版博客、指南库、开发文档里的案例全拼到了一起，包含招聘、销售、市场、财务、再加设计，共同整理成今天这篇文章——「非工程师到底怎么用好 Grok Bot」",
-      "url": "https://waytoagi.feishu.cn/wiki/O0wVwge7yifAhpkEtRZcwPv8nme?from=from_copylink",
-      "title_ja": "非エンジニアが Grok Bot を上手に活用するにはどうすればよいでしょうか?",
-      "summary_ja": "採用、営業、マーケティング、財務、デザインなど、Grok Botの公式エンタープライズブログやガイドライブラリ、開発ドキュメントに散りばめられた事例を著者がまとめて、今日の記事「非エンジニアがGrok Botを上手に使いこなすには？」にまとめました。"
+      "date": "2026-09-12",
+      "title": "开源协议完全指南：有哪些、怎么用、应该怎么选",
+      "summary": "还在为上传 GitHub 项目该选什么开源协议发愁？这篇文章拆解了MIT、Apache、GPL 等主流许可证的规则，以及开源、免费、源码可见三者的区别。不管是开发小工具、制作Skill，都能快速匹配合适的协议，守住知识产权边界。",
+      "url": "https://waytoagi.feishu.cn/wiki/OcAQwSrJfi77ozkO1HvckIDIn6b?from=from_copylink",
+      "title_ja": "オープンソース プロトコルの完全ガイド: オープンソース プロトコルとは何か、使用方法、何を選択すべきか?",
+      "summary_ja": "GitHub プロジェクトをアップロードするときにどのオープン ソース プロトコルを選択するかまだ心配ですか?この記事では、MIT、Apache、GPL などの主流ライセンスのルールと、オープン ソース コード、無料ソース コード、および公開ソース コードの違いについて詳しく説明します。ガジェットを開発している場合でも、スキルを作成している場合でも、適切なプロトコルを迅速に照合し、知的財産権の境界を保護できます。"
     },
     {
-      "date": "2026-09-10",
-      "title": "看完苹果 2026 秋季发布会，学到的 AI 硬件设计思路",
-      "summary": "苹果发布了首款折叠屏 iPhone，也更新了耳机和手表。借着这场发布会，我们一起来探索下：做 AI 硬件，我们能向苹果偷师什么？从功能放在哪台设备上，到用户怎么检查 AI 的结果，这些具体设计里，有不少值得拆开看的产品思路。",
-      "url": "https://waytoagi.feishu.cn/wiki/QskTwJwV6i4Rh1k3jZpc3nc1nbb?from=from_copylink",
-      "title_ja": "Apple の 2026 年秋のカンファレンスを見て、AI ハードウェア設計のアイデアを学びました",
-      "summary_ja": "Appleは初の折りたたみ式iPhoneをリリースし、ヘッドフォンと時計もアップデートした。この記者会見を通じて、AI ハードウェアの製造において Apple から何を学べるのかを一緒に考えてみましょう。どのデバイスに機能を配置するか、ユーザーが AI の結果を確認する方法に至るまで、これらの具体的な設計には、検討する価値のある製品アイデアが数多くあります。"
+      "date": "2026-09-12",
+      "title": "如何让 GPT-6 Astra 顺利跑完任务（AGENTS.md 设置指南）",
+      "summary": "大家给 Agent 配规则，核心都在防止它把任务跑偏。可GPT-6 Astra的问题恰好翻转了——它更容易因为边界不够清楚而提前停下，旧配置里的“刹车”反而成了完成任务的障碍。作者从 AGENTS.md 入手，详解了关于GPT-6 Astra，哪些规则该删、怎样把模糊限制改成明确的完成标准和审批边界，再配合验证机制，少打断Agent。",
+      "url": "https://waytoagi.feishu.cn/wiki/NtSWwGf4niHJGhkOyxEctcEsn5f?from=from_copylink",
+      "title_ja": "GPT-6 Astra がタスクを正常に完了する方法 (AGENTS.md セットアップ ガイド)",
+      "summary_ja": "全員がエージェントにルールを割り当てます。その中心となるのは、エージェントがタスクから逸脱しないようにすることです。しかし、GPT-6 Astraの問題はまさに逆です。境界が十分に明確ではないため、早期に停止する可能性が高く、古い構成の「ブレーキ」がタスクを完了する際の障害になります。著者は、AGENTS.md を起点として、GPT-6 Astra について、どのルールを削除する必要があるのか​​、あいまいな制限を明確な完了基準と承認境界に変更する方法、そしてエージェントの中断を避けるために検証メカニズムと連携する方法について詳しく説明します。"
     },
     {
-      "date": "2026-09-10",
-      "title": "Grok Bot产品负责人：只用几个人，如何在30天内做出Grok Bot？丨Lenny",
-      "summary": "Grok Bot 产品负责人复盘了几人团队如何在一个月做出内部原型，以及如何靠两百多位真实用户的陪跑、界面删减和底层改进，把它推向公开发布的。产品人快来一起学习下！",
-      "url": "https://waytoagi.feishu.cn/wiki/LuQAwK6H4iawJOkQkSJcH8dPnxc?from=from_copylink",
-      "title_ja": "Grok Bot プロダクト リーダー: わずか数人で 30 日で Grok Bot を作成するには?丨Lenny",
-      "summary_ja": "Grok Bot のプロダクト リーダーは、数人のチームが 1 か月間で社内プロトタイプをどのように作成したか、そして 200 人を超える実際のユーザーの助けを借りてそれをどのように公開リリースし、インターフェイスの削除や根本的な改善を行ったかをレビューしました。製品担当者の皆さん、一緒に学びましょう！"
+      "date": "2026-09-12",
+      "title": "吴恩达老师「AI 工程技能地图」系列完整解读：构建 AI 应用 × 软件工程基础 × 驾驭编程智能体 × 塑造构建",
+      "summary": "吴恩达老师「AI 工程技能地图」系列完整解读：构建 AI 应用 × 软件工程基础 × 驾驭编程智能体 × 塑造构建",
+      "url": "https://waytoagi.feishu.cn/wiki/BskMwL7Pbi7GxAkOfuqcD2cYnVU?from=from_copylink",
+      "title_ja": null,
+      "summary_ja": "Andrew Ng 氏の「AI エンジニアリング スキル マップ」シリーズの完全な解釈: AI アプリケーションの構築 × ソフトウェア エンジニアリングの基礎 × プログラミング エージェントの習得 × 形成と構築"
     },
     {
-      "date": "2026-09-10",
-      "title": "GPT Image 2.5 提示词与图像编辑完全指南及核心实战案例全景解析",
-      "summary": "小互这份文章拆解了 GPT Image 2.5 全套官方实操指南，附带 API 参数规范、8大提示词心法与 22 个实战案例。而且还提供了可直接参考的工程级提示词模板与落地工具包。快来上手试试！",
-      "url": "https://waytoagi.feishu.cn/wiki/Dhq7wggOjivlv1kvqLncEUFPnjz?from=from_copylink",
-      "title_ja": "GPT Image 2.5 プロンプトワードと画像編集の完全ガイド、および中核となる実践事例のパノラマ分析",
-      "summary_ja": "Xiaohu によるこの記事では、API パラメーターの仕様、8 つのヒント、22 の実際的なケースを含む、GPT Image 2.5 の公式実践ガイドの完全なセットを分解しています。また、直接参照できるエンジニアリング レベルのプロンプト ワード テンプレートと実装ツールキットも提供します。ぜひ試してみてください！"
-    },
-    {
-      "date": "2026-09-10",
-      "title": "DeepSeek V4.1 Flash 开源：全新架构",
-      "summary": "DeepSeek开源V4.1 Flash，采用创新非对称的MoE架构，550B总参数，输入仅激活 8B、输出激活 16B，Agent相关基准测试变现都有大幅跃升。配套DeepSeek Harness也进行了同步迭代，补上了文件读写、子 Agent 对话、任务协作和缓存保留等实用能力。",
-      "url": "https://waytoagi.feishu.cn/wiki/UagowlyXcitnpqk1CKOcOxeznzb?from=from_copylink",
-      "title_ja": "DeepSeek V4.1 Flash オープンソース: 新しいアーキテクチャ",
-      "summary_ja": "DeepSeek のオープン ソース V4.1 フラッシュは、合計 550B のパラメータを持つ革新的な非対称 MoE アーキテクチャを採用しています。 8B の入力のみがアクティブになり、16B の出力がアクティブになります。エージェント関連のベンチマーク テストの収益化が大幅に増加しました。サポートする DeepSeek ハーネスも同時に反復され、ファイルの読み取りと書き込み、サブエージェントの対話、タスクのコラボレーション、キャッシュ保持などの実用的な機能が追加されました。"
+      "date": "2026-09-12",
+      "title": "万字长文 | Agent 工程解析（一）：上下文管理",
+      "summary": "最近 OpenAI 和 Anthropic 相继把上下文窗口干到了1M，但上下文窗口是不是越大越好？作者这篇文章就从底层原理出发，以 Claude Code 为例，彻底揭开大模型的上下文管理的神秘面纱。",
+      "url": "https://waytoagi.feishu.cn/wiki/O3VAwaZmnihXt6k9Fdjc4WKFnoh?from=from_copylink",
+      "title_ja": "10,000 ワードの長い記事 |エージェントエンジニアリング分析(1):コンテキスト管理",
+      "summary_ja": "最近、OpenAI と Anthropic が相次いでコンテキスト ウィンドウを 1M に増やしましたが、コンテキスト ウィンドウは大きいほど良いのでしょうか。この記事では、基本的な原則から始めて、クロード コードを例として取り上げ、大規模モデルのコンテキスト管理の謎を完全に明らかにします。"
     }
   ],
-  "count_7d": 22,
+  "count_7d": 28,
   "updates_7d": [
+    {
+      "date": "2026-09-12",
+      "title": "开源协议完全指南：有哪些、怎么用、应该怎么选",
+      "summary": "还在为上传 GitHub 项目该选什么开源协议发愁？这篇文章拆解了MIT、Apache、GPL 等主流许可证的规则，以及开源、免费、源码可见三者的区别。不管是开发小工具、制作Skill，都能快速匹配合适的协议，守住知识产权边界。",
+      "url": "https://waytoagi.feishu.cn/wiki/OcAQwSrJfi77ozkO1HvckIDIn6b?from=from_copylink",
+      "title_ja": "オープンソース プロトコルの完全ガイド: オープンソース プロトコルとは何か、使用方法、何を選択すべきか?",
+      "summary_ja": "GitHub プロジェクトをアップロードするときにどのオープン ソース プロトコルを選択するかまだ心配ですか?この記事では、MIT、Apache、GPL などの主流ライセンスのルールと、オープン ソース コード、無料ソース コード、および公開ソース コードの違いについて詳しく説明します。ガジェットを開発している場合でも、スキルを作成している場合でも、適切なプロトコルを迅速に照合し、知的財産権の境界を保護できます。"
+    },
+    {
+      "date": "2026-09-12",
+      "title": "如何让 GPT-6 Astra 顺利跑完任务（AGENTS.md 设置指南）",
+      "summary": "大家给 Agent 配规则，核心都在防止它把任务跑偏。可GPT-6 Astra的问题恰好翻转了——它更容易因为边界不够清楚而提前停下，旧配置里的“刹车”反而成了完成任务的障碍。作者从 AGENTS.md 入手，详解了关于GPT-6 Astra，哪些规则该删、怎样把模糊限制改成明确的完成标准和审批边界，再配合验证机制，少打断Agent。",
+      "url": "https://waytoagi.feishu.cn/wiki/NtSWwGf4niHJGhkOyxEctcEsn5f?from=from_copylink",
+      "title_ja": "GPT-6 Astra がタスクを正常に完了する方法 (AGENTS.md セットアップ ガイド)",
+      "summary_ja": "全員がエージェントにルールを割り当てます。その中心となるのは、エージェントがタスクから逸脱しないようにすることです。しかし、GPT-6 Astraの問題はまさに逆です。境界が十分に明確ではないため、早期に停止する可能性が高く、古い構成の「ブレーキ」がタスクを完了する際の障害になります。著者は、AGENTS.md を起点として、GPT-6 Astra について、どのルールを削除する必要があるのか​​、あいまいな制限を明確な完了基準と承認境界に変更する方法、そしてエージェントの中断を避けるために検証メカニズムと連携する方法について詳しく説明します。"
+    },
+    {
+      "date": "2026-09-12",
+      "title": "吴恩达老师「AI 工程技能地图」系列完整解读：构建 AI 应用 × 软件工程基础 × 驾驭编程智能体 × 塑造构建",
+      "summary": "吴恩达老师「AI 工程技能地图」系列完整解读：构建 AI 应用 × 软件工程基础 × 驾驭编程智能体 × 塑造构建",
+      "url": "https://waytoagi.feishu.cn/wiki/BskMwL7Pbi7GxAkOfuqcD2cYnVU?from=from_copylink",
+      "title_ja": null,
+      "summary_ja": "Andrew Ng 氏の「AI エンジニアリング スキル マップ」シリーズの完全な解釈: AI アプリケーションの構築 × ソフトウェア エンジニアリングの基礎 × プログラミング エージェントの習得 × 形成と構築"
+    },
+    {
+      "date": "2026-09-12",
+      "title": "万字长文 | Agent 工程解析（一）：上下文管理",
+      "summary": "最近 OpenAI 和 Anthropic 相继把上下文窗口干到了1M，但上下文窗口是不是越大越好？作者这篇文章就从底层原理出发，以 Claude Code 为例，彻底揭开大模型的上下文管理的神秘面纱。",
+      "url": "https://waytoagi.feishu.cn/wiki/O3VAwaZmnihXt6k9Fdjc4WKFnoh?from=from_copylink",
+      "title_ja": "10,000 ワードの長い記事 |エージェントエンジニアリング分析(1):コンテキスト管理",
+      "summary_ja": "最近、OpenAI と Anthropic が相次いでコンテキスト ウィンドウを 1M に増やしましたが、コンテキスト ウィンドウは大きいほど良いのでしょうか。この記事では、基本的な原則から始めて、クロード コードを例として取り上げ、大規模モデルのコンテキスト管理の謎を完全に明らかにします。"
+    },
+    {
+      "date": "2026-09-11",
+      "title": "Grok Bot 蓝皮书 v0.1｜让 Grok Bot 做你全部工作的大管家",
+      "summary": "黄叔这篇 Grok Bot 蓝皮书带你上手这套自带云端电脑的 AI 协作系统。你只需要下达目标，搭建的 AI 员工便能自主分工、交接任务，24 小时在云端持续运行。文中还有大量实操案例，如果你不懂代码，也能跟着一起搭建自动化工作流，把自己从繁杂事务中解放出来。",
+      "url": "https://waytoagi.feishu.cn/wiki/FAnxwKzS2imcC7k7yTccnTJVnjc?from=from_copylink",
+      "title_ja": "Grok Bot Blue Book v0.1｜Grok Bot をすべての作業の管理者にしましょう",
+      "summary_ja": "Uncle Huang の Grok Bot Blue Book は、クラウド コンピューターを備えたこの AI コラボレーション システムを使い始めるのに役立ちます。目標を設定するだけで、構築したAI従業員は独立して分業・タスク引き継ぎを行うことができ、クラウド上で24時間稼働し続けます。記事には実際の事例もたくさん掲載されています。コードの知識がない場合でも、手順に従って自動化されたワークフローを構築し、複雑な作業から解放されます。"
+    },
+    {
+      "date": "2026-09-11",
+      "title": "Codex 实战系列｜零代码画出复杂架构图",
+      "summary": "你是不是也还在为方案架构图反复调整方框、连线而耗费大量时间？作者用Codex搭配Draw.io MCP的工作流，能自动生成可编辑的图表，就算是多层、数十个模块的复杂大图也能搞定。文中还附带了完整配置教程、多种实战案例与绘图编辑技巧，做PPT、项目方案的大家可以直接上手实操。",
+      "url": "https://waytoagi.feishu.cn/wiki/LAqgwqibui6pdnkjBm9cqRVHnjb?from=from_copylink",
+      "title_ja": "Codex実践シリーズ｜複雑なアーキテクチャ図をゼロコードで描く",
+      "summary_ja": "ソリューション アーキテクチャ図上のボックスや接続の調整にまだ多くの時間を費やしていますか?著者は、Codex と Draw.io MCP ワークフローを使用して、編集可能な図を自動的に生成します。これには、複数のレイヤーと数十のモジュールを含む複雑で大きな図も含まれます。この記事には、完全な構成チュートリアル、さまざまな実践的なケース、図面編集スキルも含まれています。 PPT やプロジェクト計画を作成する人は誰でも、直接始めることができます。"
+    },
     {
       "date": "2026-09-10",
       "title": "非工程师怎么用好 Grok Bot？",
@@ -208,23 +248,23 @@
       "summary": "很多人升级 GPT-6 Astra 后，最容易犯的错就是把旧的 AGENTS.md、超长的Skill继续塞进去，结果模型变强了，提示词反而拖后腿。作者把 Astra需要重新控制的点讲得很清楚：自主性、指令优先级、写作风格、子Agent委派、验证尺度。然后又用8个模块拆出了提示词框架——目标、上下文、优先级、自主边界、工具、输出、验证、停止条件。",
       "url": "https://waytoagi.feishu.cn/wiki/AyyuwpgrYiSzJNkdRhjciTk4nlh?from=from_copylink",
       "title_ja": "GPT-6 アストラ プロンプト ワード マスター クラス",
-      "summary_ja": null
+      "summary_ja": "GPT-6 Astra をアップグレードした後、多くの人が犯す最も一般的な間違いは、古い AGENTS.md と非常に長いスキルを挿入し続けることです。その結果、モデルはより強力になり、即時の言葉がそれを妨げます。著者は、自律性、コマンドの優先順位、書き方、サブエージェントの委任、検証基準など、アストラが制御を取り戻す必要がある点を明確に説明しています。次に、プロンプトワードフレームワークは、ターゲット、コンテキスト、優先度、自律境界、ツール、出力、検証、停止条件の 8 つのモジュールを使用して逆アセンブルされました。"
     },
     {
       "date": "2026-09-07",
       "title": "GEO 排名因子之一：Entity 和主题权重",
       "summary": "做SEO/GEO，最容易一上来盯着热词和流量：内容越写越散，AI 反而搞不清你的网站究竟解决什么问题，还可能引来一堆无效访问。在作者看来，核心是先做好网站 Entity 实体定义。先把身份定稳，后续SEO/GEO 才不会跑偏，收获真正有转化价值的流量。",
       "url": "https://waytoagi.feishu.cn/wiki/FZMkwK579i9aChko8tNcqQ5snpc?from=from_copylink",
-      "title_ja": null,
-      "summary_ja": null
+      "title_ja": "GEO ランキング要素の 1 つ: エンティティとトピックの重み",
+      "summary_ja": "SEO/GEO を行う場合、ホットワードとトラフィックに焦点を当てるのが最も簡単です。コンテンツを書けば書くほど、コンテンツはより分散していきます。それどころか、AI は Web サイトがどのような問題を解決しているのかを把握できず、無効な訪問が大量に発生する可能性もあります。著者の意見では、中心となるのは、最初に Web サイトのエンティティを定義することです。まず、アイデンティティを安定させて、後続の SEO/GEO が迷わず、実際のコンバージョン値でトラフィックを収集できるようにします。"
     },
     {
       "date": "2026-09-07",
       "title": "6000字故事｜带你入门 GPT-6 Astra ，小白直接照着做",
       "summary": "最近GPT-6 Astra + 3D的玩法疯狂刷屏。如果你还不太清楚怎么玩儿，作者这篇文章可以带你入门GPT-6 Astra：怎么交代要求，怎么给材料，怎么看截图，答案不对时怎么改，最后拿到什么结果才算做完。",
       "url": "https://waytoagi.feishu.cn/wiki/F0kAwUNd7ioTYnkJUGac3BLWnBd?from=from_copylink",
-      "title_ja": null,
-      "summary_ja": null
+      "title_ja": "6000 語のストーリー｜GPT-6 Astra の入門ガイド、初心者でも簡単に理解できます",
+      "summary_ja": "最近、GPT-6 Astra + 3Dのゲームプレイがヤバいです。まだプレイ方法がわからない場合は、要件の説明方法、資料の提供方法、スクリーンショットの見方、答えが間違っている場合の変更方法、および最終的にどのような結果が完成したとみなされるかなど、著者の記事が GPT-6 Astra を始めるのに役立ちます。"
     }
   ],
   "warning": null,
