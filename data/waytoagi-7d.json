@@ -1,79 +1,95 @@
 {
-  "generated_at": "2026-09-14T06:14:53.608396Z",
+  "generated_at": "2026-09-15T01:25:58.208135Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-09-13",
-  "count_today": 8,
+  "latest_date": "2026-09-14",
+  "count_today": 5,
   "updates_today": [
     {
-      "date": "2026-09-13",
-      "title": "高密度页面怎么组织：一份信息呈现指南",
-      "summary": "AI 能快速生成网页，但常常会忽略信息层级，导致用户难以抓取重点、找不到操作路径。作者基于自身的前端实践，整理出了一套页面信息组织指南，还配套开源了覆盖 19 种页面形态的Demo。这份指南还可以直接交给 AI，用来评审、迭代前端页面，帮你产出逻辑清晰、贴合业务的后台界面。",
-      "url": "https://waytoagi.feishu.cn/wiki/YrB2wWEj2i85uCkcBdmcID7Snnh?from=from_copylink",
+      "date": "2026-09-14",
+      "title": "工程师如何用好 Grok bot?",
+      "summary": "Grok Bot工程师分享了自己关于Grok Bot的常用玩法。正在尝试多 Agent 协作的开发者和技术负责人，可以参考这套流程上手试试，或许可以节省很多时间！",
+      "url": "https://waytoagi.feishu.cn/wiki/HIJgw5WFVidNP4kAaiwcN01Wn6e?from=from_copylink",
       "title_ja": null,
       "summary_ja": null
     },
     {
-      "date": "2026-09-13",
-      "title": "系统设计入门：如何从 HLD 和 LLD 开始",
-      "summary": "这份系统设计入门指南专为零基础开发者打造，清晰区分了高层 HLD 架构与底层 LLD 代码设计两大模块。覆盖负载均衡、缓存、数据库选型、CAP 定理等核心概念，搭配 SOLID 原则、常用设计模式与 UML 类图，附带完整练习框架。可以帮你循序渐进地建立完整系统设计思维。",
-      "url": "https://waytoagi.feishu.cn/wiki/MjlMwNLsxild82krb9CcVGBWnoc?from=from_copylink",
+      "date": "2026-09-14",
+      "title": "别再只卷Prompt 了，真正拉开Agent差距的是Context Engineering",
+      "summary": "别再只卷Prompt 了，真正拉开Agent差距的是Context Engineering",
+      "url": "https://waytoagi.feishu.cn/wiki/YdUHw2T0PikFp5k2HKPcJqINnOe?from=from_copylink",
       "title_ja": null,
       "summary_ja": null
     },
     {
-      "date": "2026-09-13",
-      "title": "图解 KV Cache——DS V4.1-Flash的制胜秘密",
-      "summary": "DeepSeek V1 到 V4.1-Flash，单 token 的 global KV 如何从 389,000 B 压缩到 890 B的？这篇文章对于 Agent 的使用者、本地模型部署者、模型开发者都有一定帮助。",
-      "url": "https://waytoagi.feishu.cn/wiki/Ny3awPIcWig9bCkQdLYcHbabnKd?from=from_copylink",
+      "date": "2026-09-14",
+      "title": "会话管理（二）：持久化与恢复",
+      "summary": "Agent 被关闭或意外中断以后，如何恢复之前的工作？一起来检查下自己的会话恢复设计是否漏了一些关键环节！",
+      "url": "https://waytoagi.feishu.cn/wiki/P9j2wxAfUiEOfokVuIYcqO4Un0e?from=from_copylink",
       "title_ja": null,
       "summary_ja": null
     },
     {
-      "date": "2026-09-13",
-      "title": "《100 个问题》系列丛书",
-      "summary": "作者整理了《关于豆包工作的 100 个问题》，主要聚焦一些用户的真实疑问：豆包工作和 Kimi 会员哪个划算？额度消耗能不能查账单？面对千问办公、WorkBuddy 竞品，豆包工作表现如何。",
-      "url": "https://waytoagi.feishu.cn/wiki/YTt3wPPIeixEK5kbJPnc0YL7nTf",
-      "title_ja": "書籍「100の質問」シリーズ",
-      "summary_ja": null
-    },
-    {
-      "date": "2026-09-13",
-      "title": "LLM 为什么缓存 K 和 V，却通常不缓存 Q？",
-      "summary": "KV 缓存让模型保留了一部分已经完成的计算。 但它为什么保留 K 和 V？同样参与 attention 的 Q，为什么通常可以用完就放下？这篇就来讨论这个问题，帮你理解 KV缓存。",
-      "url": "https://waytoagi.feishu.cn/wiki/L9DSw8RPdibYPDkIThrcO8C6nzg?from=from_copylink",
+      "date": "2026-09-14",
+      "title": "Vibe Coding 网页动效词典（上篇）：教你准确描述页面怎么动",
+      "summary": "Vibe coding 做动效，最容易卡在表达上。你脑中能看到效果，却叫不出它的名字；只会说“丝滑一点”“高级一点”“像苹果官网那样”，AI 只能根据自己的理解发挥。读完作者这篇文章以后，你会知道鼠标悬停、滚动、点击和状态变化该怎样描述，也会分清淡入（Fade）、滑入（Slide）、交错出现（Stagger）、模糊显现（Blur reveal）和按行显现（Line reveal）。",
+      "url": "https://waytoagi.feishu.cn/wiki/OuhQwmvi0iNmOpkXHv2c6gUanzc?from=from_copylink",
       "title_ja": null,
       "summary_ja": null
     },
     {
-      "date": "2026-09-13",
-      "title": "Grok Bot 应用指南实操案例：闲鱼上架、小红书做图、找工具、做短视频、整理收藏",
-      "summary": "这份指南给出了Grok Bot的五种独立用法：整理商品上架资料、制作六张知识图卡、筛选工具做简报、制作教学工具并录成配音视频、把收藏转成选题素材。每个案例都附有提示词和成品展示，也讲清了要提供哪些材料、拿到什么文件。运营和内容创作者们可以挑一个手头任务，跟着试一试。",
-      "url": "https://waytoagi.feishu.cn/wiki/AyupwGFq0i73bfkIFw9cuuwvnyg?from=from_copylink",
-      "title_ja": null,
-      "summary_ja": null
-    },
-    {
-      "date": "2026-09-13",
-      "title": "AI 写代码越快，企业越需要自己的 Harness",
-      "summary": "这篇文章是作者关于 Harness Coding 的现场分享文稿，拆解了 AI 编码落地的四大核心难题，并给出了完整的工程闭环方案。",
-      "url": "https://waytoagi.feishu.cn/wiki/CPWDw9UKfio1XbkIWofcHcPvnUg?from=from_copylink",
-      "title_ja": null,
-      "summary_ja": null
-    },
-    {
-      "date": "2026-09-13",
-      "title": "9.7—9.13｜本周顶级 AI 论文",
-      "summary": "Agent 做长任务容易跑偏，读长文漏掉关键证据，多开几个助手又越来越费钱——本周精选的10篇 AI 论文，集中回应了这些实际难题。用程序图帮助 Agent 安排步骤，利用文档目录提高检索准确率，通过并行阅读和精简协作方式提升效率；还有只改设计文档、让 AI 重新生成代码的尝试，以及智能体群体作弊的案例。在做Agent、知识库或 AI 产品的，可以从自己遇到的问题切入，找找下一步值得尝试的方法。",
-      "url": "https://waytoagi.feishu.cn/wiki/WDu3wV8X9iWmVjkLbTmczksvnig?from=from_copylink",
+      "date": "2026-09-14",
+      "title": "Stripe CEO 对谈 Replit 创始人：历史上创业的最佳时机",
+      "summary": "AI 让做产品更容易了，创业的难题也随之转向：客户从哪里来，代码人人能写，生意又靠什么留住人？Stripe CEO 与 Replit 创始人从溜冰场软件、教师工具和乡村瑜伽项目聊起，指出了普通人的机会：熟悉行业里的具体麻烦，服务被大公司忽略的小需求。产品可以快速做出来，客户关系、使用体验和持续经营仍要自己积累。",
+      "url": "https://waytoagi.feishu.cn/wiki/MgzlwRMS5itqiAkOluTcKBtrnsc?from=from_copylink",
       "title_ja": null,
       "summary_ja": null
     }
   ],
-  "count_7d": 34,
+  "count_7d": 31,
   "updates_7d": [
+    {
+      "date": "2026-09-14",
+      "title": "工程师如何用好 Grok bot?",
+      "summary": "Grok Bot工程师分享了自己关于Grok Bot的常用玩法。正在尝试多 Agent 协作的开发者和技术负责人，可以参考这套流程上手试试，或许可以节省很多时间！",
+      "url": "https://waytoagi.feishu.cn/wiki/HIJgw5WFVidNP4kAaiwcN01Wn6e?from=from_copylink",
+      "title_ja": null,
+      "summary_ja": null
+    },
+    {
+      "date": "2026-09-14",
+      "title": "别再只卷Prompt 了，真正拉开Agent差距的是Context Engineering",
+      "summary": "别再只卷Prompt 了，真正拉开Agent差距的是Context Engineering",
+      "url": "https://waytoagi.feishu.cn/wiki/YdUHw2T0PikFp5k2HKPcJqINnOe?from=from_copylink",
+      "title_ja": null,
+      "summary_ja": null
+    },
+    {
+      "date": "2026-09-14",
+      "title": "会话管理（二）：持久化与恢复",
+      "summary": "Agent 被关闭或意外中断以后，如何恢复之前的工作？一起来检查下自己的会话恢复设计是否漏了一些关键环节！",
+      "url": "https://waytoagi.feishu.cn/wiki/P9j2wxAfUiEOfokVuIYcqO4Un0e?from=from_copylink",
+      "title_ja": null,
+      "summary_ja": null
+    },
+    {
+      "date": "2026-09-14",
+      "title": "Vibe Coding 网页动效词典（上篇）：教你准确描述页面怎么动",
+      "summary": "Vibe coding 做动效，最容易卡在表达上。你脑中能看到效果，却叫不出它的名字；只会说“丝滑一点”“高级一点”“像苹果官网那样”，AI 只能根据自己的理解发挥。读完作者这篇文章以后，你会知道鼠标悬停、滚动、点击和状态变化该怎样描述，也会分清淡入（Fade）、滑入（Slide）、交错出现（Stagger）、模糊显现（Blur reveal）和按行显现（Line reveal）。",
+      "url": "https://waytoagi.feishu.cn/wiki/OuhQwmvi0iNmOpkXHv2c6gUanzc?from=from_copylink",
+      "title_ja": null,
+      "summary_ja": null
+    },
+    {
+      "date": "2026-09-14",
+      "title": "Stripe CEO 对谈 Replit 创始人：历史上创业的最佳时机",
+      "summary": "AI 让做产品更容易了，创业的难题也随之转向：客户从哪里来，代码人人能写，生意又靠什么留住人？Stripe CEO 与 Replit 创始人从溜冰场软件、教师工具和乡村瑜伽项目聊起，指出了普通人的机会：熟悉行业里的具体麻烦，服务被大公司忽略的小需求。产品可以快速做出来，客户关系、使用体验和持续经营仍要自己积累。",
+      "url": "https://waytoagi.feishu.cn/wiki/MgzlwRMS5itqiAkOluTcKBtrnsc?from=from_copylink",
+      "title_ja": null,
+      "summary_ja": null
+    },
     {
       "date": "2026-09-13",
       "title": "高密度页面怎么组织：一份信息呈现指南",
@@ -281,70 +297,6 @@
       "url": "https://waytoagi.feishu.cn/wiki/Kr6xwhwENik3gCk1HyUceqcunAb?from=from_copylink",
       "title_ja": "AI ハードウェアが本格的に登場: Anker の初のハッカソン コンペティションの通訳とインテリジェント セキュリティ トラック (AI + カメラ) の経験共有",
       "summary_ja": "この記事は、Anker の最初のハッカソン チャレンジに参加する準備をしている開発者だけでなく、AI ハードウェアを作成したい人にも適しています。 The author combines three projects he has done to talk to you about how AI hardware may change our living habits after it enters the home."
-    },
-    {
-      "date": "2026-09-08",
-      "title": "用Grok Bot搭建自媒体团队：保姆级教程",
-      "summary": "作者利用 Grok Bot 的长期角色、共享文件和群聊协作功能，搭出了一个“情报→选题 Brief→写稿→事实审校→人工发布→数据复盘”的完整创作链路。如果你也想做自媒体，可以试试！",
-      "url": "https://waytoagi.feishu.cn/wiki/TNlAwweQZipOBYkBcACcjgHunzb?from=from_copylink",
-      "title_ja": "Grok Bot を使用してセルフメディア チームを構築する: 乳母レベルのチュートリアル",
-      "summary_ja": "著者はGrok Botの長期ロール、共有ファイル、グループチャットコラボレーション機能を利用して、「インテリジェンス→トピック選択ブリーフ→原稿執筆→ファクトレビュー→マニュアル公開→データレビュー」という完全なクリエイティブリンクを作成した。あなたもセルフメディアをやってみたいと思っているなら、ぜひ試してみてください！"
-    },
-    {
-      "date": "2026-09-08",
-      "title": "用 GPT-6 和 Blender，把一份产品 3D 模型做成宣传视频",
-      "summary": "作者最近拿EasyInput 键盘做了一次尝试：从一份已有的 3D 结构文件出发，让 AI 操作 Blender，调整产品的外观表达、布置灯光和镜头，再把按键、旋钮和软件功能编排进动画。经过多轮修改，最终做出了一支 62 秒的产品展示视频，也留下了可以继续编辑的 3D 工程。一起来看看！",
-      "url": "https://waytoagi.feishu.cn/wiki/CYeGwZ1NoiSNG9kEYdMc6hUmnKb?from=from_copylink",
-      "title_ja": "GPT-6 と Blender を使用して製品の 3D モデルをプロモーション ビデオに変換する",
-      "summary_ja": "筆者は最近、EasyInput キーボードを使って、既存の 3D 構造ファイルから AI に Blender を操作させ、製品の外観を調整し、ライトやレンズを配置し、ボタン、ノブ、ソフトウェア機能をアニメーションに配置することを試みました。複数回の修正を経て、最終的に 62 秒の製品デモ ビデオが作成され、引き続き編集可能な 3D プロジェクトが完成しました。見てみましょう！"
-    },
-    {
-      "date": "2026-09-08",
-      "title": "图解 Blender for macOS",
-      "summary": "GPT-6 玩转 macOS 上的Blender前需要哪些最基础的知识？作者这篇文章以金门大桥3D模型带你简单入门！",
-      "url": "https://waytoagi.feishu.cn/wiki/QnQvwYHpjir8aikJ0decu1e3n2g?from=from_copylink",
-      "title_ja": "macOS用イラストBlender",
-      "summary_ja": "GPT-6 macOS で Blender を使用する前に必要な最も基本的な知識は何ですか?筆者のこの記事ではゴールデンゲートブリッジの3Dモデルを使ってわかりやすく紹介しています！"
-    },
-    {
-      "date": "2026-09-08",
-      "title": "万字教程带你上手千问办公：从入门到精通！",
-      "summary": "这篇教程从下载安装、认识界面和基本操作，到九大核心能力，再到跑通你的第一个任务，一步步带你从 0 到 1，把千问办公真正用起来。无论你是第一次接触，还是已经用过一段时间、想解锁更多玩法，都能在这里找到答案。",
-      "url": "https://waytoagi.feishu.cn/wiki/ITNOwLBwCiTGJJkFOn3ckHywnjg?from=from_copylink",
-      "title_ja": "10,000 語のチュートリアルは、初心者から上級者まで、Qianwen Office を使い始めるのに役立ちます。",
-      "summary_ja": "このチュートリアルでは、ダウンロードとインストール、インターフェイスと基本操作の理解、9 つのコア コンピテンシー、最初のタスクの完了、Qianwen Office を真に使用するまで、0 から 1 まで段階的に説明します。初めての方でも、しばらく使っていてさらに遊び方を知りたい方でも、ここで答えを見つけることができます。"
-    },
-    {
-      "date": "2026-09-08",
-      "title": "《100 个问题》系列丛书",
-      "summary": "《关于上下文工程的 100 个问题》从作者的真实异常切入，拆解了窗口堆满为何变笨、CLAUDE.md 为什么被忽略、低价跑法为何可能更费 token等关键问题。想把 Agent 从“偶尔好用”调到稳定协作，可以先把上下文这层看明白。",
-      "url": "https://waytoagi.feishu.cn/wiki/YTt3wPPIeixEK5kbJPnc0YL7nTf?from=from_copylink",
-      "title_ja": "書籍「100の質問」シリーズ",
-      "summary_ja": "「コンテキスト エンジニアリングに関する 100 の質問」は、著者の実際の異常から始まり、なぜウィンドウがいっぱいになると愚かになるのか、なぜ CLAUDE.md が無視されるのか、なぜ低コストの実行方法ではより多くのトークンがかかるのかなど、主要な問題を詳しく分析します。エージェントを「時々役に立つ」状態から安定したコラボレーション状態に調整したい場合は、まずコンテキスト層を理解することができます。"
-    },
-    {
-      "date": "2026-09-08",
-      "title": "Codex 实战系列｜零剪辑自动生成爆款视频",
-      "summary": "这份Codex实战案例适合想做短视频、却不会剪辑的内容创作者。作者把文章/主题→口播→配音→时间轴→分镜→HyperFrames出片拆成了可对话完成的步骤。想把长文变成视频的话，这套流程可以试试！",
-      "url": "https://waytoagi.feishu.cn/wiki/VCJ9wEUFDi61WGkWnF4cVRcYn8c?from=from_copylink",
-      "title_ja": "Codex実践シリーズ｜編集ゼロで人気動画を自動生成",
-      "summary_ja": "この Codex の実用的なケースは、短いビデオを作成したいが編集方法がわからないコンテンツ作成者に適しています。著者は、記事/テーマ→音声放送→アフレコ→タイムライン→絵コンテ→HyperFrames制作というステップに分解し、対話によって完成させます。長い記事を動画にしたい場合は、このプロセスを試してみてください。"
-    },
-    {
-      "date": "2026-09-08",
-      "title": "AI 推理工程所需的数学知识（完整路线图）",
-      "summary": "这份路线图适合想做模型部署和性能优化的开发者。作者不仅分解了 AI 推理工程中所需的核心数学知识，而且还分享了帮助过他的具体路线图和资源。",
-      "url": "https://waytoagi.feishu.cn/wiki/LpGcwYZZ6ilVOJk8uhdcuhsvnxb?from=from_copylink",
-      "title_ja": "AI 推論エンジニアリングに必要な数学 (完全なロードマップ)",
-      "summary_ja": "このロードマップは、モデルのデプロイとパフォーマンスの最適化を行う開発者に適しています。著者は、AI 推論エンジニアリングに必要な核となる数学を詳しく解説するだけでなく、彼を助けた具体的なロードマップとリソースも共有します。"
-    },
-    {
-      "date": "2026-09-08",
-      "title": "1天通关游戏，1周造城：GPT-6 Astra 这7个玩法太上头",
-      "summary": "GPT-6 Astra已经可以直接接管电脑、操控各类软件，一系列实测案例极具冲击力。它能独立通关解谜游戏、搭建虚幻引擎中的曼哈顿城市，破解验证码小游戏；还能操作 Blender 完成三维建模、预演视频镜头，甚至在 PS 中临摹经典画作。一起上手玩玩看！",
-      "url": "https://waytoagi.feishu.cn/wiki/Wd2Dwp5lnizVkrkTQAxchCgmnV7?from=from_copylink",
-      "title_ja": "1 日でゲームを完了し、1 週間で都市を構築: GPT-6 アストラ、これら 7 つのゲームプレイが素晴らしすぎます",
-      "summary_ja": "GPT-6 Astra はすでにコンピューターを直接引き継いでさまざまなソフトウェアを制御することができ、一連の実際のテスト ケースは非常に大きな影響を与えます。独立してパズル ゲームを完成させたり、Unreal Engine でマンハッタンの都市を構築したり、検証コードのミニゲームを解読したりできます。また、Blender を操作して 3 次元モデリングを完成させたり、ビデオ映像をプレビューしたり、PS で古典的な絵画をコピーしたりすることもできます。始めて遊んでみましょう!"
     }
   ],
   "warning": null,
