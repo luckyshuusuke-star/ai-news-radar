@@ -1,231 +1,8 @@
 {
-  "generated_at": "2026-09-19T00:18:27.579424Z",
+  "generated_at": "2026-09-19T05:50:35.430021Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
-    {
-      "story_id": "story_0c1bd57d4904",
-      "title": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号",
-      "title_ja": "Hacktron は、libheif の脆弱性と OpenAI SSO の欠陥を利用して OpenAI フォーラムに侵入し、従業員の ChatGPT アカウントを乗っ取ることを再調査します。",
-      "url": "https://www.hacktron.ai/blog/hacking-openai",
-      "primary_url": "https://www.hacktron.ai/blog/hacking-openai",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "7d2e860c12e91824b743f2cd0766b4a7888011b4",
-          "title": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号",
-          "title_zh": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号",
-          "title_ja": "Hacktron は、libheif の脆弱性と OpenAI SSO の欠陥を利用して OpenAI フォーラムに侵入し、従業員の ChatGPT アカウントを乗っ取ることを再調査します。",
-          "title_en": null,
-          "title_original": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号",
-          "summary": "Hacktron 团队披露 2026 年 7 月 25 日 chained libheif 堆缓冲区溢出与 OpenAI SSO 身份缺陷，攻破 community.openai.com 并接管多名员工 ChatGPT/Codex 账号，用员工 Codex 在 OpenAI 内部 monorepo 开出无害 PR 作为证明，全程不到 72 小时。",
-          "summary_ja": "Hacktron チームは、2026 年 7 月 25 日に連鎖的な libheif ヒープ バッファ オーバーフローと OpenAI SSO ID の欠陥を明らかにし、community.openai.com に侵入して複数の従業員 ChatGPT/Codex アカウントを乗っ取り、証拠として従業員 Codex を使用して OpenAI 内部モノリポジトリで無害な PR を発行しました。全プロセスにかかった時間は 72 時間未満でした。",
-          "recommend_reason_zh": null,
-          "url": "https://www.hacktron.ai/blog/hacking-openai",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-18T04:45:46.237000Z"
-        },
-        {
-          "id": "670084e32196613c0b728bbf7574fe486402723a",
-          "title": "入侵OpenAI",
-          "title_zh": "入侵OpenAI",
-          "title_ja": "OpenAIをハックする",
-          "title_en": null,
-          "title_original": "入侵OpenAI",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.hacktron.ai/blog/hacking-openai",
-          "source": "www.hacktron.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-18T04:45:46.237000Z"
-        },
-        {
-          "id": "f4fd7c80ee287eb8725add21c0b7f2045b464482",
-          "title": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号 / A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
-          "title_zh": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号",
-          "title_ja": "ヒープ オーバーフローと SSO の構成ミスにより OpenAI 内部リポジトリが侵害される",
-          "title_en": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
-          "title_original": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.hacktron.ai/blog/hacking-openai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-18T02:47:24Z"
-        },
-        {
-          "id": "090b80327fdc32560593d33a0b97ebda2909fffa",
-          "title": "堆溢出和 SSO 配置错误会危及 OpenAI 内部存储库 / A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
-          "title_zh": "堆溢出和 SSO 配置错误会危及 OpenAI 内部存储库",
-          "title_ja": "ヒープ オーバーフローと SSO の構成ミスにより OpenAI 内部リポジトリが侵害される",
-          "title_en": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
-          "title_original": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49749656",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-18T02:47:24Z"
-        },
-        {
-          "id": "f1c9b0381aefb14e4c119c7114915aa4ed9c8f45",
-          "title": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号 / Hacking OpenAI",
-          "title_zh": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号",
-          "title_ja": "OpenAIのハッキング",
-          "title_en": "Hacking OpenAI",
-          "title_original": "Hacking OpenAI",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.hacktron.ai/blog/hacking-openai",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-18T02:47:24Z"
-        }
-      ],
-      "source_count": 5,
-      "source_names": [
-        "Hacker News",
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "hackernews",
-        "www.hacktron.ai"
-      ],
-      "items": [
-        {
-          "id": "7d2e860c12e91824b743f2cd0766b4a7888011b4",
-          "title": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号",
-          "title_zh": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号",
-          "title_ja": "Hacktron は、libheif の脆弱性と OpenAI SSO の欠陥を利用して OpenAI フォーラムに侵入し、従業員の ChatGPT アカウントを乗っ取ることを再調査します。",
-          "title_en": null,
-          "title_original": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号",
-          "summary": "Hacktron 团队披露 2026 年 7 月 25 日 chained libheif 堆缓冲区溢出与 OpenAI SSO 身份缺陷，攻破 community.openai.com 并接管多名员工 ChatGPT/Codex 账号，用员工 Codex 在 OpenAI 内部 monorepo 开出无害 PR 作为证明，全程不到 72 小时。",
-          "summary_ja": "Hacktron チームは、2026 年 7 月 25 日に連鎖的な libheif ヒープ バッファ オーバーフローと OpenAI SSO ID の欠陥を明らかにし、community.openai.com に侵入して複数の従業員 ChatGPT/Codex アカウントを乗っ取り、証拠として従業員 Codex を使用して OpenAI 内部モノリポジトリで無害な PR を発行しました。全プロセスにかかった時間は 72 時間未満でした。",
-          "recommend_reason_zh": null,
-          "url": "https://www.hacktron.ai/blog/hacking-openai",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-18T04:45:46.237000Z"
-        },
-        {
-          "id": "670084e32196613c0b728bbf7574fe486402723a",
-          "title": "入侵OpenAI",
-          "title_zh": "入侵OpenAI",
-          "title_ja": "OpenAIをハックする",
-          "title_en": null,
-          "title_original": "入侵OpenAI",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.hacktron.ai/blog/hacking-openai",
-          "source": "www.hacktron.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-18T04:45:46.237000Z"
-        },
-        {
-          "id": "f4fd7c80ee287eb8725add21c0b7f2045b464482",
-          "title": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号 / A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
-          "title_zh": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号",
-          "title_ja": "ヒープ オーバーフローと SSO の構成ミスにより OpenAI 内部リポジトリが侵害される",
-          "title_en": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
-          "title_original": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.hacktron.ai/blog/hacking-openai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-18T02:47:24Z"
-        },
-        {
-          "id": "090b80327fdc32560593d33a0b97ebda2909fffa",
-          "title": "堆溢出和 SSO 配置错误会危及 OpenAI 内部存储库 / A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
-          "title_zh": "堆溢出和 SSO 配置错误会危及 OpenAI 内部存储库",
-          "title_ja": "ヒープ オーバーフローと SSO の構成ミスにより OpenAI 内部リポジトリが侵害される",
-          "title_en": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
-          "title_original": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49749656",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-18T02:47:24Z"
-        },
-        {
-          "id": "f1c9b0381aefb14e4c119c7114915aa4ed9c8f45",
-          "title": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号 / Hacking OpenAI",
-          "title_zh": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号",
-          "title_ja": "OpenAIのハッキング",
-          "title_en": "Hacking OpenAI",
-          "title_original": "Hacking OpenAI",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.hacktron.ai/blog/hacking-openai",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-18T02:47:24Z"
-        }
-      ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.8593,
-      "importance": 0.8593,
-      "importance_score": 0.8593,
-      "importance_label": "多源热议",
-      "importance_label_ja": "複数ソースで話題",
-      "importance_breakdown": {
-        "editorial": 0.84,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7541,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-18T02:47:24Z",
-      "latest_at": "2026-09-18T04:45:46.237000Z",
-      "primary_item": {
-        "id": "7d2e860c12e91824b743f2cd0766b4a7888011b4",
-        "title": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号",
-        "title_zh": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号",
-        "title_ja": "Hacktron は、libheif の脆弱性と OpenAI SSO の欠陥を利用して OpenAI フォーラムに侵入し、従業員の ChatGPT アカウントを乗っ取ることを再調査します。",
-        "title_en": null,
-        "title_original": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号",
-        "summary": "Hacktron 团队披露 2026 年 7 月 25 日 chained libheif 堆缓冲区溢出与 OpenAI SSO 身份缺陷，攻破 community.openai.com 并接管多名员工 ChatGPT/Codex 账号，用员工 Codex 在 OpenAI 内部 monorepo 开出无害 PR 作为证明，全程不到 72 小时。",
-        "summary_ja": "Hacktron チームは、2026 年 7 月 25 日に連鎖的な libheif ヒープ バッファ オーバーフローと OpenAI SSO ID の欠陥を明らかにし、community.openai.com に侵入して複数の従業員 ChatGPT/Codex アカウントを乗っ取り、証拠として従業員 Codex を使用して OpenAI 内部モノリポジトリで無害な PR を発行しました。全プロセスにかかった時間は 72 時間未満でした。",
-        "recommend_reason_zh": null,
-        "url": "https://www.hacktron.ai/blog/hacking-openai",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-19T00:37:48.974970Z"
-      }
-    },
     {
       "story_id": "story_fc4b3a26f87c",
       "title": "美军因 AI 幻觉情报报告险些拦截中国船只 / US Military had close call after using AI for hallucinated intelligence report",
@@ -342,16 +119,16 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8427,
-      "importance": 0.8427,
-      "importance_score": 0.8427,
+      "score": 0.8301,
+      "importance": 0.8301,
+      "importance_score": 0.8301,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9059,
+        "recency": 0.8363,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -380,7 +157,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T00:37:48.974970Z"
+        "scored_at": "2026-09-19T06:14:25.793624Z"
       }
     },
     {
@@ -433,16 +210,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8419,
-      "importance": 0.8419,
-      "importance_score": 0.8419,
+      "score": 0.8288,
+      "importance": 0.8288,
+      "importance_score": 0.8288,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9436,
+        "recency": 0.8711,
         "story_heat": 0.0
       },
       "category": "official",
@@ -471,7 +248,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T00:37:48.974970Z"
+        "scored_at": "2026-09-19T06:14:25.793624Z"
       }
     },
     {
@@ -524,16 +301,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8294,
-      "importance": 0.8294,
-      "importance_score": 0.8294,
+      "score": 0.8173,
+      "importance": 0.8173,
+      "importance_score": 0.8173,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8742,
+        "recency": 0.8071,
         "story_heat": 0.0
       },
       "category": "official",
@@ -562,7 +339,98 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T00:37:48.974970Z"
+        "scored_at": "2026-09-19T06:14:25.793624Z"
+      }
+    },
+    {
+      "story_id": "story_4013441011f2",
+      "title": "Introducing the Australian Youth Safety Blueprint",
+      "title_ja": null,
+      "url": "https://openai.com/index/australian-youth-safety-blueprint",
+      "primary_url": "https://openai.com/index/australian-youth-safety-blueprint",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "be4cac5d83c18c0cb661cdfb21c814ebaa542268",
+          "title": "Introducing the Australian Youth Safety Blueprint",
+          "title_zh": null,
+          "title_ja": null,
+          "title_en": "Introducing the Australian Youth Safety Blueprint",
+          "title_original": "Introducing the Australian Youth Safety Blueprint",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/australian-youth-safety-blueprint",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-18T12:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "be4cac5d83c18c0cb661cdfb21c814ebaa542268",
+          "title": "Introducing the Australian Youth Safety Blueprint",
+          "title_zh": null,
+          "title_ja": null,
+          "title_en": "Introducing the Australian Youth Safety Blueprint",
+          "title_original": "Introducing the Australian Youth Safety Blueprint",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/australian-youth-safety-blueprint",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-18T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8111,
+      "importance": 0.8111,
+      "importance_score": 0.8111,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7729,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-18T12:00:00Z",
+      "latest_at": "2026-09-18T12:00:00Z",
+      "primary_item": {
+        "id": "be4cac5d83c18c0cb661cdfb21c814ebaa542268",
+        "title": "Introducing the Australian Youth Safety Blueprint",
+        "title_zh": null,
+        "title_ja": null,
+        "title_en": "Introducing the Australian Youth Safety Blueprint",
+        "title_original": "Introducing the Australian Youth Safety Blueprint",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/australian-youth-safety-blueprint",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-19T06:14:25.793624Z"
       }
     },
     {
@@ -615,16 +483,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8191,
-      "importance": 0.8191,
-      "importance_score": 0.8191,
+      "score": 0.8072,
+      "importance": 0.8072,
+      "importance_score": 0.8072,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8617,
+        "recency": 0.7955,
         "story_heat": 0.0
       },
       "category": "official",
@@ -653,7 +521,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T00:37:48.974970Z"
+        "scored_at": "2026-09-19T06:14:25.793624Z"
       }
     },
     {
@@ -706,16 +574,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8396,
-      "importance": 0.8396,
-      "importance_score": 0.8396,
+      "score": 0.8267,
+      "importance": 0.8267,
+      "importance_score": 0.8267,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.931,
+        "recency": 0.8595,
         "story_heat": 0.0
       },
       "category": "official",
@@ -744,7 +612,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T00:37:48.974970Z"
+        "scored_at": "2026-09-19T06:14:25.793624Z"
       }
     },
     {
@@ -863,16 +731,16 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8273,
-      "importance": 0.8273,
-      "importance_score": 0.8273,
+      "score": 0.8159,
+      "importance": 0.8159,
+      "importance_score": 0.8159,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8203,
+        "recency": 0.7573,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -901,7 +769,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T00:37:48.974970Z"
+        "scored_at": "2026-09-19T06:14:25.793624Z"
       }
     },
     {
@@ -954,16 +822,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7917,
-      "importance": 0.7917,
-      "importance_score": 0.7917,
+      "score": 0.7781,
+      "importance": 0.7781,
+      "importance_score": 0.7781,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.984,
+        "recency": 0.9084,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -991,7 +859,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T00:37:48.974970Z"
+        "scored_at": "2026-09-19T06:14:25.793624Z"
       }
     },
     {
@@ -1044,16 +912,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8169,
-      "importance": 0.8169,
-      "importance_score": 0.8169,
+      "score": 0.8051,
+      "importance": 0.8051,
+      "importance_score": 0.8051,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8493,
+        "recency": 0.7841,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1082,7 +950,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T00:37:48.974970Z"
+        "scored_at": "2026-09-19T06:14:25.793624Z"
       }
     },
     {
@@ -1168,16 +1036,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7857,
-      "importance": 0.7857,
-      "importance_score": 0.7857,
+      "score": 0.7738,
+      "importance": 0.7738,
+      "importance_score": 0.7738,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8617,
+        "recency": 0.7955,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1206,7 +1074,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T00:37:48.974970Z"
+        "scored_at": "2026-09-19T06:14:25.793624Z"
       }
     },
     {
@@ -1259,16 +1127,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7813,
-      "importance": 0.7813,
-      "importance_score": 0.7813,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9927,
+        "recency": 0.9164,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1296,7 +1164,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T00:37:48.974970Z"
+        "scored_at": "2026-09-19T06:14:25.793624Z"
       }
     },
     {
@@ -1349,16 +1217,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8387,
-      "importance": 0.8387,
-      "importance_score": 0.8387,
+      "score": 0.8259,
+      "importance": 0.8259,
+      "importance_score": 0.8259,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9262,
+        "recency": 0.8551,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1387,97 +1255,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T00:37:48.974970Z"
-      }
-    },
-    {
-      "story_id": "story_b2e760c3e0a8",
-      "title": "Anthropic 与 Accenture 合作开展嵌入式独立评估，双方各投入至少 10 亿美元 / Partnering with Accenture on embedded evaluation",
-      "title_ja": "組み込み評価でアクセンチュアと提携",
-      "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
-      "primary_url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
-      "source": "Anthropic：Newsroom（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "25ff9fd2a3c7d3edb048d02aa98dd6c1d88bdb37",
-          "title": "Anthropic 与 Accenture 合作开展嵌入式独立评估，双方各投入至少 10 亿美元 / Partnering with Accenture on embedded evaluation",
-          "title_zh": "Anthropic 与 Accenture 合作开展嵌入式独立评估，双方各投入至少 10 亿美元",
-          "title_ja": "組み込み評価でアクセンチュアと提携",
-          "title_en": "Partnering with Accenture on embedded evaluation",
-          "title_original": "Partnering with Accenture on embedded evaluation",
-          "summary": "Anthropic 宣布与 Accenture 合作，对前沿模型进行嵌入式独立评估，合作由 Accenture 旗下 AI 业务 Faculty 主导，包括模型评估与红队测试、对齐评估和安全防护测试，双方预计未来五年各投入至少 10 亿美元。",
-          "summary_ja": "Anthropic は、最先端モデルの組み込み独立評価を実施するため、Accenture との提携を発表しました。このコラボレーションは、アクセンチュアの AI ビジネス部門の教員が主導し、モデルの評価とレッドチームのテスト、整合性の評価、セキュリティ保護のテストが含まれます。両当事者は今後5年間にそれぞれ少なくとも10億米ドルを投資すると予想している。",
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
-          "source": "Anthropic：Newsroom（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-18T20:21:40.477000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Anthropic：Newsroom（网页）"
-      ],
-      "items": [
-        {
-          "id": "25ff9fd2a3c7d3edb048d02aa98dd6c1d88bdb37",
-          "title": "Anthropic 与 Accenture 合作开展嵌入式独立评估，双方各投入至少 10 亿美元 / Partnering with Accenture on embedded evaluation",
-          "title_zh": "Anthropic 与 Accenture 合作开展嵌入式独立评估，双方各投入至少 10 亿美元",
-          "title_ja": "組み込み評価でアクセンチュアと提携",
-          "title_en": "Partnering with Accenture on embedded evaluation",
-          "title_original": "Partnering with Accenture on embedded evaluation",
-          "summary": "Anthropic 宣布与 Accenture 合作，对前沿模型进行嵌入式独立评估，合作由 Accenture 旗下 AI 业务 Faculty 主导，包括模型评估与红队测试、对齐评估和安全防护测试，双方预计未来五年各投入至少 10 亿美元。",
-          "summary_ja": "Anthropic は、最先端モデルの組み込み独立評価を実施するため、Accenture との提携を発表しました。このコラボレーションは、アクセンチュアの AI ビジネス部門の教員が主導し、モデルの評価とレッドチームのテスト、整合性の評価、セキュリティ保護のテストが含まれます。両当事者は今後5年間にそれぞれ少なくとも10億米ドルを投資すると予想している。",
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
-          "source": "Anthropic：Newsroom（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-18T20:21:40.477000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.773,
-      "importance": 0.773,
-      "importance_score": 0.773,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
-      "importance_breakdown": {
-        "editorial": 0.61,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.9446,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-18T20:21:40.477000Z",
-      "latest_at": "2026-09-18T20:21:40.477000Z",
-      "primary_item": {
-        "id": "25ff9fd2a3c7d3edb048d02aa98dd6c1d88bdb37",
-        "title": "Anthropic 与 Accenture 合作开展嵌入式独立评估，双方各投入至少 10 亿美元 / Partnering with Accenture on embedded evaluation",
-        "title_zh": "Anthropic 与 Accenture 合作开展嵌入式独立评估，双方各投入至少 10 亿美元",
-        "title_ja": "組み込み評価でアクセンチュアと提携",
-        "title_en": "Partnering with Accenture on embedded evaluation",
-        "title_original": "Partnering with Accenture on embedded evaluation",
-        "summary": "Anthropic 宣布与 Accenture 合作，对前沿模型进行嵌入式独立评估，合作由 Accenture 旗下 AI 业务 Faculty 主导，包括模型评估与红队测试、对齐评估和安全防护测试，双方预计未来五年各投入至少 10 亿美元。",
-        "summary_ja": "Anthropic は、最先端モデルの組み込み独立評価を実施するため、Accenture との提携を発表しました。このコラボレーションは、アクセンチュアの AI ビジネス部門の教員が主導し、モデルの評価とレッドチームのテスト、整合性の評価、セキュリティ保護のテストが含まれます。両当事者は今後5年間にそれぞれ少なくとも10億米ドルを投資すると予想している。",
-        "recommend_reason_zh": null,
-        "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
-        "source": "Anthropic：Newsroom（网页）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-19T00:37:48.974970Z"
+        "scored_at": "2026-09-19T06:14:25.793624Z"
       }
     },
     {
@@ -1530,16 +1308,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.773,
-      "importance": 0.773,
-      "importance_score": 0.773,
+      "score": 0.7608,
+      "importance": 0.7608,
+      "importance_score": 0.7608,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.88,
+        "recency": 0.8124,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1567,33 +1345,212 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T00:37:48.974970Z"
+        "scored_at": "2026-09-19T06:14:25.793624Z"
       }
     },
     {
-      "story_id": "story_3ff6f508c858",
-      "title": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
+      "story_id": "story_b2e760c3e0a8",
+      "title": "Anthropic 与 Accenture 合作开展嵌入式独立评估，双方各投入至少 10 亿美元 / Partnering with Accenture on embedded evaluation",
+      "title_ja": "組み込み評価でアクセンチュアと提携",
+      "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+      "primary_url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+      "source": "Anthropic：Newsroom（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "25ff9fd2a3c7d3edb048d02aa98dd6c1d88bdb37",
+          "title": "Anthropic 与 Accenture 合作开展嵌入式独立评估，双方各投入至少 10 亿美元 / Partnering with Accenture on embedded evaluation",
+          "title_zh": "Anthropic 与 Accenture 合作开展嵌入式独立评估，双方各投入至少 10 亿美元",
+          "title_ja": "組み込み評価でアクセンチュアと提携",
+          "title_en": "Partnering with Accenture on embedded evaluation",
+          "title_original": "Partnering with Accenture on embedded evaluation",
+          "summary": "Anthropic 宣布与 Accenture 合作，对前沿模型进行嵌入式独立评估，合作由 Accenture 旗下 AI 业务 Faculty 主导，包括模型评估与红队测试、对齐评估和安全防护测试，双方预计未来五年各投入至少 10 亿美元。",
+          "summary_ja": "Anthropic は、最先端モデルの組み込み独立評価を実施するため、Accenture との提携を発表しました。このコラボレーションは、アクセンチュアの AI ビジネス部門の教員が主導し、モデルの評価とレッドチームのテスト、整合性の評価、セキュリティ保護のテストが含まれます。両当事者は今後5年間にそれぞれ少なくとも10億米ドルを投資すると予想している。",
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-18T20:21:40.477000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Anthropic：Newsroom（网页）"
+      ],
+      "items": [
+        {
+          "id": "25ff9fd2a3c7d3edb048d02aa98dd6c1d88bdb37",
+          "title": "Anthropic 与 Accenture 合作开展嵌入式独立评估，双方各投入至少 10 亿美元 / Partnering with Accenture on embedded evaluation",
+          "title_zh": "Anthropic 与 Accenture 合作开展嵌入式独立评估，双方各投入至少 10 亿美元",
+          "title_ja": "組み込み評価でアクセンチュアと提携",
+          "title_en": "Partnering with Accenture on embedded evaluation",
+          "title_original": "Partnering with Accenture on embedded evaluation",
+          "summary": "Anthropic 宣布与 Accenture 合作，对前沿模型进行嵌入式独立评估，合作由 Accenture 旗下 AI 业务 Faculty 主导，包括模型评估与红队测试、对齐评估和安全防护测试，双方预计未来五年各投入至少 10 亿美元。",
+          "summary_ja": "Anthropic は、最先端モデルの組み込み独立評価を実施するため、Accenture との提携を発表しました。このコラボレーションは、アクセンチュアの AI ビジネス部門の教員が主導し、モデルの評価とレッドチームのテスト、整合性の評価、セキュリティ保護のテストが含まれます。両当事者は今後5年間にそれぞれ少なくとも10億米ドルを投資すると予想している。",
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-18T20:21:40.477000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
+      "importance_breakdown": {
+        "editorial": 0.61,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.872,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-18T20:21:40.477000Z",
+      "latest_at": "2026-09-18T20:21:40.477000Z",
+      "primary_item": {
+        "id": "25ff9fd2a3c7d3edb048d02aa98dd6c1d88bdb37",
+        "title": "Anthropic 与 Accenture 合作开展嵌入式独立评估，双方各投入至少 10 亿美元 / Partnering with Accenture on embedded evaluation",
+        "title_zh": "Anthropic 与 Accenture 合作开展嵌入式独立评估，双方各投入至少 10 亿美元",
+        "title_ja": "組み込み評価でアクセンチュアと提携",
+        "title_en": "Partnering with Accenture on embedded evaluation",
+        "title_original": "Partnering with Accenture on embedded evaluation",
+        "summary": "Anthropic 宣布与 Accenture 合作，对前沿模型进行嵌入式独立评估，合作由 Accenture 旗下 AI 业务 Faculty 主导，包括模型评估与红队测试、对齐评估和安全防护测试，双方预计未来五年各投入至少 10 亿美元。",
+        "summary_ja": "Anthropic は、最先端モデルの組み込み独立評価を実施するため、Accenture との提携を発表しました。このコラボレーションは、アクセンチュアの AI ビジネス部門の教員が主導し、モデルの評価とレッドチームのテスト、整合性の評価、セキュリティ保護のテストが含まれます。両当事者は今後5年間にそれぞれ少なくとも10億米ドルを投資すると予想している。",
+        "recommend_reason_zh": null,
+        "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+        "source": "Anthropic：Newsroom（网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-19T06:14:25.793624Z"
+      }
+    },
+    {
+      "story_id": "story_452f5f248c44",
+      "title": "Alexandr Wang 转发一份让 AI 智能体保护日历通勤时间的 Muse 提示词 / love people sharing their muse prompts which work well！",
       "title_ja": null,
-      "url": "https://www.ithome.com/1/004/356.htm",
-      "primary_url": "https://www.ithome.com/1/004/356.htm",
+      "url": "https://x.com/alexandr_wang/status/2101141362607632873",
+      "primary_url": "https://x.com/alexandr_wang/status/2101141362607632873",
+      "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "22e376594a8c54b80816f4100ab4f845d663e9fd",
+          "title": "Alexandr Wang 转发一份让 AI 智能体保护日历通勤时间的 Muse 提示词 / love people sharing their muse prompts which work well！",
+          "title_zh": "Alexandr Wang 转发一份让 AI 智能体保护日历通勤时间的 Muse 提示词",
+          "title_ja": null,
+          "title_en": "love people sharing their muse prompts which work well！",
+          "title_original": "love people sharing their muse prompts which work well！",
+          "summary": "Alexandr Wang 转发 @trevin 分享的 Muse 提示词，该提示词也可用于 Instinct 和 Grok @bot，作用是扫描未来 14 天日历、为异地会议自动添加 Travel time 通勤缓冲时间块。",
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://x.com/alexandr_wang/status/2101141362607632873",
+          "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-19T02:48:32Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)"
+      ],
+      "items": [
+        {
+          "id": "22e376594a8c54b80816f4100ab4f845d663e9fd",
+          "title": "Alexandr Wang 转发一份让 AI 智能体保护日历通勤时间的 Muse 提示词 / love people sharing their muse prompts which work well！",
+          "title_zh": "Alexandr Wang 转发一份让 AI 智能体保护日历通勤时间的 Muse 提示词",
+          "title_ja": null,
+          "title_en": "love people sharing their muse prompts which work well！",
+          "title_original": "love people sharing their muse prompts which work well！",
+          "summary": "Alexandr Wang 转发 @trevin 分享的 Muse 提示词，该提示词也可用于 Instinct 和 Grok @bot，作用是扫描未来 14 天日历、为异地会议自动添加 Travel time 通勤缓冲时间块。",
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://x.com/alexandr_wang/status/2101141362607632873",
+          "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-19T02:48:32Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7419,
+      "importance": 0.7419,
+      "importance_score": 0.7419,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9571,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-19T02:48:32Z",
+      "latest_at": "2026-09-19T02:48:32Z",
+      "primary_item": {
+        "id": "22e376594a8c54b80816f4100ab4f845d663e9fd",
+        "title": "Alexandr Wang 转发一份让 AI 智能体保护日历通勤时间的 Muse 提示词 / love people sharing their muse prompts which work well！",
+        "title_zh": "Alexandr Wang 转发一份让 AI 智能体保护日历通勤时间的 Muse 提示词",
+        "title_ja": null,
+        "title_en": "love people sharing their muse prompts which work well！",
+        "title_original": "love people sharing their muse prompts which work well！",
+        "summary": "Alexandr Wang 转发 @trevin 分享的 Muse 提示词，该提示词也可用于 Instinct 和 Grok @bot，作用是扫描未来 14 天日历、为异地会议自动添加 Travel time 通勤缓冲时间块。",
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://x.com/alexandr_wang/status/2101141362607632873",
+        "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-19T06:14:25.793624Z"
+      }
+    },
+    {
+      "story_id": "story_172dc59ac7fb",
+      "title": "Anthropic 计划将 IPO 推迟至 11 月，估值约 2 万亿美元",
+      "title_ja": null,
+      "url": "https://www.ithome.com/1/004/369.htm",
+      "primary_url": "https://www.ithome.com/1/004/369.htm",
       "source": "IT之家（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "ee20130cefc7fe4f1c2c007ed9af12b50e5604d7",
-          "title": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
-          "title_zh": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
+          "id": "52a42f995a90248191b388db964423147f788c8d",
+          "title": "Anthropic 计划将 IPO 推迟至 11 月，估值约 2 万亿美元",
+          "title_zh": "Anthropic 计划将 IPO 推迟至 11 月，估值约 2 万亿美元",
           "title_ja": null,
           "title_en": null,
-          "title_original": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
-          "summary": "《纽约时报》在起诉微软和 OpenAI 的版权案中申请简易判决并提交新法律摘要，披露两家公司内部材料。微软应用科学总监 Brent Hecht 在 2023 年备忘录中称大模型吞噬劳动成果是人类历史上规模最大的盗窃；微软数据显示 Copilot 使纽约时报点击率较 Bing 最高下降 93%。",
+          "title_original": "Anthropic 计划将 IPO 推迟至 11 月，估值约 2 万亿美元",
+          "summary": "据《华尔街日报》报道，Anthropic 计划将 IPO 推迟至 11 月，晚于投资者预期的 10 月，以留出时间展示第三季度财务数据。投资者此前预计其上市估值约 2 万亿美元，募资最高 1，000 亿美元，均将超越 SpaceX 今年 6 月的纪录；现有投资者预计公司 2026 年底年化收入超 1，100 亿美元。竞争对手 OpenAI 表示 2027 年前不上市，正处新一轮融资早期讨论阶段。",
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/004/356.htm",
+          "url": "https://www.ithome.com/1/004/369.htm",
           "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-18T23:13:06Z"
+          "published_at": "2026-09-19T00:07:04Z"
         }
       ],
       "source_count": 1,
@@ -1602,34 +1559,34 @@
       ],
       "items": [
         {
-          "id": "ee20130cefc7fe4f1c2c007ed9af12b50e5604d7",
-          "title": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
-          "title_zh": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
+          "id": "52a42f995a90248191b388db964423147f788c8d",
+          "title": "Anthropic 计划将 IPO 推迟至 11 月，估值约 2 万亿美元",
+          "title_zh": "Anthropic 计划将 IPO 推迟至 11 月，估值约 2 万亿美元",
           "title_ja": null,
           "title_en": null,
-          "title_original": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
-          "summary": "《纽约时报》在起诉微软和 OpenAI 的版权案中申请简易判决并提交新法律摘要，披露两家公司内部材料。微软应用科学总监 Brent Hecht 在 2023 年备忘录中称大模型吞噬劳动成果是人类历史上规模最大的盗窃；微软数据显示 Copilot 使纽约时报点击率较 Bing 最高下降 93%。",
+          "title_original": "Anthropic 计划将 IPO 推迟至 11 月，估值约 2 万亿美元",
+          "summary": "据《华尔街日报》报道，Anthropic 计划将 IPO 推迟至 11 月，晚于投资者预期的 10 月，以留出时间展示第三季度财务数据。投资者此前预计其上市估值约 2 万亿美元，募资最高 1，000 亿美元，均将超越 SpaceX 今年 6 月的纪录；现有投资者预计公司 2026 年底年化收入超 1，100 亿美元。竞争对手 OpenAI 表示 2027 年前不上市，正处新一轮融资早期讨论阶段。",
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/004/356.htm",
+          "url": "https://www.ithome.com/1/004/369.htm",
           "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-18T23:13:06Z"
+          "published_at": "2026-09-19T00:07:04Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7768,
-      "importance": 0.7768,
-      "importance_score": 0.7768,
+      "score": 0.7683,
+      "importance": 0.7683,
+      "importance_score": 0.7683,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
-        "editorial": 0.76,
+        "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9844,
+        "recency": 0.9206,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1637,19 +1594,19 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-18T23:13:06Z",
-      "latest_at": "2026-09-18T23:13:06Z",
+      "earliest_at": "2026-09-19T00:07:04Z",
+      "latest_at": "2026-09-19T00:07:04Z",
       "primary_item": {
-        "id": "ee20130cefc7fe4f1c2c007ed9af12b50e5604d7",
-        "title": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
-        "title_zh": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
+        "id": "52a42f995a90248191b388db964423147f788c8d",
+        "title": "Anthropic 计划将 IPO 推迟至 11 月，估值约 2 万亿美元",
+        "title_zh": "Anthropic 计划将 IPO 推迟至 11 月，估值约 2 万亿美元",
         "title_ja": null,
         "title_en": null,
-        "title_original": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
-        "summary": "《纽约时报》在起诉微软和 OpenAI 的版权案中申请简易判决并提交新法律摘要，披露两家公司内部材料。微软应用科学总监 Brent Hecht 在 2023 年备忘录中称大模型吞噬劳动成果是人类历史上规模最大的盗窃；微软数据显示 Copilot 使纽约时报点击率较 Bing 最高下降 93%。",
+        "title_original": "Anthropic 计划将 IPO 推迟至 11 月，估值约 2 万亿美元",
+        "summary": "据《华尔街日报》报道，Anthropic 计划将 IPO 推迟至 11 月，晚于投资者预期的 10 月，以留出时间展示第三季度财务数据。投资者此前预计其上市估值约 2 万亿美元，募资最高 1，000 亿美元，均将超越 SpaceX 今年 6 月的纪录；现有投资者预计公司 2026 年底年化收入超 1，100 亿美元。竞争对手 OpenAI 表示 2027 年前不上市，正处新一轮融资早期讨论阶段。",
         "summary_ja": null,
         "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/1/004/356.htm",
+        "url": "https://www.ithome.com/1/004/369.htm",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       },
@@ -1657,98 +1614,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T00:37:48.974970Z"
-      }
-    },
-    {
-      "story_id": "story_48ff8a06680b",
-      "title": "使用 REST API 管理代码覆盖率规则集条件 / Manage the code coverage ruleset condition with the REST API",
-      "title_ja": "REST APIを使用してコードカバレッジルールセットの条件を管理する",
-      "url": "https://github.blog/changelog/2026-09-18-manage-the-code-coverage-ruleset-condition-with-the-rest-api",
-      "primary_url": "https://github.blog/changelog/2026-09-18-manage-the-code-coverage-ruleset-condition-with-the-rest-api",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "0e0bc04cd9cd03b5af328fbe166ef9fb9829f616",
-          "title": "使用 REST API 管理代码覆盖率规则集条件 / Manage the code coverage ruleset condition with the REST API",
-          "title_zh": "使用 REST API 管理代码覆盖率规则集条件",
-          "title_ja": "REST APIを使用してコードカバレッジルールセットの条件を管理する",
-          "title_en": "Manage the code coverage ruleset condition with the REST API",
-          "title_original": "Manage the code coverage ruleset condition with the REST API",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-18-manage-the-code-coverage-ruleset-condition-with-the-rest-api",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-18T19:23:49Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "0e0bc04cd9cd03b5af328fbe166ef9fb9829f616",
-          "title": "使用 REST API 管理代码覆盖率规则集条件 / Manage the code coverage ruleset condition with the REST API",
-          "title_zh": "使用 REST API 管理代码覆盖率规则集条件",
-          "title_ja": "REST APIを使用してコードカバレッジルールセットの条件を管理する",
-          "title_en": "Manage the code coverage ruleset condition with the REST API",
-          "title_original": "Manage the code coverage ruleset condition with the REST API",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-18-manage-the-code-coverage-ruleset-condition-with-the-rest-api",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-18T19:23:49Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8317,
-      "importance": 0.8317,
-      "importance_score": 0.8317,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9315,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-18T19:23:49Z",
-      "latest_at": "2026-09-18T19:23:49Z",
-      "primary_item": {
-        "id": "0e0bc04cd9cd03b5af328fbe166ef9fb9829f616",
-        "title": "使用 REST API 管理代码覆盖率规则集条件 / Manage the code coverage ruleset condition with the REST API",
-        "title_zh": "使用 REST API 管理代码覆盖率规则集条件",
-        "title_ja": "REST APIを使用してコードカバレッジルールセットの条件を管理する",
-        "title_en": "Manage the code coverage ruleset condition with the REST API",
-        "title_original": "Manage the code coverage ruleset condition with the REST API",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-18-manage-the-code-coverage-ruleset-condition-with-the-rest-api",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-19T00:37:48.974970Z"
+        "scored_at": "2026-09-19T06:14:25.793624Z"
       }
     },
     {
@@ -1801,16 +1667,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7406,
-      "importance": 0.7406,
-      "importance_score": 0.7406,
+      "score": 0.7298,
+      "importance": 0.7298,
+      "importance_score": 0.7298,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7836,
+        "recency": 0.7234,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1837,7 +1703,98 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T00:37:48.974970Z"
+        "scored_at": "2026-09-19T06:14:25.793624Z"
+      }
+    },
+    {
+      "story_id": "story_48ff8a06680b",
+      "title": "使用 REST API 管理代码覆盖率规则集条件 / Manage the code coverage ruleset condition with the REST API",
+      "title_ja": "REST APIを使用してコードカバレッジルールセットの条件を管理する",
+      "url": "https://github.blog/changelog/2026-09-18-manage-the-code-coverage-ruleset-condition-with-the-rest-api",
+      "primary_url": "https://github.blog/changelog/2026-09-18-manage-the-code-coverage-ruleset-condition-with-the-rest-api",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "0e0bc04cd9cd03b5af328fbe166ef9fb9829f616",
+          "title": "使用 REST API 管理代码覆盖率规则集条件 / Manage the code coverage ruleset condition with the REST API",
+          "title_zh": "使用 REST API 管理代码覆盖率规则集条件",
+          "title_ja": "REST APIを使用してコードカバレッジルールセットの条件を管理する",
+          "title_en": "Manage the code coverage ruleset condition with the REST API",
+          "title_original": "Manage the code coverage ruleset condition with the REST API",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-18-manage-the-code-coverage-ruleset-condition-with-the-rest-api",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-18T19:23:49Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "0e0bc04cd9cd03b5af328fbe166ef9fb9829f616",
+          "title": "使用 REST API 管理代码覆盖率规则集条件 / Manage the code coverage ruleset condition with the REST API",
+          "title_zh": "使用 REST API 管理代码覆盖率规则集条件",
+          "title_ja": "REST APIを使用してコードカバレッジルールセットの条件を管理する",
+          "title_en": "Manage the code coverage ruleset condition with the REST API",
+          "title_original": "Manage the code coverage ruleset condition with the REST API",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-18-manage-the-code-coverage-ruleset-condition-with-the-rest-api",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-18T19:23:49Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8188,
+      "importance": 0.8188,
+      "importance_score": 0.8188,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.86,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-18T19:23:49Z",
+      "latest_at": "2026-09-18T19:23:49Z",
+      "primary_item": {
+        "id": "0e0bc04cd9cd03b5af328fbe166ef9fb9829f616",
+        "title": "使用 REST API 管理代码覆盖率规则集条件 / Manage the code coverage ruleset condition with the REST API",
+        "title_zh": "使用 REST API 管理代码覆盖率规则集条件",
+        "title_ja": "REST APIを使用してコードカバレッジルールセットの条件を管理する",
+        "title_en": "Manage the code coverage ruleset condition with the REST API",
+        "title_original": "Manage the code coverage ruleset condition with the REST API",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-18-manage-the-code-coverage-ruleset-condition-with-the-rest-api",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-19T06:14:25.793624Z"
       }
     },
     {
@@ -1890,16 +1847,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7334,
-      "importance": 0.7334,
-      "importance_score": 0.7334,
+      "score": 0.7222,
+      "importance": 0.7222,
+      "importance_score": 0.7222,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8101,
+        "recency": 0.7478,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1926,185 +1883,97 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T00:37:48.974970Z"
+        "scored_at": "2026-09-19T06:14:25.793624Z"
       }
     },
     {
-      "story_id": "story_31aa9a922a1b",
-      "title": "Gary Marcus 评论 Trump 因经济原因淡化 AI 风险，AI 幻觉情报报告几乎引发战争 / The real reason Trump is standing behind AI - and the latest example of why that might turn out to be a bad idea",
-      "title_ja": "トランプ大統領が AI を支持する本当の理由 - そして、それが悪い考えであることが判明する可能性がある最新の例",
-      "url": "https://garymarcus.substack.com/p/the-real-reason-trump-is-standing",
-      "primary_url": "https://garymarcus.substack.com/p/the-real-reason-trump-is-standing",
-      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+      "story_id": "story_3ff6f508c858",
+      "title": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
+      "title_ja": null,
+      "url": "https://www.ithome.com/1/004/356.htm",
+      "primary_url": "https://www.ithome.com/1/004/356.htm",
+      "source": "IT之家（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "7030441f46ca40a97a91922dddbfd6f57e12ec6e",
-          "title": "Gary Marcus 评论 Trump 因经济原因淡化 AI 风险，AI 幻觉情报报告几乎引发战争 / The real reason Trump is standing behind AI - and the latest example of why that might turn out to be a bad idea",
-          "title_zh": "Gary Marcus 评论 Trump 因经济原因淡化 AI 风险，AI 幻觉情报报告几乎引发战争",
-          "title_ja": "トランプ大統領が AI を支持する本当の理由 - そして、それが悪い考えであることが判明する可能性がある最新の例",
-          "title_en": "The real reason Trump is standing behind AI - and the latest example of why that might turn out to be a bad idea",
-          "title_original": "The real reason Trump is standing behind AI - and the latest example of why that might turn out to be a bad idea",
-          "summary": "Gary Marcus 引用 NYT 报道称 Trump 出于经济考虑淡化 AI 恐慌、抵制监管，并转发 Katie Bo Lillis 的报道，一份 AI 辅助情报报告因模型幻觉误判一艘中国船只运载核武部件，美军紧急拦截，据称\"几乎引发战争\"。",
+          "id": "ee20130cefc7fe4f1c2c007ed9af12b50e5604d7",
+          "title": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
+          "title_zh": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
+          "title_ja": null,
+          "title_en": null,
+          "title_original": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
+          "summary": "《纽约时报》在起诉微软和 OpenAI 的版权案中申请简易判决并提交新法律摘要，披露两家公司内部材料。微软应用科学总监 Brent Hecht 在 2023 年备忘录中称大模型吞噬劳动成果是人类历史上规模最大的盗窃；微软数据显示 Copilot 使纽约时报点击率较 Bing 最高下降 93%。",
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://garymarcus.substack.com/p/the-real-reason-trump-is-standing",
-          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+          "url": "https://www.ithome.com/1/004/356.htm",
+          "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-18T19:52:12Z"
+          "published_at": "2026-09-18T23:13:06Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Gary Marcus：The Road to AI We Can Trust（RSS）"
+        "IT之家（RSS）"
       ],
       "items": [
         {
-          "id": "7030441f46ca40a97a91922dddbfd6f57e12ec6e",
-          "title": "Gary Marcus 评论 Trump 因经济原因淡化 AI 风险，AI 幻觉情报报告几乎引发战争 / The real reason Trump is standing behind AI - and the latest example of why that might turn out to be a bad idea",
-          "title_zh": "Gary Marcus 评论 Trump 因经济原因淡化 AI 风险，AI 幻觉情报报告几乎引发战争",
-          "title_ja": "トランプ大統領が AI を支持する本当の理由 - そして、それが悪い考えであることが判明する可能性がある最新の例",
-          "title_en": "The real reason Trump is standing behind AI - and the latest example of why that might turn out to be a bad idea",
-          "title_original": "The real reason Trump is standing behind AI - and the latest example of why that might turn out to be a bad idea",
-          "summary": "Gary Marcus 引用 NYT 报道称 Trump 出于经济考虑淡化 AI 恐慌、抵制监管，并转发 Katie Bo Lillis 的报道，一份 AI 辅助情报报告因模型幻觉误判一艘中国船只运载核武部件，美军紧急拦截，据称\"几乎引发战争\"。",
+          "id": "ee20130cefc7fe4f1c2c007ed9af12b50e5604d7",
+          "title": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
+          "title_zh": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
+          "title_ja": null,
+          "title_en": null,
+          "title_original": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
+          "summary": "《纽约时报》在起诉微软和 OpenAI 的版权案中申请简易判决并提交新法律摘要，披露两家公司内部材料。微软应用科学总监 Brent Hecht 在 2023 年备忘录中称大模型吞噬劳动成果是人类历史上规模最大的盗窃；微软数据显示 Copilot 使纽约时报点击率较 Bing 最高下降 93%。",
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://garymarcus.substack.com/p/the-real-reason-trump-is-standing",
-          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+          "url": "https://www.ithome.com/1/004/356.htm",
+          "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-18T19:52:12Z"
+          "published_at": "2026-09-18T23:13:06Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7324,
-      "importance": 0.7324,
-      "importance_score": 0.7324,
+      "score": 0.7632,
+      "importance": 0.7632,
+      "importance_score": 0.7632,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
-        "editorial": 0.64,
+        "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9379,
+        "recency": 0.9088,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-18T19:52:12Z",
-      "latest_at": "2026-09-18T19:52:12Z",
+      "earliest_at": "2026-09-18T23:13:06Z",
+      "latest_at": "2026-09-18T23:13:06Z",
       "primary_item": {
-        "id": "7030441f46ca40a97a91922dddbfd6f57e12ec6e",
-        "title": "Gary Marcus 评论 Trump 因经济原因淡化 AI 风险，AI 幻觉情报报告几乎引发战争 / The real reason Trump is standing behind AI - and the latest example of why that might turn out to be a bad idea",
-        "title_zh": "Gary Marcus 评论 Trump 因经济原因淡化 AI 风险，AI 幻觉情报报告几乎引发战争",
-        "title_ja": "トランプ大統領が AI を支持する本当の理由 - そして、それが悪い考えであることが判明する可能性がある最新の例",
-        "title_en": "The real reason Trump is standing behind AI - and the latest example of why that might turn out to be a bad idea",
-        "title_original": "The real reason Trump is standing behind AI - and the latest example of why that might turn out to be a bad idea",
-        "summary": "Gary Marcus 引用 NYT 报道称 Trump 出于经济考虑淡化 AI 恐慌、抵制监管，并转发 Katie Bo Lillis 的报道，一份 AI 辅助情报报告因模型幻觉误判一艘中国船只运载核武部件，美军紧急拦截，据称\"几乎引发战争\"。",
+        "id": "ee20130cefc7fe4f1c2c007ed9af12b50e5604d7",
+        "title": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
+        "title_zh": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
+        "title_ja": null,
+        "title_en": null,
+        "title_original": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
+        "summary": "《纽约时报》在起诉微软和 OpenAI 的版权案中申请简易判决并提交新法律摘要，披露两家公司内部材料。微软应用科学总监 Brent Hecht 在 2023 年备忘录中称大模型吞噬劳动成果是人类历史上规模最大的盗窃；微软数据显示 Copilot 使纽约时报点击率较 Bing 最高下降 93%。",
         "summary_ja": null,
         "recommend_reason_zh": null,
-        "url": "https://garymarcus.substack.com/p/the-real-reason-trump-is-standing",
-        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+        "url": "https://www.ithome.com/1/004/356.htm",
+        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T00:37:48.974970Z"
-      }
-    },
-    {
-      "story_id": "story_aecf64b3f304",
-      "title": "Justin Cormack 用 35 万行 Rust 复盘 AI Agent 评估：从证据开始 / AI Agent Evaluation Starts With Evidence",
-      "title_ja": "AI エージェントの評価は証拠から始まります",
-      "url": "https://tessl.io/blog/ai-agent-evaluation-starts-with-evidence",
-      "primary_url": "https://tessl.io/blog/ai-agent-evaluation-starts-with-evidence",
-      "source": "Tessl：产品与工程博客",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "68ad313b83fddd56799e2af8a571b8b04fc6a2a0",
-          "title": "Justin Cormack 用 35 万行 Rust 复盘 AI Agent 评估：从证据开始 / AI Agent Evaluation Starts With Evidence",
-          "title_zh": "Justin Cormack 用 35 万行 Rust 复盘 AI Agent 评估：从证据开始",
-          "title_ja": "AI エージェントの評価は証拠から始まります",
-          "title_en": "AI Agent Evaluation Starts With Evidence",
-          "title_original": "AI Agent Evaluation Starts With Evidence",
-          "summary": "Tessl 发布的这篇博客复盘作者用 AI 构建约 35 万行 Rust 的 S3 兼容对象存储的实验。",
-          "summary_ja": "Tessl によるこのブログ投稿では、AI を使用して約 350,000 行の Rust の S3 互換オブジェクト ストレージを構築する著者の実験をレビューしています。",
-          "recommend_reason_zh": null,
-          "url": "https://tessl.io/blog/ai-agent-evaluation-starts-with-evidence",
-          "source": "Tessl：产品与工程博客",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-18T13:38:06.061000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Tessl：产品与工程博客"
-      ],
-      "items": [
-        {
-          "id": "68ad313b83fddd56799e2af8a571b8b04fc6a2a0",
-          "title": "Justin Cormack 用 35 万行 Rust 复盘 AI Agent 评估：从证据开始 / AI Agent Evaluation Starts With Evidence",
-          "title_zh": "Justin Cormack 用 35 万行 Rust 复盘 AI Agent 评估：从证据开始",
-          "title_ja": "AI エージェントの評価は証拠から始まります",
-          "title_en": "AI Agent Evaluation Starts With Evidence",
-          "title_original": "AI Agent Evaluation Starts With Evidence",
-          "summary": "Tessl 发布的这篇博客复盘作者用 AI 构建约 35 万行 Rust 的 S3 兼容对象存储的实验。",
-          "summary_ja": "Tessl によるこのブログ投稿では、AI を使用して約 350,000 行の Rust の S3 互換オブジェクト ストレージを構築する著者の実験をレビューしています。",
-          "recommend_reason_zh": null,
-          "url": "https://tessl.io/blog/ai-agent-evaluation-starts-with-evidence",
-          "source": "Tessl：产品与工程博客",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-18T13:38:06.061000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7239,
-      "importance": 0.7239,
-      "importance_score": 0.7239,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8572,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-18T13:38:06.061000Z",
-      "latest_at": "2026-09-18T13:38:06.061000Z",
-      "primary_item": {
-        "id": "68ad313b83fddd56799e2af8a571b8b04fc6a2a0",
-        "title": "Justin Cormack 用 35 万行 Rust 复盘 AI Agent 评估：从证据开始 / AI Agent Evaluation Starts With Evidence",
-        "title_zh": "Justin Cormack 用 35 万行 Rust 复盘 AI Agent 评估：从证据开始",
-        "title_ja": "AI エージェントの評価は証拠から始まります",
-        "title_en": "AI Agent Evaluation Starts With Evidence",
-        "title_original": "AI Agent Evaluation Starts With Evidence",
-        "summary": "Tessl 发布的这篇博客复盘作者用 AI 构建约 35 万行 Rust 的 S3 兼容对象存储的实验。",
-        "summary_ja": "Tessl によるこのブログ投稿では、AI を使用して約 350,000 行の Rust の S3 互換オブジェクト ストレージを構築する著者の実験をレビューしています。",
-        "recommend_reason_zh": null,
-        "url": "https://tessl.io/blog/ai-agent-evaluation-starts-with-evidence",
-        "source": "Tessl：产品与工程博客",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-19T00:37:48.974970Z"
+        "scored_at": "2026-09-19T06:14:25.793624Z"
       }
     }
   ]
