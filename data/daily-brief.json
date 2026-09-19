@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T21:39:32.850211Z",
+  "generated_at": "2026-09-19T00:18:27.579424Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -45,7 +45,7 @@
           "published_at": "2026-09-18T04:45:46.237000Z"
         },
         {
-          "id": "fc06b529e408a2880b0e1fe8642be63f6882ebbc",
+          "id": "f4fd7c80ee287eb8725add21c0b7f2045b464482",
           "title": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号 / A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
           "title_zh": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号",
           "title_ja": "ヒープ オーバーフローと SSO の構成ミスにより OpenAI 内部リポジトリが侵害される",
@@ -55,9 +55,9 @@
           "summary_ja": null,
           "recommend_reason_zh": null,
           "url": "https://www.hacktron.ai/blog/hacking-openai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-18T02:47:24Z"
         },
         {
@@ -96,7 +96,7 @@
       "source_count": 5,
       "source_names": [
         "Hacker News",
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "hackernews",
         "www.hacktron.ai"
@@ -135,7 +135,7 @@
           "published_at": "2026-09-18T04:45:46.237000Z"
         },
         {
-          "id": "fc06b529e408a2880b0e1fe8642be63f6882ebbc",
+          "id": "f4fd7c80ee287eb8725add21c0b7f2045b464482",
           "title": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号 / A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
           "title_zh": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号",
           "title_ja": "ヒープ オーバーフローと SSO の構成ミスにより OpenAI 内部リポジトリが侵害される",
@@ -145,9 +145,9 @@
           "summary_ja": null,
           "recommend_reason_zh": null,
           "url": "https://www.hacktron.ai/blog/hacking-openai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-18T02:47:24Z"
         },
         {
@@ -185,16 +185,16 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8646,
-      "importance": 0.8646,
-      "importance_score": 0.8646,
+      "score": 0.8593,
+      "importance": 0.8593,
+      "importance_score": 0.8593,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7835,
+        "recency": 0.7541,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -223,7 +223,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T21:41:38.710201Z"
+        "scored_at": "2026-09-19T00:37:48.974970Z"
       }
     },
     {
@@ -342,16 +342,16 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.849,
-      "importance": 0.849,
-      "importance_score": 0.849,
+      "score": 0.8427,
+      "importance": 0.8427,
+      "importance_score": 0.8427,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9413,
+        "recency": 0.9059,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -380,7 +380,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T21:41:38.710201Z"
+        "scored_at": "2026-09-19T00:37:48.974970Z"
       }
     },
     {
@@ -433,16 +433,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8485,
-      "importance": 0.8485,
-      "importance_score": 0.8485,
+      "score": 0.8419,
+      "importance": 0.8419,
+      "importance_score": 0.8419,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9804,
+        "recency": 0.9436,
         "story_heat": 0.0
       },
       "category": "official",
@@ -471,7 +471,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T21:41:38.710201Z"
+        "scored_at": "2026-09-19T00:37:48.974970Z"
       }
     },
     {
@@ -524,16 +524,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8355,
-      "importance": 0.8355,
-      "importance_score": 0.8355,
+      "score": 0.8294,
+      "importance": 0.8294,
+      "importance_score": 0.8294,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9083,
+        "recency": 0.8742,
         "story_heat": 0.0
       },
       "category": "official",
@@ -562,7 +562,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T21:41:38.710201Z"
+        "scored_at": "2026-09-19T00:37:48.974970Z"
       }
     },
     {
@@ -615,16 +615,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8252,
-      "importance": 0.8252,
-      "importance_score": 0.8252,
+      "score": 0.8191,
+      "importance": 0.8191,
+      "importance_score": 0.8191,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8953,
+        "recency": 0.8617,
         "story_heat": 0.0
       },
       "category": "official",
@@ -653,98 +653,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T21:41:38.710201Z"
-      }
-    },
-    {
-      "story_id": "story_afd1393311c5",
-      "title": "Codex CLI 0.155.1",
-      "title_ja": "コーデックス CLI 0.155.1",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e3af0e76504a572eafec3af003d83d22abbed670",
-          "title": "Codex CLI 0.155.1",
-          "title_zh": null,
-          "title_ja": "コーデックス CLI 0.155.1",
-          "title_en": "Codex CLI 0.155.1",
-          "title_original": "Codex CLI 0.155.1",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-18T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "e3af0e76504a572eafec3af003d83d22abbed670",
-          "title": "Codex CLI 0.155.1",
-          "title_zh": null,
-          "title_ja": "コーデックス CLI 0.155.1",
-          "title_en": "Codex CLI 0.155.1",
-          "title_original": "Codex CLI 0.155.1",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-18T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8177,
-      "importance": 0.8177,
-      "importance_score": 0.8177,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7314,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-18T00:00:00Z",
-      "latest_at": "2026-09-18T00:00:00Z",
-      "primary_item": {
-        "id": "e3af0e76504a572eafec3af003d83d22abbed670",
-        "title": "Codex CLI 0.155.1",
-        "title_zh": null,
-        "title_ja": "コーデックス CLI 0.155.1",
-        "title_en": "Codex CLI 0.155.1",
-        "title_original": "Codex CLI 0.155.1",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-18T21:41:38.710201Z"
+        "scored_at": "2026-09-19T00:37:48.974970Z"
       }
     },
     {
@@ -797,16 +706,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8461,
-      "importance": 0.8461,
-      "importance_score": 0.8461,
+      "score": 0.8396,
+      "importance": 0.8396,
+      "importance_score": 0.8396,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9673,
+        "recency": 0.931,
         "story_heat": 0.0
       },
       "category": "official",
@@ -835,7 +744,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T21:41:38.710201Z"
+        "scored_at": "2026-09-19T00:37:48.974970Z"
       }
     },
     {
@@ -954,16 +863,16 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.833,
-      "importance": 0.833,
-      "importance_score": 0.833,
+      "score": 0.8273,
+      "importance": 0.8273,
+      "importance_score": 0.8273,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8523,
+        "recency": 0.8203,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -992,7 +901,97 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T21:41:38.710201Z"
+        "scored_at": "2026-09-19T00:37:48.974970Z"
+      }
+    },
+    {
+      "story_id": "story_dff2db0851f5",
+      "title": "谷歌披露 Gemini 在安全测试中自主入侵三家真实公司并自行终止",
+      "title_ja": null,
+      "url": "https://www.ithome.com/1/004/355.htm",
+      "primary_url": "https://www.ithome.com/1/004/355.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "60c269df195fdb1347d64b31ef6d926e181e49ee",
+          "title": "谷歌披露 Gemini 在安全测试中自主入侵三家真实公司并自行终止",
+          "title_zh": "谷歌披露 Gemini 在安全测试中自主入侵三家真实公司并自行终止",
+          "title_ja": null,
+          "title_en": null,
+          "title_original": "谷歌披露 Gemini 在安全测试中自主入侵三家真实公司并自行终止",
+          "summary": "谷歌确认 Gemini 模型今年 5 月在测试公司 Irregular 的\"捕获旗帜\"演练中，因测试环境意外开放互联网访问，自主入侵了三家真实企业，系 Gemini 首次已知的 AI 越狱事件。",
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/1/004/355.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-18T23:11:25Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "60c269df195fdb1347d64b31ef6d926e181e49ee",
+          "title": "谷歌披露 Gemini 在安全测试中自主入侵三家真实公司并自行终止",
+          "title_zh": "谷歌披露 Gemini 在安全测试中自主入侵三家真实公司并自行终止",
+          "title_ja": null,
+          "title_en": null,
+          "title_original": "谷歌披露 Gemini 在安全测试中自主入侵三家真实公司并自行终止",
+          "summary": "谷歌确认 Gemini 模型今年 5 月在测试公司 Irregular 的\"捕获旗帜\"演练中，因测试环境意外开放互联网访问，自主入侵了三家真实企业，系 Gemini 首次已知的 AI 越狱事件。",
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/1/004/355.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-18T23:11:25Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7917,
+      "importance": 0.7917,
+      "importance_score": 0.7917,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.984,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-18T23:11:25Z",
+      "latest_at": "2026-09-18T23:11:25Z",
+      "primary_item": {
+        "id": "60c269df195fdb1347d64b31ef6d926e181e49ee",
+        "title": "谷歌披露 Gemini 在安全测试中自主入侵三家真实公司并自行终止",
+        "title_zh": "谷歌披露 Gemini 在安全测试中自主入侵三家真实公司并自行终止",
+        "title_ja": null,
+        "title_en": null,
+        "title_original": "谷歌披露 Gemini 在安全测试中自主入侵三家真实公司并自行终止",
+        "summary": "谷歌确认 Gemini 模型今年 5 月在测试公司 Irregular 的\"捕获旗帜\"演练中，因测试环境意外开放互联网访问，自主入侵了三家真实企业，系 Gemini 首次已知的 AI 越狱事件。",
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/1/004/355.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-19T00:37:48.974970Z"
       }
     },
     {
@@ -1045,16 +1044,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8228,
-      "importance": 0.8228,
-      "importance_score": 0.8228,
+      "score": 0.8169,
+      "importance": 0.8169,
+      "importance_score": 0.8169,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8825,
+        "recency": 0.8493,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1083,7 +1082,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T21:41:38.710201Z"
+        "scored_at": "2026-09-19T00:37:48.974970Z"
       }
     },
     {
@@ -1169,16 +1168,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7918,
-      "importance": 0.7918,
-      "importance_score": 0.7918,
+      "score": 0.7857,
+      "importance": 0.7857,
+      "importance_score": 0.7857,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8953,
+        "recency": 0.8617,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1207,7 +1206,97 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T21:41:38.710201Z"
+        "scored_at": "2026-09-19T00:37:48.974970Z"
+      }
+    },
+    {
+      "story_id": "story_c3b254c98c32",
+      "title": "FT 报道 OpenAI 预计 2030 年前累计现金消耗约 $278B / FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
+      "title_ja": null,
+      "url": "https://x.com/rohanpaul_ai/status/2101095915654463533",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2101095915654463533",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "10ba9feaeef2c5b1f3a5777ab0a5e4284ef07b54",
+          "title": "FT 报道 OpenAI 预计 2030 年前累计现金消耗约 $278B / FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
+          "title_zh": "FT 报道 OpenAI 预计 2030 年前累计现金消耗约 $278B",
+          "title_ja": null,
+          "title_en": "FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
+          "title_original": "FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
+          "summary": "FT 报道，OpenAI 预计支出将远超收入，营收预计从今年的 $36B 增至 2030 年的 $350B。2026 至 2030 年总营收约 $840B，算力支出约 $856B，累计现金消耗约 $278B。",
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://x.com/rohanpaul_ai/status/2101095915654463533",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-18T23:47:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "items": [
+        {
+          "id": "10ba9feaeef2c5b1f3a5777ab0a5e4284ef07b54",
+          "title": "FT 报道 OpenAI 预计 2030 年前累计现金消耗约 $278B / FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
+          "title_zh": "FT 报道 OpenAI 预计 2030 年前累计现金消耗约 $278B",
+          "title_ja": null,
+          "title_en": "FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
+          "title_original": "FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
+          "summary": "FT 报道，OpenAI 预计支出将远超收入，营收预计从今年的 $36B 增至 2030 年的 $350B。2026 至 2030 年总营收约 $840B，算力支出约 $856B，累计现金消耗约 $278B。",
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://x.com/rohanpaul_ai/status/2101095915654463533",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-18T23:47:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7813,
+      "importance": 0.7813,
+      "importance_score": 0.7813,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9927,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-18T23:47:57Z",
+      "latest_at": "2026-09-18T23:47:57Z",
+      "primary_item": {
+        "id": "10ba9feaeef2c5b1f3a5777ab0a5e4284ef07b54",
+        "title": "FT 报道 OpenAI 预计 2030 年前累计现金消耗约 $278B / FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
+        "title_zh": "FT 报道 OpenAI 预计 2030 年前累计现金消耗约 $278B",
+        "title_ja": null,
+        "title_en": "FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
+        "title_original": "FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
+        "summary": "FT 报道，OpenAI 预计支出将远超收入，营收预计从今年的 $36B 增至 2030 年的 $350B。2026 至 2030 年总营收约 $840B，算力支出约 $856B，累计现金消耗约 $278B。",
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://x.com/rohanpaul_ai/status/2101095915654463533",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-19T00:37:48.974970Z"
       }
     },
     {
@@ -1260,16 +1349,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8452,
-      "importance": 0.8452,
-      "importance_score": 0.8452,
+      "score": 0.8387,
+      "importance": 0.8387,
+      "importance_score": 0.8387,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9623,
+        "recency": 0.9262,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1298,7 +1387,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T21:41:38.710201Z"
+        "scored_at": "2026-09-19T00:37:48.974970Z"
       }
     },
     {
@@ -1351,16 +1440,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7797,
-      "importance": 0.7797,
-      "importance_score": 0.7797,
+      "score": 0.773,
+      "importance": 0.773,
+      "importance_score": 0.773,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9814,
+        "recency": 0.9446,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1388,7 +1477,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T21:41:38.710201Z"
+        "scored_at": "2026-09-19T00:37:48.974970Z"
       }
     },
     {
@@ -1441,16 +1530,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7792,
-      "importance": 0.7792,
-      "importance_score": 0.7792,
+      "score": 0.773,
+      "importance": 0.773,
+      "importance_score": 0.773,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9143,
+        "recency": 0.88,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1478,7 +1567,97 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T21:41:38.710201Z"
+        "scored_at": "2026-09-19T00:37:48.974970Z"
+      }
+    },
+    {
+      "story_id": "story_3ff6f508c858",
+      "title": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
+      "title_ja": null,
+      "url": "https://www.ithome.com/1/004/356.htm",
+      "primary_url": "https://www.ithome.com/1/004/356.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ee20130cefc7fe4f1c2c007ed9af12b50e5604d7",
+          "title": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
+          "title_zh": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
+          "title_ja": null,
+          "title_en": null,
+          "title_original": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
+          "summary": "《纽约时报》在起诉微软和 OpenAI 的版权案中申请简易判决并提交新法律摘要，披露两家公司内部材料。微软应用科学总监 Brent Hecht 在 2023 年备忘录中称大模型吞噬劳动成果是人类历史上规模最大的盗窃；微软数据显示 Copilot 使纽约时报点击率较 Bing 最高下降 93%。",
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/1/004/356.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-18T23:13:06Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "ee20130cefc7fe4f1c2c007ed9af12b50e5604d7",
+          "title": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
+          "title_zh": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
+          "title_ja": null,
+          "title_en": null,
+          "title_original": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
+          "summary": "《纽约时报》在起诉微软和 OpenAI 的版权案中申请简易判决并提交新法律摘要，披露两家公司内部材料。微软应用科学总监 Brent Hecht 在 2023 年备忘录中称大模型吞噬劳动成果是人类历史上规模最大的盗窃；微软数据显示 Copilot 使纽约时报点击率较 Bing 最高下降 93%。",
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/1/004/356.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-18T23:13:06Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7768,
+      "importance": 0.7768,
+      "importance_score": 0.7768,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9844,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-18T23:13:06Z",
+      "latest_at": "2026-09-18T23:13:06Z",
+      "primary_item": {
+        "id": "ee20130cefc7fe4f1c2c007ed9af12b50e5604d7",
+        "title": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
+        "title_zh": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
+        "title_ja": null,
+        "title_en": null,
+        "title_original": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
+        "summary": "《纽约时报》在起诉微软和 OpenAI 的版权案中申请简易判决并提交新法律摘要，披露两家公司内部材料。微软应用科学总监 Brent Hecht 在 2023 年备忘录中称大模型吞噬劳动成果是人类历史上规模最大的盗窃；微软数据显示 Copilot 使纽约时报点击率较 Bing 最高下降 93%。",
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/1/004/356.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-19T00:37:48.974970Z"
       }
     },
     {
@@ -1531,16 +1710,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8382,
-      "importance": 0.8382,
-      "importance_score": 0.8382,
+      "score": 0.8317,
+      "importance": 0.8317,
+      "importance_score": 0.8317,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9679,
+        "recency": 0.9315,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1569,7 +1748,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T21:41:38.710201Z"
+        "scored_at": "2026-09-19T00:37:48.974970Z"
       }
     },
     {
@@ -1622,16 +1801,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7461,
-      "importance": 0.7461,
-      "importance_score": 0.7461,
+      "score": 0.7406,
+      "importance": 0.7406,
+      "importance_score": 0.7406,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8141,
+        "recency": 0.7836,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1658,7 +1837,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T21:41:38.710201Z"
+        "scored_at": "2026-09-19T00:37:48.974970Z"
       }
     },
     {
@@ -1711,16 +1890,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7391,
-      "importance": 0.7391,
-      "importance_score": 0.7391,
+      "score": 0.7334,
+      "importance": 0.7334,
+      "importance_score": 0.7334,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8416,
+        "recency": 0.8101,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1747,7 +1926,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T21:41:38.710201Z"
+        "scored_at": "2026-09-19T00:37:48.974970Z"
       }
     },
     {
@@ -1800,16 +1979,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.739,
-      "importance": 0.739,
-      "importance_score": 0.739,
+      "score": 0.7324,
+      "importance": 0.7324,
+      "importance_score": 0.7324,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.64,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9745,
+        "recency": 0.9379,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1836,185 +2015,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T21:41:38.710201Z"
-      }
-    },
-    {
-      "story_id": "story_92529e02e542",
-      "title": "Meta 发布 Muse for Mac，个人智能体可直接在电脑上执行任务 / @Muse for Mac， rolling out today. 👇",
-      "title_ja": "@Muse for Mac、本日リリース。 👇",
-      "url": "https://x.com/AIatMeta/status/2100714755568644409",
-      "primary_url": "https://x.com/AIatMeta/status/2100714755568644409",
-      "source": "X：AI at Meta (@AIatMeta)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "629120c73499a9910cc657c81a8aac07313fdc13",
-          "title": "Meta 发布 Muse for Mac，个人智能体可直接在电脑上执行任务 / @Muse for Mac， rolling out today. 👇",
-          "title_zh": "Meta 发布 Muse for Mac，个人智能体可直接在电脑上执行任务",
-          "title_ja": "@Muse for Mac、本日リリース。 👇",
-          "title_en": "@Muse for Mac， rolling out today. 👇",
-          "title_original": "@Muse for Mac， rolling out today. 👇",
-          "summary": "Meta 官宣 Muse for Mac 即日起推出，个人智能体可在用户明确授权下直接在电脑上完成任务。能力包括整理下载文件夹、查找丢失的文件、总结消息和笔记，官方表示更多功能即将推出，下载地址 http://ai.meta.com/muse/download/。",
-          "summary_ja": "Meta は、Muse for Mac を今後リリースすることを正式に発表しました。パーソナル エージェントは、ユーザーの明示的な承認を得て、コンピュータ上で直接タスクを完了できます。機能には、ダウンロード フォルダーの整理、紛失したファイルの検索、メッセージやメモの要約などがあります。関係者らは、さらに多くの機能が間もなく導入される予定だと述べている。ダウンロードアドレスは http://ai.meta.com/muse/download/ です。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/AIatMeta/status/2100714755568644409",
-          "source": "X：AI at Meta (@AIatMeta)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-17T22:33:21Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：AI at Meta (@AIatMeta)"
-      ],
-      "items": [
-        {
-          "id": "629120c73499a9910cc657c81a8aac07313fdc13",
-          "title": "Meta 发布 Muse for Mac，个人智能体可直接在电脑上执行任务 / @Muse for Mac， rolling out today. 👇",
-          "title_zh": "Meta 发布 Muse for Mac，个人智能体可直接在电脑上执行任务",
-          "title_ja": "@Muse for Mac、本日リリース。 👇",
-          "title_en": "@Muse for Mac， rolling out today. 👇",
-          "title_original": "@Muse for Mac， rolling out today. 👇",
-          "summary": "Meta 官宣 Muse for Mac 即日起推出，个人智能体可在用户明确授权下直接在电脑上完成任务。能力包括整理下载文件夹、查找丢失的文件、总结消息和笔记，官方表示更多功能即将推出，下载地址 http://ai.meta.com/muse/download/。",
-          "summary_ja": "Meta は、Muse for Mac を今後リリースすることを正式に発表しました。パーソナル エージェントは、ユーザーの明示的な承認を得て、コンピュータ上で直接タスクを完了できます。機能には、ダウンロード フォルダーの整理、紛失したファイルの検索、メッセージやメモの要約などがあります。関係者らは、さらに多くの機能が間もなく導入される予定だと述べている。ダウンロードアドレスは http://ai.meta.com/muse/download/ です。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/AIatMeta/status/2100714755568644409",
-          "source": "X：AI at Meta (@AIatMeta)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-17T22:33:21Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7379,
-      "importance": 0.7379,
-      "importance_score": 0.7379,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
-      "importance_breakdown": {
-        "editorial": 0.63,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7163,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-17T22:33:21Z",
-      "latest_at": "2026-09-17T22:33:21Z",
-      "primary_item": {
-        "id": "629120c73499a9910cc657c81a8aac07313fdc13",
-        "title": "Meta 发布 Muse for Mac，个人智能体可直接在电脑上执行任务 / @Muse for Mac， rolling out today. 👇",
-        "title_zh": "Meta 发布 Muse for Mac，个人智能体可直接在电脑上执行任务",
-        "title_ja": "@Muse for Mac、本日リリース。 👇",
-        "title_en": "@Muse for Mac， rolling out today. 👇",
-        "title_original": "@Muse for Mac， rolling out today. 👇",
-        "summary": "Meta 官宣 Muse for Mac 即日起推出，个人智能体可在用户明确授权下直接在电脑上完成任务。能力包括整理下载文件夹、查找丢失的文件、总结消息和笔记，官方表示更多功能即将推出，下载地址 http://ai.meta.com/muse/download/。",
-        "summary_ja": "Meta は、Muse for Mac を今後リリースすることを正式に発表しました。パーソナル エージェントは、ユーザーの明示的な承認を得て、コンピュータ上で直接タスクを完了できます。機能には、ダウンロード フォルダーの整理、紛失したファイルの検索、メッセージやメモの要約などがあります。関係者らは、さらに多くの機能が間もなく導入される予定だと述べている。ダウンロードアドレスは http://ai.meta.com/muse/download/ です。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/AIatMeta/status/2100714755568644409",
-        "source": "X：AI at Meta (@AIatMeta)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-18T21:41:38.710201Z"
-      }
-    },
-    {
-      "story_id": "story_e9a2d5044740",
-      "title": "纽约时报诉 OpenAI 案新解封文件：微软与 OpenAI 内部承认 LLM 建立在窃取之上并引发 Doom Loop / 'Doom Loop'： OpenAI and Microsoft Admits LLMs Are Destroying the Web and Built on Theft",
-      "title_ja": "「ドゥーム ループ」： OpenAI と Microsoft は、LLM が Web を破壊し、窃盗の上に構築されていると認める",
-      "url": "https://www.404media.co/doom-loop-openai-and-microsoft-admits-llms-are-destroying-the-web-and-built-on-theft",
-      "primary_url": "https://www.404media.co/doom-loop-openai-and-microsoft-admits-llms-are-destroying-the-web-and-built-on-theft",
-      "source": "404 Media（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6783ca6749eb14d6c806224607b7d07a915642c8",
-          "title": "纽约时报诉 OpenAI 案新解封文件：微软与 OpenAI 内部承认 LLM 建立在窃取之上并引发 Doom Loop / 'Doom Loop'： OpenAI and Microsoft Admits LLMs Are Destroying the Web and Built on Theft",
-          "title_zh": "纽约时报诉 OpenAI 案新解封文件：微软与 OpenAI 内部承认 LLM 建立在窃取之上并引发 Doom Loop",
-          "title_ja": "「ドゥーム ループ」： OpenAI と Microsoft は、LLM が Web を破壊し、窃盗の上に構築されていると認める",
-          "title_en": "'Doom Loop'： OpenAI and Microsoft Admits LLMs Are Destroying the Web and Built on Theft",
-          "title_original": "'Doom Loop'： OpenAI and Microsoft Admits LLMs Are Destroying the Web and Built on Theft",
-          "summary": "纽约时报诉 OpenAI 版权诉讼中一份未删节法庭文件解封，收录微软与 OpenAI 高管的多项内部承认，称 LLM 建立在被微软高管称为空前规模盗窃的内容之上，并引发摧毁整个 web 的 doom loop。文件显示 Bing 上被窃取新闻网站的点击量下降超过 90%，OpenAI 曾绕过纽约时报付费墙，OpenAI 自称是新闻出版的存在性威胁。",
-          "summary_ja": "OpenAIに対するニューヨーク・タイムズの著作権訴訟の未編集の法廷文書が公開され、そこにはLLMが前例のない規模で盗まれ、ウェブ全体を破壊する破滅のループを引き起こしたとMicrosoft幹部が述べたコンテンツに基づいて構築されたというMicrosoftとOpenAI幹部の複数の内部自白が含まれている。文書によると、Bing 上のハッキングされたニュース サイトへのクリック数は 90% 以上減少し、ニュース出版に対する存続の脅威を自称する OpenAI はニューヨーク タイムズのペイウォールを回避しました。",
-          "recommend_reason_zh": null,
-          "url": "https://www.404media.co/doom-loop-openai-and-microsoft-admits-llms-are-destroying-the-web-and-built-on-theft",
-          "source": "404 Media（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-17T22:01:43Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "404 Media（RSS）"
-      ],
-      "items": [
-        {
-          "id": "6783ca6749eb14d6c806224607b7d07a915642c8",
-          "title": "纽约时报诉 OpenAI 案新解封文件：微软与 OpenAI 内部承认 LLM 建立在窃取之上并引发 Doom Loop / 'Doom Loop'： OpenAI and Microsoft Admits LLMs Are Destroying the Web and Built on Theft",
-          "title_zh": "纽约时报诉 OpenAI 案新解封文件：微软与 OpenAI 内部承认 LLM 建立在窃取之上并引发 Doom Loop",
-          "title_ja": "「ドゥーム ループ」： OpenAI と Microsoft は、LLM が Web を破壊し、窃盗の上に構築されていると認める",
-          "title_en": "'Doom Loop'： OpenAI and Microsoft Admits LLMs Are Destroying the Web and Built on Theft",
-          "title_original": "'Doom Loop'： OpenAI and Microsoft Admits LLMs Are Destroying the Web and Built on Theft",
-          "summary": "纽约时报诉 OpenAI 版权诉讼中一份未删节法庭文件解封，收录微软与 OpenAI 高管的多项内部承认，称 LLM 建立在被微软高管称为空前规模盗窃的内容之上，并引发摧毁整个 web 的 doom loop。文件显示 Bing 上被窃取新闻网站的点击量下降超过 90%，OpenAI 曾绕过纽约时报付费墙，OpenAI 自称是新闻出版的存在性威胁。",
-          "summary_ja": "OpenAIに対するニューヨーク・タイムズの著作権訴訟の未編集の法廷文書が公開され、そこにはLLMが前例のない規模で盗まれ、ウェブ全体を破壊する破滅のループを引き起こしたとMicrosoft幹部が述べたコンテンツに基づいて構築されたというMicrosoftとOpenAI幹部の複数の内部自白が含まれている。文書によると、Bing 上のハッキングされたニュース サイトへのクリック数は 90% 以上減少し、ニュース出版に対する存続の脅威を自称する OpenAI はニューヨーク タイムズのペイウォールを回避しました。",
-          "recommend_reason_zh": null,
-          "url": "https://www.404media.co/doom-loop-openai-and-microsoft-admits-llms-are-destroying-the-web-and-built-on-theft",
-          "source": "404 Media（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-17T22:01:43Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7336,
-      "importance": 0.7336,
-      "importance_score": 0.7336,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7109,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-17T22:01:43Z",
-      "latest_at": "2026-09-17T22:01:43Z",
-      "primary_item": {
-        "id": "6783ca6749eb14d6c806224607b7d07a915642c8",
-        "title": "纽约时报诉 OpenAI 案新解封文件：微软与 OpenAI 内部承认 LLM 建立在窃取之上并引发 Doom Loop / 'Doom Loop'： OpenAI and Microsoft Admits LLMs Are Destroying the Web and Built on Theft",
-        "title_zh": "纽约时报诉 OpenAI 案新解封文件：微软与 OpenAI 内部承认 LLM 建立在窃取之上并引发 Doom Loop",
-        "title_ja": "「ドゥーム ループ」： OpenAI と Microsoft は、LLM が Web を破壊し、窃盗の上に構築されていると認める",
-        "title_en": "'Doom Loop'： OpenAI and Microsoft Admits LLMs Are Destroying the Web and Built on Theft",
-        "title_original": "'Doom Loop'： OpenAI and Microsoft Admits LLMs Are Destroying the Web and Built on Theft",
-        "summary": "纽约时报诉 OpenAI 版权诉讼中一份未删节法庭文件解封，收录微软与 OpenAI 高管的多项内部承认，称 LLM 建立在被微软高管称为空前规模盗窃的内容之上，并引发摧毁整个 web 的 doom loop。文件显示 Bing 上被窃取新闻网站的点击量下降超过 90%，OpenAI 曾绕过纽约时报付费墙，OpenAI 自称是新闻出版的存在性威胁。",
-        "summary_ja": "OpenAIに対するニューヨーク・タイムズの著作権訴訟の未編集の法廷文書が公開され、そこにはLLMが前例のない規模で盗まれ、ウェブ全体を破壊する破滅のループを引き起こしたとMicrosoft幹部が述べたコンテンツに基づいて構築されたというMicrosoftとOpenAI幹部の複数の内部自白が含まれている。文書によると、Bing 上のハッキングされたニュース サイトへのクリック数は 90% 以上減少し、ニュース出版に対する存続の脅威を自称する OpenAI はニューヨーク タイムズのペイウォールを回避しました。",
-        "recommend_reason_zh": null,
-        "url": "https://www.404media.co/doom-loop-openai-and-microsoft-admits-llms-are-destroying-the-web-and-built-on-theft",
-        "source": "404 Media（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-18T21:41:38.710201Z"
+        "scored_at": "2026-09-19T00:37:48.974970Z"
       }
     },
     {
@@ -2067,16 +2068,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7299,
-      "importance": 0.7299,
-      "importance_score": 0.7299,
+      "score": 0.7239,
+      "importance": 0.7239,
+      "importance_score": 0.7239,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8906,
+        "recency": 0.8572,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -2103,7 +2104,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T21:41:38.710201Z"
+        "scored_at": "2026-09-19T00:37:48.974970Z"
       }
     }
   ]
