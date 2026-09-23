@@ -1,30 +1,94 @@
 {
-  "generated_at": "2026-09-23T05:56:39.707043Z",
+  "generated_at": "2026-09-23T20:19:26.473823Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-09-22",
-  "count_today": 1,
+  "count_today": 5,
   "updates_today": [
     {
       "date": "2026-09-22",
-      "title": "一夜三连发，Claude Opus 5.5、GPT-6 Sol和Luna全部都来了。",
-      "summary": "模型一夜三连发，那我们到底该怎么选、该把钱花在哪个模型上。这篇文章把 Claude Opus 5.5、GPT-6 Sol 和 GPT-6 Luna 放在一起拆解了下，大家可以直接看这篇来看看适合你的是哪个！",
-      "url": "https://waytoagi.feishu.cn/wiki/PAspwtGkUixa1ykE3ELcbz42nog?from=from_copylink",
-      "title_ja": null,
-      "summary_ja": null
-    }
-  ],
-  "count_7d": 33,
-  "updates_7d": [
+      "title": "我把463个AI视频做成了Skill和提示语模版，全都开源！",
+      "summary": "卡尔把 463 个 AI 视频案例重新复现、评分、分类，整理成开源项目 awesome-seedance，还沉淀出可直接改写的提示语模板和 AI 视频 Skills。快来试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/RnLewCa42iQ56VkC1HnclnYbnSd?from=from_copylink",
+      "title_ja": "463 個の AI ビデオをスキルとプロンプトのテンプレートにしました。すべてオープンソースです。",
+      "summary_ja": "Carl は 463 件の AI ビデオ ケースを再生、スコアリングし、オープンソース プロジェクトの awesome-seedance に分類しました。彼はまた、直接書き換えることができるプロンプト テンプレートと AI ビデオ スキルも作成しました。ぜひ試してみてください！"
+    },
+    {
+      "date": "2026-09-22",
+      "title": "开源微信流，微信聊天记录，可以直接给 Codex 和 Obsidan 了",
+      "summary": "微信聊天里其实藏着很多高价值信息：客户需求、群聊共识、文章链接、项目讨论，但大多数时候都散在记录里，想交给 AI 处理还得手动复制粘贴。苍何开源了一个 WeChatBridge（微信流），它像一个微信和 AI 工具之间的“转发桥”：可以把聊天记录一键送到 Codex、Claude、WorkBuddy、豆包、千问办公等 Agent，也能沉淀到 Obsidian 里变成个人知识库，还能结合 Skill 解析公众号、视频号、PDF 等内容。",
+      "url": "https://waytoagi.feishu.cn/wiki/W4A8wRWa2iXFyrkVWrrcXRUgnLg?from=from_copylink",
+      "title_ja": "オープンソースの WeChat ストリームと WeChat チャット記録を Codex と Obsidan に直接提供できる",
+      "summary_ja": "実際、WeChat チャットには、顧客のニーズ、グループ チャットのコンセンサス、記事のリンク、プロジェクトのディスカッションなど、多くの価値の高い情報が隠されていますが、ほとんどの場合、それらは記録の中に散在しており、処理のために AI に渡したい場合は手動でコピーして貼り付ける必要があります。 Canghe は、WeChat と AI ツールの間の「転送ブリッジ」のような WeChatBridge (WeChat Stream) をオープンソース化しました。ワンクリックでチャット記録を Codex、Claude、WorkBuddy、Doubao、Qianwen Office などのエージェントに送信できます。また、Obsidian にデポジットして個人の知識ベースにすることもできます。また、スキルと組み合わせて、パブリック アカウント、ビデオ アカウント、PDF、その他のコンテンツを解析することもできます。"
+    },
     {
       "date": "2026-09-22",
       "title": "一夜三连发，Claude Opus 5.5、GPT-6 Sol和Luna全部都来了。",
       "summary": "模型一夜三连发，那我们到底该怎么选、该把钱花在哪个模型上。这篇文章把 Claude Opus 5.5、GPT-6 Sol 和 GPT-6 Luna 放在一起拆解了下，大家可以直接看这篇来看看适合你的是哪个！",
       "url": "https://waytoagi.feishu.cn/wiki/PAspwtGkUixa1ykE3ELcbz42nog?from=from_copylink",
-      "title_ja": null,
-      "summary_ja": null
+      "title_ja": "一晩で3回連続リリース、Claude Opus 5.5、GPT-6 Sol、Lunaがすべて来ました。",
+      "summary_ja": "モデルは一晩に 3 回リリースされますが、どのように選択し、どのモデルにお金をかけるべきでしょうか?この記事では、Claude Opus 5.5、GPT-6 Sol、GPT-6 Luna をまとめて分解します。この記事を直接読んで、どれが自分に適しているかを確認してください。"
+    },
+    {
+      "date": "2026-09-22",
+      "title": "Jev 背后的野心，是完全的自动化",
+      "summary": "TypeSafe推出的Jev模型跳出传统大模型的文本生成路线，主打输出带置信度的结构化决策。这篇文章梳理了他们CEO演讲的核心思考，一起来看看Jev背后的野心！",
+      "url": "https://waytoagi.feishu.cn/wiki/TFeOwUm4ciEsU2kqC8Ecj7wfn5g?from=from_copylink",
+      "title_ja": "Jev の背後にある野心は完全な自動化です",
+      "summary_ja": "TypeSafe によって開始された Jev モデルは、従来の大規模モデルのテキスト生成ルートから脱却し、構造化された意思決定を自信を持って出力することに重点を置いています。この記事では、CEO のスピーチの中核となる考え方を整理し、Jev の背後にある野心を見てみましょう。"
+    },
+    {
+      "date": "2026-09-22",
+      "title": "AI圈炸裂的JEV模型深度解读：一个不写字的模型，正在改写Agent架构的未来？（附安装教程）",
+      "summary": "很多 Agent 现在最大的问题，是把所有事情都塞给一个大模型：理解、规划、选工具、判风险、生成回复，结果提示词越来越长，成本和延迟也越来越难控。而最近爆火的JEV模型则是用 Choice、Score、Noul 这三类结构化判断，给程序返回选项、分数、概率和置信度。或许这会成为一个模型训练的新范式。",
+      "url": "https://waytoagi.feishu.cn/wiki/STj2wHlSiiXtb5knjQQcoqgOnRc?from=from_copylink",
+      "title_ja": "AI界で爆発的に普及したJEVモデルの徹底解釈：書かないモデルがエージェントアーキテクチャの未来を書き換える? (インストールチュートリアルが添付されています)",
+      "summary_ja": "現在、多くのエージェントにとっての最大の問題は、理解、計画、ツールの選択、リスクの判断、対応の生成など、すべてを大規模なモデルに詰め込んでいることです。その結果、プロンプトの言葉はますます長くなり、コストと遅延を制御することがますます困難になってきています。最近人気のある JEV モデルは、Choice、Score、Noul の 3 種類の構造化された判断を使用して、オプション、スコア、確率、および信頼レベルをプログラムに返します。おそらく、これはモデルトレーニングの新しいパラダイムとなるでしょう。"
+    }
+  ],
+  "count_7d": 32,
+  "updates_7d": [
+    {
+      "date": "2026-09-22",
+      "title": "我把463个AI视频做成了Skill和提示语模版，全都开源！",
+      "summary": "卡尔把 463 个 AI 视频案例重新复现、评分、分类，整理成开源项目 awesome-seedance，还沉淀出可直接改写的提示语模板和 AI 视频 Skills。快来试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/RnLewCa42iQ56VkC1HnclnYbnSd?from=from_copylink",
+      "title_ja": "463 個の AI ビデオをスキルとプロンプトのテンプレートにしました。すべてオープンソースです。",
+      "summary_ja": "Carl は 463 件の AI ビデオ ケースを再生、スコアリングし、オープンソース プロジェクトの awesome-seedance に分類しました。彼はまた、直接書き換えることができるプロンプト テンプレートと AI ビデオ スキルも作成しました。ぜひ試してみてください！"
+    },
+    {
+      "date": "2026-09-22",
+      "title": "开源微信流，微信聊天记录，可以直接给 Codex 和 Obsidan 了",
+      "summary": "微信聊天里其实藏着很多高价值信息：客户需求、群聊共识、文章链接、项目讨论，但大多数时候都散在记录里，想交给 AI 处理还得手动复制粘贴。苍何开源了一个 WeChatBridge（微信流），它像一个微信和 AI 工具之间的“转发桥”：可以把聊天记录一键送到 Codex、Claude、WorkBuddy、豆包、千问办公等 Agent，也能沉淀到 Obsidian 里变成个人知识库，还能结合 Skill 解析公众号、视频号、PDF 等内容。",
+      "url": "https://waytoagi.feishu.cn/wiki/W4A8wRWa2iXFyrkVWrrcXRUgnLg?from=from_copylink",
+      "title_ja": "オープンソースの WeChat ストリームと WeChat チャット記録を Codex と Obsidan に直接提供できる",
+      "summary_ja": "実際、WeChat チャットには、顧客のニーズ、グループ チャットのコンセンサス、記事のリンク、プロジェクトのディスカッションなど、多くの価値の高い情報が隠されていますが、ほとんどの場合、それらは記録の中に散在しており、処理のために AI に渡したい場合は手動でコピーして貼り付ける必要があります。 Canghe は、WeChat と AI ツールの間の「転送ブリッジ」のような WeChatBridge (WeChat Stream) をオープンソース化しました。ワンクリックでチャット記録を Codex、Claude、WorkBuddy、Doubao、Qianwen Office などのエージェントに送信できます。また、Obsidian にデポジットして個人の知識ベースにすることもできます。また、スキルと組み合わせて、パブリック アカウント、ビデオ アカウント、PDF、その他のコンテンツを解析することもできます。"
+    },
+    {
+      "date": "2026-09-22",
+      "title": "一夜三连发，Claude Opus 5.5、GPT-6 Sol和Luna全部都来了。",
+      "summary": "模型一夜三连发，那我们到底该怎么选、该把钱花在哪个模型上。这篇文章把 Claude Opus 5.5、GPT-6 Sol 和 GPT-6 Luna 放在一起拆解了下，大家可以直接看这篇来看看适合你的是哪个！",
+      "url": "https://waytoagi.feishu.cn/wiki/PAspwtGkUixa1ykE3ELcbz42nog?from=from_copylink",
+      "title_ja": "一晩で3回連続リリース、Claude Opus 5.5、GPT-6 Sol、Lunaがすべて来ました。",
+      "summary_ja": "モデルは一晩に 3 回リリースされますが、どのように選択し、どのモデルにお金をかけるべきでしょうか?この記事では、Claude Opus 5.5、GPT-6 Sol、GPT-6 Luna をまとめて分解します。この記事を直接読んで、どれが自分に適しているかを確認してください。"
+    },
+    {
+      "date": "2026-09-22",
+      "title": "Jev 背后的野心，是完全的自动化",
+      "summary": "TypeSafe推出的Jev模型跳出传统大模型的文本生成路线，主打输出带置信度的结构化决策。这篇文章梳理了他们CEO演讲的核心思考，一起来看看Jev背后的野心！",
+      "url": "https://waytoagi.feishu.cn/wiki/TFeOwUm4ciEsU2kqC8Ecj7wfn5g?from=from_copylink",
+      "title_ja": "Jev の背後にある野心は完全な自動化です",
+      "summary_ja": "TypeSafe によって開始された Jev モデルは、従来の大規模モデルのテキスト生成ルートから脱却し、構造化された意思決定を自信を持って出力することに重点を置いています。この記事では、CEO のスピーチの中核となる考え方を整理し、Jev の背後にある野心を見てみましょう。"
+    },
+    {
+      "date": "2026-09-22",
+      "title": "AI圈炸裂的JEV模型深度解读：一个不写字的模型，正在改写Agent架构的未来？（附安装教程）",
+      "summary": "很多 Agent 现在最大的问题，是把所有事情都塞给一个大模型：理解、规划、选工具、判风险、生成回复，结果提示词越来越长，成本和延迟也越来越难控。而最近爆火的JEV模型则是用 Choice、Score、Noul 这三类结构化判断，给程序返回选项、分数、概率和置信度。或许这会成为一个模型训练的新范式。",
+      "url": "https://waytoagi.feishu.cn/wiki/STj2wHlSiiXtb5knjQQcoqgOnRc?from=from_copylink",
+      "title_ja": "AI界で爆発的に普及したJEVモデルの徹底解釈：書かないモデルがエージェントアーキテクチャの未来を書き換える? (インストールチュートリアルが添付されています)",
+      "summary_ja": "現在、多くのエージェントにとっての最大の問題は、理解、計画、ツールの選択、リスクの判断、対応の生成など、すべてを大規模なモデルに詰め込んでいることです。その結果、プロンプトの言葉はますます長くなり、コストと遅延を制御することがますます困難になってきています。最近人気のある JEV モデルは、Choice、Score、Noul の 3 種類の構造化された判断を使用して、オプション、スコア、確率、および信頼レベルをプログラムに返します。おそらく、これはモデルトレーニングの新しいパラダイムとなるでしょう。"
     },
     {
       "date": "2026-09-21",
@@ -241,46 +305,6 @@
       "url": "https://waytoagi.feishu.cn/wiki/KqDfwTwVFihTgYkutbwcHDornXc?from=from_copylink",
       "title_ja": "AIの活用：成果をあげた人は採用され、人間関係を築いた人は定着する。",
       "summary_ja": "アリスの実践を組み合わせて、ルオ・シャオシャン氏は「人間関係生産性エージェント」を提案しました。これは、実際の配達を使用して毎日開封する理由を提供し、習慣を記憶し、長期的なコラボレーションで即時の言葉で書かれていないニーズを理解することで、タスクの完了をよりユーザーフレンドリーにすることができます。この記事では、モデルを変更した後にスタイルが安定しているかどうか、古い習慣を正確に思い出せるかどうか、タスクがないときにユーザーが喜んで開くかどうかなど、具体的なテスト方法も示しています。 AI 製品や運用を作成する人は、これらの基準を比較して、短期的な魅力や継続的なコラボレーションの信頼を蓄積しているかどうかを確認できます。"
-    },
-    {
-      "date": "2026-09-17",
-      "title": "果蝇真的能“玩”游戏、看行情、控制机器人吗？MaleCNS 到底是什么？",
-      "summary": "最近出现了一批很奇怪的演示：游戏里的角色会移动，行情系统会买卖，机器人会转向，而这些动作背后，运行的是一张果蝇神经系统的数字连接图。那么，这张连接图到底是什么呢？",
-      "url": "https://waytoagi.feishu.cn/wiki/BPGtwDcLqi6HhDkTWxocTKQ8nUe?from=from_copylink",
-      "title_ja": "ショウジョウバエは本当にゲームを「プレイ」し、市場を読み、ロボットを制御できるのでしょうか? MaleCNS とは一体何ですか?",
-      "summary_ja": "最近、非常に奇妙なデモンストレーションが数多く行われています。ゲーム内のキャラクターが動き、市場システムが売買し、ロボットが回転することができます。これらの動作の背後にあるのは、ショウジョウバエの神経系のデジタル接続図です。では、この接続図は一体何なのでしょうか？"
-    },
-    {
-      "date": "2026-09-17",
-      "title": "为什么 Agent 的运行框架，比模型本身更重要？丨Y Combinator",
-      "summary": "这期 YC Paper Club 谈的是 Harness，也就是让模型使用工具、管理记忆并持续工作的运行框架。Prime Intellect 的 Seth Karten、斯坦福的 Jon Saad-Falcon，以及 YC 的 Josh France 和 Regan Bell，分别带来研究、本地 AI 和公司内部协作的实践。",
-      "url": "https://waytoagi.feishu.cn/wiki/Oi2RwbRuciQri4kfHbMcMNbenFd?from=from_copylink",
-      "title_ja": "エージェントの動作フレームワークがモデル自体よりも重要なのはなぜですか?丨​​Y Combinator",
-      "summary_ja": "YC Paper Club の今号では、モデルがツールを使用し、メモリを管理し、動作を継続できるようにするオペレーティング フレームワークである Harness について説明します。 Prime Intellect の Seth Karten 氏、スタンフォード大学の Jon Saad-Falcon 氏、YC の Josh France 氏と Regan Bell 氏は、それぞれ研究、ローカル AI、企業内コラボレーションの実践をもたらします。"
-    },
-    {
-      "date": "2026-09-17",
-      "title": "Codex 从零基础到精通——By WaytoAGI二师兄",
-      "summary": "这是一篇写给普通人、零基础新手、刚接触 AI 工具的大家的实战入门教学。你会在这篇教程里看到很多截图、案例、提示词示例和常见错误说明。",
-      "url": "https://waytoagi.feishu.cn/wiki/LiLEwBuxxiE2hCkQNkccBKFGnRg?from=from_copylink",
-      "title_ja": "ゼロの基礎から習得までのコーデックス —— By WaytoAGI、次兄",
-      "summary_ja": "一般の方、基礎知識のない初心者、AIツールを初めて使用する方を対象に書かれた実践的な入門チュートリアルです。このチュートリアルでは、多くのスクリーンショット、例、プロンプト ワードの例、および一般的なエラーの説明が表示されます。"
-    },
-    {
-      "date": "2026-09-17",
-      "title": "AI FDE是什么？一篇文章带你了解（附学习资源）",
-      "summary": "AI FDE已然成为当下 AI 领域高薪热门岗位，海外岗位暴涨729%，国内大厂也密集放出高薪岗位。作者基于Anthropic工程师的分享，拆解了FDE底层逻辑、落地流程，带你读懂热潮背后客户依赖的深层风险。",
-      "url": "https://waytoagi.feishu.cn/wiki/RYtTwXT9Si1CYSknQu6ccXYMnwd?from=from_copylink",
-      "title_ja": "AI FDE とは何ですか?理解に役立つ記事 (学習リソース付き)",
-      "summary_ja": "AI FDE は、AI 分野で高収入のポジションとして人気があります。海外ポジションは729％急増し、国内大手企業も高給ポジションを集中的に放出している。著者は、Anthropic エンジニアの共有に基づいて、FDE の基礎となるロジックと実装プロセスを分解し、流行の背後にある顧客依存の深いリスクを理解するのに役立ちます。"
-    },
-    {
-      "date": "2026-09-17",
-      "title": "4000人，排队去看一个不存在于现实里的歌手！",
-      "summary": "4000人齐聚上海外滩大会，奔赴AI虚拟偶像Yuri的首场线下百米巨幕音乐会。来一起回顾下一个虚拟IP走进现实世界的背后故事！",
-      "url": "https://waytoagi.feishu.cn/wiki/QepjwjAc5iHHFxkKsbXcxH8Inpg?from=from_copylink",
-      "title_ja": "現実には存在しない歌手を見るために4,000人が行列！",
-      "summary_ja": "AIバーチャルアイドルユリの初のオフライン100メートル巨大スクリーンコンサートに4,000人が上海外灘会議に集まった。次の仮想 IP が現実世界に登場する背景を振り返ってみましょう。"
     }
   ],
   "warning": null,
