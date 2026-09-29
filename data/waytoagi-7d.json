@@ -1,126 +1,182 @@
 {
-  "generated_at": "2026-09-28T21:57:47.777611Z",
+  "generated_at": "2026-09-29T15:47:48.941986Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-09-28",
+  "latest_date": "2026-09-29",
   "count_today": 7,
   "updates_today": [
     {
-      "date": "2026-09-28",
-      "title": "高分《行镖》幕后：一个镜头做了一天，AI 剧集到底难在哪？",
-      "summary": "CY这篇文章把高分 AI 剧集《行镖》的制作过程拆得很细：资产库和制作台本怎么统一角色、场景、道具；分镜如何把剧本文字转成观众看得懂的视觉流；动作提示词怎样写出蓄力、速度、特效滞后和镜头光学；色彩、光线、声音又如何一起服务同一场戏。如果你在做 AI 视频、短剧，不容错过！",
-      "url": "https://waytoagi.feishu.cn/wiki/MEhowly9IibPJXkC64kcSuUlnXf?from=from_copylink",
-      "title_ja": null,
-      "summary_ja": null
+      "date": "2026-09-29",
+      "title": "实测Claude Sonnet 5.5，做AI代码动画这块断档领先gpt6但3D拉了",
+      "summary": "Anthropic Sonnet 5.5正式更新，相比Opus5.5成本减半、速度提升30%。作者在代码动画、PPT制作、3D网页动效、创意写作多场景进行了实测，对比了它和Opus5.5的能力边界。Sonnet执行稳定高效，擅长落地定型任务；Opus则更擅长创意发散与细节增益。",
+      "url": "https://waytoagi.feishu.cn/wiki/PgWywvBBmiViP9k4AuhcR1Fnnfd?from=from_copylink",
+      "title_ja": "実際のテスト: Claude Sonnet 5.5、AI コード アニメーションは gpt6 を上回っていますが、3D では遅れをとっています",
+      "summary_ja": "Anthropic Sonnet 5.5 が正式にアップデートされました。 Opus5.5と比較するとコストは半分、速度は30%向上しています。著者はコードアニメーション、PPT制作、3D Webページアニメーション、クリエイティブライティングシナリオで実際にテストを行い、Opus5.5とその機能を比較しました。 Sonnet は実行が安定していて効率的で、タスクの実行と完了が得意です。 Opus はクリエイティブな発散とディテールの向上において優れています。"
     },
     {
-      "date": "2026-09-28",
-      "title": "知乎AI蓝宝书",
-      "summary": "「知乎 AI 蓝宝书」把知乎站内高质量专业内容重新整理成知识地图，让你可以先用几小时就搭起一个领域骨架，知道下一步该读什么、怎么继续深入。目前已经整理了 AI Infra、大模型强化学习、具身智能三册，共收录 83 篇内容。如果你想快速入门 AI 技术方向，又不想被碎片信息带偏，可以收藏下！",
-      "url": "https://waytoagi.feishu.cn/wiki/LQcdwjwBGio4AokZcrXcv7oBnzc?from=from_copylink",
-      "title_ja": null,
-      "summary_ja": null
+      "date": "2026-09-29",
+      "title": "从基础检索到生产级 AI 系统的 10 个 RAG 项目",
+      "summary": "从基础检索到生产级 AI 系统的 10 个 RAG 项目",
+      "url": "https://waytoagi.feishu.cn/wiki/Az1kwbx64iS5clkHSmac53Dlnhb?from=from_copylink",
+      "title_ja": "基本的な検索から実稼働グレードの AI システムまでの 10 の RAG プロジェクト",
+      "summary_ja": "基本的な検索から実稼働グレードの AI システムまでの 10 の RAG プロジェクト"
     },
     {
-      "date": "2026-09-28",
-      "title": "新 Manus，新伙伴，新旅程",
-      "summary": "Manus 于今日面向海外用户发布了 2.0 版本，并推出面向个人生活场景的智能助理 Cue。一起来看看！",
-      "url": "https://waytoagi.feishu.cn/wiki/EwrYwumqTiCTbRkmK6Pco7aAnSQ?from=from_copylink",
-      "title_ja": null,
-      "summary_ja": null
+      "date": "2026-09-29",
+      "title": "云舒：Opus 5.5 能做出什么：我收藏的 50 个案例",
+      "summary": "云舒这篇收集了大量Opus 5.5的实测案例：一句话生成动效片、旅行照变丙烯画、论文变 MV、口播自动剪成成片、宜家手册变 3D 教学、草图变投石机、网页 Splatoon、Godot 开放世界雏形，甚至还能跑几小时做出多个 App 交互版本。快来一起感受 Opus 5.5 真正打开的想象空间！",
+      "url": "https://waytoagi.feishu.cn/wiki/S9TnwLwxaiqK6fkXh9PcYrlsnfX?from=from_copylink",
+      "title_ja": "ユンシュウ: Opus 5.5 でできること: 私のコレクションから 50 件",
+      "summary_ja": "Yun Shu 氏の記事では、Opus 5.5 の実際のテスト ケースを多数収集しました。一文でアニメーション フィルムを生成する、旅行の写真をアクリル画に変換する、エッセイを MV に変換する、口頭放送を自動的にカットしてフィルムに変換する、IKEA のマニュアルを 3D チュートリアルに変換する、スケッチをトレビュシェットに変換する、Web Splatoon、Godot のオープンワールド プロトタイプを作成する、さらにはアプリの複数のインタラクティブ バージョンを作成するために数時間実行するなどです。 Opus 5.5 が真に開く想像力の空間をぜひ体験してください。"
     },
     {
-      "date": "2026-09-28",
-      "title": "Kling 4.0 全面升级！全能班底，你和可灵。",
-      "summary": "全新升级的 Kling 4.0 将于 10 月正式与大家见面。其中，Kling 4.0 Flash 于9月28日率先开放小范围体验。Kling 4.0在画面真实感、创意可控性、叙事完整度方面都实现了大幅提升，一起来看看！",
-      "url": "https://waytoagi.feishu.cn/wiki/XZ7YwlBgMiKUOVkeG1FcSZ2onNe?from=from_copylink",
-      "title_ja": null,
-      "summary_ja": null
+      "date": "2026-09-29",
+      "title": "Opus 5.5 动效视频指南：如何从 0 开始手搓视频？（附提示词）",
+      "summary": "Opus 5.5 动效视频指南：如何从 0 开始手搓视频？（附提示词）",
+      "url": "https://waytoagi.feishu.cn/wiki/IHB5wFejoiLl9TkMPLWcPMMgnFg?from=from_copylink",
+      "title_ja": "Opus 5.5 モーション ビデオ ガイド: 手回しビデオを最初から始めるには? （即答で）",
+      "summary_ja": "Opus 5.5 モーション ビデオ ガイド: 手回しビデオを最初から始めるには? （即答で）"
     },
     {
-      "date": "2026-09-28",
-      "title": "Google 产品负责人：优秀产品背后的可复制模式丨Lenny's Podcast",
-      "summary": "这篇文章把 Google AI 搜索负责人 Robby Stein 的产品方法论讲得很清楚：怎么通过真实场景追问需求，怎么用反馈验证判断，怎么在功能迭代里补齐用户决策所需的信息，甚至让 AI 自动跑产品、截图检查体验。适合产品经理、AI 产品创业者读，能帮你少一点拍脑袋，多一点贴近用户的判断。",
-      "url": "https://waytoagi.feishu.cn/wiki/J789wwR37imMq8kOSEvcLupznOh?from=from_copylink",
-      "title_ja": null,
-      "summary_ja": null
+      "date": "2026-09-29",
+      "title": "OpenAI 刚刚公开了 GPT-6 Astra 的提示词写法",
+      "summary": "OpenAI 公开了 GPT-6 Astra 的提示词写法：怎么让它别过早停下来、主动把任务做完；怎么处理用户指令和 Skill 之间的优先级；怎么减少套话和过度 Markdown；什么时候该用子代理并行；以及如何让测试范围和代码改动匹配。或许对你有所帮助！",
+      "url": "https://waytoagi.feishu.cn/wiki/YLjRwmvnViaNFQkI0zgcjNynnkg?from=from_copylink",
+      "title_ja": "OpenAIはGPT-6 Astraのプロンプトワード書き込みメソッドをリリースしました",
+      "summary_ja": "OpenAI は、GPT-6 Astra のプロンプトワード書き込み方法を公開しました。それは、途中で停止せず、タスクを積極的に完了させる方法です。ユーザーのコマンドとスキルの間の優先順位をどのように処理するか。決まり文句や過剰なマークダウンを減らす方法。サブエージェント並列処理をいつ使用するか。テスト範囲とコード変更を一致させる方法。たぶんそれはあなたを助けるでしょう！"
     },
     {
-      "date": "2026-09-28",
-      "title": "Codex + Hypit复刻爆款视频【附新手教程】",
-      "summary": "作者用 Codex + Hypit 完整跑了一遍爆款视频的复刻流程：先分析参考片的开头钩子、字幕节奏、真人出镜和操作演示关系，再换成自己的主题、口播和素材；中途还通过 Hypit Studio 预览时间线、调整画面主次，最后把成片、工程、字幕、视觉配置、质检记录都沉淀成模板。你也可以上手试试！",
-      "url": "https://waytoagi.feishu.cn/wiki/FXDrwgdWoiOKRtkCs0CcUBlmnPg?from=from_copylink",
-      "title_ja": null,
-      "summary_ja": null
+      "date": "2026-09-29",
+      "title": "Flash 阵营再添强手！OpenCode 夸赞的神秘兔子，实力如何？",
+      "summary": "Space Bunny Alpha匿名上线 OpenRouter 后，几天内冲上用量榜，OpenCode也公开夸它连续登顶，关键是目前免费、支持多模态，还有 1M 上下文。梦飞用 8 个任务把它和 DeepSeek V4.1 Flash、GLM 5.3 Flash 拉到一起进行了横评：小游戏、记账 App、节气长卷、毛笔书法、视频理解、产业链调研、DCF 估值都测了一遍。看看效果如何！",
+      "url": "https://waytoagi.feishu.cn/wiki/K0VvwylDwiUAH7kF8Goc5uXFn9f?from=from_copylink",
+      "title_ja": "Flash陣営にまた強い選手が登場！ OpenCodeが絶賛した謎のウサギの強さとは？",
+      "summary_ja": "Space Bunny Alpha が OpenRouter 上で匿名で公開されると、数日以内に使用状況リストのトップに躍り出ました。 OpenCode も、継続的にトップに到達していることを公に称賛しました。重要なのは、現在無料で、マルチモダリティをサポートし、1M のコンテキストを備えていることです。 Mengfei は 8 つのタスクを使用して、DeepSeek V4.1 Flash と GLM 5.3 Flash を使用して水平評価を行いました。ミニゲーム、会計アプリ、二十四節気の巻物、書道、ビデオ理解、業界チェーン調査、DCF 評価がすべてテストされました。どのように機能するか見てみましょう!"
     },
     {
-      "date": "2026-09-28",
-      "title": "AI音乐周刊 W.A 047",
-      "summary": "AI 音乐这一周很热闹：一边是工具越来越像真正的音乐工作台，一边是版权、标注、授权规则也在加速补课。苹果收购 AI Music 后，动态自适应音频可能会进入运动、流媒体、游戏配乐场景；Suno v6 训练数据争议继续发酵，Qobuz 开始给 AI 音乐打标签，索尼也加入联盟推动授权标准。产品侧则有 ACE Studio 支持 VSTi/MCP、腾讯 MusicBuddy 内测、Grok Imagine 测试文生音乐。",
-      "url": "https://waytoagi.feishu.cn/wiki/UgUpw5JW3iq9VtkpiijcBOFTndb?from=from_copylink",
-      "title_ja": null,
-      "summary_ja": null
+      "date": "2026-09-29",
+      "title": "DeepSeek Harness 桌面端发布：一手体验",
+      "summary": "DeepSeek Harness 桌面端正式发布，自带完整运行环境，依托插件化的内核，不用复杂配置就能完成 PPT 生成、数据分析、代码调试等办公开发任务，还支持定时任务、多智能体并行协作。新用户登录还能领取限时体验赠金，感兴趣的话快来上手体验下！",
+      "url": "https://waytoagi.feishu.cn/wiki/TVoDwH5mNiEwRvktypDcdUOnnxg?from=from_copylink",
+      "title_ja": "DeepSeek Harness デスクトップ リリース: 実際の体験",
+      "summary_ja": "DeepSeek Harness デスクトップ版が正式リリースされました。完全な実行環境が付属しています。プラグイン カーネルを利用することで、複雑な設定を行わずに、PPT の生成、データ分析、コードのデバッグなどのオフィス開発タスクを完了できます。また、スケジュールされたタスクとマルチエージェントの並行コラボレーションもサポートします。新規ユーザーにはログイン時に期間限定お試し特典もプレゼントされますので、興味のある方はぜひお試しください！"
     }
   ],
-  "count_7d": 18,
+  "count_7d": 25,
   "updates_7d": [
+    {
+      "date": "2026-09-29",
+      "title": "实测Claude Sonnet 5.5，做AI代码动画这块断档领先gpt6但3D拉了",
+      "summary": "Anthropic Sonnet 5.5正式更新，相比Opus5.5成本减半、速度提升30%。作者在代码动画、PPT制作、3D网页动效、创意写作多场景进行了实测，对比了它和Opus5.5的能力边界。Sonnet执行稳定高效，擅长落地定型任务；Opus则更擅长创意发散与细节增益。",
+      "url": "https://waytoagi.feishu.cn/wiki/PgWywvBBmiViP9k4AuhcR1Fnnfd?from=from_copylink",
+      "title_ja": "実際のテスト: Claude Sonnet 5.5、AI コード アニメーションは gpt6 を上回っていますが、3D では遅れをとっています",
+      "summary_ja": "Anthropic Sonnet 5.5 が正式にアップデートされました。 Opus5.5と比較するとコストは半分、速度は30%向上しています。著者はコードアニメーション、PPT制作、3D Webページアニメーション、クリエイティブライティングシナリオで実際にテストを行い、Opus5.5とその機能を比較しました。 Sonnet は実行が安定していて効率的で、タスクの実行と完了が得意です。 Opus はクリエイティブな発散とディテールの向上において優れています。"
+    },
+    {
+      "date": "2026-09-29",
+      "title": "从基础检索到生产级 AI 系统的 10 个 RAG 项目",
+      "summary": "从基础检索到生产级 AI 系统的 10 个 RAG 项目",
+      "url": "https://waytoagi.feishu.cn/wiki/Az1kwbx64iS5clkHSmac53Dlnhb?from=from_copylink",
+      "title_ja": "基本的な検索から実稼働グレードの AI システムまでの 10 の RAG プロジェクト",
+      "summary_ja": "基本的な検索から実稼働グレードの AI システムまでの 10 の RAG プロジェクト"
+    },
+    {
+      "date": "2026-09-29",
+      "title": "云舒：Opus 5.5 能做出什么：我收藏的 50 个案例",
+      "summary": "云舒这篇收集了大量Opus 5.5的实测案例：一句话生成动效片、旅行照变丙烯画、论文变 MV、口播自动剪成成片、宜家手册变 3D 教学、草图变投石机、网页 Splatoon、Godot 开放世界雏形，甚至还能跑几小时做出多个 App 交互版本。快来一起感受 Opus 5.5 真正打开的想象空间！",
+      "url": "https://waytoagi.feishu.cn/wiki/S9TnwLwxaiqK6fkXh9PcYrlsnfX?from=from_copylink",
+      "title_ja": "ユンシュウ: Opus 5.5 でできること: 私のコレクションから 50 件",
+      "summary_ja": "Yun Shu 氏の記事では、Opus 5.5 の実際のテスト ケースを多数収集しました。一文でアニメーション フィルムを生成する、旅行の写真をアクリル画に変換する、エッセイを MV に変換する、口頭放送を自動的にカットしてフィルムに変換する、IKEA のマニュアルを 3D チュートリアルに変換する、スケッチをトレビュシェットに変換する、Web Splatoon、Godot のオープンワールド プロトタイプを作成する、さらにはアプリの複数のインタラクティブ バージョンを作成するために数時間実行するなどです。 Opus 5.5 が真に開く想像力の空間をぜひ体験してください。"
+    },
+    {
+      "date": "2026-09-29",
+      "title": "Opus 5.5 动效视频指南：如何从 0 开始手搓视频？（附提示词）",
+      "summary": "Opus 5.5 动效视频指南：如何从 0 开始手搓视频？（附提示词）",
+      "url": "https://waytoagi.feishu.cn/wiki/IHB5wFejoiLl9TkMPLWcPMMgnFg?from=from_copylink",
+      "title_ja": "Opus 5.5 モーション ビデオ ガイド: 手回しビデオを最初から始めるには? （即答で）",
+      "summary_ja": "Opus 5.5 モーション ビデオ ガイド: 手回しビデオを最初から始めるには? （即答で）"
+    },
+    {
+      "date": "2026-09-29",
+      "title": "OpenAI 刚刚公开了 GPT-6 Astra 的提示词写法",
+      "summary": "OpenAI 公开了 GPT-6 Astra 的提示词写法：怎么让它别过早停下来、主动把任务做完；怎么处理用户指令和 Skill 之间的优先级；怎么减少套话和过度 Markdown；什么时候该用子代理并行；以及如何让测试范围和代码改动匹配。或许对你有所帮助！",
+      "url": "https://waytoagi.feishu.cn/wiki/YLjRwmvnViaNFQkI0zgcjNynnkg?from=from_copylink",
+      "title_ja": "OpenAIはGPT-6 Astraのプロンプトワード書き込みメソッドをリリースしました",
+      "summary_ja": "OpenAI は、GPT-6 Astra のプロンプトワード書き込み方法を公開しました。それは、途中で停止せず、タスクを積極的に完了させる方法です。ユーザーのコマンドとスキルの間の優先順位をどのように処理するか。決まり文句や過剰なマークダウンを減らす方法。サブエージェント並列処理をいつ使用するか。テスト範囲とコード変更を一致させる方法。たぶんそれはあなたを助けるでしょう！"
+    },
+    {
+      "date": "2026-09-29",
+      "title": "Flash 阵营再添强手！OpenCode 夸赞的神秘兔子，实力如何？",
+      "summary": "Space Bunny Alpha匿名上线 OpenRouter 后，几天内冲上用量榜，OpenCode也公开夸它连续登顶，关键是目前免费、支持多模态，还有 1M 上下文。梦飞用 8 个任务把它和 DeepSeek V4.1 Flash、GLM 5.3 Flash 拉到一起进行了横评：小游戏、记账 App、节气长卷、毛笔书法、视频理解、产业链调研、DCF 估值都测了一遍。看看效果如何！",
+      "url": "https://waytoagi.feishu.cn/wiki/K0VvwylDwiUAH7kF8Goc5uXFn9f?from=from_copylink",
+      "title_ja": "Flash陣営にまた強い選手が登場！ OpenCodeが絶賛した謎のウサギの強さとは？",
+      "summary_ja": "Space Bunny Alpha が OpenRouter 上で匿名で公開されると、数日以内に使用状況リストのトップに躍り出ました。 OpenCode も、継続的にトップに到達していることを公に称賛しました。重要なのは、現在無料で、マルチモダリティをサポートし、1M のコンテキストを備えていることです。 Mengfei は 8 つのタスクを使用して、DeepSeek V4.1 Flash と GLM 5.3 Flash を使用して水平評価を行いました。ミニゲーム、会計アプリ、二十四節気の巻物、書道、ビデオ理解、業界チェーン調査、DCF 評価がすべてテストされました。どのように機能するか見てみましょう!"
+    },
+    {
+      "date": "2026-09-29",
+      "title": "DeepSeek Harness 桌面端发布：一手体验",
+      "summary": "DeepSeek Harness 桌面端正式发布，自带完整运行环境，依托插件化的内核，不用复杂配置就能完成 PPT 生成、数据分析、代码调试等办公开发任务，还支持定时任务、多智能体并行协作。新用户登录还能领取限时体验赠金，感兴趣的话快来上手体验下！",
+      "url": "https://waytoagi.feishu.cn/wiki/TVoDwH5mNiEwRvktypDcdUOnnxg?from=from_copylink",
+      "title_ja": "DeepSeek Harness デスクトップ リリース: 実際の体験",
+      "summary_ja": "DeepSeek Harness デスクトップ版が正式リリースされました。完全な実行環境が付属しています。プラグイン カーネルを利用することで、複雑な設定を行わずに、PPT の生成、データ分析、コードのデバッグなどのオフィス開発タスクを完了できます。また、スケジュールされたタスクとマルチエージェントの並行コラボレーションもサポートします。新規ユーザーにはログイン時に期間限定お試し特典もプレゼントされますので、興味のある方はぜひお試しください！"
+    },
     {
       "date": "2026-09-28",
       "title": "高分《行镖》幕后：一个镜头做了一天，AI 剧集到底难在哪？",
       "summary": "CY这篇文章把高分 AI 剧集《行镖》的制作过程拆得很细：资产库和制作台本怎么统一角色、场景、道具；分镜如何把剧本文字转成观众看得懂的视觉流；动作提示词怎样写出蓄力、速度、特效滞后和镜头光学；色彩、光线、声音又如何一起服务同一场戏。如果你在做 AI 视频、短剧，不容错过！",
       "url": "https://waytoagi.feishu.cn/wiki/MEhowly9IibPJXkC64kcSuUlnXf?from=from_copylink",
-      "title_ja": null,
-      "summary_ja": null
+      "title_ja": "高得点「シューティング」の舞台裏：1ショットに1日かかった、AIドラマの難しさは？",
+      "summary_ja": "CY によるこの記事では、高得点を獲得した AI ドラマ「The Escort」の制作プロセスを詳細に分析しています。アセット ライブラリと制作スクリプトがキャラクター、シーン、小道具をどのように統合するかについて説明しています。ストーリーボードがスクリプトのテキストを視聴者が理解できる視覚的なフローにどのように変換するか。アクションプロンプトに電力貯蔵、速度、特殊効果の遅れ、レンズの光学系がどのように含まれるか。そして、色、光、音がどのように連携して同じシーンを演出するのか。 AI ビデオや短編劇を作成している場合は、ぜひお見逃しなく。"
     },
     {
       "date": "2026-09-28",
       "title": "知乎AI蓝宝书",
       "summary": "「知乎 AI 蓝宝书」把知乎站内高质量专业内容重新整理成知识地图，让你可以先用几小时就搭起一个领域骨架，知道下一步该读什么、怎么继续深入。目前已经整理了 AI Infra、大模型强化学习、具身智能三册，共收录 83 篇内容。如果你想快速入门 AI 技术方向，又不想被碎片信息带偏，可以收藏下！",
       "url": "https://waytoagi.feishu.cn/wiki/LQcdwjwBGio4AokZcrXcv7oBnzc?from=from_copylink",
-      "title_ja": null,
-      "summary_ja": null
+      "title_ja": "Zhihu AI サファイアブック",
+      "summary_ja": "「Zhihu AI Sapphire Book」は、Zhihu Web サイト上の高品質の専門コンテンツをナレッジ マップに再編成しており、数時間でドメインのスケルトンを構築し、次に何を読むべきか、さらに深く掘り下げる方法を知ることができます。現在、『AI Infra』、『Large Model Reinforcement Learning』、および『Embodied Intelligence』の 3 冊が編集されており、合計 83 の記事が含まれています。 AI テクノロジーをすぐに使い始めたい、断片的な情報に惑わされたくない場合は、保存しておいてください。"
     },
     {
       "date": "2026-09-28",
       "title": "新 Manus，新伙伴，新旅程",
       "summary": "Manus 于今日面向海外用户发布了 2.0 版本，并推出面向个人生活场景的智能助理 Cue。一起来看看！",
       "url": "https://waytoagi.feishu.cn/wiki/EwrYwumqTiCTbRkmK6Pco7aAnSQ?from=from_copylink",
-      "title_ja": null,
-      "summary_ja": null
+      "title_ja": "新しいマナス、新しいパートナー、新しい旅",
+      "summary_ja": "マナスは本日、海外ユーザー向けにバージョン 2.0 をリリースし、個人の生活シナリオのためのインテリジェントなアシスタントである Cue を開始しました。見てみましょう！"
     },
     {
       "date": "2026-09-28",
       "title": "Kling 4.0 全面升级！全能班底，你和可灵。",
       "summary": "全新升级的 Kling 4.0 将于 10 月正式与大家见面。其中，Kling 4.0 Flash 于9月28日率先开放小范围体验。Kling 4.0在画面真实感、创意可控性、叙事完整度方面都实现了大幅提升，一起来看看！",
       "url": "https://waytoagi.feishu.cn/wiki/XZ7YwlBgMiKUOVkeG1FcSZ2onNe?from=from_copylink",
-      "title_ja": null,
-      "summary_ja": null
+      "title_ja": "Kling 4.0 が完全にアップグレードされました!全能のチーム、あなたとKe Ling。",
+      "summary_ja": "The newly upgraded Kling 4.0 will be officially released to everyone in October.その中で、Kling 4.0 Flash は、9 月 28 日に小規模体験向けに初めてリリースされました。Kling 4.0 は、画像のリアリズム、創造的な制御性、物語の完全性の点で大幅な改善を達成しました。見てみましょう！"
     },
     {
       "date": "2026-09-28",
       "title": "Google 产品负责人：优秀产品背后的可复制模式丨Lenny's Podcast",
       "summary": "这篇文章把 Google AI 搜索负责人 Robby Stein 的产品方法论讲得很清楚：怎么通过真实场景追问需求，怎么用反馈验证判断，怎么在功能迭代里补齐用户决策所需的信息，甚至让 AI 自动跑产品、截图检查体验。适合产品经理、AI 产品创业者读，能帮你少一点拍脑袋，多一点贴近用户的判断。",
       "url": "https://waytoagi.feishu.cn/wiki/J789wwR37imMq8kOSEvcLupznOh?from=from_copylink",
-      "title_ja": null,
-      "summary_ja": null
+      "title_ja": "Google プロダクト リーダー: 優れた製品の背後にある複製可能なモデル丨Lenny のポッドキャスト",
+      "summary_ja": "この記事では、Google AI 検索の責任者である Robby Stein の製品方法論を明確に説明しています。つまり、実際のシナリオを通じて要件を問い合わせる方法、フィードバックを使用して判断を検証する方法、機能の反復でユーザーの意思決定に必要な情報を補足する方法、さらには AI に製品を自動的に実行させ、スクリーンショットを撮ってエクスペリエンスを確認させる方法です。 It is suitable for product managers and AI product entrepreneurs to read. It can help you pat your head less and be closer to the user's judgment."
     },
     {
       "date": "2026-09-28",
       "title": "Codex + Hypit复刻爆款视频【附新手教程】",
       "summary": "作者用 Codex + Hypit 完整跑了一遍爆款视频的复刻流程：先分析参考片的开头钩子、字幕节奏、真人出镜和操作演示关系，再换成自己的主题、口播和素材；中途还通过 Hypit Studio 预览时间线、调整画面主次，最后把成片、工程、字幕、视觉配置、质检记录都沉淀成模板。你也可以上手试试！",
       "url": "https://waytoagi.feishu.cn/wiki/FXDrwgdWoiOKRtkCs0CcUBlmnPg?from=from_copylink",
-      "title_ja": null,
-      "summary_ja": null
+      "title_ja": "Codex + Hypitレプリカ人気動画【初心者向けチュートリアル付き】",
+      "summary_ja": "著者は、Codex + Hypit を使用して、ヒットビデオの再現プロセスを完全に実行しました。まず、参考映画のオープニングフック、字幕のリズム、現実の外観と操作デモの関係を分析し、次にそれを独自のテーマ、口頭放送、および素材に置き換えました。途中で、Hypit Studio でタイムラインをプレビューし、画面の優先順位を調整し、最終的に完成した映画、エンジニアリング、字幕、ビジュアル構成、品質検査記録をテンプレートにまとめました。試してみることもできます！"
     },
     {
       "date": "2026-09-28",
       "title": "AI音乐周刊 W.A 047",
       "summary": "AI 音乐这一周很热闹：一边是工具越来越像真正的音乐工作台，一边是版权、标注、授权规则也在加速补课。苹果收购 AI Music 后，动态自适应音频可能会进入运动、流媒体、游戏配乐场景；Suno v6 训练数据争议继续发酵，Qobuz 开始给 AI 音乐打标签，索尼也加入联盟推动授权标准。产品侧则有 ACE Studio 支持 VSTi/MCP、腾讯 MusicBuddy 内测、Grok Imagine 测试文生音乐。",
       "url": "https://waytoagi.feishu.cn/wiki/UgUpw5JW3iq9VtkpiijcBOFTndb?from=from_copylink",
-      "title_ja": null,
-      "summary_ja": null
+      "title_ja": "AIミュージックウィークリー W.A 047",
+      "summary_ja": "今週は AI 音楽が非常に活発でした。ツールがますます本物の音楽ワークベンチに近づいている一方で、著作権、注釈、ライセンス規則も加速しています。 Apple が AI Music を買収した後、ダイナミック アダプティブ オーディオがスポーツ、ストリーミング、ゲームのサウンドトラックのシナリオに導入される可能性があります。 Suno v6 トレーニング データの論争はさらに発酵し続け、Qobuz は AI 音楽にラベルを付け始め、ソニーもライセンス標準を推進するための同盟に加わりました。製品面では、VSTi/MCP をサポートする ACE Studio、Tencent MusicBuddy の内部テスト、および Vincent Music をテストする Grok Imagine があります。"
     },
     {
       "date": "2026-09-27",
