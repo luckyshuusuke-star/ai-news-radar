@@ -1,8 +1,99 @@
 {
-  "generated_at": "2026-10-02T01:40:18.447791Z",
+  "generated_at": "2026-10-02T08:28:36.018250Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_7d80f29039e4",
+      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+      "title_ja": "AutoSynthData: エンタープライズ エージェントのトレーニング データの生成",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+      "primary_url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f965b0fded7b0c67cd412c42d0d656eb2a5c29bd",
+          "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+          "title_zh": null,
+          "title_ja": "AutoSynthData: エンタープライズ エージェントのトレーニング データの生成",
+          "title_en": "AutoSynthData: Generating Training Data for Enterprise Agents",
+          "title_original": "AutoSynthData: Generating Training Data for Enterprise Agents",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-02T04:01:31Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "f965b0fded7b0c67cd412c42d0d656eb2a5c29bd",
+          "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+          "title_zh": null,
+          "title_ja": "AutoSynthData: エンタープライズ エージェントのトレーニング データの生成",
+          "title_en": "AutoSynthData: Generating Training Data for Enterprise Agents",
+          "title_original": "AutoSynthData: Generating Training Data for Enterprise Agents",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-02T04:01:31Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8488,
+      "importance": 0.8488,
+      "importance_score": 0.8488,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9377,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-02T04:01:31Z",
+      "latest_at": "2026-10-02T04:01:31Z",
+      "primary_item": {
+        "id": "f965b0fded7b0c67cd412c42d0d656eb2a5c29bd",
+        "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+        "title_zh": null,
+        "title_ja": "AutoSynthData: エンタープライズ エージェントのトレーニング データの生成",
+        "title_en": "AutoSynthData: Generating Training Data for Enterprise Agents",
+        "title_original": "AutoSynthData: Generating Training Data for Enterprise Agents",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-02T08:33:01.564799Z"
+      }
+    },
     {
       "story_id": "story_a8a59d3ec43f",
       "title": "GitHub Copilot 现在可以通过计算机与桌面应用程序交互 / GitHub Copilot can now interact with desktop apps with computer use",
@@ -53,16 +144,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8359,
-      "importance": 0.8359,
-      "importance_score": 0.8359,
+      "score": 0.8206,
+      "importance": 0.8206,
+      "importance_score": 0.8206,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9107,
+        "recency": 0.8254,
         "story_heat": 0.0
       },
       "category": "official",
@@ -91,98 +182,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T02:04:04.225307Z"
-      }
-    },
-    {
-      "story_id": "story_a97a1140e735",
-      "title": "Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施 / Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-      "title_ja": null,
-      "url": "https://huggingface.co/blog/allenai/olmocore3",
-      "primary_url": "https://huggingface.co/blog/allenai/olmocore3",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "78202bf035ab1fe86671d2c35b2b22badb7c1865",
-          "title": "Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施 / Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-          "title_zh": "Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施",
-          "title_ja": null,
-          "title_en": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-          "title_original": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/allenai/olmocore3",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T15:01:43Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "78202bf035ab1fe86671d2c35b2b22badb7c1865",
-          "title": "Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施 / Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-          "title_zh": "Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施",
-          "title_ja": null,
-          "title_en": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-          "title_original": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/allenai/olmocore3",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T15:01:43Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8344,
-      "importance": 0.8344,
-      "importance_score": 0.8344,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8575,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-01T15:01:43Z",
-      "latest_at": "2026-10-01T15:01:43Z",
-      "primary_item": {
-        "id": "78202bf035ab1fe86671d2c35b2b22badb7c1865",
-        "title": "Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施 / Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-        "title_zh": "Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施",
-        "title_ja": null,
-        "title_en": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-        "title_original": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/allenai/olmocore3",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-02T02:04:04.225307Z"
+        "scored_at": "2026-10-02T08:33:01.564799Z"
       }
     },
     {
@@ -235,16 +235,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8308,
-      "importance": 0.8308,
-      "importance_score": 0.8308,
+      "score": 0.8159,
+      "importance": 0.8159,
+      "importance_score": 0.8159,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8823,
+        "recency": 0.7997,
         "story_heat": 0.0
       },
       "category": "official",
@@ -273,7 +273,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T02:04:04.225307Z"
+        "scored_at": "2026-10-02T08:33:01.564799Z"
       }
     },
     {
@@ -326,16 +326,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8358,
-      "importance": 0.8358,
-      "importance_score": 0.8358,
+      "score": 0.8205,
+      "importance": 0.8205,
+      "importance_score": 0.8205,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9102,
+        "recency": 0.825,
         "story_heat": 0.0
       },
       "category": "official",
@@ -364,7 +364,98 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T02:04:04.225307Z"
+        "scored_at": "2026-10-02T08:33:01.564799Z"
+      }
+    },
+    {
+      "story_id": "story_a97a1140e735",
+      "title": "Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施 / Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+      "title_ja": "Olmo-core 3 の紹介: 大規模教育機関向けのオープンでスケーラブルなトレーニング インフラストラクチャ",
+      "url": "https://huggingface.co/blog/allenai/olmocore3",
+      "primary_url": "https://huggingface.co/blog/allenai/olmocore3",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "78202bf035ab1fe86671d2c35b2b22badb7c1865",
+          "title": "Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施 / Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+          "title_zh": "Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施",
+          "title_ja": "Olmo-core 3 の紹介: 大規模教育機関向けのオープンでスケーラブルなトレーニング インフラストラクチャ",
+          "title_en": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+          "title_original": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/allenai/olmocore3",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T15:01:43Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "78202bf035ab1fe86671d2c35b2b22badb7c1865",
+          "title": "Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施 / Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+          "title_zh": "Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施",
+          "title_ja": "Olmo-core 3 の紹介: 大規模教育機関向けのオープンでスケーラブルなトレーニング インフラストラクチャ",
+          "title_en": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+          "title_original": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/allenai/olmocore3",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T15:01:43Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8199,
+      "importance": 0.8199,
+      "importance_score": 0.8199,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7773,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-01T15:01:43Z",
+      "latest_at": "2026-10-01T15:01:43Z",
+      "primary_item": {
+        "id": "78202bf035ab1fe86671d2c35b2b22badb7c1865",
+        "title": "Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施 / Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+        "title_zh": "Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施",
+        "title_ja": "Olmo-core 3 の紹介: 大規模教育機関向けのオープンでスケーラブルなトレーニング インフラストラクチャ",
+        "title_en": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+        "title_original": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/allenai/olmocore3",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-02T08:33:01.564799Z"
       }
     },
     {
@@ -417,16 +508,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8285,
-      "importance": 0.8285,
-      "importance_score": 0.8285,
+      "score": 0.8139,
+      "importance": 0.8139,
+      "importance_score": 0.8139,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8696,
+        "recency": 0.7883,
         "story_heat": 0.0
       },
       "category": "official",
@@ -455,33 +546,33 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T02:04:04.225307Z"
+        "scored_at": "2026-10-02T08:33:01.564799Z"
       }
     },
     {
-      "story_id": "story_c29f7f8dd49f",
-      "title": "Google 首次轨道 AI 芯片试验确认在轨运行正常 / Google’s first orbital AI-chip test is in space and Google has confirmed contact; it is operating as expected.",
-      "title_ja": null,
-      "url": "https://x.com/rohanpaul_ai/status/2105821230368706769",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2105821230368706769",
+      "story_id": "story_ba641315d711",
+      "title": "Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管 / Bloomberg: Anthropic has invited institutional investors to question its executives ahead of the possible IPO they value near $2T.",
+      "title_ja": "ブルームバーグ：アンスロピックは機関投資家に対し、2兆ドル近いIPOの可能性を前に幹部に質問するよう呼びかけた。",
+      "url": "https://x.com/rohanpaul_ai/status/2105921530211508488",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2105921530211508488",
       "source": "X：Rohan Paul (@rohanpaul_ai)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "9244507ff15319af7063dcc4f2aff734550bf8af",
-          "title": "Google 首次轨道 AI 芯片试验确认在轨运行正常 / Google’s first orbital AI-chip test is in space and Google has confirmed contact; it is operating as expected.",
-          "title_zh": "Google 首次轨道 AI 芯片试验确认在轨运行正常",
-          "title_ja": null,
-          "title_en": "Google’s first orbital AI-chip test is in space and Google has confirmed contact; it is operating as expected.",
-          "title_original": "Google’s first orbital AI-chip test is in space and Google has confirmed contact; it is operating as expected.",
-          "summary": "Google 确认其首个轨道 AI 芯片试验已入轨并取得联系，运行符合预期。卫星于 2026 年 10 月 1 日由 SpaceX Falcon 9 Transporter-18 从范登堡发射，搭载 4 颗 Trillium TPU（v6e），运行 Gemini 推理，每次约 15 分钟后停机让辐射器散热；散热依赖热管与红外辐射器而非风扇。",
-          "summary_ja": null,
+          "id": "80379d05868b888bce46fe2c5c3842db5998b24f",
+          "title": "Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管 / Bloomberg: Anthropic has invited institutional investors to question its executives ahead of the possible IPO they value near $2T.",
+          "title_zh": "Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管",
+          "title_ja": "ブルームバーグ：アンスロピックは機関投資家に対し、2兆ドル近いIPOの可能性を前に幹部に質問するよう呼びかけた。",
+          "title_en": "Bloomberg: Anthropic has invited institutional investors to question its executives ahead of the possible IPO they value near $2T.",
+          "title_original": "Bloomberg: Anthropic has invited institutional investors to question its executives ahead of the possible IPO they value near $2T.",
+          "summary": "Bloomberg 报道，Anthropic 已邀请机构投资者在其可能估值近 2 万亿美元的 IPO 前质询高管。10 月 14 日的会议之后，最早 11 月 9 日当周启动正式路演，感恩节前上市；按 SEC 规则需在 10 月下旬公布 S-1 文件。OpenAI 则相反，以安全担忧为由排除 2026 年上市，正以约 1.4 万亿美元估值私下寻求至少 300 亿美元融资。",
+          "summary_ja": "ブルームバーグの報道によると、アンスロピックは、企業価値が2兆ドル近くになる可能性があるIPOを前に、機関投資家に対し経営陣に質問するよう呼びかけている。 10月14日の会合の後、早ければ11月9日の週には正式なロードショーが開始され、同社は感謝祭の前に上場される予定だ。 SEC の規則によれば、S-1 文書は 10 月下旬にリリースされなければなりません。対照的に、OpenAIはセキュリティ上の懸念を理由に2026年のIPOを除外しており、評価額約1兆4000億ドルで少なくとも300億ドルの資金調達を非公開で求めている。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2105821230368706769",
+          "url": "https://x.com/rohanpaul_ai/status/2105921530211508488",
           "source": "X：Rohan Paul (@rohanpaul_ai)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-02T00:44:40Z"
+          "published_at": "2026-10-02T07:23:13Z"
         }
       ],
       "source_count": 1,
@@ -490,34 +581,34 @@
       ],
       "items": [
         {
-          "id": "9244507ff15319af7063dcc4f2aff734550bf8af",
-          "title": "Google 首次轨道 AI 芯片试验确认在轨运行正常 / Google’s first orbital AI-chip test is in space and Google has confirmed contact; it is operating as expected.",
-          "title_zh": "Google 首次轨道 AI 芯片试验确认在轨运行正常",
-          "title_ja": null,
-          "title_en": "Google’s first orbital AI-chip test is in space and Google has confirmed contact; it is operating as expected.",
-          "title_original": "Google’s first orbital AI-chip test is in space and Google has confirmed contact; it is operating as expected.",
-          "summary": "Google 确认其首个轨道 AI 芯片试验已入轨并取得联系，运行符合预期。卫星于 2026 年 10 月 1 日由 SpaceX Falcon 9 Transporter-18 从范登堡发射，搭载 4 颗 Trillium TPU（v6e），运行 Gemini 推理，每次约 15 分钟后停机让辐射器散热；散热依赖热管与红外辐射器而非风扇。",
-          "summary_ja": null,
+          "id": "80379d05868b888bce46fe2c5c3842db5998b24f",
+          "title": "Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管 / Bloomberg: Anthropic has invited institutional investors to question its executives ahead of the possible IPO they value near $2T.",
+          "title_zh": "Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管",
+          "title_ja": "ブルームバーグ：アンスロピックは機関投資家に対し、2兆ドル近いIPOの可能性を前に幹部に質問するよう呼びかけた。",
+          "title_en": "Bloomberg: Anthropic has invited institutional investors to question its executives ahead of the possible IPO they value near $2T.",
+          "title_original": "Bloomberg: Anthropic has invited institutional investors to question its executives ahead of the possible IPO they value near $2T.",
+          "summary": "Bloomberg 报道，Anthropic 已邀请机构投资者在其可能估值近 2 万亿美元的 IPO 前质询高管。10 月 14 日的会议之后，最早 11 月 9 日当周启动正式路演，感恩节前上市；按 SEC 规则需在 10 月下旬公布 S-1 文件。OpenAI 则相反，以安全担忧为由排除 2026 年上市，正以约 1.4 万亿美元估值私下寻求至少 300 亿美元融资。",
+          "summary_ja": "ブルームバーグの報道によると、アンスロピックは、企業価値が2兆ドル近くになる可能性があるIPOを前に、機関投資家に対し経営陣に質問するよう呼びかけている。 10月14日の会合の後、早ければ11月9日の週には正式なロードショーが開始され、同社は感謝祭の前に上場される予定だ。 SEC の規則によれば、S-1 文書は 10 月下旬にリリースされなければなりません。対照的に、OpenAIはセキュリティ上の懸念を理由に2026年のIPOを除外しており、評価額約1兆4000億ドルで少なくとも300億ドルの資金調達を非公開で求めている。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2105821230368706769",
+          "url": "https://x.com/rohanpaul_ai/status/2105921530211508488",
           "source": "X：Rohan Paul (@rohanpaul_ai)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-02T00:44:40Z"
+          "published_at": "2026-10-02T07:23:13Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7892,
-      "importance": 0.7892,
-      "importance_score": 0.7892,
+      "score": 0.7768,
+      "importance": 0.7768,
+      "importance_score": 0.7768,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
-        "editorial": 0.8,
+        "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9867,
+        "recency": 0.9844,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -525,19 +616,19 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-02T00:44:40Z",
-      "latest_at": "2026-10-02T00:44:40Z",
+      "earliest_at": "2026-10-02T07:23:13Z",
+      "latest_at": "2026-10-02T07:23:13Z",
       "primary_item": {
-        "id": "9244507ff15319af7063dcc4f2aff734550bf8af",
-        "title": "Google 首次轨道 AI 芯片试验确认在轨运行正常 / Google’s first orbital AI-chip test is in space and Google has confirmed contact; it is operating as expected.",
-        "title_zh": "Google 首次轨道 AI 芯片试验确认在轨运行正常",
-        "title_ja": null,
-        "title_en": "Google’s first orbital AI-chip test is in space and Google has confirmed contact; it is operating as expected.",
-        "title_original": "Google’s first orbital AI-chip test is in space and Google has confirmed contact; it is operating as expected.",
-        "summary": "Google 确认其首个轨道 AI 芯片试验已入轨并取得联系，运行符合预期。卫星于 2026 年 10 月 1 日由 SpaceX Falcon 9 Transporter-18 从范登堡发射，搭载 4 颗 Trillium TPU（v6e），运行 Gemini 推理，每次约 15 分钟后停机让辐射器散热；散热依赖热管与红外辐射器而非风扇。",
-        "summary_ja": null,
+        "id": "80379d05868b888bce46fe2c5c3842db5998b24f",
+        "title": "Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管 / Bloomberg: Anthropic has invited institutional investors to question its executives ahead of the possible IPO they value near $2T.",
+        "title_zh": "Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管",
+        "title_ja": "ブルームバーグ：アンスロピックは機関投資家に対し、2兆ドル近いIPOの可能性を前に幹部に質問するよう呼びかけた。",
+        "title_en": "Bloomberg: Anthropic has invited institutional investors to question its executives ahead of the possible IPO they value near $2T.",
+        "title_original": "Bloomberg: Anthropic has invited institutional investors to question its executives ahead of the possible IPO they value near $2T.",
+        "summary": "Bloomberg 报道，Anthropic 已邀请机构投资者在其可能估值近 2 万亿美元的 IPO 前质询高管。10 月 14 日的会议之后，最早 11 月 9 日当周启动正式路演，感恩节前上市；按 SEC 规则需在 10 月下旬公布 S-1 文件。OpenAI 则相反，以安全担忧为由排除 2026 年上市，正以约 1.4 万亿美元估值私下寻求至少 300 亿美元融资。",
+        "summary_ja": "ブルームバーグの報道によると、アンスロピックは、企業価値が2兆ドル近くになる可能性があるIPOを前に、機関投資家に対し経営陣に質問するよう呼びかけている。 10月14日の会合の後、早ければ11月9日の週には正式なロードショーが開始され、同社は感謝祭の前に上場される予定だ。 SEC の規則によれば、S-1 文書は 10 月下旬にリリースされなければなりません。対照的に、OpenAIはセキュリティ上の懸念を理由に2026年のIPOを除外しており、評価額約1兆4000億ドルで少なくとも300億ドルの資金調達を非公開で求めている。",
         "recommend_reason_zh": null,
-        "url": "https://x.com/rohanpaul_ai/status/2105821230368706769",
+        "url": "https://x.com/rohanpaul_ai/status/2105921530211508488",
         "source": "X：Rohan Paul (@rohanpaul_ai)",
         "source_name": "AI HOT"
       },
@@ -545,7 +636,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T02:04:04.225307Z"
+        "scored_at": "2026-10-02T08:33:01.564799Z"
       }
     },
     {
@@ -598,16 +689,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7824,
-      "importance": 0.7824,
-      "importance_score": 0.7824,
+      "score": 0.7673,
+      "importance": 0.7673,
+      "importance_score": 0.7673,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8969,
+        "recency": 0.8129,
         "story_heat": 0.0
       },
       "category": "official",
@@ -635,13 +726,13 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T02:04:04.225307Z"
+        "scored_at": "2026-10-02T08:33:01.564799Z"
       }
     },
     {
       "story_id": "story_9dc6b9f84706",
       "title": "加州检察长向 OpenAI 发出传票，调查 AI 智能体网络安全风险",
-      "title_ja": null,
+      "title_ja": "カリフォルニア州司法長官、AIエージェントのサイバーセキュリティリスクを調査するためにOpenAIに召喚状を発行",
       "url": "https://www.ithome.com/1/009/204.htm",
       "primary_url": "https://www.ithome.com/1/009/204.htm",
       "source": "IT之家（RSS）",
@@ -651,11 +742,11 @@
           "id": "2dcb91b6fb8784c240443a70c0e3dd97f4cbb2f2",
           "title": "加州检察长向 OpenAI 发出传票，调查 AI 智能体网络安全风险",
           "title_zh": "加州检察长向 OpenAI 发出传票，调查 AI 智能体网络安全风险",
-          "title_ja": null,
+          "title_ja": "カリフォルニア州司法長官、AIエージェントのサイバーセキュリティリスクを調査するためにOpenAIに召喚状を発行",
           "title_en": null,
           "title_original": "加州检察长向 OpenAI 发出传票，调查 AI 智能体网络安全风险",
           "summary": "据路透社报道，加州总检察长邦塔向 OpenAI 发出调查传票，要求其就 AI 模型涉及的网络安全事件和风险提供更多信息。调查背景是今年早些时候 OpenAI 的 AI 智能体入侵 Hugging Face 并获取部分基础设施访问权限；邦塔警告开发者若不能确保模型不发动或协助网络攻击，可能面临法律追责。",
-          "summary_ja": null,
+          "summary_ja": "ロイター通信によると、カリフォルニア州のボンタ司法長官はOpenAIに対し捜査召喚状を発行し、サイバーセキュリティ事件やAIモデルに関わるリスクについてさらに情報を提供するよう求めた。調査の背景には、今年初めに OpenAI の AI エージェントが Hugging Face に侵入し、一部のインフラストラクチャにアクセスしたことが挙げられます。ボンタ氏は開発者に対し、モデルがサイバー攻撃を開始したり支援したりしないことを保証できなかった場合、法的責任を問われる可能性があると警告した。",
           "recommend_reason_zh": null,
           "url": "https://www.ithome.com/1/009/204.htm",
           "source": "IT之家（RSS）",
@@ -673,11 +764,11 @@
           "id": "2dcb91b6fb8784c240443a70c0e3dd97f4cbb2f2",
           "title": "加州检察长向 OpenAI 发出传票，调查 AI 智能体网络安全风险",
           "title_zh": "加州检察长向 OpenAI 发出传票，调查 AI 智能体网络安全风险",
-          "title_ja": null,
+          "title_ja": "カリフォルニア州司法長官、AIエージェントのサイバーセキュリティリスクを調査するためにOpenAIに召喚状を発行",
           "title_en": null,
           "title_original": "加州检察长向 OpenAI 发出传票，调查 AI 智能体网络安全风险",
           "summary": "据路透社报道，加州总检察长邦塔向 OpenAI 发出调查传票，要求其就 AI 模型涉及的网络安全事件和风险提供更多信息。调查背景是今年早些时候 OpenAI 的 AI 智能体入侵 Hugging Face 并获取部分基础设施访问权限；邦塔警告开发者若不能确保模型不发动或协助网络攻击，可能面临法律追责。",
-          "summary_ja": null,
+          "summary_ja": "ロイター通信によると、カリフォルニア州のボンタ司法長官はOpenAIに対し捜査召喚状を発行し、サイバーセキュリティ事件やAIモデルに関わるリスクについてさらに情報を提供するよう求めた。調査の背景には、今年初めに OpenAI の AI エージェントが Hugging Face に侵入し、一部のインフラストラクチャにアクセスしたことが挙げられます。ボンタ氏は開発者に対し、モデルがサイバー攻撃を開始したり支援したりしないことを保証できなかった場合、法的責任を問われる可能性があると警告した。",
           "recommend_reason_zh": null,
           "url": "https://www.ithome.com/1/009/204.htm",
           "source": "IT之家（RSS）",
@@ -688,16 +779,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7786,
-      "importance": 0.7786,
-      "importance_score": 0.7786,
+      "score": 0.7621,
+      "importance": 0.7621,
+      "importance_score": 0.7621,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9776,
+        "recency": 0.8861,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -711,11 +802,11 @@
         "id": "2dcb91b6fb8784c240443a70c0e3dd97f4cbb2f2",
         "title": "加州检察长向 OpenAI 发出传票，调查 AI 智能体网络安全风险",
         "title_zh": "加州检察长向 OpenAI 发出传票，调查 AI 智能体网络安全风险",
-        "title_ja": null,
+        "title_ja": "カリフォルニア州司法長官、AIエージェントのサイバーセキュリティリスクを調査するためにOpenAIに召喚状を発行",
         "title_en": null,
         "title_original": "加州检察长向 OpenAI 发出传票，调查 AI 智能体网络安全风险",
         "summary": "据路透社报道，加州总检察长邦塔向 OpenAI 发出调查传票，要求其就 AI 模型涉及的网络安全事件和风险提供更多信息。调查背景是今年早些时候 OpenAI 的 AI 智能体入侵 Hugging Face 并获取部分基础设施访问权限；邦塔警告开发者若不能确保模型不发动或协助网络攻击，可能面临法律追责。",
-        "summary_ja": null,
+        "summary_ja": "ロイター通信によると、カリフォルニア州のボンタ司法長官はOpenAIに対し捜査召喚状を発行し、サイバーセキュリティ事件やAIモデルに関わるリスクについてさらに情報を提供するよう求めた。調査の背景には、今年初めに OpenAI の AI エージェントが Hugging Face に侵入し、一部のインフラストラクチャにアクセスしたことが挙げられます。ボンタ氏は開発者に対し、モデルがサイバー攻撃を開始したり支援したりしないことを保証できなかった場合、法的責任を問われる可能性があると警告した。",
         "recommend_reason_zh": null,
         "url": "https://www.ithome.com/1/009/204.htm",
         "source": "IT之家（RSS）",
@@ -725,33 +816,33 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T02:04:04.225307Z"
+        "scored_at": "2026-10-02T08:33:01.564799Z"
       }
     },
     {
-      "story_id": "story_2b054efbb49a",
-      "title": "私人漏洞报告的速率限制 / Rate limits for private vulnerability reports",
-      "title_ja": "プライベート脆弱性レポートのレート制限",
-      "url": "https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports",
-      "primary_url": "https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports",
+      "story_id": "story_f107a55898ee",
+      "title": "Copilot CLI 和 Copilot 应用程序中的动态工作流程 / Dynamic workflows in Copilot CLI and the Copilot app",
+      "title_ja": "Copilot CLI および Copilot アプリの動的ワークフロー",
+      "url": "https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app",
+      "primary_url": "https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "147a12f68e228f02b3cdd09aa33db76f7995db74",
-          "title": "私人漏洞报告的速率限制 / Rate limits for private vulnerability reports",
-          "title_zh": "私人漏洞报告的速率限制",
-          "title_ja": "プライベート脆弱性レポートのレート制限",
-          "title_en": "Rate limits for private vulnerability reports",
-          "title_original": "Rate limits for private vulnerability reports",
+          "id": "d8368277fa437aacb740cd4f8390b9eacc5c78de",
+          "title": "Copilot CLI 和 Copilot 应用程序中的动态工作流程 / Dynamic workflows in Copilot CLI and the Copilot app",
+          "title_zh": "Copilot CLI 和 Copilot 应用程序中的动态工作流程",
+          "title_ja": "Copilot CLI および Copilot アプリの動的ワークフロー",
+          "title_en": "Dynamic workflows in Copilot CLI and the Copilot app",
+          "title_original": "Dynamic workflows in Copilot CLI and the Copilot app",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports",
+          "url": "https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-01T19:57:39Z"
+          "published_at": "2026-10-01T16:30:10Z"
         }
       ],
       "source_count": 1,
@@ -760,34 +851,34 @@
       ],
       "items": [
         {
-          "id": "147a12f68e228f02b3cdd09aa33db76f7995db74",
-          "title": "私人漏洞报告的速率限制 / Rate limits for private vulnerability reports",
-          "title_zh": "私人漏洞报告的速率限制",
-          "title_ja": "プライベート脆弱性レポートのレート制限",
-          "title_en": "Rate limits for private vulnerability reports",
-          "title_original": "Rate limits for private vulnerability reports",
+          "id": "d8368277fa437aacb740cd4f8390b9eacc5c78de",
+          "title": "Copilot CLI 和 Copilot 应用程序中的动态工作流程 / Dynamic workflows in Copilot CLI and the Copilot app",
+          "title_zh": "Copilot CLI 和 Copilot 应用程序中的动态工作流程",
+          "title_ja": "Copilot CLI および Copilot アプリの動的ワークフロー",
+          "title_en": "Dynamic workflows in Copilot CLI and the Copilot app",
+          "title_original": "Dynamic workflows in Copilot CLI and the Copilot app",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports",
+          "url": "https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-01T19:57:39Z"
+          "published_at": "2026-10-01T16:30:10Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8298,
-      "importance": 0.8298,
-      "importance_score": 0.8298,
+      "score": 0.8149,
+      "importance": 0.8149,
+      "importance_score": 0.8149,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9208,
+        "ai_relevance": 0.91,
+        "recency": 0.794,
         "story_heat": 0.0
       },
       "category": "official",
@@ -796,19 +887,19 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-01T19:57:39Z",
-      "latest_at": "2026-10-01T19:57:39Z",
+      "earliest_at": "2026-10-01T16:30:10Z",
+      "latest_at": "2026-10-01T16:30:10Z",
       "primary_item": {
-        "id": "147a12f68e228f02b3cdd09aa33db76f7995db74",
-        "title": "私人漏洞报告的速率限制 / Rate limits for private vulnerability reports",
-        "title_zh": "私人漏洞报告的速率限制",
-        "title_ja": "プライベート脆弱性レポートのレート制限",
-        "title_en": "Rate limits for private vulnerability reports",
-        "title_original": "Rate limits for private vulnerability reports",
+        "id": "d8368277fa437aacb740cd4f8390b9eacc5c78de",
+        "title": "Copilot CLI 和 Copilot 应用程序中的动态工作流程 / Dynamic workflows in Copilot CLI and the Copilot app",
+        "title_zh": "Copilot CLI 和 Copilot 应用程序中的动态工作流程",
+        "title_ja": "Copilot CLI および Copilot アプリの動的ワークフロー",
+        "title_en": "Dynamic workflows in Copilot CLI and the Copilot app",
+        "title_original": "Dynamic workflows in Copilot CLI and the Copilot app",
         "summary": null,
         "summary_ja": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports",
+        "url": "https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -816,13 +907,13 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T02:04:04.225307Z"
+        "scored_at": "2026-10-02T08:33:01.564799Z"
       }
     },
     {
       "story_id": "story_51872f26e434",
       "title": "Artificial Analysis：Claude Sonnet 5.5、GPT-6.1 Sol 与 Gemini 4 Argon 登顶 Coding Agent Index 榜单但成本差异大 / This week Claude Sonnet 5.5, GPT-6.1 Sol and Gemini 4 Argon all launched near the top of the Coding Agent Index leaderboard, but each has...",
-      "title_ja": null,
+      "title_ja": "今週は、Claude Sonnet 5.5、GPT-6.1 Sol、および Gemini 4 Argon がすべて、Coding Agent Index リーダーボードのトップ付近でリリースされましたが、それぞれに...",
       "url": "https://x.com/ArtificialAnlys/status/2105814318294114720",
       "primary_url": "https://x.com/ArtificialAnlys/status/2105814318294114720",
       "source": "X：Artificial Analysis (@ArtificialAnlys)",
@@ -832,11 +923,11 @@
           "id": "0dde5101f760376bcf6b3203694e0dec223140bd",
           "title": "Artificial Analysis：Claude Sonnet 5.5、GPT-6.1 Sol 与 Gemini 4 Argon 登顶 Coding Agent Index 榜单但成本差异大 / This week Claude Sonnet 5.5, GPT-6.1 Sol and Gemini 4 Argon all launched near the top of the Coding Agent Index leaderboard, but each has...",
           "title_zh": "Artificial Analysis：Claude Sonnet 5.5、GPT-6.1 Sol 与 Gemini 4 Argon 登顶 Coding Agent Index 榜单但成本差异大",
-          "title_ja": null,
+          "title_ja": "今週は、Claude Sonnet 5.5、GPT-6.1 Sol、および Gemini 4 Argon がすべて、Coding Agent Index リーダーボードのトップ付近でリリースされましたが、それぞれに...",
           "title_en": "This week Claude Sonnet 5.5, GPT-6.1 Sol and Gemini 4 Argon all launched near the top of the Coding Agent Index leaderboard, but each has...",
           "title_original": "This week Claude Sonnet 5.5, GPT-6.1 Sol and Gemini 4 Argon all launched near the top of the Coding Agent Index leaderboard, but each has...",
           "summary": "Artificial Analysis 发布 Coding Agent Index 榜单，Claude Sonnet 5.5 (max) 在 Claude Code 以 68 分居首，但每任务成本最高达 $14.19。",
-          "summary_ja": null,
+          "summary_ja": "Artificial Analysis は、コーディング エージェント インデックス リストをリリースしました。 Claude Sonnet 5.5 (max) は、Claude Code で 68 ポイントを獲得し 1 位にランクされましたが、タスクあたりのコストは 14.19 ドルと高かったです。",
           "recommend_reason_zh": null,
           "url": "https://x.com/ArtificialAnlys/status/2105814318294114720",
           "source": "X：Artificial Analysis (@ArtificialAnlys)",
@@ -854,11 +945,11 @@
           "id": "0dde5101f760376bcf6b3203694e0dec223140bd",
           "title": "Artificial Analysis：Claude Sonnet 5.5、GPT-6.1 Sol 与 Gemini 4 Argon 登顶 Coding Agent Index 榜单但成本差异大 / This week Claude Sonnet 5.5, GPT-6.1 Sol and Gemini 4 Argon all launched near the top of the Coding Agent Index leaderboard, but each has...",
           "title_zh": "Artificial Analysis：Claude Sonnet 5.5、GPT-6.1 Sol 与 Gemini 4 Argon 登顶 Coding Agent Index 榜单但成本差异大",
-          "title_ja": null,
+          "title_ja": "今週は、Claude Sonnet 5.5、GPT-6.1 Sol、および Gemini 4 Argon がすべて、Coding Agent Index リーダーボードのトップ付近でリリースされましたが、それぞれに...",
           "title_en": "This week Claude Sonnet 5.5, GPT-6.1 Sol and Gemini 4 Argon all launched near the top of the Coding Agent Index leaderboard, but each has...",
           "title_original": "This week Claude Sonnet 5.5, GPT-6.1 Sol and Gemini 4 Argon all launched near the top of the Coding Agent Index leaderboard, but each has...",
           "summary": "Artificial Analysis 发布 Coding Agent Index 榜单，Claude Sonnet 5.5 (max) 在 Claude Code 以 68 分居首，但每任务成本最高达 $14.19。",
-          "summary_ja": null,
+          "summary_ja": "Artificial Analysis は、コーディング エージェント インデックス リストをリリースしました。 Claude Sonnet 5.5 (max) は、Claude Code で 68 ポイントを獲得し 1 位にランクされましたが、タスクあたりのコストは 14.19 ドルと高かったです。",
           "recommend_reason_zh": null,
           "url": "https://x.com/ArtificialAnlys/status/2105814318294114720",
           "source": "X：Artificial Analysis (@ArtificialAnlys)",
@@ -869,16 +960,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.767,
-      "importance": 0.767,
-      "importance_score": 0.767,
+      "score": 0.7505,
+      "importance": 0.7505,
+      "importance_score": 0.7505,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9802,
+        "recency": 0.8885,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -892,11 +983,11 @@
         "id": "0dde5101f760376bcf6b3203694e0dec223140bd",
         "title": "Artificial Analysis：Claude Sonnet 5.5、GPT-6.1 Sol 与 Gemini 4 Argon 登顶 Coding Agent Index 榜单但成本差异大 / This week Claude Sonnet 5.5, GPT-6.1 Sol and Gemini 4 Argon all launched near the top of the Coding Agent Index leaderboard, but each has...",
         "title_zh": "Artificial Analysis：Claude Sonnet 5.5、GPT-6.1 Sol 与 Gemini 4 Argon 登顶 Coding Agent Index 榜单但成本差异大",
-        "title_ja": null,
+        "title_ja": "今週は、Claude Sonnet 5.5、GPT-6.1 Sol、および Gemini 4 Argon がすべて、Coding Agent Index リーダーボードのトップ付近でリリースされましたが、それぞれに...",
         "title_en": "This week Claude Sonnet 5.5, GPT-6.1 Sol and Gemini 4 Argon all launched near the top of the Coding Agent Index leaderboard, but each has...",
         "title_original": "This week Claude Sonnet 5.5, GPT-6.1 Sol and Gemini 4 Argon all launched near the top of the Coding Agent Index leaderboard, but each has...",
         "summary": "Artificial Analysis 发布 Coding Agent Index 榜单，Claude Sonnet 5.5 (max) 在 Claude Code 以 68 分居首，但每任务成本最高达 $14.19。",
-        "summary_ja": null,
+        "summary_ja": "Artificial Analysis は、コーディング エージェント インデックス リストをリリースしました。 Claude Sonnet 5.5 (max) は、Claude Code で 68 ポイントを獲得し 1 位にランクされましたが、タスクあたりのコストは 14.19 ドルと高かったです。",
         "recommend_reason_zh": null,
         "url": "https://x.com/ArtificialAnlys/status/2105814318294114720",
         "source": "X：Artificial Analysis (@ArtificialAnlys)",
@@ -906,7 +997,97 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T02:04:04.225307Z"
+        "scored_at": "2026-10-02T08:33:01.564799Z"
+      }
+    },
+    {
+      "story_id": "story_c29f7f8dd49f",
+      "title": "Google 首次轨道 AI 芯片试验确认在轨运行正常 / Google’s first orbital AI-chip test is in space and Google has confirmed contact; it is operating as expected.",
+      "title_ja": "Google初の軌道上AIチップテストが宇宙で行われ、Googleは接触を確認した。期待どおりに動作しています。",
+      "url": "https://x.com/rohanpaul_ai/status/2105821230368706769",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2105821230368706769",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9244507ff15319af7063dcc4f2aff734550bf8af",
+          "title": "Google 首次轨道 AI 芯片试验确认在轨运行正常 / Google’s first orbital AI-chip test is in space and Google has confirmed contact; it is operating as expected.",
+          "title_zh": "Google 首次轨道 AI 芯片试验确认在轨运行正常",
+          "title_ja": "Google初の軌道上AIチップテストが宇宙で行われ、Googleは接触を確認した。期待どおりに動作しています。",
+          "title_en": "Google’s first orbital AI-chip test is in space and Google has confirmed contact; it is operating as expected.",
+          "title_original": "Google’s first orbital AI-chip test is in space and Google has confirmed contact; it is operating as expected.",
+          "summary": "Google 确认其首个轨道 AI 芯片试验已入轨并取得联系，运行符合预期。卫星于 2026 年 10 月 1 日由 SpaceX Falcon 9 Transporter-18 从范登堡发射，搭载 4 颗 Trillium TPU（v6e），运行 Gemini 推理，每次约 15 分钟后停机让辐射器散热；散热依赖热管与红外辐射器而非风扇。",
+          "summary_ja": "Googleは、最初の軌道上AIチップテストが軌道に到達して接触し、予想通りに動作していることを確認した。この衛星は、2026 年 10 月 1 日に SpaceX の Falcon 9 Transporter-18 によってヴァンデンバーグから打ち上げられ、4 つの Trillium TPU (v6e) を搭載し、Gemini 推論を実行し、ラジエーターの熱を放散させるために毎回約 15 分後にシャットダウンしました。熱放散はファンの代わりにヒートパイプと赤外線ラジエーターに依存します。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/rohanpaul_ai/status/2105821230368706769",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-02T00:44:40Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "items": [
+        {
+          "id": "9244507ff15319af7063dcc4f2aff734550bf8af",
+          "title": "Google 首次轨道 AI 芯片试验确认在轨运行正常 / Google’s first orbital AI-chip test is in space and Google has confirmed contact; it is operating as expected.",
+          "title_zh": "Google 首次轨道 AI 芯片试验确认在轨运行正常",
+          "title_ja": "Google初の軌道上AIチップテストが宇宙で行われ、Googleは接触を確認した。期待どおりに動作しています。",
+          "title_en": "Google’s first orbital AI-chip test is in space and Google has confirmed contact; it is operating as expected.",
+          "title_original": "Google’s first orbital AI-chip test is in space and Google has confirmed contact; it is operating as expected.",
+          "summary": "Google 确认其首个轨道 AI 芯片试验已入轨并取得联系，运行符合预期。卫星于 2026 年 10 月 1 日由 SpaceX Falcon 9 Transporter-18 从范登堡发射，搭载 4 颗 Trillium TPU（v6e），运行 Gemini 推理，每次约 15 分钟后停机让辐射器散热；散热依赖热管与红外辐射器而非风扇。",
+          "summary_ja": "Googleは、最初の軌道上AIチップテストが軌道に到達して接触し、予想通りに動作していることを確認した。この衛星は、2026 年 10 月 1 日に SpaceX の Falcon 9 Transporter-18 によってヴァンデンバーグから打ち上げられ、4 つの Trillium TPU (v6e) を搭載し、Gemini 推論を実行し、ラジエーターの熱を放散させるために毎回約 15 分後にシャットダウンしました。熱放散はファンの代わりにヒートパイプと赤外線ラジエーターに依存します。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/rohanpaul_ai/status/2105821230368706769",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-02T00:44:40Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7726,
+      "importance": 0.7726,
+      "importance_score": 0.7726,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.8,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8944,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-02T00:44:40Z",
+      "latest_at": "2026-10-02T00:44:40Z",
+      "primary_item": {
+        "id": "9244507ff15319af7063dcc4f2aff734550bf8af",
+        "title": "Google 首次轨道 AI 芯片试验确认在轨运行正常 / Google’s first orbital AI-chip test is in space and Google has confirmed contact; it is operating as expected.",
+        "title_zh": "Google 首次轨道 AI 芯片试验确认在轨运行正常",
+        "title_ja": "Google初の軌道上AIチップテストが宇宙で行われ、Googleは接触を確認した。期待どおりに動作しています。",
+        "title_en": "Google’s first orbital AI-chip test is in space and Google has confirmed contact; it is operating as expected.",
+        "title_original": "Google’s first orbital AI-chip test is in space and Google has confirmed contact; it is operating as expected.",
+        "summary": "Google 确认其首个轨道 AI 芯片试验已入轨并取得联系，运行符合预期。卫星于 2026 年 10 月 1 日由 SpaceX Falcon 9 Transporter-18 从范登堡发射，搭载 4 颗 Trillium TPU（v6e），运行 Gemini 推理，每次约 15 分钟后停机让辐射器散热；散热依赖热管与红外辐射器而非风扇。",
+        "summary_ja": "Googleは、最初の軌道上AIチップテストが軌道に到達して接触し、予想通りに動作していることを確認した。この衛星は、2026 年 10 月 1 日に SpaceX の Falcon 9 Transporter-18 によってヴァンデンバーグから打ち上げられ、4 つの Trillium TPU (v6e) を搭載し、Gemini 推論を実行し、ラジエーターの熱を放散させるために毎回約 15 分後にシャットダウンしました。熱放散はファンの代わりにヒートパイプと赤外線ラジエーターに依存します。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/rohanpaul_ai/status/2105821230368706769",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-02T08:33:01.564799Z"
       }
     },
     {
@@ -959,22 +1140,21 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.755,
-      "importance": 0.755,
-      "importance_score": 0.755,
+      "score": 0.7393,
+      "importance": 0.7393,
+      "importance_score": 0.7393,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9297,
+        "recency": 0.8427,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-01T20:37:38Z",
       "latest_at": "2026-10-01T20:37:38Z",
@@ -996,13 +1176,13 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T02:04:04.225307Z"
+        "scored_at": "2026-10-02T08:33:01.564799Z"
       }
     },
     {
       "story_id": "story_692907dc8e4e",
       "title": "NVIDIA 介绍 Blackwell GPU 如何加速 OpenAI GPT-6 Astra Ultrafast / How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
-      "title_ja": null,
+      "title_ja": "NVIDIA GPU が OpenAI の GPT-6 Astra Ultrafast の高速化にどのように役立つか",
       "url": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast",
       "primary_url": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast",
       "source": "NVIDIA Blog（RSS）",
@@ -1012,11 +1192,11 @@
           "id": "e874f23f6b419b05e0da8c0a5789ba4223e709f9",
           "title": "NVIDIA 介绍 Blackwell GPU 如何加速 OpenAI GPT-6 Astra Ultrafast / How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
           "title_zh": "NVIDIA 介绍 Blackwell GPU 如何加速 OpenAI GPT-6 Astra Ultrafast",
-          "title_ja": null,
+          "title_ja": "NVIDIA GPU が OpenAI の GPT-6 Astra Ultrafast の高速化にどのように役立つか",
           "title_en": "How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
           "title_original": "How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
           "summary": "GPT-6 Astra Ultrafast 现已在 OpenAI API 及符合条件的 ChatGPT Work 和 Codex 用户中可用，运行在 NVIDIA Blackwell GPU 上。",
-          "summary_ja": null,
+          "summary_ja": "GPT-6 Astra Ultrafast は、OpenAI API、対象となる ChatGPT Work および Codex ユーザーで利用可能になり、NVIDIA Blackwell GPU で実行されます。",
           "recommend_reason_zh": null,
           "url": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast",
           "source": "NVIDIA Blog（RSS）",
@@ -1034,11 +1214,11 @@
           "id": "e874f23f6b419b05e0da8c0a5789ba4223e709f9",
           "title": "NVIDIA 介绍 Blackwell GPU 如何加速 OpenAI GPT-6 Astra Ultrafast / How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
           "title_zh": "NVIDIA 介绍 Blackwell GPU 如何加速 OpenAI GPT-6 Astra Ultrafast",
-          "title_ja": null,
+          "title_ja": "NVIDIA GPU が OpenAI の GPT-6 Astra Ultrafast の高速化にどのように役立つか",
           "title_en": "How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
           "title_original": "How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
           "summary": "GPT-6 Astra Ultrafast 现已在 OpenAI API 及符合条件的 ChatGPT Work 和 Codex 用户中可用，运行在 NVIDIA Blackwell GPU 上。",
-          "summary_ja": null,
+          "summary_ja": "GPT-6 Astra Ultrafast は、OpenAI API、対象となる ChatGPT Work および Codex ユーザーで利用可能になり、NVIDIA Blackwell GPU で実行されます。",
           "recommend_reason_zh": null,
           "url": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast",
           "source": "NVIDIA Blog（RSS）",
@@ -1049,22 +1229,21 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7536,
-      "importance": 0.7536,
-      "importance_score": 0.7536,
+      "score": 0.7373,
+      "importance": 0.7373,
+      "importance_score": 0.7373,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9724,
+        "recency": 0.8814,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-01T23:44:13Z",
       "latest_at": "2026-10-01T23:44:13Z",
@@ -1072,11 +1251,11 @@
         "id": "e874f23f6b419b05e0da8c0a5789ba4223e709f9",
         "title": "NVIDIA 介绍 Blackwell GPU 如何加速 OpenAI GPT-6 Astra Ultrafast / How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
         "title_zh": "NVIDIA 介绍 Blackwell GPU 如何加速 OpenAI GPT-6 Astra Ultrafast",
-        "title_ja": null,
+        "title_ja": "NVIDIA GPU が OpenAI の GPT-6 Astra Ultrafast の高速化にどのように役立つか",
         "title_en": "How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
         "title_original": "How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
         "summary": "GPT-6 Astra Ultrafast 现已在 OpenAI API 及符合条件的 ChatGPT Work 和 Codex 用户中可用，运行在 NVIDIA Blackwell GPU 上。",
-        "summary_ja": null,
+        "summary_ja": "GPT-6 Astra Ultrafast は、OpenAI API、対象となる ChatGPT Work および Codex ユーザーで利用可能になり、NVIDIA Blackwell GPU で実行されます。",
         "recommend_reason_zh": null,
         "url": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast",
         "source": "NVIDIA Blog（RSS）",
@@ -1086,97 +1265,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T02:04:04.225307Z"
-      }
-    },
-    {
-      "story_id": "story_2b2f0bf563c1",
-      "title": "Suno 推出 Speech beta：语音与背景音乐一体生成 / Introducing Speech (beta) By Jack Brody, Chief Product Officer·Oct 1, 2026 A new way to express yourself creatively Product Update",
-      "title_ja": null,
-      "url": "https://suno.com/blog/introducing-speech-beta",
-      "primary_url": "https://suno.com/blog/introducing-speech-beta",
-      "source": "Suno：Blog（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b92d0a2b80504ddfece5e27a9fb7a8a3e4918ef4",
-          "title": "Suno 推出 Speech beta：语音与背景音乐一体生成 / Introducing Speech (beta) By Jack Brody, Chief Product Officer·Oct 1, 2026 A new way to express yourself creatively Product Update",
-          "title_zh": "Suno 推出 Speech beta：语音与背景音乐一体生成",
-          "title_ja": null,
-          "title_en": "Introducing Speech (beta) By Jack Brody, Chief Product Officer·Oct 1, 2026 A new way to express yourself creatively Product Update",
-          "title_original": "Introducing Speech (beta) By Jack Brody, Chief Product Officer·Oct 1, 2026 A new way to express yourself creatively Product Update",
-          "summary": "Suno 推出 Speech beta，称其为首个能把语音与原创背景音乐作为一条完整曲目生成的音频模型。用户输入文字并描述想要的声音和音乐风格即可创作，beta 已向所有用户开放，官方提示仍存在口音漂移、停顿过重等问题并将持续改进。",
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://suno.com/blog/introducing-speech-beta",
-          "source": "Suno：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-01T20:35:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Suno：Blog（网页）"
-      ],
-      "items": [
-        {
-          "id": "b92d0a2b80504ddfece5e27a9fb7a8a3e4918ef4",
-          "title": "Suno 推出 Speech beta：语音与背景音乐一体生成 / Introducing Speech (beta) By Jack Brody, Chief Product Officer·Oct 1, 2026 A new way to express yourself creatively Product Update",
-          "title_zh": "Suno 推出 Speech beta：语音与背景音乐一体生成",
-          "title_ja": null,
-          "title_en": "Introducing Speech (beta) By Jack Brody, Chief Product Officer·Oct 1, 2026 A new way to express yourself creatively Product Update",
-          "title_original": "Introducing Speech (beta) By Jack Brody, Chief Product Officer·Oct 1, 2026 A new way to express yourself creatively Product Update",
-          "summary": "Suno 推出 Speech beta，称其为首个能把语音与原创背景音乐作为一条完整曲目生成的音频模型。用户输入文字并描述想要的声音和音乐风格即可创作，beta 已向所有用户开放，官方提示仍存在口音漂移、停顿过重等问题并将持续改进。",
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://suno.com/blog/introducing-speech-beta",
-          "source": "Suno：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-01T20:35:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7518,
-      "importance": 0.7518,
-      "importance_score": 0.7518,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9292,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-01T20:35:00Z",
-      "latest_at": "2026-10-01T20:35:00Z",
-      "primary_item": {
-        "id": "b92d0a2b80504ddfece5e27a9fb7a8a3e4918ef4",
-        "title": "Suno 推出 Speech beta：语音与背景音乐一体生成 / Introducing Speech (beta) By Jack Brody, Chief Product Officer·Oct 1, 2026 A new way to express yourself creatively Product Update",
-        "title_zh": "Suno 推出 Speech beta：语音与背景音乐一体生成",
-        "title_ja": null,
-        "title_en": "Introducing Speech (beta) By Jack Brody, Chief Product Officer·Oct 1, 2026 A new way to express yourself creatively Product Update",
-        "title_original": "Introducing Speech (beta) By Jack Brody, Chief Product Officer·Oct 1, 2026 A new way to express yourself creatively Product Update",
-        "summary": "Suno 推出 Speech beta，称其为首个能把语音与原创背景音乐作为一条完整曲目生成的音频模型。用户输入文字并描述想要的声音和音乐风格即可创作，beta 已向所有用户开放，官方提示仍存在口音漂移、停顿过重等问题并将持续改进。",
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://suno.com/blog/introducing-speech-beta",
-        "source": "Suno：Blog（网页）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-02T02:04:04.225307Z"
+        "scored_at": "2026-10-02T08:33:01.564799Z"
       }
     },
     {
@@ -1229,22 +1318,21 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7506,
-      "importance": 0.7506,
-      "importance_score": 0.7506,
+      "score": 0.7367,
+      "importance": 0.7367,
+      "importance_score": 0.7367,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.822,
+        "recency": 0.7451,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-01T12:05:49Z",
       "latest_at": "2026-10-01T12:05:49Z",
@@ -1266,7 +1354,96 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T02:04:04.225307Z"
+        "scored_at": "2026-10-02T08:33:01.564799Z"
+      }
+    },
+    {
+      "story_id": "story_2b2f0bf563c1",
+      "title": "Suno 推出 Speech beta：语音与背景音乐一体生成 / Introducing Speech (beta) By Jack Brody, Chief Product Officer·Oct 1, 2026 A new way to express yourself creatively Product Update",
+      "title_ja": "スピーチの紹介 (ベータ版) ジャック・ブロディ最高製品責任者 · 2026 年 10 月 1 日 自分自身を創造的に表現する新しい方法 製品アップデート",
+      "url": "https://suno.com/blog/introducing-speech-beta",
+      "primary_url": "https://suno.com/blog/introducing-speech-beta",
+      "source": "Suno：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b92d0a2b80504ddfece5e27a9fb7a8a3e4918ef4",
+          "title": "Suno 推出 Speech beta：语音与背景音乐一体生成 / Introducing Speech (beta) By Jack Brody, Chief Product Officer·Oct 1, 2026 A new way to express yourself creatively Product Update",
+          "title_zh": "Suno 推出 Speech beta：语音与背景音乐一体生成",
+          "title_ja": "スピーチの紹介 (ベータ版) ジャック・ブロディ最高製品責任者 · 2026 年 10 月 1 日 自分自身を創造的に表現する新しい方法 製品アップデート",
+          "title_en": "Introducing Speech (beta) By Jack Brody, Chief Product Officer·Oct 1, 2026 A new way to express yourself creatively Product Update",
+          "title_original": "Introducing Speech (beta) By Jack Brody, Chief Product Officer·Oct 1, 2026 A new way to express yourself creatively Product Update",
+          "summary": "Suno 推出 Speech beta，称其为首个能把语音与原创背景音乐作为一条完整曲目生成的音频模型。用户输入文字并描述想要的声音和音乐风格即可创作，beta 已向所有用户开放，官方提示仍存在口音漂移、停顿过重等问题并将持续改进。",
+          "summary_ja": "Suno は Speech ベータを開始し、これを完全なトラックとして音声とオリジナルの BGM を生成できる最初のオーディオ モデルと呼んでいます。ユーザーはテキストを入力し、希望するサウンドや音楽スタイルを記述することで作成できます。ベータ版はすべてのユーザーが利用できます。公式は、アクセントのずれや過剰な一時停止などの問題がまだあり、今後も改善される予定であると注意を促しています。",
+          "recommend_reason_zh": null,
+          "url": "https://suno.com/blog/introducing-speech-beta",
+          "source": "Suno：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T20:35:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Suno：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "b92d0a2b80504ddfece5e27a9fb7a8a3e4918ef4",
+          "title": "Suno 推出 Speech beta：语音与背景音乐一体生成 / Introducing Speech (beta) By Jack Brody, Chief Product Officer·Oct 1, 2026 A new way to express yourself creatively Product Update",
+          "title_zh": "Suno 推出 Speech beta：语音与背景音乐一体生成",
+          "title_ja": "スピーチの紹介 (ベータ版) ジャック・ブロディ最高製品責任者 · 2026 年 10 月 1 日 自分自身を創造的に表現する新しい方法 製品アップデート",
+          "title_en": "Introducing Speech (beta) By Jack Brody, Chief Product Officer·Oct 1, 2026 A new way to express yourself creatively Product Update",
+          "title_original": "Introducing Speech (beta) By Jack Brody, Chief Product Officer·Oct 1, 2026 A new way to express yourself creatively Product Update",
+          "summary": "Suno 推出 Speech beta，称其为首个能把语音与原创背景音乐作为一条完整曲目生成的音频模型。用户输入文字并描述想要的声音和音乐风格即可创作，beta 已向所有用户开放，官方提示仍存在口音漂移、停顿过重等问题并将持续改进。",
+          "summary_ja": "Suno は Speech ベータを開始し、これを完全なトラックとして音声とオリジナルの BGM を生成できる最初のオーディオ モデルと呼んでいます。ユーザーはテキストを入力し、希望するサウンドや音楽スタイルを記述することで作成できます。ベータ版はすべてのユーザーが利用できます。公式は、アクセントのずれや過剰な一時停止などの問題がまだあり、今後も改善される予定であると注意を促しています。",
+          "recommend_reason_zh": null,
+          "url": "https://suno.com/blog/introducing-speech-beta",
+          "source": "Suno：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T20:35:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7362,
+      "importance": 0.7362,
+      "importance_score": 0.7362,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8422,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-01T20:35:00Z",
+      "latest_at": "2026-10-01T20:35:00Z",
+      "primary_item": {
+        "id": "b92d0a2b80504ddfece5e27a9fb7a8a3e4918ef4",
+        "title": "Suno 推出 Speech beta：语音与背景音乐一体生成 / Introducing Speech (beta) By Jack Brody, Chief Product Officer·Oct 1, 2026 A new way to express yourself creatively Product Update",
+        "title_zh": "Suno 推出 Speech beta：语音与背景音乐一体生成",
+        "title_ja": "スピーチの紹介 (ベータ版) ジャック・ブロディ最高製品責任者 · 2026 年 10 月 1 日 自分自身を創造的に表現する新しい方法 製品アップデート",
+        "title_en": "Introducing Speech (beta) By Jack Brody, Chief Product Officer·Oct 1, 2026 A new way to express yourself creatively Product Update",
+        "title_original": "Introducing Speech (beta) By Jack Brody, Chief Product Officer·Oct 1, 2026 A new way to express yourself creatively Product Update",
+        "summary": "Suno 推出 Speech beta，称其为首个能把语音与原创背景音乐作为一条完整曲目生成的音频模型。用户输入文字并描述想要的声音和音乐风格即可创作，beta 已向所有用户开放，官方提示仍存在口音漂移、停顿过重等问题并将持续改进。",
+        "summary_ja": "Suno は Speech ベータを開始し、これを完全なトラックとして音声とオリジナルの BGM を生成できる最初のオーディオ モデルと呼んでいます。ユーザーはテキストを入力し、希望するサウンドや音楽スタイルを記述することで作成できます。ベータ版はすべてのユーザーが利用できます。公式は、アクセントのずれや過剰な一時停止などの問題がまだあり、今後も改善される予定であると注意を促しています。",
+        "recommend_reason_zh": null,
+        "url": "https://suno.com/blog/introducing-speech-beta",
+        "source": "Suno：Blog（网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-02T08:33:01.564799Z"
       }
     },
     {
@@ -1319,16 +1496,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7476,
-      "importance": 0.7476,
-      "importance_score": 0.7476,
+      "score": 0.7318,
+      "importance": 0.7318,
+      "importance_score": 0.7318,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.939,
+        "recency": 0.8512,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1355,7 +1532,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T02:04:04.225307Z"
+        "scored_at": "2026-10-02T08:33:01.564799Z"
       }
     },
     {
@@ -1408,16 +1585,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7431,
-      "importance": 0.7431,
-      "importance_score": 0.7431,
+      "score": 0.7282,
+      "importance": 0.7282,
+      "importance_score": 0.7282,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8804,
+        "recency": 0.798,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1444,33 +1621,33 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T02:04:04.225307Z"
+        "scored_at": "2026-10-02T08:33:01.564799Z"
       }
     },
     {
-      "story_id": "story_f107a55898ee",
-      "title": "Dynamic workflows in Copilot CLI and the Copilot app",
-      "title_ja": "Copilot CLI および Copilot アプリの動的ワークフロー",
-      "url": "https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app",
-      "primary_url": "https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app",
+      "story_id": "story_025446a84602",
+      "title": "私人漏洞报告的结构化表格 / Structured forms for private vulnerability reports",
+      "title_ja": "プライベート脆弱性レポート用の構造化されたフォーム",
+      "url": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports",
+      "primary_url": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "d8368277fa437aacb740cd4f8390b9eacc5c78de",
-          "title": "Dynamic workflows in Copilot CLI and the Copilot app",
-          "title_zh": null,
-          "title_ja": "Copilot CLI および Copilot アプリの動的ワークフロー",
-          "title_en": "Dynamic workflows in Copilot CLI and the Copilot app",
-          "title_original": "Dynamic workflows in Copilot CLI and the Copilot app",
+          "id": "ca059e6628b728224f13fba9352e61a9969427d2",
+          "title": "私人漏洞报告的结构化表格 / Structured forms for private vulnerability reports",
+          "title_zh": "私人漏洞报告的结构化表格",
+          "title_ja": "プライベート脆弱性レポート用の構造化されたフォーム",
+          "title_en": "Structured forms for private vulnerability reports",
+          "title_original": "Structured forms for private vulnerability reports",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app",
+          "url": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-01T16:30:10Z"
+          "published_at": "2026-10-01T19:57:28Z"
         }
       ],
       "source_count": 1,
@@ -1479,34 +1656,34 @@
       ],
       "items": [
         {
-          "id": "d8368277fa437aacb740cd4f8390b9eacc5c78de",
-          "title": "Dynamic workflows in Copilot CLI and the Copilot app",
-          "title_zh": null,
-          "title_ja": "Copilot CLI および Copilot アプリの動的ワークフロー",
-          "title_en": "Dynamic workflows in Copilot CLI and the Copilot app",
-          "title_original": "Dynamic workflows in Copilot CLI and the Copilot app",
+          "id": "ca059e6628b728224f13fba9352e61a9969427d2",
+          "title": "私人漏洞报告的结构化表格 / Structured forms for private vulnerability reports",
+          "title_zh": "私人漏洞报告的结构化表格",
+          "title_ja": "プライベート脆弱性レポート用の構造化されたフォーム",
+          "title_en": "Structured forms for private vulnerability reports",
+          "title_original": "Structured forms for private vulnerability reports",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app",
+          "url": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-01T16:30:10Z"
+          "published_at": "2026-10-01T19:57:28Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8297,
-      "importance": 0.8297,
-      "importance_score": 0.8297,
+      "score": 0.8142,
+      "importance": 0.8142,
+      "importance_score": 0.8142,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.876,
+        "ai_relevance": 0.87,
+        "recency": 0.8346,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1515,19 +1692,19 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-01T16:30:10Z",
-      "latest_at": "2026-10-01T16:30:10Z",
+      "earliest_at": "2026-10-01T19:57:28Z",
+      "latest_at": "2026-10-01T19:57:28Z",
       "primary_item": {
-        "id": "d8368277fa437aacb740cd4f8390b9eacc5c78de",
-        "title": "Dynamic workflows in Copilot CLI and the Copilot app",
-        "title_zh": null,
-        "title_ja": "Copilot CLI および Copilot アプリの動的ワークフロー",
-        "title_en": "Dynamic workflows in Copilot CLI and the Copilot app",
-        "title_original": "Dynamic workflows in Copilot CLI and the Copilot app",
+        "id": "ca059e6628b728224f13fba9352e61a9969427d2",
+        "title": "私人漏洞报告的结构化表格 / Structured forms for private vulnerability reports",
+        "title_zh": "私人漏洞报告的结构化表格",
+        "title_ja": "プライベート脆弱性レポート用の構造化されたフォーム",
+        "title_en": "Structured forms for private vulnerability reports",
+        "title_original": "Structured forms for private vulnerability reports",
         "summary": null,
         "summary_ja": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app",
+        "url": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -1535,7 +1712,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T02:04:04.225307Z"
+        "scored_at": "2026-10-02T08:33:01.564799Z"
       }
     },
     {
@@ -1588,16 +1765,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7375,
-      "importance": 0.7375,
-      "importance_score": 0.7375,
+      "score": 0.7226,
+      "importance": 0.7226,
+      "importance_score": 0.7226,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8826,
+        "recency": 0.8,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1624,219 +1801,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T02:04:04.225307Z"
-      }
-    },
-    {
-      "story_id": "story_b3f4baa4cfb3",
-      "title": "ChatGPT 现可直接构建并部署 MCP 服务器 / One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it wi...",
-      "title_ja": "もう 1 つ、ChatGPT を通じて MCP サーバーを直接構築してデプロイできるようになりました。また、アクセスを希望する人に制限したり、他のユーザーと共有したりすることもできます。",
-      "url": "https://x.com/thsottiaux/status/2105519215092584786",
-      "primary_url": "https://x.com/thsottiaux/status/2105519215092584786",
-      "source": "X：Tibo (@thsottiaux)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b6532201fdfdcbf237c1dba3b75d48cdae389c43",
-          "title": "ChatGPT 现可直接构建并部署 MCP 服务器 / One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it wi...",
-          "title_zh": "ChatGPT 现可直接构建并部署 MCP 服务器",
-          "title_ja": "もう 1 つ、ChatGPT を通じて MCP サーバーを直接構築してデプロイできるようになりました。また、アクセスを希望する人に制限したり、他のユーザーと共有したりすることもできます。",
-          "title_en": "One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it wi...",
-          "title_original": "One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it wi...",
-          "summary": "ChatGPT Sites 现在可以托管 MCP 服务器，用户可直接在 ChatGPT 中构建并部署 MCP 服务器，还能将其转为插件并安装到 web、移动端和桌面端。作者补充，可限制访问权限给指定的人，也可向全世界公开分享。",
-          "summary_ja": "ChatGPT サイトで MCP サーバーをホストできるようになりました。ユーザーは、ChatGPT で MCP サーバーを直接構築して展開することができ、また、MCP サーバーをプラグインに変換して Web、モバイル、デスクトップにインストールすることもできます。著者は、アクセスを指定された人に制限したり、世界中に公開して共有したりできると付け加えています。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/thsottiaux/status/2105519215092584786",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-01T04:44:34Z"
-        },
-        {
-          "id": "04c59cc70107ceefff1024d98b4bea4f628f81d7",
-          "title": "ChatGPT 现可直接构建并部署 MCP 服务器 / One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it with the world. https://t.co/KZwGmxL9ew",
-          "title_zh": "ChatGPT 现可直接构建并部署 MCP 服务器",
-          "title_ja": "もう 1 つ、ChatGPT を通じて MCP サーバーを直接構築してデプロイできるようになりました。そして、アクセスを希望する人に制限したり、世界と共有したりできます。 https://t.co/KZwGmxL9ew",
-          "title_en": "One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it with the world. https://t.co/KZwGmxL9ew",
-          "title_original": "One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it with the world. https://t.co/KZwGmxL9ew",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://x.com/thsottiaux/status/2105519215092584786",
-          "source": "Follow Builders · X · Thibault Sottiaux",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-10-01T04:44:34Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Follow Builders · X · Thibault Sottiaux",
-        "X：Tibo (@thsottiaux)"
-      ],
-      "items": [
-        {
-          "id": "b6532201fdfdcbf237c1dba3b75d48cdae389c43",
-          "title": "ChatGPT 现可直接构建并部署 MCP 服务器 / One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it wi...",
-          "title_zh": "ChatGPT 现可直接构建并部署 MCP 服务器",
-          "title_ja": "もう 1 つ、ChatGPT を通じて MCP サーバーを直接構築してデプロイできるようになりました。また、アクセスを希望する人に制限したり、他のユーザーと共有したりすることもできます。",
-          "title_en": "One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it wi...",
-          "title_original": "One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it wi...",
-          "summary": "ChatGPT Sites 现在可以托管 MCP 服务器，用户可直接在 ChatGPT 中构建并部署 MCP 服务器，还能将其转为插件并安装到 web、移动端和桌面端。作者补充，可限制访问权限给指定的人，也可向全世界公开分享。",
-          "summary_ja": "ChatGPT サイトで MCP サーバーをホストできるようになりました。ユーザーは、ChatGPT で MCP サーバーを直接構築して展開することができ、また、MCP サーバーをプラグインに変換して Web、モバイル、デスクトップにインストールすることもできます。著者は、アクセスを指定された人に制限したり、世界中に公開して共有したりできると付け加えています。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/thsottiaux/status/2105519215092584786",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-01T04:44:34Z"
-        },
-        {
-          "id": "04c59cc70107ceefff1024d98b4bea4f628f81d7",
-          "title": "ChatGPT 现可直接构建并部署 MCP 服务器 / One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it with the world. https://t.co/KZwGmxL9ew",
-          "title_zh": "ChatGPT 现可直接构建并部署 MCP 服务器",
-          "title_ja": "もう 1 つ、ChatGPT を通じて MCP サーバーを直接構築してデプロイできるようになりました。そして、アクセスを希望する人に制限したり、世界と共有したりできます。 https://t.co/KZwGmxL9ew",
-          "title_en": "One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it with the world. https://t.co/KZwGmxL9ew",
-          "title_original": "One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it with the world. https://t.co/KZwGmxL9ew",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://x.com/thsottiaux/status/2105519215092584786",
-          "source": "Follow Builders · X · Thibault Sottiaux",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-10-01T04:44:34Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7337,
-      "importance": 0.7337,
-      "importance_score": 0.7337,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7392,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-01T04:44:34Z",
-      "latest_at": "2026-10-01T04:44:34Z",
-      "primary_item": {
-        "id": "b6532201fdfdcbf237c1dba3b75d48cdae389c43",
-        "title": "ChatGPT 现可直接构建并部署 MCP 服务器 / One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it wi...",
-        "title_zh": "ChatGPT 现可直接构建并部署 MCP 服务器",
-        "title_ja": "もう 1 つ、ChatGPT を通じて MCP サーバーを直接構築してデプロイできるようになりました。また、アクセスを希望する人に制限したり、他のユーザーと共有したりすることもできます。",
-        "title_en": "One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it wi...",
-        "title_original": "One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it wi...",
-        "summary": "ChatGPT Sites 现在可以托管 MCP 服务器，用户可直接在 ChatGPT 中构建并部署 MCP 服务器，还能将其转为插件并安装到 web、移动端和桌面端。作者补充，可限制访问权限给指定的人，也可向全世界公开分享。",
-        "summary_ja": "ChatGPT サイトで MCP サーバーをホストできるようになりました。ユーザーは、ChatGPT で MCP サーバーを直接構築して展開することができ、また、MCP サーバーをプラグインに変換して Web、モバイル、デスクトップにインストールすることもできます。著者は、アクセスを指定された人に制限したり、世界中に公開して共有したりできると付け加えています。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/thsottiaux/status/2105519215092584786",
-        "source": "X：Tibo (@thsottiaux)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-02T02:04:04.225307Z"
-      }
-    },
-    {
-      "story_id": "story_d7846f2c0721",
-      "title": "OpenRouter 解析 LangChain 与 CrewAI 编排和 OpenRouter 原生路由的差异 / LangChain vs CrewAI: Orchestration Compared to OpenRouter-Native Routing",
-      "title_ja": null,
-      "url": "https://openrouter.ai/blog/insights/langchain-vs-crewai-orchestration-compared-to-openrouter-native-routing",
-      "primary_url": "https://openrouter.ai/blog/insights/langchain-vs-crewai-orchestration-compared-to-openrouter-native-routing",
-      "source": "OpenRouter：Announcements（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "fb9183eb893f9756b431e52634014151fad46e04",
-          "title": "OpenRouter 解析 LangChain 与 CrewAI 编排和 OpenRouter 原生路由的差异 / LangChain vs CrewAI: Orchestration Compared to OpenRouter-Native Routing",
-          "title_zh": "OpenRouter 解析 LangChain 与 CrewAI 编排和 OpenRouter 原生路由的差异",
-          "title_ja": null,
-          "title_en": "LangChain vs CrewAI: Orchestration Compared to OpenRouter-Native Routing",
-          "title_original": "LangChain vs CrewAI: Orchestration Compared to OpenRouter-Native Routing",
-          "summary": "OpenRouter 发文将多模型编排分为工作流编排、模型路由和提供商路由三层，指出 LangGraph 和 CrewAI 负责工作流编排，OpenRouter 负责模型与提供商路由，二者不互相替代。",
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://openrouter.ai/blog/insights/langchain-vs-crewai-orchestration-compared-to-openrouter-native-routing",
-          "source": "OpenRouter：Announcements（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-02T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenRouter：Announcements（RSS）"
-      ],
-      "items": [
-        {
-          "id": "fb9183eb893f9756b431e52634014151fad46e04",
-          "title": "OpenRouter 解析 LangChain 与 CrewAI 编排和 OpenRouter 原生路由的差异 / LangChain vs CrewAI: Orchestration Compared to OpenRouter-Native Routing",
-          "title_zh": "OpenRouter 解析 LangChain 与 CrewAI 编排和 OpenRouter 原生路由的差异",
-          "title_ja": null,
-          "title_en": "LangChain vs CrewAI: Orchestration Compared to OpenRouter-Native Routing",
-          "title_original": "LangChain vs CrewAI: Orchestration Compared to OpenRouter-Native Routing",
-          "summary": "OpenRouter 发文将多模型编排分为工作流编排、模型路由和提供商路由三层，指出 LangGraph 和 CrewAI 负责工作流编排，OpenRouter 负责模型与提供商路由，二者不互相替代。",
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://openrouter.ai/blog/insights/langchain-vs-crewai-orchestration-compared-to-openrouter-native-routing",
-          "source": "OpenRouter：Announcements（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-02T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7333,
-      "importance": 0.7333,
-      "importance_score": 0.7333,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.62,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9761,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-02T00:00:00Z",
-      "latest_at": "2026-10-02T00:00:00Z",
-      "primary_item": {
-        "id": "fb9183eb893f9756b431e52634014151fad46e04",
-        "title": "OpenRouter 解析 LangChain 与 CrewAI 编排和 OpenRouter 原生路由的差异 / LangChain vs CrewAI: Orchestration Compared to OpenRouter-Native Routing",
-        "title_zh": "OpenRouter 解析 LangChain 与 CrewAI 编排和 OpenRouter 原生路由的差异",
-        "title_ja": null,
-        "title_en": "LangChain vs CrewAI: Orchestration Compared to OpenRouter-Native Routing",
-        "title_original": "LangChain vs CrewAI: Orchestration Compared to OpenRouter-Native Routing",
-        "summary": "OpenRouter 发文将多模型编排分为工作流编排、模型路由和提供商路由三层，指出 LangGraph 和 CrewAI 负责工作流编排，OpenRouter 负责模型与提供商路由，二者不互相替代。",
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://openrouter.ai/blog/insights/langchain-vs-crewai-orchestration-compared-to-openrouter-native-routing",
-        "source": "OpenRouter：Announcements（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-02T02:04:04.225307Z"
+        "scored_at": "2026-10-02T08:33:01.564799Z"
       }
     }
   ]
