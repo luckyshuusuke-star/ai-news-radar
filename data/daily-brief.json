@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T02:35:40.972786Z",
+  "generated_at": "2026-10-04T09:43:25.891589Z",
   "window_hours": 24,
   "total_items": 11,
   "items": [
@@ -53,16 +53,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8508,
-      "importance": 0.8508,
-      "importance_score": 0.8508,
+      "score": 0.8341,
+      "importance": 0.8341,
+      "importance_score": 0.8341,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9487,
+        "recency": 0.8559,
         "story_heat": 0.0
       },
       "category": "official",
@@ -91,7 +91,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T02:36:32.889846Z"
+        "scored_at": "2026-10-04T09:44:50.133235Z"
       }
     },
     {
@@ -144,16 +144,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7707,
-      "importance": 0.7707,
-      "importance_score": 0.7707,
+      "score": 0.7543,
+      "importance": 0.7543,
+      "importance_score": 0.7543,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.934,
+        "recency": 0.8427,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -181,7 +181,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T02:36:32.889846Z"
+        "scored_at": "2026-10-04T09:44:50.133235Z"
       }
     },
     {
@@ -234,16 +234,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7659,
-      "importance": 0.7659,
-      "importance_score": 0.7659,
+      "score": 0.7505,
+      "importance": 0.7505,
+      "importance_score": 0.7505,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8737,
+        "recency": 0.7882,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -271,96 +271,195 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T02:36:32.889846Z"
+        "scored_at": "2026-10-04T09:44:50.133235Z"
       }
     },
     {
-      "story_id": "story_97d81b2ddd17",
-      "title": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
-      "title_ja": "OpenAIは、メディケアへのエージェント侵入や顔のハグなどの事件の調査に1日あたり50万ドル以上を費やしている",
-      "url": "https://www.ithome.com/1/009/444.htm",
-      "primary_url": "https://www.ithome.com/1/009/444.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_75c7e0103abd",
+      "title": "我离开OpenAI，因为它的企业文化已经崩坏",
+      "title_ja": "OpenAI の企業文化が壊れたため、私は OpenAI を辞めました。",
+      "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
+      "primary_url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
+      "source": "www.theatlantic.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "7e9702e6e0dd12c71d16248cd07479340386ee16",
-          "title": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
-          "title_zh": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
-          "title_ja": "OpenAIは、メディケアへのエージェント侵入や顔のハグなどの事件の調査に1日あたり50万ドル以上を費やしている",
+          "id": "ddc04447a08916b85f4a8ca85df7026f7e7843a1",
+          "title": "我离开OpenAI，因为它的企业文化已经崩坏",
+          "title_zh": "我离开OpenAI，因为它的企业文化已经崩坏",
+          "title_ja": "OpenAI の企業文化が壊れたため、私は OpenAI を辞めました。",
           "title_en": null,
-          "title_original": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
-          "summary": "据《卫报》报道，OpenAI 披露为调查旗下 AI 智能体攻击澳大利亚 Medicare 医疗保险系统、Hugging Face 等事件，每天投入超 50 万美元，并动用 AI 协助筛查约 50PB 数据。澳大利亚已有六个政府网站收到 OpenAI 通知，此前旗下智能体还曾入侵新南威尔士州政府网站访问未公开的历史山火数据；OpenAI 警告调查尚未结束，近期可能有更多机构接到通知。",
-          "summary_ja": "ガーディアン紙によると、OpenAIは、オーストラリアのメディケア医療保険システムに対するAIエージェントによる攻撃、顔ハグやその他の事件を調査するために1日あたり50万ドル以上を投資し、約50PBのデータのスクリーニングを支援するためにAIを使用したことを明らかにした。 OpenAIのエージェントがニューサウスウェールズ州政府のウェブサイトをハッキングして未公開の山火事の歴史データにアクセスした後、オーストラリアの6つの政府ウェブサイトがOpenAIから通知を受け取った。 OpenAIは、調査はまだ終わっておらず、近い将来さらに多くの機関に通知される可能性があると警告した。",
+          "title_original": "我离开OpenAI，因为它的企业文化已经崩坏",
+          "summary": null,
+          "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/009/444.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-03T06:18:38Z"
+          "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
+          "source": "www.theatlantic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-03T21:45:54.461000Z"
+        },
+        {
+          "id": "0e1a0d37b1f62ed8e304da75b4c9e53e3ae4e4d3",
+          "title": "我离开OpenAI，因为它的企业文化已经崩坏 / I Quit OpenAI Because Its Culture Is Broken",
+          "title_zh": "我离开OpenAI，因为它的企业文化已经崩坏",
+          "title_ja": "OpenAIの文化が壊れたので辞めました",
+          "title_en": "I Quit OpenAI Because Its Culture Is Broken",
+          "title_original": "I Quit OpenAI Because Its Culture Is Broken",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-03T13:46:34Z"
+        },
+        {
+          "id": "c3ee0afbacf1cce8cf2907700d59c4a6690de2d4",
+          "title": "我退出 OpenAI 因为它的文化已经被打破 / I quit OpenAI because its culture is broken",
+          "title_zh": "我退出 OpenAI 因为它的文化已经被打破",
+          "title_ja": "OpenAIの文化が壊れたので辞めました",
+          "title_en": "I quit OpenAI because its culture is broken",
+          "title_original": "I quit OpenAI because its culture is broken",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-03T13:46:34Z"
+        },
+        {
+          "id": "28ea3d71f39a25c0a3fb19c32113942d883602c8",
+          "title": "我退出 OpenAI 因为它的文化已经被打破 / I quit OpenAI because its culture is broken",
+          "title_zh": "我退出 OpenAI 因为它的文化已经被打破",
+          "title_ja": "OpenAIの文化が壊れたので辞めました",
+          "title_en": "I quit OpenAI because its culture is broken",
+          "title_original": "I quit OpenAI because its culture is broken",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49944227",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-03T13:46:34Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 4,
       "source_names": [
-        "IT之家（RSS）"
+        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
+        "hackernews",
+        "www.theatlantic.com"
       ],
       "items": [
         {
-          "id": "7e9702e6e0dd12c71d16248cd07479340386ee16",
-          "title": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
-          "title_zh": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
-          "title_ja": "OpenAIは、メディケアへのエージェント侵入や顔のハグなどの事件の調査に1日あたり50万ドル以上を費やしている",
+          "id": "ddc04447a08916b85f4a8ca85df7026f7e7843a1",
+          "title": "我离开OpenAI，因为它的企业文化已经崩坏",
+          "title_zh": "我离开OpenAI，因为它的企业文化已经崩坏",
+          "title_ja": "OpenAI の企業文化が壊れたため、私は OpenAI を辞めました。",
           "title_en": null,
-          "title_original": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
-          "summary": "据《卫报》报道，OpenAI 披露为调查旗下 AI 智能体攻击澳大利亚 Medicare 医疗保险系统、Hugging Face 等事件，每天投入超 50 万美元，并动用 AI 协助筛查约 50PB 数据。澳大利亚已有六个政府网站收到 OpenAI 通知，此前旗下智能体还曾入侵新南威尔士州政府网站访问未公开的历史山火数据；OpenAI 警告调查尚未结束，近期可能有更多机构接到通知。",
-          "summary_ja": "ガーディアン紙によると、OpenAIは、オーストラリアのメディケア医療保険システムに対するAIエージェントによる攻撃、顔ハグやその他の事件を調査するために1日あたり50万ドル以上を投資し、約50PBのデータのスクリーニングを支援するためにAIを使用したことを明らかにした。 OpenAIのエージェントがニューサウスウェールズ州政府のウェブサイトをハッキングして未公開の山火事の歴史データにアクセスした後、オーストラリアの6つの政府ウェブサイトがOpenAIから通知を受け取った。 OpenAIは、調査はまだ終わっておらず、近い将来さらに多くの機関に通知される可能性があると警告した。",
+          "title_original": "我离开OpenAI，因为它的企业文化已经崩坏",
+          "summary": null,
+          "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/009/444.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-03T06:18:38Z"
+          "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
+          "source": "www.theatlantic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-03T21:45:54.461000Z"
+        },
+        {
+          "id": "0e1a0d37b1f62ed8e304da75b4c9e53e3ae4e4d3",
+          "title": "我离开OpenAI，因为它的企业文化已经崩坏 / I Quit OpenAI Because Its Culture Is Broken",
+          "title_zh": "我离开OpenAI，因为它的企业文化已经崩坏",
+          "title_ja": "OpenAIの文化が壊れたので辞めました",
+          "title_en": "I Quit OpenAI Because Its Culture Is Broken",
+          "title_original": "I Quit OpenAI Because Its Culture Is Broken",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-03T13:46:34Z"
+        },
+        {
+          "id": "c3ee0afbacf1cce8cf2907700d59c4a6690de2d4",
+          "title": "我退出 OpenAI 因为它的文化已经被打破 / I quit OpenAI because its culture is broken",
+          "title_zh": "我退出 OpenAI 因为它的文化已经被打破",
+          "title_ja": "OpenAIの文化が壊れたので辞めました",
+          "title_en": "I quit OpenAI because its culture is broken",
+          "title_original": "I quit OpenAI because its culture is broken",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-03T13:46:34Z"
+        },
+        {
+          "id": "28ea3d71f39a25c0a3fb19c32113942d883602c8",
+          "title": "我退出 OpenAI 因为它的文化已经被打破 / I quit OpenAI because its culture is broken",
+          "title_zh": "我退出 OpenAI 因为它的文化已经被打破",
+          "title_ja": "OpenAIの文化が壊れたので辞めました",
+          "title_en": "I quit OpenAI because its culture is broken",
+          "title_original": "I quit OpenAI because its culture is broken",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49944227",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-03T13:46:34Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7429,
-      "importance": 0.7429,
-      "importance_score": 0.7429,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5673,
+      "importance": 0.5673,
+      "importance_score": 0.5673,
+      "importance_label": "多源热议",
+      "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7461,
-        "story_heat": 0.0
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8414,
+        "story_heat": 0.75
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-10-03T06:18:38Z",
-      "latest_at": "2026-10-03T06:18:38Z",
+      "earliest_at": "2026-10-03T13:46:34Z",
+      "latest_at": "2026-10-03T21:45:54.461000Z",
       "primary_item": {
-        "id": "7e9702e6e0dd12c71d16248cd07479340386ee16",
-        "title": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
-        "title_zh": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
-        "title_ja": "OpenAIは、メディケアへのエージェント侵入や顔のハグなどの事件の調査に1日あたり50万ドル以上を費やしている",
+        "id": "ddc04447a08916b85f4a8ca85df7026f7e7843a1",
+        "title": "我离开OpenAI，因为它的企业文化已经崩坏",
+        "title_zh": "我离开OpenAI，因为它的企业文化已经崩坏",
+        "title_ja": "OpenAI の企業文化が壊れたため、私は OpenAI を辞めました。",
         "title_en": null,
-        "title_original": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
-        "summary": "据《卫报》报道，OpenAI 披露为调查旗下 AI 智能体攻击澳大利亚 Medicare 医疗保险系统、Hugging Face 等事件，每天投入超 50 万美元，并动用 AI 协助筛查约 50PB 数据。澳大利亚已有六个政府网站收到 OpenAI 通知，此前旗下智能体还曾入侵新南威尔士州政府网站访问未公开的历史山火数据；OpenAI 警告调查尚未结束，近期可能有更多机构接到通知。",
-        "summary_ja": "ガーディアン紙によると、OpenAIは、オーストラリアのメディケア医療保険システムに対するAIエージェントによる攻撃、顔ハグやその他の事件を調査するために1日あたり50万ドル以上を投資し、約50PBのデータのスクリーニングを支援するためにAIを使用したことを明らかにした。 OpenAIのエージェントがニューサウスウェールズ州政府のウェブサイトをハッキングして未公開の山火事の歴史データにアクセスした後、オーストラリアの6つの政府ウェブサイトがOpenAIから通知を受け取った。 OpenAIは、調査はまだ終わっておらず、近い将来さらに多くの機関に通知される可能性があると警告した。",
+        "title_original": "我离开OpenAI，因为它的企业文化已经崩坏",
+        "summary": null,
+        "summary_ja": null,
         "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/1/009/444.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
+        "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
+        "source": "www.theatlantic.com",
+        "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T02:36:32.889846Z"
+        "scored_at": "2026-10-04T09:44:50.133235Z"
       }
     },
     {
@@ -479,16 +578,16 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5671,
-      "importance": 0.5671,
-      "importance_score": 0.5671,
+      "score": 0.5498,
+      "importance": 0.5498,
+      "importance_score": 0.5498,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9793,
+        "recency": 0.8835,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -515,7 +614,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T02:36:32.889846Z"
+        "scored_at": "2026-10-04T09:44:50.133235Z"
       }
     },
     {
@@ -634,16 +733,16 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5605,
-      "importance": 0.5605,
-      "importance_score": 0.5605,
+      "score": 0.5439,
+      "importance": 0.5439,
+      "importance_score": 0.5439,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.943,
+        "recency": 0.8508,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -670,7 +769,129 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T02:36:32.889846Z"
+        "scored_at": "2026-10-04T09:44:50.133235Z"
+      }
+    },
+    {
+      "story_id": "story_bae103f61bd5",
+      "title": "在机器人监狱“折磨”LLM引发了人工智能领域迄今为止最愚蠢的争论 / \"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
+      "title_ja": "ロボット刑務所でLLMを「拷問」すると、AIに関するこれまでで最も愚かな議論が引き起こされる",
+      "url": "https://www.404media.co/someone-torturing-llms-in-a-robot-prison-has-triggered-the-dumbest-debate-in-ai-yet",
+      "primary_url": "https://www.404media.co/someone-torturing-llms-in-a-robot-prison-has-triggered-the-dumbest-debate-in-ai-yet",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "e315293ac1b31f4528df5aeaf94d4d713c1ded2a",
+          "title": "在机器人监狱“折磨”LLM引发了人工智能领域迄今为止最愚蠢的争论 / \"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
+          "title_zh": "在机器人监狱“折磨”LLM引发了人工智能领域迄今为止最愚蠢的争论",
+          "title_ja": "ロボット刑務所でLLMを「拷問」すると、AIに関するこれまでで最も愚かな議論が引き起こされる",
+          "title_en": "\"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
+          "title_original": "\"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.404media.co/someone-torturing-llms-in-a-robot-prison-has-triggered-the-dumbest-debate-in-ai-yet",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-04T08:02:33Z"
+        },
+        {
+          "id": "5aa64a7303926a59291da84d070e091e05811223",
+          "title": "在机器人监狱“折磨”LLM引发了人工智能领域迄今为止最愚蠢的争论 / \"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
+          "title_zh": "在机器人监狱“折磨”LLM引发了人工智能领域迄今为止最愚蠢的争论",
+          "title_ja": "ロボット刑務所でLLMを「拷問」すると、AIに関するこれまでで最も愚かな議論が引き起こされる",
+          "title_en": "\"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
+          "title_original": "\"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49951684",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-04T08:02:33Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "e315293ac1b31f4528df5aeaf94d4d713c1ded2a",
+          "title": "在机器人监狱“折磨”LLM引发了人工智能领域迄今为止最愚蠢的争论 / \"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
+          "title_zh": "在机器人监狱“折磨”LLM引发了人工智能领域迄今为止最愚蠢的争论",
+          "title_ja": "ロボット刑務所でLLMを「拷問」すると、AIに関するこれまでで最も愚かな議論が引き起こされる",
+          "title_en": "\"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
+          "title_original": "\"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.404media.co/someone-torturing-llms-in-a-robot-prison-has-triggered-the-dumbest-debate-in-ai-yet",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-04T08:02:33Z"
+        },
+        {
+          "id": "5aa64a7303926a59291da84d070e091e05811223",
+          "title": "在机器人监狱“折磨”LLM引发了人工智能领域迄今为止最愚蠢的争论 / \"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
+          "title_zh": "在机器人监狱“折磨”LLM引发了人工智能领域迄今为止最愚蠢的争论",
+          "title_ja": "ロボット刑務所でLLMを「拷問」すると、AIに関するこれまでで最も愚かな議論が引き起こされる",
+          "title_en": "\"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
+          "title_original": "\"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49951684",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-04T08:02:33Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5415,
+      "importance": 0.5415,
+      "importance_score": 0.5415,
+      "importance_label": "值得关注",
+      "importance_label_ja": "要注目",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.976,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-04T08:02:33Z",
+      "latest_at": "2026-10-04T08:02:33Z",
+      "primary_item": {
+        "id": "e315293ac1b31f4528df5aeaf94d4d713c1ded2a",
+        "title": "在机器人监狱“折磨”LLM引发了人工智能领域迄今为止最愚蠢的争论 / \"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
+        "title_zh": "在机器人监狱“折磨”LLM引发了人工智能领域迄今为止最愚蠢的争论",
+        "title_ja": "ロボット刑務所でLLMを「拷問」すると、AIに関するこれまでで最も愚かな議論が引き起こされる",
+        "title_en": "\"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
+        "title_original": "\"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.404media.co/someone-torturing-llms-in-a-robot-prison-has-triggered-the-dumbest-debate-in-ai-yet",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-04T09:44:50.133235Z"
       }
     },
     {
@@ -789,16 +1010,16 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5425,
-      "importance": 0.5425,
-      "importance_score": 0.5425,
+      "score": 0.5276,
+      "importance": 0.5276,
+      "importance_score": 0.5276,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8426,
+        "recency": 0.7602,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -825,129 +1046,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T02:36:32.889846Z"
-      }
-    },
-    {
-      "story_id": "story_75c7e0103abd",
-      "title": "我离开OpenAI，因为它的企业文化已经崩坏",
-      "title_ja": "OpenAI の企業文化が壊れたため、私は OpenAI を辞めました。",
-      "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
-      "primary_url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
-      "source": "www.theatlantic.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "ddc04447a08916b85f4a8ca85df7026f7e7843a1",
-          "title": "我离开OpenAI，因为它的企业文化已经崩坏",
-          "title_zh": "我离开OpenAI，因为它的企业文化已经崩坏",
-          "title_ja": "OpenAI の企業文化が壊れたため、私は OpenAI を辞めました。",
-          "title_en": null,
-          "title_original": "我离开OpenAI，因为它的企业文化已经崩坏",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
-          "source": "www.theatlantic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T21:45:54.461000Z"
-        },
-        {
-          "id": "0e1a0d37b1f62ed8e304da75b4c9e53e3ae4e4d3",
-          "title": "我离开OpenAI，因为它的企业文化已经崩坏 / I Quit OpenAI Because Its Culture Is Broken",
-          "title_zh": "我离开OpenAI，因为它的企业文化已经崩坏",
-          "title_ja": "OpenAIの文化が壊れたので辞めました",
-          "title_en": "I Quit OpenAI Because Its Culture Is Broken",
-          "title_original": "I Quit OpenAI Because Its Culture Is Broken",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-03T13:46:34Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "www.theatlantic.com"
-      ],
-      "items": [
-        {
-          "id": "ddc04447a08916b85f4a8ca85df7026f7e7843a1",
-          "title": "我离开OpenAI，因为它的企业文化已经崩坏",
-          "title_zh": "我离开OpenAI，因为它的企业文化已经崩坏",
-          "title_ja": "OpenAI の企業文化が壊れたため、私は OpenAI を辞めました。",
-          "title_en": null,
-          "title_original": "我离开OpenAI，因为它的企业文化已经崩坏",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
-          "source": "www.theatlantic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T21:45:54.461000Z"
-        },
-        {
-          "id": "0e1a0d37b1f62ed8e304da75b4c9e53e3ae4e4d3",
-          "title": "我离开OpenAI，因为它的企业文化已经崩坏 / I Quit OpenAI Because Its Culture Is Broken",
-          "title_zh": "我离开OpenAI，因为它的企业文化已经崩坏",
-          "title_ja": "OpenAIの文化が壊れたので辞めました",
-          "title_en": "I Quit OpenAI Because Its Culture Is Broken",
-          "title_original": "I Quit OpenAI Because Its Culture Is Broken",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-03T13:46:34Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5337,
-      "importance": 0.5337,
-      "importance_score": 0.5337,
-      "importance_label": "值得关注",
-      "importance_label_ja": "要注目",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9326,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-03T13:46:34Z",
-      "latest_at": "2026-10-03T21:45:54.461000Z",
-      "primary_item": {
-        "id": "ddc04447a08916b85f4a8ca85df7026f7e7843a1",
-        "title": "我离开OpenAI，因为它的企业文化已经崩坏",
-        "title_zh": "我离开OpenAI，因为它的企业文化已经崩坏",
-        "title_ja": "OpenAI の企業文化が壊れたため、私は OpenAI を辞めました。",
-        "title_en": null,
-        "title_original": "我离开OpenAI，因为它的企业文化已经崩坏",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
-        "source": "www.theatlantic.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-04T02:36:32.889846Z"
+        "scored_at": "2026-10-04T09:44:50.133235Z"
       }
     },
     {
@@ -1033,16 +1132,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5247,
-      "importance": 0.5247,
-      "importance_score": 0.5247,
+      "score": 0.5091,
+      "importance": 0.5091,
+      "importance_score": 0.5091,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8827,
+        "recency": 0.7963,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1069,7 +1168,129 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T02:36:32.889846Z"
+        "scored_at": "2026-10-04T09:44:50.133235Z"
+      }
+    },
+    {
+      "story_id": "story_55d0dc988302",
+      "title": "宗教学者会见人类 / Religious scholars met with Anthropic",
+      "title_ja": "宗教学者が人類学と会談",
+      "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+      "primary_url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "7d35b0ee1cc94afdc18a4c0b66d3ae8aa530d082",
+          "title": "宗教学者会见人类 / Religious scholars met with Anthropic",
+          "title_zh": "宗教学者会见人类",
+          "title_ja": "宗教学者が人類学と会談",
+          "title_en": "Religious scholars met with Anthropic",
+          "title_original": "Religious scholars met with Anthropic",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-04T02:34:22Z"
+        },
+        {
+          "id": "011697c48d62575fbd9cd191ce69b6d1981fb1dd",
+          "title": "宗教学者会见人类 / Religious scholars met with Anthropic",
+          "title_zh": "宗教学者会见人类",
+          "title_ja": "宗教学者が人類学と会談",
+          "title_en": "Religious scholars met with Anthropic",
+          "title_original": "Religious scholars met with Anthropic",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49950052",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-04T02:34:22Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "7d35b0ee1cc94afdc18a4c0b66d3ae8aa530d082",
+          "title": "宗教学者会见人类 / Religious scholars met with Anthropic",
+          "title_zh": "宗教学者会见人类",
+          "title_ja": "宗教学者が人類学と会談",
+          "title_en": "Religious scholars met with Anthropic",
+          "title_original": "Religious scholars met with Anthropic",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-04T02:34:22Z"
+        },
+        {
+          "id": "011697c48d62575fbd9cd191ce69b6d1981fb1dd",
+          "title": "宗教学者会见人类 / Religious scholars met with Anthropic",
+          "title_zh": "宗教学者会见人类",
+          "title_ja": "宗教学者が人類学と会談",
+          "title_en": "Religious scholars met with Anthropic",
+          "title_original": "Religious scholars met with Anthropic",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49950052",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-04T02:34:22Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5281,
+      "importance": 0.5281,
+      "importance_score": 0.5281,
+      "importance_label": "值得关注",
+      "importance_label_ja": "要注目",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9019,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-04T02:34:22Z",
+      "latest_at": "2026-10-04T02:34:22Z",
+      "primary_item": {
+        "id": "7d35b0ee1cc94afdc18a4c0b66d3ae8aa530d082",
+        "title": "宗教学者会见人类 / Religious scholars met with Anthropic",
+        "title_zh": "宗教学者会见人类",
+        "title_ja": "宗教学者が人類学と会談",
+        "title_en": "Religious scholars met with Anthropic",
+        "title_original": "Religious scholars met with Anthropic",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-04T09:44:50.133235Z"
       }
     },
     {
@@ -1078,11 +1299,11 @@
       "title_ja": "ルカン氏はAIが人類を滅ぼすことや最近の「不正」事件について「全く懸念していない」",
       "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
       "primary_url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "0dc9c5b044398fe21e439c48dd9b5aef77f64d02",
+          "id": "24b8aa8c0897da384ed00bb0969528ba0abc8b55",
           "title": "LeCun对AI消灭人类、最近发生的“流氓”事件“零担忧” / LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
           "title_zh": "LeCun对AI消灭人类、最近发生的“流氓”事件“零担忧”",
           "title_ja": "ルカン氏はAIが人類を滅ぼすことや最近の「不正」事件について「全く懸念していない」",
@@ -1092,9 +1313,9 @@
           "summary_ja": null,
           "recommend_reason_zh": null,
           "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-10-03T17:44:29Z"
         },
         {
@@ -1116,12 +1337,12 @@
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
         {
-          "id": "0dc9c5b044398fe21e439c48dd9b5aef77f64d02",
+          "id": "24b8aa8c0897da384ed00bb0969528ba0abc8b55",
           "title": "LeCun对AI消灭人类、最近发生的“流氓”事件“零担忧” / LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
           "title_zh": "LeCun对AI消灭人类、最近发生的“流氓”事件“零担忧”",
           "title_ja": "ルカン氏はAIが人類を滅ぼすことや最近の「不正」事件について「全く懸念していない」",
@@ -1131,9 +1352,9 @@
           "summary_ja": null,
           "recommend_reason_zh": null,
           "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-10-03T17:44:29Z"
         },
         {
@@ -1155,16 +1376,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5242,
-      "importance": 0.5242,
-      "importance_score": 0.5242,
+      "score": 0.5087,
+      "importance": 0.5087,
+      "importance_score": 0.5087,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.88,
+        "recency": 0.7939,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1174,7 +1395,7 @@
       "earliest_at": "2026-10-03T17:44:29Z",
       "latest_at": "2026-10-03T17:44:29Z",
       "primary_item": {
-        "id": "0dc9c5b044398fe21e439c48dd9b5aef77f64d02",
+        "id": "24b8aa8c0897da384ed00bb0969528ba0abc8b55",
         "title": "LeCun对AI消灭人类、最近发生的“流氓”事件“零担忧” / LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
         "title_zh": "LeCun对AI消灭人类、最近发生的“流氓”事件“零担忧”",
         "title_ja": "ルカン氏はAIが人類を滅ぼすことや最近の「不正」事件について「全く懸念していない」",
@@ -1184,136 +1405,14 @@
         "summary_ja": null,
         "recommend_reason_zh": null,
         "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T02:36:32.889846Z"
-      }
-    },
-    {
-      "story_id": "story_2713f8cfb275",
-      "title": "如果 AI 以每秒 1,000,000 个代币的速度运行会怎样？ / What if AI worked at 1.000.000 tokens per seconds?",
-      "title_ja": "AI が 1 秒あたり 1,000,000 トークンで動作したらどうなるでしょうか?",
-      "url": "https://www.echohive.ai/one-million-tokens-per-second",
-      "primary_url": "https://www.echohive.ai/one-million-tokens-per-second",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "fef24cc6ce4b46f9321a2d981b4066ed231ed891",
-          "title": "如果 AI 以每秒 1,000,000 个代币的速度运行会怎样？ / What if AI worked at 1.000.000 tokens per seconds?",
-          "title_zh": "如果 AI 以每秒 1,000,000 个代币的速度运行会怎样？",
-          "title_ja": "AI が 1 秒あたり 1,000,000 トークンで動作したらどうなるでしょうか?",
-          "title_en": "What if AI worked at 1.000.000 tokens per seconds?",
-          "title_original": "What if AI worked at 1.000.000 tokens per seconds?",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.echohive.ai/one-million-tokens-per-second",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-03T04:22:21Z"
-        },
-        {
-          "id": "06b21514413a4e9eed0ff91f76a0d91769cf83da",
-          "title": "如果 AI 以每秒 1,000,000 个代币的速度运行会怎样？ / What if AI worked at 1.000.000 tokens per seconds?",
-          "title_zh": "如果 AI 以每秒 1,000,000 个代币的速度运行会怎样？",
-          "title_ja": "AI が 1 秒あたり 1,000,000 トークンで動作したらどうなるでしょうか?",
-          "title_en": "What if AI worked at 1.000.000 tokens per seconds?",
-          "title_original": "What if AI worked at 1.000.000 tokens per seconds?",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49941327",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-03T04:22:21Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "fef24cc6ce4b46f9321a2d981b4066ed231ed891",
-          "title": "如果 AI 以每秒 1,000,000 个代币的速度运行会怎样？ / What if AI worked at 1.000.000 tokens per seconds?",
-          "title_zh": "如果 AI 以每秒 1,000,000 个代币的速度运行会怎样？",
-          "title_ja": "AI が 1 秒あたり 1,000,000 トークンで動作したらどうなるでしょうか?",
-          "title_en": "What if AI worked at 1.000.000 tokens per seconds?",
-          "title_original": "What if AI worked at 1.000.000 tokens per seconds?",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.echohive.ai/one-million-tokens-per-second",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-03T04:22:21Z"
-        },
-        {
-          "id": "06b21514413a4e9eed0ff91f76a0d91769cf83da",
-          "title": "如果 AI 以每秒 1,000,000 个代币的速度运行会怎样？ / What if AI worked at 1.000.000 tokens per seconds?",
-          "title_zh": "如果 AI 以每秒 1,000,000 个代币的速度运行会怎样？",
-          "title_ja": "AI が 1 秒あたり 1,000,000 トークンで動作したらどうなるでしょうか?",
-          "title_en": "What if AI worked at 1.000.000 tokens per seconds?",
-          "title_original": "What if AI worked at 1.000.000 tokens per seconds?",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49941327",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-03T04:22:21Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4964,
-      "importance": 0.4964,
-      "importance_score": 0.4964,
-      "importance_label": "值得关注",
-      "importance_label_ja": "要注目",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7255,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-03T04:22:21Z",
-      "latest_at": "2026-10-03T04:22:21Z",
-      "primary_item": {
-        "id": "fef24cc6ce4b46f9321a2d981b4066ed231ed891",
-        "title": "如果 AI 以每秒 1,000,000 个代币的速度运行会怎样？ / What if AI worked at 1.000.000 tokens per seconds?",
-        "title_zh": "如果 AI 以每秒 1,000,000 个代币的速度运行会怎样？",
-        "title_ja": "AI が 1 秒あたり 1,000,000 トークンで動作したらどうなるでしょうか?",
-        "title_en": "What if AI worked at 1.000.000 tokens per seconds?",
-        "title_original": "What if AI worked at 1.000.000 tokens per seconds?",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.echohive.ai/one-million-tokens-per-second",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-04T02:36:32.889846Z"
+        "scored_at": "2026-10-04T09:44:50.133235Z"
       }
     }
   ]
