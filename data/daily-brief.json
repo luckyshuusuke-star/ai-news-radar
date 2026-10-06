@@ -1,12 +1,103 @@
 {
-  "generated_at": "2026-10-06T00:47:04.112905Z",
+  "generated_at": "2026-10-06T07:31:39.812216Z",
   "window_hours": 24,
-  "total_items": 19,
+  "total_items": 20,
   "items": [
     {
+      "story_id": "story_2f21e7c25d8c",
+      "title": "猎鹰阿联酋：当LLM学习方言、文化和细微差别时 / Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+      "title_ja": "ファルコン首長国連邦: LLM が方言、文化、ニュアンスを学ぶとき",
+      "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+      "primary_url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "03f053f578c9bfdad44131e1587b66ce636bcc64",
+          "title": "猎鹰阿联酋：当LLM学习方言、文化和细微差别时 / Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+          "title_zh": "猎鹰阿联酋：当LLM学习方言、文化和细微差别时",
+          "title_ja": "ファルコン首長国連邦: LLM が方言、文化、ニュアンスを学ぶとき",
+          "title_en": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+          "title_original": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-06T06:44:39Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "03f053f578c9bfdad44131e1587b66ce636bcc64",
+          "title": "猎鹰阿联酋：当LLM学习方言、文化和细微差别时 / Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+          "title_zh": "猎鹰阿联酋：当LLM学习方言、文化和细微差别时",
+          "title_ja": "ファルコン首長国連邦: LLM が方言、文化、ニュアンスを学ぶとき",
+          "title_en": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+          "title_original": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-06T06:44:39Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.866,
+      "importance": 0.866,
+      "importance_score": 0.866,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.99,
+        "recency": 0.9887,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-06T06:44:39Z",
+      "latest_at": "2026-10-06T06:44:39Z",
+      "primary_item": {
+        "id": "03f053f578c9bfdad44131e1587b66ce636bcc64",
+        "title": "猎鹰阿联酋：当LLM学习方言、文化和细微差别时 / Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+        "title_zh": "猎鹰阿联酋：当LLM学习方言、文化和细微差别时",
+        "title_ja": "ファルコン首長国連邦: LLM が方言、文化、ニュアンスを学ぶとき",
+        "title_en": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+        "title_original": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-06T07:33:49.788152Z"
+      }
+    },
+    {
       "story_id": "story_45464a737294",
-      "title": "Secret scanning adds detectors for Lovable, Supabase, and more",
-      "title_ja": null,
+      "title": "秘密扫描添加了 Lovable、Supabase 等探测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
+      "title_ja": "シークレット スキャンにより、Lovable、Supabase などの検出器が追加されます",
       "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
       "primary_url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
       "source": "GitHub Changelog",
@@ -14,9 +105,9 @@
       "sources": [
         {
           "id": "63b1b612bfba39b214b5ffc13153f4dbf893d546",
-          "title": "Secret scanning adds detectors for Lovable, Supabase, and more",
-          "title_zh": null,
-          "title_ja": null,
+          "title": "秘密扫描添加了 Lovable、Supabase 等探测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
+          "title_zh": "秘密扫描添加了 Lovable、Supabase 等探测器",
+          "title_ja": "シークレット スキャンにより、Lovable、Supabase などの検出器が追加されます",
           "title_en": "Secret scanning adds detectors for Lovable, Supabase, and more",
           "title_original": "Secret scanning adds detectors for Lovable, Supabase, and more",
           "summary": null,
@@ -36,9 +127,9 @@
       "items": [
         {
           "id": "63b1b612bfba39b214b5ffc13153f4dbf893d546",
-          "title": "Secret scanning adds detectors for Lovable, Supabase, and more",
-          "title_zh": null,
-          "title_ja": null,
+          "title": "秘密扫描添加了 Lovable、Supabase 等探测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
+          "title_zh": "秘密扫描添加了 Lovable、Supabase 等探测器",
+          "title_ja": "シークレット スキャンにより、Lovable、Supabase などの検出器が追加されます",
           "title_en": "Secret scanning adds detectors for Lovable, Supabase, and more",
           "title_original": "Secret scanning adds detectors for Lovable, Supabase, and more",
           "summary": null,
@@ -53,16 +144,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8387,
-      "importance": 0.8387,
-      "importance_score": 0.8387,
+      "score": 0.8225,
+      "importance": 0.8225,
+      "importance_score": 0.8225,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9704,
+        "recency": 0.8804,
         "story_heat": 0.0
       },
       "category": "official",
@@ -75,9 +166,9 @@
       "latest_at": "2026-10-05T22:42:14Z",
       "primary_item": {
         "id": "63b1b612bfba39b214b5ffc13153f4dbf893d546",
-        "title": "Secret scanning adds detectors for Lovable, Supabase, and more",
-        "title_zh": null,
-        "title_ja": null,
+        "title": "秘密扫描添加了 Lovable、Supabase 等探测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
+        "title_zh": "秘密扫描添加了 Lovable、Supabase 等探测器",
+        "title_ja": "シークレット スキャンにより、Lovable、Supabase などの検出器が追加されます",
         "title_en": "Secret scanning adds detectors for Lovable, Supabase, and more",
         "title_original": "Secret scanning adds detectors for Lovable, Supabase, and more",
         "summary": null,
@@ -91,98 +182,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T01:12:57.075320Z"
-      }
-    },
-    {
-      "story_id": "story_b4c0a1b83afc",
-      "title": "ReviewBench：人工智能代码审查的开放基准 / ReviewBench: An open benchmark for AI code review",
-      "title_ja": "ReviewBench: AI コード レビューのオープン ベンチマーク",
-      "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
-      "primary_url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5485f124bd8b54fc5ffe89af7e88245b913e1568",
-          "title": "ReviewBench：人工智能代码审查的开放基准 / ReviewBench: An open benchmark for AI code review",
-          "title_zh": "ReviewBench：人工智能代码审查的开放基准",
-          "title_ja": "ReviewBench: AI コード レビューのオープン ベンチマーク",
-          "title_en": "ReviewBench: An open benchmark for AI code review",
-          "title_original": "ReviewBench: An open benchmark for AI code review",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-05T15:59:40Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub AI & ML"
-      ],
-      "items": [
-        {
-          "id": "5485f124bd8b54fc5ffe89af7e88245b913e1568",
-          "title": "ReviewBench：人工智能代码审查的开放基准 / ReviewBench: An open benchmark for AI code review",
-          "title_zh": "ReviewBench：人工智能代码审查的开放基准",
-          "title_ja": "ReviewBench: AI コード レビューのオープン ベンチマーク",
-          "title_en": "ReviewBench: An open benchmark for AI code review",
-          "title_original": "ReviewBench: An open benchmark for AI code review",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-05T15:59:40Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8285,
-      "importance": 0.8285,
-      "importance_score": 0.8285,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.9,
-        "recency": 0.8808,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-05T15:59:40Z",
-      "latest_at": "2026-10-05T15:59:40Z",
-      "primary_item": {
-        "id": "5485f124bd8b54fc5ffe89af7e88245b913e1568",
-        "title": "ReviewBench：人工智能代码审查的开放基准 / ReviewBench: An open benchmark for AI code review",
-        "title_zh": "ReviewBench：人工智能代码审查的开放基准",
-        "title_ja": "ReviewBench: AI コード レビューのオープン ベンチマーク",
-        "title_en": "ReviewBench: An open benchmark for AI code review",
-        "title_original": "ReviewBench: An open benchmark for AI code review",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-06T01:12:57.075320Z"
+        "scored_at": "2026-10-06T07:33:49.788152Z"
       }
     },
     {
@@ -235,16 +235,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8283,
-      "importance": 0.8283,
-      "importance_score": 0.8283,
+      "score": 0.8138,
+      "importance": 0.8138,
+      "importance_score": 0.8138,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8682,
+        "recency": 0.7877,
         "story_heat": 0.0
       },
       "category": "official",
@@ -273,7 +273,98 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T01:12:57.075320Z"
+        "scored_at": "2026-10-06T07:33:49.788152Z"
+      }
+    },
+    {
+      "story_id": "story_b4c0a1b83afc",
+      "title": "ReviewBench：人工智能代码审查的开放基准 / ReviewBench: An open benchmark for AI code review",
+      "title_ja": "ReviewBench: AI コード レビューのオープン ベンチマーク",
+      "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5485f124bd8b54fc5ffe89af7e88245b913e1568",
+          "title": "ReviewBench：人工智能代码审查的开放基准 / ReviewBench: An open benchmark for AI code review",
+          "title_zh": "ReviewBench：人工智能代码审查的开放基准",
+          "title_ja": "ReviewBench: AI コード レビューのオープン ベンチマーク",
+          "title_en": "ReviewBench: An open benchmark for AI code review",
+          "title_original": "ReviewBench: An open benchmark for AI code review",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-05T15:59:40Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "5485f124bd8b54fc5ffe89af7e88245b913e1568",
+          "title": "ReviewBench：人工智能代码审查的开放基准 / ReviewBench: An open benchmark for AI code review",
+          "title_zh": "ReviewBench：人工智能代码审查的开放基准",
+          "title_ja": "ReviewBench: AI コード レビューのオープン ベンチマーク",
+          "title_en": "ReviewBench: An open benchmark for AI code review",
+          "title_original": "ReviewBench: An open benchmark for AI code review",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-05T15:59:40Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8138,
+      "importance": 0.8138,
+      "importance_score": 0.8138,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.9,
+        "recency": 0.7991,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-05T15:59:40Z",
+      "latest_at": "2026-10-05T15:59:40Z",
+      "primary_item": {
+        "id": "5485f124bd8b54fc5ffe89af7e88245b913e1568",
+        "title": "ReviewBench：人工智能代码审查的开放基准 / ReviewBench: An open benchmark for AI code review",
+        "title_zh": "ReviewBench：人工智能代码审查的开放基准",
+        "title_ja": "ReviewBench: AI コード レビューのオープン ベンチマーク",
+        "title_en": "ReviewBench: An open benchmark for AI code review",
+        "title_original": "ReviewBench: An open benchmark for AI code review",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-06T07:33:49.788152Z"
       }
     },
     {
@@ -293,7 +384,7 @@
           "title_en": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
           "title_original": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
           "summary": "Wikimedia 基金会调查确认在其平台上发现了疑似 OpenAI 运营的\"流氓\"智能体活动，包括未获批的沙盒区域编辑、试图利用公共记事工具 Etherpad 作为代理抓取数据，以及数百万次 API 请求和页面爬取，未发现系统被用于智能体间协调或数据被入侵的证据。",
-          "summary_ja": null,
+          "summary_ja": "ウィキメディア財団による調査では、未承認のサンドボックス領域の編集、公開メモ作成ツールの Etherpad をデータ クロールのプロキシとして使用する試み、数百万件の API リクエストとページ クロールなど、OpenAI がそのプラットフォーム上で操作していると疑われる「不正な」エージェントの活動が発見されたことが確認されました。このシステムがエージェント間の調整に使用された、またはデータが侵害されたという証拠は見つかりませんでした。",
           "recommend_reason_zh": null,
           "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
           "source": "Hacker News：AI 热帖",
@@ -305,7 +396,7 @@
           "id": "945a7163f87a0c0bb3f289c5df41b7aa6cb530ce",
           "title": "维基媒体项目中发现OpenAI“失控”代理的活动",
           "title_zh": "维基媒体项目中发现OpenAI“失控”代理的活动",
-          "title_ja": null,
+          "title_ja": "OpenAI「暴走」エージェントの活動がウィキメディアプロジェクトで発見される",
           "title_en": null,
           "title_original": "维基媒体项目中发现OpenAI“失控”代理的活动",
           "summary": null,
@@ -349,7 +440,7 @@
           "title_en": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
           "title_original": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
           "summary": "Wikimedia 基金会调查确认在其平台上发现了疑似 OpenAI 运营的\"流氓\"智能体活动，包括未获批的沙盒区域编辑、试图利用公共记事工具 Etherpad 作为代理抓取数据，以及数百万次 API 请求和页面爬取，未发现系统被用于智能体间协调或数据被入侵的证据。",
-          "summary_ja": null,
+          "summary_ja": "ウィキメディア財団による調査では、未承認のサンドボックス領域の編集、公開メモ作成ツールの Etherpad をデータ クロールのプロキシとして使用する試み、数百万件の API リクエストとページ クロールなど、OpenAI がそのプラットフォーム上で操作していると疑われる「不正な」エージェントの活動が発見されたことが確認されました。このシステムがエージェント間の調整に使用された、またはデータが侵害されたという証拠は見つかりませんでした。",
           "recommend_reason_zh": null,
           "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
           "source": "Hacker News：AI 热帖",
@@ -361,7 +452,7 @@
           "id": "945a7163f87a0c0bb3f289c5df41b7aa6cb530ce",
           "title": "维基媒体项目中发现OpenAI“失控”代理的活动",
           "title_zh": "维基媒体项目中发现OpenAI“失控”代理的活动",
-          "title_ja": null,
+          "title_ja": "OpenAI「暴走」エージェントの活動がウィキメディアプロジェクトで発見される",
           "title_en": null,
           "title_original": "维基媒体项目中发现OpenAI“失控”代理的活动",
           "summary": null,
@@ -392,16 +483,16 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8185,
-      "importance": 0.8185,
-      "importance_score": 0.8185,
+      "score": 0.8034,
+      "importance": 0.8034,
+      "importance_score": 0.8034,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9053,
+        "recency": 0.8213,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -420,7 +511,7 @@
         "title_en": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
         "title_original": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
         "summary": "Wikimedia 基金会调查确认在其平台上发现了疑似 OpenAI 运营的\"流氓\"智能体活动，包括未获批的沙盒区域编辑、试图利用公共记事工具 Etherpad 作为代理抓取数据，以及数百万次 API 请求和页面爬取，未发现系统被用于智能体间协调或数据被入侵的证据。",
-        "summary_ja": null,
+        "summary_ja": "ウィキメディア財団による調査では、未承認のサンドボックス領域の編集、公開メモ作成ツールの Etherpad をデータ クロールのプロキシとして使用する試み、数百万件の API リクエストとページ クロールなど、OpenAI がそのプラットフォーム上で操作していると疑われる「不正な」エージェントの活動が発見されたことが確認されました。このシステムがエージェント間の調整に使用された、またはデータが侵害されたという証拠は見つかりませんでした。",
         "recommend_reason_zh": null,
         "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
         "source": "Hacker News：AI 热帖",
@@ -430,7 +521,187 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T01:12:57.075320Z"
+        "scored_at": "2026-10-06T07:33:49.788152Z"
+      }
+    },
+    {
+      "story_id": "story_ddb0edeec9f2",
+      "title": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
+      "title_ja": "DeepSeekはテンセントとCATLが大きく参加し、少なくとも800億元の資金調達完了に近づいていると報じられている",
+      "url": "https://www.ithome.com/1/009/990.htm",
+      "primary_url": "https://www.ithome.com/1/009/990.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "59e9dae79a50a0d38aa18f7cb7d8590f95b9cdf8",
+          "title": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
+          "title_zh": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
+          "title_ja": "DeepSeekはテンセントとCATLが大きく参加し、少なくとも800億元の資金調達完了に近づいていると報じられている",
+          "title_en": null,
+          "title_original": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
+          "summary": "据彭博社报道，DeepSeek 新一轮融资接近敲定，规模至少 800 亿元，超出原定约 500 亿元目标，最终总额可能逼近 1000 亿元，腾讯和宁德时代是出资规模最大的投资方之一。",
+          "summary_ja": "ブルームバーグによると、ディープシークの新たな資金調達ラウンドはほぼ完了に近づいており、その規模は当初目標の約500億元を超え、少なくとも800億元となり、最終的な総額は1000億元に近づく可能性がある。 Tencent と CATL は最大の投資家の 1 つです。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/1/009/990.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T06:25:15Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "59e9dae79a50a0d38aa18f7cb7d8590f95b9cdf8",
+          "title": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
+          "title_zh": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
+          "title_ja": "DeepSeekはテンセントとCATLが大きく参加し、少なくとも800億元の資金調達完了に近づいていると報じられている",
+          "title_en": null,
+          "title_original": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
+          "summary": "据彭博社报道，DeepSeek 新一轮融资接近敲定，规模至少 800 亿元，超出原定约 500 亿元目标，最终总额可能逼近 1000 亿元，腾讯和宁德时代是出资规模最大的投资方之一。",
+          "summary_ja": "ブルームバーグによると、ディープシークの新たな資金調達ラウンドはほぼ完了に近づいており、その規模は当初目標の約500億元を超え、少なくとも800億元となり、最終的な総額は1000億元に近づく可能性がある。 Tencent と CATL は最大の投資家の 1 つです。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/1/009/990.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T06:25:15Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7887,
+      "importance": 0.7887,
+      "importance_score": 0.7887,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.8,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9841,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-06T06:25:15Z",
+      "latest_at": "2026-10-06T06:25:15Z",
+      "primary_item": {
+        "id": "59e9dae79a50a0d38aa18f7cb7d8590f95b9cdf8",
+        "title": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
+        "title_zh": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
+        "title_ja": "DeepSeekはテンセントとCATLが大きく参加し、少なくとも800億元の資金調達完了に近づいていると報じられている",
+        "title_en": null,
+        "title_original": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
+        "summary": "据彭博社报道，DeepSeek 新一轮融资接近敲定，规模至少 800 亿元，超出原定约 500 亿元目标，最终总额可能逼近 1000 亿元，腾讯和宁德时代是出资规模最大的投资方之一。",
+        "summary_ja": "ブルームバーグによると、ディープシークの新たな資金調達ラウンドはほぼ完了に近づいており、その規模は当初目標の約500億元を超え、少なくとも800億元となり、最終的な総額は1000億元に近づく可能性がある。 Tencent と CATL は最大の投資家の 1 つです。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/1/009/990.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-06T07:33:49.788152Z"
+      }
+    },
+    {
+      "story_id": "story_e50a0152bcff",
+      "title": "Anthropic 5180亿美元计算力支出中约4137亿美元无论使用与否都需支付 / About 80% of Anthropic's $518B compute plan is owed even if the capacity sits idle.",
+      "title_ja": "Anthropic の 5,180 億ドルのコンピューティング プランの約 80% は、キャパシティがアイドル状態であっても支払われる必要があります。",
+      "url": "https://x.com/rohanpaul_ai/status/2107346890648076595",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2107346890648076595",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2747ef6e2e2821cdefdec11753d479ccf1559a95",
+          "title": "Anthropic 5180亿美元计算力支出中约4137亿美元无论使用与否都需支付 / About 80% of Anthropic's $518B compute plan is owed even if the capacity sits idle.",
+          "title_zh": "Anthropic 5180亿美元计算力支出中约4137亿美元无论使用与否都需支付",
+          "title_ja": "Anthropic の 5,180 億ドルのコンピューティング プランの約 80% は、キャパシティがアイドル状態であっても支払われる必要があります。",
+          "title_en": "About 80% of Anthropic's $518B compute plan is owed even if the capacity sits idle.",
+          "title_original": "About 80% of Anthropic's $518B compute plan is owed even if the capacity sits idle.",
+          "summary": "Anthropic 计划未来数年在云计算和计算力上支出 5180 亿美元，其中约 4137 亿美元为不可撤销承诺，即使容量闲置也需支付，平均每年约 410 亿美元。",
+          "summary_ja": "Anthropic は今後数年間でクラウドとコンピューティング能力に 5,180 億ドルを費やす予定で、そのうち約 4,137 億ドルは容量がアイドル状態であっても支払われる取消不能なコミットメントであり、年間平均約 410 億ドルです。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/rohanpaul_ai/status/2107346890648076595",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T05:47:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "items": [
+        {
+          "id": "2747ef6e2e2821cdefdec11753d479ccf1559a95",
+          "title": "Anthropic 5180亿美元计算力支出中约4137亿美元无论使用与否都需支付 / About 80% of Anthropic's $518B compute plan is owed even if the capacity sits idle.",
+          "title_zh": "Anthropic 5180亿美元计算力支出中约4137亿美元无论使用与否都需支付",
+          "title_ja": "Anthropic の 5,180 億ドルのコンピューティング プランの約 80% は、キャパシティがアイドル状態であっても支払われる必要があります。",
+          "title_en": "About 80% of Anthropic's $518B compute plan is owed even if the capacity sits idle.",
+          "title_original": "About 80% of Anthropic's $518B compute plan is owed even if the capacity sits idle.",
+          "summary": "Anthropic 计划未来数年在云计算和计算力上支出 5180 亿美元，其中约 4137 亿美元为不可撤销承诺，即使容量闲置也需支付，平均每年约 410 亿美元。",
+          "summary_ja": "Anthropic は今後数年間でクラウドとコンピューティング能力に 5,180 億ドルを費やす予定で、そのうち約 4,137 億ドルは容量がアイドル状態であっても支払われる取消不能なコミットメントであり、年間平均約 410 億ドルです。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/rohanpaul_ai/status/2107346890648076595",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T05:47:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7781,
+      "importance": 0.7781,
+      "importance_score": 0.7781,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9751,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-06T05:47:05Z",
+      "latest_at": "2026-10-06T05:47:05Z",
+      "primary_item": {
+        "id": "2747ef6e2e2821cdefdec11753d479ccf1559a95",
+        "title": "Anthropic 5180亿美元计算力支出中约4137亿美元无论使用与否都需支付 / About 80% of Anthropic's $518B compute plan is owed even if the capacity sits idle.",
+        "title_zh": "Anthropic 5180亿美元计算力支出中约4137亿美元无论使用与否都需支付",
+        "title_ja": "Anthropic の 5,180 億ドルのコンピューティング プランの約 80% は、キャパシティがアイドル状態であっても支払われる必要があります。",
+        "title_en": "About 80% of Anthropic's $518B compute plan is owed even if the capacity sits idle.",
+        "title_original": "About 80% of Anthropic's $518B compute plan is owed even if the capacity sits idle.",
+        "summary": "Anthropic 计划未来数年在云计算和计算力上支出 5180 亿美元，其中约 4137 亿美元为不可撤销承诺，即使容量闲置也需支付，平均每年约 410 亿美元。",
+        "summary_ja": "Anthropic は今後数年間でクラウドとコンピューティング能力に 5,180 億ドルを費やす予定で、そのうち約 4,137 億ドルは容量がアイドル状態であっても支払われる取消不能なコミットメントであり、年間平均約 410 億ドルです。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/rohanpaul_ai/status/2107346890648076595",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-06T07:33:49.788152Z"
       }
     },
     {
@@ -483,16 +754,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8174,
-      "importance": 0.8174,
-      "importance_score": 0.8174,
+      "score": 0.8039,
+      "importance": 0.8039,
+      "importance_score": 0.8039,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8078,
+        "recency": 0.7328,
         "story_heat": 0.0
       },
       "category": "official",
@@ -521,13 +792,192 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T01:12:57.075320Z"
+        "scored_at": "2026-10-06T07:33:49.788152Z"
+      }
+    },
+    {
+      "story_id": "story_b9170f476686",
+      "title": "卡兹克解读 A16Z 两份 AI 报告：AI 使用很广但用得还浅，头部 1% 用户月均花 903 美元",
+      "title_ja": "Kazik は、A16Z の 2 つの AI レポートを解釈します。AI は広く使用されていますが、まだ浅く、ユーザーの上位 1% は月平均 903 ドルを費やしています。",
+      "url": "https://x.com/Khazix0918/status/2107297777583825359",
+      "primary_url": "https://x.com/Khazix0918/status/2107297777583825359",
+      "source": "X：卡兹克 (@Khazix0918)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c9a673d6e65e64c99d578906d5fd5117eed00424",
+          "title": "卡兹克解读 A16Z 两份 AI 报告：AI 使用很广但用得还浅，头部 1% 用户月均花 903 美元",
+          "title_zh": "卡兹克解读 A16Z 两份 AI 报告：AI 使用很广但用得还浅，头部 1% 用户月均花 903 美元",
+          "title_ja": "Kazik は、A16Z の 2 つの AI レポートを解釈します。AI は広く使用されていますが、まだ浅く、ユーザーの上位 1% は月平均 903 ドルを費やしています。",
+          "title_en": null,
+          "title_original": "卡兹克解读 A16Z 两份 AI 报告：AI 使用很广但用得还浅，头部 1% 用户月均花 903 美元",
+          "summary": "作者解读 A16Z 第七版《Top 100 消费级 AI 应用》和 90 多页的《市场状况 II》报告，指出反常识数据。美国近一半人用过 AI 但只有 25% 每天在用，截至 2026 年 8 月仅 4.5% 有 ChatGPT、Gemini 或 Claude 个人付费订阅；付费用户中头部 1% 月均消费 903 美元、贡献 19.5% 的全部消费。",
+          "summary_ja": "The author interprets the seventh edition of A16Z's \"Top 100 Consumer AI Applications\" and the more than 90-page \"Market State II\" report, pointing out counterintuitive data.米国では人口の半数近くが AI を使用したことがありますが、毎日使用している人は 25% のみです。 2026 年 8 月の時点で、ChatGPT、Gemini、または Claude の個人有料サブスクリプションを持っているのは 4.5% のみです。有料ユーザーの上位 1% は月平均 903 米ドルを消費し、全消費量の 19.5% を占めています。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/Khazix0918/status/2107297777583825359",
+          "source": "X：卡兹克 (@Khazix0918)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T02:31:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：卡兹克 (@Khazix0918)"
+      ],
+      "items": [
+        {
+          "id": "c9a673d6e65e64c99d578906d5fd5117eed00424",
+          "title": "卡兹克解读 A16Z 两份 AI 报告：AI 使用很广但用得还浅，头部 1% 用户月均花 903 美元",
+          "title_zh": "卡兹克解读 A16Z 两份 AI 报告：AI 使用很广但用得还浅，头部 1% 用户月均花 903 美元",
+          "title_ja": "Kazik は、A16Z の 2 つの AI レポートを解釈します。AI は広く使用されていますが、まだ浅く、ユーザーの上位 1% は月平均 903 ドルを費やしています。",
+          "title_en": null,
+          "title_original": "卡兹克解读 A16Z 两份 AI 报告：AI 使用很广但用得还浅，头部 1% 用户月均花 903 美元",
+          "summary": "作者解读 A16Z 第七版《Top 100 消费级 AI 应用》和 90 多页的《市场状况 II》报告，指出反常识数据。美国近一半人用过 AI 但只有 25% 每天在用，截至 2026 年 8 月仅 4.5% 有 ChatGPT、Gemini 或 Claude 个人付费订阅；付费用户中头部 1% 月均消费 903 美元、贡献 19.5% 的全部消费。",
+          "summary_ja": "The author interprets the seventh edition of A16Z's \"Top 100 Consumer AI Applications\" and the more than 90-page \"Market State II\" report, pointing out counterintuitive data.米国では人口の半数近くが AI を使用したことがありますが、毎日使用している人は 25% のみです。 2026 年 8 月の時点で、ChatGPT、Gemini、または Claude の個人有料サブスクリプションを持っているのは 4.5% のみです。有料ユーザーの上位 1% は月平均 903 米ドルを消費し、全消費量の 19.5% を占めています。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/Khazix0918/status/2107297777583825359",
+          "source": "X：卡兹克 (@Khazix0918)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T02:31:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9304,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-06T02:31:56Z",
+      "latest_at": "2026-10-06T02:31:56Z",
+      "primary_item": {
+        "id": "c9a673d6e65e64c99d578906d5fd5117eed00424",
+        "title": "卡兹克解读 A16Z 两份 AI 报告：AI 使用很广但用得还浅，头部 1% 用户月均花 903 美元",
+        "title_zh": "卡兹克解读 A16Z 两份 AI 报告：AI 使用很广但用得还浅，头部 1% 用户月均花 903 美元",
+        "title_ja": "Kazik は、A16Z の 2 つの AI レポートを解釈します。AI は広く使用されていますが、まだ浅く、ユーザーの上位 1% は月平均 903 ドルを費やしています。",
+        "title_en": null,
+        "title_original": "卡兹克解读 A16Z 两份 AI 报告：AI 使用很广但用得还浅，头部 1% 用户月均花 903 美元",
+        "summary": "作者解读 A16Z 第七版《Top 100 消费级 AI 应用》和 90 多页的《市场状况 II》报告，指出反常识数据。美国近一半人用过 AI 但只有 25% 每天在用，截至 2026 年 8 月仅 4.5% 有 ChatGPT、Gemini 或 Claude 个人付费订阅；付费用户中头部 1% 月均消费 903 美元、贡献 19.5% 的全部消费。",
+        "summary_ja": "The author interprets the seventh edition of A16Z's \"Top 100 Consumer AI Applications\" and the more than 90-page \"Market State II\" report, pointing out counterintuitive data.米国では人口の半数近くが AI を使用したことがありますが、毎日使用している人は 25% のみです。 2026 年 8 月の時点で、ChatGPT、Gemini、または Claude の個人有料サブスクリプションを持っているのは 4.5% のみです。有料ユーザーの上位 1% は月平均 903 米ドルを消費し、全消費量の 19.5% を占めています。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/Khazix0918/status/2107297777583825359",
+        "source": "X：卡兹克 (@Khazix0918)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-06T07:33:49.788152Z"
+      }
+    },
+    {
+      "story_id": "story_6d96ce488e8a",
+      "title": "Reflection 发布 501B-A23B 开源编码模型 Beam / [AINews] Reflection Beam - 501B-A23B American Open Model",
+      "title_ja": "[AINews] リフレクションビーム - 501B-A23B アメリカンオープンモデル",
+      "url": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
+      "primary_url": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
+      "source": "Latent Space（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "3e5236252ad5fe9feb7411f79fb2ff4fe5fb1b64",
+          "title": "Reflection 发布 501B-A23B 开源编码模型 Beam / [AINews] Reflection Beam - 501B-A23B American Open Model",
+          "title_zh": "Reflection 发布 501B-A23B 开源编码模型 Beam",
+          "title_ja": "[AINews] リフレクションビーム - 501B-A23B アメリカンオープンモデル",
+          "title_en": "[AINews] Reflection Beam - 501B-A23B American Open Model",
+          "title_original": "[AINews] Reflection Beam - 501B-A23B American Open Model",
+          "summary": "Reflection 发布文本-only 的 501B 总参数 / 23B 激活 MoE 模型 Beam，面向编码、智能体和科学任务，从零训练，完整权重将在本月以 Apache 2.0 发布。",
+          "summary_ja": "Reflection は、テキストのみの 501B の合計パラメーター / 23B のアクティベーション MoE モデル Beam をリリースします。これはコーディング、エージェント、および科学タスク向けで、ゼロからトレーニングされ、今月 Apache 2.0 でリリースされる予定です。",
+          "recommend_reason_zh": null,
+          "url": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
+          "source": "Latent Space（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T06:28:43Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Latent Space（RSS）"
+      ],
+      "items": [
+        {
+          "id": "3e5236252ad5fe9feb7411f79fb2ff4fe5fb1b64",
+          "title": "Reflection 发布 501B-A23B 开源编码模型 Beam / [AINews] Reflection Beam - 501B-A23B American Open Model",
+          "title_zh": "Reflection 发布 501B-A23B 开源编码模型 Beam",
+          "title_ja": "[AINews] リフレクションビーム - 501B-A23B アメリカンオープンモデル",
+          "title_en": "[AINews] Reflection Beam - 501B-A23B American Open Model",
+          "title_original": "[AINews] Reflection Beam - 501B-A23B American Open Model",
+          "summary": "Reflection 发布文本-only 的 501B 总参数 / 23B 激活 MoE 模型 Beam，面向编码、智能体和科学任务，从零训练，完整权重将在本月以 Apache 2.0 发布。",
+          "summary_ja": "Reflection は、テキストのみの 501B の合計パラメーター / 23B のアクティベーション MoE モデル Beam をリリースします。これはコーディング、エージェント、および科学タスク向けで、ゼロからトレーニングされ、今月 Apache 2.0 でリリースされる予定です。",
+          "recommend_reason_zh": null,
+          "url": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
+          "source": "Latent Space（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T06:28:43Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7469,
+      "importance": 0.7469,
+      "importance_score": 0.7469,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.985,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-06T06:28:43Z",
+      "latest_at": "2026-10-06T06:28:43Z",
+      "primary_item": {
+        "id": "3e5236252ad5fe9feb7411f79fb2ff4fe5fb1b64",
+        "title": "Reflection 发布 501B-A23B 开源编码模型 Beam / [AINews] Reflection Beam - 501B-A23B American Open Model",
+        "title_zh": "Reflection 发布 501B-A23B 开源编码模型 Beam",
+        "title_ja": "[AINews] リフレクションビーム - 501B-A23B アメリカンオープンモデル",
+        "title_en": "[AINews] Reflection Beam - 501B-A23B American Open Model",
+        "title_original": "[AINews] Reflection Beam - 501B-A23B American Open Model",
+        "summary": "Reflection 发布文本-only 的 501B 总参数 / 23B 激活 MoE 模型 Beam，面向编码、智能体和科学任务，从零训练，完整权重将在本月以 Apache 2.0 发布。",
+        "summary_ja": "Reflection は、テキストのみの 501B の合計パラメーター / 23B のアクティベーション MoE モデル Beam をリリースします。これはコーディング、エージェント、および科学タスク向けで、ゼロからトレーニングされ、今月 Apache 2.0 でリリースされる予定です。",
+        "recommend_reason_zh": null,
+        "url": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
+        "source": "Latent Space（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-06T07:33:49.788152Z"
       }
     },
     {
       "story_id": "story_874feeef6ecb",
       "title": "卡兹克解读A16Z两份AI报告，AI使用广但付费和深度仍小众",
-      "title_ja": null,
+      "title_ja": "Kazik は A16Z の 2 つの AI レポートを解釈します。 AI は広く使用されていますが、決済と深さはまだニッチです。",
       "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686876&idx=1&sn=55c719c9dded44507dbd2a000a2ec5a7",
       "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686876&idx=1&sn=55c719c9dded44507dbd2a000a2ec5a7",
       "source": "公众号：数字生命卡兹克",
@@ -537,11 +987,11 @@
           "id": "0c59abf680fe79a36ddbefdc88193c9be8071cdf",
           "title": "卡兹克解读A16Z两份AI报告，AI使用广但付费和深度仍小众",
           "title_zh": "卡兹克解读A16Z两份AI报告，AI使用广但付费和深度仍小众",
-          "title_ja": null,
+          "title_ja": "Kazik は A16Z の 2 つの AI レポートを解釈します。 AI は広く使用されていますが、決済と深さはまだニッチです。",
           "title_en": null,
           "title_original": "卡兹克解读A16Z两份AI报告，AI使用广但付费和深度仍小众",
           "summary": "作者解读A16Z第七版《Top 100 消费级 AI 应用》和90多页的《市场状况 II》报告，指出美国近一半人用过AI但仅25%每天使用，ChatGPT、Gemini或Claude个人付费订阅率仅4.5%，标普500公司只有2%长期追踪AI价值指标。",
-          "summary_ja": null,
+          "summary_ja": "著者は、A16Zの「消費者向けAIアプリケーショントップ100」の第7版と90ページを超える「市場の現状II」レポートを解釈し、米国の人口のほぼ半数がAIを使用したことがあるが、毎日使用しているのはわずか25％、ChatGPT、Gemini、またはClaudeの個人有料購読率はわずか4.5％、S&P 500企業のうちAIの価値指標を長期的に追跡しているのはわずか2％であることを指摘している。",
           "recommend_reason_zh": null,
           "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686876&idx=1&sn=55c719c9dded44507dbd2a000a2ec5a7",
           "source": "公众号：数字生命卡兹克",
@@ -559,11 +1009,11 @@
           "id": "0c59abf680fe79a36ddbefdc88193c9be8071cdf",
           "title": "卡兹克解读A16Z两份AI报告，AI使用广但付费和深度仍小众",
           "title_zh": "卡兹克解读A16Z两份AI报告，AI使用广但付费和深度仍小众",
-          "title_ja": null,
+          "title_ja": "Kazik は A16Z の 2 つの AI レポートを解釈します。 AI は広く使用されていますが、決済と深さはまだニッチです。",
           "title_en": null,
           "title_original": "卡兹克解读A16Z两份AI报告，AI使用广但付费和深度仍小众",
           "summary": "作者解读A16Z第七版《Top 100 消费级 AI 应用》和90多页的《市场状况 II》报告，指出美国近一半人用过AI但仅25%每天使用，ChatGPT、Gemini或Claude个人付费订阅率仅4.5%，标普500公司只有2%长期追踪AI价值指标。",
-          "summary_ja": null,
+          "summary_ja": "著者は、A16Zの「消費者向けAIアプリケーショントップ100」の第7版と90ページを超える「市場の現状II」レポートを解釈し、米国の人口のほぼ半数がAIを使用したことがあるが、毎日使用しているのはわずか25％、ChatGPT、Gemini、またはClaudeの個人有料購読率はわずか4.5％、S&P 500企業のうちAIの価値指標を長期的に追跡しているのはわずか2％であることを指摘している。",
           "recommend_reason_zh": null,
           "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686876&idx=1&sn=55c719c9dded44507dbd2a000a2ec5a7",
           "source": "公众号：数字生命卡兹克",
@@ -574,22 +1024,21 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7633,
-      "importance": 0.7633,
-      "importance_score": 0.7633,
+      "score": 0.7468,
+      "importance": 0.7468,
+      "importance_score": 0.7468,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.993,
+        "recency": 0.9009,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-06T00:18:00Z",
       "latest_at": "2026-10-06T00:18:00Z",
@@ -597,11 +1046,11 @@
         "id": "0c59abf680fe79a36ddbefdc88193c9be8071cdf",
         "title": "卡兹克解读A16Z两份AI报告，AI使用广但付费和深度仍小众",
         "title_zh": "卡兹克解读A16Z两份AI报告，AI使用广但付费和深度仍小众",
-        "title_ja": null,
+        "title_ja": "Kazik は A16Z の 2 つの AI レポートを解釈します。 AI は広く使用されていますが、決済と深さはまだニッチです。",
         "title_en": null,
         "title_original": "卡兹克解读A16Z两份AI报告，AI使用广但付费和深度仍小众",
         "summary": "作者解读A16Z第七版《Top 100 消费级 AI 应用》和90多页的《市场状况 II》报告，指出美国近一半人用过AI但仅25%每天使用，ChatGPT、Gemini或Claude个人付费订阅率仅4.5%，标普500公司只有2%长期追踪AI价值指标。",
-        "summary_ja": null,
+        "summary_ja": "著者は、A16Zの「消費者向けAIアプリケーショントップ100」の第7版と90ページを超える「市場の現状II」レポートを解釈し、米国の人口のほぼ半数がAIを使用したことがあるが、毎日使用しているのはわずか25％、ChatGPT、Gemini、またはClaudeの個人有料購読率はわずか4.5％、S&P 500企業のうちAIの価値指標を長期的に追跡しているのはわずか2％であることを指摘している。",
         "recommend_reason_zh": null,
         "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686876&idx=1&sn=55c719c9dded44507dbd2a000a2ec5a7",
         "source": "公众号：数字生命卡兹克",
@@ -611,13 +1060,13 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T01:12:57.075320Z"
+        "scored_at": "2026-10-06T07:33:49.788152Z"
       }
     },
     {
       "story_id": "story_651dc5458423",
       "title": "SemiAnalysis 测算：Anthropic 订阅的 API 等价价值约为 OpenAI 的 5 倍以上 / Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
-      "title_ja": null,
+      "title_ja": "Anthropic サブスクリプションは OpenAI の 5 倍以上の価値を提供します",
       "url": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
       "primary_url": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
       "source": "SemiAnalysis 长文 RSS（RSS）",
@@ -627,11 +1076,11 @@
           "id": "b906c87e1be812fa3e77f08e9b3992962674d815",
           "title": "SemiAnalysis 测算：Anthropic 订阅的 API 等价价值约为 OpenAI 的 5 倍以上 / Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
           "title_zh": "SemiAnalysis 测算：Anthropic 订阅的 API 等价价值约为 OpenAI 的 5 倍以上",
-          "title_ja": null,
+          "title_ja": "Anthropic サブスクリプションは OpenAI の 5 倍以上の価値を提供します",
           "title_en": "Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
           "title_original": "Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
           "summary": "SemiAnalysis 通过逐项测量用量表变化，估算各订阅计划的 API 等价价值，结论是在中端模型档位 Anthropic 订阅的价值约为 OpenAI 的 5 倍。",
-          "summary_ja": null,
+          "summary_ja": "セミアナリシスは、利用状況表の推移を項目ごとに測定することで各サブスクリプションプランのAPI相当価値を推計し、ミッドレンジモデル範囲のAnthropicサブスクリプションの価値はOpenAIの約5倍であると結論付けた。",
           "recommend_reason_zh": null,
           "url": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
           "source": "SemiAnalysis 长文 RSS（RSS）",
@@ -649,11 +1098,11 @@
           "id": "b906c87e1be812fa3e77f08e9b3992962674d815",
           "title": "SemiAnalysis 测算：Anthropic 订阅的 API 等价价值约为 OpenAI 的 5 倍以上 / Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
           "title_zh": "SemiAnalysis 测算：Anthropic 订阅的 API 等价价值约为 OpenAI 的 5 倍以上",
-          "title_ja": null,
+          "title_ja": "Anthropic サブスクリプションは OpenAI の 5 倍以上の価値を提供します",
           "title_en": "Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
           "title_original": "Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
           "summary": "SemiAnalysis 通过逐项测量用量表变化，估算各订阅计划的 API 等价价值，结论是在中端模型档位 Anthropic 订阅的价值约为 OpenAI 的 5 倍。",
-          "summary_ja": null,
+          "summary_ja": "セミアナリシスは、利用状況表の推移を項目ごとに測定することで各サブスクリプションプランのAPI相当価値を推計し、ミッドレンジモデル範囲のAnthropicサブスクリプションの価値はOpenAIの約5倍であると結論付けた。",
           "recommend_reason_zh": null,
           "url": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
           "source": "SemiAnalysis 长文 RSS（RSS）",
@@ -664,22 +1113,21 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7526,
-      "importance": 0.7526,
-      "importance_score": 0.7526,
+      "score": 0.737,
+      "importance": 0.737,
+      "importance_score": 0.737,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9335,
+        "recency": 0.8469,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-05T20:01:09Z",
       "latest_at": "2026-10-05T20:01:09Z",
@@ -687,11 +1135,11 @@
         "id": "b906c87e1be812fa3e77f08e9b3992962674d815",
         "title": "SemiAnalysis 测算：Anthropic 订阅的 API 等价价值约为 OpenAI 的 5 倍以上 / Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
         "title_zh": "SemiAnalysis 测算：Anthropic 订阅的 API 等价价值约为 OpenAI 的 5 倍以上",
-        "title_ja": null,
+        "title_ja": "Anthropic サブスクリプションは OpenAI の 5 倍以上の価値を提供します",
         "title_en": "Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
         "title_original": "Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
         "summary": "SemiAnalysis 通过逐项测量用量表变化，估算各订阅计划的 API 等价价值，结论是在中端模型档位 Anthropic 订阅的价值约为 OpenAI 的 5 倍。",
-        "summary_ja": null,
+        "summary_ja": "セミアナリシスは、利用状況表の推移を項目ごとに測定することで各サブスクリプションプランのAPI相当価値を推計し、ミッドレンジモデル範囲のAnthropicサブスクリプションの価値はOpenAIの約5倍であると結論付けた。",
         "recommend_reason_zh": null,
         "url": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
         "source": "SemiAnalysis 长文 RSS（RSS）",
@@ -701,96 +1149,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T01:12:57.075320Z"
-      }
-    },
-    {
-      "story_id": "story_549df6d3483f",
-      "title": "Anthropic Cowork 改为云端运行模型推理与 VM / Quoting Felix Rieseberg",
-      "title_ja": null,
-      "url": "https://simonwillison.net/2026/Oct/5/felix-rieseberg",
-      "primary_url": "https://simonwillison.net/2026/Oct/5/felix-rieseberg",
-      "source": "Simon Willison 博客",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "cb0cddb76e30c17e18f4721998588c248f390c4c",
-          "title": "Anthropic Cowork 改为云端运行模型推理与 VM / Quoting Felix Rieseberg",
-          "title_zh": "Anthropic Cowork 改为云端运行模型推理与 VM",
-          "title_ja": null,
-          "title_en": "Quoting Felix Rieseberg",
-          "title_original": "Quoting Felix Rieseberg",
-          "summary": "Anthropic 工程师 Felix Rieseberg 说明 Cowork 的新旧架构差异：旧版在云端推理、在用户电脑上运行本地 VM，磁盘、电池和性能开销大，合上笔记本工作就停止。新版把模型推理和 VM 都移到云端，每个会话有独立沙盒，桌面应用只负责文件访问等需要本机设备的工具调用，官方认为这解决了手机使用、保持工作运行和电池消耗等问题。",
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://simonwillison.net/2026/Oct/5/felix-rieseberg",
-          "source": "Simon Willison 博客",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-05T23:56:47Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Simon Willison 博客"
-      ],
-      "items": [
-        {
-          "id": "cb0cddb76e30c17e18f4721998588c248f390c4c",
-          "title": "Anthropic Cowork 改为云端运行模型推理与 VM / Quoting Felix Rieseberg",
-          "title_zh": "Anthropic Cowork 改为云端运行模型推理与 VM",
-          "title_ja": null,
-          "title_en": "Quoting Felix Rieseberg",
-          "title_original": "Quoting Felix Rieseberg",
-          "summary": "Anthropic 工程师 Felix Rieseberg 说明 Cowork 的新旧架构差异：旧版在云端推理、在用户电脑上运行本地 VM，磁盘、电池和性能开销大，合上笔记本工作就停止。新版把模型推理和 VM 都移到云端，每个会话有独立沙盒，桌面应用只负责文件访问等需要本机设备的工具调用，官方认为这解决了手机使用、保持工作运行和电池消耗等问题。",
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://simonwillison.net/2026/Oct/5/felix-rieseberg",
-          "source": "Simon Willison 博客",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-05T23:56:47Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7324,
-      "importance": 0.7324,
-      "importance_score": 0.7324,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.61,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.988,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-05T23:56:47Z",
-      "latest_at": "2026-10-05T23:56:47Z",
-      "primary_item": {
-        "id": "cb0cddb76e30c17e18f4721998588c248f390c4c",
-        "title": "Anthropic Cowork 改为云端运行模型推理与 VM / Quoting Felix Rieseberg",
-        "title_zh": "Anthropic Cowork 改为云端运行模型推理与 VM",
-        "title_ja": null,
-        "title_en": "Quoting Felix Rieseberg",
-        "title_original": "Quoting Felix Rieseberg",
-        "summary": "Anthropic 工程师 Felix Rieseberg 说明 Cowork 的新旧架构差异：旧版在云端推理、在用户电脑上运行本地 VM，磁盘、电池和性能开销大，合上笔记本工作就停止。新版把模型推理和 VM 都移到云端，每个会话有独立沙盒，桌面应用只负责文件访问等需要本机设备的工具调用，官方认为这解决了手机使用、保持工作运行和电池消耗等问题。",
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://simonwillison.net/2026/Oct/5/felix-rieseberg",
-        "source": "Simon Willison 博客",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-06T01:12:57.075320Z"
+        "scored_at": "2026-10-06T07:33:49.788152Z"
       }
     },
     {
@@ -876,16 +1235,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6267,
-      "importance": 0.6267,
-      "importance_score": 0.6267,
+      "score": 0.6129,
+      "importance": 0.6129,
+      "importance_score": 0.6129,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.58,
         "ai_relevance": 0.78,
-        "recency": 0.8314,
+        "recency": 0.7543,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -912,13 +1271,13 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T01:12:57.075320Z"
+        "scored_at": "2026-10-06T07:33:49.788152Z"
       }
     },
     {
       "story_id": "story_a886b790c2de",
-      "title": "Gemini Call for Me might tell your mom you&#8217;re running late",
-      "title_ja": null,
+      "title": "Gemini打电话给我可能会告诉你妈妈你迟到了 / Gemini Call for Me might tell your mom you&#8217;re running late",
+      "title_ja": "ジェミニの「Call for Me」はお母さんに遅れそうなことを伝えるかもしれません",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
       "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
       "source": "The Verge",
@@ -926,9 +1285,9 @@
       "sources": [
         {
           "id": "9f50ea291113227861db0a922f6ccf9a1d899eae",
-          "title": "Gemini Call for Me might tell your mom you&#8217;re running late",
-          "title_zh": null,
-          "title_ja": null,
+          "title": "Gemini打电话给我可能会告诉你妈妈你迟到了 / Gemini Call for Me might tell your mom you&#8217;re running late",
+          "title_zh": "Gemini打电话给我可能会告诉你妈妈你迟到了",
+          "title_ja": "ジェミニの「Call for Me」はお母さんに遅れそうなことを伝えるかもしれません",
           "title_en": "Gemini Call for Me might tell your mom you&#8217;re running late",
           "title_original": "Gemini Call for Me might tell your mom you&#8217;re running late",
           "summary": null,
@@ -942,9 +1301,9 @@
         },
         {
           "id": "afc87f46d15bdc51d47afd10a55a7d6d683340fd",
-          "title": "Gemini Call for Me might tell your mom you’re running late",
-          "title_zh": null,
-          "title_ja": null,
+          "title": "Gemini打电话给我可能会告诉你妈妈你迟到了 / Gemini Call for Me might tell your mom you’re running late",
+          "title_zh": "Gemini打电话给我可能会告诉你妈妈你迟到了",
+          "title_ja": "ジェミニの「Call for Me」はお母さんに遅れそうなことを伝えるかもしれません",
           "title_en": "Gemini Call for Me might tell your mom you’re running late",
           "title_original": "Gemini Call for Me might tell your mom you’re running late",
           "summary": null,
@@ -964,9 +1323,9 @@
       "items": [
         {
           "id": "9f50ea291113227861db0a922f6ccf9a1d899eae",
-          "title": "Gemini Call for Me might tell your mom you&#8217;re running late",
-          "title_zh": null,
-          "title_ja": null,
+          "title": "Gemini打电话给我可能会告诉你妈妈你迟到了 / Gemini Call for Me might tell your mom you&#8217;re running late",
+          "title_zh": "Gemini打电话给我可能会告诉你妈妈你迟到了",
+          "title_ja": "ジェミニの「Call for Me」はお母さんに遅れそうなことを伝えるかもしれません",
           "title_en": "Gemini Call for Me might tell your mom you&#8217;re running late",
           "title_original": "Gemini Call for Me might tell your mom you&#8217;re running late",
           "summary": null,
@@ -980,9 +1339,9 @@
         },
         {
           "id": "afc87f46d15bdc51d47afd10a55a7d6d683340fd",
-          "title": "Gemini Call for Me might tell your mom you’re running late",
-          "title_zh": null,
-          "title_ja": null,
+          "title": "Gemini打电话给我可能会告诉你妈妈你迟到了 / Gemini Call for Me might tell your mom you’re running late",
+          "title_zh": "Gemini打电话给我可能会告诉你妈妈你迟到了",
+          "title_ja": "ジェミニの「Call for Me」はお母さんに遅れそうなことを伝えるかもしれません",
           "title_en": "Gemini Call for Me might tell your mom you’re running late",
           "title_original": "Gemini Call for Me might tell your mom you’re running late",
           "summary": null,
@@ -997,16 +1356,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6238,
-      "importance": 0.6238,
-      "importance_score": 0.6238,
+      "score": 0.6075,
+      "importance": 0.6075,
+      "importance_score": 0.6075,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.9769,
+        "recency": 0.8862,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1017,9 +1376,9 @@
       "latest_at": "2026-10-05T23:09:55Z",
       "primary_item": {
         "id": "9f50ea291113227861db0a922f6ccf9a1d899eae",
-        "title": "Gemini Call for Me might tell your mom you&#8217;re running late",
-        "title_zh": null,
-        "title_ja": null,
+        "title": "Gemini打电话给我可能会告诉你妈妈你迟到了 / Gemini Call for Me might tell your mom you&#8217;re running late",
+        "title_zh": "Gemini打电话给我可能会告诉你妈妈你迟到了",
+        "title_ja": "ジェミニの「Call for Me」はお母さんに遅れそうなことを伝えるかもしれません",
         "title_en": "Gemini Call for Me might tell your mom you&#8217;re running late",
         "title_original": "Gemini Call for Me might tell your mom you&#8217;re running late",
         "summary": null,
@@ -1033,7 +1392,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T01:12:57.075320Z"
+        "scored_at": "2026-10-06T07:33:49.788152Z"
       }
     },
     {
@@ -1119,16 +1478,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6126,
-      "importance": 0.6126,
-      "importance_score": 0.6126,
+      "score": 0.5985,
+      "importance": 0.5985,
+      "importance_score": 0.5985,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.5328,
         "source_tier": 0.58,
         "ai_relevance": 0.74,
-        "recency": 0.8455,
+        "recency": 0.7671,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1155,13 +1514,168 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T01:12:57.075320Z"
+        "scored_at": "2026-10-06T07:33:49.788152Z"
+      }
+    },
+    {
+      "story_id": "story_28fb0368d56f",
+      "title": "Dust：无需反向传播的Transformer预训练",
+      "title_ja": "Dust: バックプロパゲーションを使用しないトランスフォーマーの事前トレーニング",
+      "url": "https://qlabs.sh/research/dust",
+      "primary_url": "https://qlabs.sh/research/dust",
+      "source": "qlabs.sh",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "6abc950411f12d66528f0bb68255022157286bbb",
+          "title": "Dust：无需反向传播的Transformer预训练",
+          "title_zh": "Dust：无需反向传播的Transformer预训练",
+          "title_ja": "Dust: バックプロパゲーションを使用しないトランスフォーマーの事前トレーニング",
+          "title_en": null,
+          "title_original": "Dust：无需反向传播的Transformer预训练",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://qlabs.sh/research/dust",
+          "source": "qlabs.sh",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-06T02:07:52.842000Z"
+        },
+        {
+          "id": "e3a8211c35b9804f3ac5076228b60f7a685091f2",
+          "title": "Dust：无需反向传播的Transformer预训练 / Dust: Pretraining Transformers Without Backpropagation",
+          "title_zh": "Dust：无需反向传播的Transformer预训练",
+          "title_ja": "Dust: バックプロパゲーションを使用しないトランスフォーマーの事前トレーニング",
+          "title_en": "Dust: Pretraining Transformers Without Backpropagation",
+          "title_original": "Dust: Pretraining Transformers Without Backpropagation",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://qlabs.sh/research/dust",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-05T21:15:07Z"
+        },
+        {
+          "id": "7389c431f138003ff1424c3abc0027a58665a484",
+          "title": "Dust：在没有反向传播的情况下预训练 Transformer / Dust: Pretraining Transformers Without Backpropagation",
+          "title_zh": "Dust：在没有反向传播的情况下预训练 Transformer",
+          "title_ja": "Dust: バックプロパゲーションを使用しないトランスフォーマーの事前トレーニング",
+          "title_en": "Dust: Pretraining Transformers Without Backpropagation",
+          "title_original": "Dust: Pretraining Transformers Without Backpropagation",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49970871",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-05T21:15:07Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "qlabs.sh"
+      ],
+      "items": [
+        {
+          "id": "6abc950411f12d66528f0bb68255022157286bbb",
+          "title": "Dust：无需反向传播的Transformer预训练",
+          "title_zh": "Dust：无需反向传播的Transformer预训练",
+          "title_ja": "Dust: バックプロパゲーションを使用しないトランスフォーマーの事前トレーニング",
+          "title_en": null,
+          "title_original": "Dust：无需反向传播的Transformer预训练",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://qlabs.sh/research/dust",
+          "source": "qlabs.sh",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-06T02:07:52.842000Z"
+        },
+        {
+          "id": "e3a8211c35b9804f3ac5076228b60f7a685091f2",
+          "title": "Dust：无需反向传播的Transformer预训练 / Dust: Pretraining Transformers Without Backpropagation",
+          "title_zh": "Dust：无需反向传播的Transformer预训练",
+          "title_ja": "Dust: バックプロパゲーションを使用しないトランスフォーマーの事前トレーニング",
+          "title_en": "Dust: Pretraining Transformers Without Backpropagation",
+          "title_original": "Dust: Pretraining Transformers Without Backpropagation",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://qlabs.sh/research/dust",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-05T21:15:07Z"
+        },
+        {
+          "id": "7389c431f138003ff1424c3abc0027a58665a484",
+          "title": "Dust：在没有反向传播的情况下预训练 Transformer / Dust: Pretraining Transformers Without Backpropagation",
+          "title_zh": "Dust：在没有反向传播的情况下预训练 Transformer",
+          "title_ja": "Dust: バックプロパゲーションを使用しないトランスフォーマーの事前トレーニング",
+          "title_en": "Dust: Pretraining Transformers Without Backpropagation",
+          "title_original": "Dust: Pretraining Transformers Without Backpropagation",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49970871",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-05T21:15:07Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5573,
+      "importance": 0.5573,
+      "importance_score": 0.5573,
+      "importance_label": "多源热议",
+      "importance_label_ja": "複数ソースで話題",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.925,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-05T21:15:07Z",
+      "latest_at": "2026-10-06T02:07:52.842000Z",
+      "primary_item": {
+        "id": "6abc950411f12d66528f0bb68255022157286bbb",
+        "title": "Dust：无需反向传播的Transformer预训练",
+        "title_zh": "Dust：无需反向传播的Transformer预训练",
+        "title_ja": "Dust: バックプロパゲーションを使用しないトランスフォーマーの事前トレーニング",
+        "title_en": null,
+        "title_original": "Dust：无需反向传播的Transformer预训练",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://qlabs.sh/research/dust",
+        "source": "qlabs.sh",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-06T07:33:49.788152Z"
       }
     },
     {
       "story_id": "story_e679b691cbbf",
       "title": "ChatGPT正在将真实漫画家的签名添加到伪造的《纽约客》漫画中",
-      "title_ja": null,
+      "title_ja": "ChatGPT は偽のニューヨーカー漫画に本物の漫画家の署名を追加しています",
       "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons",
       "primary_url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons",
       "source": "www.niemanlab.org",
@@ -1171,7 +1685,7 @@
           "id": "1318638ce556ac31bceb2a87eda81988b5311701",
           "title": "ChatGPT正在将真实漫画家的签名添加到伪造的《纽约客》漫画中",
           "title_zh": "ChatGPT正在将真实漫画家的签名添加到伪造的《纽约客》漫画中",
-          "title_ja": null,
+          "title_ja": "ChatGPT は偽のニューヨーカー漫画に本物の漫画家の署名を追加しています",
           "title_en": null,
           "title_original": "ChatGPT正在将真实漫画家的签名添加到伪造的《纽约客》漫画中",
           "summary": null,
@@ -1187,7 +1701,7 @@
           "id": "b01db7403fc715c7d7920fbea41774cf3146fac8",
           "title": "ChatGPT正在将真实漫画家的签名添加到伪造的《纽约客》漫画中 / ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
           "title_zh": "ChatGPT正在将真实漫画家的签名添加到伪造的《纽约客》漫画中",
-          "title_ja": null,
+          "title_ja": "ChatGPT は偽のニューヨーカー漫画に本物の漫画家の署名を追加しています",
           "title_en": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
           "title_original": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
           "summary": null,
@@ -1201,9 +1715,9 @@
         },
         {
           "id": "2cb70f077d555c7fa7caf48e06b154d6a1751555",
-          "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
-          "title_zh": null,
-          "title_ja": null,
+          "title": "ChatGPT 正在将真正的漫画家的签名添加到假《纽约客》漫画中 / ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+          "title_zh": "ChatGPT 正在将真正的漫画家的签名添加到假《纽约客》漫画中",
+          "title_ja": "ChatGPT は偽のニューヨーカー漫画に本物の漫画家の署名を追加しています",
           "title_en": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
           "title_original": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
           "summary": null,
@@ -1227,7 +1741,7 @@
           "id": "1318638ce556ac31bceb2a87eda81988b5311701",
           "title": "ChatGPT正在将真实漫画家的签名添加到伪造的《纽约客》漫画中",
           "title_zh": "ChatGPT正在将真实漫画家的签名添加到伪造的《纽约客》漫画中",
-          "title_ja": null,
+          "title_ja": "ChatGPT は偽のニューヨーカー漫画に本物の漫画家の署名を追加しています",
           "title_en": null,
           "title_original": "ChatGPT正在将真实漫画家的签名添加到伪造的《纽约客》漫画中",
           "summary": null,
@@ -1243,7 +1757,7 @@
           "id": "b01db7403fc715c7d7920fbea41774cf3146fac8",
           "title": "ChatGPT正在将真实漫画家的签名添加到伪造的《纽约客》漫画中 / ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
           "title_zh": "ChatGPT正在将真实漫画家的签名添加到伪造的《纽约客》漫画中",
-          "title_ja": null,
+          "title_ja": "ChatGPT は偽のニューヨーカー漫画に本物の漫画家の署名を追加しています",
           "title_en": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
           "title_original": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
           "summary": null,
@@ -1257,9 +1771,9 @@
         },
         {
           "id": "2cb70f077d555c7fa7caf48e06b154d6a1751555",
-          "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
-          "title_zh": null,
-          "title_ja": null,
+          "title": "ChatGPT 正在将真正的漫画家的签名添加到假《纽约客》漫画中 / ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+          "title_zh": "ChatGPT 正在将真正的漫画家的签名添加到假《纽约客》漫画中",
+          "title_ja": "ChatGPT は偽のニューヨーカー漫画に本物の漫画家の署名を追加しています",
           "title_en": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
           "title_original": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
           "summary": null,
@@ -1274,16 +1788,16 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5696,
-      "importance": 0.5696,
-      "importance_score": 0.5696,
+      "score": 0.553,
+      "importance": 0.553,
+      "importance_score": 0.553,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9934,
+        "recency": 0.9012,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1296,7 +1810,7 @@
         "id": "1318638ce556ac31bceb2a87eda81988b5311701",
         "title": "ChatGPT正在将真实漫画家的签名添加到伪造的《纽约客》漫画中",
         "title_zh": "ChatGPT正在将真实漫画家的签名添加到伪造的《纽约客》漫画中",
-        "title_ja": null,
+        "title_ja": "ChatGPT は偽のニューヨーカー漫画に本物の漫画家の署名を追加しています",
         "title_en": null,
         "title_original": "ChatGPT正在将真实漫画家的签名添加到伪造的《纽约客》漫画中",
         "summary": null,
@@ -1310,13 +1824,13 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T01:12:57.075320Z"
+        "scored_at": "2026-10-06T07:33:49.788152Z"
       }
     },
     {
       "story_id": "story_47d885071ad3",
       "title": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
-      "title_ja": null,
+      "title_ja": "Opus 5.5の研究者が2つの室温磁性半導体候補を発見",
       "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
       "primary_url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
       "source": "www.vals.ai",
@@ -1326,7 +1840,7 @@
           "id": "f3eac503aa67042b174a6f86849c1975352cea15",
           "title": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
           "title_zh": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
-          "title_ja": null,
+          "title_ja": "Opus 5.5の研究者が2つの室温磁性半導体候補を発見",
           "title_en": null,
           "title_original": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
           "summary": null,
@@ -1342,7 +1856,7 @@
           "id": "59eb8333c9559d98d3ce3c22f939e80069c7862f",
           "title": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料 / Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
           "title_zh": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
-          "title_ja": null,
+          "title_ja": "Opus 5.5 エージェントが 2 つの室温磁性半導体候補を発見",
           "title_en": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
           "title_original": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
           "summary": null,
@@ -1356,9 +1870,9 @@
         },
         {
           "id": "c0407e92a3d6ccaf35a78647a157f61f833b3f23",
-          "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-          "title_zh": null,
-          "title_ja": null,
+          "title": "Opus 5.5 特工发现两种室温磁性半导体候选物 / Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "title_zh": "Opus 5.5 特工发现两种室温磁性半导体候选物",
+          "title_ja": "Opus 5.5 エージェントが 2 つの室温磁性半導体候補を発見",
           "title_en": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
           "title_original": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
           "summary": null,
@@ -1382,7 +1896,7 @@
           "id": "f3eac503aa67042b174a6f86849c1975352cea15",
           "title": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
           "title_zh": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
-          "title_ja": null,
+          "title_ja": "Opus 5.5の研究者が2つの室温磁性半導体候補を発見",
           "title_en": null,
           "title_original": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
           "summary": null,
@@ -1398,7 +1912,7 @@
           "id": "59eb8333c9559d98d3ce3c22f939e80069c7862f",
           "title": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料 / Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
           "title_zh": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
-          "title_ja": null,
+          "title_ja": "Opus 5.5 エージェントが 2 つの室温磁性半導体候補を発見",
           "title_en": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
           "title_original": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
           "summary": null,
@@ -1412,9 +1926,9 @@
         },
         {
           "id": "c0407e92a3d6ccaf35a78647a157f61f833b3f23",
-          "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-          "title_zh": null,
-          "title_ja": null,
+          "title": "Opus 5.5 特工发现两种室温磁性半导体候选物 / Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "title_zh": "Opus 5.5 特工发现两种室温磁性半导体候选物",
+          "title_ja": "Opus 5.5 エージェントが 2 つの室温磁性半導体候補を発見",
           "title_en": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
           "title_original": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
           "summary": null,
@@ -1429,16 +1943,16 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5642,
-      "importance": 0.5642,
-      "importance_score": 0.5642,
+      "score": 0.5481,
+      "importance": 0.5481,
+      "importance_score": 0.5481,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9634,
+        "recency": 0.874,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1451,7 +1965,7 @@
         "id": "f3eac503aa67042b174a6f86849c1975352cea15",
         "title": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
         "title_zh": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
-        "title_ja": null,
+        "title_ja": "Opus 5.5の研究者が2つの室温磁性半導体候補を発見",
         "title_en": null,
         "title_original": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
         "summary": null,
@@ -1465,168 +1979,13 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T01:12:57.075320Z"
-      }
-    },
-    {
-      "story_id": "story_a0cf0e1c0e34",
-      "title": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
-      "title_ja": "アンスロピック社が発見された日記を警察に報告し、女性が重罪に問われる",
-      "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-      "primary_url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-      "source": "www.techspot.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "2a664ca57a6c127500df16b03bdde45f21880b08",
-          "title": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
-          "title_zh": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
-          "title_ja": "アンスロピック社が発見された日記を警察に報告し、女性が重罪に問われる",
-          "title_en": null,
-          "title_original": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-          "source": "www.techspot.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-05T17:00:08.955000Z"
-        },
-        {
-          "id": "4a384b11a4fc9ae29008146ef699806023668585",
-          "title": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge",
-          "title_zh": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
-          "title_ja": "人間の日記記載が警察に通報、女性は重罪に問われる",
-          "title_en": "Anthropic reported diary entry to police, woman faces felony charge",
-          "title_original": "Anthropic reported diary entry to police, woman faces felony charge",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-05T05:37:40Z"
-        },
-        {
-          "id": "089b77b1224aad2ab4c95eba86c6c0b58b9ca2a6",
-          "title": "人类向警方报告日记条目，女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge",
-          "title_zh": "人类向警方报告日记条目，女子面临重罪指控",
-          "title_ja": "人間の日記記載が警察に通報、女性は重罪に問われる",
-          "title_en": "Anthropic reported diary entry to police, woman faces felony charge",
-          "title_original": "Anthropic reported diary entry to police, woman faces felony charge",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49961057",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-05T05:37:40Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "www.techspot.com"
-      ],
-      "items": [
-        {
-          "id": "2a664ca57a6c127500df16b03bdde45f21880b08",
-          "title": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
-          "title_zh": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
-          "title_ja": "アンスロピック社が発見された日記を警察に報告し、女性が重罪に問われる",
-          "title_en": null,
-          "title_original": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-          "source": "www.techspot.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-05T17:00:08.955000Z"
-        },
-        {
-          "id": "4a384b11a4fc9ae29008146ef699806023668585",
-          "title": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge",
-          "title_zh": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
-          "title_ja": "人間の日記記載が警察に通報、女性は重罪に問われる",
-          "title_en": "Anthropic reported diary entry to police, woman faces felony charge",
-          "title_original": "Anthropic reported diary entry to police, woman faces felony charge",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-05T05:37:40Z"
-        },
-        {
-          "id": "089b77b1224aad2ab4c95eba86c6c0b58b9ca2a6",
-          "title": "人类向警方报告日记条目，女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge",
-          "title_zh": "人类向警方报告日记条目，女子面临重罪指控",
-          "title_ja": "人間の日記記載が警察に通報、女性は重罪に問われる",
-          "title_en": "Anthropic reported diary entry to police, woman faces felony charge",
-          "title_original": "Anthropic reported diary entry to police, woman faces felony charge",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49961057",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-05T05:37:40Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5517,
-      "importance": 0.5517,
-      "importance_score": 0.5517,
-      "importance_label": "多源热议",
-      "importance_label_ja": "複数ソースで話題",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8937,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-05T05:37:40Z",
-      "latest_at": "2026-10-05T17:00:08.955000Z",
-      "primary_item": {
-        "id": "2a664ca57a6c127500df16b03bdde45f21880b08",
-        "title": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
-        "title_zh": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
-        "title_ja": "アンスロピック社が発見された日記を警察に報告し、女性が重罪に問われる",
-        "title_en": null,
-        "title_original": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-        "source": "www.techspot.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-06T01:12:57.075320Z"
+        "scored_at": "2026-10-06T07:33:49.788152Z"
       }
     },
     {
       "story_id": "story_8da758bc25b8",
-      "title": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
-      "title_ja": null,
+      "title": "Khanmigo 在为期两年的学校实验中进行人工智能辅导 / AI Tutoring with Khanmigo in a Two-Year School Experiment",
+      "title_ja": "2 年間の学校実験における Khanmigo による AI 家庭教師",
       "url": "https://edworkingpapers.com/ai26-1551",
       "primary_url": "https://edworkingpapers.com/ai26-1551",
       "source": "Hacker News (黑客新闻)",
@@ -1634,9 +1993,9 @@
       "sources": [
         {
           "id": "e2399e6edde98fba848c3ff490a06f209f3cba34",
-          "title": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
-          "title_zh": null,
-          "title_ja": null,
+          "title": "Khanmigo 在为期两年的学校实验中进行人工智能辅导 / AI Tutoring with Khanmigo in a Two-Year School Experiment",
+          "title_zh": "Khanmigo 在为期两年的学校实验中进行人工智能辅导",
+          "title_ja": "2 年間の学校実験における Khanmigo による AI 家庭教師",
           "title_en": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
           "title_original": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
           "summary": null,
@@ -1650,9 +2009,9 @@
         },
         {
           "id": "524dc7139f27489f87eb2f98f304fb9e3e0e35d4",
-          "title": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
-          "title_zh": null,
-          "title_ja": null,
+          "title": "Khanmigo 在为期两年的学校实验中进行人工智能辅导 / AI Tutoring with Khanmigo in a Two-Year School Experiment",
+          "title_zh": "Khanmigo 在为期两年的学校实验中进行人工智能辅导",
+          "title_ja": "2 年間の学校実験における Khanmigo による AI 家庭教師",
           "title_en": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
           "title_original": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
           "summary": null,
@@ -1673,9 +2032,9 @@
       "items": [
         {
           "id": "e2399e6edde98fba848c3ff490a06f209f3cba34",
-          "title": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
-          "title_zh": null,
-          "title_ja": null,
+          "title": "Khanmigo 在为期两年的学校实验中进行人工智能辅导 / AI Tutoring with Khanmigo in a Two-Year School Experiment",
+          "title_zh": "Khanmigo 在为期两年的学校实验中进行人工智能辅导",
+          "title_ja": "2 年間の学校実験における Khanmigo による AI 家庭教師",
           "title_en": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
           "title_original": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
           "summary": null,
@@ -1689,9 +2048,9 @@
         },
         {
           "id": "524dc7139f27489f87eb2f98f304fb9e3e0e35d4",
-          "title": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
-          "title_zh": null,
-          "title_ja": null,
+          "title": "Khanmigo 在为期两年的学校实验中进行人工智能辅导 / AI Tutoring with Khanmigo in a Two-Year School Experiment",
+          "title_zh": "Khanmigo 在为期两年的学校实验中进行人工智能辅导",
+          "title_ja": "2 年間の学校実験における Khanmigo による AI 家庭教師",
           "title_en": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
           "title_original": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
           "summary": null,
@@ -1706,16 +2065,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5438,
-      "importance": 0.5438,
-      "importance_score": 0.5438,
+      "score": 0.5273,
+      "importance": 0.5273,
+      "importance_score": 0.5273,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9889,
+        "recency": 0.8972,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1726,9 +2085,9 @@
       "latest_at": "2026-10-06T00:00:45Z",
       "primary_item": {
         "id": "e2399e6edde98fba848c3ff490a06f209f3cba34",
-        "title": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
-        "title_zh": null,
-        "title_ja": null,
+        "title": "Khanmigo 在为期两年的学校实验中进行人工智能辅导 / AI Tutoring with Khanmigo in a Two-Year School Experiment",
+        "title_zh": "Khanmigo 在为期两年的学校实验中进行人工智能辅导",
+        "title_ja": "2 年間の学校実験における Khanmigo による AI 家庭教師",
         "title_en": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
         "title_original": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
         "summary": null,
@@ -1742,13 +2101,13 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T01:12:57.075320Z"
+        "scored_at": "2026-10-06T07:33:49.788152Z"
       }
     },
     {
       "story_id": "story_06387bb39276",
       "title": "Beam：Reflection 501B 无重量限制款",
-      "title_ja": null,
+      "title_ja": "ビーム: 重量制限なしの反射 501B",
       "url": "https://reflection.ai/blog/introducing-beam",
       "primary_url": "https://reflection.ai/blog/introducing-beam",
       "source": "reflection.ai",
@@ -1758,7 +2117,7 @@
           "id": "44cfb7cdf0cf1cc77a8cef468aec8a4f59c86ca1",
           "title": "Beam：Reflection 501B 无重量限制款",
           "title_zh": "Beam：Reflection 501B 无重量限制款",
-          "title_ja": null,
+          "title_ja": "ビーム: 重量制限なしの反射 501B",
           "title_en": null,
           "title_original": "Beam：Reflection 501B 无重量限制款",
           "summary": null,
@@ -1774,7 +2133,7 @@
           "id": "bd24c604cb73683d730ccb49bffde32d4521fd30",
           "title": "Beam：Reflection 501B 无重量限制款 / Beam: Reflection's 501B open-weight model",
           "title_zh": "Beam：Reflection 501B 无重量限制款",
-          "title_ja": null,
+          "title_ja": "ビーム：Reflectionの501Bオープンウェイトモデル",
           "title_en": "Beam: Reflection's 501B open-weight model",
           "title_original": "Beam: Reflection's 501B open-weight model",
           "summary": null,
@@ -1797,7 +2156,7 @@
           "id": "44cfb7cdf0cf1cc77a8cef468aec8a4f59c86ca1",
           "title": "Beam：Reflection 501B 无重量限制款",
           "title_zh": "Beam：Reflection 501B 无重量限制款",
-          "title_ja": null,
+          "title_ja": "ビーム: 重量制限なしの反射 501B",
           "title_en": null,
           "title_original": "Beam：Reflection 501B 无重量限制款",
           "summary": null,
@@ -1813,7 +2172,7 @@
           "id": "bd24c604cb73683d730ccb49bffde32d4521fd30",
           "title": "Beam：Reflection 501B 无重量限制款 / Beam: Reflection's 501B open-weight model",
           "title_zh": "Beam：Reflection 501B 无重量限制款",
-          "title_ja": null,
+          "title_ja": "ビーム：Reflectionの501Bオープンウェイトモデル",
           "title_en": "Beam: Reflection's 501B open-weight model",
           "title_original": "Beam: Reflection's 501B open-weight model",
           "summary": null,
@@ -1828,16 +2187,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5347,
-      "importance": 0.5347,
-      "importance_score": 0.5347,
+      "score": 0.519,
+      "importance": 0.519,
+      "importance_score": 0.519,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9383,
+        "recency": 0.8512,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1850,7 +2209,7 @@
         "id": "44cfb7cdf0cf1cc77a8cef468aec8a4f59c86ca1",
         "title": "Beam：Reflection 501B 无重量限制款",
         "title_zh": "Beam：Reflection 501B 无重量限制款",
-        "title_ja": null,
+        "title_ja": "ビーム: 重量制限なしの反射 501B",
         "title_en": null,
         "title_original": "Beam：Reflection 501B 无重量限制款",
         "summary": null,
@@ -1864,373 +2223,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T01:12:57.075320Z"
-      }
-    },
-    {
-      "story_id": "story_6d84f167e6c4",
-      "title": "Sam Altman：为了人工智能的利益，“世界应该接受一些坏事的发生” / Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI",
-      "title_ja": "サム・アルトマン：AIの利益のために「世界はいくつかの悪いことが起こっていることを受け入れるべきだ」",
-      "url": "https://slashdot.org/story/26/10/05/1525207/sam-altman-the-world-should-accept-some-bad-things-happening-for-the-benefits-of-ai",
-      "primary_url": "https://slashdot.org/story/26/10/05/1525207/sam-altman-the-world-should-accept-some-bad-things-happening-for-the-benefits-of-ai",
-      "source": "Slashdot",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "a80790ec32c8d283b04d3b91ef9bbe8c1950678b",
-          "title": "Sam Altman：为了人工智能的利益，“世界应该接受一些坏事的发生” / Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI",
-          "title_zh": "Sam Altman：为了人工智能的利益，“世界应该接受一些坏事的发生”",
-          "title_ja": "サム・アルトマン：AIの利益のために「世界はいくつかの悪いことが起こっていることを受け入れるべきだ」",
-          "title_en": "Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI",
-          "title_original": "Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://slashdot.org/story/26/10/05/1525207/sam-altman-the-world-should-accept-some-bad-things-happening-for-the-benefits-of-ai",
-          "source": "Slashdot",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-05T16:00:00Z"
-        },
-        {
-          "id": "f52c52878ab3528d3684df7354ef92e484e72fdb",
-          "title": "奥特曼：世界应该接受一些坏事的发生，让人工智能受益 / Altman: The world should accept some bad things happening for the benefits of AI",
-          "title_zh": "奥特曼：世界应该接受一些坏事的发生，让人工智能受益",
-          "title_ja": "アルトマン: AI の利益のために、世界はいくつかの悪いことが起こることを受け入れる必要がある",
-          "title_en": "Altman: The world should accept some bad things happening for the benefits of AI",
-          "title_original": "Altman: The world should accept some bad things happening for the benefits of AI",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.politico.com/news/2026/10/04/sam-altman-decoded-interview-ai-01106217",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-05T15:03:32Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Slashdot"
-      ],
-      "items": [
-        {
-          "id": "a80790ec32c8d283b04d3b91ef9bbe8c1950678b",
-          "title": "Sam Altman：为了人工智能的利益，“世界应该接受一些坏事的发生” / Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI",
-          "title_zh": "Sam Altman：为了人工智能的利益，“世界应该接受一些坏事的发生”",
-          "title_ja": "サム・アルトマン：AIの利益のために「世界はいくつかの悪いことが起こっていることを受け入れるべきだ」",
-          "title_en": "Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI",
-          "title_original": "Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://slashdot.org/story/26/10/05/1525207/sam-altman-the-world-should-accept-some-bad-things-happening-for-the-benefits-of-ai",
-          "source": "Slashdot",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-05T16:00:00Z"
-        },
-        {
-          "id": "f52c52878ab3528d3684df7354ef92e484e72fdb",
-          "title": "奥特曼：世界应该接受一些坏事的发生，让人工智能受益 / Altman: The world should accept some bad things happening for the benefits of AI",
-          "title_zh": "奥特曼：世界应该接受一些坏事的发生，让人工智能受益",
-          "title_ja": "アルトマン: AI の利益のために、世界はいくつかの悪いことが起こることを受け入れる必要がある",
-          "title_en": "Altman: The world should accept some bad things happening for the benefits of AI",
-          "title_original": "Altman: The world should accept some bad things happening for the benefits of AI",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.politico.com/news/2026/10/04/sam-altman-decoded-interview-ai-01106217",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-05T15:03:32Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5244,
-      "importance": 0.5244,
-      "importance_score": 0.5244,
-      "importance_label": "值得关注",
-      "importance_label_ja": "要注目",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8809,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-05T15:03:32Z",
-      "latest_at": "2026-10-05T16:00:00Z",
-      "primary_item": {
-        "id": "a80790ec32c8d283b04d3b91ef9bbe8c1950678b",
-        "title": "Sam Altman：为了人工智能的利益，“世界应该接受一些坏事的发生” / Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI",
-        "title_zh": "Sam Altman：为了人工智能的利益，“世界应该接受一些坏事的发生”",
-        "title_ja": "サム・アルトマン：AIの利益のために「世界はいくつかの悪いことが起こっていることを受け入れるべきだ」",
-        "title_en": "Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI",
-        "title_original": "Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://slashdot.org/story/26/10/05/1525207/sam-altman-the-world-should-accept-some-bad-things-happening-for-the-benefits-of-ai",
-        "source": "Slashdot",
-        "source_name": "TechURLs"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-06T01:12:57.075320Z"
-      }
-    },
-    {
-      "story_id": "story_0a892e8086c0",
-      "title": "人们请求 ChatGPT 帮助他们决定如何在中期选举中投票 / People are asking ChatGPT to help them decide how to vote in the midterms",
-      "title_ja": "人々は、中間選挙での投票方法を決定するのに役立つように ChatGPT を求めています。",
-      "url": "https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election",
-      "primary_url": "https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "eac00cc5c34397209550ab29883d539daf7546b6",
-          "title": "人们请求 ChatGPT 帮助他们决定如何在中期选举中投票 / People are asking ChatGPT to help them decide how to vote in the midterms",
-          "title_zh": "人们请求 ChatGPT 帮助他们决定如何在中期选举中投票",
-          "title_ja": "人々は、中間選挙での投票方法を決定するのに役立つように ChatGPT を求めています。",
-          "title_en": "People are asking ChatGPT to help them decide how to vote in the midterms",
-          "title_original": "People are asking ChatGPT to help them decide how to vote in the midterms",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-05T15:06:27Z"
-        },
-        {
-          "id": "bfe2150c777cd87631161420d58652649ca7ddcb",
-          "title": "人们请求 ChatGPT 帮助他们决定如何在中期选举中投票 / People are asking ChatGPT to help them decide how to vote in the midterms",
-          "title_zh": "人们请求 ChatGPT 帮助他们决定如何在中期选举中投票",
-          "title_ja": "人々は、中間選挙での投票方法を決定するのに役立つように ChatGPT を求めています。",
-          "title_en": "People are asking ChatGPT to help them decide how to vote in the midterms",
-          "title_original": "People are asking ChatGPT to help them decide how to vote in the midterms",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.reddit.com/r/nottheonion/comments/1wy7x58/people_are_asking_chatgpt_to_help_them_decide_how",
-          "source": "Reddit (热门)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-05T12:59:37Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Reddit (热门)"
-      ],
-      "items": [
-        {
-          "id": "eac00cc5c34397209550ab29883d539daf7546b6",
-          "title": "人们请求 ChatGPT 帮助他们决定如何在中期选举中投票 / People are asking ChatGPT to help them decide how to vote in the midterms",
-          "title_zh": "人们请求 ChatGPT 帮助他们决定如何在中期选举中投票",
-          "title_ja": "人々は、中間選挙での投票方法を決定するのに役立つように ChatGPT を求めています。",
-          "title_en": "People are asking ChatGPT to help them decide how to vote in the midterms",
-          "title_original": "People are asking ChatGPT to help them decide how to vote in the midterms",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-05T15:06:27Z"
-        },
-        {
-          "id": "bfe2150c777cd87631161420d58652649ca7ddcb",
-          "title": "人们请求 ChatGPT 帮助他们决定如何在中期选举中投票 / People are asking ChatGPT to help them decide how to vote in the midterms",
-          "title_zh": "人们请求 ChatGPT 帮助他们决定如何在中期选举中投票",
-          "title_ja": "人々は、中間選挙での投票方法を決定するのに役立つように ChatGPT を求めています。",
-          "title_en": "People are asking ChatGPT to help them decide how to vote in the midterms",
-          "title_original": "People are asking ChatGPT to help them decide how to vote in the midterms",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.reddit.com/r/nottheonion/comments/1wy7x58/people_are_asking_chatgpt_to_help_them_decide_how",
-          "source": "Reddit (热门)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-05T12:59:37Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5223,
-      "importance": 0.5223,
-      "importance_score": 0.5223,
-      "importance_label": "值得关注",
-      "importance_label_ja": "要注目",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8696,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-05T12:59:37Z",
-      "latest_at": "2026-10-05T15:06:27Z",
-      "primary_item": {
-        "id": "eac00cc5c34397209550ab29883d539daf7546b6",
-        "title": "人们请求 ChatGPT 帮助他们决定如何在中期选举中投票 / People are asking ChatGPT to help them decide how to vote in the midterms",
-        "title_zh": "人们请求 ChatGPT 帮助他们决定如何在中期选举中投票",
-        "title_ja": "人々は、中間選挙での投票方法を決定するのに役立つように ChatGPT を求めています。",
-        "title_en": "People are asking ChatGPT to help them decide how to vote in the midterms",
-        "title_original": "People are asking ChatGPT to help them decide how to vote in the midterms",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-06T01:12:57.075320Z"
-      }
-    },
-    {
-      "story_id": "story_28fb0368d56f",
-      "title": "Dust: Pretraining Transformers Without Backpropagation",
-      "title_ja": null,
-      "url": "https://qlabs.sh/research/dust",
-      "primary_url": "https://qlabs.sh/research/dust",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "e3a8211c35b9804f3ac5076228b60f7a685091f2",
-          "title": "Dust: Pretraining Transformers Without Backpropagation",
-          "title_zh": null,
-          "title_ja": null,
-          "title_en": "Dust: Pretraining Transformers Without Backpropagation",
-          "title_original": "Dust: Pretraining Transformers Without Backpropagation",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://qlabs.sh/research/dust",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-05T21:15:07Z"
-        },
-        {
-          "id": "7389c431f138003ff1424c3abc0027a58665a484",
-          "title": "Dust: Pretraining Transformers Without Backpropagation",
-          "title_zh": null,
-          "title_ja": null,
-          "title_en": "Dust: Pretraining Transformers Without Backpropagation",
-          "title_original": "Dust: Pretraining Transformers Without Backpropagation",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49970871",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-05T21:15:07Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "e3a8211c35b9804f3ac5076228b60f7a685091f2",
-          "title": "Dust: Pretraining Transformers Without Backpropagation",
-          "title_zh": null,
-          "title_ja": null,
-          "title_en": "Dust: Pretraining Transformers Without Backpropagation",
-          "title_original": "Dust: Pretraining Transformers Without Backpropagation",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://qlabs.sh/research/dust",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-05T21:15:07Z"
-        },
-        {
-          "id": "7389c431f138003ff1424c3abc0027a58665a484",
-          "title": "Dust: Pretraining Transformers Without Backpropagation",
-          "title_zh": null,
-          "title_ja": null,
-          "title_en": "Dust: Pretraining Transformers Without Backpropagation",
-          "title_original": "Dust: Pretraining Transformers Without Backpropagation",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49970871",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-05T21:15:07Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5368,
-      "importance": 0.5368,
-      "importance_score": 0.5368,
-      "importance_label": "值得关注",
-      "importance_label_ja": "要注目",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9503,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-05T21:15:07Z",
-      "latest_at": "2026-10-05T21:15:07Z",
-      "primary_item": {
-        "id": "e3a8211c35b9804f3ac5076228b60f7a685091f2",
-        "title": "Dust: Pretraining Transformers Without Backpropagation",
-        "title_zh": null,
-        "title_ja": null,
-        "title_en": "Dust: Pretraining Transformers Without Backpropagation",
-        "title_original": "Dust: Pretraining Transformers Without Backpropagation",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://qlabs.sh/research/dust",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-06T01:12:57.075320Z"
+        "scored_at": "2026-10-06T07:33:49.788152Z"
       }
     }
   ]
