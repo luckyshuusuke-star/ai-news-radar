@@ -1,8 +1,438 @@
 {
-  "generated_at": "2026-10-07T05:54:27.172551Z",
+  "generated_at": "2026-10-07T13:17:13.618956Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_856527284047",
+      "title": "一个模型系列，两项黄金级成果：针对 IOI 和 IMO 微调 Nemotron / One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+      "title_ja": "1 つのモデルファミリー、2 つのゴールドレベルの結果: IOI および IMO 向けの Nemotron の微調整",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+      "primary_url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d9cda66c440e460d39f69205bed1c9ae08d814f0",
+          "title": "一个模型系列，两项黄金级成果：针对 IOI 和 IMO 微调 Nemotron / One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+          "title_zh": "一个模型系列，两项黄金级成果：针对 IOI 和 IMO 微调 Nemotron",
+          "title_ja": "1 つのモデルファミリー、2 つのゴールドレベルの結果: IOI および IMO 向けの Nemotron の微調整",
+          "title_en": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+          "title_original": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-07T12:45:31Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "d9cda66c440e460d39f69205bed1c9ae08d814f0",
+          "title": "一个模型系列，两项黄金级成果：针对 IOI 和 IMO 微调 Nemotron / One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+          "title_zh": "一个模型系列，两项黄金级成果：针对 IOI 和 IMO 微调 Nemotron",
+          "title_ja": "1 つのモデルファミリー、2 つのゴールドレベルの結果: IOI および IMO 向けの Nemotron の微調整",
+          "title_en": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+          "title_original": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-07T12:45:31Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8586,
+      "importance": 0.8586,
+      "importance_score": 0.8586,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9924,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-07T12:45:31Z",
+      "latest_at": "2026-10-07T12:45:31Z",
+      "primary_item": {
+        "id": "d9cda66c440e460d39f69205bed1c9ae08d814f0",
+        "title": "一个模型系列，两项黄金级成果：针对 IOI 和 IMO 微调 Nemotron / One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+        "title_zh": "一个模型系列，两项黄金级成果：针对 IOI 和 IMO 微调 Nemotron",
+        "title_ja": "1 つのモデルファミリー、2 つのゴールドレベルの結果: IOI および IMO 向けの Nemotron の微調整",
+        "title_en": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+        "title_original": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-07T13:18:56.107999Z"
+      }
+    },
+    {
+      "story_id": "story_3d2baa621386",
+      "title": "Playground 简介：创建和玩自定义游戏 / Introducing Playground: Create and play custom games",
+      "title_ja": "Playground の紹介: カスタム ゲームを作成してプレイする",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform",
+      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "848420b61bf519d454e6d7b9a53b94e0eef7dfc1",
+          "title": "Playground 简介：创建和玩自定义游戏 / Introducing Playground: Create and play custom games",
+          "title_zh": "Playground 简介：创建和玩自定义游戏",
+          "title_ja": "Playground の紹介: カスタム ゲームを作成してプレイする",
+          "title_en": "Introducing Playground: Create and play custom games",
+          "title_original": "Introducing Playground: Create and play custom games",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-07T12:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "848420b61bf519d454e6d7b9a53b94e0eef7dfc1",
+          "title": "Playground 简介：创建和玩自定义游戏 / Introducing Playground: Create and play custom games",
+          "title_zh": "Playground 简介：创建和玩自定义游戏",
+          "title_ja": "Playground の紹介: カスタム ゲームを作成してプレイする",
+          "title_en": "Introducing Playground: Create and play custom games",
+          "title_original": "Introducing Playground: Create and play custom games",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-07T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8407,
+      "importance": 0.8407,
+      "importance_score": 0.8407,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9816,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-07T12:00:00Z",
+      "latest_at": "2026-10-07T12:00:00Z",
+      "primary_item": {
+        "id": "848420b61bf519d454e6d7b9a53b94e0eef7dfc1",
+        "title": "Playground 简介：创建和玩自定义游戏 / Introducing Playground: Create and play custom games",
+        "title_zh": "Playground 简介：创建和玩自定义游戏",
+        "title_ja": "Playground の紹介: カスタム ゲームを作成してプレイする",
+        "title_en": "Introducing Playground: Create and play custom games",
+        "title_original": "Introducing Playground: Create and play custom games",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-07T13:18:56.107999Z"
+      }
+    },
+    {
+      "story_id": "story_b297de01ee31",
+      "title": "适用于 iOS 的 ChatGPT 1.2026.272 / ChatGPT for iOS 1.2026.272",
+      "title_ja": null,
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "970507defeb4fc629819eea2649547e925fc190b",
+          "title": "适用于 iOS 的 ChatGPT 1.2026.272 / ChatGPT for iOS 1.2026.272",
+          "title_zh": "适用于 iOS 的 ChatGPT 1.2026.272",
+          "title_ja": null,
+          "title_en": "ChatGPT for iOS 1.2026.272",
+          "title_original": "ChatGPT for iOS 1.2026.272",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-07T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "970507defeb4fc629819eea2649547e925fc190b",
+          "title": "适用于 iOS 的 ChatGPT 1.2026.272 / ChatGPT for iOS 1.2026.272",
+          "title_zh": "适用于 iOS 的 ChatGPT 1.2026.272",
+          "title_ja": null,
+          "title_en": "ChatGPT for iOS 1.2026.272",
+          "title_original": "ChatGPT for iOS 1.2026.272",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-07T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8386,
+      "importance": 0.8386,
+      "importance_score": 0.8386,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.8254,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-07T00:00:00Z",
+      "latest_at": "2026-10-07T00:00:00Z",
+      "primary_item": {
+        "id": "970507defeb4fc629819eea2649547e925fc190b",
+        "title": "适用于 iOS 的 ChatGPT 1.2026.272 / ChatGPT for iOS 1.2026.272",
+        "title_zh": "适用于 iOS 的 ChatGPT 1.2026.272",
+        "title_ja": null,
+        "title_en": "ChatGPT for iOS 1.2026.272",
+        "title_original": "ChatGPT for iOS 1.2026.272",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-07T13:18:56.107999Z"
+      }
+    },
+    {
+      "story_id": "story_e1332c8f3158",
+      "title": "OpenAI 发布内部前沿模型产出的数学研究成果 / Sharing AI progress in mathematics",
+      "title_ja": "数学における AI の進歩を共有する",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "primary_url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "02b12876fb3eb437aec169fe451761ddd907d8ac",
+          "title": "OpenAI 发布内部前沿模型产出的数学研究成果 / Sharing AI progress in mathematics",
+          "title_zh": "OpenAI 发布内部前沿模型产出的数学研究成果",
+          "title_ja": "数学における AI の進歩を共有する",
+          "title_en": "Sharing AI progress in mathematics",
+          "title_original": "Sharing AI progress in mathematics",
+          "summary": "OpenAI 发布一批由内部前沿模型产出的新数学成果，成果以 GitHub 仓库形式公开，并附论文修订与引用协议，其中许多证明已用 Lean 形式化以便计算机验证。",
+          "summary_ja": "OpenAI は、内部の最先端モデルによって生成された新しい数学的結果のバッチをリリースします。結果は、論文の改訂と引用に関する同意書とともに、GitHub リポジトリの形式で公開されます。証明の多くは、コンピューター検証用に Lean で形式化されています。",
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T23:01:09.228000Z"
+        },
+        {
+          "id": "6868abd919243a6ee9a41be56fbf208804417bfb",
+          "title": "分享人工智能在数学领域的进展",
+          "title_zh": "分享人工智能在数学领域的进展",
+          "title_ja": "数学分野における人工知能の進歩を共有する",
+          "title_en": null,
+          "title_original": "分享人工智能在数学领域的进展",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-06T23:01:09.228000Z"
+        },
+        {
+          "id": "53a495f0f2edcface64504f1b85e9813ae6ed7af",
+          "title": "分享AI数学进展 / Sharing AI progress in mathematics",
+          "title_zh": "分享AI数学进展",
+          "title_ja": "数学における AI の進歩を共有する",
+          "title_en": "Sharing AI progress in mathematics",
+          "title_original": "Sharing AI progress in mathematics",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49984923",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-06T22:17:21Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "hackernews",
+        "openai.com"
+      ],
+      "items": [
+        {
+          "id": "02b12876fb3eb437aec169fe451761ddd907d8ac",
+          "title": "OpenAI 发布内部前沿模型产出的数学研究成果 / Sharing AI progress in mathematics",
+          "title_zh": "OpenAI 发布内部前沿模型产出的数学研究成果",
+          "title_ja": "数学における AI の進歩を共有する",
+          "title_en": "Sharing AI progress in mathematics",
+          "title_original": "Sharing AI progress in mathematics",
+          "summary": "OpenAI 发布一批由内部前沿模型产出的新数学成果，成果以 GitHub 仓库形式公开，并附论文修订与引用协议，其中许多证明已用 Lean 形式化以便计算机验证。",
+          "summary_ja": "OpenAI は、内部の最先端モデルによって生成された新しい数学的結果のバッチをリリースします。結果は、論文の改訂と引用に関する同意書とともに、GitHub リポジトリの形式で公開されます。証明の多くは、コンピューター検証用に Lean で形式化されています。",
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T23:01:09.228000Z"
+        },
+        {
+          "id": "6868abd919243a6ee9a41be56fbf208804417bfb",
+          "title": "分享人工智能在数学领域的进展",
+          "title_zh": "分享人工智能在数学领域的进展",
+          "title_ja": "数学分野における人工知能の進歩を共有する",
+          "title_en": null,
+          "title_original": "分享人工智能在数学领域的进展",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-06T23:01:09.228000Z"
+        },
+        {
+          "id": "53a495f0f2edcface64504f1b85e9813ae6ed7af",
+          "title": "分享AI数学进展 / Sharing AI progress in mathematics",
+          "title_zh": "分享AI数学进展",
+          "title_ja": "数学における AI の進歩を共有する",
+          "title_en": "Sharing AI progress in mathematics",
+          "title_original": "Sharing AI progress in mathematics",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49984923",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-06T22:17:21Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8295,
+      "importance": 0.8295,
+      "importance_score": 0.8295,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.8138,
+        "story_heat": 0.5
+      },
+      "category": "official",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-06T22:17:21Z",
+      "latest_at": "2026-10-06T23:01:09.228000Z",
+      "primary_item": {
+        "id": "02b12876fb3eb437aec169fe451761ddd907d8ac",
+        "title": "OpenAI 发布内部前沿模型产出的数学研究成果 / Sharing AI progress in mathematics",
+        "title_zh": "OpenAI 发布内部前沿模型产出的数学研究成果",
+        "title_ja": "数学における AI の進歩を共有する",
+        "title_en": "Sharing AI progress in mathematics",
+        "title_original": "Sharing AI progress in mathematics",
+        "summary": "OpenAI 发布一批由内部前沿模型产出的新数学成果，成果以 GitHub 仓库形式公开，并附论文修订与引用协议，其中许多证明已用 Lean 形式化以便计算机验证。",
+        "summary_ja": "OpenAI は、内部の最先端モデルによって生成された新しい数学的結果のバッチをリリースします。結果は、論文の改訂と引用に関する同意書とともに、GitHub リポジトリの形式で公開されます。証明の多くは、コンピューター検証用に Lean で形式化されています。",
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-07T13:18:56.107999Z"
+      }
+    },
     {
       "story_id": "story_9e4b08095253",
       "title": "更新您的 IDE 以恢复 Copilot 使用指标中的代理活动 / Update your IDE to restore agent activity in Copilot usage metrics",
@@ -53,16 +483,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8366,
-      "importance": 0.8366,
-      "importance_score": 0.8366,
+      "score": 0.82,
+      "importance": 0.82,
+      "importance_score": 0.82,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9145,
+        "recency": 0.822,
         "story_heat": 0.0
       },
       "category": "official",
@@ -91,405 +521,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T05:56:14.503418Z"
-      }
-    },
-    {
-      "story_id": "story_11f226560af5",
-      "title": "OpenAI 发布内部前沿模型产出的数学研究成果 / Sharing AI progress in mathematics",
-      "title_ja": "数学における AI の進歩を共有する",
-      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-      "primary_url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d5265641b5ae86813b271a1107948f3fc033e728",
-          "title": "OpenAI 发布内部前沿模型产出的数学研究成果 / Sharing AI progress in mathematics",
-          "title_zh": "OpenAI 发布内部前沿模型产出的数学研究成果",
-          "title_ja": "数学における AI の進歩を共有する",
-          "title_en": "Sharing AI progress in mathematics",
-          "title_original": "Sharing AI progress in mathematics",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-06T12:00:00Z"
-        },
-        {
-          "id": "6868abd919243a6ee9a41be56fbf208804417bfb",
-          "title": "分享人工智能在数学领域的进展",
-          "title_zh": "分享人工智能在数学领域的进展",
-          "title_ja": "数学分野における人工知能の進歩を共有する",
-          "title_en": null,
-          "title_original": "分享人工智能在数学领域的进展",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-06T23:01:09.228000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI News",
-        "openai.com"
-      ],
-      "items": [
-        {
-          "id": "d5265641b5ae86813b271a1107948f3fc033e728",
-          "title": "OpenAI 发布内部前沿模型产出的数学研究成果 / Sharing AI progress in mathematics",
-          "title_zh": "OpenAI 发布内部前沿模型产出的数学研究成果",
-          "title_ja": "数学における AI の進歩を共有する",
-          "title_en": "Sharing AI progress in mathematics",
-          "title_original": "Sharing AI progress in mathematics",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-06T12:00:00Z"
-        },
-        {
-          "id": "6868abd919243a6ee9a41be56fbf208804417bfb",
-          "title": "分享人工智能在数学领域的进展",
-          "title_zh": "分享人工智能在数学领域的进展",
-          "title_ja": "数学分野における人工知能の進歩を共有する",
-          "title_en": null,
-          "title_original": "分享人工智能在数学领域的进展",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-06T23:01:09.228000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.836,
-      "importance": 0.836,
-      "importance_score": 0.836,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7721,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-06T12:00:00Z",
-      "latest_at": "2026-10-06T23:01:09.228000Z",
-      "primary_item": {
-        "id": "d5265641b5ae86813b271a1107948f3fc033e728",
-        "title": "OpenAI 发布内部前沿模型产出的数学研究成果 / Sharing AI progress in mathematics",
-        "title_zh": "OpenAI 发布内部前沿模型产出的数学研究成果",
-        "title_ja": "数学における AI の進歩を共有する",
-        "title_en": "Sharing AI progress in mathematics",
-        "title_original": "Sharing AI progress in mathematics",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-07T05:56:14.503418Z"
-      }
-    },
-    {
-      "story_id": "story_c1863a515d19",
-      "title": "Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2 / EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-      "title_ja": "EmbeddingGemma 2: オープンで軽量なマルチモーダル埋め込みモデル",
-      "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model",
-      "primary_url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "1c38c2104dab1c15d85e04f1a3bde29427bf6695",
-          "title": "Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2 / EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-          "title_zh": "Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2",
-          "title_ja": "EmbeddingGemma 2: オープンで軽量なマルチモーダル埋め込みモデル",
-          "title_en": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-          "title_original": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-06T19:57:04Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google DeepMind"
-      ],
-      "items": [
-        {
-          "id": "1c38c2104dab1c15d85e04f1a3bde29427bf6695",
-          "title": "Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2 / EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-          "title_zh": "Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2",
-          "title_ja": "EmbeddingGemma 2: オープンで軽量なマルチモーダル埋め込みモデル",
-          "title_en": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-          "title_original": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-06T19:57:04Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8199,
-      "importance": 0.8199,
-      "importance_score": 0.8199,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8661,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-06T19:57:04Z",
-      "latest_at": "2026-10-06T19:57:04Z",
-      "primary_item": {
-        "id": "1c38c2104dab1c15d85e04f1a3bde29427bf6695",
-        "title": "Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2 / EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-        "title_zh": "Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2",
-        "title_ja": "EmbeddingGemma 2: オープンで軽量なマルチモーダル埋め込みモデル",
-        "title_en": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-        "title_original": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model",
-        "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-07T05:56:14.503418Z"
-      }
-    },
-    {
-      "story_id": "story_2f21e7c25d8c",
-      "title": "猎鹰阿联酋：当LLM学习方言、文化和细微差别时 / Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-      "title_ja": "ファルコン首長国連邦: LLM が方言、文化、ニュアンスを学ぶとき",
-      "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
-      "primary_url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "03f053f578c9bfdad44131e1587b66ce636bcc64",
-          "title": "猎鹰阿联酋：当LLM学习方言、文化和细微差别时 / Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-          "title_zh": "猎鹰阿联酋：当LLM学习方言、文化和细微差别时",
-          "title_ja": "ファルコン首長国連邦: LLM が方言、文化、ニュアンスを学ぶとき",
-          "title_en": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-          "title_original": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-06T06:44:39Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "03f053f578c9bfdad44131e1587b66ce636bcc64",
-          "title": "猎鹰阿联酋：当LLM学习方言、文化和细微差别时 / Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-          "title_zh": "猎鹰阿联酋：当LLM学习方言、文化和细微差别时",
-          "title_ja": "ファルコン首長国連邦: LLM が方言、文化、ニュアンスを学ぶとき",
-          "title_en": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-          "title_original": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-06T06:44:39Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8168,
-      "importance": 0.8168,
-      "importance_score": 0.8168,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.99,
-        "recency": 0.7157,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-06T06:44:39Z",
-      "latest_at": "2026-10-06T06:44:39Z",
-      "primary_item": {
-        "id": "03f053f578c9bfdad44131e1587b66ce636bcc64",
-        "title": "猎鹰阿联酋：当LLM学习方言、文化和细微差别时 / Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-        "title_zh": "猎鹰阿联酋：当LLM学习方言、文化和细微差别时",
-        "title_ja": "ファルコン首長国連邦: LLM が方言、文化、ニュアンスを学ぶとき",
-        "title_en": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-        "title_original": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-07T05:56:14.503418Z"
-      }
-    },
-    {
-      "story_id": "story_79247d86835a",
-      "title": "堆叠拉取请求现已普遍可用 / Stacked pull requests generally available",
-      "title_ja": "スタックされたプルリクエストの一般提供が開始されました",
-      "url": "https://github.blog/changelog/2026-10-06-stacked-pull-requests-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-10-06-stacked-pull-requests-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "8453041ce376fb2b8202aa6e7429885dd4cb5e4c",
-          "title": "堆叠拉取请求现已普遍可用 / Stacked pull requests generally available",
-          "title_zh": "堆叠拉取请求现已普遍可用",
-          "title_ja": "スタックされたプルリクエストの一般提供が開始されました",
-          "title_en": "Stacked pull requests generally available",
-          "title_original": "Stacked pull requests generally available",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-06-stacked-pull-requests-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-06T20:16:41Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "8453041ce376fb2b8202aa6e7429885dd4cb5e4c",
-          "title": "堆叠拉取请求现已普遍可用 / Stacked pull requests generally available",
-          "title_zh": "堆叠拉取请求现已普遍可用",
-          "title_ja": "スタックされたプルリクエストの一般提供が開始されました",
-          "title_en": "Stacked pull requests generally available",
-          "title_original": "Stacked pull requests generally available",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-06-stacked-pull-requests-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-06T20:16:41Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8206,
-      "importance": 0.8206,
-      "importance_score": 0.8206,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8702,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-06T20:16:41Z",
-      "latest_at": "2026-10-06T20:16:41Z",
-      "primary_item": {
-        "id": "8453041ce376fb2b8202aa6e7429885dd4cb5e4c",
-        "title": "堆叠拉取请求现已普遍可用 / Stacked pull requests generally available",
-        "title_zh": "堆叠拉取请求现已普遍可用",
-        "title_ja": "スタックされたプルリクエストの一般提供が開始されました",
-        "title_en": "Stacked pull requests generally available",
-        "title_original": "Stacked pull requests generally available",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-06-stacked-pull-requests-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-07T05:56:14.503418Z"
+        "scored_at": "2026-10-07T13:18:56.107999Z"
       }
     },
     {
@@ -542,16 +574,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8192,
-      "importance": 0.8192,
-      "importance_score": 0.8192,
+      "score": 0.8044,
+      "importance": 0.8044,
+      "importance_score": 0.8044,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.818,
+        "recency": 0.7354,
         "story_heat": 0.0
       },
       "category": "official",
@@ -580,7 +612,189 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T05:56:14.503418Z"
+        "scored_at": "2026-10-07T13:18:56.107999Z"
+      }
+    },
+    {
+      "story_id": "story_c1863a515d19",
+      "title": "Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2 / EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+      "title_ja": "EmbeddingGemma 2: オープンで軽量なマルチモーダル埋め込みモデル",
+      "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model",
+      "primary_url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "1c38c2104dab1c15d85e04f1a3bde29427bf6695",
+          "title": "Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2 / EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+          "title_zh": "Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2",
+          "title_ja": "EmbeddingGemma 2: オープンで軽量なマルチモーダル埋め込みモデル",
+          "title_en": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+          "title_original": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-06T19:57:04Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google DeepMind"
+      ],
+      "items": [
+        {
+          "id": "1c38c2104dab1c15d85e04f1a3bde29427bf6695",
+          "title": "Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2 / EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+          "title_zh": "Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2",
+          "title_ja": "EmbeddingGemma 2: オープンで軽量なマルチモーダル埋め込みモデル",
+          "title_en": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+          "title_original": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-06T19:57:04Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8041,
+      "importance": 0.8041,
+      "importance_score": 0.8041,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7785,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-06T19:57:04Z",
+      "latest_at": "2026-10-06T19:57:04Z",
+      "primary_item": {
+        "id": "1c38c2104dab1c15d85e04f1a3bde29427bf6695",
+        "title": "Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2 / EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+        "title_zh": "Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2",
+        "title_ja": "EmbeddingGemma 2: オープンで軽量なマルチモーダル埋め込みモデル",
+        "title_en": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+        "title_original": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model",
+        "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-07T13:18:56.107999Z"
+      }
+    },
+    {
+      "story_id": "story_79247d86835a",
+      "title": "堆叠拉取请求现已普遍可用 / Stacked pull requests generally available",
+      "title_ja": "スタックされたプルリクエストの一般提供が開始されました",
+      "url": "https://github.blog/changelog/2026-10-06-stacked-pull-requests-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-10-06-stacked-pull-requests-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "8453041ce376fb2b8202aa6e7429885dd4cb5e4c",
+          "title": "堆叠拉取请求现已普遍可用 / Stacked pull requests generally available",
+          "title_zh": "堆叠拉取请求现已普遍可用",
+          "title_ja": "スタックされたプルリクエストの一般提供が開始されました",
+          "title_en": "Stacked pull requests generally available",
+          "title_original": "Stacked pull requests generally available",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-06-stacked-pull-requests-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-06T20:16:41Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "8453041ce376fb2b8202aa6e7429885dd4cb5e4c",
+          "title": "堆叠拉取请求现已普遍可用 / Stacked pull requests generally available",
+          "title_zh": "堆叠拉取请求现已普遍可用",
+          "title_ja": "スタックされたプルリクエストの一般提供が開始されました",
+          "title_en": "Stacked pull requests generally available",
+          "title_original": "Stacked pull requests generally available",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-06-stacked-pull-requests-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-06T20:16:41Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8048,
+      "importance": 0.8048,
+      "importance_score": 0.8048,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7822,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-06T20:16:41Z",
+      "latest_at": "2026-10-06T20:16:41Z",
+      "primary_item": {
+        "id": "8453041ce376fb2b8202aa6e7429885dd4cb5e4c",
+        "title": "堆叠拉取请求现已普遍可用 / Stacked pull requests generally available",
+        "title_zh": "堆叠拉取请求现已普遍可用",
+        "title_ja": "スタックされたプルリクエストの一般提供が開始されました",
+        "title_en": "Stacked pull requests generally available",
+        "title_original": "Stacked pull requests generally available",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-06-stacked-pull-requests-generally-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-07T13:18:56.107999Z"
       }
     },
     {
@@ -633,16 +847,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7783,
-      "importance": 0.7783,
-      "importance_score": 0.7783,
+      "score": 0.7627,
+      "importance": 0.7627,
+      "importance_score": 0.7627,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8597,
+        "recency": 0.7728,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -670,7 +884,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T05:56:14.503418Z"
+        "scored_at": "2026-10-07T13:18:56.107999Z"
       }
     },
     {
@@ -756,16 +970,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7695,
-      "importance": 0.7695,
-      "importance_score": 0.7695,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7883,
+        "recency": 0.7086,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -794,7 +1008,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T05:56:14.503418Z"
+        "scored_at": "2026-10-07T13:18:56.107999Z"
       }
     },
     {
@@ -847,16 +1061,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7681,
-      "importance": 0.7681,
-      "importance_score": 0.7681,
+      "score": 0.7529,
+      "importance": 0.7529,
+      "importance_score": 0.7529,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8364,
+        "recency": 0.7518,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -884,726 +1098,96 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T05:56:14.503418Z"
+        "scored_at": "2026-10-07T13:18:56.107999Z"
       }
     },
     {
-      "story_id": "story_d4a8437d985e",
-      "title": "Jump Trading 如何利用 ChatGPT 扩大量化研究规模 / How Jump Trading is scaling quant research with ChatGPT",
-      "title_ja": "Jump Trading が ChatGPT を使用してクオンツ調査をどのように拡張しているか",
-      "url": "https://openai.com/index/jump-trading",
-      "primary_url": "https://openai.com/index/jump-trading",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "eccb8c1105ddd49968b046f4ea855bd93bdf984c",
-          "title": "Jump Trading 如何利用 ChatGPT 扩大量化研究规模 / How Jump Trading is scaling quant research with ChatGPT",
-          "title_zh": "Jump Trading 如何利用 ChatGPT 扩大量化研究规模",
-          "title_ja": "Jump Trading が ChatGPT を使用してクオンツ調査をどのように拡張しているか",
-          "title_en": "How Jump Trading is scaling quant research with ChatGPT",
-          "title_original": "How Jump Trading is scaling quant research with ChatGPT",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/jump-trading",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-06T12:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "eccb8c1105ddd49968b046f4ea855bd93bdf984c",
-          "title": "Jump Trading 如何利用 ChatGPT 扩大量化研究规模 / How Jump Trading is scaling quant research with ChatGPT",
-          "title_zh": "Jump Trading 如何利用 ChatGPT 扩大量化研究规模",
-          "title_ja": "Jump Trading が ChatGPT を使用してクオンツ調査をどのように拡張しているか",
-          "title_en": "How Jump Trading is scaling quant research with ChatGPT",
-          "title_original": "How Jump Trading is scaling quant research with ChatGPT",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/jump-trading",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-06T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.819,
-      "importance": 0.819,
-      "importance_score": 0.819,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7721,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-06T12:00:00Z",
-      "latest_at": "2026-10-06T12:00:00Z",
-      "primary_item": {
-        "id": "eccb8c1105ddd49968b046f4ea855bd93bdf984c",
-        "title": "Jump Trading 如何利用 ChatGPT 扩大量化研究规模 / How Jump Trading is scaling quant research with ChatGPT",
-        "title_zh": "Jump Trading 如何利用 ChatGPT 扩大量化研究规模",
-        "title_ja": "Jump Trading が ChatGPT を使用してクオンツ調査をどのように拡張しているか",
-        "title_en": "How Jump Trading is scaling quant research with ChatGPT",
-        "title_original": "How Jump Trading is scaling quant research with ChatGPT",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/jump-trading",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-07T05:56:14.503418Z"
-      }
-    },
-    {
-      "story_id": "story_0101f6369b65",
-      "title": "Claude Code 云端会话实战指南：每个任务独占一台 VM，可并行跑任务并以分支收尾 / Claude Code in the cloud: a field guide to cloud sessions",
-      "title_ja": "クラウド内の Claude Code: クラウド セッションのフィールド ガイド",
-      "url": "https://claude.dev/blog/claude-code-in-the-cloud",
-      "primary_url": "https://claude.dev/blog/claude-code-in-the-cloud",
-      "source": "Anthropic：Claude.dev 开发者博客（RSS）",
+      "story_id": "story_0f2de19abf40",
+      "title": "Mistral Large 4 进入 Code Arena: WebDev 排名第45，得分1534 / Mistral Large 4 by @MistralAI just landed in the Code Arena: WebDev at #45. With 1534 pts, this is a +304 pt improvement from Mistral Lar...",
+      "title_ja": "@MistralAI による Mistral Large 4 がコード アリーナ: WebDev の #45 にランクインしました。 1534 ポイントで、これはミストラル ラールから +304 ポイントの向上です。",
+      "url": "https://x.com/arena/status/2107717155374727602",
+      "primary_url": "https://x.com/arena/status/2107717155374727602",
+      "source": "X：Arena (@arena)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "273d73c99464cb7256dd93c7451d2e7d65976d36",
-          "title": "Claude Code 云端会话实战指南：每个任务独占一台 VM，可并行跑任务并以分支收尾 / Claude Code in the cloud: a field guide to cloud sessions",
-          "title_zh": "Claude Code 云端会话实战指南：每个任务独占一台 VM，可并行跑任务并以分支收尾",
-          "title_ja": "クラウド内の Claude Code: クラウド セッションのフィールド ガイド",
-          "title_en": "Claude Code in the cloud: a field guide to cloud sessions",
-          "title_original": "Claude Code in the cloud: a field guide to cloud sessions",
-          "summary": "Claude Code 推出云端会话：每个任务在独立 VM 上运行，仓库克隆到新分支，可从 claude.ai/code、手机、Desktop、终端和 Slack 启动并跟踪，完成后产出可转 PR 的分支，Pro、Max、Team、Enterprise 计划不额外收费。",
-          "summary_ja": "Claude Code はクラウド セッションを開始します。各タスクは独立した VM 上で実行され、ウェアハウスは新しいブランチに複製されます。 claude.ai/code、携帯電話、デスクトップ、端末、Slack から起動および追跡できます。完了すると、PR に転送できるブランチが生成されます。 Pro、Max、Team、Enterprise プランには追加料金はかかりません。",
+          "id": "98a54ceab16397206eb29f21fd3ba89a3afaad15",
+          "title": "Mistral Large 4 进入 Code Arena: WebDev 排名第45，得分1534 / Mistral Large 4 by @MistralAI just landed in the Code Arena: WebDev at #45. With 1534 pts, this is a +304 pt improvement from Mistral Lar...",
+          "title_zh": "Mistral Large 4 进入 Code Arena: WebDev 排名第45，得分1534",
+          "title_ja": "@MistralAI による Mistral Large 4 がコード アリーナ: WebDev の #45 にランクインしました。 1534 ポイントで、これはミストラル ラールから +304 ポイントの向上です。",
+          "title_en": "Mistral Large 4 by @MistralAI just landed in the Code Arena: WebDev at #45. With 1534 pts, this is a +304 pt improvement from Mistral Lar...",
+          "title_original": "Mistral Large 4 by @MistralAI just landed in the Code Arena: WebDev at #45. With 1534 pts, this is a +304 pt improvement from Mistral Lar...",
+          "summary": "Arena 宣布 Mistral Large 4 登陆 Code Arena: WebDev，以 1534 分排名第 45，比 Mistral Large 3（第130名）高 304 分，比 Mistral Medium 3.5 高 271 分。",
+          "summary_ja": "Arena は、Mistral Large 4 が Code Arena: WebDev に登場すると発表しました。順位は 1534 ポイントで 45 位で、Mistral Large 3 (130 位) より 304 ポイント高く、Mistral Medium 3.5 より 271 ポイント高いです。",
           "recommend_reason_zh": null,
-          "url": "https://claude.dev/blog/claude-code-in-the-cloud",
-          "source": "Anthropic：Claude.dev 开发者博客（RSS）",
+          "url": "https://x.com/arena/status/2107717155374727602",
+          "source": "X：Arena (@arena)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-06T12:00:00Z"
+          "published_at": "2026-10-07T06:18:23Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Anthropic：Claude.dev 开发者博客（RSS）"
+        "X：Arena (@arena)"
       ],
       "items": [
         {
-          "id": "273d73c99464cb7256dd93c7451d2e7d65976d36",
-          "title": "Claude Code 云端会话实战指南：每个任务独占一台 VM，可并行跑任务并以分支收尾 / Claude Code in the cloud: a field guide to cloud sessions",
-          "title_zh": "Claude Code 云端会话实战指南：每个任务独占一台 VM，可并行跑任务并以分支收尾",
-          "title_ja": "クラウド内の Claude Code: クラウド セッションのフィールド ガイド",
-          "title_en": "Claude Code in the cloud: a field guide to cloud sessions",
-          "title_original": "Claude Code in the cloud: a field guide to cloud sessions",
-          "summary": "Claude Code 推出云端会话：每个任务在独立 VM 上运行，仓库克隆到新分支，可从 claude.ai/code、手机、Desktop、终端和 Slack 启动并跟踪，完成后产出可转 PR 的分支，Pro、Max、Team、Enterprise 计划不额外收费。",
-          "summary_ja": "Claude Code はクラウド セッションを開始します。各タスクは独立した VM 上で実行され、ウェアハウスは新しいブランチに複製されます。 claude.ai/code、携帯電話、デスクトップ、端末、Slack から起動および追跡できます。完了すると、PR に転送できるブランチが生成されます。 Pro、Max、Team、Enterprise プランには追加料金はかかりません。",
+          "id": "98a54ceab16397206eb29f21fd3ba89a3afaad15",
+          "title": "Mistral Large 4 进入 Code Arena: WebDev 排名第45，得分1534 / Mistral Large 4 by @MistralAI just landed in the Code Arena: WebDev at #45. With 1534 pts, this is a +304 pt improvement from Mistral Lar...",
+          "title_zh": "Mistral Large 4 进入 Code Arena: WebDev 排名第45，得分1534",
+          "title_ja": "@MistralAI による Mistral Large 4 がコード アリーナ: WebDev の #45 にランクインしました。 1534 ポイントで、これはミストラル ラールから +304 ポイントの向上です。",
+          "title_en": "Mistral Large 4 by @MistralAI just landed in the Code Arena: WebDev at #45. With 1534 pts, this is a +304 pt improvement from Mistral Lar...",
+          "title_original": "Mistral Large 4 by @MistralAI just landed in the Code Arena: WebDev at #45. With 1534 pts, this is a +304 pt improvement from Mistral Lar...",
+          "summary": "Arena 宣布 Mistral Large 4 登陆 Code Arena: WebDev，以 1534 分排名第 45，比 Mistral Large 3（第130名）高 304 分，比 Mistral Medium 3.5 高 271 分。",
+          "summary_ja": "Arena は、Mistral Large 4 が Code Arena: WebDev に登場すると発表しました。順位は 1534 ポイントで 45 位で、Mistral Large 3 (130 位) より 304 ポイント高く、Mistral Medium 3.5 より 271 ポイント高いです。",
           "recommend_reason_zh": null,
-          "url": "https://claude.dev/blog/claude-code-in-the-cloud",
-          "source": "Anthropic：Claude.dev 开发者博客（RSS）",
+          "url": "https://x.com/arena/status/2107717155374727602",
+          "source": "X：Arena (@arena)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-06T12:00:00Z"
+          "published_at": "2026-10-07T06:18:23Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7566,
-      "importance": 0.7566,
-      "importance_score": 0.7566,
+      "score": 0.7383,
+      "importance": 0.7383,
+      "importance_score": 0.7383,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
-        "editorial": 0.82,
+        "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7721,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-06T12:00:00Z",
-      "latest_at": "2026-10-06T12:00:00Z",
-      "primary_item": {
-        "id": "273d73c99464cb7256dd93c7451d2e7d65976d36",
-        "title": "Claude Code 云端会话实战指南：每个任务独占一台 VM，可并行跑任务并以分支收尾 / Claude Code in the cloud: a field guide to cloud sessions",
-        "title_zh": "Claude Code 云端会话实战指南：每个任务独占一台 VM，可并行跑任务并以分支收尾",
-        "title_ja": "クラウド内の Claude Code: クラウド セッションのフィールド ガイド",
-        "title_en": "Claude Code in the cloud: a field guide to cloud sessions",
-        "title_original": "Claude Code in the cloud: a field guide to cloud sessions",
-        "summary": "Claude Code 推出云端会话：每个任务在独立 VM 上运行，仓库克隆到新分支，可从 claude.ai/code、手机、Desktop、终端和 Slack 启动并跟踪，完成后产出可转 PR 的分支，Pro、Max、Team、Enterprise 计划不额外收费。",
-        "summary_ja": "Claude Code はクラウド セッションを開始します。各タスクは独立した VM 上で実行され、ウェアハウスは新しいブランチに複製されます。 claude.ai/code、携帯電話、デスクトップ、端末、Slack から起動および追跡できます。完了すると、PR に転送できるブランチが生成されます。 Pro、Max、Team、Enterprise プランには追加料金はかかりません。",
-        "recommend_reason_zh": null,
-        "url": "https://claude.dev/blog/claude-code-in-the-cloud",
-        "source": "Anthropic：Claude.dev 开发者博客（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-07T05:56:14.503418Z"
-      }
-    },
-    {
-      "story_id": "story_ae3c4f5c0420",
-      "title": "安全概览中的代码扫描 AI Scan 启用状态 / Code scanning AI Scan enablement status in security overview",
-      "title_ja": "セキュリティ概要でのコード スキャン AI スキャンの有効化ステータス",
-      "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
-      "primary_url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c8e4300aea8b0cb54166d991296e299188b4aa01",
-          "title": "安全概览中的代码扫描 AI Scan 启用状态 / Code scanning AI Scan enablement status in security overview",
-          "title_zh": "安全概览中的代码扫描 AI Scan 启用状态",
-          "title_ja": "セキュリティ概要でのコード スキャン AI スキャンの有効化ステータス",
-          "title_en": "Code scanning AI Scan enablement status in security overview",
-          "title_original": "Code scanning AI Scan enablement status in security overview",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-06T10:23:38Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "c8e4300aea8b0cb54166d991296e299188b4aa01",
-          "title": "安全概览中的代码扫描 AI Scan 启用状态 / Code scanning AI Scan enablement status in security overview",
-          "title_zh": "安全概览中的代码扫描 AI Scan 启用状态",
-          "title_ja": "セキュリティ概要でのコード スキャン AI スキャンの有効化ステータス",
-          "title_en": "Code scanning AI Scan enablement status in security overview",
-          "title_original": "Code scanning AI Scan enablement status in security overview",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-06T10:23:38Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7998,
-      "importance": 0.7998,
-      "importance_score": 0.7998,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7544,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-06T10:23:38Z",
-      "latest_at": "2026-10-06T10:23:38Z",
-      "primary_item": {
-        "id": "c8e4300aea8b0cb54166d991296e299188b4aa01",
-        "title": "安全概览中的代码扫描 AI Scan 启用状态 / Code scanning AI Scan enablement status in security overview",
-        "title_zh": "安全概览中的代码扫描 AI Scan 启用状态",
-        "title_ja": "セキュリティ概要でのコード スキャン AI スキャンの有効化ステータス",
-        "title_en": "Code scanning AI Scan enablement status in security overview",
-        "title_original": "Code scanning AI Scan enablement status in security overview",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-07T05:56:14.503418Z"
-      }
-    },
-    {
-      "story_id": "story_ddb0edeec9f2",
-      "title": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
-      "title_ja": "DeepSeekはテンセントとCATLが大きく参加し、少なくとも800億元の資金調達完了に近づいていると報じられている",
-      "url": "https://www.ithome.com/1/009/990.htm",
-      "primary_url": "https://www.ithome.com/1/009/990.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "59e9dae79a50a0d38aa18f7cb7d8590f95b9cdf8",
-          "title": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
-          "title_zh": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
-          "title_ja": "DeepSeekはテンセントとCATLが大きく参加し、少なくとも800億元の資金調達完了に近づいていると報じられている",
-          "title_en": null,
-          "title_original": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
-          "summary": "据彭博社报道，DeepSeek 新一轮融资接近敲定，规模至少 800 亿元，超出原定约 500 亿元目标，最终总额可能逼近 1000 亿元，腾讯和宁德时代是出资规模最大的投资方之一。",
-          "summary_ja": "ブルームバーグによると、ディープシークの新たな資金調達ラウンドはほぼ完了に近づいており、その規模は当初目標の約500億元を超え、少なくとも800億元となり、最終的な総額は1000億元に近づく可能性がある。 Tencent と CATL は最大の投資家の 1 つです。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/009/990.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T06:25:15Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "59e9dae79a50a0d38aa18f7cb7d8590f95b9cdf8",
-          "title": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
-          "title_zh": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
-          "title_ja": "DeepSeekはテンセントとCATLが大きく参加し、少なくとも800億元の資金調達完了に近づいていると報じられている",
-          "title_en": null,
-          "title_original": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
-          "summary": "据彭博社报道，DeepSeek 新一轮融资接近敲定，规模至少 800 亿元，超出原定约 500 亿元目标，最终总额可能逼近 1000 亿元，腾讯和宁德时代是出资规模最大的投资方之一。",
-          "summary_ja": "ブルームバーグによると、ディープシークの新たな資金調達ラウンドはほぼ完了に近づいており、その規模は当初目標の約500億元を超え、少なくとも800億元となり、最終的な総額は1000億元に近づく可能性がある。 Tencent と CATL は最大の投資家の 1 つです。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/009/990.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T06:25:15Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7398,
-      "importance": 0.7398,
-      "importance_score": 0.7398,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.8,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7124,
+        "recency": 0.9041,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-06T06:25:15Z",
-      "latest_at": "2026-10-06T06:25:15Z",
+      "earliest_at": "2026-10-07T06:18:23Z",
+      "latest_at": "2026-10-07T06:18:23Z",
       "primary_item": {
-        "id": "59e9dae79a50a0d38aa18f7cb7d8590f95b9cdf8",
-        "title": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
-        "title_zh": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
-        "title_ja": "DeepSeekはテンセントとCATLが大きく参加し、少なくとも800億元の資金調達完了に近づいていると報じられている",
-        "title_en": null,
-        "title_original": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
-        "summary": "据彭博社报道，DeepSeek 新一轮融资接近敲定，规模至少 800 亿元，超出原定约 500 亿元目标，最终总额可能逼近 1000 亿元，腾讯和宁德时代是出资规模最大的投资方之一。",
-        "summary_ja": "ブルームバーグによると、ディープシークの新たな資金調達ラウンドはほぼ完了に近づいており、その規模は当初目標の約500億元を超え、少なくとも800億元となり、最終的な総額は1000億元に近づく可能性がある。 Tencent と CATL は最大の投資家の 1 つです。",
+        "id": "98a54ceab16397206eb29f21fd3ba89a3afaad15",
+        "title": "Mistral Large 4 进入 Code Arena: WebDev 排名第45，得分1534 / Mistral Large 4 by @MistralAI just landed in the Code Arena: WebDev at #45. With 1534 pts, this is a +304 pt improvement from Mistral Lar...",
+        "title_zh": "Mistral Large 4 进入 Code Arena: WebDev 排名第45，得分1534",
+        "title_ja": "@MistralAI による Mistral Large 4 がコード アリーナ: WebDev の #45 にランクインしました。 1534 ポイントで、これはミストラル ラールから +304 ポイントの向上です。",
+        "title_en": "Mistral Large 4 by @MistralAI just landed in the Code Arena: WebDev at #45. With 1534 pts, this is a +304 pt improvement from Mistral Lar...",
+        "title_original": "Mistral Large 4 by @MistralAI just landed in the Code Arena: WebDev at #45. With 1534 pts, this is a +304 pt improvement from Mistral Lar...",
+        "summary": "Arena 宣布 Mistral Large 4 登陆 Code Arena: WebDev，以 1534 分排名第 45，比 Mistral Large 3（第130名）高 304 分，比 Mistral Medium 3.5 高 271 分。",
+        "summary_ja": "Arena は、Mistral Large 4 が Code Arena: WebDev に登場すると発表しました。順位は 1534 ポイントで 45 位で、Mistral Large 3 (130 位) より 304 ポイント高く、Mistral Medium 3.5 より 271 ポイント高いです。",
         "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/1/009/990.htm",
-        "source": "IT之家（RSS）",
+        "url": "https://x.com/arena/status/2107717155374727602",
+        "source": "X：Arena (@arena)",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T05:56:14.503418Z"
-      }
-    },
-    {
-      "story_id": "story_5951f365282f",
-      "title": "Claude for Google Workspace 开启 beta，可直接在 Docs、Sheets、Slides 中编辑 / Claude for Google Workspace™",
-      "title_ja": "Google Workspace™ のクロード",
-      "url": "https://www.youtube.com/watch?v=idJQMJwHtyM",
-      "primary_url": "https://www.youtube.com/watch?v=idJQMJwHtyM",
-      "source": "Claude：YouTube（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c540239301bf1b32a1c7a206dc6db87208c2c739",
-          "title": "Claude for Google Workspace 开启 beta，可直接在 Docs、Sheets、Slides 中编辑 / Claude for Google Workspace™",
-          "title_zh": "Claude for Google Workspace 开启 beta，可直接在 Docs、Sheets、Slides 中编辑",
-          "title_ja": "Google Workspace™ のクロード",
-          "title_en": "Claude for Google Workspace™",
-          "title_original": "Claude for Google Workspace™",
-          "summary": "Claude 宣布推出 Claude for Google Workspace（beta），一次安装即可覆盖 Google Docs、Sheets 和 Slides。",
-          "summary_ja": "Claude は、1 回のインストールで Google ドキュメント、スプレッドシート、スライドの機能を提供する Claude for Google Workspace（ベータ版）を発表しました。",
-          "recommend_reason_zh": null,
-          "url": "https://www.youtube.com/watch?v=idJQMJwHtyM",
-          "source": "Claude：YouTube（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T17:02:37Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Claude：YouTube（RSS）"
-      ],
-      "items": [
-        {
-          "id": "c540239301bf1b32a1c7a206dc6db87208c2c739",
-          "title": "Claude for Google Workspace 开启 beta，可直接在 Docs、Sheets、Slides 中编辑 / Claude for Google Workspace™",
-          "title_zh": "Claude for Google Workspace 开启 beta，可直接在 Docs、Sheets、Slides 中编辑",
-          "title_ja": "Google Workspace™ のクロード",
-          "title_en": "Claude for Google Workspace™",
-          "title_original": "Claude for Google Workspace™",
-          "summary": "Claude 宣布推出 Claude for Google Workspace（beta），一次安装即可覆盖 Google Docs、Sheets 和 Slides。",
-          "summary_ja": "Claude は、1 回のインストールで Google ドキュメント、スプレッドシート、スライドの機能を提供する Claude for Google Workspace（ベータ版）を発表しました。",
-          "recommend_reason_zh": null,
-          "url": "https://www.youtube.com/watch?v=idJQMJwHtyM",
-          "source": "Claude：YouTube（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T17:02:37Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7311,
-      "importance": 0.7311,
-      "importance_score": 0.7311,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8305,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-06T17:02:37Z",
-      "latest_at": "2026-10-06T17:02:37Z",
-      "primary_item": {
-        "id": "c540239301bf1b32a1c7a206dc6db87208c2c739",
-        "title": "Claude for Google Workspace 开启 beta，可直接在 Docs、Sheets、Slides 中编辑 / Claude for Google Workspace™",
-        "title_zh": "Claude for Google Workspace 开启 beta，可直接在 Docs、Sheets、Slides 中编辑",
-        "title_ja": "Google Workspace™ のクロード",
-        "title_en": "Claude for Google Workspace™",
-        "title_original": "Claude for Google Workspace™",
-        "summary": "Claude 宣布推出 Claude for Google Workspace（beta），一次安装即可覆盖 Google Docs、Sheets 和 Slides。",
-        "summary_ja": "Claude は、1 回のインストールで Google ドキュメント、スプレッドシート、スライドの機能を提供する Claude for Google Workspace（ベータ版）を発表しました。",
-        "recommend_reason_zh": null,
-        "url": "https://www.youtube.com/watch?v=idJQMJwHtyM",
-        "source": "Claude：YouTube（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-07T05:56:14.503418Z"
-      }
-    },
-    {
-      "story_id": "story_d8dfa4809dc9",
-      "title": "GitHub 重建 Git 基础设施，应对智能体规模开发 / Building Git infrastructure for agent-scale development",
-      "title_ja": "エージェント規模の開発のための Git インフラストラクチャの構築",
-      "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development",
-      "primary_url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development",
-      "source": "GitHub Blog",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "7ea407dcc289d833eb3a077ae5e992166ace8f18",
-          "title": "GitHub 重建 Git 基础设施，应对智能体规模开发 / Building Git infrastructure for agent-scale development",
-          "title_zh": "GitHub 重建 Git 基础设施，应对智能体规模开发",
-          "title_ja": "エージェント規模の開発のための Git インフラストラクチャの構築",
-          "title_en": "Building Git infrastructure for agent-scale development",
-          "title_original": "Building Git infrastructure for agent-scale development",
-          "summary": "GitHub 宣布重建 Git 基础设施，以支持智能体规模开发带来的高并发读写负载。2026 年 8 月 GitHub 月度 Git 事件量达 473.3 billion（一年翻倍以上），9 月智能体和开发者产生 7.38 billion commits（超一年前五倍），pushes 同比增长 4.9 倍。",
-          "summary_ja": "GitHub は、エージェント規模の開発によってもたらされる高い同時読み取りおよび書き込み負荷をサポートするために、Git インフラストラクチャを再構築していると発表しました。 2026 年 8 月、GitHub の月間 Git イベント量は 4,733 億件に達しました (1 年で 2 倍以上)。 9月には、エージェントと開発者は73億8,000万件のコミット（1年前の5倍）を生成し、プッシュ数は前年比4.9倍に増加しました。",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development",
-          "source": "GitHub Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T20:57:56Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Blog"
-      ],
-      "items": [
-        {
-          "id": "7ea407dcc289d833eb3a077ae5e992166ace8f18",
-          "title": "GitHub 重建 Git 基础设施，应对智能体规模开发 / Building Git infrastructure for agent-scale development",
-          "title_zh": "GitHub 重建 Git 基础设施，应对智能体规模开发",
-          "title_ja": "エージェント規模の開発のための Git インフラストラクチャの構築",
-          "title_en": "Building Git infrastructure for agent-scale development",
-          "title_original": "Building Git infrastructure for agent-scale development",
-          "summary": "GitHub 宣布重建 Git 基础设施，以支持智能体规模开发带来的高并发读写负载。2026 年 8 月 GitHub 月度 Git 事件量达 473.3 billion（一年翻倍以上），9 月智能体和开发者产生 7.38 billion commits（超一年前五倍），pushes 同比增长 4.9 倍。",
-          "summary_ja": "GitHub は、エージェント規模の開発によってもたらされる高い同時読み取りおよび書き込み負荷をサポートするために、Git インフラストラクチャを再構築していると発表しました。 2026 年 8 月、GitHub の月間 Git イベント量は 4,733 億件に達しました (1 年で 2 倍以上)。 9月には、エージェントと開発者は73億8,000万件のコミット（1年前の5倍）を生成し、プッシュ数は前年比4.9倍に増加しました。",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development",
-          "source": "GitHub Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T20:57:56Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7308,
-      "importance": 0.7308,
-      "importance_score": 0.7308,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8789,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-06T20:57:56Z",
-      "latest_at": "2026-10-06T20:57:56Z",
-      "primary_item": {
-        "id": "7ea407dcc289d833eb3a077ae5e992166ace8f18",
-        "title": "GitHub 重建 Git 基础设施，应对智能体规模开发 / Building Git infrastructure for agent-scale development",
-        "title_zh": "GitHub 重建 Git 基础设施，应对智能体规模开发",
-        "title_ja": "エージェント規模の開発のための Git インフラストラクチャの構築",
-        "title_en": "Building Git infrastructure for agent-scale development",
-        "title_original": "Building Git infrastructure for agent-scale development",
-        "summary": "GitHub 宣布重建 Git 基础设施，以支持智能体规模开发带来的高并发读写负载。2026 年 8 月 GitHub 月度 Git 事件量达 473.3 billion（一年翻倍以上），9 月智能体和开发者产生 7.38 billion commits（超一年前五倍），pushes 同比增长 4.9 倍。",
-        "summary_ja": "GitHub は、エージェント規模の開発によってもたらされる高い同時読み取りおよび書き込み負荷をサポートするために、Git インフラストラクチャを再構築していると発表しました。 2026 年 8 月、GitHub の月間 Git イベント量は 4,733 億件に達しました (1 年で 2 倍以上)。 9月には、エージェントと開発者は73億8,000万件のコミット（1年前の5倍）を生成し、プッシュ数は前年比4.9倍に増加しました。",
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development",
-        "source": "GitHub Blog",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-07T05:56:14.503418Z"
-      }
-    },
-    {
-      "story_id": "story_34879e2db3e2",
-      "title": "Mistral Large 4 上线 OpenRouter 公测：1T 参数、512K 上下文 / Le Chonk has arrived 🐈",
-      "title_ja": "ル・チョンクがやって来ました🐈",
-      "url": "https://x.com/OpenRouter/status/2107471559040635360",
-      "primary_url": "https://x.com/OpenRouter/status/2107471559040635360",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "cc19177e6fbdf4a67d8007b928e7224f686d8878",
-          "title": "Mistral Large 4 上线 OpenRouter 公测：1T 参数、512K 上下文 / Le Chonk has arrived 🐈",
-          "title_zh": "Mistral Large 4 上线 OpenRouter 公测：1T 参数、512K 上下文",
-          "title_ja": "ル・チョンクがやって来ました🐈",
-          "title_en": "Le Chonk has arrived 🐈",
-          "title_original": "Le Chonk has arrived 🐈",
-          "summary": "Mistral Large 4 现已在 OpenRouter 开放公测，规格为 1T 参数（49B 激活）、原生多模态、512K 上下文、最高 256K 输出。前两周五折：每 1M tokens 输入 $0.68、输出 $2.09，缓存 $0.07。",
-          "summary_ja": "Mistral Large 4 は現在、OpenRouter で公開テストが開始されており、1T パラメーター (49B アクティベーション)、ネイティブ マルチモダリティ、512K コンテキスト、および最大 256K 出力の仕様が備えられています。最初の 2 週間は 50% オフです。100 万トークンごとに入力 $0.68、出力 $2.09、キャッシュ $0.07。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/OpenRouter/status/2107471559040635360",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T14:02:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenRouter (@OpenRouter)"
-      ],
-      "items": [
-        {
-          "id": "cc19177e6fbdf4a67d8007b928e7224f686d8878",
-          "title": "Mistral Large 4 上线 OpenRouter 公测：1T 参数、512K 上下文 / Le Chonk has arrived 🐈",
-          "title_zh": "Mistral Large 4 上线 OpenRouter 公测：1T 参数、512K 上下文",
-          "title_ja": "ル・チョンクがやって来ました🐈",
-          "title_en": "Le Chonk has arrived 🐈",
-          "title_original": "Le Chonk has arrived 🐈",
-          "summary": "Mistral Large 4 现已在 OpenRouter 开放公测，规格为 1T 参数（49B 激活）、原生多模态、512K 上下文、最高 256K 输出。前两周五折：每 1M tokens 输入 $0.68、输出 $2.09，缓存 $0.07。",
-          "summary_ja": "Mistral Large 4 は現在、OpenRouter で公開テストが開始されており、1T パラメーター (49B アクティベーション)、ネイティブ マルチモダリティ、512K コンテキスト、および最大 256K 出力の仕様が備えられています。最初の 2 週間は 50% オフです。100 万トークンごとに入力 $0.68、出力 $2.09、キャッシュ $0.07。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/OpenRouter/status/2107471559040635360",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T14:02:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7277,
-      "importance": 0.7277,
-      "importance_score": 0.7277,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7952,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-06T14:02:29Z",
-      "latest_at": "2026-10-06T14:02:29Z",
-      "primary_item": {
-        "id": "cc19177e6fbdf4a67d8007b928e7224f686d8878",
-        "title": "Mistral Large 4 上线 OpenRouter 公测：1T 参数、512K 上下文 / Le Chonk has arrived 🐈",
-        "title_zh": "Mistral Large 4 上线 OpenRouter 公测：1T 参数、512K 上下文",
-        "title_ja": "ル・チョンクがやって来ました🐈",
-        "title_en": "Le Chonk has arrived 🐈",
-        "title_original": "Le Chonk has arrived 🐈",
-        "summary": "Mistral Large 4 现已在 OpenRouter 开放公测，规格为 1T 参数（49B 激活）、原生多模态、512K 上下文、最高 256K 输出。前两周五折：每 1M tokens 输入 $0.68、输出 $2.09，缓存 $0.07。",
-        "summary_ja": "Mistral Large 4 は現在、OpenRouter で公開テストが開始されており、1T パラメーター (49B アクティベーション)、ネイティブ マルチモダリティ、512K コンテキスト、および最大 256K 出力の仕様が備えられています。最初の 2 週間は 50% オフです。100 万トークンごとに入力 $0.68、出力 $2.09、キャッシュ $0.07。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/OpenRouter/status/2107471559040635360",
-        "source": "X：OpenRouter (@OpenRouter)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-07T05:56:14.503418Z"
-      }
-    },
-    {
-      "story_id": "story_17625524f250",
-      "title": "通过 Ironclad 促进计算机的使用 / Advancing computer use with Ironclad",
-      "title_ja": "Ironclad によるコンピュータの利用の促進",
-      "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
-      "primary_url": "https://openai.com/index/advancing-computer-use-with-ironclad",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4cdb05f359822803b33d7deedddf87e38d2593ed",
-          "title": "通过 Ironclad 促进计算机的使用 / Advancing computer use with Ironclad",
-          "title_zh": "通过 Ironclad 促进计算机的使用",
-          "title_ja": "Ironclad によるコンピュータの利用の促進",
-          "title_en": "Advancing computer use with Ironclad",
-          "title_original": "Advancing computer use with Ironclad",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-06T10:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "4cdb05f359822803b33d7deedddf87e38d2593ed",
-          "title": "通过 Ironclad 促进计算机的使用 / Advancing computer use with Ironclad",
-          "title_zh": "通过 Ironclad 促进计算机的使用",
-          "title_ja": "Ironclad によるコンピュータの利用の促進",
-          "title_en": "Advancing computer use with Ironclad",
-          "title_original": "Advancing computer use with Ironclad",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-06T10:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.807,
-      "importance": 0.807,
-      "importance_score": 0.807,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7502,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-06T10:00:00Z",
-      "latest_at": "2026-10-06T10:00:00Z",
-      "primary_item": {
-        "id": "4cdb05f359822803b33d7deedddf87e38d2593ed",
-        "title": "通过 Ironclad 促进计算机的使用 / Advancing computer use with Ironclad",
-        "title_zh": "通过 Ironclad 促进计算机的使用",
-        "title_ja": "Ironclad によるコンピュータの利用の促進",
-        "title_en": "Advancing computer use with Ironclad",
-        "title_original": "Advancing computer use with Ironclad",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-07T05:56:14.503418Z"
+        "scored_at": "2026-10-07T13:18:56.107999Z"
       }
     },
     {
@@ -1689,16 +1273,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6148,
-      "importance": 0.6148,
-      "importance_score": 0.6148,
+      "score": 0.6,
+      "importance": 0.6,
+      "importance_score": 0.6,
       "importance_label": "值得关注",
       "importance_label_ja": "要注目",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.8112,
+        "recency": 0.7292,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1725,7 +1309,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T05:56:14.503418Z"
+        "scored_at": "2026-10-07T13:18:56.107999Z"
       }
     },
     {
@@ -1876,16 +1460,16 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5674,
-      "importance": 0.5674,
-      "importance_score": 0.5674,
+      "score": 0.5521,
+      "importance": 0.5521,
+      "importance_score": 0.5521,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8424,
+        "recency": 0.7572,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1912,7 +1496,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T05:56:14.503418Z"
+        "scored_at": "2026-10-07T13:18:56.107999Z"
       }
     },
     {
@@ -2031,16 +1615,16 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5673,
-      "importance": 0.5673,
-      "importance_score": 0.5673,
+      "score": 0.5495,
+      "importance": 0.5495,
+      "importance_score": 0.5495,
       "importance_label": "多源热议",
       "importance_label_ja": "複数ソースで話題",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9805,
+        "recency": 0.8814,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -2067,7 +1651,650 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T05:56:14.503418Z"
+        "scored_at": "2026-10-07T13:18:56.107999Z"
+      }
+    },
+    {
+      "story_id": "story_405812cab170",
+      "title": "Penguin Mail——一款适用于 Linux 的开源 Rust 电子邮件客户端，支持人工智能",
+      "title_ja": "Penguin Mail — AI サポートを備えた Linux 用のオープンソース Rust 電子メール クライアント",
+      "url": "https://penguin-mail.com",
+      "primary_url": "https://penguin-mail.com",
+      "source": "penguin-mail.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "8ae6c107b4a091bb41a84ca2be3e2d0b27176237",
+          "title": "Penguin Mail——一款适用于 Linux 的开源 Rust 电子邮件客户端，支持人工智能",
+          "title_zh": "Penguin Mail——一款适用于 Linux 的开源 Rust 电子邮件客户端，支持人工智能",
+          "title_ja": "Penguin Mail — AI サポートを備えた Linux 用のオープンソース Rust 電子メール クライアント",
+          "title_en": null,
+          "title_original": "Penguin Mail——一款适用于 Linux 的开源 Rust 电子邮件客户端，支持人工智能",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://penguin-mail.com",
+          "source": "penguin-mail.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-07T03:59:52.382000Z"
+        },
+        {
+          "id": "e615b542dbf4a64d5eea07dd0a05122819da4f7c",
+          "title": "Penguin Mail——一款适用于 Linux 的开源 Rust 电子邮件客户端，支持人工智能 / Penguin Mail – open-source Rust email client for Linux with AI",
+          "title_zh": "Penguin Mail——一款适用于 Linux 的开源 Rust 电子邮件客户端，支持人工智能",
+          "title_ja": "Penguin Mail – AI を搭載した Linux 用のオープンソース Rust 電子メール クライアント",
+          "title_en": "Penguin Mail – open-source Rust email client for Linux with AI",
+          "title_original": "Penguin Mail – open-source Rust email client for Linux with AI",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://penguin-mail.com",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-06T21:59:43Z"
+        },
+        {
+          "id": "d4ea091e5aff571c131f685fd6b011d10381eb70",
+          "title": "Penguin Mail – 适用于 Linux 且具有 AI 功能的开源 Rust 电子邮件客户端 / Penguin Mail – open-source Rust email client for Linux with AI",
+          "title_zh": "Penguin Mail – 适用于 Linux 且具有 AI 功能的开源 Rust 电子邮件客户端",
+          "title_ja": "Penguin Mail – AI を搭載した Linux 用のオープンソース Rust 電子メール クライアント",
+          "title_en": "Penguin Mail – open-source Rust email client for Linux with AI",
+          "title_original": "Penguin Mail – open-source Rust email client for Linux with AI",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49984716",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-06T21:59:43Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "penguin-mail.com"
+      ],
+      "items": [
+        {
+          "id": "8ae6c107b4a091bb41a84ca2be3e2d0b27176237",
+          "title": "Penguin Mail——一款适用于 Linux 的开源 Rust 电子邮件客户端，支持人工智能",
+          "title_zh": "Penguin Mail——一款适用于 Linux 的开源 Rust 电子邮件客户端，支持人工智能",
+          "title_ja": "Penguin Mail — AI サポートを備えた Linux 用のオープンソース Rust 電子メール クライアント",
+          "title_en": null,
+          "title_original": "Penguin Mail——一款适用于 Linux 的开源 Rust 电子邮件客户端，支持人工智能",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://penguin-mail.com",
+          "source": "penguin-mail.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-07T03:59:52.382000Z"
+        },
+        {
+          "id": "e615b542dbf4a64d5eea07dd0a05122819da4f7c",
+          "title": "Penguin Mail——一款适用于 Linux 的开源 Rust 电子邮件客户端，支持人工智能 / Penguin Mail – open-source Rust email client for Linux with AI",
+          "title_zh": "Penguin Mail——一款适用于 Linux 的开源 Rust 电子邮件客户端，支持人工智能",
+          "title_ja": "Penguin Mail – AI を搭載した Linux 用のオープンソース Rust 電子メール クライアント",
+          "title_en": "Penguin Mail – open-source Rust email client for Linux with AI",
+          "title_original": "Penguin Mail – open-source Rust email client for Linux with AI",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://penguin-mail.com",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-06T21:59:43Z"
+        },
+        {
+          "id": "d4ea091e5aff571c131f685fd6b011d10381eb70",
+          "title": "Penguin Mail – 适用于 Linux 且具有 AI 功能的开源 Rust 电子邮件客户端 / Penguin Mail – open-source Rust email client for Linux with AI",
+          "title_zh": "Penguin Mail – 适用于 Linux 且具有 AI 功能的开源 Rust 电子邮件客户端",
+          "title_ja": "Penguin Mail – AI を搭載した Linux 用のオープンソース Rust 電子メール クライアント",
+          "title_en": "Penguin Mail – open-source Rust email client for Linux with AI",
+          "title_original": "Penguin Mail – open-source Rust email client for Linux with AI",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49984716",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-06T21:59:43Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5482,
+      "importance": 0.5482,
+      "importance_score": 0.5482,
+      "importance_label": "多源热议",
+      "importance_label_ja": "複数ソースで話題",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8745,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-06T21:59:43Z",
+      "latest_at": "2026-10-07T03:59:52.382000Z",
+      "primary_item": {
+        "id": "8ae6c107b4a091bb41a84ca2be3e2d0b27176237",
+        "title": "Penguin Mail——一款适用于 Linux 的开源 Rust 电子邮件客户端，支持人工智能",
+        "title_zh": "Penguin Mail——一款适用于 Linux 的开源 Rust 电子邮件客户端，支持人工智能",
+        "title_ja": "Penguin Mail — AI サポートを備えた Linux 用のオープンソース Rust 電子メール クライアント",
+        "title_en": null,
+        "title_original": "Penguin Mail——一款适用于 Linux 的开源 Rust 电子邮件客户端，支持人工智能",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://penguin-mail.com",
+        "source": "penguin-mail.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-07T13:18:56.107999Z"
+      }
+    },
+    {
+      "story_id": "story_ac38afe6f3f3",
+      "title": "像 1866 年一样写作：LLM重新学习电报语 / Write Like It's 1866: LLMs Relearn Telegraphese",
+      "title_ja": "1866 年のように書く: LLM は電信語を学び直す",
+      "url": "https://fiveminutesforward.com/post/2026-10-04-telegraph-test",
+      "primary_url": "https://fiveminutesforward.com/post/2026-10-04-telegraph-test",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "9c3874dac71eaa3f17a0c9cc017a208604a352b4",
+          "title": "像 1866 年一样写作：LLM重新学习电报语 / Write Like It's 1866: LLMs Relearn Telegraphese",
+          "title_zh": "像 1866 年一样写作：LLM重新学习电报语",
+          "title_ja": "1866 年のように書く: LLM は電信語を学び直す",
+          "title_en": "Write Like It's 1866: LLMs Relearn Telegraphese",
+          "title_original": "Write Like It's 1866: LLMs Relearn Telegraphese",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://fiveminutesforward.com/post/2026-10-04-telegraph-test",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-07T12:04:36Z"
+        },
+        {
+          "id": "116436c2d524d67fcea0ffee6e1bf5ada49774c0",
+          "title": "像 1866 年一样写作：LLM重新学习电报语 / Write Like It's 1866: LLMs Relearn Telegraphese",
+          "title_zh": "像 1866 年一样写作：LLM重新学习电报语",
+          "title_ja": "1866 年のように書く: LLM は電信語を学び直す",
+          "title_en": "Write Like It's 1866: LLMs Relearn Telegraphese",
+          "title_original": "Write Like It's 1866: LLMs Relearn Telegraphese",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49991580",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-07T12:04:36Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "9c3874dac71eaa3f17a0c9cc017a208604a352b4",
+          "title": "像 1866 年一样写作：LLM重新学习电报语 / Write Like It's 1866: LLMs Relearn Telegraphese",
+          "title_zh": "像 1866 年一样写作：LLM重新学习电报语",
+          "title_ja": "1866 年のように書く: LLM は電信語を学び直す",
+          "title_en": "Write Like It's 1866: LLMs Relearn Telegraphese",
+          "title_original": "Write Like It's 1866: LLMs Relearn Telegraphese",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://fiveminutesforward.com/post/2026-10-04-telegraph-test",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-07T12:04:36Z"
+        },
+        {
+          "id": "116436c2d524d67fcea0ffee6e1bf5ada49774c0",
+          "title": "像 1866 年一样写作：LLM重新学习电报语 / Write Like It's 1866: LLMs Relearn Telegraphese",
+          "title_zh": "像 1866 年一样写作：LLM重新学习电报语",
+          "title_ja": "1866 年のように書く: LLM は電信語を学び直す",
+          "title_en": "Write Like It's 1866: LLMs Relearn Telegraphese",
+          "title_original": "Write Like It's 1866: LLMs Relearn Telegraphese",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49991580",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-07T12:04:36Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5427,
+      "importance": 0.5427,
+      "importance_score": 0.5427,
+      "importance_label": "值得关注",
+      "importance_label_ja": "要注目",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9827,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-07T12:04:36Z",
+      "latest_at": "2026-10-07T12:04:36Z",
+      "primary_item": {
+        "id": "9c3874dac71eaa3f17a0c9cc017a208604a352b4",
+        "title": "像 1866 年一样写作：LLM重新学习电报语 / Write Like It's 1866: LLMs Relearn Telegraphese",
+        "title_zh": "像 1866 年一样写作：LLM重新学习电报语",
+        "title_ja": "1866 年のように書く: LLM は電信語を学び直す",
+        "title_en": "Write Like It's 1866: LLMs Relearn Telegraphese",
+        "title_original": "Write Like It's 1866: LLMs Relearn Telegraphese",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://fiveminutesforward.com/post/2026-10-04-telegraph-test",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-07T13:18:56.107999Z"
+      }
+    },
+    {
+      "story_id": "story_435877e0fd74",
+      "title": "韩国称人工智能代理可能已被用来入侵该国的银行 / South Korea Says AI Agents May Have Been Used to Hack the Country's Banks",
+      "title_ja": "韓国、AIエージェントが銀行のハッキングに利用された可能性があると発表",
+      "url": "https://news.slashdot.org/story/26/10/07/0313242/south-korea-says-ai-agents-may-have-been-used-to-hack-the-countrys-banks",
+      "primary_url": "https://news.slashdot.org/story/26/10/07/0313242/south-korea-says-ai-agents-may-have-been-used-to-hack-the-countrys-banks",
+      "source": "Slashdot",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "b942215bd8502406b82b22d8bfa167bad9f62361",
+          "title": "韩国称人工智能代理可能已被用来入侵该国的银行 / South Korea Says AI Agents May Have Been Used to Hack the Country's Banks",
+          "title_zh": "韩国称人工智能代理可能已被用来入侵该国的银行",
+          "title_ja": "韓国、AIエージェントが銀行のハッキングに利用された可能性があると発表",
+          "title_en": "South Korea Says AI Agents May Have Been Used to Hack the Country's Banks",
+          "title_original": "South Korea Says AI Agents May Have Been Used to Hack the Country's Banks",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.slashdot.org/story/26/10/07/0313242/south-korea-says-ai-agents-may-have-been-used-to-hack-the-countrys-banks",
+          "source": "Slashdot",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-07T03:30:00Z"
+        },
+        {
+          "id": "3b47af8d5d83dfa8b17212e8261aa980bf869dfd",
+          "title": "韩国称人工智能代理似乎已被用来入侵该国的银行 / South Korea says AI agents appear to have been used to hack the country's banks",
+          "title_zh": "韩国称人工智能代理似乎已被用来入侵该国的银行",
+          "title_ja": "韓国、AIエージェントが国内銀行のハッキングに利用されたようだと発表",
+          "title_en": "South Korea says AI agents appear to have been used to hack the country's banks",
+          "title_original": "South Korea says AI agents appear to have been used to hack the country's banks",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-06T23:50:33Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Slashdot"
+      ],
+      "items": [
+        {
+          "id": "b942215bd8502406b82b22d8bfa167bad9f62361",
+          "title": "韩国称人工智能代理可能已被用来入侵该国的银行 / South Korea Says AI Agents May Have Been Used to Hack the Country's Banks",
+          "title_zh": "韩国称人工智能代理可能已被用来入侵该国的银行",
+          "title_ja": "韓国、AIエージェントが銀行のハッキングに利用された可能性があると発表",
+          "title_en": "South Korea Says AI Agents May Have Been Used to Hack the Country's Banks",
+          "title_original": "South Korea Says AI Agents May Have Been Used to Hack the Country's Banks",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.slashdot.org/story/26/10/07/0313242/south-korea-says-ai-agents-may-have-been-used-to-hack-the-countrys-banks",
+          "source": "Slashdot",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-07T03:30:00Z"
+        },
+        {
+          "id": "3b47af8d5d83dfa8b17212e8261aa980bf869dfd",
+          "title": "韩国称人工智能代理似乎已被用来入侵该国的银行 / South Korea says AI agents appear to have been used to hack the country's banks",
+          "title_zh": "韩国称人工智能代理似乎已被用来入侵该国的银行",
+          "title_ja": "韓国、AIエージェントが国内銀行のハッキングに利用されたようだと発表",
+          "title_en": "South Korea says AI agents appear to have been used to hack the country's banks",
+          "title_original": "South Korea says AI agents appear to have been used to hack the country's banks",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-06T23:50:33Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5221,
+      "importance": 0.5221,
+      "importance_score": 0.5221,
+      "importance_label": "值得关注",
+      "importance_label_ja": "要注目",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8682,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-06T23:50:33Z",
+      "latest_at": "2026-10-07T03:30:00Z",
+      "primary_item": {
+        "id": "b942215bd8502406b82b22d8bfa167bad9f62361",
+        "title": "韩国称人工智能代理可能已被用来入侵该国的银行 / South Korea Says AI Agents May Have Been Used to Hack the Country's Banks",
+        "title_zh": "韩国称人工智能代理可能已被用来入侵该国的银行",
+        "title_ja": "韓国、AIエージェントが銀行のハッキングに利用された可能性があると発表",
+        "title_en": "South Korea Says AI Agents May Have Been Used to Hack the Country's Banks",
+        "title_original": "South Korea Says AI Agents May Have Been Used to Hack the Country's Banks",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.slashdot.org/story/26/10/07/0313242/south-korea-says-ai-agents-may-have-been-used-to-hack-the-countrys-banks",
+        "source": "Slashdot",
+        "source_name": "TechURLs"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-07T13:18:56.107999Z"
+      }
+    },
+    {
+      "story_id": "story_20180e64f056",
+      "title": "Decisions API 已进入公开测试阶段",
+      "title_ja": "Decisions API がパブリックベータ版に入りました",
+      "url": "https://developers.openai.com/api/docs/guides/decisions",
+      "primary_url": "https://developers.openai.com/api/docs/guides/decisions",
+      "source": "developers.openai.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "9d17a498c21d855deed5021f5008204aca912cc5",
+          "title": "Decisions API 已进入公开测试阶段",
+          "title_zh": "Decisions API 已进入公开测试阶段",
+          "title_ja": "Decisions API がパブリックベータ版に入りました",
+          "title_en": null,
+          "title_original": "Decisions API 已进入公开测试阶段",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/api/docs/guides/decisions",
+          "source": "developers.openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-07T00:03:31.762000Z"
+        },
+        {
+          "id": "caa88d28b8418e09218b7fa9b760ec76bccc5d20",
+          "title": "Decisions API 已进入公开测试阶段 / Decisions API is in public beta",
+          "title_zh": "Decisions API 已进入公开测试阶段",
+          "title_ja": "Decisions API はパブリックベータ版です",
+          "title_en": "Decisions API is in public beta",
+          "title_original": "Decisions API is in public beta",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/api/docs/guides/decisions",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-06T20:57:25Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "developers.openai.com"
+      ],
+      "items": [
+        {
+          "id": "9d17a498c21d855deed5021f5008204aca912cc5",
+          "title": "Decisions API 已进入公开测试阶段",
+          "title_zh": "Decisions API 已进入公开测试阶段",
+          "title_ja": "Decisions API がパブリックベータ版に入りました",
+          "title_en": null,
+          "title_original": "Decisions API 已进入公开测试阶段",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/api/docs/guides/decisions",
+          "source": "developers.openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-07T00:03:31.762000Z"
+        },
+        {
+          "id": "caa88d28b8418e09218b7fa9b760ec76bccc5d20",
+          "title": "Decisions API 已进入公开测试阶段 / Decisions API is in public beta",
+          "title_zh": "Decisions API 已进入公开测试阶段",
+          "title_ja": "Decisions API はパブリックベータ版です",
+          "title_en": "Decisions API is in public beta",
+          "title_original": "Decisions API is in public beta",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/api/docs/guides/decisions",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-06T20:57:25Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5145,
+      "importance": 0.5145,
+      "importance_score": 0.5145,
+      "importance_label": "值得关注",
+      "importance_label_ja": "要注目",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8261,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-06T20:57:25Z",
+      "latest_at": "2026-10-07T00:03:31.762000Z",
+      "primary_item": {
+        "id": "9d17a498c21d855deed5021f5008204aca912cc5",
+        "title": "Decisions API 已进入公开测试阶段",
+        "title_zh": "Decisions API 已进入公开测试阶段",
+        "title_ja": "Decisions API がパブリックベータ版に入りました",
+        "title_en": null,
+        "title_original": "Decisions API 已进入公开测试阶段",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://developers.openai.com/api/docs/guides/decisions",
+        "source": "developers.openai.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-07T13:18:56.107999Z"
+      }
+    },
+    {
+      "story_id": "story_85b2f1cf3912",
+      "title": "LLM和数据中毒被武器化以达成共识 / LLMs and Data Poisoning Are Weaponized to Manufacture Consensus",
+      "title_ja": "LLM とデータポイズニングは合意形成を目的として武器化される",
+      "url": "https://medium.com/@eslam.elsewedy/synthetic-truth-how-marketing-power-and-ai-bend-reality-cd8a1173b968",
+      "primary_url": "https://medium.com/@eslam.elsewedy/synthetic-truth-how-marketing-power-and-ai-bend-reality-cd8a1173b968",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "b9227a95e5acb068f61723f7fcb585074e5ec723",
+          "title": "LLM和数据中毒被武器化以达成共识 / LLMs and Data Poisoning Are Weaponized to Manufacture Consensus",
+          "title_zh": "LLM和数据中毒被武器化以达成共识",
+          "title_ja": "LLM とデータポイズニングは合意形成を目的として武器化される",
+          "title_en": "LLMs and Data Poisoning Are Weaponized to Manufacture Consensus",
+          "title_original": "LLMs and Data Poisoning Are Weaponized to Manufacture Consensus",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://medium.com/@eslam.elsewedy/synthetic-truth-how-marketing-power-and-ai-bend-reality-cd8a1173b968",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-07T11:23:55Z"
+        },
+        {
+          "id": "8860abe44569e5fa05ec1915a6803b0e9a7ee052",
+          "title": "LLM和数据中毒被武器化以达成共识 / LLMs and Data Poisoning Are Weaponized to Manufacture Consensus",
+          "title_zh": "LLM和数据中毒被武器化以达成共识",
+          "title_ja": "LLM とデータポイズニングは合意形成を目的として武器化される",
+          "title_en": "LLMs and Data Poisoning Are Weaponized to Manufacture Consensus",
+          "title_original": "LLMs and Data Poisoning Are Weaponized to Manufacture Consensus",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49991218",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-07T11:23:55Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "b9227a95e5acb068f61723f7fcb585074e5ec723",
+          "title": "LLM和数据中毒被武器化以达成共识 / LLMs and Data Poisoning Are Weaponized to Manufacture Consensus",
+          "title_zh": "LLM和数据中毒被武器化以达成共识",
+          "title_ja": "LLM とデータポイズニングは合意形成を目的として武器化される",
+          "title_en": "LLMs and Data Poisoning Are Weaponized to Manufacture Consensus",
+          "title_original": "LLMs and Data Poisoning Are Weaponized to Manufacture Consensus",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://medium.com/@eslam.elsewedy/synthetic-truth-how-marketing-power-and-ai-bend-reality-cd8a1173b968",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-07T11:23:55Z"
+        },
+        {
+          "id": "8860abe44569e5fa05ec1915a6803b0e9a7ee052",
+          "title": "LLM和数据中毒被武器化以达成共识 / LLMs and Data Poisoning Are Weaponized to Manufacture Consensus",
+          "title_zh": "LLM和数据中毒被武器化以达成共识",
+          "title_ja": "LLM とデータポイズニングは合意形成を目的として武器化される",
+          "title_en": "LLMs and Data Poisoning Are Weaponized to Manufacture Consensus",
+          "title_original": "LLMs and Data Poisoning Are Weaponized to Manufacture Consensus",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49991218",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-07T11:23:55Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.541,
+      "importance": 0.541,
+      "importance_score": 0.541,
+      "importance_label": "值得关注",
+      "importance_label_ja": "要注目",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9731,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-07T11:23:55Z",
+      "latest_at": "2026-10-07T11:23:55Z",
+      "primary_item": {
+        "id": "b9227a95e5acb068f61723f7fcb585074e5ec723",
+        "title": "LLM和数据中毒被武器化以达成共识 / LLMs and Data Poisoning Are Weaponized to Manufacture Consensus",
+        "title_zh": "LLM和数据中毒被武器化以达成共识",
+        "title_ja": "LLM とデータポイズニングは合意形成を目的として武器化される",
+        "title_en": "LLMs and Data Poisoning Are Weaponized to Manufacture Consensus",
+        "title_original": "LLMs and Data Poisoning Are Weaponized to Manufacture Consensus",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://medium.com/@eslam.elsewedy/synthetic-truth-how-marketing-power-and-ai-bend-reality-cd8a1173b968",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-07T13:18:56.107999Z"
       }
     }
   ]
