@@ -1,11 +1,227 @@
 {
-  "generated_at": "2026-10-06T20:16:17.302036Z",
+  "generated_at": "2026-10-06T23:49:56.539890Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
+      "story_id": "story_11f226560af5",
+      "title": "OpenAI 发布内部前沿模型产出的数学研究成果 / Sharing AI progress in mathematics",
+      "title_ja": null,
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "primary_url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d5265641b5ae86813b271a1107948f3fc033e728",
+          "title": "OpenAI 发布内部前沿模型产出的数学研究成果 / Sharing AI progress in mathematics",
+          "title_zh": "OpenAI 发布内部前沿模型产出的数学研究成果",
+          "title_ja": null,
+          "title_en": "Sharing AI progress in mathematics",
+          "title_original": "Sharing AI progress in mathematics",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-06T12:00:00Z"
+        },
+        {
+          "id": "6868abd919243a6ee9a41be56fbf208804417bfb",
+          "title": "分享人工智能在数学领域的进展",
+          "title_zh": "分享人工智能在数学领域的进展",
+          "title_ja": null,
+          "title_en": null,
+          "title_original": "分享人工智能在数学领域的进展",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-06T23:01:09.228000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "openai.com"
+      ],
+      "items": [
+        {
+          "id": "d5265641b5ae86813b271a1107948f3fc033e728",
+          "title": "OpenAI 发布内部前沿模型产出的数学研究成果 / Sharing AI progress in mathematics",
+          "title_zh": "OpenAI 发布内部前沿模型产出的数学研究成果",
+          "title_ja": null,
+          "title_en": "Sharing AI progress in mathematics",
+          "title_original": "Sharing AI progress in mathematics",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-06T12:00:00Z"
+        },
+        {
+          "id": "6868abd919243a6ee9a41be56fbf208804417bfb",
+          "title": "分享人工智能在数学领域的进展",
+          "title_zh": "分享人工智能在数学领域的进展",
+          "title_ja": null,
+          "title_en": null,
+          "title_original": "分享人工智能在数学领域的进展",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-06T23:01:09.228000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8487,
+      "importance": 0.8487,
+      "importance_score": 0.8487,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8429,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-06T12:00:00Z",
+      "latest_at": "2026-10-06T23:01:09.228000Z",
+      "primary_item": {
+        "id": "d5265641b5ae86813b271a1107948f3fc033e728",
+        "title": "OpenAI 发布内部前沿模型产出的数学研究成果 / Sharing AI progress in mathematics",
+        "title_zh": "OpenAI 发布内部前沿模型产出的数学研究成果",
+        "title_ja": null,
+        "title_en": "Sharing AI progress in mathematics",
+        "title_original": "Sharing AI progress in mathematics",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-07T00:16:37.429274Z"
+      }
+    },
+    {
+      "story_id": "story_79247d86835a",
+      "title": "Stacked pull requests generally available",
+      "title_ja": null,
+      "url": "https://github.blog/changelog/2026-10-06-stacked-pull-requests-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-10-06-stacked-pull-requests-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "8453041ce376fb2b8202aa6e7429885dd4cb5e4c",
+          "title": "Stacked pull requests generally available",
+          "title_zh": null,
+          "title_ja": null,
+          "title_en": "Stacked pull requests generally available",
+          "title_original": "Stacked pull requests generally available",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-06-stacked-pull-requests-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-06T20:16:41Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "8453041ce376fb2b8202aa6e7429885dd4cb5e4c",
+          "title": "Stacked pull requests generally available",
+          "title_zh": null,
+          "title_ja": null,
+          "title_en": "Stacked pull requests generally available",
+          "title_original": "Stacked pull requests generally available",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-06-stacked-pull-requests-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-06T20:16:41Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.835,
+      "importance": 0.835,
+      "importance_score": 0.835,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.95,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-06T20:16:41Z",
+      "latest_at": "2026-10-06T20:16:41Z",
+      "primary_item": {
+        "id": "8453041ce376fb2b8202aa6e7429885dd4cb5e4c",
+        "title": "Stacked pull requests generally available",
+        "title_zh": null,
+        "title_ja": null,
+        "title_en": "Stacked pull requests generally available",
+        "title_original": "Stacked pull requests generally available",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-06-stacked-pull-requests-generally-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-07T00:16:37.429274Z"
+      }
+    },
+    {
       "story_id": "story_c1863a515d19",
-      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+      "title": "Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2 / EmbeddingGemma 2: an open, lightweight multimodal embedding model",
       "title_ja": "EmbeddingGemma 2: オープンで軽量なマルチモーダル埋め込みモデル",
       "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model",
       "primary_url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model",
@@ -14,8 +230,8 @@
       "sources": [
         {
           "id": "1c38c2104dab1c15d85e04f1a3bde29427bf6695",
-          "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-          "title_zh": null,
+          "title": "Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2 / EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+          "title_zh": "Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2",
           "title_ja": "EmbeddingGemma 2: オープンで軽量なマルチモーダル埋め込みモデル",
           "title_en": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
           "title_original": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
@@ -36,8 +252,8 @@
       "items": [
         {
           "id": "1c38c2104dab1c15d85e04f1a3bde29427bf6695",
-          "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-          "title_zh": null,
+          "title": "Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2 / EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+          "title_zh": "Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2",
           "title_ja": "EmbeddingGemma 2: オープンで軽量なマルチモーダル埋め込みモデル",
           "title_en": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
           "title_original": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
@@ -53,16 +269,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8432,
-      "importance": 0.8432,
-      "importance_score": 0.8432,
+      "score": 0.8342,
+      "importance": 0.8342,
+      "importance_score": 0.8342,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9954,
+        "recency": 0.9455,
         "story_heat": 0.0
       },
       "category": "official",
@@ -75,8 +291,8 @@
       "latest_at": "2026-10-06T19:57:04Z",
       "primary_item": {
         "id": "1c38c2104dab1c15d85e04f1a3bde29427bf6695",
-        "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-        "title_zh": null,
+        "title": "Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2 / EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+        "title_zh": "Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2",
         "title_ja": "EmbeddingGemma 2: オープンで軽量なマルチモーダル埋め込みモデル",
         "title_en": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
         "title_original": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
@@ -91,98 +307,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T20:31:57.470087Z"
-      }
-    },
-    {
-      "story_id": "story_dbe192624685",
-      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-      "title_ja": "アトラシアンと OpenAI がパートナーシップを拡大し、企業の知識を行動に移す",
-      "url": "https://openai.com/index/atlassian-partnership",
-      "primary_url": "https://openai.com/index/atlassian-partnership",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "99d5ded8f540738aaccaa110db1eedf356ac7ebf",
-          "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-          "title_zh": null,
-          "title_ja": "アトラシアンと OpenAI がパートナーシップを拡大し、企業の知識を行動に移す",
-          "title_en": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-          "title_original": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/atlassian-partnership",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-06T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "99d5ded8f540738aaccaa110db1eedf356ac7ebf",
-          "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-          "title_zh": null,
-          "title_ja": "アトラシアンと OpenAI がパートナーシップを拡大し、企業の知識を行動に移す",
-          "title_en": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-          "title_original": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/atlassian-partnership",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-06T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8412,
-      "importance": 0.8412,
-      "importance_score": 0.8412,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9402,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-06T16:00:00Z",
-      "latest_at": "2026-10-06T16:00:00Z",
-      "primary_item": {
-        "id": "99d5ded8f540738aaccaa110db1eedf356ac7ebf",
-        "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-        "title_zh": null,
-        "title_ja": "アトラシアンと OpenAI がパートナーシップを拡大し、企業の知識を行動に移す",
-        "title_en": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-        "title_original": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/atlassian-partnership",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-06T20:31:57.470087Z"
+        "scored_at": "2026-10-07T00:16:37.429274Z"
       }
     },
     {
@@ -235,16 +360,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8361,
-      "importance": 0.8361,
-      "importance_score": 0.8361,
+      "score": 0.8286,
+      "importance": 0.8286,
+      "importance_score": 0.8286,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.8226,
+        "recency": 0.7813,
         "story_heat": 0.0
       },
       "category": "official",
@@ -273,69 +398,69 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T20:31:57.470087Z"
+        "scored_at": "2026-10-07T00:16:37.429274Z"
       }
     },
     {
-      "story_id": "story_ae3c4f5c0420",
-      "title": "安全概览中的代码扫描 AI Scan 启用状态 / Code scanning AI Scan enablement status in security overview",
-      "title_ja": "セキュリティ概要でのコード スキャン AI スキャンの有効化ステータス",
-      "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
-      "primary_url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
-      "source": "GitHub Changelog",
+      "story_id": "story_dbe192624685",
+      "title": "Atlassian 和 OpenAI 扩大合作伙伴关系，将企业知识转化为行动 / Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+      "title_ja": "アトラシアンと OpenAI がパートナーシップを拡大し、企業の知識を行動に移す",
+      "url": "https://openai.com/index/atlassian-partnership",
+      "primary_url": "https://openai.com/index/atlassian-partnership",
+      "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "c8e4300aea8b0cb54166d991296e299188b4aa01",
-          "title": "安全概览中的代码扫描 AI Scan 启用状态 / Code scanning AI Scan enablement status in security overview",
-          "title_zh": "安全概览中的代码扫描 AI Scan 启用状态",
-          "title_ja": "セキュリティ概要でのコード スキャン AI スキャンの有効化ステータス",
-          "title_en": "Code scanning AI Scan enablement status in security overview",
-          "title_original": "Code scanning AI Scan enablement status in security overview",
+          "id": "99d5ded8f540738aaccaa110db1eedf356ac7ebf",
+          "title": "Atlassian 和 OpenAI 扩大合作伙伴关系，将企业知识转化为行动 / Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+          "title_zh": "Atlassian 和 OpenAI 扩大合作伙伴关系，将企业知识转化为行动",
+          "title_ja": "アトラシアンと OpenAI がパートナーシップを拡大し、企業の知識を行動に移す",
+          "title_en": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+          "title_original": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
-          "source": "GitHub Changelog",
+          "url": "https://openai.com/index/atlassian-partnership",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-06T10:23:38Z"
+          "published_at": "2026-10-06T16:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "c8e4300aea8b0cb54166d991296e299188b4aa01",
-          "title": "安全概览中的代码扫描 AI Scan 启用状态 / Code scanning AI Scan enablement status in security overview",
-          "title_zh": "安全概览中的代码扫描 AI Scan 启用状态",
-          "title_ja": "セキュリティ概要でのコード スキャン AI スキャンの有効化ステータス",
-          "title_en": "Code scanning AI Scan enablement status in security overview",
-          "title_original": "Code scanning AI Scan enablement status in security overview",
+          "id": "99d5ded8f540738aaccaa110db1eedf356ac7ebf",
+          "title": "Atlassian 和 OpenAI 扩大合作伙伴关系，将企业知识转化为行动 / Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+          "title_zh": "Atlassian 和 OpenAI 扩大合作伙伴关系，将企业知识转化为行动",
+          "title_ja": "アトラシアンと OpenAI がパートナーシップを拡大し、企業の知識を行動に移す",
+          "title_en": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+          "title_original": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
-          "source": "GitHub Changelog",
+          "url": "https://openai.com/index/atlassian-partnership",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-06T10:23:38Z"
+          "published_at": "2026-10-06T16:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8201,
-      "importance": 0.8201,
-      "importance_score": 0.8201,
+      "score": 0.8328,
+      "importance": 0.8328,
+      "importance_score": 0.8328,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8671,
+        "ai_relevance": 0.91,
+        "recency": 0.8931,
         "story_heat": 0.0
       },
       "category": "official",
@@ -344,27 +469,27 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-06T10:23:38Z",
-      "latest_at": "2026-10-06T10:23:38Z",
+      "earliest_at": "2026-10-06T16:00:00Z",
+      "latest_at": "2026-10-06T16:00:00Z",
       "primary_item": {
-        "id": "c8e4300aea8b0cb54166d991296e299188b4aa01",
-        "title": "安全概览中的代码扫描 AI Scan 启用状态 / Code scanning AI Scan enablement status in security overview",
-        "title_zh": "安全概览中的代码扫描 AI Scan 启用状态",
-        "title_ja": "セキュリティ概要でのコード スキャン AI スキャンの有効化ステータス",
-        "title_en": "Code scanning AI Scan enablement status in security overview",
-        "title_original": "Code scanning AI Scan enablement status in security overview",
+        "id": "99d5ded8f540738aaccaa110db1eedf356ac7ebf",
+        "title": "Atlassian 和 OpenAI 扩大合作伙伴关系，将企业知识转化为行动 / Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+        "title_zh": "Atlassian 和 OpenAI 扩大合作伙伴关系，将企业知识转化为行动",
+        "title_ja": "アトラシアンと OpenAI がパートナーシップを拡大し、企業の知識を行動に移す",
+        "title_en": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+        "title_original": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
         "summary": null,
         "summary_ja": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
-        "source": "GitHub Changelog",
+        "url": "https://openai.com/index/atlassian-partnership",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T20:31:57.470087Z"
+        "scored_at": "2026-10-07T00:16:37.429274Z"
       }
     },
     {
@@ -417,16 +542,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8014,
-      "importance": 0.8014,
-      "importance_score": 0.8014,
+      "score": 0.7925,
+      "importance": 0.7925,
+      "importance_score": 0.7925,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.988,
+        "recency": 0.9385,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -454,98 +579,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T20:31:57.470087Z"
-      }
-    },
-    {
-      "story_id": "story_17625524f250",
-      "title": "Advancing computer use with Ironclad",
-      "title_ja": null,
-      "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
-      "primary_url": "https://openai.com/index/advancing-computer-use-with-ironclad",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4cdb05f359822803b33d7deedddf87e38d2593ed",
-          "title": "Advancing computer use with Ironclad",
-          "title_zh": null,
-          "title_ja": null,
-          "title_en": "Advancing computer use with Ironclad",
-          "title_original": "Advancing computer use with Ironclad",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-06T10:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "4cdb05f359822803b33d7deedddf87e38d2593ed",
-          "title": "Advancing computer use with Ironclad",
-          "title_zh": null,
-          "title_ja": null,
-          "title_en": "Advancing computer use with Ironclad",
-          "title_original": "Advancing computer use with Ironclad",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-06T10:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8272,
-      "importance": 0.8272,
-      "importance_score": 0.8272,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8622,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-06T10:00:00Z",
-      "latest_at": "2026-10-06T10:00:00Z",
-      "primary_item": {
-        "id": "4cdb05f359822803b33d7deedddf87e38d2593ed",
-        "title": "Advancing computer use with Ironclad",
-        "title_zh": null,
-        "title_ja": null,
-        "title_en": "Advancing computer use with Ironclad",
-        "title_original": "Advancing computer use with Ironclad",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-06T20:31:57.470087Z"
+        "scored_at": "2026-10-07T00:16:37.429274Z"
       }
     },
     {
@@ -631,16 +665,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7907,
-      "importance": 0.7907,
-      "importance_score": 0.7907,
+      "score": 0.7825,
+      "importance": 0.7825,
+      "importance_score": 0.7825,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9059,
+        "recency": 0.8605,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -669,7 +703,98 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T20:31:57.470087Z"
+        "scored_at": "2026-10-07T00:16:37.429274Z"
+      }
+    },
+    {
+      "story_id": "story_ae3c4f5c0420",
+      "title": "安全概览中的代码扫描 AI Scan 启用状态 / Code scanning AI Scan enablement status in security overview",
+      "title_ja": "セキュリティ概要でのコード スキャン AI スキャンの有効化ステータス",
+      "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
+      "primary_url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c8e4300aea8b0cb54166d991296e299188b4aa01",
+          "title": "安全概览中的代码扫描 AI Scan 启用状态 / Code scanning AI Scan enablement status in security overview",
+          "title_zh": "安全概览中的代码扫描 AI Scan 启用状态",
+          "title_ja": "セキュリティ概要でのコード スキャン AI スキャンの有効化ステータス",
+          "title_en": "Code scanning AI Scan enablement status in security overview",
+          "title_original": "Code scanning AI Scan enablement status in security overview",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-06T10:23:38Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "c8e4300aea8b0cb54166d991296e299188b4aa01",
+          "title": "安全概览中的代码扫描 AI Scan 启用状态 / Code scanning AI Scan enablement status in security overview",
+          "title_zh": "安全概览中的代码扫描 AI Scan 启用状态",
+          "title_ja": "セキュリティ概要でのコード スキャン AI スキャンの有効化ステータス",
+          "title_en": "Code scanning AI Scan enablement status in security overview",
+          "title_original": "Code scanning AI Scan enablement status in security overview",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-06T10:23:38Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8122,
+      "importance": 0.8122,
+      "importance_score": 0.8122,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8236,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-06T10:23:38Z",
+      "latest_at": "2026-10-06T10:23:38Z",
+      "primary_item": {
+        "id": "c8e4300aea8b0cb54166d991296e299188b4aa01",
+        "title": "安全概览中的代码扫描 AI Scan 启用状态 / Code scanning AI Scan enablement status in security overview",
+        "title_zh": "安全概览中的代码扫描 AI Scan 启用状态",
+        "title_ja": "セキュリティ概要でのコード スキャン AI スキャンの有効化ステータス",
+        "title_en": "Code scanning AI Scan enablement status in security overview",
+        "title_original": "Code scanning AI Scan enablement status in security overview",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-07T00:16:37.429274Z"
       }
     },
     {
@@ -722,16 +847,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7906,
-      "importance": 0.7906,
-      "importance_score": 0.7906,
+      "score": 0.782,
+      "importance": 0.782,
+      "importance_score": 0.782,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9613,
+        "recency": 0.9131,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -759,7 +884,98 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T20:31:57.470087Z"
+        "scored_at": "2026-10-07T00:16:37.429274Z"
+      }
+    },
+    {
+      "story_id": "story_d4a8437d985e",
+      "title": "How Jump Trading is scaling quant research with ChatGPT",
+      "title_ja": null,
+      "url": "https://openai.com/index/jump-trading",
+      "primary_url": "https://openai.com/index/jump-trading",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "eccb8c1105ddd49968b046f4ea855bd93bdf984c",
+          "title": "How Jump Trading is scaling quant research with ChatGPT",
+          "title_zh": null,
+          "title_ja": null,
+          "title_en": "How Jump Trading is scaling quant research with ChatGPT",
+          "title_original": "How Jump Trading is scaling quant research with ChatGPT",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/jump-trading",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-06T12:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "eccb8c1105ddd49968b046f4ea855bd93bdf984c",
+          "title": "How Jump Trading is scaling quant research with ChatGPT",
+          "title_zh": null,
+          "title_ja": null,
+          "title_en": "How Jump Trading is scaling quant research with ChatGPT",
+          "title_original": "How Jump Trading is scaling quant research with ChatGPT",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/jump-trading",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-06T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8317,
+      "importance": 0.8317,
+      "importance_score": 0.8317,
+      "importance_label": "官方更新",
+      "importance_label_ja": "公式アップデート",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8429,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-06T12:00:00Z",
+      "latest_at": "2026-10-06T12:00:00Z",
+      "primary_item": {
+        "id": "eccb8c1105ddd49968b046f4ea855bd93bdf984c",
+        "title": "How Jump Trading is scaling quant research with ChatGPT",
+        "title_zh": null,
+        "title_ja": null,
+        "title_en": "How Jump Trading is scaling quant research with ChatGPT",
+        "title_original": "How Jump Trading is scaling quant research with ChatGPT",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/jump-trading",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-07T00:16:37.429274Z"
       }
     },
     {
@@ -812,16 +1028,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7773,
-      "importance": 0.7773,
-      "importance_score": 0.7773,
+      "score": 0.7693,
+      "importance": 0.7693,
+      "importance_score": 0.7693,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8874,
+        "recency": 0.8429,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -849,188 +1065,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T20:31:57.470087Z"
-      }
-    },
-    {
-      "story_id": "story_45464a737294",
-      "title": "秘密扫描添加了 Lovable、Supabase 等探测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
-      "title_ja": "シークレット スキャンにより、Lovable、Supabase などの検出器が追加されます",
-      "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
-      "primary_url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "63b1b612bfba39b214b5ffc13153f4dbf893d546",
-          "title": "秘密扫描添加了 Lovable、Supabase 等探测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
-          "title_zh": "秘密扫描添加了 Lovable、Supabase 等探测器",
-          "title_ja": "シークレット スキャンにより、Lovable、Supabase などの検出器が追加されます",
-          "title_en": "Secret scanning adds detectors for Lovable, Supabase, and more",
-          "title_original": "Secret scanning adds detectors for Lovable, Supabase, and more",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-05T22:42:14Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "63b1b612bfba39b214b5ffc13153f4dbf893d546",
-          "title": "秘密扫描添加了 Lovable、Supabase 等探测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
-          "title_zh": "秘密扫描添加了 Lovable、Supabase 等探测器",
-          "title_ja": "シークレット スキャンにより、Lovable、Supabase などの検出器が追加されます",
-          "title_en": "Secret scanning adds detectors for Lovable, Supabase, and more",
-          "title_original": "Secret scanning adds detectors for Lovable, Supabase, and more",
-          "summary": null,
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-05T22:42:14Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7958,
-      "importance": 0.7958,
-      "importance_score": 0.7958,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7324,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-05T22:42:14Z",
-      "latest_at": "2026-10-05T22:42:14Z",
-      "primary_item": {
-        "id": "63b1b612bfba39b214b5ffc13153f4dbf893d546",
-        "title": "秘密扫描添加了 Lovable、Supabase 等探测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
-        "title_zh": "秘密扫描添加了 Lovable、Supabase 等探测器",
-        "title_ja": "シークレット スキャンにより、Lovable、Supabase などの検出器が追加されます",
-        "title_en": "Secret scanning adds detectors for Lovable, Supabase, and more",
-        "title_original": "Secret scanning adds detectors for Lovable, Supabase, and more",
-        "summary": null,
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-06T20:31:57.470087Z"
-      }
-    },
-    {
-      "story_id": "story_ddb0edeec9f2",
-      "title": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
-      "title_ja": "DeepSeekはテンセントとCATLが大きく参加し、少なくとも800億元の資金調達完了に近づいていると報じられている",
-      "url": "https://www.ithome.com/1/009/990.htm",
-      "primary_url": "https://www.ithome.com/1/009/990.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "59e9dae79a50a0d38aa18f7cb7d8590f95b9cdf8",
-          "title": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
-          "title_zh": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
-          "title_ja": "DeepSeekはテンセントとCATLが大きく参加し、少なくとも800億元の資金調達完了に近づいていると報じられている",
-          "title_en": null,
-          "title_original": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
-          "summary": "据彭博社报道，DeepSeek 新一轮融资接近敲定，规模至少 800 亿元，超出原定约 500 亿元目标，最终总额可能逼近 1000 亿元，腾讯和宁德时代是出资规模最大的投资方之一。",
-          "summary_ja": "ブルームバーグによると、ディープシークの新たな資金調達ラウンドはほぼ完了に近づいており、その規模は当初目標の約500億元を超え、少なくとも800億元となり、最終的な総額は1000億元に近づく可能性がある。 Tencent と CATL は最大の投資家の 1 つです。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/009/990.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T06:25:15Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "59e9dae79a50a0d38aa18f7cb7d8590f95b9cdf8",
-          "title": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
-          "title_zh": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
-          "title_ja": "DeepSeekはテンセントとCATLが大きく参加し、少なくとも800億元の資金調達完了に近づいていると報じられている",
-          "title_en": null,
-          "title_original": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
-          "summary": "据彭博社报道，DeepSeek 新一轮融资接近敲定，规模至少 800 亿元，超出原定约 500 亿元目标，最终总额可能逼近 1000 亿元，腾讯和宁德时代是出资规模最大的投资方之一。",
-          "summary_ja": "ブルームバーグによると、ディープシークの新たな資金調達ラウンドはほぼ完了に近づいており、その規模は当初目標の約500億元を超え、少なくとも800億元となり、最終的な総額は1000億元に近づく可能性がある。 Tencent と CATL は最大の投資家の 1 つです。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/009/990.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T06:25:15Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.759,
-      "importance": 0.759,
-      "importance_score": 0.759,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.8,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8187,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-06T06:25:15Z",
-      "latest_at": "2026-10-06T06:25:15Z",
-      "primary_item": {
-        "id": "59e9dae79a50a0d38aa18f7cb7d8590f95b9cdf8",
-        "title": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
-        "title_zh": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
-        "title_ja": "DeepSeekはテンセントとCATLが大きく参加し、少なくとも800億元の資金調達完了に近づいていると報じられている",
-        "title_en": null,
-        "title_original": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
-        "summary": "据彭博社报道，DeepSeek 新一轮融资接近敲定，规模至少 800 亿元，超出原定约 500 亿元目标，最终总额可能逼近 1000 亿元，腾讯和宁德时代是出资规模最大的投资方之一。",
-        "summary_ja": "ブルームバーグによると、ディープシークの新たな資金調達ラウンドはほぼ完了に近づいており、その規模は当初目標の約500億元を超え、少なくとも800億元となり、最終的な総額は1000億元に近づく可能性がある。 Tencent と CATL は最大の投資家の 1 つです。",
-        "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/1/009/990.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-06T20:31:57.470087Z"
+        "scored_at": "2026-10-07T00:16:37.429274Z"
       }
     },
     {
@@ -1083,16 +1118,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7583,
-      "importance": 0.7583,
-      "importance_score": 0.7583,
+      "score": 0.7516,
+      "importance": 0.7516,
+      "importance_score": 0.7516,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7462,
+        "recency": 0.7088,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1120,7 +1155,186 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T20:31:57.470087Z"
+        "scored_at": "2026-10-07T00:16:37.429274Z"
+      }
+    },
+    {
+      "story_id": "story_ddb0edeec9f2",
+      "title": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
+      "title_ja": "DeepSeekはテンセントとCATLが大きく参加し、少なくとも800億元の資金調達完了に近づいていると報じられている",
+      "url": "https://www.ithome.com/1/009/990.htm",
+      "primary_url": "https://www.ithome.com/1/009/990.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "59e9dae79a50a0d38aa18f7cb7d8590f95b9cdf8",
+          "title": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
+          "title_zh": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
+          "title_ja": "DeepSeekはテンセントとCATLが大きく参加し、少なくとも800億元の資金調達完了に近づいていると報じられている",
+          "title_en": null,
+          "title_original": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
+          "summary": "据彭博社报道，DeepSeek 新一轮融资接近敲定，规模至少 800 亿元，超出原定约 500 亿元目标，最终总额可能逼近 1000 亿元，腾讯和宁德时代是出资规模最大的投资方之一。",
+          "summary_ja": "ブルームバーグによると、ディープシークの新たな資金調達ラウンドはほぼ完了に近づいており、その規模は当初目標の約500億元を超え、少なくとも800億元となり、最終的な総額は1000億元に近づく可能性がある。 Tencent と CATL は最大の投資家の 1 つです。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/1/009/990.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T06:25:15Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "59e9dae79a50a0d38aa18f7cb7d8590f95b9cdf8",
+          "title": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
+          "title_zh": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
+          "title_ja": "DeepSeekはテンセントとCATLが大きく参加し、少なくとも800億元の資金調達完了に近づいていると報じられている",
+          "title_en": null,
+          "title_original": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
+          "summary": "据彭博社报道，DeepSeek 新一轮融资接近敲定，规模至少 800 亿元，超出原定约 500 亿元目标，最终总额可能逼近 1000 亿元，腾讯和宁德时代是出资规模最大的投资方之一。",
+          "summary_ja": "ブルームバーグによると、ディープシークの新たな資金調達ラウンドはほぼ完了に近づいており、その規模は当初目標の約500億元を超え、少なくとも800億元となり、最終的な総額は1000億元に近づく可能性がある。 Tencent と CATL は最大の投資家の 1 つです。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/1/009/990.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T06:25:15Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7516,
+      "importance": 0.7516,
+      "importance_score": 0.7516,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.8,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7777,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-06T06:25:15Z",
+      "latest_at": "2026-10-06T06:25:15Z",
+      "primary_item": {
+        "id": "59e9dae79a50a0d38aa18f7cb7d8590f95b9cdf8",
+        "title": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
+        "title_zh": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
+        "title_ja": "DeepSeekはテンセントとCATLが大きく参加し、少なくとも800億元の資金調達完了に近づいていると報じられている",
+        "title_en": null,
+        "title_original": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
+        "summary": "据彭博社报道，DeepSeek 新一轮融资接近敲定，规模至少 800 亿元，超出原定约 500 亿元目标，最终总额可能逼近 1000 亿元，腾讯和宁德时代是出资规模最大的投资方之一。",
+        "summary_ja": "ブルームバーグによると、ディープシークの新たな資金調達ラウンドはほぼ完了に近づいており、その規模は当初目標の約500億元を超え、少なくとも800億元となり、最終的な総額は1000億元に近づく可能性がある。 Tencent と CATL は最大の投資家の 1 つです。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/1/009/990.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-07T00:16:37.429274Z"
+      }
+    },
+    {
+      "story_id": "story_d8dfa4809dc9",
+      "title": "GitHub 重建 Git 基础设施，应对智能体规模开发 / Building Git infrastructure for agent-scale development",
+      "title_ja": null,
+      "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development",
+      "primary_url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development",
+      "source": "GitHub Blog",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "7ea407dcc289d833eb3a077ae5e992166ace8f18",
+          "title": "GitHub 重建 Git 基础设施，应对智能体规模开发 / Building Git infrastructure for agent-scale development",
+          "title_zh": "GitHub 重建 Git 基础设施，应对智能体规模开发",
+          "title_ja": null,
+          "title_en": "Building Git infrastructure for agent-scale development",
+          "title_original": "Building Git infrastructure for agent-scale development",
+          "summary": "GitHub 宣布重建 Git 基础设施，以支持智能体规模开发带来的高并发读写负载。2026 年 8 月 GitHub 月度 Git 事件量达 473.3 billion（一年翻倍以上），9 月智能体和开发者产生 7.38 billion commits（超一年前五倍），pushes 同比增长 4.9 倍。",
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development",
+          "source": "GitHub Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T20:57:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Blog"
+      ],
+      "items": [
+        {
+          "id": "7ea407dcc289d833eb3a077ae5e992166ace8f18",
+          "title": "GitHub 重建 Git 基础设施，应对智能体规模开发 / Building Git infrastructure for agent-scale development",
+          "title_zh": "GitHub 重建 Git 基础设施，应对智能体规模开发",
+          "title_ja": null,
+          "title_en": "Building Git infrastructure for agent-scale development",
+          "title_original": "Building Git infrastructure for agent-scale development",
+          "summary": "GitHub 宣布重建 Git 基础设施，以支持智能体规模开发带来的高并发读写负载。2026 年 8 月 GitHub 月度 Git 事件量达 473.3 billion（一年翻倍以上），9 月智能体和开发者产生 7.38 billion commits（超一年前五倍），pushes 同比增长 4.9 倍。",
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development",
+          "source": "GitHub Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T20:57:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7453,
+      "importance": 0.7453,
+      "importance_score": 0.7453,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.67,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9594,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-06T20:57:56Z",
+      "latest_at": "2026-10-06T20:57:56Z",
+      "primary_item": {
+        "id": "7ea407dcc289d833eb3a077ae5e992166ace8f18",
+        "title": "GitHub 重建 Git 基础设施，应对智能体规模开发 / Building Git infrastructure for agent-scale development",
+        "title_zh": "GitHub 重建 Git 基础设施，应对智能体规模开发",
+        "title_ja": null,
+        "title_en": "Building Git infrastructure for agent-scale development",
+        "title_original": "Building Git infrastructure for agent-scale development",
+        "summary": "GitHub 宣布重建 Git 基础设施，以支持智能体规模开发带来的高并发读写负载。2026 年 8 月 GitHub 月度 Git 事件量达 473.3 billion（一年翻倍以上），9 月智能体和开发者产生 7.38 billion commits（超一年前五倍），pushes 同比增长 4.9 倍。",
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development",
+        "source": "GitHub Blog",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-07T00:16:37.429274Z"
       }
     },
     {
@@ -1173,22 +1387,21 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7534,
-      "importance": 0.7534,
-      "importance_score": 0.7534,
+      "score": 0.7448,
+      "importance": 0.7448,
+      "importance_score": 0.7448,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9545,
+        "recency": 0.9066,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-06T17:02:37Z",
       "latest_at": "2026-10-06T17:02:37Z",
@@ -1210,96 +1423,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T20:31:57.470087Z"
-      }
-    },
-    {
-      "story_id": "story_34879e2db3e2",
-      "title": "Mistral Large 4 上线 OpenRouter 公测：1T 参数、512K 上下文 / Le Chonk has arrived 🐈",
-      "title_ja": "ル・チョンクがやって来ました🐈",
-      "url": "https://x.com/OpenRouter/status/2107471559040635360",
-      "primary_url": "https://x.com/OpenRouter/status/2107471559040635360",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "cc19177e6fbdf4a67d8007b928e7224f686d8878",
-          "title": "Mistral Large 4 上线 OpenRouter 公测：1T 参数、512K 上下文 / Le Chonk has arrived 🐈",
-          "title_zh": "Mistral Large 4 上线 OpenRouter 公测：1T 参数、512K 上下文",
-          "title_ja": "ル・チョンクがやって来ました🐈",
-          "title_en": "Le Chonk has arrived 🐈",
-          "title_original": "Le Chonk has arrived 🐈",
-          "summary": "Mistral Large 4 现已在 OpenRouter 开放公测，规格为 1T 参数（49B 激活）、原生多模态、512K 上下文、最高 256K 输出。前两周五折：每 1M tokens 输入 $0.68、输出 $2.09，缓存 $0.07。",
-          "summary_ja": "Mistral Large 4 は現在、OpenRouter で公開テストが開始されており、1T パラメーター (49B アクティベーション)、ネイティブ マルチモダリティ、512K コンテキスト、および最大 256K 出力の仕様が備えられています。最初の 2 週間は 50% オフです。100 万トークンごとに入力 $0.68、出力 $2.09、キャッシュ $0.07。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/OpenRouter/status/2107471559040635360",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T14:02:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenRouter (@OpenRouter)"
-      ],
-      "items": [
-        {
-          "id": "cc19177e6fbdf4a67d8007b928e7224f686d8878",
-          "title": "Mistral Large 4 上线 OpenRouter 公测：1T 参数、512K 上下文 / Le Chonk has arrived 🐈",
-          "title_zh": "Mistral Large 4 上线 OpenRouter 公测：1T 参数、512K 上下文",
-          "title_ja": "ル・チョンクがやって来ました🐈",
-          "title_en": "Le Chonk has arrived 🐈",
-          "title_original": "Le Chonk has arrived 🐈",
-          "summary": "Mistral Large 4 现已在 OpenRouter 开放公测，规格为 1T 参数（49B 激活）、原生多模态、512K 上下文、最高 256K 输出。前两周五折：每 1M tokens 输入 $0.68、输出 $2.09，缓存 $0.07。",
-          "summary_ja": "Mistral Large 4 は現在、OpenRouter で公開テストが開始されており、1T パラメーター (49B アクティベーション)、ネイティブ マルチモダリティ、512K コンテキスト、および最大 256K 出力の仕様が備えられています。最初の 2 週間は 50% オフです。100 万トークンごとに入力 $0.68、出力 $2.09、キャッシュ $0.07。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/OpenRouter/status/2107471559040635360",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T14:02:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7491,
-      "importance": 0.7491,
-      "importance_score": 0.7491,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.914,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-06T14:02:29Z",
-      "latest_at": "2026-10-06T14:02:29Z",
-      "primary_item": {
-        "id": "cc19177e6fbdf4a67d8007b928e7224f686d8878",
-        "title": "Mistral Large 4 上线 OpenRouter 公测：1T 参数、512K 上下文 / Le Chonk has arrived 🐈",
-        "title_zh": "Mistral Large 4 上线 OpenRouter 公测：1T 参数、512K 上下文",
-        "title_ja": "ル・チョンクがやって来ました🐈",
-        "title_en": "Le Chonk has arrived 🐈",
-        "title_original": "Le Chonk has arrived 🐈",
-        "summary": "Mistral Large 4 现已在 OpenRouter 开放公测，规格为 1T 参数（49B 激活）、原生多模态、512K 上下文、最高 256K 输出。前两周五折：每 1M tokens 输入 $0.68、输出 $2.09，缓存 $0.07。",
-        "summary_ja": "Mistral Large 4 は現在、OpenRouter で公開テストが開始されており、1T パラメーター (49B アクティベーション)、ネイティブ マルチモダリティ、512K コンテキスト、および最大 256K 出力の仕様が備えられています。最初の 2 週間は 50% オフです。100 万トークンごとに入力 $0.68、出力 $2.09、キャッシュ $0.07。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/OpenRouter/status/2107471559040635360",
-        "source": "X：OpenRouter (@OpenRouter)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-06T20:31:57.470087Z"
+        "scored_at": "2026-10-07T00:16:37.429274Z"
       }
     },
     {
@@ -1352,16 +1476,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7486,
-      "importance": 0.7486,
-      "importance_score": 0.7486,
+      "score": 0.7413,
+      "importance": 0.7413,
+      "importance_score": 0.7413,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8112,
+        "recency": 0.7706,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1388,7 +1512,96 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T20:31:57.470087Z"
+        "scored_at": "2026-10-07T00:16:37.429274Z"
+      }
+    },
+    {
+      "story_id": "story_34879e2db3e2",
+      "title": "Mistral Large 4 上线 OpenRouter 公测：1T 参数、512K 上下文 / Le Chonk has arrived 🐈",
+      "title_ja": "ル・チョンクがやって来ました🐈",
+      "url": "https://x.com/OpenRouter/status/2107471559040635360",
+      "primary_url": "https://x.com/OpenRouter/status/2107471559040635360",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "cc19177e6fbdf4a67d8007b928e7224f686d8878",
+          "title": "Mistral Large 4 上线 OpenRouter 公测：1T 参数、512K 上下文 / Le Chonk has arrived 🐈",
+          "title_zh": "Mistral Large 4 上线 OpenRouter 公测：1T 参数、512K 上下文",
+          "title_ja": "ル・チョンクがやって来ました🐈",
+          "title_en": "Le Chonk has arrived 🐈",
+          "title_original": "Le Chonk has arrived 🐈",
+          "summary": "Mistral Large 4 现已在 OpenRouter 开放公测，规格为 1T 参数（49B 激活）、原生多模态、512K 上下文、最高 256K 输出。前两周五折：每 1M tokens 输入 $0.68、输出 $2.09，缓存 $0.07。",
+          "summary_ja": "Mistral Large 4 は現在、OpenRouter で公開テストが開始されており、1T パラメーター (49B アクティベーション)、ネイティブ マルチモダリティ、512K コンテキスト、および最大 256K 出力の仕様が備えられています。最初の 2 週間は 50% オフです。100 万トークンごとに入力 $0.68、出力 $2.09、キャッシュ $0.07。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/OpenRouter/status/2107471559040635360",
+          "source": "X：OpenRouter (@OpenRouter)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T14:02:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：OpenRouter (@OpenRouter)"
+      ],
+      "items": [
+        {
+          "id": "cc19177e6fbdf4a67d8007b928e7224f686d8878",
+          "title": "Mistral Large 4 上线 OpenRouter 公测：1T 参数、512K 上下文 / Le Chonk has arrived 🐈",
+          "title_zh": "Mistral Large 4 上线 OpenRouter 公测：1T 参数、512K 上下文",
+          "title_ja": "ル・チョンクがやって来ました🐈",
+          "title_en": "Le Chonk has arrived 🐈",
+          "title_original": "Le Chonk has arrived 🐈",
+          "summary": "Mistral Large 4 现已在 OpenRouter 开放公测，规格为 1T 参数（49B 激活）、原生多模态、512K 上下文、最高 256K 输出。前两周五折：每 1M tokens 输入 $0.68、输出 $2.09，缓存 $0.07。",
+          "summary_ja": "Mistral Large 4 は現在、OpenRouter で公開テストが開始されており、1T パラメーター (49B アクティベーション)、ネイティブ マルチモダリティ、512K コンテキスト、および最大 256K 出力の仕様が備えられています。最初の 2 週間は 50% オフです。100 万トークンごとに入力 $0.68、出力 $2.09、キャッシュ $0.07。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/OpenRouter/status/2107471559040635360",
+          "source": "X：OpenRouter (@OpenRouter)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T14:02:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7409,
+      "importance": 0.7409,
+      "importance_score": 0.7409,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8682,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-06T14:02:29Z",
+      "latest_at": "2026-10-06T14:02:29Z",
+      "primary_item": {
+        "id": "cc19177e6fbdf4a67d8007b928e7224f686d8878",
+        "title": "Mistral Large 4 上线 OpenRouter 公测：1T 参数、512K 上下文 / Le Chonk has arrived 🐈",
+        "title_zh": "Mistral Large 4 上线 OpenRouter 公测：1T 参数、512K 上下文",
+        "title_ja": "ル・チョンクがやって来ました🐈",
+        "title_en": "Le Chonk has arrived 🐈",
+        "title_original": "Le Chonk has arrived 🐈",
+        "summary": "Mistral Large 4 现已在 OpenRouter 开放公测，规格为 1T 参数（49B 激活）、原生多模态、512K 上下文、最高 256K 输出。前两周五折：每 1M tokens 输入 $0.68、输出 $2.09，缓存 $0.07。",
+        "summary_ja": "Mistral Large 4 は現在、OpenRouter で公開テストが開始されており、1T パラメーター (49B アクティベーション)、ネイティブ マルチモダリティ、512K コンテキスト、および最大 256K 出力の仕様が備えられています。最初の 2 週間は 50% オフです。100 万トークンごとに入力 $0.68、出力 $2.09、キャッシュ $0.07。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/OpenRouter/status/2107471559040635360",
+        "source": "X：OpenRouter (@OpenRouter)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-07T00:16:37.429274Z"
       }
     },
     {
@@ -1441,16 +1654,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7402,
-      "importance": 0.7402,
-      "importance_score": 0.7402,
+      "score": 0.7318,
+      "importance": 0.7318,
+      "importance_score": 0.7318,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9313,
+        "recency": 0.8846,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1477,7 +1690,96 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T20:31:57.470087Z"
+        "scored_at": "2026-10-07T00:16:37.429274Z"
+      }
+    },
+    {
+      "story_id": "story_3b79fbfc648a",
+      "title": "ChatGPT 推出 Meetings 插件，可自动记会议纪要并跟进待办",
+      "title_ja": null,
+      "url": "https://x.com/thsottiaux/status/2107573405553938664",
+      "primary_url": "https://x.com/thsottiaux/status/2107573405553938664",
+      "source": "X：Tibo (@thsottiaux)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "34f5a2c579a2aeddf9076bb44a4228bb413a056d",
+          "title": "ChatGPT 推出 Meetings 插件，可自动记会议纪要并跟进待办",
+          "title_zh": "ChatGPT 推出 Meetings 插件，可自动记会议纪要并跟进待办",
+          "title_ja": null,
+          "title_en": null,
+          "title_original": "ChatGPT 推出 Meetings 插件，可自动记会议纪要并跟进待办",
+          "summary": "ChatGPT 发布 Meetings 插件，可替用户记会议笔记，并基于 ChatGPT 对用户和既往工作的了解，在 ChatGPT Space 保存个性化摘要和后续步骤。笔记可私密保存或与团队共享，还能让 ChatGPT 更新项目计划或起草跟进内容。目前以 beta 形式面向 Pro 和 Business 用户开放，可在 macOS 桌面应用的插件目录搜索 Meetings 使用，Enterprise 版即将推出。作者 Tibo 补充称，可放心畅谈并将积累的上下文载入 codex 来完成任务。",
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://x.com/thsottiaux/status/2107573405553938664",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T20:47:11Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Tibo (@thsottiaux)"
+      ],
+      "items": [
+        {
+          "id": "34f5a2c579a2aeddf9076bb44a4228bb413a056d",
+          "title": "ChatGPT 推出 Meetings 插件，可自动记会议纪要并跟进待办",
+          "title_zh": "ChatGPT 推出 Meetings 插件，可自动记会议纪要并跟进待办",
+          "title_ja": null,
+          "title_en": null,
+          "title_original": "ChatGPT 推出 Meetings 插件，可自动记会议纪要并跟进待办",
+          "summary": "ChatGPT 发布 Meetings 插件，可替用户记会议笔记，并基于 ChatGPT 对用户和既往工作的了解，在 ChatGPT Space 保存个性化摘要和后续步骤。笔记可私密保存或与团队共享，还能让 ChatGPT 更新项目计划或起草跟进内容。目前以 beta 形式面向 Pro 和 Business 用户开放，可在 macOS 桌面应用的插件目录搜索 Meetings 使用，Enterprise 版即将推出。作者 Tibo 补充称，可放心畅谈并将积累的上下文载入 codex 来完成任务。",
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://x.com/thsottiaux/status/2107573405553938664",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T20:47:11Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7299,
+      "importance": 0.7299,
+      "importance_score": 0.7299,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.62,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.957,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-06T20:47:11Z",
+      "latest_at": "2026-10-06T20:47:11Z",
+      "primary_item": {
+        "id": "34f5a2c579a2aeddf9076bb44a4228bb413a056d",
+        "title": "ChatGPT 推出 Meetings 插件，可自动记会议纪要并跟进待办",
+        "title_zh": "ChatGPT 推出 Meetings 插件，可自动记会议纪要并跟进待办",
+        "title_ja": null,
+        "title_en": null,
+        "title_original": "ChatGPT 推出 Meetings 插件，可自动记会议纪要并跟进待办",
+        "summary": "ChatGPT 发布 Meetings 插件，可替用户记会议笔记，并基于 ChatGPT 对用户和既往工作的了解，在 ChatGPT Space 保存个性化摘要和后续步骤。笔记可私密保存或与团队共享，还能让 ChatGPT 更新项目计划或起草跟进内容。目前以 beta 形式面向 Pro 和 Business 用户开放，可在 macOS 桌面应用的插件目录搜索 Meetings 使用，Enterprise 版即将推出。作者 Tibo 补充称，可放心畅谈并将积累的上下文载入 codex 来完成任务。",
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://x.com/thsottiaux/status/2107573405553938664",
+        "source": "X：Tibo (@thsottiaux)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-07T00:16:37.429274Z"
       }
     },
     {
@@ -1530,16 +1832,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7379,
-      "importance": 0.7379,
-      "importance_score": 0.7379,
+      "score": 0.7296,
+      "importance": 0.7296,
+      "importance_score": 0.7296,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9182,
+        "recency": 0.8722,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1566,275 +1868,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T20:31:57.470087Z"
-      }
-    },
-    {
-      "story_id": "story_e5656e5cf8cb",
-      "title": "Sierra 与 Meta 联合多家企业发布 Personal Agent Protocol 开放协议 / Introducing Personal Agent Protocol",
-      "title_ja": "パーソナル エージェント プロトコルの導入",
-      "url": "https://sierra.ai/blog/introducing-personal-agent-protocol",
-      "primary_url": "https://sierra.ai/blog/introducing-personal-agent-protocol",
-      "source": "Sierra：Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1449a96a935ca4b3f7f474bd5e3161af72c6980f",
-          "title": "Sierra 与 Meta 联合多家企业发布 Personal Agent Protocol 开放协议 / Introducing Personal Agent Protocol",
-          "title_zh": "Sierra 与 Meta 联合多家企业发布 Personal Agent Protocol 开放协议",
-          "title_ja": "パーソナル エージェント プロトコルの導入",
-          "title_en": "Introducing Personal Agent Protocol",
-          "title_original": "Introducing Personal Agent Protocol",
-          "summary": "Sierra 与 Meta 联合 Genesys、Instinct、Rocket、Shopify、Stripe、Walmart 等伙伴宣布开发 Personal Agent Protocol，一个定义个人 AI 智能体如何与企业交互的开放标准，任何人都可实现。",
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://sierra.ai/blog/introducing-personal-agent-protocol",
-          "source": "Sierra：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T17:32:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Sierra：Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "1449a96a935ca4b3f7f474bd5e3161af72c6980f",
-          "title": "Sierra 与 Meta 联合多家企业发布 Personal Agent Protocol 开放协议 / Introducing Personal Agent Protocol",
-          "title_zh": "Sierra 与 Meta 联合多家企业发布 Personal Agent Protocol 开放协议",
-          "title_ja": "パーソナル エージェント プロトコルの導入",
-          "title_en": "Introducing Personal Agent Protocol",
-          "title_original": "Introducing Personal Agent Protocol",
-          "summary": "Sierra 与 Meta 联合 Genesys、Instinct、Rocket、Shopify、Stripe、Walmart 等伙伴宣布开发 Personal Agent Protocol，一个定义个人 AI 智能体如何与企业交互的开放标准，任何人都可实现。",
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://sierra.ai/blog/introducing-personal-agent-protocol",
-          "source": "Sierra：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T17:32:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7306,
-      "importance": 0.7306,
-      "importance_score": 0.7306,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.62,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9612,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-06T17:32:00Z",
-      "latest_at": "2026-10-06T17:32:00Z",
-      "primary_item": {
-        "id": "1449a96a935ca4b3f7f474bd5e3161af72c6980f",
-        "title": "Sierra 与 Meta 联合多家企业发布 Personal Agent Protocol 开放协议 / Introducing Personal Agent Protocol",
-        "title_zh": "Sierra 与 Meta 联合多家企业发布 Personal Agent Protocol 开放协议",
-        "title_ja": "パーソナル エージェント プロトコルの導入",
-        "title_en": "Introducing Personal Agent Protocol",
-        "title_original": "Introducing Personal Agent Protocol",
-        "summary": "Sierra 与 Meta 联合 Genesys、Instinct、Rocket、Shopify、Stripe、Walmart 等伙伴宣布开发 Personal Agent Protocol，一个定义个人 AI 智能体如何与企业交互的开放标准，任何人都可实现。",
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://sierra.ai/blog/introducing-personal-agent-protocol",
-        "source": "Sierra：Blog（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-06T20:31:57.470087Z"
-      }
-    },
-    {
-      "story_id": "story_b9170f476686",
-      "title": "卡兹克解读 A16Z 两份 AI 报告：AI 使用很广但用得还浅，头部 1% 用户月均花 903 美元",
-      "title_ja": "Kazik は、A16Z の 2 つの AI レポートを解釈します。AI は広く使用されていますが、まだ浅く、ユーザーの上位 1% は月平均 903 ドルを費やしています。",
-      "url": "https://x.com/Khazix0918/status/2107297777583825359",
-      "primary_url": "https://x.com/Khazix0918/status/2107297777583825359",
-      "source": "X：卡兹克 (@Khazix0918)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c9a673d6e65e64c99d578906d5fd5117eed00424",
-          "title": "卡兹克解读 A16Z 两份 AI 报告：AI 使用很广但用得还浅，头部 1% 用户月均花 903 美元",
-          "title_zh": "卡兹克解读 A16Z 两份 AI 报告：AI 使用很广但用得还浅，头部 1% 用户月均花 903 美元",
-          "title_ja": "Kazik は、A16Z の 2 つの AI レポートを解釈します。AI は広く使用されていますが、まだ浅く、ユーザーの上位 1% は月平均 903 ドルを費やしています。",
-          "title_en": null,
-          "title_original": "卡兹克解读 A16Z 两份 AI 报告：AI 使用很广但用得还浅，头部 1% 用户月均花 903 美元",
-          "summary": "作者解读 A16Z 第七版《Top 100 消费级 AI 应用》和 90 多页的《市场状况 II》报告，指出反常识数据。美国近一半人用过 AI 但只有 25% 每天在用，截至 2026 年 8 月仅 4.5% 有 ChatGPT、Gemini 或 Claude 个人付费订阅；付费用户中头部 1% 月均消费 903 美元、贡献 19.5% 的全部消费。",
-          "summary_ja": "The author interprets the seventh edition of A16Z's \"Top 100 Consumer AI Applications\" and the more than 90-page \"Market State II\" report, pointing out counterintuitive data.米国では人口の半数近くが AI を使用したことがありますが、毎日使用している人は 25% のみです。 2026 年 8 月の時点で、ChatGPT、Gemini、または Claude の個人有料サブスクリプションを持っているのは 4.5% のみです。有料ユーザーの上位 1% は月平均 903 米ドルを消費し、全消費量の 19.5% を占めています。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/Khazix0918/status/2107297777583825359",
-          "source": "X：卡兹克 (@Khazix0918)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T02:31:56Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：卡兹克 (@Khazix0918)"
-      ],
-      "items": [
-        {
-          "id": "c9a673d6e65e64c99d578906d5fd5117eed00424",
-          "title": "卡兹克解读 A16Z 两份 AI 报告：AI 使用很广但用得还浅，头部 1% 用户月均花 903 美元",
-          "title_zh": "卡兹克解读 A16Z 两份 AI 报告：AI 使用很广但用得还浅，头部 1% 用户月均花 903 美元",
-          "title_ja": "Kazik は、A16Z の 2 つの AI レポートを解釈します。AI は広く使用されていますが、まだ浅く、ユーザーの上位 1% は月平均 903 ドルを費やしています。",
-          "title_en": null,
-          "title_original": "卡兹克解读 A16Z 两份 AI 报告：AI 使用很广但用得还浅，头部 1% 用户月均花 903 美元",
-          "summary": "作者解读 A16Z 第七版《Top 100 消费级 AI 应用》和 90 多页的《市场状况 II》报告，指出反常识数据。美国近一半人用过 AI 但只有 25% 每天在用，截至 2026 年 8 月仅 4.5% 有 ChatGPT、Gemini 或 Claude 个人付费订阅；付费用户中头部 1% 月均消费 903 美元、贡献 19.5% 的全部消费。",
-          "summary_ja": "The author interprets the seventh edition of A16Z's \"Top 100 Consumer AI Applications\" and the more than 90-page \"Market State II\" report, pointing out counterintuitive data.米国では人口の半数近くが AI を使用したことがありますが、毎日使用している人は 25% のみです。 2026 年 8 月の時点で、ChatGPT、Gemini、または Claude の個人有料サブスクリプションを持っているのは 4.5% のみです。有料ユーザーの上位 1% は月平均 903 米ドルを消費し、全消費量の 19.5% を占めています。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/Khazix0918/status/2107297777583825359",
-          "source": "X：卡兹克 (@Khazix0918)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T02:31:56Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7269,
-      "importance": 0.7269,
-      "importance_score": 0.7269,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.774,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-06T02:31:56Z",
-      "latest_at": "2026-10-06T02:31:56Z",
-      "primary_item": {
-        "id": "c9a673d6e65e64c99d578906d5fd5117eed00424",
-        "title": "卡兹克解读 A16Z 两份 AI 报告：AI 使用很广但用得还浅，头部 1% 用户月均花 903 美元",
-        "title_zh": "卡兹克解读 A16Z 两份 AI 报告：AI 使用很广但用得还浅，头部 1% 用户月均花 903 美元",
-        "title_ja": "Kazik は、A16Z の 2 つの AI レポートを解釈します。AI は広く使用されていますが、まだ浅く、ユーザーの上位 1% は月平均 903 ドルを費やしています。",
-        "title_en": null,
-        "title_original": "卡兹克解读 A16Z 两份 AI 报告：AI 使用很广但用得还浅，头部 1% 用户月均花 903 美元",
-        "summary": "作者解读 A16Z 第七版《Top 100 消费级 AI 应用》和 90 多页的《市场状况 II》报告，指出反常识数据。美国近一半人用过 AI 但只有 25% 每天在用，截至 2026 年 8 月仅 4.5% 有 ChatGPT、Gemini 或 Claude 个人付费订阅；付费用户中头部 1% 月均消费 903 美元、贡献 19.5% 的全部消费。",
-        "summary_ja": "The author interprets the seventh edition of A16Z's \"Top 100 Consumer AI Applications\" and the more than 90-page \"Market State II\" report, pointing out counterintuitive data.米国では人口の半数近くが AI を使用したことがありますが、毎日使用している人は 25% のみです。 2026 年 8 月の時点で、ChatGPT、Gemini、または Claude の個人有料サブスクリプションを持っているのは 4.5% のみです。有料ユーザーの上位 1% は月平均 903 米ドルを消費し、全消費量の 19.5% を占めています。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/Khazix0918/status/2107297777583825359",
-        "source": "X：卡兹克 (@Khazix0918)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-06T20:31:57.470087Z"
-      }
-    },
-    {
-      "story_id": "story_a4b54cc613c1",
-      "title": "Google 发布 EmbeddingGemma 2：基于 Gemma 4 的开源多模态嵌入模型 / EmbeddingGemma 2: The Developer Guide",
-      "title_ja": null,
-      "url": "https://developers.googleblog.com/embeddinggemma-2-the-developer-guide",
-      "primary_url": "https://developers.googleblog.com/embeddinggemma-2-the-developer-guide",
-      "source": "Google Developers Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "267785fd4de90b59e251bb94fd2a030f86f4df98",
-          "title": "Google 发布 EmbeddingGemma 2：基于 Gemma 4 的开源多模态嵌入模型 / EmbeddingGemma 2: The Developer Guide",
-          "title_zh": "Google 发布 EmbeddingGemma 2：基于 Gemma 4 的开源多模态嵌入模型",
-          "title_ja": null,
-          "title_en": "EmbeddingGemma 2: The Developer Guide",
-          "title_original": "EmbeddingGemma 2: The Developer Guide",
-          "summary": "Google 发布基于 Gemma 4 的开源嵌入模型 EmbeddingGemma 2，采用 Apache 2.0 许可，将文本、代码、图像、视频和音频映射到统一的 768 维向量空间，参数量从 270M（文本/代码）到 740M（全模态）按需加载。",
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.googleblog.com/embeddinggemma-2-the-developer-guide",
-          "source": "Google Developers Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google Developers Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "267785fd4de90b59e251bb94fd2a030f86f4df98",
-          "title": "Google 发布 EmbeddingGemma 2：基于 Gemma 4 的开源多模态嵌入模型 / EmbeddingGemma 2: The Developer Guide",
-          "title_zh": "Google 发布 EmbeddingGemma 2：基于 Gemma 4 的开源多模态嵌入模型",
-          "title_ja": null,
-          "title_en": "EmbeddingGemma 2: The Developer Guide",
-          "title_original": "EmbeddingGemma 2: The Developer Guide",
-          "summary": "Google 发布基于 Gemma 4 的开源嵌入模型 EmbeddingGemma 2，采用 Apache 2.0 许可，将文本、代码、图像、视频和音频映射到统一的 768 维向量空间，参数量从 270M（文本/代码）到 740M（全模态）按需加载。",
-          "summary_ja": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.googleblog.com/embeddinggemma-2-the-developer-guide",
-          "source": "Google Developers Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7523,
-      "importance": 0.7523,
-      "importance_score": 0.7523,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7462,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-06T00:00:00Z",
-      "latest_at": "2026-10-06T00:00:00Z",
-      "primary_item": {
-        "id": "267785fd4de90b59e251bb94fd2a030f86f4df98",
-        "title": "Google 发布 EmbeddingGemma 2：基于 Gemma 4 的开源多模态嵌入模型 / EmbeddingGemma 2: The Developer Guide",
-        "title_zh": "Google 发布 EmbeddingGemma 2：基于 Gemma 4 的开源多模态嵌入模型",
-        "title_ja": null,
-        "title_en": "EmbeddingGemma 2: The Developer Guide",
-        "title_original": "EmbeddingGemma 2: The Developer Guide",
-        "summary": "Google 发布基于 Gemma 4 的开源嵌入模型 EmbeddingGemma 2，采用 Apache 2.0 许可，将文本、代码、图像、视频和音频映射到统一的 768 维向量空间，参数量从 270M（文本/代码）到 740M（全模态）按需加载。",
-        "summary_ja": null,
-        "recommend_reason_zh": null,
-        "url": "https://developers.googleblog.com/embeddinggemma-2-the-developer-guide",
-        "source": "Google Developers Blog（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-06T20:31:57.470087Z"
+        "scored_at": "2026-10-07T00:16:37.429274Z"
       }
     }
   ]
