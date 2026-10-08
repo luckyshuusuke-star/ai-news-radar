@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T00:10:47.922634Z",
+  "generated_at": "2026-10-08T05:58:27.205065Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -152,16 +152,16 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.9207,
-      "importance": 0.9207,
-      "importance_score": 0.9207,
+      "score": 0.9075,
+      "importance": 0.9075,
+      "importance_score": 0.9075,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.87,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9148,
+        "recency": 0.8414,
         "story_heat": 0.75
       },
       "category": "official",
@@ -190,7 +190,97 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T00:12:32.849673Z"
+        "scored_at": "2026-10-08T06:00:30.530264Z"
+      }
+    },
+    {
+      "story_id": "story_6d9b4cd327fa",
+      "title": "【AIHOT 通知】旧版接口 2026 年 10 月 31 日停用，推送机器人和脚本请尽快迁移 / AIHOT notice: the legacy API /api/public/* stops on 31 Oct 2026; bots and scripts should move to /api/v1",
+      "title_ja": "AIHOT の通知: 従来の API /api/public/* は 2026 年 10 月 31 日に停止します。ボットとスクリプトは /api/v1 に移動する必要があります",
+      "url": "https://aihot.news/agent?tab=api",
+      "primary_url": "https://aihot.news/agent?tab=api",
+      "source": "AIHOT",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b23efb1ac1501010c365eae2e54ffb4cf0dda3dd",
+          "title": "【AIHOT 通知】旧版接口 2026 年 10 月 31 日停用，推送机器人和脚本请尽快迁移 / AIHOT notice: the legacy API /api/public/* stops on 31 Oct 2026; bots and scripts should move to /api/v1",
+          "title_zh": "【AIHOT 通知】旧版接口 2026 年 10 月 31 日停用，推送机器人和脚本请尽快迁移",
+          "title_ja": "AIHOT の通知: 従来の API /api/public/* は 2026 年 10 月 31 日に停止します。ボットとスクリプトは /api/v1 に移動する必要があります",
+          "title_en": "AIHOT notice: the legacy API /api/public/* stops on 31 Oct 2026; bots and scripts should move to /api/v1",
+          "title_original": "AIHOT notice: the legacy API /api/public/* stops on 31 Oct 2026; bots and scripts should move to /api/v1",
+          "summary": "这条消息来自 AIHOT 旧版接口 /api/public/*：它将于 2026 年 10 月 31 日停用，之后这里不会再有新资讯。如果它是群机器人或脚本推送来的，请转告维护的人把地址换成 https://aihot.news/api/v1，字段一一对应；迁移指南和可以直接交给 AI 改写代码的提示词见 https://aihot.news/agent?tab=api#legacy-api-migration 。同一天起旧域名 aihot.virxact.com 的所有地址都只跳转到 aihot.news，RSS、MCP 等地址也请换成新域名；收藏的网页链接照样能打开。",
+          "summary_ja": "このメッセージは AIHOT レガシー インターフェイス /api/public/* から送信されます。このインターフェイスは 2026 年 10 月 31 日に廃止され、ここに新しい情報はありません。ロボットまたはスクリプトのグループによってプッシュされた場合は、フィールド間を 1 対 1 に対応させて、アドレスを https://aihot.news/api/v1 に変更するように管理者に伝えてください。コードを書き直すために AI に直接渡すことができる移行ガイドとプロンプトについては、https://aihot.news/agent?tab=api#legacy-api-migration を参照してください。同日より、旧ドメイン名 aihot.virxact.com のすべてのアドレスは、aihot.news にのみジャンプします。 RSS、MCP、その他のアドレスも新しいドメイン名に変更してください。お気に入りの Web リンクは引き続き開くことができます。",
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/agent?tab=api",
+          "source": "AIHOT",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T02:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIHOT"
+      ],
+      "items": [
+        {
+          "id": "b23efb1ac1501010c365eae2e54ffb4cf0dda3dd",
+          "title": "【AIHOT 通知】旧版接口 2026 年 10 月 31 日停用，推送机器人和脚本请尽快迁移 / AIHOT notice: the legacy API /api/public/* stops on 31 Oct 2026; bots and scripts should move to /api/v1",
+          "title_zh": "【AIHOT 通知】旧版接口 2026 年 10 月 31 日停用，推送机器人和脚本请尽快迁移",
+          "title_ja": "AIHOT の通知: 従来の API /api/public/* は 2026 年 10 月 31 日に停止します。ボットとスクリプトは /api/v1 に移動する必要があります",
+          "title_en": "AIHOT notice: the legacy API /api/public/* stops on 31 Oct 2026; bots and scripts should move to /api/v1",
+          "title_original": "AIHOT notice: the legacy API /api/public/* stops on 31 Oct 2026; bots and scripts should move to /api/v1",
+          "summary": "这条消息来自 AIHOT 旧版接口 /api/public/*：它将于 2026 年 10 月 31 日停用，之后这里不会再有新资讯。如果它是群机器人或脚本推送来的，请转告维护的人把地址换成 https://aihot.news/api/v1，字段一一对应；迁移指南和可以直接交给 AI 改写代码的提示词见 https://aihot.news/agent?tab=api#legacy-api-migration 。同一天起旧域名 aihot.virxact.com 的所有地址都只跳转到 aihot.news，RSS、MCP 等地址也请换成新域名；收藏的网页链接照样能打开。",
+          "summary_ja": "このメッセージは AIHOT レガシー インターフェイス /api/public/* から送信されます。このインターフェイスは 2026 年 10 月 31 日に廃止され、ここに新しい情報はありません。ロボットまたはスクリプトのグループによってプッシュされた場合は、フィールド間を 1 対 1 に対応させて、アドレスを https://aihot.news/api/v1 に変更するように管理者に伝えてください。コードを書き直すために AI に直接渡すことができる移行ガイドとプロンプトについては、https://aihot.news/agent?tab=api#legacy-api-migration を参照してください。同日より、旧ドメイン名 aihot.virxact.com のすべてのアドレスは、aihot.news にのみジャンプします。 RSS、MCP、その他のアドレスも新しいドメイン名に変更してください。お気に入りの Web リンクは引き続き開くことができます。",
+          "recommend_reason_zh": null,
+          "url": "https://aihot.news/agent?tab=api",
+          "source": "AIHOT",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T02:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8416,
+      "importance": 0.8416,
+      "importance_score": 0.8416,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 1.0,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9442,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-08T02:00:00Z",
+      "latest_at": "2026-10-08T02:00:00Z",
+      "primary_item": {
+        "id": "b23efb1ac1501010c365eae2e54ffb4cf0dda3dd",
+        "title": "【AIHOT 通知】旧版接口 2026 年 10 月 31 日停用，推送机器人和脚本请尽快迁移 / AIHOT notice: the legacy API /api/public/* stops on 31 Oct 2026; bots and scripts should move to /api/v1",
+        "title_zh": "【AIHOT 通知】旧版接口 2026 年 10 月 31 日停用，推送机器人和脚本请尽快迁移",
+        "title_ja": "AIHOT の通知: 従来の API /api/public/* は 2026 年 10 月 31 日に停止します。ボットとスクリプトは /api/v1 に移動する必要があります",
+        "title_en": "AIHOT notice: the legacy API /api/public/* stops on 31 Oct 2026; bots and scripts should move to /api/v1",
+        "title_original": "AIHOT notice: the legacy API /api/public/* stops on 31 Oct 2026; bots and scripts should move to /api/v1",
+        "summary": "这条消息来自 AIHOT 旧版接口 /api/public/*：它将于 2026 年 10 月 31 日停用，之后这里不会再有新资讯。如果它是群机器人或脚本推送来的，请转告维护的人把地址换成 https://aihot.news/api/v1，字段一一对应；迁移指南和可以直接交给 AI 改写代码的提示词见 https://aihot.news/agent?tab=api#legacy-api-migration 。同一天起旧域名 aihot.virxact.com 的所有地址都只跳转到 aihot.news，RSS、MCP 等地址也请换成新域名；收藏的网页链接照样能打开。",
+        "summary_ja": "このメッセージは AIHOT レガシー インターフェイス /api/public/* から送信されます。このインターフェイスは 2026 年 10 月 31 日に廃止され、ここに新しい情報はありません。ロボットまたはスクリプトのグループによってプッシュされた場合は、フィールド間を 1 対 1 に対応させて、アドレスを https://aihot.news/api/v1 に変更するように管理者に伝えてください。コードを書き直すために AI に直接渡すことができる移行ガイドとプロンプトについては、https://aihot.news/agent?tab=api#legacy-api-migration を参照してください。同日より、旧ドメイン名 aihot.virxact.com のすべてのアドレスは、aihot.news にのみジャンプします。 RSS、MCP、その他のアドレスも新しいドメイン名に変更してください。お気に入りの Web リンクは引き続き開くことができます。",
+        "recommend_reason_zh": null,
+        "url": "https://aihot.news/agent?tab=api",
+        "source": "AIHOT",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-08T06:00:30.530264Z"
       }
     },
     {
@@ -243,16 +333,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.85,
-      "importance": 0.85,
-      "importance_score": 0.85,
+      "score": 0.8363,
+      "importance": 0.8363,
+      "importance_score": 0.8363,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9442,
+        "recency": 0.8684,
         "story_heat": 0.0
       },
       "category": "official",
@@ -281,7 +371,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T00:12:32.849673Z"
+        "scored_at": "2026-10-08T06:00:30.530264Z"
       }
     },
     {
@@ -334,16 +424,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8421,
-      "importance": 0.8421,
-      "importance_score": 0.8421,
+      "score": 0.8291,
+      "importance": 0.8291,
+      "importance_score": 0.8291,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9003,
+        "recency": 0.8281,
         "story_heat": 0.0
       },
       "category": "official",
@@ -372,7 +462,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T00:12:32.849673Z"
+        "scored_at": "2026-10-08T06:00:30.530264Z"
       }
     },
     {
@@ -425,16 +515,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8281,
-      "importance": 0.8281,
-      "importance_score": 0.8281,
+      "score": 0.8149,
+      "importance": 0.8149,
+      "importance_score": 0.8149,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9115,
+        "recency": 0.8383,
         "story_heat": 0.0
       },
       "category": "official",
@@ -463,7 +553,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T00:12:32.849673Z"
+        "scored_at": "2026-10-08T06:00:30.530264Z"
       }
     },
     {
@@ -516,16 +606,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.823,
-      "importance": 0.823,
-      "importance_score": 0.823,
+      "score": 0.8109,
+      "importance": 0.8109,
+      "importance_score": 0.8109,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8387,
+        "recency": 0.7714,
         "story_heat": 0.0
       },
       "category": "official",
@@ -554,7 +644,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T00:12:32.849673Z"
+        "scored_at": "2026-10-08T06:00:30.530264Z"
       }
     },
     {
@@ -607,16 +697,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.815,
-      "importance": 0.815,
-      "importance_score": 0.815,
+      "score": 0.8029,
+      "importance": 0.8029,
+      "importance_score": 0.8029,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8387,
+        "recency": 0.7714,
         "story_heat": 0.0
       },
       "category": "official",
@@ -645,7 +735,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T00:12:32.849673Z"
+        "scored_at": "2026-10-08T06:00:30.530264Z"
       }
     },
     {
@@ -698,16 +788,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8374,
-      "importance": 0.8374,
-      "importance_score": 0.8374,
+      "score": 0.8246,
+      "importance": 0.8246,
+      "importance_score": 0.8246,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.8857,
+        "recency": 0.8146,
         "story_heat": 0.0
       },
       "category": "official",
@@ -736,7 +826,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T00:12:32.849673Z"
+        "scored_at": "2026-10-08T06:00:30.530264Z"
       }
     },
     {
@@ -789,16 +879,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8326,
-      "importance": 0.8326,
-      "importance_score": 0.8326,
+      "score": 0.8204,
+      "importance": 0.8204,
+      "importance_score": 0.8204,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.848,
+        "recency": 0.7799,
         "story_heat": 0.0
       },
       "category": "official",
@@ -827,7 +917,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T00:12:32.849673Z"
+        "scored_at": "2026-10-08T06:00:30.530264Z"
       }
     },
     {
@@ -880,16 +970,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.795,
-      "importance": 0.795,
-      "importance_score": 0.795,
+      "score": 0.7817,
+      "importance": 0.7817,
+      "importance_score": 0.7817,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9166,
+        "recency": 0.843,
         "story_heat": 0.0
       },
       "category": "official",
@@ -917,7 +1007,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T00:12:32.849673Z"
+        "scored_at": "2026-10-08T06:00:30.530264Z"
       }
     },
     {
@@ -970,16 +1060,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8205,
-      "importance": 0.8205,
-      "importance_score": 0.8205,
+      "score": 0.8092,
+      "importance": 0.8092,
+      "importance_score": 0.8092,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7803,
+        "recency": 0.7177,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1008,7 +1098,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T00:12:32.849673Z"
+        "scored_at": "2026-10-08T06:00:30.530264Z"
       }
     },
     {
@@ -1094,16 +1184,16 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.79,
-      "importance": 0.79,
-      "importance_score": 0.79,
+      "score": 0.7768,
+      "importance": 0.7768,
+      "importance_score": 0.7768,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.6,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9169,
+        "recency": 0.8433,
         "story_heat": 0.25
       },
       "category": "official",
@@ -1132,7 +1222,187 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T00:12:32.849673Z"
+        "scored_at": "2026-10-08T06:00:30.530264Z"
+      }
+    },
+    {
+      "story_id": "story_77071f8577b9",
+      "title": "Codex 与 ChatGPT Work 活跃用户达 4000 万新高，付费账户重置已全部到账 / Confirmed landed across all accounts. How are we doing so far?",
+      "title_ja": "すべてのアカウントで着地を確認しました。これまでのところどうですか？",
+      "url": "https://x.com/thsottiaux/status/2108040921044639779",
+      "primary_url": "https://x.com/thsottiaux/status/2108040921044639779",
+      "source": "X：Tibo (@thsottiaux)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b9798e6758a5964a01c7b0d7599574e0b4e4d825",
+          "title": "Codex 与 ChatGPT Work 活跃用户达 4000 万新高，付费账户重置已全部到账 / Confirmed landed across all accounts. How are we doing so far?",
+          "title_zh": "Codex 与 ChatGPT Work 活跃用户达 4000 万新高，付费账户重置已全部到账",
+          "title_ja": "すべてのアカウントで着地を確認しました。これまでのところどうですか？",
+          "title_en": "Confirmed landed across all accounts. How are we doing so far?",
+          "title_original": "Confirmed landed across all accounts. How are we doing so far?",
+          "summary": "作者确认 banked reset 已到账所有账户，并转引 Day 3 动态称 Codex 与 ChatGPT Work 合计活跃用户达到 4000 万新高，其中提到 GPT-6 已在 Chat 中上线。",
+          "summary_ja": "著者は、バンクされたリセットがすべてのアカウントに入金されたことを確認し、Codex と ChatGPT Work のアクティブ ユーザーの総数が新最高の 4,000 万人に達したという 3 日目のニュースを引用し、Chat で GPT-6 が開始されたことに言及しました。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/thsottiaux/status/2108040921044639779",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T03:44:55Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Tibo (@thsottiaux)"
+      ],
+      "items": [
+        {
+          "id": "b9798e6758a5964a01c7b0d7599574e0b4e4d825",
+          "title": "Codex 与 ChatGPT Work 活跃用户达 4000 万新高，付费账户重置已全部到账 / Confirmed landed across all accounts. How are we doing so far?",
+          "title_zh": "Codex 与 ChatGPT Work 活跃用户达 4000 万新高，付费账户重置已全部到账",
+          "title_ja": "すべてのアカウントで着地を確認しました。これまでのところどうですか？",
+          "title_en": "Confirmed landed across all accounts. How are we doing so far?",
+          "title_original": "Confirmed landed across all accounts. How are we doing so far?",
+          "summary": "作者确认 banked reset 已到账所有账户，并转引 Day 3 动态称 Codex 与 ChatGPT Work 合计活跃用户达到 4000 万新高，其中提到 GPT-6 已在 Chat 中上线。",
+          "summary_ja": "著者は、バンクされたリセットがすべてのアカウントに入金されたことを確認し、Codex と ChatGPT Work のアクティブ ユーザーの総数が新最高の 4,000 万人に達したという 3 日目のニュースを引用し、Chat で GPT-6 が開始されたことに言及しました。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/thsottiaux/status/2108040921044639779",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T03:44:55Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7679,
+      "importance": 0.7679,
+      "importance_score": 0.7679,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9684,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-08T03:44:55Z",
+      "latest_at": "2026-10-08T03:44:55Z",
+      "primary_item": {
+        "id": "b9798e6758a5964a01c7b0d7599574e0b4e4d825",
+        "title": "Codex 与 ChatGPT Work 活跃用户达 4000 万新高，付费账户重置已全部到账 / Confirmed landed across all accounts. How are we doing so far?",
+        "title_zh": "Codex 与 ChatGPT Work 活跃用户达 4000 万新高，付费账户重置已全部到账",
+        "title_ja": "すべてのアカウントで着地を確認しました。これまでのところどうですか？",
+        "title_en": "Confirmed landed across all accounts. How are we doing so far?",
+        "title_original": "Confirmed landed across all accounts. How are we doing so far?",
+        "summary": "作者确认 banked reset 已到账所有账户，并转引 Day 3 动态称 Codex 与 ChatGPT Work 合计活跃用户达到 4000 万新高，其中提到 GPT-6 已在 Chat 中上线。",
+        "summary_ja": "著者は、バンクされたリセットがすべてのアカウントに入金されたことを確認し、Codex と ChatGPT Work のアクティブ ユーザーの総数が新最高の 4,000 万人に達したという 3 日目のニュースを引用し、Chat で GPT-6 が開始されたことに言及しました。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/thsottiaux/status/2108040921044639779",
+        "source": "X：Tibo (@thsottiaux)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-08T06:00:30.530264Z"
+      }
+    },
+    {
+      "story_id": "story_29062dc24e23",
+      "title": "AI 算力需求强劲！博通计划筹集数百亿美元支持 OpenAI 芯片项目",
+      "title_ja": "AI のコンピューティング能力に対する需要は強いです。 BroadcomはOpenAIチッププロジェクトを支援するために数百億ドルを調達する計画",
+      "url": "https://www.aibase.com/news/31457",
+      "primary_url": "https://www.aibase.com/news/31457",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "6f3dd77daab119c6e7730f6fee19c2a9b46c667e",
+          "title": "AI 算力需求强劲！博通计划筹集数百亿美元支持 OpenAI 芯片项目",
+          "title_zh": "AI 算力需求强劲！博通计划筹集数百亿美元支持 OpenAI 芯片项目",
+          "title_ja": "AI のコンピューティング能力に対する需要は強いです。 BroadcomはOpenAIチッププロジェクトを支援するために数百億ドルを調達する計画",
+          "title_en": null,
+          "title_original": "AI 算力需求强劲！博通计划筹集数百亿美元支持 OpenAI 芯片项目",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31457",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-08T05:58:27.205065Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "6f3dd77daab119c6e7730f6fee19c2a9b46c667e",
+          "title": "AI 算力需求强劲！博通计划筹集数百亿美元支持 OpenAI 芯片项目",
+          "title_zh": "AI 算力需求强劲！博通计划筹集数百亿美元支持 OpenAI 芯片项目",
+          "title_ja": "AI のコンピューティング能力に対する需要は強いです。 BroadcomはOpenAIチッププロジェクトを支援するために数百億ドルを調達する計画",
+          "title_en": null,
+          "title_original": "AI 算力需求强劲！博通计划筹集数百亿美元支持 OpenAI 芯片项目",
+          "summary": null,
+          "summary_ja": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31457",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-08T05:58:27.205065Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-08T05:58:27.205065Z",
+      "latest_at": "2026-10-08T05:58:27.205065Z",
+      "primary_item": {
+        "id": "6f3dd77daab119c6e7730f6fee19c2a9b46c667e",
+        "title": "AI 算力需求强劲！博通计划筹集数百亿美元支持 OpenAI 芯片项目",
+        "title_zh": "AI 算力需求强劲！博通计划筹集数百亿美元支持 OpenAI 芯片项目",
+        "title_ja": "AI のコンピューティング能力に対する需要は強いです。 BroadcomはOpenAIチッププロジェクトを支援するために数百億ドルを調達する計画",
+        "title_en": null,
+        "title_original": "AI 算力需求强劲！博通计划筹集数百亿美元支持 OpenAI 芯片项目",
+        "summary": null,
+        "summary_ja": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31457",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-08T06:00:30.530264Z"
       }
     },
     {
@@ -1185,16 +1455,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8314,
-      "importance": 0.8314,
-      "importance_score": 0.8314,
+      "score": 0.8186,
+      "importance": 0.8186,
+      "importance_score": 0.8186,
       "importance_label": "官方更新",
       "importance_label_ja": "公式アップデート",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8856,
+        "recency": 0.8146,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1223,97 +1493,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T00:12:32.849673Z"
-      }
-    },
-    {
-      "story_id": "story_3dab97b43266",
-      "title": "NVIDIA 与 Microsoft 发布 RTX Spark 及 DGX Station for Windows，推动 AI Agent 落地 Windows PC / NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
-      "title_ja": "NVIDIA と Microsoft が RTX Spark と AI エージェントで Windows PC の新たなスタートを切る",
-      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event",
-      "primary_url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event",
-      "source": "NVIDIA Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "167a38f113a770fc4d3752a7a64939a19b867dac",
-          "title": "NVIDIA 与 Microsoft 发布 RTX Spark 及 DGX Station for Windows，推动 AI Agent 落地 Windows PC / NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
-          "title_zh": "NVIDIA 与 Microsoft 发布 RTX Spark 及 DGX Station for Windows，推动 AI Agent 落地 Windows PC",
-          "title_ja": "NVIDIA と Microsoft が RTX Spark と AI エージェントで Windows PC の新たなスタートを切る",
-          "title_en": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
-          "title_original": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
-          "summary": "NVIDIA 与 Microsoft 在旧金山 Windows AI 和 Surface 活动上宣布为 Windows PC 引入 AI Agent 硬件与软件。",
-          "summary_ja": "NVIDIA と Microsoft は、サンフランシスコで開催された Windows AI および Surface イベントで、Windows PC 用の AI エージェント ハードウェアとソフトウェアの導入を発表しました。",
-          "recommend_reason_zh": null,
-          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event",
-          "source": "NVIDIA Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-07T18:45:28Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "NVIDIA Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "167a38f113a770fc4d3752a7a64939a19b867dac",
-          "title": "NVIDIA 与 Microsoft 发布 RTX Spark 及 DGX Station for Windows，推动 AI Agent 落地 Windows PC / NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
-          "title_zh": "NVIDIA 与 Microsoft 发布 RTX Spark 及 DGX Station for Windows，推动 AI Agent 落地 Windows PC",
-          "title_ja": "NVIDIA と Microsoft が RTX Spark と AI エージェントで Windows PC の新たなスタートを切る",
-          "title_en": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
-          "title_original": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
-          "summary": "NVIDIA 与 Microsoft 在旧金山 Windows AI 和 Surface 活动上宣布为 Windows PC 引入 AI Agent 硬件与软件。",
-          "summary_ja": "NVIDIA と Microsoft は、サンフランシスコで開催された Windows AI および Surface イベントで、Windows PC 用の AI エージェント ハードウェアとソフトウェアの導入を発表しました。",
-          "recommend_reason_zh": null,
-          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event",
-          "source": "NVIDIA Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-07T18:45:28Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.763,
-      "importance": 0.763,
-      "importance_score": 0.763,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9247,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-07T18:45:28Z",
-      "latest_at": "2026-10-07T18:45:28Z",
-      "primary_item": {
-        "id": "167a38f113a770fc4d3752a7a64939a19b867dac",
-        "title": "NVIDIA 与 Microsoft 发布 RTX Spark 及 DGX Station for Windows，推动 AI Agent 落地 Windows PC / NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
-        "title_zh": "NVIDIA 与 Microsoft 发布 RTX Spark 及 DGX Station for Windows，推动 AI Agent 落地 Windows PC",
-        "title_ja": "NVIDIA と Microsoft が RTX Spark と AI エージェントで Windows PC の新たなスタートを切る",
-        "title_en": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
-        "title_original": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
-        "summary": "NVIDIA 与 Microsoft 在旧金山 Windows AI 和 Surface 活动上宣布为 Windows PC 引入 AI Agent 硬件与软件。",
-        "summary_ja": "NVIDIA と Microsoft は、サンフランシスコで開催された Windows AI および Surface イベントで、Windows PC 用の AI エージェント ハードウェアとソフトウェアの導入を発表しました。",
-        "recommend_reason_zh": null,
-        "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event",
-        "source": "NVIDIA Blog（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-08T00:12:32.849673Z"
+        "scored_at": "2026-10-08T06:00:30.530264Z"
       }
     },
     {
@@ -1366,16 +1546,16 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7627,
-      "importance": 0.7627,
-      "importance_score": 0.7627,
+      "score": 0.7501,
+      "importance": 0.7501,
+      "importance_score": 0.7501,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.873,
+        "recency": 0.8029,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1403,7 +1583,96 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T00:12:32.849673Z"
+        "scored_at": "2026-10-08T06:00:30.530264Z"
+      }
+    },
+    {
+      "story_id": "story_3dab97b43266",
+      "title": "NVIDIA 与 Microsoft 发布 RTX Spark 及 DGX Station for Windows，推动 AI Agent 落地 Windows PC / NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
+      "title_ja": "NVIDIA と Microsoft が RTX Spark と AI エージェントで Windows PC の新たなスタートを切る",
+      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event",
+      "primary_url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event",
+      "source": "NVIDIA Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "167a38f113a770fc4d3752a7a64939a19b867dac",
+          "title": "NVIDIA 与 Microsoft 发布 RTX Spark 及 DGX Station for Windows，推动 AI Agent 落地 Windows PC / NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
+          "title_zh": "NVIDIA 与 Microsoft 发布 RTX Spark 及 DGX Station for Windows，推动 AI Agent 落地 Windows PC",
+          "title_ja": "NVIDIA と Microsoft が RTX Spark と AI エージェントで Windows PC の新たなスタートを切る",
+          "title_en": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
+          "title_original": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
+          "summary": "NVIDIA 与 Microsoft 在旧金山 Windows AI 和 Surface 活动上宣布为 Windows PC 引入 AI Agent 硬件与软件。",
+          "summary_ja": "NVIDIA と Microsoft は、サンフランシスコで開催された Windows AI および Surface イベントで、Windows PC 用の AI エージェント ハードウェアとソフトウェアの導入を発表しました。",
+          "recommend_reason_zh": null,
+          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event",
+          "source": "NVIDIA Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-07T18:45:28Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "NVIDIA Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "167a38f113a770fc4d3752a7a64939a19b867dac",
+          "title": "NVIDIA 与 Microsoft 发布 RTX Spark 及 DGX Station for Windows，推动 AI Agent 落地 Windows PC / NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
+          "title_zh": "NVIDIA 与 Microsoft 发布 RTX Spark 及 DGX Station for Windows，推动 AI Agent 落地 Windows PC",
+          "title_ja": "NVIDIA と Microsoft が RTX Spark と AI エージェントで Windows PC の新たなスタートを切る",
+          "title_en": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
+          "title_original": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
+          "summary": "NVIDIA 与 Microsoft 在旧金山 Windows AI 和 Surface 活动上宣布为 Windows PC 引入 AI Agent 硬件与软件。",
+          "summary_ja": "NVIDIA と Microsoft は、サンフランシスコで開催された Windows AI および Surface イベントで、Windows PC 用の AI エージェント ハードウェアとソフトウェアの導入を発表しました。",
+          "recommend_reason_zh": null,
+          "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event",
+          "source": "NVIDIA Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-07T18:45:28Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7497,
+      "importance": 0.7497,
+      "importance_score": 0.7497,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8505,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-07T18:45:28Z",
+      "latest_at": "2026-10-07T18:45:28Z",
+      "primary_item": {
+        "id": "167a38f113a770fc4d3752a7a64939a19b867dac",
+        "title": "NVIDIA 与 Microsoft 发布 RTX Spark 及 DGX Station for Windows，推动 AI Agent 落地 Windows PC / NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
+        "title_zh": "NVIDIA 与 Microsoft 发布 RTX Spark 及 DGX Station for Windows，推动 AI Agent 落地 Windows PC",
+        "title_ja": "NVIDIA と Microsoft が RTX Spark と AI エージェントで Windows PC の新たなスタートを切る",
+        "title_en": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
+        "title_original": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
+        "summary": "NVIDIA 与 Microsoft 在旧金山 Windows AI 和 Surface 活动上宣布为 Windows PC 引入 AI Agent 硬件与软件。",
+        "summary_ja": "NVIDIA と Microsoft は、サンフランシスコで開催された Windows AI および Surface イベントで、Windows PC 用の AI エージェント ハードウェアとソフトウェアの導入を発表しました。",
+        "recommend_reason_zh": null,
+        "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event",
+        "source": "NVIDIA Blog（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-08T06:00:30.530264Z"
       }
     },
     {
@@ -1456,22 +1725,21 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7611,
-      "importance": 0.7611,
-      "importance_score": 0.7611,
+      "score": 0.7477,
+      "importance": 0.7477,
+      "importance_score": 0.7477,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9307,
+        "recency": 0.856,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-07T19:12:16Z",
       "latest_at": "2026-10-07T19:12:16Z",
@@ -1493,7 +1761,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T00:12:32.849673Z"
+        "scored_at": "2026-10-08T06:00:30.530264Z"
       }
     },
     {
@@ -1546,22 +1814,21 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7521,
-      "importance": 0.7521,
-      "importance_score": 0.7521,
+      "score": 0.7396,
+      "importance": 0.7396,
+      "importance_score": 0.7396,
       "importance_label": "行业动态",
       "importance_label_ja": "業界動向",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8637,
+        "recency": 0.7943,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-07T14:01:44Z",
       "latest_at": "2026-10-07T14:01:44Z",
@@ -1583,365 +1850,97 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T00:12:32.849673Z"
+        "scored_at": "2026-10-08T06:00:30.530264Z"
       }
     },
     {
-      "story_id": "story_e4350e8ce423",
-      "title": "Cursor 公布 Claude Haiku 5.5 定价并下调 Claude Sonnet 5.5 缓存读取价格 / Claude Haiku 5.5 is priced at $0.10/M input and $0.50/M output tokens, or $0.50/M and $2.50/M above 100k input tokens.",
-      "title_ja": "Claude Haiku 5.5 の価格は、入力トークンが 0.10 ドル/M、出力トークンが 0.50 ドル/M、または入力トークンが 100,000 を超える場合は、0.50 ドル/M と 2.50 ドル/M です。",
-      "url": "https://x.com/cursor_ai/status/2107897257651769464",
-      "primary_url": "https://x.com/cursor_ai/status/2107897257651769464",
-      "source": "X：Cursor (@cursor_ai)",
-      "source_name": "AI HOT",
+      "story_id": "story_82e34aba148b",
+      "title": "Anthropic 重磅发布 Claude Haiku 5.5！价格暴降 90% 但面临隐性成本",
+      "title_ja": "Anthropic が Claude Haiku 5.5 をリリースしました!価格は90％下落するも、隠れたコストに直面する",
+      "url": "https://www.aibase.com/news/31467",
+      "primary_url": "https://www.aibase.com/news/31467",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "53355e489f229621f1e8889e7bc47861aa900a2a",
-          "title": "Cursor 公布 Claude Haiku 5.5 定价并下调 Claude Sonnet 5.5 缓存读取价格 / Claude Haiku 5.5 is priced at $0.10/M input and $0.50/M output tokens, or $0.50/M and $2.50/M above 100k input tokens.",
-          "title_zh": "Cursor 公布 Claude Haiku 5.5 定价并下调 Claude Sonnet 5.5 缓存读取价格",
-          "title_ja": "Claude Haiku 5.5 の価格は、入力トークンが 0.10 ドル/M、出力トークンが 0.50 ドル/M、または入力トークンが 100,000 を超える場合は、0.50 ドル/M と 2.50 ドル/M です。",
-          "title_en": "Claude Haiku 5.5 is priced at $0.10/M input and $0.50/M output tokens, or $0.50/M and $2.50/M above 100k input tokens.",
-          "title_original": "Claude Haiku 5.5 is priced at $0.10/M input and $0.50/M output tokens, or $0.50/M and $2.50/M above 100k input tokens.",
-          "summary": "Cursor 公布 Claude Haiku 5.5 定价为每 M 输入 token $0.10、输出 token $0.50，输入超过 100k token 时为 $0.50/M 和 $2.50/M。Claude Sonnet 5.5 缓存读取价格也从 $0.20/M 降至 $0.10/M，用户可在 cursor.com/evals 上通过 CursorBench 对比 Haiku 5.5 的表现。",
-          "summary_ja": "Cursor は、Claude Haiku 5.5 の価格が M 入力トークンあたり 0.10 ドル、M 出力トークンあたり 0.50 ドルであると発表しました。入力が 100,000 トークンを超えると、0.50 ドル/M および 2.50 ドル/M になります。 Claude Sonnet 5.5 のキャッシュ読み取り価格も、0.20 ドル/M から 0.10 ドル/M に値下げされました。ユーザーは、cursor.com/evals にある CursorBench を通じて Haiku 5.5 のパフォーマンスを比較できます。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/cursor_ai/status/2107897257651769464",
-          "source": "X：Cursor (@cursor_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-07T18:14:03Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Cursor (@cursor_ai)"
-      ],
-      "items": [
-        {
-          "id": "53355e489f229621f1e8889e7bc47861aa900a2a",
-          "title": "Cursor 公布 Claude Haiku 5.5 定价并下调 Claude Sonnet 5.5 缓存读取价格 / Claude Haiku 5.5 is priced at $0.10/M input and $0.50/M output tokens, or $0.50/M and $2.50/M above 100k input tokens.",
-          "title_zh": "Cursor 公布 Claude Haiku 5.5 定价并下调 Claude Sonnet 5.5 缓存读取价格",
-          "title_ja": "Claude Haiku 5.5 の価格は、入力トークンが 0.10 ドル/M、出力トークンが 0.50 ドル/M、または入力トークンが 100,000 を超える場合は、0.50 ドル/M と 2.50 ドル/M です。",
-          "title_en": "Claude Haiku 5.5 is priced at $0.10/M input and $0.50/M output tokens, or $0.50/M and $2.50/M above 100k input tokens.",
-          "title_original": "Claude Haiku 5.5 is priced at $0.10/M input and $0.50/M output tokens, or $0.50/M and $2.50/M above 100k input tokens.",
-          "summary": "Cursor 公布 Claude Haiku 5.5 定价为每 M 输入 token $0.10、输出 token $0.50，输入超过 100k token 时为 $0.50/M 和 $2.50/M。Claude Sonnet 5.5 缓存读取价格也从 $0.20/M 降至 $0.10/M，用户可在 cursor.com/evals 上通过 CursorBench 对比 Haiku 5.5 的表现。",
-          "summary_ja": "Cursor は、Claude Haiku 5.5 の価格が M 入力トークンあたり 0.10 ドル、M 出力トークンあたり 0.50 ドルであると発表しました。入力が 100,000 トークンを超えると、0.50 ドル/M および 2.50 ドル/M になります。 Claude Sonnet 5.5 のキャッシュ読み取り価格も、0.20 ドル/M から 0.10 ドル/M に値下げされました。ユーザーは、cursor.com/evals にある CursorBench を通じて Haiku 5.5 のパフォーマンスを比較できます。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/cursor_ai/status/2107897257651769464",
-          "source": "X：Cursor (@cursor_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-07T18:14:03Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7498,
-      "importance": 0.7498,
-      "importance_score": 0.7498,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9177,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-07T18:14:03Z",
-      "latest_at": "2026-10-07T18:14:03Z",
-      "primary_item": {
-        "id": "53355e489f229621f1e8889e7bc47861aa900a2a",
-        "title": "Cursor 公布 Claude Haiku 5.5 定价并下调 Claude Sonnet 5.5 缓存读取价格 / Claude Haiku 5.5 is priced at $0.10/M input and $0.50/M output tokens, or $0.50/M and $2.50/M above 100k input tokens.",
-        "title_zh": "Cursor 公布 Claude Haiku 5.5 定价并下调 Claude Sonnet 5.5 缓存读取价格",
-        "title_ja": "Claude Haiku 5.5 の価格は、入力トークンが 0.10 ドル/M、出力トークンが 0.50 ドル/M、または入力トークンが 100,000 を超える場合は、0.50 ドル/M と 2.50 ドル/M です。",
-        "title_en": "Claude Haiku 5.5 is priced at $0.10/M input and $0.50/M output tokens, or $0.50/M and $2.50/M above 100k input tokens.",
-        "title_original": "Claude Haiku 5.5 is priced at $0.10/M input and $0.50/M output tokens, or $0.50/M and $2.50/M above 100k input tokens.",
-        "summary": "Cursor 公布 Claude Haiku 5.5 定价为每 M 输入 token $0.10、输出 token $0.50，输入超过 100k token 时为 $0.50/M 和 $2.50/M。Claude Sonnet 5.5 缓存读取价格也从 $0.20/M 降至 $0.10/M，用户可在 cursor.com/evals 上通过 CursorBench 对比 Haiku 5.5 的表现。",
-        "summary_ja": "Cursor は、Claude Haiku 5.5 の価格が M 入力トークンあたり 0.10 ドル、M 出力トークンあたり 0.50 ドルであると発表しました。入力が 100,000 トークンを超えると、0.50 ドル/M および 2.50 ドル/M になります。 Claude Sonnet 5.5 のキャッシュ読み取り価格も、0.20 ドル/M から 0.10 ドル/M に値下げされました。ユーザーは、cursor.com/evals にある CursorBench を通じて Haiku 5.5 のパフォーマンスを比較できます。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/cursor_ai/status/2107897257651769464",
-        "source": "X：Cursor (@cursor_ai)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-08T00:12:32.849673Z"
-      }
-    },
-    {
-      "story_id": "story_2ff342ef8210",
-      "title": "GPT-6 Luna Decisions 上架 OpenRouter / GPT-6 Luna Decisions is now on OpenRouter",
-      "title_ja": "GPT-6 Luna Decisions が OpenRouter に登場",
-      "url": "https://x.com/OpenRouter/status/2107929204142874759",
-      "primary_url": "https://x.com/OpenRouter/status/2107929204142874759",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5f6ad1411daca1cfdaa088277b17c6467c921709",
-          "title": "GPT-6 Luna Decisions 上架 OpenRouter / GPT-6 Luna Decisions is now on OpenRouter",
-          "title_zh": "GPT-6 Luna Decisions 上架 OpenRouter",
-          "title_ja": "GPT-6 Luna Decisions が OpenRouter に登場",
-          "title_en": "GPT-6 Luna Decisions is now on OpenRouter",
-          "title_original": "GPT-6 Luna Decisions is now on OpenRouter",
-          "summary": "OpenRouter 宣布 GPT-6 Luna Decisions 上线。OpenAI 的 Decisions API 可让应用选择合适的模型、工具或动作，支持发送文本、JSON 或图片并返回带概率的类型化答案。定价为输入 $0.10/M、输出免费，上下文 1M；引用 OpenAI 开发者账号称其决策速度比通过 Responses API 的 GPT-6 Luna 最快 10 倍。",
-          "summary_ja": "OpenRouter は、GPT-6 Luna Decisions の利用可能性を発表しました。 OpenAI の Decisions API を使用すると、アプリケーションは適切なモデル、ツール、またはアクションを選択し、テキスト、JSON、または画像を送信し、確率とともに入力された回答を返すことができます。価格は入力が $0.10/M、出力が無料、コンテキストが 1M です。 OpenAI 開発者アカウントを引用すると、Responses API を使用した意思決定速度は GPT-6 Luna よりも 10 倍高速です。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/OpenRouter/status/2107929204142874759",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-07T20:21:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenRouter (@OpenRouter)"
-      ],
-      "items": [
-        {
-          "id": "5f6ad1411daca1cfdaa088277b17c6467c921709",
-          "title": "GPT-6 Luna Decisions 上架 OpenRouter / GPT-6 Luna Decisions is now on OpenRouter",
-          "title_zh": "GPT-6 Luna Decisions 上架 OpenRouter",
-          "title_ja": "GPT-6 Luna Decisions が OpenRouter に登場",
-          "title_en": "GPT-6 Luna Decisions is now on OpenRouter",
-          "title_original": "GPT-6 Luna Decisions is now on OpenRouter",
-          "summary": "OpenRouter 宣布 GPT-6 Luna Decisions 上线。OpenAI 的 Decisions API 可让应用选择合适的模型、工具或动作，支持发送文本、JSON 或图片并返回带概率的类型化答案。定价为输入 $0.10/M、输出免费，上下文 1M；引用 OpenAI 开发者账号称其决策速度比通过 Responses API 的 GPT-6 Luna 最快 10 倍。",
-          "summary_ja": "OpenRouter は、GPT-6 Luna Decisions の利用可能性を発表しました。 OpenAI の Decisions API を使用すると、アプリケーションは適切なモデル、ツール、またはアクションを選択し、テキスト、JSON、または画像を送信し、確率とともに入力された回答を返すことができます。価格は入力が $0.10/M、出力が無料、コンテキストが 1M です。 OpenAI 開発者アカウントを引用すると、Responses API を使用した意思決定速度は GPT-6 Luna よりも 10 倍高速です。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/OpenRouter/status/2107929204142874759",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-07T20:21:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7399,
-      "importance": 0.7399,
-      "importance_score": 0.7399,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9462,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-07T20:21:00Z",
-      "latest_at": "2026-10-07T20:21:00Z",
-      "primary_item": {
-        "id": "5f6ad1411daca1cfdaa088277b17c6467c921709",
-        "title": "GPT-6 Luna Decisions 上架 OpenRouter / GPT-6 Luna Decisions is now on OpenRouter",
-        "title_zh": "GPT-6 Luna Decisions 上架 OpenRouter",
-        "title_ja": "GPT-6 Luna Decisions が OpenRouter に登場",
-        "title_en": "GPT-6 Luna Decisions is now on OpenRouter",
-        "title_original": "GPT-6 Luna Decisions is now on OpenRouter",
-        "summary": "OpenRouter 宣布 GPT-6 Luna Decisions 上线。OpenAI 的 Decisions API 可让应用选择合适的模型、工具或动作，支持发送文本、JSON 或图片并返回带概率的类型化答案。定价为输入 $0.10/M、输出免费，上下文 1M；引用 OpenAI 开发者账号称其决策速度比通过 Responses API 的 GPT-6 Luna 最快 10 倍。",
-        "summary_ja": "OpenRouter は、GPT-6 Luna Decisions の利用可能性を発表しました。 OpenAI の Decisions API を使用すると、アプリケーションは適切なモデル、ツール、またはアクションを選択し、テキスト、JSON、または画像を送信し、確率とともに入力された回答を返すことができます。価格は入力が $0.10/M、出力が無料、コンテキストが 1M です。 OpenAI 開発者アカウントを引用すると、Responses API を使用した意思決定速度は GPT-6 Luna よりも 10 倍高速です。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/OpenRouter/status/2107929204142874759",
-        "source": "X：OpenRouter (@OpenRouter)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-08T00:12:32.849673Z"
-      }
-    },
-    {
-      "story_id": "story_63ffa7f8acf5",
-      "title": "Microsoft Research Asia 开源 Agent Lightning v1.0：3,500 行代码的真实 harness 智能体 RL 训练框架 / Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
-      "title_ja": "Agent Lightning v1.0: 実際のハーネスを使用してエージェントをトレーニングするための 3,500 行の軽量エージェント RL フレームワーク",
-      "url": "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses",
-      "primary_url": "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses",
-      "source": "Microsoft Research 博客（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "74ccba7acc445f10a7295fa2758bf445780c47b6",
-          "title": "Microsoft Research Asia 开源 Agent Lightning v1.0：3,500 行代码的真实 harness 智能体 RL 训练框架 / Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
-          "title_zh": "Microsoft Research Asia 开源 Agent Lightning v1.0：3,500 行代码的真实 harness 智能体 RL 训练框架",
-          "title_ja": "Agent Lightning v1.0: 実際のハーネスを使用してエージェントをトレーニングするための 3,500 行の軽量エージェント RL フレームワーク",
-          "title_en": "Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
-          "title_original": "Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
-          "summary": "Microsoft Research Asia 提出 Harnessed Agentic RL 训练范式并开源重建的 Agent Lightning v1.0，让部署时使用的同一 agent harness 直接参与强化学习，无需在训练框架内重写 agent。",
-          "summary_ja": "Microsoft Research Asia は、Harnessed Agentic RL トレーニング パラダイムを提案し、再構築された Agent Lightning v1.0 をオープンソース化しました。これにより、トレーニング フレームワーク内でエージェントを書き直すことなく、展開時に使用されたのと同じエージェント ハーネスを強化学習に直接参加できるようになります。",
-          "recommend_reason_zh": null,
-          "url": "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses",
-          "source": "Microsoft Research 博客（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-07T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Microsoft Research 博客（RSS）"
-      ],
-      "items": [
-        {
-          "id": "74ccba7acc445f10a7295fa2758bf445780c47b6",
-          "title": "Microsoft Research Asia 开源 Agent Lightning v1.0：3,500 行代码的真实 harness 智能体 RL 训练框架 / Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
-          "title_zh": "Microsoft Research Asia 开源 Agent Lightning v1.0：3,500 行代码的真实 harness 智能体 RL 训练框架",
-          "title_ja": "Agent Lightning v1.0: 実際のハーネスを使用してエージェントをトレーニングするための 3,500 行の軽量エージェント RL フレームワーク",
-          "title_en": "Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
-          "title_original": "Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
-          "summary": "Microsoft Research Asia 提出 Harnessed Agentic RL 训练范式并开源重建的 Agent Lightning v1.0，让部署时使用的同一 agent harness 直接参与强化学习，无需在训练框架内重写 agent。",
-          "summary_ja": "Microsoft Research Asia は、Harnessed Agentic RL トレーニング パラダイムを提案し、再構築された Agent Lightning v1.0 をオープンソース化しました。これにより、トレーニング フレームワーク内でエージェントを書き直すことなく、展開時に使用されたのと同じエージェント ハーネスを強化学習に直接参加できるようになります。",
-          "recommend_reason_zh": null,
-          "url": "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses",
-          "source": "Microsoft Research 博客（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-07T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7385,
-      "importance": 0.7385,
-      "importance_score": 0.7385,
-      "importance_label": "行业动态",
-      "importance_label_ja": "業界動向",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8886,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-07T16:00:00Z",
-      "latest_at": "2026-10-07T16:00:00Z",
-      "primary_item": {
-        "id": "74ccba7acc445f10a7295fa2758bf445780c47b6",
-        "title": "Microsoft Research Asia 开源 Agent Lightning v1.0：3,500 行代码的真实 harness 智能体 RL 训练框架 / Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
-        "title_zh": "Microsoft Research Asia 开源 Agent Lightning v1.0：3,500 行代码的真实 harness 智能体 RL 训练框架",
-        "title_ja": "Agent Lightning v1.0: 実際のハーネスを使用してエージェントをトレーニングするための 3,500 行の軽量エージェント RL フレームワーク",
-        "title_en": "Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
-        "title_original": "Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
-        "summary": "Microsoft Research Asia 提出 Harnessed Agentic RL 训练范式并开源重建的 Agent Lightning v1.0，让部署时使用的同一 agent harness 直接参与强化学习，无需在训练框架内重写 agent。",
-        "summary_ja": "Microsoft Research Asia は、Harnessed Agentic RL トレーニング パラダイムを提案し、再構築された Agent Lightning v1.0 をオープンソース化しました。これにより、トレーニング フレームワーク内でエージェントを書き直すことなく、展開時に使用されたのと同じエージェント ハーネスを強化学習に直接参加できるようになります。",
-        "recommend_reason_zh": null,
-        "url": "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses",
-        "source": "Microsoft Research 博客（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-08T00:12:32.849673Z"
-      }
-    },
-    {
-      "story_id": "story_a5dc5a4d2dcb",
-      "title": "用于泄露秘密检测的专用模型 / Purpose-built model for leaked secret detection",
-      "title_ja": "漏洩した秘密の検出専用のモデル",
-      "url": "https://github.blog/changelog/2026-10-07-purpose-built-model-for-leaked-secret-detection",
-      "primary_url": "https://github.blog/changelog/2026-10-07-purpose-built-model-for-leaked-secret-detection",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "6ee63ce2297e3b1235a0088ed54c15b30891ac18",
-          "title": "用于泄露秘密检测的专用模型 / Purpose-built model for leaked secret detection",
-          "title_zh": "用于泄露秘密检测的专用模型",
-          "title_ja": "漏洩した秘密の検出専用のモデル",
-          "title_en": "Purpose-built model for leaked secret detection",
-          "title_original": "Purpose-built model for leaked secret detection",
+          "id": "8ce647e2abcfc95f104ef55327c8bdf80dee6afd",
+          "title": "Anthropic 重磅发布 Claude Haiku 5.5！价格暴降 90% 但面临隐性成本",
+          "title_zh": "Anthropic 重磅发布 Claude Haiku 5.5！价格暴降 90% 但面临隐性成本",
+          "title_ja": "Anthropic が Claude Haiku 5.5 をリリースしました!価格は90％下落するも、隠れたコストに直面する",
+          "title_en": null,
+          "title_original": "Anthropic 重磅发布 Claude Haiku 5.5！价格暴降 90% 但面临隐性成本",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-07-purpose-built-model-for-leaked-secret-detection",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T16:13:56Z"
+          "url": "https://www.aibase.com/news/31467",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-08T05:58:27.205065Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "6ee63ce2297e3b1235a0088ed54c15b30891ac18",
-          "title": "用于泄露秘密检测的专用模型 / Purpose-built model for leaked secret detection",
-          "title_zh": "用于泄露秘密检测的专用模型",
-          "title_ja": "漏洩した秘密の検出専用のモデル",
-          "title_en": "Purpose-built model for leaked secret detection",
-          "title_original": "Purpose-built model for leaked secret detection",
+          "id": "8ce647e2abcfc95f104ef55327c8bdf80dee6afd",
+          "title": "Anthropic 重磅发布 Claude Haiku 5.5！价格暴降 90% 但面临隐性成本",
+          "title_zh": "Anthropic 重磅发布 Claude Haiku 5.5！价格暴降 90% 但面临隐性成本",
+          "title_ja": "Anthropic が Claude Haiku 5.5 をリリースしました!価格は90％下落するも、隠れたコストに直面する",
+          "title_en": null,
+          "title_original": "Anthropic 重磅发布 Claude Haiku 5.5！价格暴降 90% 但面临隐性成本",
           "summary": null,
           "summary_ja": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-07-purpose-built-model-for-leaked-secret-detection",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T16:13:56Z"
+          "url": "https://www.aibase.com/news/31467",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-08T05:58:27.205065Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8245,
-      "importance": 0.8245,
-      "importance_score": 0.8245,
-      "importance_label": "官方更新",
-      "importance_label_ja": "公式アップデート",
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_label_ja": "業界動向",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8916,
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-07T16:13:56Z",
-      "latest_at": "2026-10-07T16:13:56Z",
+      "earliest_at": "2026-10-08T05:58:27.205065Z",
+      "latest_at": "2026-10-08T05:58:27.205065Z",
       "primary_item": {
-        "id": "6ee63ce2297e3b1235a0088ed54c15b30891ac18",
-        "title": "用于泄露秘密检测的专用模型 / Purpose-built model for leaked secret detection",
-        "title_zh": "用于泄露秘密检测的专用模型",
-        "title_ja": "漏洩した秘密の検出専用のモデル",
-        "title_en": "Purpose-built model for leaked secret detection",
-        "title_original": "Purpose-built model for leaked secret detection",
+        "id": "8ce647e2abcfc95f104ef55327c8bdf80dee6afd",
+        "title": "Anthropic 重磅发布 Claude Haiku 5.5！价格暴降 90% 但面临隐性成本",
+        "title_zh": "Anthropic 重磅发布 Claude Haiku 5.5！价格暴降 90% 但面临隐性成本",
+        "title_ja": "Anthropic が Claude Haiku 5.5 をリリースしました!価格は90％下落するも、隠れたコストに直面する",
+        "title_en": null,
+        "title_original": "Anthropic 重磅发布 Claude Haiku 5.5！价格暴降 90% 但面临隐性成本",
         "summary": null,
         "summary_ja": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-07-purpose-built-model-for-leaked-secret-detection",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "url": "https://www.aibase.com/news/31467",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T00:12:32.849673Z"
+        "scored_at": "2026-10-08T06:00:30.530264Z"
       }
     }
   ]
